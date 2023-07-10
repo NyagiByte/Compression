@@ -6,8 +6,18 @@ hash = "5bc94b5e44e939378d97503e62fa1167975fd4da168dc714349f2c7ef39467c7"
 metafile = true
 
 [[files]]
+file = "mods/alchemylib.pw.toml"
+hash = "1eaf53a2c280e1ca07ac34dbf07529a02d7aa8d468b9415da2d8fd1f929f2f1d"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
+metafile = true
+
+[[files]]
+file = "mods/chemlib.pw.toml"
+hash = "0b9c7d96f3c8f7684abdc497af19b5ec0cc11e43b382d8179e5f24ba1f2e953e"
 metafile = true
 
 [[files]]

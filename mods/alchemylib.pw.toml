@@ -1,0 +1,13 @@
+name = "AlchemyLib"
+filename = "alchemylib-1.19.2-1.0.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ffc67b87438005fd2b5c52d88b5e0e159eeca05"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4529024
+project-id = 293426
