@@ -61,6 +61,11 @@ file = "mods/3dskinlayers-forge-1.5.2-mc1.19.1.jar"
 hash = "30e7d9018e0ba50dee18cb8a4101c0f139a30b980194179ff486d579c52ae694"
 
 [[files]]
+file = "mods/aiot-botania.pw.toml"
+hash = "723812c4e90ded3d2e5ef2fe09eebe48cf38a68ca87b601ad68b64c7d1b163a1"
+metafile = true
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "1e2db94700eabc46e3562d5b9f4282afdc900513a1ac7d2a219823447c817aa9"
 metafile = true
@@ -81,8 +86,18 @@ hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
 
 [[files]]
+file = "mods/applied-botanics-addon.pw.toml"
+hash = "73cf97348874724f2b0891f5fe663eaed8dc510e0e8f869c49bde79eacd8475c"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "db0a6a9c7d7c84ff18029f21a083e445ace641b6568453ffeddc0c406a6673e9"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "f61a1570bc5af4372483bb4eb5172c82d0590b80c603d5dab19117eae84a4d17"
 metafile = true
 
 [[files]]
@@ -96,8 +111,28 @@ hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
+metafile = true
+
+[[files]]
+file = "mods/bedrock-miner.pw.toml"
+hash = "79fb38f2314ede2fc4395893151cdc6750b09fd7b4bb4fef490b698b771c30e9"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "b28c3da3ee3ca475f8c79cbc4e8eb2f5fd44ab488bc14bfdf1fc04dc6f6e67c4"
+metafile = true
+
+[[files]]
+file = "mods/bow-infinity-fix.pw.toml"
+hash = "eaad9b0d6649bcb698a5d50bbc1b62d1c4d358948db44e394cd8c7f09c16c3a2"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "8bbefdc705e24ebd5d8c2d39de530d3767def3153d8d364d49a93cdc930bddbc"
 metafile = true
 
 [[files]]
@@ -106,13 +141,48 @@ hash = "0b9c7d96f3c8f7684abdc497af19b5ec0cc11e43b382d8179e5f24ba1f2e953e"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2c3ddac643593c3dec5bdad4a4ee6d10b62430409ee1c558ce3c5cbed9f40700"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "1e962fcff7e64f2346dddb8567f8e40fa336c45c15ea9cd2b4434ade742ba4db"
+metafile = true
+
+[[files]]
 file = "mods/compact-machines.pw.toml"
 hash = "53d2af852bfd91938b19c1c25a9678ce2cb34f09494514f44fa0e59313e8eab6"
 metafile = true
 
 [[files]]
+file = "mods/compressedcreativity.pw.toml"
+hash = "a840f125eb801e899c969ae883619e0de201ebaf600b372e0ae1bad10ea36edd"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "97575aefd081117027b3ac2c24bf7a56b927b41c9f724d91b0eb42442236b4f6"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "e79c0c7ce7d67628a19b74480d9d3fe0dfd2bf1cbb5505d167f033815c3d84a7"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "c98b92c96eb546872a0d203969ddba29a17f6ab0e57ff93081d81a138562e8b7"
+metafile = true
+
+[[files]]
+file = "mods/create-chromaticreturn.pw.toml"
+hash = "f52ecab82a94b7fa88c7b443837ad44c4695040df373055f101ebaf561095d99"
+metafile = true
+
+[[files]]
+file = "mods/create-chunkloading.pw.toml"
+hash = "dc75cafc8c3f01ae11ec938ff44ca39e898d8667f0467a9fdfe80d2750c41c4d"
 metafile = true
 
 [[files]]
@@ -131,8 +201,23 @@ hash = "d3c31266b05d3af9cf5da2c53053665b9baf79c3c773e677d3984a95ea436efa"
 metafile = true
 
 [[files]]
+file = "mods/entangled.pw.toml"
+hash = "f21424aadd640eec42af49d49bbfa4144feeccacf2a30a46ab6c16f2577e798d"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "fc61146eab089feb4f979289ba3aca698b538aa5bd3eba5f18ac0c80090c589f"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "da09edd338fa641d7eee1b96ecc2cc5e6dc9d299c68da33741b3b81854a551ef"
+metafile = true
+
+[[files]]
+file = "mods/forgiving-void.pw.toml"
+hash = "69c5c1b59f9a5946cbcea6e4cfb318af9bdb43d5a24a86391f1c34b1ca845b58"
 metafile = true
 
 [[files]]
@@ -146,8 +231,18 @@ hash = "bf80e695ea335a9cf754b49c14851173f26067d48a3fe659b03047208aa3e60a"
 metafile = true
 
 [[files]]
+file = "mods/i-know-what-im-doing.pw.toml"
+hash = "687f90e3c790276061dc752836ef17323e1c4f0d182d3d5807f07588c50038d9"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "632cc987bec151520dd5636f1152c7b7af67403a5957adfdcc6d3c2e4d39ac79"
+metafile = true
+
+[[files]]
+file = "mods/ironchests.pw.toml"
+hash = "946256eae11e1cff069aef2c7fdd2587d5f66226c4a4d7382a296c0a500895f6"
 metafile = true
 
 [[files]]
@@ -156,13 +251,38 @@ hash = "52afe64a215ec7a20a2424de639020369e5d25fad69ede02a700edde08dd81db"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-botania.pw.toml"
+hash = "a518653b7bf6d538b0c3e9181bb30fb11ff58de3086def1e1c1546de373b80ed"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "b031093f843c1f7d382d41750bccb584f7b2022bb294eb5b3f84c0b6f60c0418"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-thermal.pw.toml"
+hash = "bdbf1baa54176fbdcf5258e0c09212cdb760fee8bd72515576a865120f19f453"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "fc1d144633d760ad8d000ebf2c9463243c02491aaf9bedc5e8900403bb9afca8"
 metafile = true
 
 [[files]]
+file = "mods/mega-cells.pw.toml"
+hash = "b9a5d3eb9124b3e932746bd288233f2eabd72cf9b8e99a6bd453dd0d042deab0"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "f6cc47777418eada79b50d6cdd57bd6dc35017f8e46defd5e888a2d6215be0e1"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
 metafile = true
 
 [[files]]
@@ -176,6 +296,11 @@ hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
 metafile = true
 
 [[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "a9fa88c30a625b07cd38435bf14c0233dddf59e24dd049a9a696a587eab162e9"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "3ef9dc22d90a53d4b20b1b26190d58b21a2639b8b20f7d295de4ea3b03e13f30"
 metafile = true
@@ -186,8 +311,33 @@ hash = "a5b1cff7c66d98ad0d0c53903bdc5b802b4036268e56d9342a708274435343f8"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "37bd46aee9f110535261d6ff6c0f1ad7cdc6a38740120896209a92b2f27b20bc"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "1672dd487a25a13e47cfdc585a25da353b86c64b1a846c54993568c04c3bfee9"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "354bbfa82fb4018eb6d6d4b9c5a4846161dcd073e85010c936d3d96e454ece5c"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "03d01c3265a0040a070f44db6e4b5ef2f90bbace86a01d1bcf9706b26fe4dd9a"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "453855eca691e5b0c2502517bc5fcd60aaeb9645c4a45f3af2e456135ed347af"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-style-construction-wands.pw.toml"
+hash = "d3556729799d5ba22f4c5e9437cb81680b383affec16b9173590e03cd02f4c5b"
 metafile = true
 
 [[files]]

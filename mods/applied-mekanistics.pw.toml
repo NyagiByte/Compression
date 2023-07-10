@@ -1,0 +1,13 @@
+name = "Applied Mekanistics"
+filename = "Applied-Mekanistics-1.3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d87325adc5a7eaec26c8309e16f55600b6581e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4380709
+project-id = 574300

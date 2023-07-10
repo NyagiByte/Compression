@@ -1,0 +1,13 @@
+name = "I Know What I'm Doing (IKWID)"
+filename = "IKnowWhatImDoing-5.1.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "629df915cda64dcab803099d7c646cd4b875f8cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3912390
+project-id = 271492
