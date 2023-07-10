@@ -1,0 +1,13 @@
+name = "Compact Machines"
+filename = "compactmachines-5.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d4fdeabe79e51572e47c63686e571c43a7aa970"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3907274
+project-id = 224218
