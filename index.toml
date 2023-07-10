@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alchemistry.pw.toml"
+hash = "5bc94b5e44e939378d97503e62fa1167975fd4da168dc714349f2c7ef39467c7"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
 metafile = true
