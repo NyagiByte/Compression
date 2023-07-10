@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "64a9d79e47475b1eab6fa604ee28cfdca26a006804ca2b2bb8d28aab782da67a"
 metafile = true
@@ -13,4 +18,14 @@ metafile = true
 [[files]]
 file = "mods/hexlands-ii.pw.toml"
 hash = "bf80e695ea335a9cf754b49c14851173f26067d48a3fe659b03047208aa3e60a"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "fc1d144633d760ad8d000ebf2c9463243c02491aaf9bedc5e8900403bb9afca8"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "a5b1cff7c66d98ad0d0c53903bdc5b802b4036268e56d9342a708274435343f8"
 metafile = true
