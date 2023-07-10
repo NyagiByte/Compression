@@ -1,0 +1,13 @@
+name = "HexLands II"
+filename = "hexlands-forge-1.19.2-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "487a051f33e2bf2c983ec79945aeaf8902e16539"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4361666
+project-id = 522216
