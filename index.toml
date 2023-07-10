@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "1e2db94700eabc46e3562d5b9f4282afdc900513a1ac7d2a219823447c817aa9"
+metafile = true
+
+[[files]]
 file = "mods/alchemistry.pw.toml"
 hash = "5bc94b5e44e939378d97503e62fa1167975fd4da168dc714349f2c7ef39467c7"
 metafile = true
@@ -11,6 +16,11 @@ hash = "1eaf53a2c280e1ca07ac34dbf07529a02d7aa8d468b9415da2d8fd1f929f2f1d"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "db0a6a9c7d7c84ff18029f21a083e445ace641b6568453ffeddc0c406a6673e9"
 metafile = true
@@ -18,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
 metafile = true
 
 [[files]]
@@ -71,6 +86,11 @@ hash = "632cc987bec151520dd5636f1152c7b7af67403a5957adfdcc6d3c2e4d39ac79"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "52afe64a215ec7a20a2424de639020369e5d25fad69ede02a700edde08dd81db"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "fc1d144633d760ad8d000ebf2c9463243c02491aaf9bedc5e8900403bb9afca8"
 metafile = true
@@ -86,6 +106,21 @@ hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "3ef9dc22d90a53d4b20b1b26190d58b21a2639b8b20f7d295de4ea3b03e13f30"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "a5b1cff7c66d98ad0d0c53903bdc5b802b4036268e56d9342a708274435343f8"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "cee442f49af5e7dff8864457075e0bcc87837f2325eb5d2c0a3f9dc1777a4d6a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/darkmode.pw.toml"
+hash = "f6a1b7a70379ed5f3186aed5dd15d96dc6bb4201c2ef91c77262c5cd74660793"
 metafile = true

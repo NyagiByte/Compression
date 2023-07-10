@@ -1,0 +1,13 @@
+name = "Akashic Tome"
+filename = "AkashicTome-1.6-23.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85a87d3362ecba17449e65bad944e12bb43cb37b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4361115
+project-id = 250577

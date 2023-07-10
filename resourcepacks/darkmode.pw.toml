@@ -1,0 +1,13 @@
+name = "Darkmode (100+ Mods supported)"
+filename = "Open Darkmode 2.4.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97a979de24aed05d169969646b9a7ad7883796f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4452554
+project-id = 403506
