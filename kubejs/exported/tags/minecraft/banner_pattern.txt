@@ -1,0 +1,117 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jul 11, 2023, 4:07:47 PM
+
+#botania:pattern_item/dreamwood_twig
+- botania:sapling (from Botania-1.19.2-440-FORGE.jar)
+
+#minecraft:no_item_required
+- minecraft:square_bottom_left (from Default)
+- minecraft:square_bottom_right (from Default)
+- minecraft:square_top_left (from Default)
+- minecraft:square_top_right (from Default)
+- minecraft:stripe_bottom (from Default)
+- minecraft:stripe_top (from Default)
+- minecraft:stripe_left (from Default)
+- minecraft:stripe_right (from Default)
+- minecraft:stripe_center (from Default)
+- minecraft:stripe_middle (from Default)
+- minecraft:stripe_downright (from Default)
+- minecraft:stripe_downleft (from Default)
+- minecraft:small_stripes (from Default)
+- minecraft:cross (from Default)
+- minecraft:straight_cross (from Default)
+- minecraft:triangle_bottom (from Default)
+- minecraft:triangle_top (from Default)
+- minecraft:triangles_bottom (from Default)
+- minecraft:triangles_top (from Default)
+- minecraft:diagonal_left (from Default)
+- minecraft:diagonal_up_right (from Default)
+- minecraft:diagonal_up_left (from Default)
+- minecraft:diagonal_right (from Default)
+- minecraft:circle (from Default)
+- minecraft:rhombus (from Default)
+- minecraft:half_vertical (from Default)
+- minecraft:half_horizontal (from Default)
+- minecraft:half_vertical_right (from Default)
+- minecraft:half_horizontal_bottom (from Default)
+- minecraft:border (from Default)
+- minecraft:curly_border (from Default)
+- minecraft:gradient (from Default)
+- minecraft:gradient_up (from Default)
+- minecraft:bricks (from Default)
+- botania:fish (from Botania-1.19.2-440-FORGE.jar)
+- botania:axe (from Botania-1.19.2-440-FORGE.jar)
+- botania:hoe (from Botania-1.19.2-440-FORGE.jar)
+- botania:pickaxe (from Botania-1.19.2-440-FORGE.jar)
+- botania:shovel (from Botania-1.19.2-440-FORGE.jar)
+- botania:sword (from Botania-1.19.2-440-FORGE.jar)
+
+#minecraft:pattern_item/creeper
+- minecraft:creeper (from Default)
+
+#botania:pattern_item/lexicon
+- botania:lexicon (from Botania-1.19.2-440-FORGE.jar)
+
+#botania:pattern_item/spark_isolated
+- botania:spark_isolated (from Botania-1.19.2-440-FORGE.jar)
+
+#botania:pattern_item/spark_recessive
+- botania:spark_recessive (from Botania-1.19.2-440-FORGE.jar)
+
+#biomancy:pattern_item/mascot
+- biomancy:mascot_base (from biomancy-forge-1.19.2-2.1.11.3.jar)
+- biomancy:mascot_accent (from biomancy-forge-1.19.2-2.1.11.3.jar)
+- biomancy:mascot_outline (from biomancy-forge-1.19.2-2.1.11.3.jar)
+
+#botania:pattern_item/spark_dominant
+- botania:spark_dominant (from Botania-1.19.2-440-FORGE.jar)
+
+#minecraft:pattern_item/skull
+- minecraft:skull (from Default)
+
+#immersiveengineering:wolf_l
+- immersiveengineering:wolf_l (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+
+#botania:pattern_item/spark_dispersive
+- botania:spark_dispersive (from Botania-1.19.2-440-FORGE.jar)
+
+#immersiveengineering:treated_wood
+- immersiveengineering:treated_wood (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+
+#minecraft:pattern_item/piglin
+- minecraft:piglin (from Default)
+
+#immersiveengineering:wolf
+- immersiveengineering:wolf (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+
+#botania:pattern_item/terrasteel
+- botania:logo (from Botania-1.19.2-440-FORGE.jar)
+
+#minecraft:pattern_item/flower
+- minecraft:flower (from Default)
+
+#immersiveengineering:ornate
+- immersiveengineering:ornate (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+
+#immersiveengineering:windmill
+- immersiveengineering:windmill (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+
+#immersiveengineering:hammer
+- immersiveengineering:hammer (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+
+#immersiveengineering:bevels
+- immersiveengineering:bevels (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+
+#minecraft:pattern_item/globe
+- minecraft:globe (from Default)
+
+#botania:pattern_item/tiny_potato
+- botania:tiny_potato (from Botania-1.19.2-440-FORGE.jar)
+
+#immersiveengineering:wolf_r
+- immersiveengineering:wolf_r (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+
+#minecraft:pattern_item/mojang
+- minecraft:mojang (from Default)
+
+#botania:pattern_item/livingwood_twig
+- botania:flower (from Botania-1.19.2-440-FORGE.jar)

@@ -1,0 +1,61 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jul 11, 2023, 4:07:47 PM
+
+#byg:on_ancient_sequoia_explorer_maps
+- byg:ancient_sequoia (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:ocean_ruin
+- minecraft:ocean_ruin_cold (from Default)
+- minecraft:ocean_ruin_warm (from Default)
+
+#minecraft:mineshaft
+- minecraft:mineshaft (from Default)
+- minecraft:mineshaft_mesa (from Default)
+
+#minecraft:on_woodland_explorer_maps
+- minecraft:mansion (from Default)
+
+#minecraft:cats_spawn_in
+- minecraft:swamp_hut (from Default)
+
+#pneumaticcraft:no_oil_lakes
+- #minecraft:village (from pneumaticcraft-repressurized-1.19.2-4.3.5-25.jar)
+
+#minecraft:cats_spawn_as_black
+- minecraft:swamp_hut (from Default)
+
+#quark:soul_bead_target
+- minecraft:fortress (from Quark-3.4-405.jar)
+- betterfortresses:fortress? (from Quark-3.4-405.jar)
+
+#minecraft:shipwreck
+- minecraft:shipwreck (from Default)
+- minecraft:shipwreck_beached (from Default)
+
+#minecraft:on_ocean_explorer_maps
+- minecraft:monument (from Default)
+
+#minecraft:on_treasure_maps
+- minecraft:buried_treasure (from Default)
+
+#minecraft:eye_of_ender_located
+- minecraft:stronghold (from Default)
+
+#minecraft:ruined_portal
+- minecraft:ruined_portal_desert (from Default)
+- minecraft:ruined_portal_jungle (from Default)
+- minecraft:ruined_portal_mountain (from Default)
+- minecraft:ruined_portal_nether (from Default)
+- minecraft:ruined_portal_ocean (from Default)
+- minecraft:ruined_portal (from Default)
+- minecraft:ruined_portal_swamp (from Default)
+
+#minecraft:village
+- minecraft:village_plains (from Default)
+- minecraft:village_desert (from Default)
+- minecraft:village_savanna (from Default)
+- minecraft:village_snowy (from Default)
+- minecraft:village_taiga (from Default)
+
+#minecraft:dolphin_located
+- #minecraft:ocean_ruin (from Default)
+- #minecraft:shipwreck (from Default)

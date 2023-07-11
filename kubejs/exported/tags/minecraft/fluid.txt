@@ -1,0 +1,243 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jul 11, 2023, 4:07:47 PM
+
+#forge:oxygen
+- mekanism:oxygen (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_oxygen (from Mekanism-1.19.2-10.3.8.477.jar)
+
+#minecraft:water
+- minecraft:water (from Default)
+- minecraft:flowing_water (from Default)
+- createchromaticreturn:shadow_essence (from create-chromaticreturn1.19.2_v1.4.2.jar)
+- createchromaticreturn:flowing_shadow_essence (from create-chromaticreturn1.19.2_v1.4.2.jar)
+- createchromaticreturn:refined_mixture (from create-chromaticreturn1.19.2_v1.4.2.jar)
+- createchromaticreturn:flowing_refined_mixture (from create-chromaticreturn1.19.2_v1.4.2.jar)
+
+#forge:biodiesel
+- pneumaticcraft:biodiesel (from pneumaticcraft-repressurized-1.19.2-4.3.5-25.jar)
+- immersiveengineering:biodiesel (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+
+#forge:milk
+- minecraft:milk? (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:flowing_milk? (from forge-1.19.2-43.2.14-universal.jar)
+
+#forge:uranium_hexafluoride
+- mekanism:uranium_hexafluoride (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_uranium_hexafluoride (from Mekanism-1.19.2-10.3.8.477.jar)
+
+#forge:sulfur_dioxide
+- mekanism:sulfur_dioxide (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_sulfur_dioxide (from Mekanism-1.19.2-10.3.8.477.jar)
+
+#forge:gaseous
+- immersiveengineering:acetaldehyde (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+- mekanism:steam (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_steam (from Mekanism-1.19.2-10.3.8.477.jar)
+
+#forge:apple_cider
+- tmted:apple_cider (from Engineers Delight 1.19.2 B.1.1.jar)
+
+#forge:hydrogen
+- mekanism:hydrogen (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_hydrogen (from Mekanism-1.19.2-10.3.8.477.jar)
+
+#create:bottomless/deny
+
+#create:bottomless/allow
+- minecraft:water (from create-1.19.2-0.5.1.c.jar)
+- minecraft:lava (from create-1.19.2-0.5.1.c.jar)
+
+#forge:superheated_sodium
+- mekanism:superheated_sodium (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_superheated_sodium (from Mekanism-1.19.2-10.3.8.477.jar)
+
+#forge:melon_juice
+- tmted:melon_juice (from Engineers Delight 1.19.2 B.1.1.jar)
+
+#forge:steam
+- mekanism:steam (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_steam (from Mekanism-1.19.2-10.3.8.477.jar)
+
+#forge:experience
+- pneumaticcraft:memory_essence (from pneumaticcraft-repressurized-1.19.2-4.3.5-25.jar)
+- cofh_core:experience (from cofh_core-1.19.2-10.2.1.40.jar)
+
+#forge:glowstone
+- thermal:glowstone (from thermal_core-1.19.2-10.2.0.5.jar)
+
+#forge:lithium
+- mekanism:lithium (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_lithium (from Mekanism-1.19.2-10.3.8.477.jar)
+
+#forge:diesel
+- pneumaticcraft:diesel (from pneumaticcraft-repressurized-1.19.2-4.3.5-25.jar)
+
+#ae2:blacklisted/annihilation_plane
+
+#immersiveengineering:drill_fuel
+- #forge:biodiesel (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+
+#pneumaticcraft:plastic
+- pneumaticcraft:plastic (from pneumaticcraft-repressurized-1.19.2-4.3.5-25.jar)
+
+#pneumaticcraft:etching_acid
+- pneumaticcraft:etching_acid (from pneumaticcraft-repressurized-1.19.2-4.3.5-25.jar)
+
+#forge:kerosene
+- pneumaticcraft:kerosene (from pneumaticcraft-repressurized-1.19.2-4.3.5-25.jar)
+
+#forge:creosote
+- thermal:creosote (from thermal_core-1.19.2-10.2.0.5.jar)
+- immersiveengineering:creosote (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+
+#forge:tomato_sauce
+- tmted:tomato_sauce (from Engineers Delight 1.19.2 B.1.1.jar)
+
+#forge:phenolic_resin
+- immersiveengineering:phenolic_resin (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+
+#forge:heavy_water
+- mekanism:heavy_water (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_heavy_water (from Mekanism-1.19.2-10.3.8.477.jar)
+
+#forge:lpg
+- pneumaticcraft:lpg (from pneumaticcraft-repressurized-1.19.2-4.3.5-25.jar)
+
+#forge:lubricant
+- pneumaticcraft:lubricant (from pneumaticcraft-repressurized-1.19.2-4.3.5-25.jar)
+
+#forge:crude_oil
+- pneumaticcraft:oil (from pneumaticcraft-repressurized-1.19.2-4.3.5-25.jar)
+- thermal:crude_oil (from thermal_core-1.19.2-10.2.0.5.jar)
+
+#forge:redstone
+- thermal:redstone (from thermal_core-1.19.2-10.2.0.5.jar)
+
+#forge:herbicide
+- immersiveengineering:herbicide (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+
+#pneumaticcraft:seismic_sensor_interesting
+- #forge:crude_oil (from pneumaticcraft-repressurized-1.19.2-4.3.5-25.jar)
+
+#forge:plantoil
+- pneumaticcraft:vegetable_oil (from pneumaticcraft-repressurized-1.19.2-4.3.5-25.jar)
+- immersiveengineering:plantoil (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+
+#minecraft:lava
+- minecraft:lava (from Default)
+- minecraft:flowing_lava (from Default)
+
+#forge:ethene
+- mekanism:ethene (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_ethene (from Mekanism-1.19.2-10.3.8.477.jar)
+
+#forge:ethanol
+- pneumaticcraft:ethanol (from pneumaticcraft-repressurized-1.19.2-4.3.5-25.jar)
+- immersiveengineering:ethanol (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+
+#forge:uranium_oxide
+- mekanism:uranium_oxide (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_uranium_oxide (from Mekanism-1.19.2-10.3.8.477.jar)
+
+#forge:chocolate
+- create:flowing_chocolate (from create-1.19.2-0.5.1.c.jar)
+- create:chocolate (from create-1.19.2-0.5.1.c.jar)
+
+#forge:chlorine
+- mekanism:chlorine (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_chlorine (from Mekanism-1.19.2-10.3.8.477.jar)
+
+#forge:redstone_acid
+- immersiveengineering:redstone_acid (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+
+#forge:sodium
+- mekanism:sodium (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_sodium (from Mekanism-1.19.2-10.3.8.477.jar)
+
+#forge:concrete
+- immersiveengineering:concrete (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+
+#forge:potion
+- cofh_core:potion (from cofh_core-1.19.2-10.2.1.40.jar)
+- immersiveengineering:potion (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+
+#forge:sulfur_trioxide
+- mekanism:sulfur_trioxide (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_sulfur_trioxide (from Mekanism-1.19.2-10.3.8.477.jar)
+
+#forge:sulfuric_acid
+- mekanism:sulfuric_acid (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_sulfuric_acid (from Mekanism-1.19.2-10.3.8.477.jar)
+
+#forge:gasoline
+- pneumaticcraft:gasoline (from pneumaticcraft-repressurized-1.19.2-4.3.5-25.jar)
+
+#forge:ender
+- thermal:ender (from thermal_core-1.19.2-10.2.0.5.jar)
+
+#forge:hydrogen_chloride
+- mekanism:hydrogen_chloride (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_hydrogen_chloride (from Mekanism-1.19.2-10.3.8.477.jar)
+
+#forge:tea
+- create:flowing_tea (from create-1.19.2-0.5.1.c.jar)
+- create:tea (from create-1.19.2-0.5.1.c.jar)
+
+#pneumaticcraft:yeast_culture
+- pneumaticcraft:yeast_culture (from pneumaticcraft-repressurized-1.19.2-4.3.5-25.jar)
+
+#forge:hydrofluoric_acid
+- mekanism:hydrofluoric_acid (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_hydrofluoric_acid (from Mekanism-1.19.2-10.3.8.477.jar)
+
+#forge:brine
+- mekanism:brine (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_brine (from Mekanism-1.19.2-10.3.8.477.jar)
+
+#forge:latex
+- thermal:latex (from thermal_core-1.19.2-10.2.0.5.jar)
+
+#forge:honey
+- cofh_core:honey (from cofh_core-1.19.2-10.2.1.40.jar)
+- create:flowing_honey (from create-1.19.2-0.5.1.c.jar)
+- create:honey (from create-1.19.2-0.5.1.c.jar)
+
+#create:no_infinite_draining
+- mekanism:hydrogen (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_hydrogen (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:oxygen (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_oxygen (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:chlorine (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_chlorine (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:sulfur_dioxide (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_sulfur_dioxide (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:sulfur_trioxide (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_sulfur_trioxide (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:sulfuric_acid (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_sulfuric_acid (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:hydrogen_chloride (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_hydrogen_chloride (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:hydrofluoric_acid (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_hydrofluoric_acid (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:uranium_oxide (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_uranium_oxide (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:uranium_hexafluoride (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_uranium_hexafluoride (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:ethene (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_ethene (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:sodium (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_sodium (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:superheated_sodium (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_superheated_sodium (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:brine (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_brine (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:lithium (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_lithium (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:steam (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_steam (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:heavy_water (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_heavy_water (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:nutritional_paste (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:flowing_nutritional_paste (from Mekanism-1.19.2-10.3.8.477.jar)
+
+#forge:acetaldehyde
+- immersiveengineering:acetaldehyde (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)

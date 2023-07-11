@@ -1,0 +1,1161 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jul 11, 2023, 4:07:47 PM
+
+#minecraft:has_structure/nether_fortress
+- #minecraft:is_nether (from Default)
+- #byg:has_structure/nether_fortress (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_slope
+- minecraft:savanna_plateau (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:wooded_badlands (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:meadow (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:grove (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:snowy_slopes (from forge-1.19.2-43.2.14-universal.jar)
+- #byg:is_slope (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:has_structure/mineshaft
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+- #minecraft:is_beach (from Default)
+- #minecraft:is_mountain (from Default)
+- #minecraft:is_hill (from Default)
+- #minecraft:is_taiga (from Default)
+- #minecraft:is_jungle (from Default)
+- #minecraft:is_forest (from Default)
+- minecraft:stony_shore (from Default)
+- minecraft:mushroom_fields (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:desert (from Default)
+- minecraft:savanna (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:plains (from Default)
+- minecraft:sunflower_plains (from Default)
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+- #byg:has_structure/mineshaft (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#botania:marimorphosis_forest_bonus
+- #minecraft:is_forest (from Botania-1.19.2-440-FORGE.jar)
+
+#minecraft:has_structure/jungle_temple
+- minecraft:bamboo_jungle (from Default)
+- minecraft:jungle (from Default)
+- #byg:has_structure/jungle_temple (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#immersiveengineering:has_mineral_veins
+- #minecraft:is_overworld (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+- #minecraft:is_nether (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+- #minecraft:is_end (from ImmersiveEngineering-1.19.2-9.2.2-165.jar)
+
+#byg:is_dense
+
+#minecraft:is_jungle
+- minecraft:bamboo_jungle (from Default)
+- minecraft:jungle (from Default)
+- minecraft:sparse_jungle (from Default)
+- #byg:is_jungle (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:has_feature/palm_trees
+- #minecraft:is_beach (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:is_ocean
+- #minecraft:is_deep_ocean (from Default)
+- minecraft:frozen_ocean (from Default)
+- minecraft:ocean (from Default)
+- minecraft:cold_ocean (from Default)
+- minecraft:lukewarm_ocean (from Default)
+- minecraft:warm_ocean (from Default)
+- #byg:is_ocean (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#ae2:has_meteorites
+- #minecraft:is_overworld? (from appliedenergistics2-forge-12.9.5.jar)
+
+#forge:is_forest
+- #byg:is_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_cold
+- #forge:is_cold/overworld (from forge-1.19.2-43.2.14-universal.jar)
+- #forge:is_cold/nether? (from forge-1.19.2-43.2.14-universal.jar)
+- #forge:is_cold/end (from forge-1.19.2-43.2.14-universal.jar)
+
+#byg:has_structure/red_rock_arch
+- byg:red_rock_valley (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_sparse/overworld
+- minecraft:windswept_forest (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:savanna (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:savanna_plateau (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:wooded_badlands (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:snowy_slopes (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:jagged_peaks (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:frozen_peaks (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:windswept_gravelly_hills (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:windswept_savanna (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:eroded_badlands (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:dripstone_caves (from forge-1.19.2-43.2.14-universal.jar)
+
+#forge:is_overworld
+- quark:glimmering_weald (from Quark-3.4-405.jar)
+- #byg:is_overworld (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:has_structure/ocean_ruin_cold
+- minecraft:frozen_ocean (from Default)
+- minecraft:cold_ocean (from Default)
+- minecraft:ocean (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:deep_cold_ocean (from Default)
+- minecraft:deep_ocean (from Default)
+
+#minecraft:produces_corals_from_bonemeal
+- minecraft:warm_ocean (from Default)
+
+#forge:is_desert
+- minecraft:desert (from forge-1.19.2-43.2.14-universal.jar)
+
+#minecraft:has_structure/stronghold
+- #minecraft:is_overworld (from Default)
+- #byg:has_structure/stronghold (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:has_structure/mineshaft_mesa
+- #minecraft:is_badlands (from Default)
+
+#minecraft:has_structure/ancient_city
+- minecraft:deep_dark (from Default)
+
+#forge:is_peak
+- minecraft:jagged_peaks (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:frozen_peaks (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:stony_peaks (from forge-1.19.2-43.2.14-universal.jar)
+- #byg:is_peak (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:has_structure/shipwreck
+- #minecraft:is_ocean (from Default)
+
+#forge:is_wet/overworld
+- minecraft:swamp (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:jungle (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:sparse_jungle (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:beach (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:bamboo_jungle (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:lush_caves (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:mangrove_swamp (from forge-1.19.2-43.2.14-universal.jar)
+
+#byg:has_structure/village_plains
+- byg:allium_fields (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:amaranth_fields (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:orchard (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:red_oak_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:temperate_rainforest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_wet
+- #byg:is_ocean (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- #byg:is_deep_ocean (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- #byg:is_swamp (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- #byg:is_water (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:is_hill
+- minecraft:windswept_hills (from Default)
+- minecraft:windswept_forest (from Default)
+- minecraft:windswept_gravelly_hills (from Default)
+
+#byg:has_structure/stone_arch
+- byg:lush_stacks (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:dead_sea (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_wet
+- #forge:is_wet/overworld (from forge-1.19.2-43.2.14-universal.jar)
+- #forge:is_wet/nether? (from forge-1.19.2-43.2.14-universal.jar)
+- #forge:is_wet/end? (from forge-1.19.2-43.2.14-universal.jar)
+- #byg:is_ocean (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- #byg:is_deep_ocean (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- #byg:is_swamp (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- #byg:is_water (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_cold/end
+- minecraft:the_end (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:small_end_islands (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:end_midlands (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:end_highlands (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:end_barrens (from forge-1.19.2-43.2.14-universal.jar)
+
+#byg:is_river
+
+#forge:is_mountain
+- #forge:is_peak (from forge-1.19.2-43.2.14-universal.jar)
+- #forge:is_slope (from forge-1.19.2-43.2.14-universal.jar)
+- #byg:is_mountain (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_modified
+- #byg:is_modified (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_temperate
+
+#byg:has_structure/village_tropical
+
+#botania:marimorphosis_desert_bonus
+- #forge:is_desert (from Botania-1.19.2-440-FORGE.jar)
+- #minecraft:is_savanna (from Botania-1.19.2-440-FORGE.jar)
+
+#minecraft:has_structure/ruined_portal_ocean
+- #minecraft:is_ocean (from Default)
+
+#forge:is_rare
+- minecraft:mushroom_fields (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:sparse_jungle (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:savanna_plateau (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:sunflower_plains (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:windswept_gravelly_hills (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:flower_forest (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:ice_spikes (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:old_growth_birch_forest (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:old_growth_spruce_taiga (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:windswept_savanna (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:eroded_badlands (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:bamboo_jungle (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:deep_dark (from forge-1.19.2-43.2.14-universal.jar)
+- quark:glimmering_weald (from Quark-3.4-405.jar)
+- #byg:is_rare (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:has_structure/pumpkin_patch
+- byg:autumnal_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:autumnal_taiga (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:autumnal_valley (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:cika_woods (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:has_structure/desert_pyramid
+- byg:mojave_desert (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:is_deep_ocean
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:deep_cold_ocean (from Default)
+- minecraft:deep_ocean (from Default)
+- minecraft:deep_lukewarm_ocean (from Default)
+
+#minecraft:is_nether
+- minecraft:nether_wastes (from Default)
+- minecraft:soul_sand_valley (from Default)
+- minecraft:crimson_forest (from Default)
+- minecraft:warped_forest (from Default)
+- minecraft:basalt_deltas (from Default)
+- #byg:is_nether (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_mushroom
+
+#byg:has_structure/village_ruins
+- byg:coconino_meadow (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_savanna
+- #byg:is_savanna (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_underground
+
+#byg:is_spooky
+- byg:weeping_witch_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_dry
+- #forge:is_dry/overworld (from forge-1.19.2-43.2.14-universal.jar)
+- #forge:is_dry/nether (from forge-1.19.2-43.2.14-universal.jar)
+- #forge:is_dry/end (from forge-1.19.2-43.2.14-universal.jar)
+- #byg:is_dry (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:allows_surface_slime_spawns
+- byg:bayou (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:cypress_swamplands (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:white_mangrove_marshes (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_snowy
+- byg:cardinal_tundra (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:frosted_coniferous_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:frosted_taiga (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:shattered_glacier (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_end
+- byg:bulbis_gardens (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:cryptic_wastes (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:ethereal_islands (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:imparius_grove (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:ivis_fields (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:nightshade_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:shulkren_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:viscal_isles (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_cave
+- minecraft:lush_caves (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:dripstone_caves (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:deep_dark (from forge-1.19.2-43.2.14-universal.jar)
+
+#byg:is_taiga
+- byg:autumnal_taiga (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:black_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:canadian_shield (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:coniferous_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:frosted_coniferous_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:maple_taiga (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_magical
+- byg:forgotten_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:twilight_meadow (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:more_frequent_drowned_spawns
+- #minecraft:is_river (from Default)
+
+#minecraft:has_structure/village_desert
+- minecraft:desert (from Default)
+- #byg:has_structure/village_desert (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:has_structure/village_snowy
+- byg:shattered_glacier (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:frosted_taiga (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:frosted_coniferous_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:is_forest
+- minecraft:forest (from Default)
+- minecraft:flower_forest (from Default)
+- minecraft:birch_forest (from Default)
+- minecraft:old_growth_birch_forest (from Default)
+- minecraft:dark_forest (from Default)
+- minecraft:grove (from Default)
+- #byg:is_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:allows_tropical_fish_spawns_at_any_height
+- minecraft:lush_caves (from Default)
+
+#byg:has_structure/village_taiga
+- #byg:is_taiga (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:polar_bears_spawn_on_alternate_blocks
+- minecraft:frozen_ocean (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+
+#minecraft:has_structure/village_plains
+- minecraft:plains (from Default)
+- minecraft:meadow (from Default)
+- #byg:has_structure/village_plains (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:has_structure/mineshaft_mesa
+- byg:red_rock_valley (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_ocean
+- #byg:is_ocean (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_coniferous
+- minecraft:taiga (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:snowy_taiga (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:old_growth_pine_taiga (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:grove (from forge-1.19.2-43.2.14-universal.jar)
+- #byg:is_taiga (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_snowy
+- minecraft:frozen_ocean (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:frozen_river (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:snowy_plains (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:snowy_beach (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:snowy_taiga (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:grove (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:snowy_slopes (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:jagged_peaks (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:frozen_peaks (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:ice_spikes (from forge-1.19.2-43.2.14-universal.jar)
+- #byg:is_snowy (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_savanna
+- byg:araucaria_savanna (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:baobab_savanna (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_plains
+- byg:prairie (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:coconino_meadow (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:allium_fields (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:amaranth_fields (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:autumnal_valley (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:temperate_grove (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:cardinal_tundra (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:firecracker_shrubland (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:has_structure/swamp_hut
+- minecraft:swamp (from Default)
+- #byg:has_structure/swamp_hut (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:has_structure/village_salem
+- byg:weeping_witch_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:has_structure/ocean_ruin_warm
+- byg:lush_stacks (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:dead_sea (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_water
+- #minecraft:is_ocean (from forge-1.19.2-43.2.14-universal.jar)
+- #minecraft:is_river (from forge-1.19.2-43.2.14-universal.jar)
+- #byg:is_ocean (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- #byg:is_deep_ocean (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- #byg:is_swamp (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:has_structure/ruined_portal_nether
+- #minecraft:is_nether (from Default)
+
+#minecraft:only_allows_snow_and_gold_rabbits
+- minecraft:desert (from Default)
+
+#byg:is_icy
+- byg:shattered_glacier (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:has_structure/nether_fortress
+- #byg:is_nether (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:stronghold_biased_to
+- minecraft:plains (from Default)
+- minecraft:sunflower_plains (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:desert (from Default)
+- minecraft:forest (from Default)
+- minecraft:flower_forest (from Default)
+- minecraft:birch_forest (from Default)
+- minecraft:dark_forest (from Default)
+- minecraft:old_growth_birch_forest (from Default)
+- minecraft:old_growth_pine_taiga (from Default)
+- minecraft:old_growth_spruce_taiga (from Default)
+- minecraft:taiga (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:savanna (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:windswept_hills (from Default)
+- minecraft:windswept_gravelly_hills (from Default)
+- minecraft:windswept_forest (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:jungle (from Default)
+- minecraft:sparse_jungle (from Default)
+- minecraft:bamboo_jungle (from Default)
+- minecraft:badlands (from Default)
+- minecraft:eroded_badlands (from Default)
+- minecraft:wooded_badlands (from Default)
+- minecraft:meadow (from Default)
+- minecraft:grove (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:stony_peaks (from Default)
+- minecraft:mushroom_fields (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+
+#forge:is_magical
+- quark:glimmering_weald (from Quark-3.4-405.jar)
+- #byg:is_magical (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_dry/nether
+- minecraft:nether_wastes (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:soul_sand_valley (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:crimson_forest (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:warped_forest (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:basalt_deltas (from forge-1.19.2-43.2.14-universal.jar)
+
+#minecraft:is_beach
+- minecraft:beach (from Default)
+- minecraft:snowy_beach (from Default)
+
+#minecraft:has_structure/ruined_portal_standard
+- #minecraft:is_beach (from Default)
+- #minecraft:is_river (from Default)
+- #minecraft:is_taiga (from Default)
+- #minecraft:is_forest (from Default)
+- minecraft:mushroom_fields (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+- minecraft:savanna (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:plains (from Default)
+- minecraft:sunflower_plains (from Default)
+- #byg:has_structure/ruined_portal_standard (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:overworld/climate/temperate
+- byg:temperate_grove (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:temperate_rainforest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:has_structure/pillager_outpost
+- minecraft:desert (from Default)
+- minecraft:plains (from Default)
+- minecraft:savanna (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:taiga (from Default)
+- #minecraft:is_mountain (from Default)
+- minecraft:grove (from Default)
+- #byg:has_structure/pillager_outpost (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#botania:mystical_flower_spawnlist
+- #minecraft:is_overworld (from Botania-1.19.2-440-FORGE.jar)
+
+#byg:is_floral
+- byg:amaranth_fields (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:allium_fields (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:rose_fields (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:cherry_blossom_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:orchard (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_sparse
+- #forge:is_sparse/overworld (from forge-1.19.2-43.2.14-universal.jar)
+- #forge:is_sparse/nether? (from forge-1.19.2-43.2.14-universal.jar)
+- #forge:is_sparse/end? (from forge-1.19.2-43.2.14-universal.jar)
+- #byg:is_sparse (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_swamp
+- minecraft:swamp (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:mangrove_swamp (from forge-1.19.2-43.2.14-universal.jar)
+- #byg:is_swamp (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_void
+
+#minecraft:is_mountain
+- minecraft:meadow (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:stony_peaks (from Default)
+- minecraft:snowy_slopes (from Default)
+- #byg:is_mountain (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:is_badlands
+- minecraft:badlands (from Default)
+- minecraft:eroded_badlands (from Default)
+- minecraft:wooded_badlands (from Default)
+- #byg:is_badlands (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_dry/end
+- minecraft:the_end (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:small_end_islands (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:end_midlands (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:end_highlands (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:end_barrens (from forge-1.19.2-43.2.14-universal.jar)
+
+#byg:is_modified
+
+#byg:is_lush
+- byg:lush_stacks (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:orchard (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:frosted_coniferous_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:allium_fields (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:amaranth_fields (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:rose_fields (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:temperate_grove (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:coconino_meadow (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:skyris_vale (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_overworld
+- byg:allium_fields (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:amaranth_fields (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:araucaria_savanna (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:aspen_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:atacama_desert (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:autumnal_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:autumnal_taiga (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:autumnal_valley (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:baobab_savanna (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:basalt_barrera (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:bayou (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:black_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:borealis_grove (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:canadian_shield (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:cardinal_tundra (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:cherry_blossom_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:cika_woods (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:coconino_meadow (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:coniferous_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:crag_gardens (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:cypress_swamplands (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:dacite_ridges (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:dacite_shore (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:dead_sea (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:ebony_woods (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:firecracker_shrubland (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:forgotten_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:fragment_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:frosted_coniferous_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:frosted_taiga (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:guiana_shield (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:howling_peaks (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:jacaranda_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:lush_stacks (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:maple_taiga (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:mojave_desert (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:orchard (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:prairie (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:rainbow_beach (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:red_oak_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:red_rock_valley (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:redwood_thicket (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:rose_fields (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:shattered_glacier (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:sierra_badlands (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:skyris_vale (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:temperate_grove (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:temperate_rainforest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:tropical_rainforest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:twilight_meadow (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:weeping_witch_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:white_mangrove_marshes (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:windswept_desert (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:zelkova_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:has_structure/nether_fossil
+- minecraft:soul_sand_valley (from Default)
+
+#byg:is_plateau
+
+#byg:is_plain
+- byg:allium_fields (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:amaranth_fields (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:autumnal_valley (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:coconino_meadow (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:prairie (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:rose_fields (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_cold/overworld
+- minecraft:taiga (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:frozen_ocean (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:frozen_river (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:snowy_plains (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:snowy_beach (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:snowy_taiga (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:old_growth_pine_taiga (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:grove (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:snowy_slopes (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:jagged_peaks (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:frozen_peaks (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:cold_ocean (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:deep_cold_ocean (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:deep_frozen_ocean (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:ice_spikes (from forge-1.19.2-43.2.14-universal.jar)
+
+#minecraft:has_structure/end_city
+- minecraft:end_highlands (from Default)
+- minecraft:end_midlands (from Default)
+- #byg:has_structure/end_city (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_dense/overworld
+- minecraft:jungle (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:dark_forest (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:old_growth_birch_forest (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:old_growth_spruce_taiga (from forge-1.19.2-43.2.14-universal.jar)
+
+#minecraft:has_structure/bastion_remnant
+- minecraft:crimson_forest (from Default)
+- minecraft:nether_wastes (from Default)
+- minecraft:soul_sand_valley (from Default)
+- minecraft:warped_forest (from Default)
+- #byg:is_nether (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_slope
+
+#minecraft:has_structure/ruined_portal_mountain
+- #minecraft:is_badlands (from Default)
+- #minecraft:is_hill (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:stony_shore (from Default)
+- #minecraft:is_mountain (from Default)
+
+#byg:overworld/climate/wet
+- byg:cypress_swamplands (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_hill
+
+#byg:is_swamp
+- byg:bayou (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:cypress_swamplands (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_nether
+- #byg:is_nether (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:water_on_map_outlines
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#minecraft:is_river
+- minecraft:river (from Default)
+- minecraft:frozen_river (from Default)
+
+#byg:is_wasteland
+- byg:dead_sea (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_deep_ocean
+- byg:dead_sea (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:lush_stacks (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#botania:marimorphosis_mountain_bonus
+- #minecraft:is_mountain (from Botania-1.19.2-440-FORGE.jar)
+
+#byg:is_hot
+- #byg:is_desert (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- #byg:is_badlands (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_badlands
+- byg:red_rock_valley (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:sierra_badlands (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_hot/nether
+- minecraft:nether_wastes (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:soul_sand_valley (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:crimson_forest (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:warped_forest (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:basalt_deltas (from forge-1.19.2-43.2.14-universal.jar)
+
+#byg:is_water
+- #byg:is_ocean (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- #byg:is_deep_ocean (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- #byg:is_swamp (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#pneumaticcraft:has_surface_oil_lakes
+- #minecraft:is_overworld (from pneumaticcraft-repressurized-1.19.2-4.3.5-25.jar)
+
+#forge:is_hot/overworld
+- minecraft:desert (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:jungle (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:sparse_jungle (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:savanna (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:savanna_plateau (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:stony_peaks (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:warm_ocean (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:windswept_savanna (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:eroded_badlands (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:bamboo_jungle (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:mangrove_swamp (from forge-1.19.2-43.2.14-universal.jar)
+
+#byg:is_dead
+- byg:dead_sea (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_mesa
+- #byg:is_badlands (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:has_structure/village_skyris
+- byg:skyris_vale (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:has_structure/buried_treasure
+- #minecraft:is_beach (from Default)
+
+#byg:nether/climate/cold
+- byg:subzero_hypogeal (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:has_structure/ruined_portal_standard
+- #byg:is_overworld (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:is_savanna
+- minecraft:savanna (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:windswept_savanna (from Default)
+
+#forge:is_hot
+- #forge:is_hot/overworld (from forge-1.19.2-43.2.14-universal.jar)
+- #forge:is_hot/nether (from forge-1.19.2-43.2.14-universal.jar)
+- #forge:is_hot/end? (from forge-1.19.2-43.2.14-universal.jar)
+- #byg:is_hot (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:has_structure/igloo
+- minecraft:snowy_taiga (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:snowy_slopes (from Default)
+- #byg:has_structure/igloo (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:has_structure/shipwreck_beached
+- #minecraft:is_beach (from Default)
+
+#byg:has_structure/mineshaft
+- #byg:is_overworld (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_nether
+- byg:arisian_undergrowth (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:brimstone_caverns (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:crimson_gardens (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:embur_bog (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:glowstone_gardens (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:magma_wastes (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:quartz_desert (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:subzero_hypogeal (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:sythian_torrids (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:wailing_garth (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:warped_desert (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:weeping_mire (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:allows_surface_slime_spawns
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#forge:is_plains
+- minecraft:plains (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:snowy_plains (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:meadow (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:sunflower_plains (from forge-1.19.2-43.2.14-universal.jar)
+- #byg:is_plains (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:required_ocean_monument_surrounding
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+
+#byg:has_structure/village_savanna
+- #byg:is_savanna (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_hills
+- #byg:is_hill (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:has_structure/village_desert
+- #byg:is_desert (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:has_structure/ocean_monument
+- #minecraft:is_deep_ocean (from Default)
+
+#forge:is_sandy
+- minecraft:desert (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:beach (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:badlands (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:wooded_badlands (from forge-1.19.2-43.2.14-universal.jar)
+- #byg:is_sandy (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_beach
+- #byg:is_beach (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:has_structure/ruined_portal_jungle
+- #minecraft:is_jungle (from Default)
+
+#forge:is_jungle
+- #byg:is_jungle (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:plays_underwater_music
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+
+#minecraft:has_structure/desert_pyramid
+- minecraft:desert (from Default)
+- #byg:has_structure/desert_pyramid (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#botania:mystical_flower_blocklist
+- #forge:is_mushroom? (from Botania-1.19.2-440-FORGE.jar)
+- #c:mushroom? (from Botania-1.19.2-440-FORGE.jar)
+
+#forge:is_plateau
+- minecraft:savanna_plateau (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:wooded_badlands (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:meadow (from forge-1.19.2-43.2.14-universal.jar)
+- #byg:is_plateau (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:has_structure/village_red_rock
+- byg:red_rock_valley (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:has_structure/jungle_temple
+- #byg:is_jungle (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_lush
+- minecraft:lush_caves (from forge-1.19.2-43.2.14-universal.jar)
+- #byg:is_lush (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_dry/overworld
+- minecraft:desert (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:badlands (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:wooded_badlands (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:windswept_savanna (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:eroded_badlands (from forge-1.19.2-43.2.14-universal.jar)
+
+#byg:has_structure/overgrown_stone_arch
+- byg:lush_stacks (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:has_structure/woodland_mansion
+- minecraft:dark_forest (from Default)
+
+#botania:marimorphosis_plains_bonus
+- #forge:is_plains (from Botania-1.19.2-440-FORGE.jar)
+- #minecraft:is_beach (from Botania-1.19.2-440-FORGE.jar)
+
+#pneumaticcraft:has_underground_oil_lakes
+- #minecraft:is_overworld (from pneumaticcraft-repressurized-1.19.2-4.3.5-25.jar)
+
+#forge:is_void
+- minecraft:the_void (from forge-1.19.2-43.2.14-universal.jar)
+- #byg:is_void (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:has_structure/ocean_ruin_warm
+- minecraft:lukewarm_ocean (from Default)
+- minecraft:warm_ocean (from Default)
+- minecraft:deep_lukewarm_ocean (from Default)
+- #byg:has_structure/ocean_ruin_warm (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_sparse
+
+#botania:marimorphosis_taiga_bonus
+- #forge:is_coniferous (from Botania-1.19.2-440-FORGE.jar)
+- #forge:is_cold (from Botania-1.19.2-440-FORGE.jar)
+- #forge:is_snowy (from Botania-1.19.2-440-FORGE.jar)
+
+#forge:is_river
+- #byg:is_river (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_icy
+- #byg:is_icy (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#botania:mystical_mushroom_spawnlist
+- #minecraft:is_overworld (from Botania-1.19.2-440-FORGE.jar)
+- #minecraft:is_nether (from Botania-1.19.2-440-FORGE.jar)
+
+#forge:is_mushroom
+- minecraft:mushroom_fields (from forge-1.19.2-43.2.14-universal.jar)
+- quark:glimmering_weald (from Quark-3.4-405.jar)
+- #byg:is_mushroom (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#botania:mystical_mushroom_blocklist
+
+#byg:is_desert
+- byg:atacama_desert (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:mojave_desert (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:windswept_desert (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#botania:marimorphosis_fungal_bonus
+- #forge:is_mushroom (from Botania-1.19.2-440-FORGE.jar)
+- #forge:is_underground (from Botania-1.19.2-440-FORGE.jar)
+
+#minecraft:is_overworld
+- minecraft:mushroom_fields (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:frozen_ocean (from Default)
+- minecraft:deep_cold_ocean (from Default)
+- minecraft:cold_ocean (from Default)
+- minecraft:deep_ocean (from Default)
+- minecraft:ocean (from Default)
+- minecraft:deep_lukewarm_ocean (from Default)
+- minecraft:lukewarm_ocean (from Default)
+- minecraft:warm_ocean (from Default)
+- minecraft:stony_shore (from Default)
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:snowy_beach (from Default)
+- minecraft:windswept_gravelly_hills (from Default)
+- minecraft:grove (from Default)
+- minecraft:windswept_hills (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:windswept_forest (from Default)
+- minecraft:taiga (from Default)
+- minecraft:plains (from Default)
+- minecraft:meadow (from Default)
+- minecraft:beach (from Default)
+- minecraft:forest (from Default)
+- minecraft:old_growth_spruce_taiga (from Default)
+- minecraft:flower_forest (from Default)
+- minecraft:birch_forest (from Default)
+- minecraft:dark_forest (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:savanna (from Default)
+- minecraft:jungle (from Default)
+- minecraft:badlands (from Default)
+- minecraft:desert (from Default)
+- minecraft:wooded_badlands (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:stony_peaks (from Default)
+- minecraft:frozen_river (from Default)
+- minecraft:river (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:old_growth_pine_taiga (from Default)
+- minecraft:sunflower_plains (from Default)
+- minecraft:old_growth_birch_forest (from Default)
+- minecraft:sparse_jungle (from Default)
+- minecraft:bamboo_jungle (from Default)
+- minecraft:eroded_badlands (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+- minecraft:deep_dark (from Default)
+- quark:glimmering_weald (from Quark-3.4-405.jar)
+- #byg:is_overworld (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:has_structure/village_savanna
+- minecraft:savanna (from Default)
+- #byg:has_structure/village_savanna (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:without_patrol_spawns
+- minecraft:mushroom_fields (from Default)
+
+#minecraft:has_structure/village_taiga
+- minecraft:taiga (from Default)
+- #byg:has_structure/village_taiga (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_sandy
+- byg:mojave_desert (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_dead
+- #byg:is_dead (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:has_closer_water_fog
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#byg:is_cold
+- byg:canadian_shield (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:cika_woods (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:coniferous_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:dacite_ridges (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:cardinal_tundra (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:maple_taiga (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:coconino_meadow (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:autumnal_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:autumnal_taiga (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:twilight_meadow (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:weeping_witch_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:zelkova_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_peak
+
+#byg:has_structure/ancient_sequoia
+- byg:redwood_thicket (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_end
+- #byg:is_end (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:has_structure/pillager_outpost
+- #byg:is_overworld (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:has_structure/swamp_hut
+- #byg:is_swamp (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:without_wandering_trader_spawns
+- minecraft:the_void (from Default)
+
+#minecraft:has_structure/ruined_portal_desert
+- minecraft:desert (from Default)
+
+#forge:is_dense
+- #forge:is_dense/overworld (from forge-1.19.2-43.2.14-universal.jar)
+- #forge:is_dense/nether? (from forge-1.19.2-43.2.14-universal.jar)
+- #forge:is_dense/end? (from forge-1.19.2-43.2.14-universal.jar)
+- #byg:is_dense (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:has_structure/ruined_portal_swamp
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#byg:is_beach
+- byg:basalt_barrera (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:dacite_shore (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:rainbow_beach (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:has_structure/stronghold
+- #byg:is_overworld (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:spawns_cold_variant_frogs
+- minecraft:snowy_plains (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:frozen_ocean (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:grove (from Default)
+- minecraft:deep_dark (from Default)
+- minecraft:frozen_river (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:snowy_beach (from Default)
+- #minecraft:is_end (from Default)
+
+#byg:has_structure/igloo
+- byg:shattered_glacier (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:is_end
+- minecraft:the_end (from Default)
+- minecraft:end_highlands (from Default)
+- minecraft:end_midlands (from Default)
+- minecraft:small_end_islands (from Default)
+- minecraft:end_barrens (from Default)
+- #byg:is_end (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_underground
+- #forge:is_cave (from forge-1.19.2-43.2.14-universal.jar)
+- quark:glimmering_weald (from Quark-3.4-405.jar)
+- #byg:is_underground (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:without_zombie_sieges
+- minecraft:mushroom_fields (from Default)
+
+#minecraft:is_taiga
+- minecraft:taiga (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:old_growth_pine_taiga (from Default)
+- minecraft:old_growth_spruce_taiga (from Default)
+- #byg:is_taiga (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:spawns_warm_variant_frogs
+- minecraft:desert (from Default)
+- minecraft:warm_ocean (from Default)
+- #minecraft:is_jungle (from Default)
+- #minecraft:is_savanna (from Default)
+- #minecraft:is_nether (from Default)
+- #minecraft:is_badlands (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#minecraft:mineshaft_blocking
+- minecraft:deep_dark (from Default)
+
+#byg:is_forest
+- byg:aspen_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:autumnal_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:cherry_blossom_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:cika_woods (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:ebony_woods (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:forgotten_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:fragment_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:jacaranda_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:orchard (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:red_oak_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:redwood_thicket (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:temperate_grove (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:temperate_rainforest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:zelkova_forest (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_wasteland
+- minecraft:snowy_plains (from forge-1.19.2-43.2.14-universal.jar)
+- #byg:is_wet (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:has_structure/village_snowy
+- minecraft:snowy_plains (from Default)
+- #byg:has_structure/village_snowy (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_jungle
+- byg:crag_gardens (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:guiana_shield (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_ocean
+- byg:dead_sea (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:lush_stacks (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#botania:marimorphosis_swamp_bonus
+- #forge:is_swamp (from Botania-1.19.2-440-FORGE.jar)
+- #minecraft:is_jungle (from Botania-1.19.2-440-FORGE.jar)
+
+#byg:has_structure/end_city
+- #byg:is_end (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#byg:is_rare
+
+#botania:marimorphosis_mesa_bonus
+- #minecraft:is_badlands (from Botania-1.19.2-440-FORGE.jar)
+- #minecraft:is_savanna (from Botania-1.19.2-440-FORGE.jar)
+
+#byg:is_mountain
+- byg:canadian_shield (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:crag_gardens (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:dacite_ridges (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:howling_peaks (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#minecraft:reduce_water_ambient_spawns
+- #minecraft:is_river (from Default)
+
+#byg:is_dry
+- #byg:is_desert (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- #byg:is_badlands (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+- byg:prairie (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
+
+#forge:is_spooky
+- minecraft:dark_forest (from forge-1.19.2-43.2.14-universal.jar)
+- minecraft:deep_dark (from forge-1.19.2-43.2.14-universal.jar)
+- #byg:is_spooky (from Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.4.jar)
