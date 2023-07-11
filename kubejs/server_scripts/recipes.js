@@ -2,12 +2,13 @@ ServerEvents.recipes(event => {
     //MOD NUKING
     event.remove({mod:'create'});
     event.remove({mod:'botania'});
-    event.remove({mod:'minecraft'});
     event.remove({mod:'quark'});
     event.remove({mod: 'aiot-botania'})
     //--------
     //Individual item nuking
-    event.remove(['livingwood_shears','livingwood_sword','livingwood_axe','livingwood_pickaxe','livingwood_shovel','livingwood_hoe','livingwood_aiot']);
+    event.remove({output:'minecraft:crafting_table'});
+    event.remove({output:'minecraft:cobblestone_slab'});
+    event.remove({output:'minecraft:furnace'});
     //------------------------------------------------------------------
     //Vanilla Items Shaped
         //Crafting Table
@@ -56,13 +57,31 @@ ServerEvents.recipes(event => {
                 A: 'nyagibits_bytes:livisite_stone', 
                 B: 'minecraft:iron_nugget'
             })
-    //Botania Items Shaped
         //Living Wood Sticks
         event.shaped(
             Item.of('botania:livingwood_twig', 4), 
             [ 
                 'A', 
                 'A'  
+            ],
+            {
+                A: 'botania:livingwood_planks',
+            })
+        //Living Wood Slabs
+        event.shaped(
+            Item.of('botania:livingwood_planks_slab', 6), 
+            [ 
+                'AAA'
+            ],
+            {
+                A: 'botania:livingwood_planks',
+            })
+        //Living Wood Stairs
+        event.shaped(
+            Item.of('botania:livingwood_planks_stairs', 4), 
+            [ 
+                'A  ',
+                'AA '
             ],
             {
                 A: 'botania:livingwood_planks',
@@ -76,6 +95,18 @@ ServerEvents.recipes(event => {
                 'botania:livingwood_log'
             ]
           )
+    //------------------------------------------------------------------
+    //Create Shapped
+        //Small Cog
+        event.shaped(Item.of('create:cogwheel', 2), [
+            'CA ',
+            'CBC',
+            ' AC'
+        ], {
+            A: 'create:shaft',
+            B: 'botania:livingwood_planks_slab',
+            C: 'botania:livingwood_planks_stairs'
+        })
     //------------------------------------------------------------------
     //AIOT Items
         //Living Rock Sword
