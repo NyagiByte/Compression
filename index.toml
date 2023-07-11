@@ -196,6 +196,11 @@ hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "4c609b500836cde1384f1306ac55ad31efd00fcd06c096b65676e18ec3a429b4"
+metafile = true
+
+[[files]]
 file = "mods/engineers-delight.pw.toml"
 hash = "d3c31266b05d3af9cf5da2c53053665b9baf79c3c773e677d3984a95ea436efa"
 metafile = true
