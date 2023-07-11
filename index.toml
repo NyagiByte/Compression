@@ -351,11 +351,6 @@ hash = "453855eca691e5b0c2502517bc5fcd60aaeb9645c4a45f3af2e456135ed347af"
 metafile = true
 
 [[files]]
-file = "resourcepacks/create-style-construction-wands.pw.toml"
-hash = "d3556729799d5ba22f4c5e9437cb81680b383affec16b9173590e03cd02f4c5b"
-metafile = true
-
-[[files]]
 file = "resourcepacks/darkmode.pw.toml"
 hash = "f6a1b7a70379ed5f3186aed5dd15d96dc6bb4201c2ef91c77262c5cd74660793"
 metafile = true
