@@ -61,6 +61,10 @@ file = "mods/3dskinlayers-forge-1.5.2-mc1.19.1.jar"
 hash = "30e7d9018e0ba50dee18cb8a4101c0f139a30b980194179ff486d579c52ae694"
 
 [[files]]
+file = "mods/Create-Construction-Wands.zip"
+hash = "a0d23a32a13d95434239dcf16a5334489be694e3c13cd6384021d17220eadb34"
+
+[[files]]
 file = "mods/aiot-botania.pw.toml"
 hash = "723812c4e90ded3d2e5ef2fe09eebe48cf38a68ca87b601ad68b64c7d1b163a1"
 metafile = true
@@ -294,6 +298,10 @@ metafile = true
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
 metafile = true
+
+[[files]]
+file = "mods/nyagibits_bytes-0.0.1-1.19.2.jar"
+hash = "a4bc9d9e294407eb046b0bab838f6826d6f577ab30ef985372378f6faf4b3c82"
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
