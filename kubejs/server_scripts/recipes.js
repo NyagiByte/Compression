@@ -13,100 +13,125 @@ ServerEvents.recipes(event => {
     //Vanilla Items Shaped
         //Crafting Table
             event.shaped(
-            Item.of('minecraft:crafting_table', 1), 
-            [ 
-                'AB', 
-                'BA'  
-            ],
-            {
-                A: '#minecraft:logs', 
-                B: '#minecraft:planks'
-            }),
+                Item.of('minecraft:crafting_table', 1), 
+                [ 
+                    'AB', 
+                    'BA'  
+                ],
+                {
+                    A: '#minecraft:logs', 
+                    B: '#minecraft:planks'
+                }),
         //Cobble Slab
             event.shaped(
-            Item.of('minecraft:cobblestone_slab', 3), 
-            [ 
-                'ABA' 
-            ],
-            {
-                A: 'minecraft:cobblestone', 
-                B: 'minecraft:gravel'
-            }),     
+                Item.of('minecraft:cobblestone_slab', 3), 
+                [ 
+                    'ABA' 
+                ],
+                {
+                    A: 'minecraft:cobblestone', 
+                    B: 'minecraft:gravel'
+                }),     
         //Furnace
             event.shaped(
-            Item.of('minecraft:furnace', 1), 
-            [ 
-                'AAA',
-                'B B',
-                'BBB'
-            ],
-            {
-                A: 'minecraft:cobblestone_slab', 
-                B: 'minecraft:cobblestone'
-            }),  
+                Item.of('minecraft:furnace', 1), 
+                [ 
+                    'AAA',
+                    'B B',
+                    'BBB'
+                ],
+                {
+                    A: 'minecraft:cobblestone_slab', 
+                    B: 'minecraft:cobblestone'
+                }),  
     //------------------------------------------------------------------
     //Botania Items Shaped
         //Livisite Alloy Hand Craft
             event.shaped(
-            Item.of('nyagibits_bytes:livisite_alloy', 1), 
-            [ 
-                'AB', 
-                'BA'  
-            ],
-            {
-                A: 'nyagibits_bytes:livisite_stone', 
-                B: 'minecraft:iron_nugget'
-            })
+                Item.of('nyagibits_bytes:livisite_alloy', 1), 
+                [ 
+                    'AB', 
+                    'BA'  
+                ],
+                {
+                    A: 'nyagibits_bytes:livisite_stone', 
+                    B: 'minecraft:iron_nugget'
+                })
         //Living Wood Sticks
-        event.shaped(
-            Item.of('botania:livingwood_twig', 4), 
-            [ 
-                'A', 
-                'A'  
-            ],
-            {
-                A: 'botania:livingwood_planks',
-            })
+            event.shaped(
+                Item.of('botania:livingwood_twig', 4), 
+                [ 
+                    'A', 
+                    'A'  
+                ],
+                {
+                    A: 'botania:livingwood_planks',
+                })
         //Living Wood Slabs
-        event.shaped(
-            Item.of('botania:livingwood_planks_slab', 6), 
-            [ 
-                'AAA'
-            ],
-            {
-                A: 'botania:livingwood_planks',
-            })
+            event.shaped(
+                Item.of('botania:livingwood_planks_slab', 6), 
+                [ 
+                    'AAA'
+                ],
+                {
+                    A: 'botania:livingwood_planks',
+                })
+        //Living Stripped Wood Slabs
+            event.shaped(
+                Item.of('botania:stripped_livingwood_slab', 6), 
+                [ 
+                    'AAA'
+                ],
+                {
+                    A: 'botania:stripped_livingwood',
+                })
         //Living Wood Stairs
-        event.shaped(
-            Item.of('botania:livingwood_planks_stairs', 4), 
-            [ 
-                'A  ',
-                'AA '
-            ],
-            {
-                A: 'botania:livingwood_planks',
-            })
+            event.shaped(
+                Item.of('botania:livingwood_planks_stairs', 4), 
+                [ 
+                    'A  ',
+                    'AA '
+                ],
+                {
+                    A: 'botania:livingwood_planks',
+                })
     //------------------------------------------------------------------
     //Botania Items Shapeless
         //Living Wood Planks
-        event.shapeless(
-            Item.of('botania:livingwood_planks', 4), 
-            [ 
-                'botania:livingwood_log'
-            ]
-          )
+            event.shapeless(
+                Item.of('botania:livingwood_planks', 4), 
+                [ 
+                    'botania:livingwood_log'
+                ]
+            )
     //------------------------------------------------------------------
     //Create Shapped
         //Small Cog
-        event.shaped(Item.of('create:cogwheel', 2), [
-            'CA ',
-            'CBC',
-            ' AC'
-        ], {
-            A: 'create:shaft',
-            B: 'botania:livingwood_planks_slab',
-            C: 'botania:livingwood_planks_stairs'
-        })
+            event.shaped(Item.of('create:cogwheel', 2), [
+                'CA ',
+                'CBC',
+                ' AC'
+            ], {
+                A: 'create:shaft',
+                B: 'botania:livingwood_planks_slab',
+                C: 'botania:livingwood_planks_stairs'
+            })
+        //Large Cog
+            event.shaped(Item.of('create:large_cogwheel', 2), [
+                'CAC',
+                'BDB',
+                'CAC'
+            ], {
+                A: 'create:shaft',
+                B: 'botania:stripped_livingwood_slab',
+                C: 'botania:livingwood_planks_stairs',
+                D: 'create:cogwheel'
+            })
+    //------------------------------------------------------------------
+    //Create right click recipies
+        //Andesite Casing
+            ////////TEMPORARY RECIPE\\\\\\\\\\\\\\
+            event.shapeless('create:andesite_casing',['botania:stripped_livingwood_log', 'nyagibits_bytes:livisite_alloy'])
     //------------------------------------------------------------------
     //AIOT Items
         //Living Rock Sword
