@@ -418,7 +418,7 @@ hash = "a74efe481eac0ac14d4239e448c31281597e80be5382e8147bcdb768bf5036a7"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "8a4cd46f7048524516c22c8757ad56e63708fe9a2eb04766563362b5023233df"
+hash = "993255c0fa32acbee58bad2065314b9275af3a10b106b53a73b86ded4045129b"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -684,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.1-1.19.2.jar"
-hash = "a4bc9d9e294407eb046b0bab838f6826d6f577ab30ef985372378f6faf4b3c82"
+hash = "ec4fef1786bb46db91a4be75667736eb1ab06efc0592bab88ffbb61ce34ede26"
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
