@@ -251,6 +251,11 @@ hash = "52afe64a215ec7a20a2424de639020369e5d25fad69ede02a700edde08dd81db"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "aa19f1e147d97a697e4fb84f061db2ad6735ecca27d29ed6c233f8384449c9ee"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-botania.pw.toml"
 hash = "a518653b7bf6d538b0c3e9181bb30fb11ff58de3086def1e1c1546de373b80ed"
 metafile = true
@@ -323,6 +328,16 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "354bbfa82fb4018eb6d6d4b9c5a4846161dcd073e85010c936d3d96e454ece5c"
+metafile = true
+
+[[files]]
+file = "mods/tesseract.pw.toml"
+hash = "eb2df3b4f7a937087ac3b1bf1f5d61a9d482765a9098a0d8a364b107ffe3bdb0"
+metafile = true
+
+[[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "e3130b1d0cc8bdcbdc5ddd4de720ec0c6d97996d90fdb5e3a77c17571709cede"
 metafile = true
 
 [[files]]
