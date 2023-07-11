@@ -121,6 +121,11 @@ hash = "79fb38f2314ede2fc4395893151cdc6750b09fd7b4bb4fef490b698b771c30e9"
 metafile = true
 
 [[files]]
+file = "mods/biomancy.pw.toml"
+hash = "19704238939be7e9cbd4323a0d67464a60eeb25ea8ceed774a0bb337420dbc82"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "b28c3da3ee3ca475f8c79cbc4e8eb2f5fd44ab488bc14bfdf1fc04dc6f6e67c4"
 metafile = true
