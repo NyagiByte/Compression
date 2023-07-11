@@ -498,6 +498,11 @@ hash = "19704238939be7e9cbd4323a0d67464a60eeb25ea8ceed774a0bb337420dbc82"
 metafile = true
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "dec5b7bd20fe2c05bc53d06be0227ce36e483df2b6ea9c449d30ba76a5f7ab8c"
+metafile = true
+
+[[files]]
 file = "mods/bow-infinity-fix.pw.toml"
 hash = "eaad9b0d6649bcb698a5d50bbc1b62d1c4d358948db44e394cd8c7f09c16c3a2"
 metafile = true
