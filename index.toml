@@ -498,6 +498,11 @@ hash = "19704238939be7e9cbd4323a0d67464a60eeb25ea8ceed774a0bb337420dbc82"
 metafile = true
 
 [[files]]
+file = "mods/botania-garden-of-glass.pw.toml"
+hash = "fc5584a4b48ef7f2d49afedc9650c4d639c2a97288a7608a48c60363592d877f"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "dec5b7bd20fe2c05bc53d06be0227ce36e483df2b6ea9c449d30ba76a5f7ab8c"
 metafile = true
@@ -668,6 +673,11 @@ hash = "fc1d144633d760ad8d000ebf2c9463243c02491aaf9bedc5e8900403bb9afca8"
 metafile = true
 
 [[files]]
+file = "mods/libx.pw.toml"
+hash = "fb537f8737c8ee73a27c661ada6636b972a9a580dfd989bd1eabbec50b97a901"
+metafile = true
+
+[[files]]
 file = "mods/mega-cells.pw.toml"
 hash = "b9a5d3eb9124b3e932746bd288233f2eabd72cf9b8e99a6bd453dd0d042deab0"
 metafile = true
@@ -680,6 +690,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
+metafile = true
+
+[[files]]
+file = "mods/mythicbotany.pw.toml"
+hash = "6bd7068b5350d68cf36658290368084fe9fa3caf18f39553648710e875729d8d"
 metafile = true
 
 [[files]]
@@ -709,6 +724,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "a5b1cff7c66d98ad0d0c53903bdc5b802b4036268e56d9342a708274435343f8"
+metafile = true
+
+[[files]]
+file = "mods/sand_box.pw.toml"
+hash = "afe4680b1c2d5bd94fcb398b9ab24b9c25e247586e4c7fe237cf1f1c31c03993"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Sand Box"
+filename = "SandBox-1.19.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62e101df0ce8ce6787b34cb21d480355d7908b77"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4029683
+project-id = 653732

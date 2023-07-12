@@ -1,0 +1,13 @@
+name = "MythicBotany"
+filename = "MythicBotany-1.19.2-3.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0f823bd4adec1f765272ee4c84f064de676f4b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4546050
+project-id = 400058
