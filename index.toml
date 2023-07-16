@@ -417,8 +417,48 @@ file = "kubejs/exported/tags/minecraft/worldgen/world_preset.txt"
 hash = "a74efe481eac0ac14d4239e448c31281597e80be5382e8147bcdb768bf5036a7"
 
 [[files]]
+file = "kubejs/exported/tags/sandbox/biome_layer.txt"
+hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
+
+[[files]]
+file = "kubejs/exported/tags/sandbox/biome_surface.txt"
+hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
+
+[[files]]
+file = "kubejs/exported/tags/sandbox/surface_rule_set.txt"
+hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
+
+[[files]]
+file = "kubejs/exported/tags/sandbox/template_pool_extension.txt"
+hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
+
+[[files]]
+file = "kubejs/server_scripts/aiot_botania.js"
+hash = "b7e508628ac672c126dee507d6a5d06b7c1cc0e647f8546e293b0cce0d4a53c9"
+
+[[files]]
+file = "kubejs/server_scripts/botania_recipes.js"
+hash = "5feada692046761c23d6ac40bf40624ec689e157239382d82011d90e79ac2a3e"
+
+[[files]]
+file = "kubejs/server_scripts/create_recipes.js"
+hash = "d5a6ea24400ba5e84cfd4c1f402d8d92bcc1640ef1120412a71dda707a307c53"
+
+[[files]]
+file = "kubejs/server_scripts/nb_b_recipes.js"
+hash = "09adf1c2ad366abe5dca0408eb89e256602c12e850414c55c10462ed796558e4"
+
+[[files]]
+file = "kubejs/server_scripts/quark.js"
+hash = "57e82bb261398fde1eaa97ba8488f33f3b4e9d6b5b9754aa7c96f5e6bb015fbd"
+
+[[files]]
 file = "kubejs/server_scripts/recipes.js"
 hash = "70edc314dce0a554d9148c860690bc08fa11a5195eb9d07247bae98a73868d36"
+
+[[files]]
+file = "kubejs/server_scripts/vanilla_recipes.js"
+hash = "6e10cc4c6bd86731c83acd55c31b80fc2d86599c8277d2454ffa67bc1469ec9a"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
