@@ -453,10 +453,6 @@ file = "kubejs/server_scripts/quark.js"
 hash = "57e82bb261398fde1eaa97ba8488f33f3b4e9d6b5b9754aa7c96f5e6bb015fbd"
 
 [[files]]
-file = "kubejs/server_scripts/recipes.js"
-hash = "70edc314dce0a554d9148c860690bc08fa11a5195eb9d07247bae98a73868d36"
-
-[[files]]
 file = "kubejs/server_scripts/vanilla_recipes.js"
 hash = "6e10cc4c6bd86731c83acd55c31b80fc2d86599c8277d2454ffa67bc1469ec9a"
 
