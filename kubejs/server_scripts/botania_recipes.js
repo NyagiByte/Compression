@@ -159,4 +159,8 @@ ServerEvents.recipes(event => {
                     time: 1200 // int, specifies the amount of ticks a blockspace has to receive to convert into the output state - optional
             })
     //------------------------------------------------------------------
+    //Botania Sandpaper
+        //Polished Living Rock
+        event.recipes.createSandpaperPolishing('botania:polished_livingrock',['botania:livingrock'])
+    //------------------------------------------------------------------
 })

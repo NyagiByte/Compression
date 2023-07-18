@@ -34,7 +34,7 @@ ServerEvents.recipes(event => {
         //Furnace
             event.remove({output:'minecraft:furnace'});
             event.shaped(
-                Item.of('minecraft:furnace', 1), 
+                Item.of('minecraft:furnace'), 
                 [ 
                     'AAA',
                     'B B',
@@ -43,8 +43,29 @@ ServerEvents.recipes(event => {
                 {
                     A: 'minecraft:cobblestone_slab', 
                     B: 'minecraft:cobblestone'
-                })  
+                })    
+        //Blast Furnace
+            event.remove({output:'minecraft:blast_furnace'});
+            event.shaped(
+                Item.of('minecraft:blast_furnace'), 
+                [ 
+                    'DEE',
+                    'DCB',
+                    'AAA'
+                ],
+                {
+                    A: 'botania:polished_livingrock', 
+                    B: 'minecraft:iron_trapdoor',
+                    C: 'minecraft:furnace',
+                    D: 'create:industrial_iron_block',
+                    E: 'create:iron_sheet'
+
+                })   
+        
     //------------------------------------------------------------------
-            
+    //Blast Furnace
+        //Glass
+            event.remove({output:'minecraft:glass'});
+            event.blasting('minecraft:glass', 'minecraft:sand').xp(1.5);
 
 })

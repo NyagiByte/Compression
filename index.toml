@@ -438,15 +438,15 @@ hash = "b7e508628ac672c126dee507d6a5d06b7c1cc0e647f8546e293b0cce0d4a53c9"
 
 [[files]]
 file = "kubejs/server_scripts/botania_recipes.js"
-hash = "5feada692046761c23d6ac40bf40624ec689e157239382d82011d90e79ac2a3e"
+hash = "38cc3b79038e674a00d1bf3508f489773d6f64ac8266785f733129141dcd4f18"
 
 [[files]]
 file = "kubejs/server_scripts/create_recipes.js"
-hash = "d6e23a04e5318f25103935922a84148f77d399264ed605208d90ab0ae02c80cc"
+hash = "cf4bce92eebf7f4a4500c135452019c2bc5fd499977883ba03dadaedaec19cc0"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes.js"
-hash = "09adf1c2ad366abe5dca0408eb89e256602c12e850414c55c10462ed796558e4"
+hash = "cfb37dd5b5f1d25dffdb629aa322d4324ca082ec5917657f6271289a21c4d898"
 
 [[files]]
 file = "kubejs/server_scripts/quark.js"
@@ -458,7 +458,7 @@ hash = "23dfa6ff27f8beb9cf7a199e3da9e4765ceb3a7da515368facf3a1ca7e229e0f"
 
 [[files]]
 file = "kubejs/server_scripts/vanilla_recipes.js"
-hash = "6e10cc4c6bd86731c83acd55c31b80fc2d86599c8277d2454ffa67bc1469ec9a"
+hash = "4b3987256b70f0cf71a7fc92b390cf3ebe524c80510af402c1da7c4aad7a999f"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -739,7 +739,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.1-1.19.2.jar"
-hash = "6f75db35a3c7f7477b8e187fc93aed2da6d9d26c2675511a03ec34859b810f0f"
+hash = "2f63ca8c1cebebaa85e377254ebf00ab63cf5442190d8ab3b95842d6d4a111e8"
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"

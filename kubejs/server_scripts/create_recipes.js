@@ -111,7 +111,7 @@ ServerEvents.recipes(event => {
                 D: 'create:andesite_casing',
                 E: 'thermal:drill_head'
             })  
-        //Mechanical Drill
+        //Mechanical Saw
             event.remove({output: 'create:mechanical_saw'});
             event.shaped(Item.of('create:mechanical_saw'), [
                 ' AB',
@@ -123,7 +123,104 @@ ServerEvents.recipes(event => {
                 C: 'create:shaft',
                 D: 'create:andesite_casing',
                 E: 'thermal:saw_blade'
-            })                
+            })  
+        //Mechanical Harvester
+            event.remove({output: 'create:mechanical_harvester'});
+            event.shaped(Item.of('create:mechanical_harvester'), [
+                ' AB',
+                'CDE',
+                ' AB'
+            ], {
+                A: 'create:industrial_iron_block',
+                B: 'nyagibits_bytes:livisite_alloy',
+                C: 'create:shaft',
+                D: 'create:andesite_casing',
+                E: 'quark:grate'
+            })  
+        //Encased Fan
+            event.remove({output: 'create:encased_fan'});
+            event.shaped(Item.of('create:encased_fan'), [
+                ' AB',
+                'CDE',
+                ' AB'
+            ], {
+                A: 'create:industrial_iron_block',
+                B: 'nyagibits_bytes:livisite_alloy',
+                C: 'create:shaft',
+                D: 'create:andesite_casing',
+                E: 'create:propeller'
+            })  
+        //Millstone
+            event.remove({output: 'create:millstone'});
+            event.shaped(Item.of('create:millstone'), [
+                ' A ',
+                'BCB',
+                'DED'
+            ], {
+                A: 'create:chute',
+                B: 'nyagibits_bytes:livisite_alloy',
+                C: 'nyagibits_bytes:pile_of_cogs',
+                D: 'nyagibits_bytes:polished_livisite',
+                E: 'create:andesite_casing'
+            })  
+        //Empty Blaze Burner
+            event.remove({output: 'create:empty_blaze_burner'});
+            event.shaped(Item.of('create:empty_blaze_burner'), [
+                'A A',
+                'BCB',
+                'DED'
+            ], {
+                A: 'quark:iron_plate_stairs',
+                B: 'create:ornate_iron_window_pane',
+                C: 'minecraft:netherrack',
+                D: 'pneumaticcraft:ingot_iron_compressed',
+                E: 'minecraft:blast_furnace'
+            })  
+        //Brass Hand
+            event.remove({output: 'create:brass_hand'});
+            event.shaped(Item.of('create:brass_hand'), [
+                ' A ',
+                'BCB',
+                ' B '
+            ], {
+                A: 'nyagibits_bytes:livisite_alloy',
+                B: 'create:brass_nugget',
+                C: 'create:brass_ingot'
+            })  
+        //Hand Crank
+            event.remove({output: 'create:hand_crank'});
+            event.shaped(Item.of('create:hand_crank'), [
+                'AAB',
+                ' CD'
+            ], {
+                A: 'nyagibits_bytes:etched_living_wood',
+                B: 'nyagibits_bytes:pile_of_cogs',
+                C: 'create:brass_nugget',
+                D: 'create:shaft'
+            })  
+        //Rose Quartz
+            event.remove({output: 'create:rose_quartz'});
+            event.shaped(Item.of('2x create:rose_quartz'), [
+                'ABA',
+                'CDC',
+                'ACA'
+            ], {
+                A: 'minecraft:redstone',
+                B: 'minecraft:red_dye',
+                C: 'quark:clear_shard',
+                D: 'minecraft:quartz'
+            })  
+        //Mechanical Crafter
+            event.remove({output: 'create:mechanical_crafter'});
+            event.shaped(Item.of('8x create:mechanical_crafter'), [
+                'ABA',
+                'CDC'
+            ], {
+                A: 'nyagibits_bytes:pile_of_cogs',
+                B: 'create:brass_casing',
+                C: 'create:shaft',
+                D: 'create:belt_connector'
+            })                            
     //------------------------------------------------------------------
     //Create Mixing recipes
     //------------------------------------------------------------------
@@ -140,11 +237,30 @@ ServerEvents.recipes(event => {
     //Create right click recipes
         //Andesite Casing
                 ////////TEMPORARY RECIPE\\\\\\\\\\\\\\
+            event.remove({output: 'create:andesite_casing'});
                 event.shapeless('create:andesite_casing',['nyagibits_bytes:etched_living_wood', 'nyagibits_bytes:livisite_alloy'])
             event.recipes.createDeploying('create:andesite_casing',['nyagibits_bytes:etched_living_wood', 'nyagibits_bytes:livisite_alloy'])
+        //Brass Casing
+                ////////TEMPORARY RECIPE\\\\\\\\\\\\\\
+            event.remove({output: 'create:brass_casing'});
+                event.shapeless('create:brass_casing',['nyagibits_bytes:pile_of_crude_mechanical_parts', 'create:andesite_casing'])
+            event.recipes.createDeploying('create:brass_casing',['nyagibits_bytes:pile_of_crude_mechanical_parts', 'create:andesite_casing'])
     //------------------------------------------------------------------
-    //Create Sandpaper
-        //Polished Living Rock
-            event.recipes.createSandpaperPolishing('botania:polished_livingrock',['botania:livingrock'])
-    //------------------------------------------------------------------
+    //Create Mechanical recipes
+        //Deployer
+            event.remove({output: 'create:deployer'});
+            event.recipes.create.mechanicalCrafting('create:deployer', [
+                ' ABCD ',
+                'EFGHHH',
+                ' ABCD '
+            ], {
+                A: 'nyagibits_bytes:pile_of_cogs',
+                B: 'nyagibits_bytes:livisite_alloy',
+                C: 'botania:polished_livingrock_slab',
+                D: 'nyagibits_bytes:livisite_slate',
+                E: 'create:brass_hand',
+                F: 'create:brass_casing',
+                G: 'create:mechanical_piston',
+                H: 'create:piston_extension_pole'
+            })
 })
