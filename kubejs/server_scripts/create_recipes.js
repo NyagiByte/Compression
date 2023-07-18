@@ -80,8 +80,64 @@ ServerEvents.recipes(event => {
                 B: 'create:vertical_gearbox',
                 C: 'quark:iron_plate'
             })
+        //Whisk
+            event.remove({output: 'create:whisk'});
+            event.shaped(Item.of('create:whisk'), [
+                ' A ',
+                'BAB',
+                'BBB'
+            ], {
+                A: 'nyagibits_bytes:livisite_alloy',
+                B: 'create:iron_sheet'
+            })
+        //Mechanical Belt
+            event.remove({output: 'create:belt_connector'});
+            event.shaped(Item.of('create:belt_connector'), [
+                'BAB'
+            ], {
+                A: 'thermal:rubber',
+                B: 'immersiveengineering:hemp_fiber'
+            })  
+        //Mechanical Drill
+            event.remove({output: 'create:mechanical_drill'});
+            event.shaped(Item.of('create:mechanical_drill'), [
+                ' AB',
+                'CDE',
+                ' AB'
+            ], {
+                A: 'create:industrial_iron_block',
+                B: 'nyagibits_bytes:livisite_alloy',
+                C: 'create:shaft',
+                D: 'create:andesite_casing',
+                E: 'thermal:drill_head'
+            })  
+        //Mechanical Drill
+            event.remove({output: 'create:mechanical_saw'});
+            event.shaped(Item.of('create:mechanical_saw'), [
+                ' AB',
+                'CDE',
+                ' AB'
+            ], {
+                A: 'create:industrial_iron_block',
+                B: 'nyagibits_bytes:livisite_alloy',
+                C: 'create:shaft',
+                D: 'create:andesite_casing',
+                E: 'thermal:saw_blade'
+            })                
     //------------------------------------------------------------------
-    //Create right click recipies
+    //Create Mixing recipes
+    //------------------------------------------------------------------
+    //Create Compacting recipes
+        //Raw Rubber
+            event.remove({output: 'thermal:rubber'});
+            event.recipes.create.compacting(['thermal:rubber'], ['minecraft:vine', 'minecraft:dried_kelp', Fluid.of('water', 100)])
+    //------------------------------------------------------------------
+    //Create Press recipes
+        //Chute
+            event.remove({output: 'create:chute'});
+            event.recipes.create.pressing(['create:chute'], ['quark:iron_plate'])
+    //------------------------------------------------------------------
+    //Create right click recipes
         //Andesite Casing
                 ////////TEMPORARY RECIPE\\\\\\\\\\\\\\
                 event.shapeless('create:andesite_casing',['nyagibits_bytes:etched_living_wood', 'nyagibits_bytes:livisite_alloy'])
