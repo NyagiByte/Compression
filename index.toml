@@ -433,6 +433,10 @@ file = "kubejs/exported/tags/sandbox/template_pool_extension.txt"
 hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
+file = "kubejs/server_scripts/ae2.js"
+hash = "b39656ffabaa70f1938128398f5fa126c67f4a27f7392b4fc1217611337bf1e1"
+
+[[files]]
 file = "kubejs/server_scripts/aiot_botania.js"
 hash = "b7e508628ac672c126dee507d6a5d06b7c1cc0e647f8546e293b0cce0d4a53c9"
 
@@ -445,8 +449,12 @@ file = "kubejs/server_scripts/create_recipes.js"
 hash = "cf4bce92eebf7f4a4500c135452019c2bc5fd499977883ba03dadaedaec19cc0"
 
 [[files]]
+file = "kubejs/server_scripts/mekanism.js"
+hash = "3372741358e6a4d1a3b296b9ec7acaed5dc862c0435e58dc72f4b25c809da87f"
+
+[[files]]
 file = "kubejs/server_scripts/nb_b_recipes.js"
-hash = "cfb37dd5b5f1d25dffdb629aa322d4324ca082ec5917657f6271289a21c4d898"
+hash = "5c80588a7ee5a3b4a648c1bd9a7ca0d8bc576f6cdaa5a7fb17aa29c657d9caef"
 
 [[files]]
 file = "kubejs/server_scripts/quark.js"
@@ -458,7 +466,7 @@ hash = "23dfa6ff27f8beb9cf7a199e3da9e4765ceb3a7da515368facf3a1ca7e229e0f"
 
 [[files]]
 file = "kubejs/server_scripts/vanilla_recipes.js"
-hash = "4b3987256b70f0cf71a7fc92b390cf3ebe524c80510af402c1da7c4aad7a999f"
+hash = "19781fc4d72d45f07725b8bfe897bc371708c3c251e88cb88721809bfc3ac909"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -739,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.1-1.19.2.jar"
-hash = "e896585a2fca3942aafc602b0f1316f7dd4dff0a6992d5088b9ee6f0433df036"
+hash = "bfdac939c7a37f2cb546c37eb1c79bd7abf5667d80062cc654aa4e07a918044e"
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"

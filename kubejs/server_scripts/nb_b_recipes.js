@@ -1,5 +1,5 @@
 ServerEvents.recipes(event => {
-    //Nyagi's Bits & Bytes Shaped
+    //Nyagi's Bits & Bytes
 
     //Note recipes dont need removal since the core mod has no recipes
     
@@ -29,6 +29,59 @@ ServerEvents.recipes(event => {
                     B: 'botania:framed_livingwood',
                     C: 'nyagibits_bytes:livisite_alloy'
                 })
+        //Sturdy Box
+            event.shaped(
+                Item.of('nyagibits_bytes:sturdy_box'), 
+                [ 
+                    'A A', 
+                    'ABA'
+                ],
+                {
+                    A: 'nyagibits_bytes:etched_living_wood', 
+                    B: 'botania:open_crate'
+                })
+        //Crude Compression Test
+            event.shaped(
+                Item.of('nyagibits_bytes:crude_compression_test'), 
+                [ 
+                    'A', 
+                    'B',
+                    'C'
+                ],
+                {
+                    A: 'minecraft:piston', 
+                    B: 'nyagibits_bytes:soil_sample',
+                    C: 'nyagibits_bytes:sturdy_box'
+                })
+        //Sealed Pouch
+            event.shaped(
+                Item.of('2x nyagibits_bytes:sealed_pouch'), 
+                [ 
+                    'ACA', 
+                    'BDB',
+                    'ACA'
+                ],
+                {
+                    A: 'immersiveengineering:hemp_fiber', 
+                    B: 'minecraft:string',
+                    C: 'minecraft:paper',
+                    D: 'minecraft:leather'
+                })
+        //Crude Entropy Test
+            event.shaped(
+                Item.of('nyagibits_bytes:crude_entropy_test'), 
+                [ 
+                    ' A ', 
+                    'BCD',
+                    ' E '
+                ],
+                {
+                    A: 'minecraft:gunpowder', 
+                    B: 'minecraft:redstone',
+                    C: 'ae2:certus_quartz_dust',
+                    D: 'mekanism:dust_charcoal',
+                    E: 'nyagibits_bytes:sealed_pouch'
+                })
     //------------------------------------------------------------------
     //Nyagi's Bits & Bytes Shapeless 
         event.shapeless('4x nyagibits_bytes:crude_abrasive',['minecraft:sand', 'minecraft:gravel'])
@@ -55,5 +108,12 @@ ServerEvents.recipes(event => {
     //Nyagi's Bits & Bytes Compacting recipes
         //Pile of Crude Mechanical Parts
             event.recipes.create.compacting(['nyagibits_bytes:pile_of_crude_mechanical_parts'], ['create:wrench', 'create:electron_tube', 'create:gantry_shaft', 'create:brass_hand', 'nyagibits_bytes:pile_of_cogs', 'create:hand_crank', 'create:andesite_casing', 'create:brass_sheet'])
+        //Used Crude Compression Test
+            event.recipes.create.compacting(['nyagibits_bytes:used_crude_compression_test'], ['nyagibits_bytes:crude_compression_test'])
     //------------------------------------------------------------------
+    //Nyagi's Bits & Bytes Create Mixing
+        //Soild Sample
+            event.recipes.create.mixing('4x nyagibits_bytes:soil_sample',['minecraft:coarse_dirt', 'minecraft:sand', 'minecraft:clay', 'minecraft:mud'])
+        //Used Crude Entropy Test
+            event.recipes.create.mixing('nyagibits_bytes:used_crude_entropy_test',['nyagibits_bytes:crude_entropy_test']).heated()
     })

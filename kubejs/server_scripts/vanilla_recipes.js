@@ -60,7 +60,23 @@ ServerEvents.recipes(event => {
                     D: 'create:industrial_iron_block',
                     E: 'create:iron_sheet'
 
-                })   
+                })    
+        //Piston
+            event.remove({output:'minecraft:piston'});
+            event.shaped(
+                Item.of('minecraft:piston'), 
+                [ 
+                    'AAA',
+                    'BCB',
+                    'BDB'
+                ],
+                {
+                    A: '#minecraft:planks', 
+                    B: 'nyagibits_bytes:livisite_cobble',
+                    C: 'create:piston_extension_pole',
+                    D: 'minecraft:redstone'
+
+                })     
         
     //------------------------------------------------------------------
     //Blast Furnace
