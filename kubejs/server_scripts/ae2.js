@@ -18,8 +18,15 @@ ServerEvents.recipes(event => {
                     C: 'botania:solegnolia'
                 })
 
-})
 
+//------------------------------------------------------------------
+    //Applied Energistics 2 Cutting
+        //Silicon
+            event.remove({output: 'ae2:silicon'});
+            event.recipes.create.cutting('2x ae2:silicon',['nyagibits_bytes:crude_silicon_boule'])
+
+//------------------------------------------------------------------
+})
 //------------------------------------------------------------------
     //Create Sequenced Assembly
     ServerEvents.recipes(e => {

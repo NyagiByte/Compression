@@ -213,6 +213,9 @@ ServerEvents.recipes(event => {
             event.recipes.create.mixing('nyagibits_bytes:used_crude_entropy_test',['nyagibits_bytes:crude_entropy_test']).heated()
         //Ink
             event.recipes.create.mixing('2x nyagibits_bytes:ink',['minecraft:ink_sac', Fluid.of('water', 1000)]).heated()
+        //Crude Silicon Boule
+            //Note '16x minecraft:sand' does not work to add 16 sand to the mix recipe for some reason
+            event.recipes.create.mixing('nyagibits_bytes:crude_silicon_boule',['minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand']).superheated()
 
     //------------------------------------------------------------------
     //Nyagi's Bits & Bytes Create Milling
@@ -329,5 +332,23 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('create:sturdy_sheet', ['create:sturdy_sheet', 'create:iron_sheet'])
 
                     ]).loops(4).transitionalItem('create:sturdy_sheet')
+        //Diamond Shard
+            e.recipes.createSequencedAssembly([
+                    Item.of('4x nyagibits_bytes:diamond_shard'),
+                ], 'minecraft:diamond',
+                    [
+                        e.recipes.createPressing('minecraft:diamond', ['minecraft:diamond']),
+
+                    ]).loops(16).transitionalItem('minecraft:diamond')
+        //Etched Redstone Plates
+            e.recipes.createSequencedAssembly([
+                    Item.of('9x nyagibits_bytes:etched_redstone_plate'),
+                ], 'minecraft:redstone_block',
+                    [
+                        e.recipes.createDeploying('minecraft:redstone_block', ['minecraft:redstone_block', 'ae2:quartz_fiber']),
+                        e.recipes.createPressing('minecraft:redstone_block', ['minecraft:redstone_block']),
+                        e.recipes.createCutting('minecraft:redstone_block', ['minecraft:redstone_block'])
+
+                    ]).loops(1).transitionalItem('minecraft:redstone_block')
         //------------------------------------------------------------------
         })
