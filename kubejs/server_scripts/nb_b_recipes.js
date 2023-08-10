@@ -95,6 +95,79 @@ ServerEvents.recipes(event => {
                     C: 'nyagibits_bytes:torn_wool_ball',
                     D: 'create:zinc_nugget'
                 })
+        //Ae2 Schematic
+            event.shaped(
+                Item.of('nyagibits_bytes:ae2_schematic'), 
+                [ 
+                    'BCD', 
+                    ' A '
+                ],
+                {
+                    A: 'minecraft:paper', 
+                    B: 'nyagibits_bytes:lab_notebook_with_crude_statics_data',
+                    C: 'nyagibits_bytes:lab_notebook_with_crude_compression_data',
+                    D: 'nyagibits_bytes:lab_notebook_with_crude_entropy_data'
+                })
+        //Ae2 Assembly
+            event.shaped(
+                Item.of('nyagibits_bytes:ae2_assembly'), 
+                [ 
+                    'ABC', 
+                    'DEF',
+                    'GHI'
+                ],
+                {
+                    A: 'nyagibits_bytes:crystal_harmonizer', 
+                    B: 'nyagibits_bytes:processor_stack',
+                    C: 'nyagibits_bytes:energized_frame',
+                    D: 'nyagibits_bytes:energized_wires',
+                    E: 'create:brass_casing',
+                    F: 'nyagibits_bytes:skystone_shielding',
+                    G: 'nyagibits_bytes:matter_converters',
+                    H: 'nyagibits_bytes:decorative_paneling',
+                    I: 'nyagibits_bytes:micro_tools'
+                })
+        //Processor Stack
+            event.shaped(
+                Item.of('nyagibits_bytes:processor_stack'), 
+                [ 
+                    'ACA', 
+                    'BDB',
+                    'AEA'
+                ],
+                {
+                    A: 'create:iron_sheet', 
+                    B: 'create:shaft',
+                    C: 'ae2:engineering_processor',
+                    D: 'ae2:calculation_processor',
+                    E: 'ae2:logic_processor'
+                })
+        //Matter Converters
+            event.shaped(
+                Item.of('nyagibits_bytes:matter_converters'), 
+                [ 
+                    ' AC', 
+                    'ADA',
+                    'BA '
+                ],
+                {
+                    A: 'ae2:sky_stone_brick_slab', 
+                    B: 'ae2:formation_core',
+                    C: 'ae2:annihilation_core',
+                    D: 'ae2:tiny_tnt'
+                })
+        //Decorative Paneling
+            event.shaped(
+                Item.of('nyagibits_bytes:decorative_paneling'), 
+                [ 
+                    ' A ', 
+                    'ABA',
+                    ' A '
+                ],
+                {
+                    A: 'ae2:cable_anchor', 
+                    B: 'nyagibits_bytes:livisite_slate'
+                })
     //------------------------------------------------------------------
     //Nyagi's Bits & Bytes Shapeless 
         //Crude Abrasive
@@ -130,6 +203,8 @@ ServerEvents.recipes(event => {
             event.recipes.create.compacting(['nyagibits_bytes:pile_of_crude_mechanical_parts'], ['create:wrench', 'create:electron_tube', 'create:gantry_shaft', 'create:brass_hand', 'nyagibits_bytes:pile_of_cogs', 'create:hand_crank', 'create:andesite_casing', 'create:brass_sheet'])
         //Used Crude Compression Test
             event.recipes.create.compacting(['nyagibits_bytes:used_crude_compression_test'], ['nyagibits_bytes:crude_compression_test'])
+        //Micro Tools
+            event.recipes.create.compacting(['nyagibits_bytes:micro_tools'], ['create:andesite_casing', 'ae2:certus_quartz_wrench', 'ae2:nether_quartz_wrench', 'ae2:crank', Item.of('ae2:nether_quartz_cutting_knife', '{Damage:0}'), Item.of('ae2:certus_quartz_cutting_knife', '{Damage:0}')])
     //------------------------------------------------------------------
     //Nyagi's Bits & Bytes Create Mixing
         //Soild Sample
@@ -212,5 +287,47 @@ ServerEvents.recipes(event => {
                         e.recipes.createPressing('nyagibits_bytes:pen_assembly', ['nyagibits_bytes:pen_assembly'])
 
                     ]).loops(1).transitionalItem('nyagibits_bytes:ink')
+        //Crystal Harmonizer
+            e.recipes.createSequencedAssembly([
+                    Item.of('nyagibits_bytes:crystal_harmonizer'),
+                ], 'minecraft:comparator',
+                    [
+                        e.recipes.createDeploying('minecraft:comparator', ['minecraft:comparator', 'ae2:certus_quartz_crystal']),
+                        e.recipes.createDeploying('minecraft:comparator', ['minecraft:comparator', 'ae2:fluix_crystal']),
+                        e.recipes.createDeploying('minecraft:comparator', ['minecraft:comparator', 'ae2:charged_certus_quartz_crystal']),
+                        e.recipes.createDeploying('minecraft:comparator', ['minecraft:comparator', 'byg:quartz_crystal']),
+                        e.recipes.createDeploying('minecraft:comparator', ['minecraft:comparator', 'minecraft:redstone'])
+
+                    ]).loops(2).transitionalItem('minecraft:comparator')
+        //Energized Frame
+            e.recipes.createSequencedAssembly([
+                    Item.of('nyagibits_bytes:energized_frame'),
+                ], 'quark:framed_glass',
+                    [
+                        e.recipes.createDeploying('quark:framed_glass', ['quark:framed_glass', 'ae2:certus_quartz_dust']),
+                        e.recipes.createDeploying('quark:framed_glass', ['quark:framed_glass', 'create:sturdy_sheet']),
+                        e.recipes.createDeploying('quark:framed_glass', ['quark:framed_glass', 'create:brass_sheet'])
+
+                    ]).loops(1).transitionalItem('quark:framed_glass')
+        //Energized Wires
+            e.recipes.createSequencedAssembly([
+                    Item.of('nyagibits_bytes:energized_wires'),
+                ], 'ae2:quartz_fiber',
+                    [
+                        e.recipes.createDeploying('ae2:quartz_fiber', ['ae2:quartz_fiber', 'ae2:certus_quartz_dust']),
+                        e.recipes.createDeploying('ae2:quartz_fiber', ['ae2:quartz_fiber', 'create:sturdy_sheet']),
+                        e.recipes.createDeploying('ae2:quartz_fiber', ['ae2:quartz_fiber', 'create:brass_sheet'])
+
+                    ]).loops(1).transitionalItem('ae2:quartz_fiber')
+        //Skystone Shielding
+            e.recipes.createSequencedAssembly([
+                    Item.of('nyagibits_bytes:skystone_shielding'),
+                ], 'create:sturdy_sheet',
+                    [
+                        e.recipes.createDeploying('create:sturdy_sheet', ['create:sturdy_sheet', 'ae2:sky_stone_slab']),
+                        e.recipes.createDeploying('create:sturdy_sheet', ['create:sturdy_sheet', 'ae2:sky_dust']),
+                        e.recipes.createDeploying('create:sturdy_sheet', ['create:sturdy_sheet', 'create:iron_sheet'])
+
+                    ]).loops(4).transitionalItem('create:sturdy_sheet')
         //------------------------------------------------------------------
         })
