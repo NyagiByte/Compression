@@ -458,7 +458,7 @@ hash = "3372741358e6a4d1a3b296b9ec7acaed5dc862c0435e58dc72f4b25c809da87f"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes.js"
-hash = "1ff03f269215a44d2179c188eb54310da4a168bde1144dfcfe4f1e58c1e1e809"
+hash = "d1d41d2df202db480e23a6f12243d9c4bef93337188e1e32edf2f30beed187ef"
 
 [[files]]
 file = "kubejs/server_scripts/quark.js"
@@ -751,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.1-1.19.2.jar"
-hash = "6eabaa989bc131578950580accda0ef3c5e19b05523485eae80ef12da1e21f12"
+hash = "b8bd48897620679c9428474d846f7755f472061375baaade8f7f9bc5260ba77d"
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"

@@ -105,6 +105,8 @@ ServerEvents.recipes(event => {
             event.shapeless('nyagibits_bytes:bucket_of_salt_water',['mekanism:salt', 'minecraft:water_bucket'])
         //Pen Assembly
             event.shapeless('nyagibits_bytes:pen_assembly',['nyagibits_bytes:ball_bearing', 'nyagibits_bytes:thin_casing', 'nyagibits_bytes:tiny_spring', 'nyagibits_bytes:ink_cartridge'])
+        //Lab Notebook
+            event.shapeless('nyagibits_bytes:lab_notebook',['nyagibits_bytes:pen', 'minecraft:book'])
     //------------------------------------------------------------------
     //Nyagi's Bits & Bytes Pure Daisy recipes
         //Livisite
@@ -134,6 +136,8 @@ ServerEvents.recipes(event => {
             event.recipes.create.mixing('4x nyagibits_bytes:soil_sample',['minecraft:coarse_dirt', 'minecraft:sand', 'minecraft:clay', 'minecraft:mud'])
         //Used Crude Entropy Test
             event.recipes.create.mixing('nyagibits_bytes:used_crude_entropy_test',['nyagibits_bytes:crude_entropy_test']).heated()
+        //Ink
+            event.recipes.create.mixing('2x nyagibits_bytes:ink',['minecraft:ink_sac', Fluid.of('water', 1000)]).heated()
 
     //------------------------------------------------------------------
     //Nyagi's Bits & Bytes Create Milling
@@ -143,7 +147,33 @@ ServerEvents.recipes(event => {
     //Nyagi's Bits & Bytes Create Cutting
         //Thin Casing
             event.recipes.create.cutting('2x nyagibits_bytes:thin_casing',['create:shaft'])
-            //------------------------------------------------------------------
+    //------------------------------------------------------------------
+    //Nyagi's Bits & Bytes Create Mechanical recipes
+        //Lab Notebook with Crude Compression Data
+            event.recipes.create.mechanicalCrafting('nyagibits_bytes:lab_notebook_with_crude_compression_data', [
+                'A',
+                'B'
+            ], {
+                A: 'nyagibits_bytes:lab_notebook',
+                B: 'nyagibits_bytes:used_crude_compression_test'
+            })
+        //Lab Notebook with Crude Statics Data
+            event.recipes.create.mechanicalCrafting('nyagibits_bytes:lab_notebook_with_crude_statics_data', [
+                'A',
+                'B'
+            ], {
+                A: 'nyagibits_bytes:lab_notebook',
+                B: 'nyagibits_bytes:used_crude_statics_test'
+            })
+        //Lab Notebook with Crude Entropy Data
+            event.recipes.create.mechanicalCrafting('nyagibits_bytes:lab_notebook_with_crude_entropy_data', [
+                'A',
+                'B'
+            ], {
+                A: 'nyagibits_bytes:lab_notebook',
+                B: 'nyagibits_bytes:used_crude_entropy_test'
+            })
+    //------------------------------------------------------------------
         })
     //------------------------------------------------------------------
     //Create Sequenced Assembly
@@ -163,4 +193,24 @@ ServerEvents.recipes(event => {
                         e.recipes.createCutting('create:iron_sheet', ['create:iron_sheet']),
                         e.recipes.createPressing('create:iron_sheet', ['create:iron_sheet'])
                     ]).loops(2).transitionalItem('create:iron_sheet')
+        //Ink Cartridge
+            e.recipes.createSequencedAssembly([
+                    Item.of('4x nyagibits_bytes:ink_cartridge'),
+                ], 'nyagibits_bytes:ink',
+                    [
+                        e.recipes.createDeploying('nyagibits_bytes:ink', ['nyagibits_bytes:ink', 'nyagibits_bytes:thin_casing'])
+                    ]).loops(4).transitionalItem('nyagibits_bytes:ink')
+        //Pen
+            e.recipes.createSequencedAssembly([
+                    Item.of('nyagibits_bytes:pen'),
+                ], 'nyagibits_bytes:pen_assembly',
+                    [
+                        e.recipes.createDeploying('nyagibits_bytes:pen_assembly', ['nyagibits_bytes:pen_assembly', 'thermal:cured_rubber']),
+                        e.recipes.createPressing('nyagibits_bytes:pen_assembly', ['nyagibits_bytes:pen_assembly']),
+                        e.recipes.createPressing('nyagibits_bytes:pen_assembly', ['nyagibits_bytes:pen_assembly']),
+                        e.recipes.createPressing('nyagibits_bytes:pen_assembly', ['nyagibits_bytes:pen_assembly']),
+                        e.recipes.createPressing('nyagibits_bytes:pen_assembly', ['nyagibits_bytes:pen_assembly'])
+
+                    ]).loops(1).transitionalItem('nyagibits_bytes:ink')
+        //------------------------------------------------------------------
         })
