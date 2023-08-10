@@ -103,6 +103,8 @@ ServerEvents.recipes(event => {
             event.shapeless('nyagibits_bytes:pile_of_cogs',['create:large_cogwheel', '3x create:cogwheel'])
         //Bucket of Salt Water
             event.shapeless('nyagibits_bytes:bucket_of_salt_water',['mekanism:salt', 'minecraft:water_bucket'])
+        //Pen Assembly
+            event.shapeless('nyagibits_bytes:pen_assembly',['nyagibits_bytes:ball_bearing', 'nyagibits_bytes:thin_casing', 'nyagibits_bytes:tiny_spring', 'nyagibits_bytes:ink_cartridge'])
     //------------------------------------------------------------------
     //Nyagi's Bits & Bytes Pure Daisy recipes
         //Livisite
@@ -132,14 +134,33 @@ ServerEvents.recipes(event => {
             event.recipes.create.mixing('4x nyagibits_bytes:soil_sample',['minecraft:coarse_dirt', 'minecraft:sand', 'minecraft:clay', 'minecraft:mud'])
         //Used Crude Entropy Test
             event.recipes.create.mixing('nyagibits_bytes:used_crude_entropy_test',['nyagibits_bytes:crude_entropy_test']).heated()
-    })
+
+    //------------------------------------------------------------------
+    //Nyagi's Bits & Bytes Create Milling
+        //Ball Bearing
+            event.recipes.create.milling('8x nyagibits_bytes:ball_bearing',['minecraft:iron_nugget'])
+    //------------------------------------------------------------------
+    //Nyagi's Bits & Bytes Create Cutting
+        //Thin Casing
+            event.recipes.create.cutting('2x nyagibits_bytes:thin_casing',['create:shaft'])
+            //------------------------------------------------------------------
+        })
     //------------------------------------------------------------------
     //Create Sequenced Assembly
     ServerEvents.recipes(e => {
-        e.recipes.createSequencedAssembly([
-                Item.of('nyagibits_bytes:used_crude_statics_test'),
-            ], 'nyagibits_bytes:crude_statics_test',
-                [
-                    e.recipes.createDeploying('nyagibits_bytes:crude_statics_test', ['nyagibits_bytes:crude_statics_test', 'nyagibits_bytes:torn_wool_ball'])
-                ]).loops(8).transitionalItem('nyagibits_bytes:crude_statics_test')
+        //Used Crude Statics Test
+            e.recipes.createSequencedAssembly([
+                    Item.of('nyagibits_bytes:used_crude_statics_test'),
+                ], 'nyagibits_bytes:crude_statics_test',
+                    [
+                        e.recipes.createDeploying('nyagibits_bytes:crude_statics_test', ['nyagibits_bytes:crude_statics_test', 'nyagibits_bytes:torn_wool_ball'])
+                    ]).loops(8).transitionalItem('nyagibits_bytes:crude_statics_test')
+        //Tiny Spring
+            e.recipes.createSequencedAssembly([
+                    Item.of('8x nyagibits_bytes:tiny_spring'),
+                ], 'create:iron_sheet',
+                    [
+                        e.recipes.createCutting('create:iron_sheet', ['create:iron_sheet']),
+                        e.recipes.createPressing('create:iron_sheet', ['create:iron_sheet'])
+                    ]).loops(2).transitionalItem('create:iron_sheet')
         })
