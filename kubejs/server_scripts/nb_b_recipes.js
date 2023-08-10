@@ -82,11 +82,27 @@ ServerEvents.recipes(event => {
                     D: 'mekanism:dust_charcoal',
                     E: 'nyagibits_bytes:sealed_pouch'
                 })
+        //Crude Static Test
+            event.shaped(
+                Item.of('nyagibits_bytes:crude_statics_test'), 
+                [ 
+                    'BCD', 
+                    ' A '
+                ],
+                {
+                    A: 'nyagibits_bytes:bucket_of_salt_water', 
+                    B: 'create:copper_nugget',
+                    C: 'nyagibits_bytes:torn_wool_ball',
+                    D: 'create:zinc_nugget'
+                })
     //------------------------------------------------------------------
     //Nyagi's Bits & Bytes Shapeless 
-        event.shapeless('4x nyagibits_bytes:crude_abrasive',['minecraft:sand', 'minecraft:gravel'])
-    //Nyagi's Bits & Bytes Shapeless 
-        event.shapeless('nyagibits_bytes:pile_of_cogs',['create:large_cogwheel', '3x create:cogwheel'])
+        //Crude Abrasive
+            event.shapeless('4x nyagibits_bytes:crude_abrasive',['minecraft:sand', 'minecraft:gravel']) 
+        //Pile Of Cogs
+            event.shapeless('nyagibits_bytes:pile_of_cogs',['create:large_cogwheel', '3x create:cogwheel'])
+        //Bucket of Salt Water
+            event.shapeless('nyagibits_bytes:bucket_of_salt_water',['mekanism:salt', 'minecraft:water_bucket'])
     //------------------------------------------------------------------
     //Nyagi's Bits & Bytes Pure Daisy recipes
         //Livisite
@@ -117,3 +133,13 @@ ServerEvents.recipes(event => {
         //Used Crude Entropy Test
             event.recipes.create.mixing('nyagibits_bytes:used_crude_entropy_test',['nyagibits_bytes:crude_entropy_test']).heated()
     })
+    //------------------------------------------------------------------
+    //Create Sequenced Assembly
+    ServerEvents.recipes(e => {
+        e.recipes.createSequencedAssembly([
+                Item.of('nyagibits_bytes:used_crude_statics_test'),
+            ], 'nyagibits_bytes:crude_statics_test',
+                [
+                    e.recipes.createDeploying('nyagibits_bytes:crude_statics_test', ['nyagibits_bytes:crude_statics_test', 'nyagibits_bytes:torn_wool_ball'])
+                ]).loops(8).transitionalItem('nyagibits_bytes:crude_statics_test')
+        })

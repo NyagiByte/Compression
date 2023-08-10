@@ -1,6 +1,8 @@
 ServerEvents.recipes(event => {
 //Vanilla
-
+    //------------------------------------------------------------------
+    //Removal 
+        event.remove({output: 'minecraft:white_wool'});
     //------------------------------------------------------------------
     //Vanilla Items Shapeless
         //Paper
@@ -76,7 +78,19 @@ ServerEvents.recipes(event => {
                     C: 'create:piston_extension_pole',
                     D: 'minecraft:redstone'
 
-                })     
+                })    
+        //Bucket
+            event.remove({output:'minecraft:bucket'});
+            event.shaped(
+                Item.of('minecraft:bucket'), 
+                [ 
+                    'A A',
+                    ' A '
+                ],
+                {
+                    A: 'create:iron_sheet'
+
+                })       
         
     //------------------------------------------------------------------
     //Blast Furnace
