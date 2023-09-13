@@ -635,6 +635,11 @@ hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
 metafile = true
 
 [[files]]
+file = "mods/defaultworldtype.pw.toml"
+hash = "d708009877968995fedd40faff70f54dfb32707e1ea0908ca643a27c69d2c1b5"
+metafile = true
+
+[[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "4c609b500836cde1384f1306ac55ad31efd00fcd06c096b65676e18ec3a429b4"
 metafile = true
@@ -760,6 +765,11 @@ hash = "f6cc47777418eada79b50d6cdd57bd6dc35017f8e46defd5e888a2d6215be0e1"
 metafile = true
 
 [[files]]
+file = "mods/mod-name-tooltip.pw.toml"
+hash = "0f37846b5bc38059aad5800e48e22a7d24b915ef553e3241af2b63e9ba864237"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
 metafile = true
@@ -846,6 +856,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
 hash = "453855eca691e5b0c2502517bc5fcd60aaeb9645c4a45f3af2e456135ed347af"
+metafile = true
+
+[[files]]
+file = "mods/yeetusexperimentus.pw.toml"
+hash = "233f79cd76dc6d14c59a4cfbdc6660805c3f858e057061c1ca08df8cad73c56b"
 metafile = true
 
 [[files]]
