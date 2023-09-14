@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Mekanism/world.toml"
+hash = "4afe6819aa4da9a2317c4f8578c4fbb74b941a90875d142cc8b699531f898267"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "667b50af91a4312360fac0502a25f9497e745e3e321b297ed4efb6e257e81db4"
 
@@ -27,6 +31,10 @@ hash = "a440d2a7ce939ef3c462475555a9a188263aebdbf13db600de3f01d9d312970c"
 [[files]]
 file = "config/forge-resource-caching.toml"
 hash = "acfdb749a28106463b96980100a7e542b0b2bc3f9c9464196e0765a4f1c39061"
+
+[[files]]
+file = "defaultconfigs/immersiveengineering-server.toml"
+hash = "7ea6e676c1e585b9b793e719144809afbeee4cc9979fb550ea4a5c55df98d61a"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -475,6 +483,10 @@ hash = "617c0f6f31c79c8ba2cbd5c07b02bb998ba9a5a4630e4b680c8284dc08437b05"
 [[files]]
 file = "kubejs/startup_scripts/script.js"
 hash = "c5aa5aeea928ccb7a51356901bce92f64984d608db586128da2e1452b0e379b7"
+
+[[files]]
+file = "kubejs/startup_scripts/worldgen.js"
+hash = "5b2de7abffbe389f98cb51e285f59c55d7777e8b4a255551c070b018835572bd"
 
 [[files]]
 file = "mods/3dskinlayers-forge-1.5.2-mc1.19.1.jar"
