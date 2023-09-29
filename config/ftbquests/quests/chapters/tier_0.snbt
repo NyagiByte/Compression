@@ -1,0 +1,722 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_0"
+	group: ""
+	icon: "ae2:controller"
+	id: "5777DC61D20EFD38"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"38759235CBA030FE"
+				"202FD86BCA12CFCD"
+				"4BF754A57EA40429"
+			]
+			icon: "ae2:controller"
+			id: "7063B8BCE64899C9"
+			shape: "hexagon"
+			size: 3.0d
+			tasks: [{
+				id: "73D3F42F0A83A1BD"
+				item: "nyagibits_bytes:ae2_schematic"
+				type: "item"
+			}]
+			title: "Applied Energistics 2"
+			x: 0.5d
+			y: 13.0d
+		}
+		{
+			dependencies: [
+				"7E8C5DB4A0CC311A"
+				"7E87A032289F7370"
+			]
+			id: "38759235CBA030FE"
+			shape: "hexagon"
+			tasks: [{
+				id: "680935FD9B9368B6"
+				item: "nyagibits_bytes:lab_notebook_with_crude_compression_data"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 10.5d
+		}
+		{
+			dependencies: [
+				"7E8C5DB4A0CC311A"
+				"770C7DBC0FB627B2"
+			]
+			id: "4BF754A57EA40429"
+			shape: "hexagon"
+			tasks: [{
+				id: "22C6F852C1E84DB7"
+				item: "nyagibits_bytes:lab_notebook_with_crude_statics_data"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 10.5d
+		}
+		{
+			dependencies: [
+				"7E8C5DB4A0CC311A"
+				"3BA93909A397863E"
+			]
+			id: "202FD86BCA12CFCD"
+			shape: "hexagon"
+			tasks: [{
+				id: "7114FCE4AAC04A38"
+				item: "nyagibits_bytes:lab_notebook_with_crude_entropy_data"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["64859B912D563011"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "7E8C5DB4A0CC311A"
+			shape: "hexagon"
+			tasks: [{
+				id: "4EC93F877CAE313F"
+				item: "nyagibits_bytes:lab_notebook"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["710B939C28B99198"]
+			id: "770C7DBC0FB627B2"
+			shape: "hexagon"
+			tasks: [{
+				id: "66C2CB353BA9ACCC"
+				item: "nyagibits_bytes:used_crude_statics_test"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["4E4521C606190636"]
+			id: "7E87A032289F7370"
+			shape: "hexagon"
+			tasks: [{
+				id: "310F49926462E83A"
+				item: "nyagibits_bytes:used_crude_compression_test"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["6A7830EE46C1F225"]
+			id: "3BA93909A397863E"
+			shape: "hexagon"
+			tasks: [{
+				id: "3A699AF3CFA2955B"
+				item: "nyagibits_bytes:used_crude_entropy_test"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 9.0d
+		}
+		{
+			dependency_requirement: "one_completed"
+			id: "710B939C28B99198"
+			shape: "hexagon"
+			tasks: [{
+				id: "7E4B69762581F9B4"
+				item: "nyagibits_bytes:crude_statics_test"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 8.0d
+		}
+		{
+			id: "4E4521C606190636"
+			shape: "hexagon"
+			tasks: [{
+				id: "0608D8688CC38117"
+				item: "nyagibits_bytes:crude_compression_test"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 7.5d
+		}
+		{
+			id: "6A7830EE46C1F225"
+			shape: "hexagon"
+			tasks: [{
+				id: "6C6DDC90E9425DE7"
+				item: "nyagibits_bytes:crude_entropy_test"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["030A8303B3827284"]
+			id: "64859B912D563011"
+			shape: "hexagon"
+			tasks: [{
+				id: "3067DA7A478B50D3"
+				item: "nyagibits_bytes:pen"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"0301CFDBE4EBB36A"
+				"4BF754A57EA40429"
+				"202FD86BCA12CFCD"
+			]
+			icon: "alchemistry:dissolver"
+			id: "177A2060FFFA6932"
+			shape: "hexagon"
+			size: 2.0d
+			title: "Alchemistry"
+			x: -2.0d
+			y: 13.0d
+		}
+		{
+			dependencies: [
+				"202FD86BCA12CFCD"
+				"5B2FAF848FE69A9D"
+			]
+			icon: "botania:fabulous_pool"
+			id: "6C86D86CCAEED256"
+			shape: "hexagon"
+			size: 2.0d
+			title: "Botania"
+			x: 3.0d
+			y: 13.0d
+		}
+		{
+			dependencies: [
+				"3877192A0CE7A58C"
+				"5CF731C7D9CE3BE0"
+			]
+			id: "5FD4E5F7C28806E5"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "25A0B9FE16809BD3"
+				item: {
+					Count: 1b
+					id: "immersiveengineering:hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["3E9A1FE5841F94D1"]
+			id: "0301CFDBE4EBB36A"
+			shape: "hexagon"
+			tasks: [{
+				id: "6C3D8044493769EB"
+				item: "nyagibits_bytes:lab_notebook_with_crude_acidics_data"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["45CE62BA434CAC71"]
+			id: "5B2FAF848FE69A9D"
+			shape: "hexagon"
+			tasks: [{
+				id: "61F191633AB8A8C2"
+				item: "nyagibits_bytes:lab_notebook_with_crude_natural_arcana_data"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["73BBDB52CEA06B8A"]
+			id: "3E9A1FE5841F94D1"
+			shape: "hexagon"
+			tasks: [{
+				id: "6B309CF1857924B4"
+				item: "nyagibits_bytes:used_crude_acidics_test"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["63572758F873D9AA"]
+			id: "45CE62BA434CAC71"
+			shape: "hexagon"
+			tasks: [{
+				id: "68B61C717506A742"
+				item: "nyagibits_bytes:used_crude_natural_arcana_test"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 8.5d
+		}
+		{
+			id: "73BBDB52CEA06B8A"
+			shape: "hexagon"
+			tasks: [{
+				id: "4EE4E9AF8B396599"
+				item: "nyagibits_bytes:crude_acidics_test"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 7.5d
+		}
+		{
+			id: "63572758F873D9AA"
+			shape: "hexagon"
+			tasks: [{
+				id: "0AD51114A4A1EEBC"
+				item: "nyagibits_bytes:crude_natural_arcana_test"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["0301CFDBE4EBB36A"]
+			description: [
+				"Thats right! Due to the gimmick of \"craft everything\" it only makes sense for future science"
+				"to require the ground breaking work of previous science."
+				""
+				"Don't worry as science will also be subject to &brecipe scaling"
+			]
+			icon: "minecraft:writable_book"
+			id: "6AB5F63B5AD1C84D"
+			shape: "hexagon"
+			tasks: [{
+				id: "56A23577265585D6"
+				title: "Science in Science?!"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: 13.0d
+		}
+		{
+			dependencies: ["6AB5F63B5AD1C84D"]
+			id: "3C40482F07310467"
+			shape: "hexagon"
+			tasks: [{
+				id: "6A23A2FB33C5C8B8"
+				item: "nyagibits_bytes:crude_material_properties_test"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["3C40482F07310467"]
+			id: "63CBF0ED263FF6F9"
+			shape: "hexagon"
+			tasks: [{
+				id: "77C1D7997CA954FE"
+				item: "nyagibits_bytes:used_crude_material_properties_test"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["63CBF0ED263FF6F9"]
+			id: "3877192A0CE7A58C"
+			shape: "hexagon"
+			tasks: [{
+				id: "039327DE4563B7ED"
+				item: "nyagibits_bytes:lab_notebook_with_crude_material_properties_data"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["5B2FAF848FE69A9D"]
+			description: [
+				"Alchemistry, Botania, and Immersive Engineering are all interwoven right out of the gate"
+				""
+				"&bYou need all 3 to do anything"
+			]
+			icon: "thermal:enderium_gear"
+			id: "31869F0FD4F46592"
+			shape: "hexagon"
+			tasks: [{
+				id: "59E8C43FACF77D82"
+				title: "MASS AUTOMATION UP AHEAD"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 13.0d
+		}
+		{
+			dependencies: ["31869F0FD4F46592"]
+			description: [
+				"1) Yes I did add these in for the sake of symmetry"
+				""
+				"2) This is your warning that each tier increase will demand the previous tier 16 times over!"
+				""
+				"Dont start crying yet tho, as the &bNumber go up&r and &bM-Ores&r exist to show the"
+				"recipe scaling in the pack for raw inputs and ore processing"
+			]
+			icon: "megacells:bulk_cell_component"
+			id: "070987945CDE95A7"
+			shape: "hexagon"
+			tasks: [{
+				id: "2EBAA7808107BB83"
+				title: "Scale will x16 per tier"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["070987945CDE95A7"]
+			description: ["Oh yeah also all those \"manual\" things you did with the petal apothecary and other random things? Go back and automate those if possible. You will need to have an automatic supply of &beverything"]
+			icon: "create:mechanical_crafter"
+			id: "0EFAB63A5ECC5F0C"
+			shape: "hexagon"
+			tasks: [{
+				id: "3D5F8D5E0713C3EA"
+				title: "Automate like your life depends on it"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["0EFAB63A5ECC5F0C"]
+			icon: "botania:cosmetic_thinking_hand"
+			id: "5CF731C7D9CE3BE0"
+			shape: "hexagon"
+			tasks: [{
+				id: "5AD584B8ABF15397"
+				title: "The tutorial is over, good luck"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 14.5d
+		}
+		{
+			dependencies: [
+				"4296F49981434BC7"
+				"741704A82A2C1227"
+				"1C4899BD021DCC2C"
+			]
+			id: "030A8303B3827284"
+			shape: "hexagon"
+			size: 3.0d
+			tasks: [{
+				id: "0799D4950F270121"
+				item: "create:deployer"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["741704A82A2C1227"]
+			id: "4296F49981434BC7"
+			shape: "hexagon"
+			tasks: [{
+				id: "350AE5130ED396EB"
+				item: "create:mechanical_crafter"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"13F74400CE10E339"
+				"4B89973C8D23D164"
+				"1BD36FA92BAF1CAC"
+				"4CBFDFBD1A71E6B4"
+				"4FFC0930D0539B28"
+			]
+			id: "733F9A8147398E52"
+			shape: "hexagon"
+			tasks: [{
+				id: "3B92DA48D0E31A80"
+				item: "nyagibits_bytes:pile_of_crude_mechanical_parts"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["733F9A8147398E52"]
+			id: "741704A82A2C1227"
+			shape: "hexagon"
+			tasks: [{
+				id: "507536FB62D0B659"
+				item: "create:brass_casing"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			id: "13F74400CE10E339"
+			shape: "hexagon"
+			tasks: [{
+				id: "3A702304ACF5B85E"
+				item: "create:wrench"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["02903DDEA28657F2"]
+			id: "4B89973C8D23D164"
+			shape: "hexagon"
+			tasks: [{
+				id: "586D1940C06DB3D1"
+				item: "create:mechanical_press"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["02903DDEA28657F2"]
+			id: "1BD36FA92BAF1CAC"
+			shape: "hexagon"
+			tasks: [{
+				id: "18B77AE1A2345941"
+				item: "create:mechanical_mixer"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"0AC123B7AB13C51E"
+				"1F07598A05563B29"
+				"5CFD9FE2895407B0"
+			]
+			id: "4CBFDFBD1A71E6B4"
+			shape: "hexagon"
+			tasks: [{
+				id: "6BD9889E1AD6919F"
+				item: "create:blaze_burner"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4296F49981434BC7"]
+			id: "1C4899BD021DCC2C"
+			shape: "hexagon"
+			tasks: [{
+				id: "49FB3BC29E6E3BE9"
+				item: "create:crushing_wheel"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["02903DDEA28657F2"]
+			id: "0601DBB1C7FD9207"
+			shape: "hexagon"
+			tasks: [{
+				id: "5A23586E0983FB27"
+				item: "create:mechanical_drill"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"12356B8E644A1A52"
+				"4D339608203DD4F6"
+			]
+			id: "02903DDEA28657F2"
+			shape: "hexagon"
+			tasks: [{
+				id: "72F82A610908D973"
+				item: "create:andesite_casing"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6F66FCCD63752DC8"]
+			icon: "minecraft:blaze_spawn_egg"
+			id: "0AC123B7AB13C51E"
+			shape: "hexagon"
+			tasks: [{
+				id: "5A690B875B57527B"
+				item: "minecraft:netherrack"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4D339608203DD4F6"]
+			icon: "minecraft:creeper_head"
+			id: "1F07598A05563B29"
+			shape: "hexagon"
+			tasks: [{
+				id: "35DBAAAABE58EAF2"
+				item: "pneumaticcraft:ingot_iron_compressed"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "create:sand_paper"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5CFD9FE2895407B0"
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "5D1DFD46B11DA900"
+					item: "botania:polished_livingrock"
+					type: "item"
+				}
+				{
+					id: "0CF30DA7F331D8EE"
+					item: {
+						Count: 1b
+						id: "create:sand_paper"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5CFD9FE2895407B0"]
+			id: "4FFC0930D0539B28"
+			shape: "hexagon"
+			tasks: [{
+				id: "20049AD89B7CCBE6"
+				item: "create:polished_rose_quartz"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["001D3CBD7E6EA142"]
+			id: "12356B8E644A1A52"
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "40768696BABB2B65"
+					item: "botania:livingrock"
+					type: "item"
+				}
+				{
+					id: "502C80AA9873ED3B"
+					item: "nyagibits_bytes:livisite_stone"
+					type: "item"
+				}
+				{
+					id: "3157671F87E36F63"
+					item: "botania:livingwood_log"
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5E7D0899ECE970A7"]
+			id: "001D3CBD7E6EA142"
+			tasks: [{
+				id: "6B74476D0F789202"
+				item: "botania:pure_daisy"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6F66FCCD63752DC8"]
+			id: "4D339608203DD4F6"
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "229D3BBAD51DA269"
+					item: "minecraft:iron_ore"
+					type: "item"
+				}
+				{
+					id: "4AD71BFFD5D74D37"
+					item: {
+						Count: 1b
+						id: "aiotbotania:livingrock_aiot"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["12356B8E644A1A52"]
+			id: "6F66FCCD63752DC8"
+			shape: "hexagon"
+			tasks: [{
+				id: "4F105E638E690E29"
+				item: {
+					Count: 1b
+					id: "aiotbotania:livingrock_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			icon: "botania:apothecary_forest"
+			id: "5E7D0899ECE970A7"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "4F4F280C54A38131"
+				item: "botania:apothecary_default"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -5.0d
+		}
+	]
+	title: "Tier 0"
+}

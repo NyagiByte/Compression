@@ -1,0 +1,113 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome_to_compression"
+	group: ""
+	icon: "nyagibits_bytes:flake"
+	id: "21F4E15F44E66E95"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"This pack is designed to be completable without use of the quest book! "
+				"&bHowever, &rthat being said the quest book exists to serve as a guide for"
+				"people struggling with the spaghetti of the crafting web and point towards "
+				"intended goals."
+				""
+				"&bSomething to note:&r There will be no reqwards from this book, just information"
+			]
+			icon: "minecraft:writable_book"
+			id: "049B4B94A7313B6C"
+			shape: "hexagon"
+			subtitle: "This book is optional"
+			tasks: [{
+				id: "57F748DD19327510"
+				title: "Overview on questbook"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: "pneumaticcraft:security_upgrade"
+			id: "5C266BB084E8291E"
+			shape: "hexagon"
+			tasks: [{
+				id: "22DFECEF9525C8F4"
+				title: "Backups"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			icon: "createchunkloading:chunk_loader"
+			id: "2B2392C9E05EEE54"
+			shape: "hexagon"
+			tasks: [{
+				id: "063863EBF5133028"
+				title: "Chunkloading"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			description: [
+				"You will use &beverything"
+				"&aEvery, &cSingle, &dThing"
+			]
+			icon: "ae2:singularity"
+			id: "05D0BEF6458AB8D9"
+			shape: "hexagon"
+			tasks: [{
+				id: "54278B1758C5D0ED"
+				title: "Everything"
+				type: "checkmark"
+			}]
+			title: "Everything"
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "megacells:item_storage_cell_256m"
+				tag: { }
+			}
+			id: "2C473A2432696109"
+			tasks: [{
+				id: "127C63548C3099FF"
+				title: "Recipe Scaling"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			icon: "nyagibits_bytes:flake"
+			id: "39B2B73AB851E837"
+			shape: "hexagon"
+			tasks: [{
+				id: "4F7D249F207B3FDF"
+				title: "Prison"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "7BD5615FF834FB3B"
+			tasks: [{
+				id: "49F629F80899FBF9"
+				title: "Ores & Mining"
+				type: "checkmark"
+			}]
+			title: "Ores and Mining"
+			x: -1.0d
+			y: 0.0d
+		}
+	]
+	title: "Welcome to Compression!"
+}

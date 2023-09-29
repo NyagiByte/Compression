@@ -33,6 +33,22 @@ file = "config/forge-resource-caching.toml"
 hash = "acfdb749a28106463b96980100a7e542b0b2bc3f9c9464196e0765a4f1c39061"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/tier_0.snbt"
+hash = "a689739b2557d2c1e9c0f7b97a7bacdc283f5e76f5181df74e07859fecb23315"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/welcome_to_compression.snbt"
+hash = "3b8e56fa39706e8bce4cd4f0165dbbc2a1d094c6822c457a21a5593e8cab11e6"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "4da9a893ddd5672427a9604000b1f708344512ea755dcc9d0c3fc2345c452dd1"
+
+[[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
 hash = "7ea6e676c1e585b9b793e719144809afbeee4cc9979fb550ea4a5c55df98d61a"
 
