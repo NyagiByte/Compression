@@ -34,7 +34,15 @@ hash = "acfdb749a28106463b96980100a7e542b0b2bc3f9c9464196e0765a4f1c39061"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
+hash = "2683ce2b6f0014ecb5760e9809194f9421c7bf45a59f1ce7fa45cd15db9a356f"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ore_line.snbt"
+hash = "11365d4bcbee8ddb34e31297b0f596746447cfc664a38705fcc705eb4d382ded"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
+hash = "9f1bbc99f4f6f1aa2face2e55c5f46495338a8501d4428907916a46751390957"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"

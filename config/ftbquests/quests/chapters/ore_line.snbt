@@ -1,0 +1,66 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ore_line"
+	group: "24374B9B7F7D44C4"
+	id: "5FE84C9F9284B2D7"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "minecraft:diamond"
+			id: "35494E3A757EA660"
+			shape: "hexagon"
+			tasks: [{
+				id: "5DC0F82CAB8513F1"
+				title: "Gemstone Processing"
+				type: "checkmark"
+			}]
+			x: 8.5d
+			y: -4.0d
+		}
+		{
+			icon: "minecraft:raw_iron"
+			id: "0F2BCC8D3D977D1E"
+			shape: "hexagon"
+			tasks: [{
+				id: "24C5EF9613BDACB9"
+				title: "Metal Processing"
+				type: "checkmark"
+			}]
+			x: -9.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0F2BCC8D3D977D1E"]
+			description: ["Doesn't get simpler than this"]
+			id: "531EE69871EFB610"
+			shape: "hexagon"
+			tasks: [{
+				id: "1CBF03206F76DA8B"
+				item: "minecraft:furnace"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"531EE69871EFB610"
+				"1C4899BD021DCC2C"
+			]
+			description: ["Quadruplicating your ores already! Feels nice ey?"]
+			id: "301DE6C093EF12D1"
+			shape: "hexagon"
+			tasks: [{
+				count: 2L
+				id: "7F349AD8BCDB269E"
+				item: "create:crushing_wheel"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -3.0d
+		}
+	]
+	title: "Ore Line"
+}
