@@ -10,12 +10,12 @@
 	quests: [
 		{
 			description: [
-				"This pack is designed to be completable without use of the quest book! "
-				"&bHowever, &rthat being said the quest book exists to serve as a guide for"
-				"people struggling with the spaghetti of the crafting web and point towards "
+				"This pack is designed to be completable without use of the quest book as a guide! "
+				"&bThat being said &rthe quest book exists to serve as a guide for"
+				"people struggling with the spaghetti of the crafting web and points towards "
 				"intended goals."
 				""
-				"&bSomething to note:&r There will be no reqwards from this book, just information"
+				"&bSomething to note:&r There will be no rewards from this book, just information"
 			]
 			icon: "minecraft:writable_book"
 			id: "049B4B94A7313B6C"
@@ -71,6 +71,11 @@
 			y: -1.0d
 		}
 		{
+			description: [
+				"Oh my god the requirements swell so fast how are we suppose to keep up?"
+				""
+				"Good news! The &bRecipe Scaling &rtab will show you the available recipes you can do to make previous tier items more efficiently"
+			]
 			icon: {
 				Count: 1b
 				id: "megacells:item_storage_cell_256m"
@@ -86,6 +91,7 @@
 			y: -1.0d
 		}
 		{
+			description: ["&cThis land must be a sort of dumping ground, everything is so... Broken"]
 			icon: "nyagibits_bytes:flake"
 			id: "39B2B73AB851E837"
 			shape: "hexagon"
@@ -98,10 +104,18 @@
 			y: 0.0d
 		}
 		{
+			description: [
+				"The walls of &dFlake &rare impossible to mine through! How am I suppose to mine?!"
+				""
+				"Ores appear exclusively on the surface of the world in massive layered nodes. "
+				""
+				"&bRecipe Scaling &rhas more information on the processing of the ores themselves"
+			]
+			icon: "nyagibits_bytes:raw_banded_iron"
 			id: "7BD5615FF834FB3B"
 			tasks: [{
-				id: "49F629F80899FBF9"
-				title: "Ores & Mining"
+				id: "07FFD34EBC199E9C"
+				title: "Ores and Mining"
 				type: "checkmark"
 			}]
 			title: "Ores and Mining"

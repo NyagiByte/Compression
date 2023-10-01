@@ -49,8 +49,12 @@ file = "config/ftbquests/quests/chapters/tier_0.snbt"
 hash = "a689739b2557d2c1e9c0f7b97a7bacdc283f5e76f5181df74e07859fecb23315"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/tier_1.snbt"
+hash = "ee27521807e22af7a1b62461a9428660e450e655a432fd983c82013e3bacbb4f"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/welcome_to_compression.snbt"
-hash = "3b8e56fa39706e8bce4cd4f0165dbbc2a1d094c6822c457a21a5593e8cab11e6"
+hash = "ca92c022a1d76d610e49ef5b7651788349eaf1d0e9f331df84d712e0f7b94bdf"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
