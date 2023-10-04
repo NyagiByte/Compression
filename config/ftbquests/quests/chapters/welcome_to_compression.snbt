@@ -56,7 +56,7 @@
 		{
 			description: [
 				"You will use &beverything"
-				"&aEvery, &cSingle, &dThing"
+				"&cEvery, &dSingle, &cThing"
 			]
 			icon: "ae2:singularity"
 			id: "05D0BEF6458AB8D9"

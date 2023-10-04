@@ -3,6 +3,13 @@
 	default_quest_shape: ""
 	filename: "ore_line"
 	group: "24374B9B7F7D44C4"
+	icon: {
+		Count: 1b
+		id: "botania:manasteel_pick"
+		tag: {
+			Damage: 0
+		}
+	}
 	id: "5FE84C9F9284B2D7"
 	order_index: 0
 	quest_links: [ ]
@@ -60,6 +67,141 @@
 			}]
 			x: -8.5d
 			y: -3.0d
+		}
+		{
+			dependencies: ["6F66FCCD63752DC8"]
+			description: [
+				"Generic mostly pure iron found on the upper layer of iron geodes."
+				""
+				"&dDeeper layers require better tools to fracture open"
+			]
+			icon: "minecraft:iron_ingot"
+			id: "2345F14F53AF22A6"
+			shape: "hexagon"
+			tasks: [{
+				id: "26E9BF0BEBE36732"
+				item: "minecraft:raw_iron"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2345F14F53AF22A6"]
+			description: ["A hydrated iron. By mass has less iron than a pure sample but could potentially be an easy source of hydroxide"]
+			id: "67A33403E5A33908"
+			shape: "hexagon"
+			tasks: [{
+				id: "2DC4ABDF9C72598C"
+				item: "nyagibits_bytes:raw_limonite"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["2345F14F53AF22A6"]
+			description: ["Basically rust ore, fairly common flavor of iron ore"]
+			id: "58923677AB18101F"
+			shape: "hexagon"
+			tasks: [{
+				id: "37342502E0A8095F"
+				item: "nyagibits_bytes:raw_hematite"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2345F14F53AF22A6"]
+			description: ["Can be naturally magnetic! Crucial for building your first polarizer"]
+			id: "7F48EEDDB59BF09E"
+			shape: "hexagon"
+			tasks: [{
+				id: "22642E3FF404CFA7"
+				item: "nyagibits_bytes:raw_magnetite"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2345F14F53AF22A6"]
+			description: ["Don't be a fool this isnt gold. However it does contain quite a decent fraction of sulfur"]
+			id: "0C283C5774790BE4"
+			shape: "hexagon"
+			tasks: [{
+				id: "66CC8E373731DE1E"
+				item: "nyagibits_bytes:raw_pyrite"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2345F14F53AF22A6"]
+			description: ["An easy to smelt variant prised by the ancient greeks. Of course with your industrial machinery that just means less sharpening of your milling equipment."]
+			id: "5BC59FE0D095DE08"
+			shape: "hexagon"
+			tasks: [{
+				id: "073EFA3D1EAF2784"
+				item: "nyagibits_bytes:raw_siderite"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2345F14F53AF22A6"]
+			description: ["Ancient iron from the Precambrian 3.7 billion years ago, surviving all this time to be turned into a spring for your pens "]
+			id: "52412DFD0519F04E"
+			shape: "hexagon"
+			tasks: [{
+				id: "6F0455507F872D46"
+				item: "nyagibits_bytes:raw_banded_iron"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2345F14F53AF22A6"]
+			description: ["Formed by iron bacteria &b(Thiobacillus Ferrooxidans and Thiobacillus Thiooxidans)&r eating nutrients from ground water and surface flows, pooping out oxidized iron over time forming this ore. &cTho we arn't near a swamp it's very strange that it ended up here...."]
+			id: "71EB7F1DCCACFFD0"
+			shape: "hexagon"
+			tasks: [{
+				id: "7B27949A810C1A35"
+				item: "nyagibits_bytes:raw_bog_iron"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2345F14F53AF22A6"]
+			description: ["A chunk fallen from the heavens. Not fantastic for iron ironically enough but contains trace amounts of rare metals. Will probably require more chemical mastery to tap into."]
+			id: "151971F1799BCDA2"
+			shape: "hexagon"
+			tasks: [{
+				id: "548D2C6E6CEFC503"
+				item: "nyagibits_bytes:raw_meteoric_iron"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6F66FCCD63752DC8"]
+			icon: "minecraft:copper_ingot"
+			id: "3DF87F43E36C0204"
+			shape: "hexagon"
+			tasks: [{
+				id: "49F455AD9B80E29D"
+				item: "minecraft:raw_copper"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 1.5d
 		}
 	]
 	title: "Ore Line"

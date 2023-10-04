@@ -38,11 +38,11 @@ hash = "2683ce2b6f0014ecb5760e9809194f9421c7bf45a59f1ce7fa45cd15db9a356f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "11365d4bcbee8ddb34e31297b0f596746447cfc664a38705fcc705eb4d382ded"
+hash = "cfd1aea415c2f400430ccb1aba1f5a1c59eefba460b7eb4bf21b6742cabf6357"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
-hash = "9f1bbc99f4f6f1aa2face2e55c5f46495338a8501d4428907916a46751390957"
+hash = "f01837a3398d05cd48a51396e47cd258366186e02c02ad0b96ef3c305579290a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
@@ -54,7 +54,7 @@ hash = "ee27521807e22af7a1b62461a9428660e450e655a432fd983c82013e3bacbb4f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome_to_compression.snbt"
-hash = "ca92c022a1d76d610e49ef5b7651788349eaf1d0e9f331df84d712e0f7b94bdf"
+hash = "a640bf8ef39438378c7a1fa846fec6b64a758169669747edcea60005c1ef79b7"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -710,6 +710,11 @@ hash = "69c5c1b59f9a5946cbcea6e4cfb318af9bdb43d5a24a86391f1c34b1ca845b58"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "a2bf4a3e4727d701ccbc326c06769619dc8caf7b12424e6f8c1fae1fa26a16c4"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "879813604dd833f793d6d362c6b8a13ce35bf41da13d921b1e4e6c67813ceace"
 metafile = true
@@ -841,6 +846,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "3ef9dc22d90a53d4b20b1b26190d58b21a2639b8b20f7d295de4ea3b03e13f30"
+metafile = true
+
+[[files]]
+file = "mods/re-tweaks.pw.toml"
+hash = "1b983687ec371a615c6422a4201242faafa1e4a7a4e9b540ad5a3365dcc07a2a"
 metafile = true
 
 [[files]]

@@ -3,6 +3,7 @@
 	default_quest_shape: ""
 	filename: "scale_tree_i"
 	group: "24374B9B7F7D44C4"
+	icon: "ae2:spatial_storage_cell_2"
 	id: "5CB694F6C0BDC24B"
 	order_index: 1
 	quest_links: [ ]
