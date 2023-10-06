@@ -849,11 +849,6 @@ hash = "3ef9dc22d90a53d4b20b1b26190d58b21a2639b8b20f7d295de4ea3b03e13f30"
 metafile = true
 
 [[files]]
-file = "mods/re-tweaks.pw.toml"
-hash = "1b983687ec371a615c6422a4201242faafa1e4a7a4e9b540ad5a3365dcc07a2a"
-metafile = true
-
-[[files]]
 file = "mods/rhino.pw.toml"
 hash = "a5b1cff7c66d98ad0d0c53903bdc5b802b4036268e56d9342a708274435343f8"
 metafile = true
