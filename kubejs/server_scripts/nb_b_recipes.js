@@ -100,7 +100,7 @@ ServerEvents.recipes(event => {
                 Item.of('nyagibits_bytes:ae2_schematic'), 
                 [ 
                     'BCD', 
-                    ' A '
+                    'AAA'
                 ],
                 {
                     A: 'minecraft:paper', 
@@ -168,6 +168,62 @@ ServerEvents.recipes(event => {
                     A: 'ae2:cable_anchor', 
                     B: 'nyagibits_bytes:livisite_slate'
                 })
+        //Chemistry Rack
+            event.shaped(
+                Item.of('nyagibits_bytes:chemistry_rack'), 
+                [ 
+                    'AAA', 
+                    'B B',
+                    'AAA'
+                ],
+                {
+                    A: 'botania:livingwood_planks_slab', 
+                    B: 'botania:livingwood_twig'
+                })
+        //Crude Acidics Test
+            event.shaped(
+                Item.of('nyagibits_bytes:crude_acidics_test'), 
+                [ 
+                    ' A ', 
+                    'BAC',
+                    ' D '
+                ],
+                {
+                    A: 'nyagibits_bytes:bottle_of_anthocyanin', 
+                    B: 'nyagibits_bytes:bucket_of_salt_water',
+                    C: 'nyagibits_bytes:bottle_of_malic_and_citric_acid',
+                    D: 'nyagibits_bytes:chemistry_rack'
+                })
+        //Crude Natural Arcana Test
+            event.shaped(
+                Item.of('nyagibits_bytes:crude_natural_arcana_test'), 
+                [ 
+                    'ABC', 
+                    'DEF',
+                    ' G '
+                ],
+                {
+                    A: 'minecraft:carved_pumpkin', 
+                    B: 'botania:pure_daisy',
+                    C: 'botania:livingwood_twig',
+                    D: 'botania:living_root',
+                    E: 'nyagibits_bytes:soil_sample',
+                    F: 'minecraft:kelp',
+                    G: 'botania:flower_bag'
+                })
+        //Crude Material Properties Test
+            event.shaped(
+                Item.of('nyagibits_bytes:crude_material_properties_test'), 
+                [ 
+                    'A', 
+                    'B',
+                    'C'
+                ],
+                {
+                    A: 'nyagibits_bytes:lab_notebook_with_crude_acidics_data', 
+                    B: 'nyagibits_bytes:basic_composite_material',
+                    C: 'nyagibits_bytes:sturdy_box'
+                })
     //------------------------------------------------------------------
     //Nyagi's Bits & Bytes Shapeless 
         //Crude Abrasive
@@ -194,6 +250,10 @@ ServerEvents.recipes(event => {
                     time: 1200 // int, specifies the amount of ticks a blockspace has to receive to convert into the output state - optional
             })
     //------------------------------------------------------------------
+    //Nyagi's Bits & Bytes Petal Apothecary recipes
+        //Used Crude Natural Arcana Test
+            event.recipes.botania.petal_apothecary("nyagibits_bytes:used_crude_natural_arcana_test", ['nyagibits_bytes:crude_natural_arcana_test','minecraft:pumpkin_seeds','minecraft:hay_block','farmersdelight:tomato_seeds'])
+    //------------------------------------------------------------------
     //Nyagi's Bits & Bytes Sandpaper recipes
         //Polished Living Rock
         event.recipes.createSandpaperPolishing('nyagibits_bytes:polished_livisite',['nyagibits_bytes:livisite_stone'])
@@ -205,6 +265,8 @@ ServerEvents.recipes(event => {
             event.recipes.create.compacting(['nyagibits_bytes:used_crude_compression_test'], ['nyagibits_bytes:crude_compression_test'])
         //Micro Tools
             event.recipes.create.compacting(['nyagibits_bytes:micro_tools'], ['create:andesite_casing', 'ae2:certus_quartz_wrench', 'ae2:nether_quartz_wrench', 'ae2:crank', Item.of('ae2:nether_quartz_cutting_knife', '{Damage:0}'), Item.of('ae2:certus_quartz_cutting_knife', '{Damage:0}')])
+        //Basic Composite Material
+            event.recipes.create.compacting(['nyagibits_bytes:basic_composite_material'], ['create:copper_sheet','create:iron_sheet','nyagibits_bytes:livisite_slate','minecraft:brick','minecraft:coal','ae2:certus_quartz_dust'])
     //------------------------------------------------------------------
     //Nyagi's Bits & Bytes Create Mixing
         //Soild Sample
@@ -216,6 +278,12 @@ ServerEvents.recipes(event => {
         //Crude Silicon Boule
             //Note '16x minecraft:sand' does not work to add 16 sand to the mix recipe for some reason
             event.recipes.create.mixing('nyagibits_bytes:crude_silicon_boule',['minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand','minecraft:sand']).superheated()
+        //Bottle of Anthocyanin
+            event.recipes.create.mixing('nyagibits_bytes:bottle_of_anthocyanin',[Fluid.of('water', 250), 'farmersdelight:cabbage', 'minecraft:glass_bottle']).heated()
+        //Bottle of Malic & Citric Acid
+            event.recipes.create.mixing('nyagibits_bytes:bottle_of_malic_and_citric_acid',[Fluid.of('water', 250), 'farmersdelight:tomato', 'minecraft:glass_bottle']).heated()
+        //Soild Sample
+            event.recipes.create.mixing('nyagibits_bytes:used_crude_acidics_test',['nyagibits_bytes:crude_acidics_test'])
 
     //------------------------------------------------------------------
     //Nyagi's Bits & Bytes Create Milling
@@ -250,6 +318,30 @@ ServerEvents.recipes(event => {
             ], {
                 A: 'nyagibits_bytes:lab_notebook',
                 B: 'nyagibits_bytes:used_crude_entropy_test'
+            })
+        //Lab Notebook with Crude Acidics Data
+            event.recipes.create.mechanicalCrafting('nyagibits_bytes:lab_notebook_with_crude_acidics_data', [
+                'A',
+                'B'
+            ], {
+                A: 'nyagibits_bytes:lab_notebook',
+                B: 'nyagibits_bytes:used_crude_acidics_test'
+            })
+        //Lab Notebook with Crude Natural Arcana Data
+            event.recipes.create.mechanicalCrafting('nyagibits_bytes:lab_notebook_with_crude_natural_arcana_data', [
+                'A',
+                'B'
+            ], {
+                A: 'nyagibits_bytes:lab_notebook',
+                B: 'nyagibits_bytes:used_crude_natural_arcana_test'
+            })
+        //Lab Notebook with Crude Natural Arcana Data
+            event.recipes.create.mechanicalCrafting('nyagibits_bytes:lab_notebook_with_crude_material_properties_data', [
+                'A',
+                'B'
+            ], {
+                A: 'nyagibits_bytes:lab_notebook',
+                B: 'nyagibits_bytes:used_crude_material_properties_test'
             })
     //------------------------------------------------------------------
         })
@@ -350,5 +442,25 @@ ServerEvents.recipes(event => {
                         e.recipes.createCutting('minecraft:redstone_block', ['minecraft:redstone_block'])
 
                     ]).loops(1).transitionalItem('minecraft:redstone_block')
+        //Basic Composite Plates
+            e.recipes.createSequencedAssembly([
+                    Item.of('nyagibits_bytes:basic_composite_plate'),
+                ], 'nyagibits_bytes:basic_composite_material',
+                    [
+                        e.recipes.createPressing('nyagibits_bytes:basic_composite_material', ['nyagibits_bytes:basic_composite_material']),
+
+                    ]).loops(4).transitionalItem('nyagibits_bytes:basic_composite_material')
+        //Used Crude Materials Properties Test
+            e.recipes.createSequencedAssembly([
+                    Item.of('nyagibits_bytes:used_crude_material_properties_test'),
+                ], 'nyagibits_bytes:crude_material_properties_test',
+                    [
+                        e.recipes.createPressing('nyagibits_bytes:crude_material_properties_test', ['nyagibits_bytes:crude_material_properties_test']),
+                        e.recipes.createDeploying('nyagibits_bytes:crude_material_properties_test', ['nyagibits_bytes:crude_material_properties_test','nyagibits_bytes:bottle_of_malic_and_citric_acid']),
+                        e.recipes.createFilling('nyagibits_bytes:crude_material_properties_test', ['nyagibits_bytes:crude_material_properties_test', Fluid.lava(100)]),
+                        e.recipes.createCutting('nyagibits_bytes:crude_material_properties_test', ['nyagibits_bytes:crude_material_properties_test']),
+                        e.recipes.createDeploying('nyagibits_bytes:crude_material_properties_test', ['nyagibits_bytes:crude_material_properties_test','nyagibits_bytes:pen'])
+
+                    ]).loops(1).transitionalItem('nyagibits_bytes:crude_material_properties_test')
         //------------------------------------------------------------------
         })

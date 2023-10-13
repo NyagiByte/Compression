@@ -474,7 +474,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/ae2.js"
-hash = "7bb6fca3e020d1cdc33542483b16522edb59acd135c1a01639db562874e0e78b"
+hash = "6e5395aa1ca9da31189c2637645c1174e636167cb97724287fba8a858a58823e"
 
 [[files]]
 file = "kubejs/server_scripts/aiot_botania.js"
@@ -482,7 +482,7 @@ hash = "b7e508628ac672c126dee507d6a5d06b7c1cc0e647f8546e293b0cce0d4a53c9"
 
 [[files]]
 file = "kubejs/server_scripts/botania_recipes.js"
-hash = "38cc3b79038e674a00d1bf3508f489773d6f64ac8266785f733129141dcd4f18"
+hash = "050801108cc5cafda2a29fd1d2d125ead8f6ebf5b4c62aa268a7f3f73b3f4868"
 
 [[files]]
 file = "kubejs/server_scripts/create_recipes.js"
@@ -494,7 +494,11 @@ hash = "3372741358e6a4d1a3b296b9ec7acaed5dc862c0435e58dc72f4b25c809da87f"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes.js"
-hash = "d93b4bbb3eab48acf8f7d2a95d895895e5af068c0b0269755136c1b89f72c833"
+hash = "2a6e710b7f3c21df13000314f464f097d1a27b1b98c53dd3f0ce09130ce5ad37"
+
+[[files]]
+file = "kubejs/server_scripts/nb_b_recipes_ores.js"
+hash = "0e803948418c4df22e0e0702508264991ee2d58b34988c56d58833d746f8a855"
 
 [[files]]
 file = "kubejs/server_scripts/quark.js"

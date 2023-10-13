@@ -158,6 +158,17 @@ ServerEvents.recipes(event => {
                 },
                     time: 1200 // int, specifies the amount of ticks a blockspace has to receive to convert into the output state - optional
             })
+        //Living Root
+            event.recipes.botania.pure_daisy({
+                output: {
+                    name: 'botania:root'
+                },
+                input: {
+                    type: 'block', //object type, can be "block", "state", "blocks" or "tag"
+                    block: 'nyagibits_bytes:etched_living_wood'
+                },
+                    time: 1200 // int, specifies the amount of ticks a blockspace has to receive to convert into the output state - optional
+            })
     //------------------------------------------------------------------
     //Botania Sandpaper
         //Polished Living Rock

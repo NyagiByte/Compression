@@ -93,5 +93,14 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['nyagibits_bytes:ae2_assembly', 'ae2:fluix_covered_dense_cable']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['nyagibits_bytes:ae2_assembly', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('nyagibits_bytes:ae2_assembly')
+
+        //Logic Processor
+            e.remove({output: 'ae2:logic_processor'});
+            e.recipes.createSequencedAssembly([
+                    Item.of('ae2:logic_processor'),
+                ], 'create:golden_sheet',
+                    [
+                        e.recipes.createDeploying('create:golden_sheet', ['create:golden_sheet', 'ae2:fluix_covered_dense_cable'])
+                    ]).loops(1).transitionalItem('nyagibits_bytes:ae2_assembly')
     //------------------------------------------------------------------
     })
