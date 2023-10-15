@@ -89,6 +89,10 @@ file = "kubejs/config/common.properties"
 hash = "6aba57f340cfb6dfd74b2a165127ce897d1757b28398bea2a21a588baacd1885"
 
 [[files]]
+file = "kubejs/data/minecraft/dimension/overworld.json"
+hash = "d2b88bbbcddbab09c13dd0b654b21fb6903362283011f592646bd8d3e7253ea4"
+
+[[files]]
 file = "kubejs/exported/tags/botania/brews.txt"
 hash = "cfdd52e13c2db9622e0d34a499ba971c7ac5b432d219a7f00a06014f71126d4b"
 
