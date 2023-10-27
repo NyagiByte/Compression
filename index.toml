@@ -13,6 +13,10 @@ file = "config/create-common.toml"
 hash = "5ecbf2bd9577f059760c02b37d8931b5fbec5567bd1190f943b19b5e3a493a8c"
 
 [[files]]
+file = "config/defaultworldtype/client-config.toml"
+hash = "da9776febdf43ec722c549596be77f1275ed2482fa667107f5277fba5abfd8ea"
+
+[[files]]
 file = "config/flywheel-client.toml"
 hash = "0d0e22785b8811b4010b7cf39f78fcfb25e31e70558176a52cb9e95ea9202c8f"
 
@@ -830,7 +834,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.1-1.19.2.jar"
-hash = "b2e859a55faae93157f01687f88c5ae9552e2455e0bf548eb4ad69efa8ddbb4b"
+hash = "68458f3433fd5766dd8a4ff889e925a86a1dd13760cebd4ed2b9d9f50937dd2b"
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
