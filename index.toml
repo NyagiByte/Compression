@@ -502,7 +502,7 @@ hash = "2a6e710b7f3c21df13000314f464f097d1a27b1b98c53dd3f0ce09130ce5ad37"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes_ores.js"
-hash = "0e803948418c4df22e0e0702508264991ee2d58b34988c56d58833d746f8a855"
+hash = "ebf4c03c833d315c711d199eb0c2f373828413e7cd6c30be1e6ed9118ba3fbd1"
 
 [[files]]
 file = "kubejs/server_scripts/quark.js"
