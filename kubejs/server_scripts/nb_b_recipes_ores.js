@@ -3,9 +3,9 @@ ServerEvents.recipes(event => {
     //Each material type gets its own .forEach due to divergances in input materials later down the line
     //Iron
         //2D array dont touch -----------------------------------
-         let rawOresrawOresIronProcessing = new Array(2);
-         for(var i = 0; i< rawOresrawOresIronProcessing.length; i++){
-             rawOresrawOresIronProcessing[i] = new Array(8);
+         let rawOresIronProcessing = new Array(2);
+         for(var i = 0; i< rawOresIronProcessing.length; i++){
+             rawOresIronProcessing[i] = new Array(8);
         }
         //-------------------------------------------------------
         //Ores
@@ -22,7 +22,7 @@ ServerEvents.recipes(event => {
         //-------------------------------------------------------
         //Products by tier [0-15]
             //Furnacing
-            rawOresrawOresIronProcessing[0] = [
+            rawOresIronProcessing[0] = [
                 //Limonite
                 'minecraft:iron_ingot',
                 //Hematite 
@@ -41,7 +41,7 @@ ServerEvents.recipes(event => {
                 'minecraft:iron_ingot'
             ]
             //Crushing
-            rawOresrawOresIronProcessing[1] = [
+            rawOresIronProcessing[1] = [
                 //Limonite
                 'create:crushed_raw_iron',
                 //Hematite 
@@ -60,7 +60,7 @@ ServerEvents.recipes(event => {
                 'create:crushed_raw_iron'
             ]
             //Bees
-            rawOresrawOresIronProcessing[2] = [
+            rawOresIronProcessing[2] = [
                 //Limonite
                 'create:crushed_raw_iron',
                 //Hematite 
@@ -85,17 +85,17 @@ ServerEvents.recipes(event => {
         //-------------------------------------------------------
         //The amount of blood shed for an off by 1 error is crazy, thank you Flooter & KillerQ
         //Anyways this is the big loop for all of the processing
-        for(var i = 0; i < rawOresrawOresIronProcessing.length - 1; i++){
-            for(var j = 0; j < rawOresrawOresIronProcessing[i].length; j++){
+        for(var i = 0; i < rawOresIronProcessing.length - 1; i++){
+            for(var j = 0; j < rawOresIronProcessing[i].length; j++){
                 switch (i){
                     //Stage 0, Furnace
                     case 0:
-                        event.smelting(rawOresrawOresIronProcessing[i][j], rawOresIron[j])
-                        event.blasting(rawOresrawOresIronProcessing[i][j], rawOresIron[j])
+                        event.smelting(rawOresIronProcessing[i][j], rawOresIron[j])
+                        event.blasting(rawOresIronProcessing[i][j], rawOresIron[j])
                         break;
                     //Stage 1, Crushing
                     case 1:
-                        event.recipes.createCrushing(['3x create:crushed_raw_iron',rawOresrawOresIronProcessing[i][j]],rawOresIron[j])
+                        event.recipes.createCrushing(['3x create:crushed_raw_iron',rawOresIronProcessing[i][j]],rawOresIron[j])
                         break;
                 }
             }
