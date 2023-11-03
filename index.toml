@@ -493,6 +493,10 @@ file = "kubejs/server_scripts/create_recipes.js"
 hash = "cf4bce92eebf7f4a4500c135452019c2bc5fd499977883ba03dadaedaec19cc0"
 
 [[files]]
+file = "kubejs/server_scripts/loottables.js"
+hash = "d967d8692e140925291c224cdd203bf7f214dc3bc7a2336d5c329e7c38011cbb"
+
+[[files]]
 file = "kubejs/server_scripts/mekanism.js"
 hash = "3372741358e6a4d1a3b296b9ec7acaed5dc862c0435e58dc72f4b25c809da87f"
 
@@ -799,7 +803,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "1791db8e319f4619b15dd3fc5ebb4c85896863e9a29824b0d59608319aedc12d"
+hash = "cafcd994b51f3c2bd875fa2cc2f597da6485ca95f8be0a3c2d59891608028173"
 metafile = true
 
 [[files]]
@@ -863,7 +867,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "a5b1cff7c66d98ad0d0c53903bdc5b802b4036268e56d9342a708274435343f8"
+hash = "c3dcc27103f65bf73dee2898706f1c3a13983cbeb63d14f7caed26630d72bbde"
 metafile = true
 
 [[files]]
