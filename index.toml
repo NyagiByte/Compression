@@ -808,6 +808,11 @@ hash = "fb537f8737c8ee73a27c661ada6636b972a9a580dfd989bd1eabbec50b97a901"
 metafile = true
 
 [[files]]
+file = "mods/lootjs.pw.toml"
+hash = "8e76039d3e0c46b46765ca3bdcfda44e944a27890c69ece525a05b89a70eea19"
+metafile = true
+
+[[files]]
 file = "mods/mega-cells.pw.toml"
 hash = "b9a5d3eb9124b3e932746bd288233f2eabd72cf9b8e99a6bd453dd0d042deab0"
 metafile = true
