@@ -521,6 +521,10 @@ file = "kubejs/server_scripts/vanilla_recipes.js"
 hash = "617c0f6f31c79c8ba2cbd5c07b02bb998ba9a5a4630e4b680c8284dc08437b05"
 
 [[files]]
+file = "kubejs/startup_scripts/block_modify.js"
+hash = "31fdbf00f39f3bd94435c3c7be906b4ff1227ed35f2aceb5e644c656b76f1430"
+
+[[files]]
 file = "kubejs/startup_scripts/script.js"
 hash = "c5aa5aeea928ccb7a51356901bce92f64984d608db586128da2e1452b0e379b7"
 
