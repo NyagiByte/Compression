@@ -73,6 +73,46 @@ file = "kubejs/README.txt"
 hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
 
 [[files]]
+file = "kubejs/assets/gardenofglass/lang/en_us.json"
+hash = "3a6efe2eea08ba23401bf694c92ba232e3432cb11982b04f301ce62116ba2ddf"
+
+[[files]]
+file = "kubejs/assets/gardenofglass/lang/es_es.json"
+hash = "bcd02058eeb93c6458cc083079c9cbfcfa48c3962870d7a590d551009a30db0f"
+
+[[files]]
+file = "kubejs/assets/gardenofglass/lang/fr_fr.json"
+hash = "43601d9396634881dc1656c0533e93d84aa3c156cd174d31bb0091e6d42bed74"
+
+[[files]]
+file = "kubejs/assets/gardenofglass/lang/ja_jp.json"
+hash = "e46ec3249f86766c500f37d7f336a99f8171a61045a5d2e7c1a4053601dea9d6"
+
+[[files]]
+file = "kubejs/assets/gardenofglass/lang/ko_kr.json"
+hash = "3f021e1898a579302cc8efc7801c9f66fe01745c2a3785264a11cab8de1f6f87"
+
+[[files]]
+file = "kubejs/assets/gardenofglass/lang/nl_nl.json"
+hash = "e124b98aeb6ccb1f23cb99c527945b02c8d42c1656728b90b4c8ad8f510108c8"
+
+[[files]]
+file = "kubejs/assets/gardenofglass/lang/pt_br.json"
+hash = "a230d5896790e598257bf6acbc0761cd6dab0ec8399d9f2527056d70c6e3aa18"
+
+[[files]]
+file = "kubejs/assets/gardenofglass/lang/ru_ru.json"
+hash = "fec5dd24ac68d3042520b0ec4b834478b189beee0f34a292d984ddc30a94c687"
+
+[[files]]
+file = "kubejs/assets/gardenofglass/lang/zh_cn.json"
+hash = "77bff26107d86ba70d4f39cac570d913f6e1c363194c18fc87fd973696140a25"
+
+[[files]]
+file = "kubejs/assets/gardenofglass/lang/zh_tw.json"
+hash = "1d2fdca5df457ff19db6b21ea1a0904cd69b46a84e02d2a285948febc6889ad1"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
@@ -91,6 +131,58 @@ hash = "cc33a4bbba4d06060b95418d4a27e74223207c6455b6c5c4b6a4e96584b02ba9"
 [[files]]
 file = "kubejs/config/common.properties"
 hash = "6aba57f340cfb6dfd74b2a165127ce897d1757b28398bea2a21a588baacd1885"
+
+[[files]]
+file = "kubejs/data/gardenofglass/loot_tables/extra_seeds.json"
+hash = "d6bc49f21c351077f5ac9a763083ffd64b5635b4799c3c340e7dac15be341afe"
+
+[[files]]
+file = "kubejs/data/gardenofglass/loot_tables/pebbles.json"
+hash = "9c213a631283125d1123361e069eca8ad2b2e26d3577fba4a917a00883439b6c"
+
+[[files]]
+file = "kubejs/data/gardenofglass/recipes/end_portal_frame.json"
+hash = "2f7f1dccf84e9895cb0eaf31a8d5664551bb5d384da3a6458b376fab26d715db"
+
+[[files]]
+file = "kubejs/data/gardenofglass/recipes/magma_cream_to_slime_ball.json"
+hash = "b534ab2a8273a9b46b12fe69b8cd3e978cde646e451880b8db87d64c12729ddb"
+
+[[files]]
+file = "kubejs/data/gardenofglass/recipes/mana_infusion/heart_of_the_sea.json"
+hash = "9b2ceb71d82ff5823fca81023e937988af26ab693e275c6e1d4b9b976e889d1c"
+
+[[files]]
+file = "kubejs/data/gardenofglass/recipes/mana_infusion/prismarine_crystals.json"
+hash = "15c94e19e9ca09a8786e6c4c253d883cf409ed57cdf7960c51430623a17a7907"
+
+[[files]]
+file = "kubejs/data/gardenofglass/recipes/mana_infusion/prismarine_shard.json"
+hash = "640c2d80816684f54382e809acd64f764b049cc89d450be818af9a87f6dbc765"
+
+[[files]]
+file = "kubejs/data/gardenofglass/recipes/mana_infusion/sugar_cane.json"
+hash = "7eb3e73e4bd0d5afa4bbf16c04240981b44fe492ecc86f7d5d19126b7c38e859"
+
+[[files]]
+file = "kubejs/data/gardenofglass/recipes/pebble_to_cobblestone.json"
+hash = "5e156dbdb908beb21ec93244edd6b214ec0542f6ca0503345f777d2cd811fd05"
+
+[[files]]
+file = "kubejs/data/gardenofglass/recipes/root_to_fertilizer.json"
+hash = "524e969ce4ce813073637d21466a161ef5733de9b814f3059d2ef00950268177"
+
+[[files]]
+file = "kubejs/data/gardenofglass/recipes/root_to_sapling.json"
+hash = "03979286d00e6c468e74ac8804c251ca466e7226f586769fb4d2c83b42a20bb5"
+
+[[files]]
+file = "kubejs/data/gardenofglass/tags/blocks/pebble_sources.json"
+hash = "9eced5f9f3cfa9024eaee844949ed5a5d45baa79d1257b95def1f8915a67a231"
+
+[[files]]
+file = "kubejs/data/gardenofglass/tags/items/shears.json"
+hash = "a1b0ff8baa39b665c3414f780ad9d82d0f1d1b31770ad7e49186ff7c03de400c"
 
 [[files]]
 file = "kubejs/data/minecraft/dimension/overworld.json"
