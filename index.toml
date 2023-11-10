@@ -38,15 +38,19 @@ hash = "acfdb749a28106463b96980100a7e542b0b2bc3f9c9464196e0765a4f1c39061"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "2683ce2b6f0014ecb5760e9809194f9421c7bf45a59f1ce7fa45cd15db9a356f"
+hash = "83192c66715f399defe1117525f0dcee4ede837fcbafbe380b8f1d11190e9f35"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "cfd1aea415c2f400430ccb1aba1f5a1c59eefba460b7eb4bf21b6742cabf6357"
+hash = "c93f580f295b7d082ff522e0ba2bb54c1baadacff718487f208e2bfe5b0d5154"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/organics.snbt"
+hash = "d4ef7a86c2b54d83d32063dbdae08be8409ff3f4f611a51bac1d13461e1a2c6b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
-hash = "f01837a3398d05cd48a51396e47cd258366186e02c02ad0b96ef3c305579290a"
+hash = "f32461a2265bb1bf8a55a201f26d31f9306cecd87966caa2106c19d3c502194f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
@@ -133,60 +137,8 @@ file = "kubejs/config/common.properties"
 hash = "6aba57f340cfb6dfd74b2a165127ce897d1757b28398bea2a21a588baacd1885"
 
 [[files]]
-file = "kubejs/data/gardenofglass/loot_tables/extra_seeds.json"
-hash = "d6bc49f21c351077f5ac9a763083ffd64b5635b4799c3c340e7dac15be341afe"
-
-[[files]]
-file = "kubejs/data/gardenofglass/loot_tables/pebbles.json"
-hash = "9c213a631283125d1123361e069eca8ad2b2e26d3577fba4a917a00883439b6c"
-
-[[files]]
-file = "kubejs/data/gardenofglass/recipes/end_portal_frame.json"
-hash = "2f7f1dccf84e9895cb0eaf31a8d5664551bb5d384da3a6458b376fab26d715db"
-
-[[files]]
-file = "kubejs/data/gardenofglass/recipes/magma_cream_to_slime_ball.json"
-hash = "b534ab2a8273a9b46b12fe69b8cd3e978cde646e451880b8db87d64c12729ddb"
-
-[[files]]
-file = "kubejs/data/gardenofglass/recipes/mana_infusion/heart_of_the_sea.json"
-hash = "9b2ceb71d82ff5823fca81023e937988af26ab693e275c6e1d4b9b976e889d1c"
-
-[[files]]
-file = "kubejs/data/gardenofglass/recipes/mana_infusion/prismarine_crystals.json"
-hash = "15c94e19e9ca09a8786e6c4c253d883cf409ed57cdf7960c51430623a17a7907"
-
-[[files]]
-file = "kubejs/data/gardenofglass/recipes/mana_infusion/prismarine_shard.json"
-hash = "640c2d80816684f54382e809acd64f764b049cc89d450be818af9a87f6dbc765"
-
-[[files]]
-file = "kubejs/data/gardenofglass/recipes/mana_infusion/sugar_cane.json"
-hash = "7eb3e73e4bd0d5afa4bbf16c04240981b44fe492ecc86f7d5d19126b7c38e859"
-
-[[files]]
-file = "kubejs/data/gardenofglass/recipes/pebble_to_cobblestone.json"
-hash = "5e156dbdb908beb21ec93244edd6b214ec0542f6ca0503345f777d2cd811fd05"
-
-[[files]]
-file = "kubejs/data/gardenofglass/recipes/root_to_fertilizer.json"
-hash = "524e969ce4ce813073637d21466a161ef5733de9b814f3059d2ef00950268177"
-
-[[files]]
-file = "kubejs/data/gardenofglass/recipes/root_to_sapling.json"
-hash = "03979286d00e6c468e74ac8804c251ca466e7226f586769fb4d2c83b42a20bb5"
-
-[[files]]
-file = "kubejs/data/gardenofglass/tags/blocks/pebble_sources.json"
-hash = "9eced5f9f3cfa9024eaee844949ed5a5d45baa79d1257b95def1f8915a67a231"
-
-[[files]]
-file = "kubejs/data/gardenofglass/tags/items/shears.json"
-hash = "a1b0ff8baa39b665c3414f780ad9d82d0f1d1b31770ad7e49186ff7c03de400c"
-
-[[files]]
-file = "kubejs/data/minecraft/dimension/overworld.json"
-hash = "d2b88bbbcddbab09c13dd0b654b21fb6903362283011f592646bd8d3e7253ea4"
+file = "kubejs/data/hexlands/worldgen/world_preset/hexlands.json"
+hash = "b597b16e2c90d24df3edbd108816e7f80fa5e32ec5b06d4ec6c376ccef1cd8c8"
 
 [[files]]
 file = "kubejs/exported/tags/botania/brews.txt"
