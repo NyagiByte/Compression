@@ -1,0 +1,53 @@
+{
+    "dimensions": {
+      "minecraft:overworld": {
+        "type": "minecraft:overworld",
+        "generator": {
+            "type": "hexlands:hexlands",
+            "seed": 0,
+            "settings": "minecraft:overworld",
+            "hex_settings": {
+                "biome_scale": 8,
+                "hex_size": 40,
+                "hex_border_threshold": 0.95,
+                "bottom_border": {
+                    "min_height": 62,
+                    "max_height": 65,
+                    "state": {
+                        "Name": "nyagibits_bytes:flake",
+                        "Properties": {}
+                    }
+                }
+            },
+            "biome_source": {
+                "type": "multi_noise",
+                "preset": "overworld"
+            },
+            "forge:use_server_seed": false
+        }
+    },
+      "minecraft:the_nether": {
+        "type": "minecraft:the_nether",
+        "generator": {
+          "type": "hexlands:hexlands",
+          "settings": "minecraft:nether",
+          "biome_source": {
+            "type": "minecraft:multi_noise",
+            "preset": "minecraft:nether"
+          },
+          "hex_settings": "hexlands:nether"
+        }
+      },
+      "minecraft:the_end": {
+        "type": "minecraft:the_end",
+        "generator": {
+          "type": "hexlands:hexlands",
+          "settings": "minecraft:end",
+          "biome_source": {
+            "type": "minecraft:the_end"
+          },
+          "hex_settings": "hexlands:the_end"
+        }
+      }
+    }
+  }
