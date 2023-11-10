@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "organics"
+	group: "65E17C337454D8E2"
+	icon: "farmersdelight:tomato"
+	id: "557AD0B19A6B3464"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "Organics"
+}

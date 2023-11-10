@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "ore_line"
-	group: "24374B9B7F7D44C4"
+	group: "65E17C337454D8E2"
 	icon: {
 		Count: 1b
 		id: "botania:manasteel_pick"
@@ -11,7 +11,7 @@
 		}
 	}
 	id: "5FE84C9F9284B2D7"
-	order_index: 0
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -202,6 +202,1449 @@
 			}]
 			x: -6.5d
 			y: 1.5d
+		}
+		{
+			dependencies: ["3DF87F43E36C0204"]
+			id: "62418EFCDCAD72E4"
+			shape: "hexagon"
+			tasks: [{
+				id: "6BC11B9EE0573EA4"
+				item: "nyagibits_bytes:raw_chalcopyrite"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3DF87F43E36C0204"]
+			id: "2B54406B8D37509B"
+			shape: "hexagon"
+			tasks: [{
+				id: "7C40FC02D9CFEB1B"
+				item: "nyagibits_bytes:raw_malachite"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3DF87F43E36C0204"]
+			id: "5FAEE148EC5A3355"
+			shape: "hexagon"
+			tasks: [{
+				id: "536BB561BFD21413"
+				item: "nyagibits_bytes:raw_azurite"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3DF87F43E36C0204"]
+			id: "78C42FDAD1A8B62B"
+			shape: "hexagon"
+			tasks: [{
+				id: "4F1ECFB7BAB5D1A4"
+				item: "nyagibits_bytes:raw_tetrahedrite"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3DF87F43E36C0204"]
+			id: "264EA0720710551E"
+			shape: "hexagon"
+			tasks: [{
+				id: "14FACF77FE982641"
+				item: "nyagibits_bytes:raw_enargite"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3DF87F43E36C0204"]
+			id: "0CCA4A8CCB705314"
+			shape: "hexagon"
+			tasks: [{
+				id: "1A50A8EA661588E3"
+				item: "nyagibits_bytes:raw_chrysocolla"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3DF87F43E36C0204"]
+			id: "71C62012FD5BB79B"
+			shape: "hexagon"
+			tasks: [{
+				id: "4B7C6E3A23F48DBD"
+				item: "nyagibits_bytes:raw_tennanite"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3DF87F43E36C0204"]
+			id: "2BF9AC909FCE6E74"
+			shape: "hexagon"
+			tasks: [{
+				id: "5F2E980017D3F44B"
+				item: "nyagibits_bytes:raw_dioptase"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6F66FCCD63752DC8"]
+			icon: "minecraft:gold_ingot"
+			id: "13FC2F89AE4F3F6E"
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "45770FD9D421C21D"
+					item: "minecraft:raw_gold"
+					type: "item"
+				}
+				{
+					id: "393B9BE08556757A"
+					item: "immersiveengineering:raw_silver"
+					type: "item"
+				}
+			]
+			title: "Raw Gold and Silver"
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["13FC2F89AE4F3F6E"]
+			id: "7D8F4E873B8C86EC"
+			shape: "hexagon"
+			tasks: [{
+				id: "39CD6F0EEDB0EABE"
+				item: "nyagibits_bytes:alluvial_slush"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["13FC2F89AE4F3F6E"]
+			id: "79DB6A36983AC55D"
+			shape: "hexagon"
+			tasks: [{
+				id: "14F4F9B2F8DD723F"
+				item: "nyagibits_bytes:native_cluster"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["13FC2F89AE4F3F6E"]
+			id: "6C3F94DE1163D837"
+			shape: "hexagon"
+			tasks: [{
+				id: "343E80D69D8B0134"
+				item: "nyagibits_bytes:raw_argentite"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["13FC2F89AE4F3F6E"]
+			id: "7ECC3DA24391CE03"
+			shape: "hexagon"
+			tasks: [{
+				id: "489E1A754451AFE0"
+				item: "nyagibits_bytes:raw_chlorargyrite"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["13FC2F89AE4F3F6E"]
+			id: "0706D348FEA18955"
+			shape: "hexagon"
+			tasks: [{
+				id: "70D97D0A4B588C43"
+				item: "nyagibits_bytes:raw_polybasite"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["13FC2F89AE4F3F6E"]
+			id: "620F9326CF74EDFB"
+			shape: "hexagon"
+			tasks: [{
+				id: "10BDFD8F6FABE37B"
+				item: "nyagibits_bytes:raw_proustite"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["13FC2F89AE4F3F6E"]
+			id: "38E79A712811BE9E"
+			shape: "hexagon"
+			tasks: [{
+				id: "1C554EE58E1DD282"
+				item: "nyagibits_bytes:raw_electrum"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["13FC2F89AE4F3F6E"]
+			id: "1B57872EBFFB1EAE"
+			shape: "hexagon"
+			tasks: [{
+				id: "11FDDC976D062048"
+				item: "nyagibits_bytes:raw_kustelite_electrum"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6F66FCCD63752DC8"]
+			id: "1DFA40765C37E21B"
+			shape: "hexagon"
+			tasks: [{
+				id: "5627175D5BABB587"
+				item: "minecraft:redstone"
+				type: "item"
+			}]
+			title: "Raw Redstone and Mercury"
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1DFA40765C37E21B"]
+			id: "2AB039D37466584C"
+			shape: "hexagon"
+			tasks: [{
+				id: "6F069D7526A5ED19"
+				item: "nyagibits_bytes:raw_cinnabar"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1DFA40765C37E21B"]
+			id: "34E0AF7803580F54"
+			shape: "hexagon"
+			tasks: [{
+				id: "7C5872AB757D3B6D"
+				item: "nyagibits_bytes:raw_metacinnabar"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1DFA40765C37E21B"]
+			id: "179031B57EE47680"
+			shape: "hexagon"
+			tasks: [{
+				id: "40C89B41F81541F7"
+				item: "nyagibits_bytes:raw_corderoite"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1DFA40765C37E21B"]
+			id: "289AC82BB64734A9"
+			shape: "hexagon"
+			tasks: [{
+				id: "63A1D8C3BA130C78"
+				item: "nyagibits_bytes:raw_basaltic_powder"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["1DFA40765C37E21B"]
+			id: "186B290B36A2F760"
+			shape: "hexagon"
+			tasks: [{
+				id: "3D26ED3E52C2224F"
+				item: "nyagibits_bytes:raw_calomel"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1DFA40765C37E21B"]
+			id: "54C651D87DB4C548"
+			shape: "hexagon"
+			tasks: [{
+				id: "05E824F23B04E7B9"
+				item: "nyagibits_bytes:raw_native_mercury_spherules"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1DFA40765C37E21B"]
+			id: "36ED42A46C26988C"
+			shape: "hexagon"
+			tasks: [{
+				id: "1C1F629B0CD6C6AA"
+				item: "nyagibits_bytes:raw_montroydite"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1DFA40765C37E21B"]
+			id: "435B8B460BE5AF93"
+			shape: "hexagon"
+			tasks: [{
+				id: "0088DDCC0923BE29"
+				item: "nyagibits_bytes:raw_granulated_obsidian"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6F66FCCD63752DC8"]
+			id: "384CA06F7A29D8CE"
+			shape: "hexagon"
+			tasks: [{
+				id: "01A99F26F29EFCAC"
+				item: "minecraft:coal"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["384CA06F7A29D8CE"]
+			id: "15B4E8BF1E92F05E"
+			shape: "hexagon"
+			tasks: [{
+				id: "1685E86665DE696C"
+				item: "nyagibits_bytes:raw_lignite"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["384CA06F7A29D8CE"]
+			id: "0F9263C2901F888E"
+			shape: "hexagon"
+			tasks: [{
+				id: "736C315C999D8CB0"
+				item: "nyagibits_bytes:raw_bituminous"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["384CA06F7A29D8CE"]
+			id: "613CF91B0C58B1BE"
+			shape: "hexagon"
+			tasks: [{
+				id: "27F500F315D4ECAE"
+				item: "nyagibits_bytes:raw_subbituminous"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["384CA06F7A29D8CE"]
+			id: "4450CBE8E5334BA1"
+			shape: "hexagon"
+			tasks: [{
+				id: "57F819EF06E465B3"
+				item: "nyagibits_bytes:raw_anthracite"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["384CA06F7A29D8CE"]
+			id: "137D5ED631849B19"
+			shape: "hexagon"
+			tasks: [{
+				id: "723CCC52674B1839"
+				item: "nyagibits_bytes:raw_cannel_coal"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["384CA06F7A29D8CE"]
+			id: "3A0984E0B03D9FF9"
+			shape: "hexagon"
+			tasks: [{
+				id: "719E053AFB449E66"
+				item: "nyagibits_bytes:raw_jet"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["384CA06F7A29D8CE"]
+			id: "0A8E0946A2BF1D4F"
+			shape: "hexagon"
+			tasks: [{
+				id: "6E76BA7A69C664DA"
+				item: "nyagibits_bytes:raw_peat"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["384CA06F7A29D8CE"]
+			id: "65D954270BC93561"
+			shape: "hexagon"
+			tasks: [{
+				id: "23FF44B07A969D99"
+				item: "nyagibits_bytes:raw_graphite"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6F66FCCD63752DC8"]
+			id: "36801EB293571923"
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "4A5CD06866048012"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "66B66C6E4B7454A1"
+					item: "minecraft:lapis_lazuli"
+					type: "item"
+				}
+				{
+					id: "2F92AA230DA25768"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+			]
+			title: "Raw Gemstones"
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["36801EB293571923"]
+			id: "0A9ECBA01878A7AB"
+			shape: "hexagon"
+			tasks: [{
+				id: "35C6EFA0DA3F31BF"
+				item: "nyagibits_bytes:raw_kimberlite"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["36801EB293571923"]
+			id: "0534734B826094D9"
+			shape: "hexagon"
+			tasks: [{
+				id: "5678C1F33CD6B451"
+				item: "nyagibits_bytes:raw_lamproite"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["36801EB293571923"]
+			id: "7E36565D6A714D77"
+			shape: "hexagon"
+			tasks: [{
+				id: "2D98EB589EBEB998"
+				item: "nyagibits_bytes:raw_lazurite"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["36801EB293571923"]
+			id: "51123E21330821D0"
+			shape: "hexagon"
+			tasks: [{
+				id: "7D9935B74E00CB6B"
+				item: "nyagibits_bytes:raw_lapis_lazuli"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["36801EB293571923"]
+			id: "2F36F840E0012977"
+			shape: "hexagon"
+			tasks: [{
+				id: "69C086623CA1DB34"
+				item: "nyagibits_bytes:raw_prime_beryllic_cluster"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["36801EB293571923"]
+			id: "0E07F636B9B08AE8"
+			shape: "hexagon"
+			tasks: [{
+				id: "0F0701771EFA7D07"
+				item: "nyagibits_bytes:raw_fluorite"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["36801EB293571923"]
+			id: "35ECC39B3E74CFD1"
+			shape: "hexagon"
+			tasks: [{
+				id: "1E659D0BDDBFC47C"
+				item: "nyagibits_bytes:raw_chalcogenide_crystal_cluster"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["36801EB293571923"]
+			id: "53970793D10A4AEF"
+			shape: "hexagon"
+			tasks: [{
+				id: "3DE9FE1C20E0A408"
+				item: "nyagibits_bytes:raw_salt_cluster"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6F66FCCD63752DC8"]
+			id: "12D07F810D3FEE98"
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "78460E0001B478C7"
+					item: "minecraft:quartz"
+					type: "item"
+				}
+				{
+					id: "2FDB72639A216626"
+					item: "ae2:certus_quartz_crystal"
+					type: "item"
+				}
+			]
+			title: "Raw Quartz"
+			x: 8.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["12D07F810D3FEE98"]
+			id: "7EBA24E0515AD4D3"
+			shape: "hexagon"
+			tasks: [{
+				id: "4C38DC0B5CAB6354"
+				item: "nyagibits_bytes:raw_herkimer_diamond"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["12D07F810D3FEE98"]
+			id: "18F7940BCDD9A93E"
+			shape: "hexagon"
+			tasks: [{
+				id: "50EF40F3FD99BD90"
+				item: "nyagibits_bytes:raw_dendritic_agate"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["12D07F810D3FEE98"]
+			id: "3C36DC4D8427D51F"
+			shape: "hexagon"
+			tasks: [{
+				id: "2A9619FBC04B0633"
+				item: "nyagibits_bytes:raw_chalcedony"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["12D07F810D3FEE98"]
+			id: "6EADF678BD74FECC"
+			shape: "hexagon"
+			tasks: [{
+				id: "433BA3F65F64AB90"
+				item: "nyagibits_bytes:raw_rutilated_quartz"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["12D07F810D3FEE98"]
+			id: "57DE26D7500C341D"
+			shape: "hexagon"
+			tasks: [{
+				id: "60805B4F68883ABE"
+				item: "nyagibits_bytes:raw_ametrine"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["12D07F810D3FEE98"]
+			id: "2410D97DAF875C6D"
+			shape: "hexagon"
+			tasks: [{
+				id: "45BC8F8A31556FCA"
+				item: "nyagibits_bytes:raw_rose_quartz"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["12D07F810D3FEE98"]
+			id: "4490F631697B7789"
+			shape: "hexagon"
+			tasks: [{
+				id: "6EDA2777F8616D53"
+				item: "nyagibits_bytes:raw_prasiolite"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["12D07F810D3FEE98"]
+			id: "501ADCCCBBC15FD8"
+			shape: "hexagon"
+			tasks: [{
+				id: "04F306EA4D447E61"
+				item: "nyagibits_bytes:raw_meteoric_certus"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6F66FCCD63752DC8"]
+			icon: "create:zinc_ingot"
+			id: "0EE36446F98AA6C3"
+			shape: "hexagon"
+			tasks: [{
+				id: "787BA0198FCBCD5F"
+				item: "create:raw_zinc"
+				type: "item"
+			}]
+			title: "Raw Zinc"
+			x: -9.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["0EE36446F98AA6C3"]
+			id: "669C7D07D11F0370"
+			shape: "hexagon"
+			tasks: [{
+				id: "4E048B2AED8CF64D"
+				item: "nyagibits_bytes:raw_zinc_carbonate"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["0EE36446F98AA6C3"]
+			id: "1C2FC24938509385"
+			shape: "hexagon"
+			tasks: [{
+				id: "5519F943FB83D869"
+				item: "nyagibits_bytes:raw_sphalerite"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0EE36446F98AA6C3"]
+			id: "7EAF8DC491432E9E"
+			shape: "hexagon"
+			tasks: [{
+				id: "1DB7E183D17A2BEE"
+				item: "nyagibits_bytes:raw_smithsonite"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0EE36446F98AA6C3"]
+			id: "287B3BBDBF72A30E"
+			shape: "hexagon"
+			tasks: [{
+				id: "1F880B1A107ACC9A"
+				item: "nyagibits_bytes:raw_hemimorphite"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0EE36446F98AA6C3"]
+			id: "257E7A429EA1164D"
+			shape: "hexagon"
+			tasks: [{
+				id: "2D386A37D671B8F8"
+				item: "nyagibits_bytes:raw_wurtzite"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0EE36446F98AA6C3"]
+			id: "0747D7AC8FE28016"
+			shape: "hexagon"
+			tasks: [{
+				id: "5FAA316016E8FD4B"
+				item: "nyagibits_bytes:raw_hydrozincite"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0EE36446F98AA6C3"]
+			id: "23DCA8552C6A5418"
+			shape: "hexagon"
+			tasks: [{
+				id: "3570312BF6F4C13B"
+				item: "nyagibits_bytes:raw_willemite"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0EE36446F98AA6C3"]
+			id: "1E6FCB9DA9E6A5F2"
+			shape: "hexagon"
+			tasks: [{
+				id: "450AF3B37A490896"
+				item: "nyagibits_bytes:raw_franklinite"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6F66FCCD63752DC8"]
+			icon: "immersiveengineering:ingot_aluminum"
+			id: "759B1A3F42003E45"
+			shape: "hexagon"
+			tasks: [{
+				id: "114BAEE3B20A8D0C"
+				item: "immersiveengineering:raw_aluminum"
+				type: "item"
+			}]
+			title: "Raw Alumin(i)um"
+			x: -6.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["759B1A3F42003E45"]
+			id: "6A8FD9006612002D"
+			shape: "hexagon"
+			tasks: [{
+				id: "69369D231F81949E"
+				item: "nyagibits_bytes:raw_bauxite"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["759B1A3F42003E45"]
+			id: "10CE9AA34871CB46"
+			shape: "hexagon"
+			tasks: [{
+				id: "798CC5D03EACB30D"
+				item: "nyagibits_bytes:raw_feldspar"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["759B1A3F42003E45"]
+			id: "51892F6F65402E61"
+			shape: "hexagon"
+			tasks: [{
+				id: "6DC7E6B203C4FA74"
+				item: "nyagibits_bytes:raw_clustered_beryl"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["759B1A3F42003E45"]
+			id: "651F9F142E28AD88"
+			shape: "hexagon"
+			tasks: [{
+				id: "5C1B42C2188F8BD3"
+				item: "nyagibits_bytes:raw_cryolite"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["759B1A3F42003E45"]
+			id: "0C91D3E9BA31DE22"
+			shape: "hexagon"
+			tasks: [{
+				id: "6DE369E346574FAC"
+				item: "nyagibits_bytes:raw_spinel"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["759B1A3F42003E45"]
+			id: "4B27BAC7F959BE2C"
+			shape: "hexagon"
+			tasks: [{
+				id: "365C13DB8FF2BBF5"
+				item: "nyagibits_bytes:raw_turquoise"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["759B1A3F42003E45"]
+			id: "04DC460DCA55F630"
+			shape: "hexagon"
+			tasks: [{
+				id: "6AA07C149CDA93C9"
+				item: "nyagibits_bytes:raw_garnet_slush"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["759B1A3F42003E45"]
+			id: "7C5510AA99CE7626"
+			shape: "hexagon"
+			tasks: [{
+				id: "2BCC1D589CFAFA74"
+				item: "nyagibits_bytes:raw_native_aluminum"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6F66FCCD63752DC8"]
+			icon: "thermal:lead_ingot"
+			id: "71620A0BAD820CD9"
+			shape: "hexagon"
+			tasks: [{
+				id: "36DC21C14579A482"
+				item: "immersiveengineering:raw_lead"
+				type: "item"
+			}]
+			title: "Raw Lead"
+			x: -3.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["71620A0BAD820CD9"]
+			id: "0988FA4A92F61A1E"
+			shape: "hexagon"
+			tasks: [{
+				id: "682B4DC78FCBAF9F"
+				item: "nyagibits_bytes:raw_galena"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["71620A0BAD820CD9"]
+			id: "57E2B3C0611A7A1E"
+			shape: "hexagon"
+			tasks: [{
+				id: "4CA57E1CDF391333"
+				item: "nyagibits_bytes:raw_lead_sulphide"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["71620A0BAD820CD9"]
+			id: "1A89632520E80C42"
+			shape: "hexagon"
+			tasks: [{
+				id: "0635F07C559DB7A0"
+				item: "nyagibits_bytes:raw_pyromorphite"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["71620A0BAD820CD9"]
+			id: "3519AB62CD23F6C0"
+			shape: "hexagon"
+			tasks: [{
+				id: "2637191ED7A5A66F"
+				item: "nyagibits_bytes:raw_cerussite"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["71620A0BAD820CD9"]
+			id: "3EC6BEF77074CBB2"
+			shape: "hexagon"
+			tasks: [{
+				id: "557D25DF6EBC4D13"
+				item: "nyagibits_bytes:raw_anglesite"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["71620A0BAD820CD9"]
+			id: "37E23FB2A666A37D"
+			shape: "hexagon"
+			tasks: [{
+				id: "60B44A38A67D6084"
+				item: "nyagibits_bytes:raw_wulfenite"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["71620A0BAD820CD9"]
+			id: "3B234E446A891F03"
+			shape: "hexagon"
+			tasks: [{
+				id: "5A1475AE81A26052"
+				item: "nyagibits_bytes:raw_vanadinite"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["71620A0BAD820CD9"]
+			id: "62717F1766DB2BD9"
+			shape: "hexagon"
+			tasks: [{
+				id: "13C3816280182A03"
+				item: "nyagibits_bytes:raw_mimetite"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6F66FCCD63752DC8"]
+			icon: "immersiveengineering:ingot_nickel"
+			id: "45518D2CD823F143"
+			shape: "hexagon"
+			tasks: [{
+				id: "5B621EC8666A167B"
+				item: "immersiveengineering:raw_nickel"
+				type: "item"
+			}]
+			title: "Raw Nickel"
+			x: -0.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["45518D2CD823F143"]
+			id: "19FBF5E1DE6766C6"
+			shape: "hexagon"
+			tasks: [{
+				id: "42C92928022CEBE3"
+				item: "nyagibits_bytes:raw_pentlandite"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["45518D2CD823F143"]
+			id: "26C6142F9D71AFDD"
+			shape: "hexagon"
+			tasks: [{
+				id: "00E3B56DB263D4A7"
+				item: "nyagibits_bytes:raw_garnierite"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["45518D2CD823F143"]
+			id: "0E742531BFE5F86B"
+			shape: "hexagon"
+			tasks: [{
+				id: "5C916B1BBD51F0FC"
+				item: "nyagibits_bytes:raw_saprolite"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["45518D2CD823F143"]
+			id: "47501429D9BCBE54"
+			shape: "hexagon"
+			tasks: [{
+				id: "269E3D1BB8E9A5C7"
+				item: "nyagibits_bytes:raw_hardened_sulfide_flow"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["45518D2CD823F143"]
+			id: "4C6368A79C6F2723"
+			shape: "hexagon"
+			tasks: [{
+				id: "0CDCE43FB16B2DFC"
+				item: "nyagibits_bytes:raw_millerite"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["45518D2CD823F143"]
+			id: "10022CAD6696F87B"
+			shape: "hexagon"
+			tasks: [{
+				id: "5564E3573191CFA0"
+				item: "nyagibits_bytes:raw_nickeline"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["45518D2CD823F143"]
+			id: "129142E8B04F6DFB"
+			shape: "hexagon"
+			tasks: [{
+				id: "2446F1BDD7C4C277"
+				item: "nyagibits_bytes:raw_meteoric_taenite"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["45518D2CD823F143"]
+			id: "14343A7BEDE75B35"
+			shape: "hexagon"
+			tasks: [{
+				id: "4463966533446729"
+				item: "nyagibits_bytes:raw_meteoric_kamacite"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6F66FCCD63752DC8"]
+			icon: "mekanism:ingot_uranium"
+			id: "2C6845E1DFB220C9"
+			shape: "hexagon"
+			tasks: [{
+				id: "73D0E9AA6F61FA0F"
+				item: "mekanism:raw_uranium"
+				type: "item"
+			}]
+			title: "Raw Uranium and Thorium"
+			x: 2.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["2C6845E1DFB220C9"]
+			id: "0FCCCDEFD417FA00"
+			shape: "hexagon"
+			tasks: [{
+				id: "6DF6C473536C56CD"
+				item: "nyagibits_bytes:raw_pitchblende"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["2C6845E1DFB220C9"]
+			id: "61CD2FE2B2CDF2BB"
+			shape: "hexagon"
+			tasks: [{
+				id: "425CA25710833448"
+				item: "nyagibits_bytes:raw_carnotite"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["2C6845E1DFB220C9"]
+			id: "606C8BBB910CFD67"
+			shape: "hexagon"
+			tasks: [{
+				id: "5A873B654F748318"
+				item: "nyagibits_bytes:raw_tyuyamunite"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["2C6845E1DFB220C9"]
+			id: "7E7EB9B33D30B0B1"
+			shape: "hexagon"
+			tasks: [{
+				id: "478A6420F9BB7254"
+				item: "nyagibits_bytes:raw_torbernite"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2C6845E1DFB220C9"]
+			id: "411F86107B1D8ECB"
+			shape: "hexagon"
+			tasks: [{
+				id: "4F05E9B63563679A"
+				item: "nyagibits_bytes:raw_autunite"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2C6845E1DFB220C9"]
+			id: "5FCA5D2D5399D756"
+			shape: "hexagon"
+			tasks: [{
+				id: "1670085C7AB03411"
+				item: "nyagibits_bytes:raw_thorite"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["2C6845E1DFB220C9"]
+			id: "37D713996B5D1E51"
+			shape: "hexagon"
+			tasks: [{
+				id: "3FE5AAB9F14B315B"
+				item: "nyagibits_bytes:raw_uranothorite"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2C6845E1DFB220C9"]
+			id: "3A1ABA0089CF0F70"
+			shape: "hexagon"
+			tasks: [{
+				id: "5D03CFDD6FB04B25"
+				item: "nyagibits_bytes:raw_thorianite"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6F66FCCD63752DC8"]
+			icon: "thermal:tin_ingot"
+			id: "1CDB5D26D5C8253C"
+			shape: "hexagon"
+			tasks: [{
+				id: "0C2A2483F906BCEB"
+				item: "thermal:raw_tin"
+				type: "item"
+			}]
+			title: "Raw Tin"
+			x: 5.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["1CDB5D26D5C8253C"]
+			id: "23247D4451ABE279"
+			shape: "hexagon"
+			tasks: [{
+				id: "6F50D3111F77237B"
+				item: "nyagibits_bytes:raw_cassiterite"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["1CDB5D26D5C8253C"]
+			id: "641F6752FAA2C0F5"
+			shape: "hexagon"
+			tasks: [{
+				id: "785A1119F63518F1"
+				item: "nyagibits_bytes:raw_stannite"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["1CDB5D26D5C8253C"]
+			id: "44B1770BABD3E9E8"
+			shape: "hexagon"
+			tasks: [{
+				id: "5389FC58E52000AE"
+				item: "nyagibits_bytes:raw_cylindrite"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["1CDB5D26D5C8253C"]
+			id: "3E8341FCC12DDBBC"
+			shape: "hexagon"
+			tasks: [{
+				id: "47C1AD843BA1982D"
+				item: "nyagibits_bytes:raw_franckeite"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1CDB5D26D5C8253C"]
+			id: "4ECD8B1464CDD423"
+			shape: "hexagon"
+			tasks: [{
+				id: "5010A2810C9A2CA5"
+				item: "nyagibits_bytes:raw_canfieldite"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1CDB5D26D5C8253C"]
+			id: "174A45BD2F86A17F"
+			shape: "hexagon"
+			tasks: [{
+				id: "3FDC6B0F49CF3022"
+				item: "nyagibits_bytes:raw_teallite"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["1CDB5D26D5C8253C"]
+			id: "18A7E040948E4E0B"
+			shape: "hexagon"
+			tasks: [{
+				id: "21A57E16257A91D2"
+				item: "nyagibits_bytes:raw_brannerite"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1CDB5D26D5C8253C"]
+			id: "19367A10D464B28F"
+			shape: "hexagon"
+			tasks: [{
+				id: "7540AEABF23FD168"
+				item: "nyagibits_bytes:raw_orthoclase"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6F66FCCD63752DC8"]
+			id: "7B8BC8FC6D7C4E87"
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "0D91E89835654372"
+					item: "thermal:niter"
+					type: "item"
+				}
+				{
+					id: "5AAB32FC1E147B2E"
+					item: "thermal:sulfur"
+					type: "item"
+				}
+			]
+			title: "Raw Niter, Sulfur, and other Minerals"
+			x: 8.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["7B8BC8FC6D7C4E87"]
+			id: "0F1E71EA24F0E287"
+			shape: "hexagon"
+			tasks: [{
+				id: "2D2E9A0200BA88E1"
+				item: "nyagibits_bytes:raw_saltpeter"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["7B8BC8FC6D7C4E87"]
+			id: "032BFD25F2C4C145"
+			shape: "hexagon"
+			tasks: [{
+				id: "395E26EC07FDAC18"
+				item: "nyagibits_bytes:raw_borax"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7B8BC8FC6D7C4E87"]
+			id: "6720635414E4501D"
+			shape: "hexagon"
+			tasks: [{
+				id: "70257CE58EBF93B5"
+				item: "nyagibits_bytes:raw_compacted_limestone"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7B8BC8FC6D7C4E87"]
+			id: "3364EC3640226F5F"
+			shape: "hexagon"
+			tasks: [{
+				id: "3300CF048AA37E23"
+				item: "nyagibits_bytes:raw_volcanic_sulfur"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7B8BC8FC6D7C4E87"]
+			id: "00A429CE1D31266F"
+			shape: "hexagon"
+			tasks: [{
+				id: "1B9A5EC0F079C6ED"
+				item: "nyagibits_bytes:raw_rainbow_obsidian"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7B8BC8FC6D7C4E87"]
+			id: "119BAA08559348C5"
+			shape: "hexagon"
+			tasks: [{
+				id: "071AEB4189DD5137"
+				item: "nyagibits_bytes:raw_petrified_wood"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7B8BC8FC6D7C4E87"]
+			id: "003A50BF60A4F905"
+			shape: "hexagon"
+			tasks: [{
+				id: "6C811E832F224A2D"
+				item: "nyagibits_bytes:raw_chalk"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7B8BC8FC6D7C4E87"]
+			id: "53A59BCE01097779"
+			shape: "hexagon"
+			tasks: [{
+				id: "17D2AB9F5C766431"
+				item: "nyagibits_bytes:raw_borax"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 5.0d
 		}
 	]
 	title: "Ore Line"

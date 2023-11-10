@@ -2,10 +2,10 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "scale_tree_i"
-	group: "24374B9B7F7D44C4"
+	group: "65E17C337454D8E2"
 	icon: "ae2:spatial_storage_cell_2"
 	id: "5CB694F6C0BDC24B"
-	order_index: 1
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
