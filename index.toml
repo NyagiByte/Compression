@@ -740,6 +740,11 @@ hash = "4c609b500836cde1384f1306ac55ad31efd00fcd06c096b65676e18ec3a429b4"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "27b8aa0b506b4f697ae8ea8cb8b316973b15d9a2a79d0af0ef61c0302d170723"
+metafile = true
+
+[[files]]
 file = "mods/engineers-delight.pw.toml"
 hash = "d3c31266b05d3af9cf5da2c53053665b9baf79c3c773e677d3984a95ea436efa"
 metafile = true
@@ -946,6 +951,11 @@ metafile = true
 [[files]]
 file = "mods/tesseract.pw.toml"
 hash = "eb2df3b4f7a937087ac3b1bf1f5d61a9d482765a9098a0d8a364b107ffe3bdb0"
+metafile = true
+
+[[files]]
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "5b41c25289361f7791a080ef812c7cab6d9f63ab57b63b0d3ec6694bb78d18dc"
 metafile = true
 
 [[files]]
