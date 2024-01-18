@@ -15,6 +15,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			description: ["This line of quests will guide you towards major key steps in increasing yields in gemstone-type processing"]
 			icon: "minecraft:diamond"
 			id: "35494E3A757EA660"
 			shape: "hexagon"
@@ -27,6 +28,7 @@
 			y: -4.0d
 		}
 		{
+			description: ["This line of quests will guide you towards major key steps in increasing yields in metal-type processing"]
 			icon: "minecraft:raw_iron"
 			id: "0F2BCC8D3D977D1E"
 			shape: "hexagon"
@@ -1645,6 +1647,180 @@
 			}]
 			x: 9.5d
 			y: 5.0d
+		}
+		{
+			dependencies: ["5EF1C3C4635C1CF1"]
+			icon: "nyagibits_bytes:hyper_conglomerate_iron_ore"
+			id: "30F02289436EB3F9"
+			shape: "hexagon"
+			tasks: [{
+				id: "6D04C266BECCFABF"
+				item: {
+					Count: 1b
+					id: "botania:terra_pick"
+					tag: {
+						Damage: 0
+						mana: 9999
+					}
+				}
+				type: "item"
+			}]
+			title: "The Hyper Layer"
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4E7A58F86D085264"]
+			icon: "nyagibits_bytes:dense_conglomerate_iron_ore"
+			id: "5EF1C3C4635C1CF1"
+			shape: "hexagon"
+			tasks: [{
+				id: "6D9799AB05139B78"
+				item: {
+					Count: 1b
+					id: "botania:elementium_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "The Dense Layer"
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			icon: "nyagibits_bytes:conglomerate_iron_ore"
+			id: "4E7A58F86D085264"
+			shape: "hexagon"
+			tasks: [{
+				id: "1968977F5C0F05BC"
+				item: {
+					Count: 1b
+					id: "botania:manasteel_pick"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "The Conglomerate Layer"
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["30F02289436EB3F9"]
+			icon: "nyagibits_bytes:tectonic_conglomerate_iron_ore"
+			id: "00F19BCA2441A0A0"
+			shape: "hexagon"
+			tasks: [{
+				id: "69B99C179CAF94E4"
+				item: {
+					Count: 1b
+					id: "mythicbotany:alfsteel_pick"
+					tag: {
+						Damage: 0
+						mana: 9999
+					}
+				}
+				type: "item"
+			}]
+			title: "The Tectonic Layer"
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["00F19BCA2441A0A0"]
+			icon: "nyagibits_bytes:core_conglomerate_iron_ore"
+			id: "5C593DE7D661653B"
+			shape: "hexagon"
+			tasks: [{
+				id: "010C0E33F78EBFAA"
+				item: {
+					Count: 1b
+					id: "bedrockminer:bedrock_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "The Core"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["301DE6C093EF12D1"]
+			description: ["16 drops per ore! Blast them with heat and lye!"]
+			icon: {
+				Count: 1b
+				id: "immersiveengineering:graphite_electrode"
+				tag: {
+					graphDmg: 0
+				}
+			}
+			id: "41AC9292A879EB3C"
+			shape: "hexagon"
+			tasks: [{
+				id: "785E499B000518D5"
+				item: {
+					Count: 1b
+					id: "immersiveengineering:graphite_electrode"
+					tag: {
+						graphDmg: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Stintering"
+			x: -8.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["35494E3A757EA660"]
+			id: "25404916F94B9AE8"
+			shape: "hexagon"
+			tasks: [{
+				id: "070F1B8E0A163015"
+				item: "minecraft:cauldron"
+				type: "item"
+			}]
+			title: "Washing"
+			x: 8.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["25404916F94B9AE8"]
+			icon: {
+				Count: 1b
+				id: "create:sand_paper"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "510C4A6E6F1259B5"
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "708038E71BA24D1E"
+					item: {
+						Count: 1b
+						id: "create:sand_paper"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "26A8BE9797287F84"
+					item: "create:deployer"
+					type: "item"
+				}
+			]
+			title: "Crude Polishing"
+			x: 9.5d
+			y: -3.0d
 		}
 	]
 	title: "Ore Line"

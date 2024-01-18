@@ -7,6 +7,38 @@
 	id: "4D853DE4C4204A9D"
 	order_index: 2
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			dependencies: [
+				"7063B8BCE64899C9"
+				"6C86D86CCAEED256"
+				"5FD4E5F7C28806E5"
+				"177A2060FFFA6932"
+			]
+			icon: "thermal:enderium_gear"
+			id: "472213B0CD3A8117"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "673D2F83CF8DC78B"
+				type: "checkmark"
+			}]
+			title: "The End of the Tutorial"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["472213B0CD3A8117"]
+			id: "46FF0B8D87309F93"
+			shape: "hexagon"
+			tasks: [{
+				id: "771E709133C2B556"
+				item: "nyagibits_bytes:ae2_assembly"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+	]
 	title: "Tier 1"
 }

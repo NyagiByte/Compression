@@ -42,7 +42,7 @@ hash = "83192c66715f399defe1117525f0dcee4ede837fcbafbe380b8f1d11190e9f35"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "c93f580f295b7d082ff522e0ba2bb54c1baadacff718487f208e2bfe5b0d5154"
+hash = "f738b8b66bf4ddff8bb774ffbecea384d0ba754abd7f63a080eed52285f221d6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"
@@ -54,11 +54,11 @@ hash = "f32461a2265bb1bf8a55a201f26d31f9306cecd87966caa2106c19d3c502194f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
-hash = "a689739b2557d2c1e9c0f7b97a7bacdc283f5e76f5181df74e07859fecb23315"
+hash = "3a11ce812fd097a5fa36c176a326276204f39882e469895c6fb21fd94460dbfb"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "ee27521807e22af7a1b62461a9428660e450e655a432fd983c82013e3bacbb4f"
+hash = "886cab74d96e1f18750032cb862ea73d7a597039cb06cd33d746fd6ff6cbfe73"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome_to_compression.snbt"

@@ -14,6 +14,7 @@
 				"202FD86BCA12CFCD"
 				"4BF754A57EA40429"
 			]
+			description: ["The core of your base, channels are on btw"]
 			icon: "ae2:controller"
 			id: "7063B8BCE64899C9"
 			shape: "hexagon"
@@ -32,6 +33,7 @@
 				"7E8C5DB4A0CC311A"
 				"7E87A032289F7370"
 			]
+			description: ["Soil bricks seem to work as jenga brick blocks"]
 			id: "38759235CBA030FE"
 			shape: "hexagon"
 			tasks: [{
@@ -47,6 +49,7 @@
 				"7E8C5DB4A0CC311A"
 				"770C7DBC0FB627B2"
 			]
+			description: ["Editors Note: &c\"Adjust the strength of the deployers, it keeps breaking buckets\""]
 			id: "4BF754A57EA40429"
 			shape: "hexagon"
 			tasks: [{
@@ -62,6 +65,7 @@
 				"7E8C5DB4A0CC311A"
 				"3BA93909A397863E"
 			]
+			description: ["&c\"The powder smells like sulfur and tastes just as bad\""]
 			id: "202FD86BCA12CFCD"
 			shape: "hexagon"
 			tasks: [{
@@ -74,6 +78,7 @@
 		}
 		{
 			dependencies: ["64859B912D563011"]
+			description: ["Ah it's just like elementary school again, don't forget your table of contents"]
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "7E8C5DB4A0CC311A"
@@ -88,6 +93,7 @@
 		}
 		{
 			dependencies: ["710B939C28B99198"]
+			description: ["The deployer seems to of broken the damn bucket somehow, &cat least I got the data"]
 			id: "770C7DBC0FB627B2"
 			shape: "hexagon"
 			tasks: [{
@@ -100,6 +106,7 @@
 		}
 		{
 			dependencies: ["4E4521C606190636"]
+			description: ["Ahah! A slab of ground!.. &cI'm not sure what data to write down but that was fun to do"]
 			id: "7E87A032289F7370"
 			shape: "hexagon"
 			tasks: [{
@@ -112,6 +119,7 @@
 		}
 		{
 			dependencies: ["6A7830EE46C1F225"]
+			description: ["It's still sizzling..."]
 			id: "3BA93909A397863E"
 			shape: "hexagon"
 			tasks: [{
@@ -124,6 +132,7 @@
 		}
 		{
 			dependency_requirement: "one_completed"
+			description: ["Salty water, strips of metal, and a flammable ball of wool, perfect to catch a spark"]
 			id: "710B939C28B99198"
 			shape: "hexagon"
 			tasks: [{
@@ -135,6 +144,7 @@
 			y: 8.0d
 		}
 		{
+			description: ["A box of dirt, give it a good smush"]
 			id: "4E4521C606190636"
 			shape: "hexagon"
 			tasks: [{
@@ -146,6 +156,7 @@
 			y: 7.5d
 		}
 		{
+			description: ["A pouch of very spicy powder"]
 			id: "6A7830EE46C1F225"
 			shape: "hexagon"
 			tasks: [{
@@ -158,6 +169,7 @@
 		}
 		{
 			dependencies: ["030A8303B3827284"]
+			description: ["&cThe science can now begin as I can now take notes"]
 			id: "64859B912D563011"
 			shape: "hexagon"
 			tasks: [{
@@ -165,6 +177,7 @@
 				item: "nyagibits_bytes:pen"
 				type: "item"
 			}]
+			title: "Need something to write with after all"
 			x: 0.5d
 			y: 6.0d
 		}
@@ -174,6 +187,7 @@
 				"4BF754A57EA40429"
 				"202FD86BCA12CFCD"
 			]
+			description: ["Remember, \"The point of chemistry is not to be barbaric, the point of chemistry is to play god\" -Explosions and Fire"]
 			icon: "alchemistry:dissolver"
 			id: "177A2060FFFA6932"
 			shape: "hexagon"
@@ -187,6 +201,7 @@
 				"202FD86BCA12CFCD"
 				"5B2FAF848FE69A9D"
 			]
+			description: ["Liquid blue.... actually wait that sounds like a drug nvm"]
 			icon: "botania:fabulous_pool"
 			id: "6C86D86CCAEED256"
 			shape: "hexagon"
@@ -200,25 +215,24 @@
 				"3877192A0CE7A58C"
 				"5CF731C7D9CE3BE0"
 			]
+			description: ["The big clink clank machines, we don't need clean air we need STEEL"]
+			icon: {
+				Count: 1b
+				id: "immersiveengineering:hammer"
+				tag: {
+					Damage: 0
+				}
+			}
 			id: "5FD4E5F7C28806E5"
 			shape: "hexagon"
 			size: 2.0d
-			tasks: [{
-				id: "25A0B9FE16809BD3"
-				item: {
-					Count: 1b
-					id: "immersiveengineering:hammer"
-					tag: {
-						Damage: 0
-					}
-				}
-				type: "item"
-			}]
+			title: "Immersive Engineering"
 			x: 0.5d
 			y: 15.5d
 		}
 		{
 			dependencies: ["3E9A1FE5841F94D1"]
+			description: ["Tomatoes are acidic and cabbages are trash at being a pH indicator, noted.."]
 			id: "0301CFDBE4EBB36A"
 			shape: "hexagon"
 			tasks: [{
@@ -231,6 +245,7 @@
 		}
 		{
 			dependencies: ["45CE62BA434CAC71"]
+			description: ["&6I'm still unsure if this is a magic mod or not, more testing needed"]
 			id: "5B2FAF848FE69A9D"
 			shape: "hexagon"
 			tasks: [{
@@ -243,6 +258,7 @@
 		}
 		{
 			dependencies: ["73BBDB52CEA06B8A"]
+			description: ["I'm not sure how you managed to break the tube rack but we got our data"]
 			id: "3E9A1FE5841F94D1"
 			shape: "hexagon"
 			tasks: [{
@@ -255,6 +271,7 @@
 		}
 		{
 			dependencies: ["63572758F873D9AA"]
+			description: ["Wah how did.. it turn into a cherry bonsai"]
 			id: "45CE62BA434CAC71"
 			shape: "hexagon"
 			tasks: [{
@@ -266,6 +283,7 @@
 			y: 8.5d
 		}
 		{
+			description: ["The juiced up pulp of tomatoes and cabbages, natural sources of basic pH testing"]
 			id: "73BBDB52CEA06B8A"
 			shape: "hexagon"
 			tasks: [{
@@ -277,6 +295,7 @@
 			y: 7.5d
 		}
 		{
+			description: ["A pouch of nature stuff and some mixed soil, question remains if this mod is magic or tech.."]
 			id: "63572758F873D9AA"
 			shape: "hexagon"
 			tasks: [{
@@ -308,6 +327,7 @@
 		}
 		{
 			dependencies: ["6AB5F63B5AD1C84D"]
+			description: ["An interesting composite material, should subject it to many conditions to document its properties"]
 			id: "3C40482F07310467"
 			shape: "hexagon"
 			tasks: [{
@@ -320,6 +340,7 @@
 		}
 		{
 			dependencies: ["3C40482F07310467"]
+			description: ["Well the material isnt useable anymore but &cat least I know the limits of it now"]
 			id: "63CBF0ED263FF6F9"
 			shape: "hexagon"
 			tasks: [{
@@ -332,6 +353,7 @@
 		}
 		{
 			dependencies: ["63CBF0ED263FF6F9"]
+			description: ["&c\"Probably useful in more intensive situations\""]
 			id: "3877192A0CE7A58C"
 			shape: "hexagon"
 			tasks: [{
@@ -363,11 +385,11 @@
 		{
 			dependencies: ["31869F0FD4F46592"]
 			description: [
-				"1) Yes I did add these in for the sake of symmetry"
+				"1) &6Yes I did add these in for the sake of symmetry&r"
 				""
 				"2) This is your warning that each tier increase will demand the previous tier 16 times over!"
 				""
-				"Dont start crying yet tho, as the &bNumber go up&r and &bM-Ores&r exist to show the"
+				"Dont start crying yet tho, as the &bNumber go up&r and &bOre-Line&r exist to show the"
 				"recipe scaling in the pack for raw inputs and ore processing"
 			]
 			icon: "megacells:bulk_cell_component"
@@ -397,6 +419,7 @@
 		}
 		{
 			dependencies: ["0EFAB63A5ECC5F0C"]
+			description: ["Next tier will be where the pack truly begins"]
 			icon: "botania:cosmetic_thinking_hand"
 			id: "5CF731C7D9CE3BE0"
 			shape: "hexagon"
@@ -412,8 +435,8 @@
 			dependencies: [
 				"4296F49981434BC7"
 				"741704A82A2C1227"
-				"1C4899BD021DCC2C"
 			]
+			description: ["The final step in creating the start of the science chain, the mighty Pen"]
 			id: "030A8303B3827284"
 			shape: "hexagon"
 			size: 3.0d
@@ -422,11 +445,13 @@
 				item: "create:deployer"
 				type: "item"
 			}]
+			title: "Look what I can do! *Points*"
 			x: 0.5d
 			y: 4.0d
 		}
 		{
 			dependencies: ["741704A82A2C1227"]
+			description: ["You need a lot of these, so &6I made it so you get 8 at once, enjoy!"]
 			id: "4296F49981434BC7"
 			shape: "hexagon"
 			tasks: [{
@@ -434,6 +459,7 @@
 				item: "create:mechanical_crafter"
 				type: "item"
 			}]
+			title: "What if we made crafting but bigger"
 			x: 0.5d
 			y: 2.0d
 		}
@@ -444,7 +470,10 @@
 				"1BD36FA92BAF1CAC"
 				"4CBFDFBD1A71E6B4"
 				"4FFC0930D0539B28"
+				"4D339608203DD4F6"
+				"02903DDEA28657F2"
 			]
+			description: ["A box with all sorts of goodies for more complex machinery"]
 			id: "733F9A8147398E52"
 			shape: "hexagon"
 			tasks: [{
@@ -452,11 +481,20 @@
 				item: "nyagibits_bytes:pile_of_crude_mechanical_parts"
 				type: "item"
 			}]
+			title: "All the bits and bobs"
 			x: 0.5d
 			y: 1.0d
 		}
 		{
-			dependencies: ["733F9A8147398E52"]
+			dependencies: [
+				"733F9A8147398E52"
+				"02903DDEA28657F2"
+			]
+			description: [
+				"Congrats! Almost half way through"
+				""
+				"&bAlso don't forget to check uses, some items get a boosted yield if using this casing"
+			]
 			id: "741704A82A2C1227"
 			shape: "hexagon"
 			tasks: [{
@@ -464,10 +502,13 @@
 				item: "create:brass_casing"
 				type: "item"
 			}]
+			title: "Upgrading already?!"
 			x: 2.5d
 			y: 2.0d
 		}
 		{
+			dependencies: ["4B89973C8D23D164"]
+			description: ["Don't dodge it I was trying to give it to you!"]
 			id: "13F74400CE10E339"
 			shape: "hexagon"
 			tasks: [{
@@ -475,11 +516,16 @@
 				item: "create:wrench"
 				type: "item"
 			}]
+			title: "If You Can Dodge a Wrench..."
 			x: 3.5d
 			y: 1.0d
 		}
 		{
-			dependencies: ["02903DDEA28657F2"]
+			dependencies: [
+				"02903DDEA28657F2"
+				"4D339608203DD4F6"
+			]
+			description: ["&6I was forced by chat to give it this title I'm very sorry"]
 			id: "4B89973C8D23D164"
 			shape: "hexagon"
 			tasks: [{
@@ -487,18 +533,32 @@
 				item: "create:mechanical_press"
 				type: "item"
 			}]
-			x: -2.5d
-			y: 1.0d
+			title: "Bonking your Concussy"
+			x: -2.0d
+			y: -2.0d
 		}
 		{
-			dependencies: ["02903DDEA28657F2"]
+			dependencies: [
+				"02903DDEA28657F2"
+				"4B89973C8D23D164"
+			]
+			description: ["Usually used for shapeless crafting, but has some required use cases"]
+			icon: "create:mechanical_mixer"
 			id: "1BD36FA92BAF1CAC"
 			shape: "hexagon"
-			tasks: [{
-				id: "18B77AE1A2345941"
-				item: "create:mechanical_mixer"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "18B77AE1A2345941"
+					item: "create:mechanical_mixer"
+					type: "item"
+				}
+				{
+					id: "2CAF1332F667B3F4"
+					item: "create:basin"
+					type: "item"
+				}
+			]
+			title: "WHISK VIGOROUSLY"
 			x: -2.0d
 			y: 0.0d
 		}
@@ -507,6 +567,12 @@
 				"0AC123B7AB13C51E"
 				"1F07598A05563B29"
 				"5CFD9FE2895407B0"
+				"4B89973C8D23D164"
+			]
+			description: [
+				"Chuck some fuel into it, it loves to take naps while working"
+				""
+				"&bI heard it also like eggs"
 			]
 			id: "4CBFDFBD1A71E6B4"
 			shape: "hexagon"
@@ -515,11 +581,13 @@
 				item: "create:blaze_burner"
 				type: "item"
 			}]
+			title: "A Very Angry Box"
 			x: -1.5d
 			y: -1.0d
 		}
 		{
 			dependencies: ["4296F49981434BC7"]
+			description: ["Crush many things much quicker, plus unlocking new &bore line &rrecipes to boost yields!"]
 			id: "1C4899BD021DCC2C"
 			shape: "hexagon"
 			tasks: [{
@@ -527,26 +595,50 @@
 				item: "create:crushing_wheel"
 				type: "item"
 			}]
+			title: "The Player Jam Maker"
 			x: -1.5d
 			y: 2.0d
 		}
 		{
-			dependencies: ["02903DDEA28657F2"]
+			dependencies: [
+				"02903DDEA28657F2"
+				"4B89973C8D23D164"
+			]
+			description: ["Many mechanical toys to begin building your factory"]
 			id: "0601DBB1C7FD9207"
 			shape: "hexagon"
-			tasks: [{
-				id: "5A23586E0983FB27"
-				item: "create:mechanical_drill"
-				type: "item"
-			}]
-			x: -2.0d
-			y: -2.0d
+			tasks: [
+				{
+					id: "5A23586E0983FB27"
+					item: "create:mechanical_drill"
+					type: "item"
+				}
+				{
+					id: "78E23AC9CA48FBA1"
+					item: "create:millstone"
+					type: "item"
+				}
+				{
+					id: "14E40C2279534A6C"
+					item: "create:mechanical_harvester"
+					type: "item"
+				}
+				{
+					id: "18A6CFBBDCED7A01"
+					item: "create:mechanical_saw"
+					type: "item"
+				}
+			]
+			title: "Expensive but Necessary"
+			x: -2.5d
+			y: 1.0d
 		}
 		{
 			dependencies: [
 				"12356B8E644A1A52"
 				"4D339608203DD4F6"
 			]
+			description: ["Your very first casing"]
 			id: "02903DDEA28657F2"
 			shape: "hexagon"
 			tasks: [{
@@ -554,11 +646,13 @@
 				item: "create:andesite_casing"
 				type: "item"
 			}]
+			title: "Mechanical Fun"
 			x: 0.5d
 			y: -1.0d
 		}
 		{
 			dependencies: ["6F66FCCD63752DC8"]
+			description: ["&cWhat a mess.. There are other dimensions biomes here. Could be useful"]
 			icon: "minecraft:blaze_spawn_egg"
 			id: "0AC123B7AB13C51E"
 			shape: "hexagon"
@@ -567,11 +661,13 @@
 				item: "minecraft:netherrack"
 				type: "item"
 			}]
+			title: "A Fortress of Fire"
 			x: -1.5d
 			y: -3.0d
 		}
 		{
 			dependencies: ["4D339608203DD4F6"]
+			description: ["Hmm TNT seems to be locked behind advanced chemistry, &chow else would I explode some iron..."]
 			icon: "minecraft:creeper_head"
 			id: "1F07598A05563B29"
 			shape: "hexagon"
@@ -580,10 +676,12 @@
 				item: "pneumaticcraft:ingot_iron_compressed"
 				type: "item"
 			}]
+			title: "An Explosive Puzzle"
 			x: -0.5d
 			y: -3.0d
 		}
 		{
+			description: ["Smooth out those bumps and lumps"]
 			icon: {
 				Count: 1b
 				id: "create:sand_paper"
@@ -611,11 +709,13 @@
 					type: "item"
 				}
 			]
+			title: "Elbow Grease"
 			x: 0.5d
 			y: -3.0d
 		}
 		{
 			dependencies: ["5CFD9FE2895407B0"]
+			description: ["Not to be confused for the space dictator"]
 			id: "4FFC0930D0539B28"
 			shape: "hexagon"
 			tasks: [{
@@ -623,11 +723,17 @@
 				item: "create:polished_rose_quartz"
 				type: "item"
 			}]
+			title: "OOOO Shiny"
 			x: 3.0d
 			y: 0.0d
 		}
 		{
 			dependencies: ["001D3CBD7E6EA142"]
+			description: [
+				"Garden of Glass is enabled! Shift right click &aGrass &rto get pebbles"
+				""
+				"&bYou can break living stone with your hands btw"
+			]
 			id: "12356B8E644A1A52"
 			shape: "hexagon"
 			tasks: [
@@ -647,47 +753,46 @@
 					type: "item"
 				}
 			]
+			title: "Living Blocks and You!"
 			x: 1.5d
 			y: -3.0d
 		}
 		{
 			dependencies: ["5E7D0899ECE970A7"]
+			description: ["&cI wonder if sentient rocks feel pain when you break them"]
 			id: "001D3CBD7E6EA142"
 			tasks: [{
 				id: "6B74476D0F789202"
 				item: "botania:pure_daisy"
 				type: "item"
 			}]
+			title: "Pretty Flowa"
 			x: 2.5d
 			y: -3.0d
 		}
 		{
 			dependencies: ["6F66FCCD63752DC8"]
+			description: ["The All In One Tool!"]
 			id: "4D339608203DD4F6"
 			shape: "hexagon"
-			tasks: [
-				{
-					id: "229D3BBAD51DA269"
-					item: "minecraft:iron_ore"
-					type: "item"
-				}
-				{
-					id: "4AD71BFFD5D74D37"
-					item: {
-						Count: 1b
-						id: "aiotbotania:livingrock_aiot"
-						tag: {
-							Damage: 0
-						}
+			tasks: [{
+				id: "4AD71BFFD5D74D37"
+				item: {
+					Count: 1b
+					id: "aiotbotania:livingrock_aiot"
+					tag: {
+						Damage: 0
 					}
-					type: "item"
 				}
-			]
+				type: "item"
+			}]
+			title: "The picaxlhoe, The axickvle, The..."
 			x: 2.5d
 			y: -1.0d
 		}
 		{
 			dependencies: ["12356B8E644A1A52"]
+			description: ["Finally something to chip off the top layer of these &bore boulders"]
 			id: "6F66FCCD63752DC8"
 			shape: "hexagon"
 			tasks: [{
@@ -701,10 +806,12 @@
 				}
 				type: "item"
 			}]
+			title: "Finally Digging!"
 			x: 3.0d
 			y: -2.0d
 		}
 		{
+			description: ["A lil pool of water for plants and various sludges"]
 			icon: "botania:apothecary_forest"
 			id: "5E7D0899ECE970A7"
 			shape: "hexagon"
@@ -714,6 +821,7 @@
 				item: "botania:apothecary_default"
 				type: "item"
 			}]
+			title: "The Start"
 			x: 0.5d
 			y: -5.0d
 		}
