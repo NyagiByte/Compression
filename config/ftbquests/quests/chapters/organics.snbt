@@ -7,6 +7,50 @@
 	id: "557AD0B19A6B3464"
 	order_index: 2
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			description: ["Tomatoes are used early game as a source of acid for the crude acidics test, grow them!"]
+			id: "6AACB528AE3E38EC"
+			shape: "hexagon"
+			tasks: [{
+				id: "664DAB0194FBC2B5"
+				item: "farmersdelight:tomato"
+				type: "item"
+			}]
+			title: "The.. Fruit? Vegetable?"
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			description: ["Cabbages contain a natural pH indicator called anthocyanin, which early on is about as good as you have to do chemistry tests. Grow some!"]
+			id: "6881ADF9AA924AF6"
+			shape: "hexagon"
+			tasks: [{
+				id: "01D2DD1867D9BC7C"
+				item: "farmersdelight:cabbage"
+				type: "item"
+			}]
+			title: "The big ball of green"
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"119BAA08559348C5"
+				"6C86D86CCAEED256"
+			]
+			description: ["Petrified wood hold ancient genetic information for long gone tree species, &cI wonder if there is a way to generate saplings from this.."]
+			id: "3E430A180563A3E4"
+			shape: "hexagon"
+			tasks: [{
+				id: "7E0AF991458197B1"
+				item: "nyagibits_bytes:raw_petrified_wood"
+				type: "item"
+			}]
+			title: "Ancient Wood?"
+			x: 3.0d
+			y: -1.5d
+		}
+	]
 	title: "Organics"
 }

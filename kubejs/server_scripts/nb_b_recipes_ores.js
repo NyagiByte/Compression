@@ -1,106 +1,514 @@
 ServerEvents.recipes(event => {
     //Nyagi's Bits & Bytes - Ores
-    //Each material type gets its own .forEach due to divergances in input materials later down the line
+    //Yields:
+    /*
+        Tier 0 -  (1a)  
+               -  1 Total                                                  
+        Tier 1 -  (3a)(1b)  
+               -  4 Total      
+        Tier 2 -  (12a)(3b)(1c)  
+               -  16 Total   
+        Tier 3 -  (48a)(12b)(3c)(1d) 
+               -  64 Total   
+        Tier 4 -  (192a)(48b)(12c)(3d)(1e) 
+               -  256 Total   
+        Tier 5 -  (768a)(192b)(48c)(12d)(3e)(1f) 
+               -  1,024 Total   
+        Tier 6 -  (3,072a)(768b)(192c)(48d)(12e)(3f)(1g) 
+               -  4,096 Total   
+        Tier 7 -  (12,288a)(3,072b)(768c)(192d)(48e)(12f)(3g)(1h) 
+               -  16,384 Total   
+        Tier 8 -  (49,152a)(12,288b)(3,072c)(768d)(192e)(48f)(12g)(3h)(1i) 
+               -  65,536 Total   
+        Tier 9 -  (196,608a)...
+               -  262,144 Total   
+        Tier 10 - (786,432a)...
+               -  1,048,576 Total   
+        Tier 11 - (3,145,728a)...
+               -  4,194,304 Total   
+        Tier 12 - (12,582,912a)...
+               -  16,777,216 Total   
+        Tier 13 - (50,331,648a)...
+               -  67,108,864 Total   
+        Tier 14 - (201,326,592a)...
+               -  268,435,456 Total   
+        Tier 15 - (805,306,368a)...
+               -  1,073,741,824 Total   
+    */
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //-------------------------------------------------------
     //Iron
-        //2D array dont touch -----------------------------------
-         let rawOresrawOresIronProcessing = new Array(2);
-         for(var i = 0; i< rawOresrawOresIronProcessing.length; i++){
-             rawOresrawOresIronProcessing[i] = new Array(8);
-        }
-        //-------------------------------------------------------
-        //Ores
-        const rawOresIron = [
-            'nyagibits_bytes:raw_limonite', 
-            'nyagibits_bytes:raw_hematite', 
-            'nyagibits_bytes:raw_magnetite', 
-            'nyagibits_bytes:raw_pyrite', 
-            'nyagibits_bytes:raw_siderite', 
-            'nyagibits_bytes:raw_banded_iron', 
-            'nyagibits_bytes:raw_bog_iron', 
-            'nyagibits_bytes:raw_meteoric_iron'
-        ]
-        //-------------------------------------------------------
-        //Products by tier [0-15]
-            //Furnacing
-            rawOresrawOresIronProcessing[0] = [
-                //Limonite
-                'minecraft:iron_ingot',
-                //Hematite 
-                'minecraft:iron_ingot',
-                //Magnetite
-                'minecraft:iron_ingot',
-                //Pyrite
-                'minecraft:iron_ingot',
-                //Siderite
-                'minecraft:iron_ingot',
-                //Banded Iron
-                'minecraft:iron_ingot',
-                //Bog Iron
-                'minecraft:iron_ingot',
-                //Meteoric Iron
-                'minecraft:iron_ingot'
-            ]
-            //Crushing
-            rawOresrawOresIronProcessing[1] = [
-                //Limonite
-                'create:crushed_raw_iron',
-                //Hematite 
-                'create:crushed_raw_iron',
-                //Magnetite
-                'create:crushed_raw_iron',
-                //Pyrite
-                'thermal:sulfur_dust',
-                //Siderite
-                'create:crushed_raw_iron',
-                //Banded Iron
-                'create:crushed_raw_iron',
-                //Bog Iron
-                'minecraft:clay_ball',
-                //Meteoric Iron
-                'create:crushed_raw_iron'
-            ]
-            //Bees
-            rawOresrawOresIronProcessing[2] = [
-                //Limonite
-                'create:crushed_raw_iron',
-                //Hematite 
-                'create:crushed_raw_iron',
-                //Magnetite
-                'create:crushed_raw_iron',
-                //Pyrite
-                'thermal:sulfur_dust',
-                //Siderite
-                'create:crushed_raw_iron',
-                //Banded Iron
-                'create:crushed_raw_iron',
-                //Bog Iron
-                'minecraft:clay_ball',
-                //Meteoric Iron
-                'create:crushed_raw_iron'
-            ]
-        
-        //-------------------------------------------------------
-        //Removal of vanilla recipes
-        event.remove({id:'create:crushed_raw_iron'})
-        //-------------------------------------------------------
-        //The amount of blood shed for an off by 1 error is crazy, thank you Flooter & KillerQ
-        //Anyways this is the big loop for all of the processing
-        for(var i = 0; i < rawOresrawOresIronProcessing.length - 1; i++){
-            for(var j = 0; j < rawOresrawOresIronProcessing[i].length; j++){
-                switch (i){
-                    //Stage 0, Furnace
-                    case 0:
-                        event.smelting(rawOresrawOresIronProcessing[i][j], rawOresIron[j])
-                        event.blasting(rawOresrawOresIronProcessing[i][j], rawOresIron[j])
-                        break;
-                    //Stage 1, Crushing
-                    case 1:
-                        event.recipes.createCrushing(['3x create:crushed_raw_iron',rawOresrawOresIronProcessing[i][j]],rawOresIron[j])
-                        break;
-                }
-            }
-        }
-        //-------------------------------------------------------
+        //Limonite
+            //Tier 0 - Iron
+                event.smelting('minecraft:iron_ingot', 'nyagibits_bytes:raw_limonite')
+            //Tier 1 - 3(Iron), Iron
+                event.recipes.createCrushing(['3x create:crushed_raw_iron','create:crushed_raw_iron'],'nyagibits_bytes:raw_limonite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Hematite
+            //Tier 0 - Iron
+                event.smelting('minecraft:iron_ingot', 'nyagibits_bytes:raw_hematite')
+            //Tier 1 - 3(Iron), Iron
+                event.recipes.createCrushing(['3x create:crushed_raw_iron','create:crushed_raw_iron'],'nyagibits_bytes:raw_hematite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Magnetite
+            //Tier 0 - Iron
+                event.smelting('minecraft:iron_ingot', 'nyagibits_bytes:raw_magnetite')
+            //Tier 1 - 3(Iron), Iron
+                event.recipes.createCrushing(['3x create:crushed_raw_iron','create:crushed_raw_iron'],'nyagibits_bytes:raw_magnetite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Pyrite
+            //Tier 0 - Iron
+                event.smelting('minecraft:iron_ingot', 'nyagibits_bytes:raw_pyrite')
+            //Tier 1 - 3(Iron), Sulfur
+                event.recipes.createCrushing(['3x create:crushed_raw_iron','thermal:sulfur_dust'],'nyagibits_bytes:raw_pyrite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Siderite
+            //Tier 0 - Iron
+                event.smelting('minecraft:iron_ingot', 'nyagibits_bytes:raw_siderite')
+            //Tier 1 - 3(Iron), Iron
+                event.recipes.createCrushing(['3x create:crushed_raw_iron','create:crushed_raw_iron'],'nyagibits_bytes:raw_siderite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Banded Iron
+            //Tier 0 - Iron
+                event.smelting('minecraft:iron_ingot', 'nyagibits_bytes:raw_banded_iron')
+            //Tier 1 - 3(Iron), Iron
+                event.recipes.createCrushing(['3x create:crushed_raw_iron','create:crushed_raw_iron'],'nyagibits_bytes:raw_banded_iron')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Bog Iron
+            //Tier 0 - Iron
+                event.smelting('minecraft:iron_ingot', 'nyagibits_bytes:raw_bog_iron')
+            //Tier 1 - 3(Iron), Clay
+                event.recipes.createCrushing(['3x create:crushed_raw_iron','minecraft:clay_ball'],'nyagibits_bytes:raw_bog_iron')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Meteoric Iron
+            //Tier 0 - Iron
+                event.smelting('minecraft:iron_ingot', 'nyagibits_bytes:raw_meteoric_iron')
+            //Tier 1 - 3(Iron), Iron
+                event.recipes.createCrushing(['3x create:crushed_raw_iron','create:crushed_raw_iron'],'nyagibits_bytes:raw_meteoric_iron')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //Copper
+        //Chalcopyrite
+            //Tier 0 - Copper
+                event.smelting('minecraft:copper_ingot', 'nyagibits_bytes:raw_chalcopyrite')
+            //Tier 1 - 3(Copper), Iron
+                event.recipes.createCrushing(['3x create:crushed_raw_copper','create:crushed_raw_iron'],'nyagibits_bytes:raw_chalcopyrite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Malachite  
+            //Tier 0 - Copper
+                event.smelting('minecraft:copper_ingot', 'nyagibits_bytes:raw_malachite')
+            //Tier 1 - 3(Copper), Copper
+                event.recipes.createCrushing(['3x create:crushed_raw_copper','create:crushed_raw_copper'],'nyagibits_bytes:raw_malachite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Azurite  
+            //Tier 0 - Copper
+                event.smelting('minecraft:copper_ingot', 'nyagibits_bytes:raw_azurite')
+            //Tier 1 - 3(Copper), Copper
+                event.recipes.createCrushing(['3x create:crushed_raw_copper','create:crushed_raw_copper'],'nyagibits_bytes:raw_azurite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Tetrahedrite  
+            //Tier 0 - Copper
+                event.smelting('minecraft:copper_ingot', 'nyagibits_bytes:raw_tetrahedrite')
+            //Tier 1 - 3(Copper), Antimony
+                event.recipes.createCrushing(['3x create:crushed_raw_copper','chemlib:antimony_dust'],'nyagibits_bytes:raw_tetrahedrite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Enargite
+            //Tier 0 - Copper
+                event.smelting('minecraft:copper_ingot', 'nyagibits_bytes:raw_enargite')
+            //Tier 1 - 3(Copper), Sulfur
+                event.recipes.createCrushing(['3x create:crushed_raw_copper','thermal:sulfur_dust'],'nyagibits_bytes:raw_enargite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Chrysocolla
+            //Tier 0 - Copper
+                event.smelting('minecraft:copper_ingot', 'nyagibits_bytes:raw_chrysocolla')
+            //Tier 1 - 3(Copper), Silicon
+                event.recipes.createCrushing(['3x create:crushed_raw_copper','chemlib:silicon_dust'],'nyagibits_bytes:raw_chrysocolla')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Tennanite
+            //Tier 0 - Copper
+                event.smelting('minecraft:copper_ingot', 'nyagibits_bytes:raw_tennanite')
+            //Tier 1 - 3(Copper), Sulfur
+                event.recipes.createCrushing(['3x create:crushed_raw_copper','thermal:sulfur_dust'],'nyagibits_bytes:raw_tennanite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Dioptase
+            //Tier 0 - Copper
+                event.smelting('minecraft:copper_ingot', 'nyagibits_bytes:raw_dioptase')
+            //Tier 1 - 3(Copper), Copper
+                event.recipes.createCrushing(['3x create:crushed_raw_copper','create:crushed_raw_copper'],'nyagibits_bytes:raw_dioptase')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //Gold
+        //Alluvial Slush
+            //Tier 0 - Gold
+                event.smelting('minecraft:gold_ingot', 'nyagibits_bytes:alluvial_slush')
+            //Tier 1 - 3(Gold), Gravel
+                event.recipes.createCrushing(['3x create:crushed_raw_gold','minecraft:gravel'],'nyagibits_bytes:alluvial_slush')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Native Gold
+            //Tier 0 - Gold
+                event.smelting('minecraft:gold_ingot', 'nyagibits_bytes:native_cluster')
+            //Tier 1 - 3(Gold), Gold
+                event.recipes.createCrushing(['3x create:crushed_raw_gold','create:crushed_raw_gold'],'nyagibits_bytes:native_cluster')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Argentite
+            //Tier 0 - Silver
+                event.smelting('thermal:silver_ingot', 'nyagibits_bytes:raw_argentite')
+            //Tier 1 - 3(Silver), Sulfur
+                event.recipes.createCrushing(['3x create:crushed_raw_silver','thermal:sulfur_dust'],'nyagibits_bytes:raw_argentite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Chlorargyrite
+            //Tier 0 - Silver
+                event.smelting('thermal:silver_ingot', 'nyagibits_bytes:raw_chlorargyrite')
+            //Tier 1 - 3(Silver), Silver
+                event.recipes.createCrushing(['3x create:crushed_raw_silver','create:crushed_raw_silver'],'nyagibits_bytes:raw_chlorargyrite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Polybasite
+            //Tier 0 - Silver
+                event.smelting('thermal:silver_ingot', 'nyagibits_bytes:raw_polybasite')
+            //Tier 1 - 3(Silver), Antimony
+                event.recipes.createCrushing(['3x create:crushed_raw_silver','chemlib:antimony_dust'],'nyagibits_bytes:raw_polybasite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Proustite
+            //Tier 0 - Silver
+                event.smelting('thermal:silver_ingot', 'nyagibits_bytes:raw_proustite')
+            //Tier 1 - 3(Silver), Arsenic
+                event.recipes.createCrushing(['3x create:crushed_raw_silver','chemlib:arsenic_dust'],'nyagibits_bytes:raw_proustite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Electrum
+            //Tier 0 - Gold
+                event.smelting('minecraft:gold_ingot', 'nyagibits_bytes:raw_electrum')
+            //Tier 1 - 3(Gold), Silver
+                event.recipes.createCrushing(['3x create:crushed_raw_gold','create:crushed_raw_silver'],'nyagibits_bytes:raw_electrum')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Kustelite Electrum
+            //Tier 0 - Gold
+                event.smelting('minecraft:gold_ingot', 'nyagibits_bytes:raw_kustelite_electrum')
+            //Tier 1 - 3(Gold), 2(Gold)
+                event.recipes.createCrushing(['3x create:crushed_raw_gold','2x create:crushed_raw_gold'],'nyagibits_bytes:raw_kustelite_electrum')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //-------------------------------------------------------
 })
     //------------------------------------------------------------------
     //Create Sequenced Assembly

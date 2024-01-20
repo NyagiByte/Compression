@@ -10,7 +10,11 @@
 	quests: [
 		{
 			dependencies: ["71143467829FD119"]
-			description: ["Thats right! To make early game easier paper now takes bark instead of sugar cane."]
+			description: [
+				"Thats right! To make early game easier paper now takes bark instead of sugar cane."
+				""
+				"&b2 paper per craft"
+			]
 			id: "6F9A0CC233865374"
 			shape: "hexagon"
 			tasks: [{
@@ -23,6 +27,7 @@
 			y: -8.0d
 		}
 		{
+			description: ["This is the scaling tree for paper"]
 			icon: "minecraft:paper"
 			id: "71143467829FD119"
 			shape: "hexagon"
@@ -31,6 +36,7 @@
 				title: "Paper Tree"
 				type: "checkmark"
 			}]
+			title: "Can't this just be electronic?"
 			x: -13.5d
 			y: -9.0d
 		}
@@ -39,7 +45,11 @@
 				"6F9A0CC233865374"
 				"177A2060FFFA6932"
 			]
-			description: ["Quite a bit more involved but the yield on paper is awesome!"]
+			description: [
+				"Quite a bit more involved but the yield on paper is awesome!"
+				""
+				"&b16 paper per craft"
+			]
 			id: "2350536CFA972596"
 			shape: "hexagon"
 			tasks: [{

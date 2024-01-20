@@ -15,6 +15,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["55F62F8F0F606A69"]
 			description: ["This line of quests will guide you towards major key steps in increasing yields in gemstone-type processing"]
 			icon: "minecraft:diamond"
 			id: "35494E3A757EA660"
@@ -28,6 +29,7 @@
 			y: -4.0d
 		}
 		{
+			dependencies: ["55F62F8F0F606A69"]
 			description: ["This line of quests will guide you towards major key steps in increasing yields in metal-type processing"]
 			icon: "minecraft:raw_iron"
 			id: "0F2BCC8D3D977D1E"
@@ -42,7 +44,11 @@
 		}
 		{
 			dependencies: ["0F2BCC8D3D977D1E"]
-			description: ["Doesn't get simpler than this"]
+			description: [
+				"Doesn't get simpler than this"
+				""
+				"&b1 drop per ore"
+			]
 			id: "531EE69871EFB610"
 			shape: "hexagon"
 			tasks: [{
@@ -58,7 +64,11 @@
 				"531EE69871EFB610"
 				"1C4899BD021DCC2C"
 			]
-			description: ["Quadruplicating your ores already! Feels nice ey?"]
+			description: [
+				"Quadruplicating your ores already! Feels nice ey?"
+				""
+				"&b4 total drops per ore"
+			]
 			id: "301DE6C093EF12D1"
 			shape: "hexagon"
 			tasks: [{
@@ -67,11 +77,14 @@
 				item: "create:crushing_wheel"
 				type: "item"
 			}]
-			x: -8.5d
+			x: -10.5d
 			y: -3.0d
 		}
 		{
-			dependencies: ["6F66FCCD63752DC8"]
+			dependencies: [
+				"6F66FCCD63752DC8"
+				"55F62F8F0F606A69"
+			]
 			description: [
 				"Generic mostly pure iron found on the upper layer of iron geodes."
 				""
@@ -90,7 +103,12 @@
 		}
 		{
 			dependencies: ["2345F14F53AF22A6"]
-			description: ["A hydrated iron. By mass has less iron than a pure sample but could potentially be an easy source of hydroxide"]
+			description: [
+				"A hydrated iron. By mass has less iron than a pure sample but could potentially be an easy source of hydroxide"
+				""
+				"&6Tier 0 Yield:&r Iron"
+				"&6Tier 1 Yield:&r Iron"
+			]
 			id: "67A33403E5A33908"
 			shape: "hexagon"
 			tasks: [{
@@ -103,7 +121,12 @@
 		}
 		{
 			dependencies: ["2345F14F53AF22A6"]
-			description: ["Basically rust ore, fairly common flavor of iron ore"]
+			description: [
+				"Basically rust ore, fairly common flavor of iron ore"
+				""
+				"&6Tier 0 Yield:&r Iron"
+				"&6Tier 1 Yield:&r Iron"
+			]
 			id: "58923677AB18101F"
 			shape: "hexagon"
 			tasks: [{
@@ -116,7 +139,12 @@
 		}
 		{
 			dependencies: ["2345F14F53AF22A6"]
-			description: ["Can be naturally magnetic! Crucial for building your first polarizer"]
+			description: [
+				"Can be naturally magnetic! Crucial for building your first polarizer"
+				""
+				"&6Tier 0 Yield:&r Iron"
+				"&6Tier 1 Yield:&r Iron"
+			]
 			id: "7F48EEDDB59BF09E"
 			shape: "hexagon"
 			tasks: [{
@@ -129,7 +157,12 @@
 		}
 		{
 			dependencies: ["2345F14F53AF22A6"]
-			description: ["Don't be a fool this isnt gold. However it does contain quite a decent fraction of sulfur"]
+			description: [
+				"Don't be a fool this isnt gold. However it does contain quite a decent fraction of sulfur"
+				""
+				"&6Tier 0 Yield:&r Iron"
+				"&6Tier 1 Yield:&r Sulfur"
+			]
 			id: "0C283C5774790BE4"
 			shape: "hexagon"
 			tasks: [{
@@ -142,7 +175,12 @@
 		}
 		{
 			dependencies: ["2345F14F53AF22A6"]
-			description: ["An easy to smelt variant prised by the ancient greeks. Of course with your industrial machinery that just means less sharpening of your milling equipment."]
+			description: [
+				"An easy to smelt variant prised by the ancient greeks. Of course with your industrial machinery that just means less sharpening of your milling equipment."
+				""
+				"&6Tier 0 Yield:&r Iron"
+				"&6Tier 1 Yield:&r Iron"
+			]
 			id: "5BC59FE0D095DE08"
 			shape: "hexagon"
 			tasks: [{
@@ -155,7 +193,12 @@
 		}
 		{
 			dependencies: ["2345F14F53AF22A6"]
-			description: ["Ancient iron from the Precambrian 3.7 billion years ago, surviving all this time to be turned into a spring for your pens "]
+			description: [
+				"Ancient iron from the Precambrian 3.7 billion years ago, surviving all this time to be turned into a spring for your pens "
+				""
+				"&6Tier 0 Yield:&r Iron"
+				"&6Tier 1 Yield:&r Iron"
+			]
 			id: "52412DFD0519F04E"
 			shape: "hexagon"
 			tasks: [{
@@ -168,7 +211,12 @@
 		}
 		{
 			dependencies: ["2345F14F53AF22A6"]
-			description: ["Formed by iron bacteria &b(Thiobacillus Ferrooxidans and Thiobacillus Thiooxidans)&r eating nutrients from ground water and surface flows, pooping out oxidized iron over time forming this ore. &cTho we arn't near a swamp it's very strange that it ended up here...."]
+			description: [
+				"Formed by iron bacteria &b(Thiobacillus Ferrooxidans and Thiobacillus Thiooxidans)&r eating nutrients from ground water and surface flows, pooping out oxidized iron over time forming this ore. &cTho we arn't near a swamp it's very strange that it ended up here...."
+				""
+				"&6Tier 0 Yield:&r Iron"
+				"&6Tier 1 Yield:&r Clay"
+			]
 			id: "71EB7F1DCCACFFD0"
 			shape: "hexagon"
 			tasks: [{
@@ -181,7 +229,12 @@
 		}
 		{
 			dependencies: ["2345F14F53AF22A6"]
-			description: ["A chunk fallen from the heavens. Not fantastic for iron ironically enough but contains trace amounts of rare metals. Will probably require more chemical mastery to tap into."]
+			description: [
+				"A chunk fallen from the heavens. Not fantastic for iron ironically enough but contains trace amounts of rare metals. Will probably require more chemical mastery to tap into."
+				""
+				"&6Tier 0 Yield:&r Iron"
+				"&6Tier 1 Yield:&r Iron"
+			]
 			id: "151971F1799BCDA2"
 			shape: "hexagon"
 			tasks: [{
@@ -207,6 +260,12 @@
 		}
 		{
 			dependencies: ["3DF87F43E36C0204"]
+			description: [
+				"A copper-iron sulfide form of copper. This is the most abundant form of copper typically but the boulder ratios do not reflect reality."
+				""
+				"&6Tier 0 Yield:&r Copper"
+				"&6Tier 1 Yield:&r Iron"
+			]
 			id: "62418EFCDCAD72E4"
 			shape: "hexagon"
 			tasks: [{
@@ -219,6 +278,12 @@
 		}
 		{
 			dependencies: ["3DF87F43E36C0204"]
+			description: [
+				"A copper carbonate used in ancient times as a green dye for makeup! (It's also quite toxic dont do that)"
+				""
+				"&6Tier 0 Yield:&r Copper"
+				"&6Tier 1 Yield:&r Copper"
+			]
 			id: "2B54406B8D37509B"
 			shape: "hexagon"
 			tasks: [{
@@ -231,6 +296,12 @@
 		}
 		{
 			dependencies: ["3DF87F43E36C0204"]
+			description: [
+				"The blue color is a result of weathering of copper forming layers of oxide onto the metal"
+				""
+				"&6Tier 0 Yield:&r Copper"
+				"&6Tier 1 Yield:&r Copper"
+			]
 			id: "5FAEE148EC5A3355"
 			shape: "hexagon"
 			tasks: [{
@@ -243,6 +314,12 @@
 		}
 		{
 			dependencies: ["3DF87F43E36C0204"]
+			description: [
+				"A copper antimony sulfosalt. Antimony is a rather important element for electronic industry so make sure to stock up on it"
+				""
+				"&6Tier 0 Yield:&r Copper"
+				"&6Tier 1 Yield:&r Antimony"
+			]
 			id: "78C42FDAD1A8B62B"
 			shape: "hexagon"
 			tasks: [{
@@ -255,6 +332,12 @@
 		}
 		{
 			dependencies: ["3DF87F43E36C0204"]
+			description: [
+				"A copper arsenic sulfosalt mineral, do not eat this, it wont be good"
+				""
+				"&6Tier 0 Yield:&r Copper"
+				"&6Tier 1 Yield:&r Sulfur"
+			]
 			id: "264EA0720710551E"
 			shape: "hexagon"
 			tasks: [{
@@ -267,6 +350,12 @@
 		}
 		{
 			dependencies: ["3DF87F43E36C0204"]
+			description: [
+				"A hydrous copper phyllosilicate, used by the greeks to solder gold together, sadly it's pretty bad as actual solder"
+				""
+				"&6Tier 0 Yield:&r Copper"
+				"&6Tier 1 Yield:&r Silicon"
+			]
 			id: "0CCA4A8CCB705314"
 			shape: "hexagon"
 			tasks: [{
@@ -279,6 +368,12 @@
 		}
 		{
 			dependencies: ["3DF87F43E36C0204"]
+			description: [
+				"Yet another copper arsenic sulfosalt mineral, however this one also contains iron and zinc in its structure"
+				""
+				"&6Tier 0 Yield:&r Copper"
+				"&6Tier 1 Yield:&r Sulfur"
+			]
 			id: "71C62012FD5BB79B"
 			shape: "hexagon"
 			tasks: [{
@@ -291,6 +386,12 @@
 		}
 		{
 			dependencies: ["3DF87F43E36C0204"]
+			description: [
+				"An intensly green copper cyclosilicate, can have some uses as an X-ray diffraction crystal"
+				""
+				"&6Tier 0 Yield:&r Copper"
+				"&6Tier 1 Yield:&r Copper"
+			]
 			id: "2BF9AC909FCE6E74"
 			shape: "hexagon"
 			tasks: [{
@@ -324,6 +425,12 @@
 		}
 		{
 			dependencies: ["13FC2F89AE4F3F6E"]
+			description: [
+				"Concentrated sediment found in areas where rivers fan out and deposite the wethered rock. &cStrange to see it in a solid ore however&r"
+				""
+				"&6Tier 0 Yield:&r Gold"
+				"&6Tier 1 Yield:&r Gravel"
+			]
 			id: "7D8F4E873B8C86EC"
 			shape: "hexagon"
 			tasks: [{
@@ -336,6 +443,12 @@
 		}
 		{
 			dependencies: ["13FC2F89AE4F3F6E"]
+			description: [
+				"Due to gold being rather unreactive chemically it is very common to find pure elemental gold in nature"
+				""
+				"&6Tier 0 Yield:&r Gold"
+				"&6Tier 1 Yield:&r Gold"
+			]
 			id: "79DB6A36983AC55D"
 			shape: "hexagon"
 			tasks: [{
@@ -348,6 +461,12 @@
 		}
 		{
 			dependencies: ["13FC2F89AE4F3F6E"]
+			description: [
+				"A silver sulfide ore, not a true mineral due to the geometry of the bonds being unstable under most conditions but nonetheless is a source of silver"
+				""
+				"&6Tier 0 Yield:&r Silver"
+				"&6Tier 1 Yield:&r Sulfur"
+			]
 			id: "6C3F94DE1163D837"
 			shape: "hexagon"
 			tasks: [{
@@ -360,6 +479,12 @@
 		}
 		{
 			dependencies: ["13FC2F89AE4F3F6E"]
+			description: [
+				"A silver chloride crystal. Also takes the name cerargyrite and is named horn silver once the desert air weathers it away."
+				""
+				"&6Tier 0 Yield:&r Silver"
+				"&6Tier 1 Yield:&r Silver"
+			]
 			id: "7ECC3DA24391CE03"
 			shape: "hexagon"
 			tasks: [{
@@ -372,6 +497,12 @@
 		}
 		{
 			dependencies: ["13FC2F89AE4F3F6E"]
+			description: [
+				"A sulfosalt with silver, copper, antimony and arsenic! Sometimes it demonstrates brilliant coloration, truly a useful and pretty mineral"
+				""
+				"&6Tier 0 Yield:&r Silver"
+				"&6Tier 1 Yield:&r Antimony"
+			]
 			id: "0706D348FEA18955"
 			shape: "hexagon"
 			tasks: [{
@@ -384,6 +515,12 @@
 		}
 		{
 			dependencies: ["13FC2F89AE4F3F6E"]
+			description: [
+				"A silver sulfarsenide crystal, not particularly useful in any laser applications but does have a beautiful glimmer"
+				""
+				"&6Tier 0 Yield:&r Silver"
+				"&6Tier 1 Yield:&r Arsenic"
+			]
 			id: "620F9326CF74EDFB"
 			shape: "hexagon"
 			tasks: [{
@@ -396,6 +533,12 @@
 		}
 		{
 			dependencies: ["13FC2F89AE4F3F6E"]
+			description: [
+				"Much like native gold, electrum can form naturally due to golds willingness to chemically bond to silver, tho some copper can sneak in during formation"
+				""
+				"&6Tier 0 Yield:&r Gold"
+				"&6Tier 1 Yield:&r Silver"
+			]
 			id: "38E79A712811BE9E"
 			shape: "hexagon"
 			tasks: [{
@@ -408,6 +551,12 @@
 		}
 		{
 			dependencies: ["13FC2F89AE4F3F6E"]
+			description: [
+				"A very rare form of natural electrum with significantly higher gold concentrations"
+				""
+				"&6Tier 0 Yield:&r Gold"
+				"&6Tier 1 Yield:&r Gold (x2)"
+			]
 			id: "1B57872EBFFB1EAE"
 			shape: "hexagon"
 			tasks: [{
@@ -757,7 +906,10 @@
 			y: 4.0d
 		}
 		{
-			dependencies: ["6F66FCCD63752DC8"]
+			dependencies: [
+				"6F66FCCD63752DC8"
+				"55F62F8F0F606A69"
+			]
 			id: "12D07F810D3FEE98"
 			shape: "hexagon"
 			tasks: [
@@ -1650,6 +1802,7 @@
 		}
 		{
 			dependencies: ["5EF1C3C4635C1CF1"]
+			description: ["Drops 64 ores total from a pool of 8 options, requires at least a terra steel pickaxe to mine"]
 			icon: "nyagibits_bytes:hyper_conglomerate_iron_ore"
 			id: "30F02289436EB3F9"
 			shape: "hexagon"
@@ -1671,6 +1824,7 @@
 		}
 		{
 			dependencies: ["4E7A58F86D085264"]
+			description: ["Drops 16 ores total from a pool of 8 options, requires at least an elementium pickaxe to mine"]
 			icon: "nyagibits_bytes:dense_conglomerate_iron_ore"
 			id: "5EF1C3C4635C1CF1"
 			shape: "hexagon"
@@ -1690,6 +1844,11 @@
 			y: 0.0d
 		}
 		{
+			dependencies: [
+				"0C8B67BDF8C96B14"
+				"55F62F8F0F606A69"
+			]
+			description: ["Drops 4 ores total from a pool of 8 options, requires at least a manasteel pickaxe to mine"]
 			icon: "nyagibits_bytes:conglomerate_iron_ore"
 			id: "4E7A58F86D085264"
 			shape: "hexagon"
@@ -1710,6 +1869,7 @@
 		}
 		{
 			dependencies: ["30F02289436EB3F9"]
+			description: ["Drops 256 ores total from a pool of 8 options, requires at least an alfsteel pickaxe to mine"]
 			icon: "nyagibits_bytes:tectonic_conglomerate_iron_ore"
 			id: "00F19BCA2441A0A0"
 			shape: "hexagon"
@@ -1730,7 +1890,11 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["00F19BCA2441A0A0"]
+			dependencies: [
+				"00F19BCA2441A0A0"
+				"55F62F8F0F606A69"
+			]
+			description: ["Drops 64 tectonic ores, requires at least a bedrock breaking pickaxe to mine"]
 			icon: "nyagibits_bytes:core_conglomerate_iron_ore"
 			id: "5C593DE7D661653B"
 			shape: "hexagon"
@@ -1751,7 +1915,11 @@
 		}
 		{
 			dependencies: ["301DE6C093EF12D1"]
-			description: ["16 drops per ore! Blast them with heat and lye!"]
+			description: [
+				"Blast them with heat and lye!"
+				""
+				"&b16 total drops per ore!"
+			]
 			icon: {
 				Count: 1b
 				id: "immersiveengineering:graphite_electrode"
@@ -1773,11 +1941,16 @@
 				type: "item"
 			}]
 			title: "Stintering"
-			x: -8.5d
+			x: -10.5d
 			y: -4.0d
 		}
 		{
 			dependencies: ["35494E3A757EA660"]
+			description: [
+				"Give em a good wash"
+				""
+				"&b1 drop per ore"
+			]
 			id: "25404916F94B9AE8"
 			shape: "hexagon"
 			tasks: [{
@@ -1791,6 +1964,11 @@
 		}
 		{
 			dependencies: ["25404916F94B9AE8"]
+			description: [
+				"Rub out those imperfections"
+				""
+				"&b4 total drops per ore"
+			]
 			icon: {
 				Count: 1b
 				id: "create:sand_paper"
@@ -1821,6 +1999,32 @@
 			title: "Crude Polishing"
 			x: 9.5d
 			y: -3.0d
+		}
+		{
+			description: [
+				"So many ores?? How to keep track of everything?!"
+				""
+				"Fear not! &6I have it laid out here for you! Some key parts:&r"
+				""
+				"&dMetal Processing on the left details processing per major progression tier for ingots & powders"
+				""
+				"&bGem Processing on the right details processing per major progression tier for gemstones&r"
+				""
+				"&6Each ore listed below is grouped per major type as well as detailing all side products unlocked per tier"
+				""
+				"&aMining of the ores is detailed in the center locked behind pickaxe tiers"
+			]
+			icon: "thermal:drill_head"
+			id: "55F62F8F0F606A69"
+			shape: "hexagon"
+			tasks: [{
+				id: "5703EEDC44C089E6"
+				title: "I really hope you read this"
+				type: "checkmark"
+			}]
+			title: "Ores and You!"
+			x: -0.5d
+			y: -9.5d
 		}
 	]
 	title: "Ore Line"

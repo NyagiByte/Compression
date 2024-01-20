@@ -42,15 +42,15 @@ hash = "83192c66715f399defe1117525f0dcee4ede837fcbafbe380b8f1d11190e9f35"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "f738b8b66bf4ddff8bb774ffbecea384d0ba754abd7f63a080eed52285f221d6"
+hash = "245030b2f65128a4d58d1da96abb279de3a21aefca1bba2f67230570e942f008"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"
-hash = "d4ef7a86c2b54d83d32063dbdae08be8409ff3f4f611a51bac1d13461e1a2c6b"
+hash = "fc9cde3a8ce10d1cf8655c6d7236cf6bd9fb25d77782b937240ac7625c955771"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
-hash = "f32461a2265bb1bf8a55a201f26d31f9306cecd87966caa2106c19d3c502194f"
+hash = "dcd73b13354e8021a01c48f0a2c884d18c7f830f1fb8d0fe3cf159fd9afa91a1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
@@ -58,7 +58,7 @@ hash = "3a11ce812fd097a5fa36c176a326276204f39882e469895c6fb21fd94460dbfb"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "886cab74d96e1f18750032cb862ea73d7a597039cb06cd33d746fd6ff6cbfe73"
+hash = "d5d7dee0f7bd4b6a9d97a3b92482e1aa34d4c10bbc952fbec3425078cbc8eaee"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome_to_compression.snbt"
@@ -550,7 +550,7 @@ hash = "2a6e710b7f3c21df13000314f464f097d1a27b1b98c53dd3f0ce09130ce5ad37"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes_ores.js"
-hash = "ebf4c03c833d315c711d199eb0c2f373828413e7cd6c30be1e6ed9118ba3fbd1"
+hash = "38980fd9b9ed65b01aa81bb2166f64f46b8d8c92acbe98978d906ce6aa901782"
 
 [[files]]
 file = "kubejs/server_scripts/quark.js"
