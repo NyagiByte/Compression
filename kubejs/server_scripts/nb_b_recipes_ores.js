@@ -659,6 +659,165 @@ ServerEvents.recipes(event => {
             //Tier 13
             //Tier 14
             //Tier 15
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //Coal
+        //Bituminous
+            //Tier 0 - Coal
+                event.recipes.create.splashing(['minecraft:coal'],'nyagibits_bytes:raw_bituminous')
+            //Tier 1 - 3(Coal), Coal /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise
+                event.recipes.createSandpaperPolishing(['4x minecraft:coal'],'nyagibits_bytes:raw_bituminous')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Subbituminous
+            //Tier 0 - Coal
+                event.recipes.create.splashing(['minecraft:coal'],'nyagibits_bytes:raw_subbituminous')
+            //Tier 1 - 3(Coal), Coal /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise
+                event.recipes.createSandpaperPolishing(['4x minecraft:coal'],'nyagibits_bytes:raw_subbituminous')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Lignite
+            //Tier 0 - Coal
+                event.recipes.create.splashing(['minecraft:coal'],'nyagibits_bytes:raw_lignite')
+            //Tier 1 - 3(Coal), Coal /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise
+                event.recipes.createSandpaperPolishing(['4x minecraft:coal'],'nyagibits_bytes:raw_lignite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Anthracite
+            //Tier 0 - 2(Coal)
+                event.recipes.create.splashing(['2x minecraft:coal'],'nyagibits_bytes:raw_anthracite')
+            //Tier 1 - 6(Coal), 2(Coal) /- output set to x8 and not x6 + 2 due to it not yielding correctly otherwise
+                event.recipes.createSandpaperPolishing(['8x minecraft:coal'],'nyagibits_bytes:raw_anthracite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Cannel Coal
+            //Tier 0 - Coal
+                event.recipes.create.splashing(['minecraft:coal'],'nyagibits_bytes:raw_cannel_coal')
+            //Tier 1 - 3(Coal), Coal /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise
+                event.recipes.createSandpaperPolishing(['4x minecraft:coal'],'nyagibits_bytes:raw_cannel_coal')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Jet Lignite
+            //Tier 0 - Coal
+                event.recipes.create.splashing(['minecraft:coal'],'nyagibits_bytes:raw_jet')
+            //Tier 1 - 3(Coal), Coal /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise
+                event.recipes.createSandpaperPolishing(['4x minecraft:coal'],'nyagibits_bytes:raw_jet')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Peat
+            //Tier 0 - Clay
+                event.recipes.create.splashing(['minecraft:clay_ball'],'nyagibits_bytes:raw_peat')
+            //Tier 1 - 3(Clay), 0.5(Dirt) 0.5(Straw)
+                event.recipes.createCrushing(['3x minecraft:clay_ball', 
+                                            Item.of('farmersdelight:straw').withChance(0.5), 
+                                            Item.of('minecraft:dirt').withChance(0.5)],'nyagibits_bytes:raw_peat')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Graphite
+            //Tier 0 - Carbon
+                event.recipes.create.compacting(['chemlib:carbon_dust'],'nyagibits_bytes:raw_graphite')
+            //Tier 1 - 3(Carbon), Carbon
+                event.recipes.createCrushing(['3x chemlib:carbon_dust','chemlib:carbon_dust'],'nyagibits_bytes:raw_graphite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        
         
 })
     //------------------------------------------------------------------

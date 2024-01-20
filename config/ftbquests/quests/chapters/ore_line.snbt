@@ -247,6 +247,11 @@
 		}
 		{
 			dependencies: ["6F66FCCD63752DC8"]
+			description: [
+				"Generic mostly pure copper found on the upper layer of copper geodes."
+				""
+				"&dDeeper layers require better tools to fracture open"
+			]
 			icon: "minecraft:copper_ingot"
 			id: "3DF87F43E36C0204"
 			shape: "hexagon"
@@ -404,6 +409,11 @@
 		}
 		{
 			dependencies: ["6F66FCCD63752DC8"]
+			description: [
+				"Generic mostly pure gold and silver found on the upper layer of electrum geodes."
+				""
+				"&dDeeper layers require better tools to fracture open"
+			]
 			icon: "minecraft:gold_ingot"
 			id: "13FC2F89AE4F3F6E"
 			shape: "hexagon"
@@ -555,7 +565,7 @@
 				"A very rare form of natural electrum with significantly higher gold concentrations"
 				""
 				"&6Tier 0 Yield:&r Gold"
-				"&6Tier 1 Yield:&r Gold (x2)"
+				"&6Tier 1 Yield:&r Gold &bx2"
 			]
 			id: "1B57872EBFFB1EAE"
 			shape: "hexagon"
@@ -569,6 +579,11 @@
 		}
 		{
 			dependencies: ["6F66FCCD63752DC8"]
+			description: [
+				"Generic mostly pure redstone found on the upper layer of mercury geodes."
+				""
+				"&dDeeper layers require better tools to fracture open"
+			]
 			id: "1DFA40765C37E21B"
 			shape: "hexagon"
 			tasks: [{
@@ -726,6 +741,13 @@
 		}
 		{
 			dependencies: ["6F66FCCD63752DC8"]
+			description: [
+				"Generic mostly pure coal found on the upper layer of coal geodes."
+				""
+				"&dDeeper layers require better tools to fracture open"
+				""
+				"&bNote: Coal ores have additional processing chains outside of extracting coal"
+			]
 			id: "384CA06F7A29D8CE"
 			shape: "hexagon"
 			tasks: [{
@@ -738,6 +760,12 @@
 		}
 		{
 			dependencies: ["384CA06F7A29D8CE"]
+			description: [
+				"The lowest carbon concentration coal and high in moisture, used almost exclusively as fuel but has a surprising amount of uses in agriculture and biological sciences"
+				""
+				"&6Tier 0 Yield:&r Coal"
+				"&6Tier 1 Yield:&r Coal"
+			]
 			id: "15B4E8BF1E92F05E"
 			shape: "hexagon"
 			tasks: [{
@@ -750,6 +778,12 @@
 		}
 		{
 			dependencies: ["384CA06F7A29D8CE"]
+			description: [
+				"Also called black coal is a coal containing bitumen, a sort of sticky black tar. Can be used in production of metallurgical coal (coking coal). Most common form of coal"
+				""
+				"&6Tier 0 Yield:&r Coal"
+				"&6Tier 1 Yield:&r Coal"
+			]
 			id: "0F9263C2901F888E"
 			shape: "hexagon"
 			tasks: [{
@@ -762,6 +796,12 @@
 		}
 		{
 			dependencies: ["384CA06F7A29D8CE"]
+			description: [
+				"Cousin of bituminous coal, this one has a lower carbon content and is somewhat similar to lignite. Primarily used as fuel"
+				""
+				"&6Tier 0 Yield:&r Coal"
+				"&6Tier 1 Yield:&r Coal"
+			]
 			id: "613CF91B0C58B1BE"
 			shape: "hexagon"
 			tasks: [{
@@ -774,6 +814,12 @@
 		}
 		{
 			dependencies: ["384CA06F7A29D8CE"]
+			description: [
+				"The highest grade of coal, ideal for production of metallurgical coal (coking coal)"
+				""
+				"&6Tier 0 Yield:&r Coal &b+1"
+				"&6Tier 1 Yield:&r Coal &bx2"
+			]
 			id: "4450CBE8E5334BA1"
 			shape: "hexagon"
 			tasks: [{
@@ -786,6 +832,12 @@
 		}
 		{
 			dependencies: ["384CA06F7A29D8CE"]
+			description: [
+				"A form of bituminous coal, however, due to the formation conditions is often refered to as oil shale or boghead coal."
+				""
+				"&6Tier 0 Yield:&r Coal"
+				"&6Tier 1 Yield:&r Coal"
+			]
 			id: "137D5ED631849B19"
 			shape: "hexagon"
 			tasks: [{
@@ -810,6 +862,12 @@
 		}
 		{
 			dependencies: ["384CA06F7A29D8CE"]
+			description: [
+				"A compacted patty of decaying organic matter that is surprisingly flammable. Able to retain a large amount of moisture and nutrients giving it interesting agricultural uses. Probably best to keep in this form and not process too much"
+				""
+				"&6Tier 0 Yield:&r Clay"
+				"&6Tier 1 Yield:&r Dirt &cx0.5&r Straw&c x0.5"
+			]
 			id: "0A8E0946A2BF1D4F"
 			shape: "hexagon"
 			tasks: [{
@@ -822,6 +880,12 @@
 		}
 		{
 			dependencies: ["384CA06F7A29D8CE"]
+			description: [
+				"A big irregular carbon crystal made from layers of graphene. Has excellent uses in lubricants, electrodes, and that random piece of pencil \"lead\" stabbed into you as a child that is still with you."
+				""
+				"&6Tier 0 Yield:&r Carbon"
+				"&6Tier 1 Yield:&r Carbon"
+			]
 			id: "65D954270BC93561"
 			shape: "hexagon"
 			tasks: [{
@@ -2054,7 +2118,7 @@
 				""
 				"Fear not! &6I have it laid out here for you! Some key parts:&r"
 				""
-				"&dMetal Processing on the left details processing per major progression tier for ingots & powders"
+				"&dMetal Processing on the left details processing per major progression tier for ingots and powders"
 				""
 				"&bGem Processing on the right details processing per major progression tier for gemstones&r"
 				""
