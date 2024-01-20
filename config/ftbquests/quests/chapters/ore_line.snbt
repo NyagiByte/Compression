@@ -582,6 +582,12 @@
 		}
 		{
 			dependencies: ["1DFA40765C37E21B"]
+			description: [
+				"A mercury(II) sulfide crystal, most common source for raw elemental mercury, but here serves as a source of redstone as well"
+				""
+				"&6Tier 0 Yield:&r Redstone"
+				"&6Tier 1 Yield:&r Mercury Sulfide"
+			]
 			id: "2AB039D37466584C"
 			shape: "hexagon"
 			tasks: [{
@@ -594,6 +600,12 @@
 		}
 		{
 			dependencies: ["1DFA40765C37E21B"]
+			description: [
+				"Extremely similar to regular cinnabar except for it being a high temperature form resulting in a different crystal structure"
+				""
+				"&6Tier 0 Yield:&r Redstone"
+				"&6Tier 1 Yield:&r Mercury Sulfide"
+			]
 			id: "34E0AF7803580F54"
 			shape: "hexagon"
 			tasks: [{
@@ -606,6 +618,12 @@
 		}
 		{
 			dependencies: ["1DFA40765C37E21B"]
+			description: [
+				"An extremely rare mercuty sulfide chloride, pretty chemically similar to cinnabar outside of the inclusion of chlorine in the structure"
+				""
+				"&6Tier 0 Yield:&r Redstone"
+				"&6Tier 1 Yield:&r Sulfur"
+			]
 			id: "179031B57EE47680"
 			shape: "hexagon"
 			tasks: [{
@@ -618,6 +636,12 @@
 		}
 		{
 			dependencies: ["1DFA40765C37E21B"]
+			description: [
+				"The crushed up remains of cooled lava. While not particularily rich in anything it does contain a large variety of elements in it."
+				""
+				"&6Tier 0 Yield:&r Silicon"
+				"&6Tier 1 Yield:&r Magnesium"
+			]
 			id: "289AC82BB64734A9"
 			shape: "hexagon"
 			tasks: [{
@@ -630,6 +654,12 @@
 		}
 		{
 			dependencies: ["1DFA40765C37E21B"]
+			description: [
+				"Used historically as a component of medication believed to treat nearly everything. Of course being mostly mercury the only thing it did cure was being alive"
+				""
+				"&6Tier 0 Yield:&r Redstone"
+				"&6Tier 1 Yield:&r Mercury"
+			]
 			id: "186B290B36A2F760"
 			shape: "hexagon"
 			tasks: [{
@@ -642,6 +672,12 @@
 		}
 		{
 			dependencies: ["1DFA40765C37E21B"]
+			description: [
+				"Mercury is able to form in nature as a native metal resulting in some ores sweating out the liquid metal once excavated."
+				""
+				"&6Tier 0 Yield:&r Mercury"
+				"&6Tier 1 Yield:&r Mercury Sulfide"
+			]
 			id: "54C651D87DB4C548"
 			shape: "hexagon"
 			tasks: [{
@@ -654,6 +690,12 @@
 		}
 		{
 			dependencies: ["1DFA40765C37E21B"]
+			description: [
+				"The mineral form of mercury(II) oxide, fairly rare mineral. Typically deposits itself in hydrothermal areas."
+				""
+				"&6Tier 0 Yield:&r Redstone"
+				"&6Tier 1 Yield:&r Mercury"
+			]
 			id: "36ED42A46C26988C"
 			shape: "hexagon"
 			tasks: [{
@@ -666,6 +708,12 @@
 		}
 		{
 			dependencies: ["1DFA40765C37E21B"]
+			description: [
+				"Volcanic glass! Or well I suppose it's more like glass powder in this state. Contrary to minecraft obsidian is rather fragile but can form blades sharper than most surgical scalples."
+				""
+				"&6Tier 0 Yield:&r"
+				"&6Tier 1 Yield:&r "
+			]
 			id: "435B8B460BE5AF93"
 			shape: "hexagon"
 			tasks: [{
@@ -1954,8 +2002,8 @@
 			id: "25404916F94B9AE8"
 			shape: "hexagon"
 			tasks: [{
-				id: "070F1B8E0A163015"
-				item: "minecraft:cauldron"
+				id: "169BDC7A53840482"
+				item: "create:encased_fan"
 				type: "item"
 			}]
 			title: "Washing"
@@ -2025,6 +2073,19 @@
 			title: "Ores and You!"
 			x: -0.5d
 			y: -9.5d
+		}
+		{
+			dependencies: ["35494E3A757EA660"]
+			description: ["Some gemstones are more useful crushed to dust.."]
+			id: "38A22A91E1E443B1"
+			shape: "hexagon"
+			tasks: [{
+				id: "618D7DF42B2FB37A"
+				item: "create:mechanical_press"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -3.0d
 		}
 	]
 	title: "Ore Line"
