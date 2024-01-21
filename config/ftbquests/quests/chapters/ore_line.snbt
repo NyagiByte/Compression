@@ -1023,6 +1023,29 @@
 		}
 		{
 			dependencies: ["36801EB293571923"]
+			description: [
+				"A cluster of similar crystals including primarily Emerald, Sapphire, and Ruby"
+				""
+				"&bNote: For Tier 1 processing and beyond the \"random salvage\" is the rest of the gemstones, only ruby gets listed"
+				""
+				"&6Tier 0 Yield:&r"
+				"               Emerald &cx1/3&r,"
+				"               Sapphire &cx1/3&r,"
+				"               Ruby &cx1/3&r"
+				"               &aor&r"
+				"               Emerald Dust &cx0.5&r,"
+				"               Sapphire Dust &cx0.5&r,"
+				"               Ruby Dust &cx0.5&r"
+				"&6Tier 1 Yield:&r"
+				"               Emerald"
+				"               Sapphire"
+				"               Ruby"
+				"               Emerald Dust &cx0.1&r,"
+				"               Sapphire Dust &cx0.1&r,"
+				"               Ruby Dust &cx0.1&r"
+				"               &aor&r"
+				"               Aluminum Dust"
+			]
 			id: "2F36F840E0012977"
 			shape: "hexagon"
 			tasks: [{
@@ -1035,6 +1058,12 @@
 		}
 		{
 			dependencies: ["36801EB293571923"]
+			description: [
+				"A calcium fluoride mineral. Can have a range of color from green to purple along the crystal"
+				""
+				"&6Tier 0 Yield:&r Fluorite Dust "
+				"&6Tier 1 Yield:&r Calcium"
+			]
 			id: "0E07F636B9B08AE8"
 			shape: "hexagon"
 			tasks: [{
@@ -1047,6 +1076,12 @@
 		}
 		{
 			dependencies: ["36801EB293571923"]
+			description: [
+				"An unatural blob of chalcogenide group III and IV metals and metalloids"
+				""
+				"&6Tier 0 Yield:&r Antimony"
+				"&6Tier 1 Yield:&r Bismuth"
+			]
 			id: "35ECC39B3E74CFD1"
 			shape: "hexagon"
 			tasks: [{
@@ -1059,6 +1094,12 @@
 		}
 		{
 			dependencies: ["36801EB293571923"]
+			description: [
+				"A big ol' lump of salts. Wouldn't recommend licking this since some of them are toxic, but who am I to stop ya"
+				""
+				"&6Tier 0 Yield:&r Salt"
+				"&6Tier 1 Yield:&r Potassium Chloride"
+			]
 			id: "53970793D10A4AEF"
 			shape: "hexagon"
 			tasks: [{

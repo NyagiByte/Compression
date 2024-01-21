@@ -42,7 +42,7 @@ hash = "83192c66715f399defe1117525f0dcee4ede837fcbafbe380b8f1d11190e9f35"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "56873799e3fdefa9b2bb4d8284ecf4acb88a70038c781719ce9c000e8e507e6d"
+hash = "6b82a7f5e60c11f13ad9a965c4003e41946ec9ab4ac227e93b96ab37306b818a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"
@@ -550,7 +550,7 @@ hash = "2a6e710b7f3c21df13000314f464f097d1a27b1b98c53dd3f0ce09130ce5ad37"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes_ores.js"
-hash = "dc0f76517ffddae39d3ee8c61f950b99d08cfc6351046f6ede9a76fff419ee97"
+hash = "4516392d8bc3b69cdcfe2de372066d0f029960c49c5e4fec25fd523f5bd95790"
 
 [[files]]
 file = "kubejs/server_scripts/quark.js"
