@@ -817,6 +817,145 @@ ServerEvents.recipes(event => {
             //Tier 13
             //Tier 14
             //Tier 15
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //Gemstones
+        //Kimberlite
+            /*Tier 0 - Diamond[Splashing]
+                       4(Diamond Shard)[Compacting]
+            */
+                    event.recipes.create.splashing(['minecraft:diamond'],'nyagibits_bytes:raw_kimberlite')
+                    event.recipes.create.compacting(['4x nyagibits_bytes:diamond_shard'], 'nyagibits_bytes:raw_kimberlite')
+            /*Tier 1 - 3(Diamond), Diamond /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise[Sandpaper]
+                       12(Diamond Shard), 0.75(Carbon), 0.25(Raw Graphite Ore)[Crushing]
+            */
+                    event.recipes.createSandpaperPolishing(['4x minecraft:diamond'],'nyagibits_bytes:raw_kimberlite')
+                    event.recipes.createCrushing(['12x nyagibits_bytes:diamond_shard',
+                                                Item.of('nyagibits_bytes:raw_graphite').withChance(0.25),
+                                                Item.of('chemlib:carbon_dust').withChance(0.75)], 'nyagibits_bytes:raw_kimberlite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Lamproite
+            /*Tier 0 - Diamond[Splashing]
+                       4(Diamond Shard)[Compacting]
+            */
+                    event.recipes.create.splashing(['minecraft:diamond'],'nyagibits_bytes:raw_lamproite')
+                    event.recipes.create.compacting(['4x nyagibits_bytes:diamond_shard'], 'nyagibits_bytes:raw_lamproite')
+            /*Tier 1 - 3(Diamond), Diamond /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise[Sandpaper]
+                       12(Diamond Shard), 0.75(Carbon), 0.25(Raw Graphite Ore)[Crushing]
+            */
+                    event.recipes.createSandpaperPolishing(['4x minecraft:diamond'],'nyagibits_bytes:raw_lamproite')
+                    event.recipes.createCrushing(['12x nyagibits_bytes:diamond_shard',
+                                                Item.of('nyagibits_bytes:raw_basaltic_powder').withChance(0.25),
+                                                Item.of('chemlib:potassium_dust').withChance(0.75)], 'nyagibits_bytes:raw_lamproite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Lazurite
+            /*Tier 0 - Lapis[Splashing]
+                       2(Lapis Dust)[Compacting]
+            */
+                    event.recipes.create.splashing(['minecraft:lapis_lazuli'],'nyagibits_bytes:raw_lazurite')
+                    event.recipes.create.compacting(['2x thermal:lapis_dust'], 'nyagibits_bytes:raw_lazurite')
+            /*Tier 1 - 3(Lapis), Lapis /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise[Sandpaper]
+                       6(Lapis Dust), 0.75(Calcite), 0.25(Compacted Limstone)[Crushing]
+            */
+                    event.recipes.createSandpaperPolishing(['4x minecraft:lapis_lazuli'],'nyagibits_bytes:raw_lazurite')
+                    event.recipes.createCrushing(['24x thermal:lapis_dust',
+                                                Item.of('nyagibits_bytes:raw_compacted_limestone').withChance(0.25),
+                                                Item.of('minecraft:calcite').withChance(0.75)], 'nyagibits_bytes:raw_lazurite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Lapis Lazuli
+            /*Tier 0 - 2(Lapis)[Splashing]
+                       4(Lapis Dust)[Compacting]
+            */
+                    event.recipes.create.splashing(['2x minecraft:lapis_lazuli'],'nyagibits_bytes:raw_lapis_lazuli')
+                    event.recipes.create.compacting(['4x thermal:lapis_dust'], 'nyagibits_bytes:raw_lapis_lazuli')
+            /*Tier 1 - 6(Lapis), Lapis /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise[Sandpaper]
+                       12(Lapis Dust), 0.75(Calcite), 0.25(Compacted Limstone)[Crushing]
+            */
+                    event.recipes.createSandpaperPolishing(['7x minecraft:lapis_lazuli'],'nyagibits_bytes:raw_lapis_lazuli')
+                    event.recipes.createCrushing(['12x thermal:lapis_dust',
+                                                Item.of('nyagibits_bytes:raw_pyrite').withChance(0.25),
+                                                Item.of('minecraft:calcite').withChance(0.75)], 'nyagibits_bytes:raw_lapis_lazuli')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Prime Beryllic Cluster
+            /*Tier 0 - 2(Lapis)[Splashing]
+                       4(Lapis Dust)[Compacting]
+            */
+                    event.recipes.create.splashing(['2x minecraft:lapis_lazuli'],'nyagibits_bytes:raw_prime_beryllic_cluster')
+                    event.recipes.create.compacting(['4x thermal:lapis_dust'], 'nyagibits_bytes:raw_prime_beryllic_cluster')
+            /*Tier 1 - 6(Lapis), Lapis /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise[Sandpaper]
+                       12(Lapis Dust), 0.75(Calcite), 0.25(Compacted Limstone)[Crushing]
+            */
+                    event.recipes.createSandpaperPolishing(['7x minecraft:lapis_lazuli'],'nyagibits_bytes:raw_prime_beryllic_cluster')
+                    event.recipes.createCrushing(['12x thermal:lapis_dust',
+                                                Item.of('nyagibits_bytes:raw_pyrite').withChance(0.25),
+                                                Item.of('minecraft:calcite').withChance(0.75)], 'nyagibits_bytes:raw_prime_beryllic_cluster')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
         
         
 })

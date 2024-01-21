@@ -923,6 +923,19 @@
 		}
 		{
 			dependencies: ["36801EB293571923"]
+			description: [
+				"A prised ore due to its inclusion of diamonds. Much like real life, these arn't as rare as one might think."
+				""
+				"&6Tier 0 Yield:&r"
+				"               Diamond"
+				"               &aor&r"
+				"               Diamond Shard &bx4"
+				"&6Tier 1 Yield:&r"
+				"               Diamond"
+				"               &aor&r"
+				"               Graphite Ore &cx0.25&r,"
+				"               Carbon &cx0.75"
+			]
 			id: "0A9ECBA01878A7AB"
 			shape: "hexagon"
 			tasks: [{
@@ -935,6 +948,19 @@
 		}
 		{
 			dependencies: ["36801EB293571923"]
+			description: [
+				"Less common source of diamonds but just as useful. Due to it containing a large amount of volcanic rock this ore can yield a decent amount of useful side products"
+				""
+				"&6Tier 0 Yield:&r"
+				"               Diamond"
+				"               &aor&r"
+				"               Diamond Shard &bx4"
+				"&6Tier 1 Yield:&r"
+				"               Diamond"
+				"               &aor&r"
+				"               Graphite Ore &cx0.25&r,"
+				"               Potassium &cx0.75"
+			]
 			id: "0534734B826094D9"
 			shape: "hexagon"
 			tasks: [{
@@ -947,6 +973,19 @@
 		}
 		{
 			dependencies: ["36801EB293571923"]
+			description: [
+				"A mineral consisting of sulfate, sulfur, aluminum and chloride. Often found in limestone or calcite rock."
+				""
+				"&6Tier 0 Yield:&r"
+				"               Lapis"
+				"               &aor&r"
+				"               Lapis Dust &b+1"
+				"&6Tier 1 Yield:&r"
+				"               Lapis"
+				"               &aor&r"
+				"               Compacted Limestone &cx0.25&r,"
+				"               Calcite &cx0.75"
+			]
 			id: "7E36565D6A714D77"
 			shape: "hexagon"
 			tasks: [{
@@ -959,6 +998,19 @@
 		}
 		{
 			dependencies: ["36801EB293571923"]
+			description: [
+				"A semi-precious stone demonstrating a brilliantly blue hue. Often found with pyrite inclusions"
+				""
+				"&6Tier 0 Yield:&r"
+				"               Lapis &bx2"
+				"               &aor&r"
+				"               Lapis Dust &b+3"
+				"&6Tier 1 Yield:&r"
+				"               Lapis"
+				"               &aor&r"
+				"               Raw Pyrite &cx0.25&r,"
+				"               Calcite &cx0.75"
+			]
 			id: "51123E21330821D0"
 			shape: "hexagon"
 			tasks: [{
