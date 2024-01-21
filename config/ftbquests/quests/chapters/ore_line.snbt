@@ -1135,6 +1135,19 @@
 		}
 		{
 			dependencies: ["12D07F810D3FEE98"]
+			description: [
+				"Double-terminated quartz crystals within dolomite. Contrary to the name this is not an actual diamond, but still very useful!"
+				""
+				"&6Tier 0 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Quartz Dust &bx2"
+				"&6Tier 1 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Compacted Limestone &cx0.25&r,"
+				"               Quartz Dust &cx0.75"
+			]
 			id: "7EBA24E0515AD4D3"
 			shape: "hexagon"
 			tasks: [{
@@ -1147,6 +1160,19 @@
 		}
 		{
 			dependencies: ["12D07F810D3FEE98"]
+			description: [
+				"Double-terminated quartz crystals within dolomite. Contrary to the name this is not an actual diamond, but still very useful!"
+				""
+				"&6Tier 0 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Quartz Dust &bx2"
+				"&6Tier 1 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Basaltic Powder &cx0.25&r,"
+				"               Quartz Dust &cx0.75"
+			]
 			id: "18F7940BCDD9A93E"
 			shape: "hexagon"
 			tasks: [{
@@ -1159,6 +1185,18 @@
 		}
 		{
 			dependencies: ["12D07F810D3FEE98"]
+			description: [
+				"A crypyocystalline form of silica comprised of fine intergrowths of quartz."
+				""
+				"&6Tier 0 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Quartz Dust &bx2"
+				"&6Tier 1 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Silicon"
+			]
 			id: "3C36DC4D8427D51F"
 			shape: "hexagon"
 			tasks: [{
@@ -1171,6 +1209,18 @@
 		}
 		{
 			dependencies: ["12D07F810D3FEE98"]
+			description: [
+				"Quartz with titanium in it?! While the amount isnt very high, it will be your first easy to access source of the metal"
+				""
+				"&6Tier 0 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Quartz Dust &bx2"
+				"&6Tier 1 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Titanium &cx0.25&r"
+			]
 			id: "6EADF678BD74FECC"
 			shape: "hexagon"
 			tasks: [{
@@ -1183,6 +1233,18 @@
 		}
 		{
 			dependencies: ["12D07F810D3FEE98"]
+			description: [
+				"A mixture of amethyst and citrine. The coloration is due to inclusions of iron with different oxydation states. It also looks like a delicious rock candy"
+				""
+				"&6Tier 0 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Quartz Dust &bx2"
+				"&6Tier 1 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Iron"
+			]
 			id: "57DE26D7500C341D"
 			shape: "hexagon"
 			tasks: [{
@@ -1195,6 +1257,18 @@
 		}
 		{
 			dependencies: ["12D07F810D3FEE98"]
+			description: [
+				"A rather pretty quartz variant that can be used to boost the production of polished rose quartz from create. Alternatively you can pull quartz out of like normal"
+				""
+				"&6Tier 0 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Quartz Dust &bx2"
+				"&6Tier 1 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Redstone"
+			]
 			id: "2410D97DAF875C6D"
 			shape: "hexagon"
 			tasks: [{
@@ -1207,6 +1281,18 @@
 		}
 		{
 			dependencies: ["12D07F810D3FEE98"]
+			description: [
+				"Effectively just a green quartz. A literal translation of the name means \"scallion green-colored stone\" from the Greeks"
+				""
+				"&6Tier 0 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Quartz Dust &bx2"
+				"&6Tier 1 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Iron"
+			]
 			id: "4490F631697B7789"
 			shape: "hexagon"
 			tasks: [{
@@ -1219,6 +1305,18 @@
 		}
 		{
 			dependencies: ["12D07F810D3FEE98"]
+			description: [
+				"A chunk of scifi crystal straight from the heavens! This will probably be very vital"
+				""
+				"&6Tier 0 Yield:&r"
+				"               Certuz Quarts &bx2"
+				"               &aor&r"
+				"               Quartz Dust &bx4"
+				"&6Tier 1 Yield:&r"
+				"               Certuz Quarts"
+				"               &aor&r"
+				"               Skystone Dust &bx2"
+			]
 			id: "501ADCCCBBC15FD8"
 			shape: "hexagon"
 			tasks: [{

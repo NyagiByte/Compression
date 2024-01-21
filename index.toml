@@ -42,7 +42,7 @@ hash = "83192c66715f399defe1117525f0dcee4ede837fcbafbe380b8f1d11190e9f35"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "6b82a7f5e60c11f13ad9a965c4003e41946ec9ab4ac227e93b96ab37306b818a"
+hash = "e8b24ae706d710fb3eec3304e55cfaf9c0c0f74f5a230af8b58db9fd82a0853f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"
@@ -534,7 +534,7 @@ hash = "050801108cc5cafda2a29fd1d2d125ead8f6ebf5b4c62aa268a7f3f73b3f4868"
 
 [[files]]
 file = "kubejs/server_scripts/create_recipes.js"
-hash = "cf4bce92eebf7f4a4500c135452019c2bc5fd499977883ba03dadaedaec19cc0"
+hash = "32b0b3c4e39a19ea8be8b799cafe68ce9d5855f913a6d1b02d8a5098b4638184"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
@@ -550,7 +550,7 @@ hash = "2a6e710b7f3c21df13000314f464f097d1a27b1b98c53dd3f0ce09130ce5ad37"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes_ores.js"
-hash = "4516392d8bc3b69cdcfe2de372066d0f029960c49c5e4fec25fd523f5bd95790"
+hash = "d9dcf3c0372332cc09e87add645e8883db09d84da8c56fbd7b896c6e7a26c870"
 
 [[files]]
 file = "kubejs/server_scripts/quark.js"

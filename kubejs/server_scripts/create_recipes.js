@@ -209,7 +209,19 @@ ServerEvents.recipes(event => {
                 B: 'minecraft:red_dye',
                 C: 'quark:clear_shard',
                 D: 'minecraft:quartz'
-            })  
+            })   
+            //Rose Quartz - Tier 2
+                event.remove({output: 'create:rose_quartz'});
+                event.shaped(Item.of('8x create:rose_quartz'), [
+                    'ABA',
+                    'CDC',
+                    'ACA'
+                ], {
+                    A: 'minecraft:redstone',
+                    B: 'minecraft:red_dye',
+                    C: 'quark:clear_shard',
+                    D: 'nyagibits_bytes:raw_rose_quartz'
+                }) 
         //Mechanical Crafter
             event.remove({output: 'create:mechanical_crafter'});
             event.shaped(Item.of('8x create:mechanical_crafter'), [

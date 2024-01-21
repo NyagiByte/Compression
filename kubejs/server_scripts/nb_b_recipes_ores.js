@@ -1031,6 +1031,215 @@ ServerEvents.recipes(event => {
             //Tier 13
             //Tier 14
             //Tier 15
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //Quartz
+        //Kerkimer Diamond
+            /*Tier 0 - Quartz[Splashing]
+                       2(Quartz Dust)[Compacting]
+            */
+                       event.recipes.create.splashing(['minecraft:quartz'],'nyagibits_bytes:raw_herkimer_diamond')
+                       event.recipes.create.compacting(['2x thermal:quartz_dust'], 'nyagibits_bytes:raw_herkimer_diamond')
+               /*Tier 1 - 3(Quartz), Quartz /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise[Sandpaper]
+                          6(Quartz Dust), 0.75(Quartz Dust), 0.25(Compacted Limestone)[Crushing]
+               */
+                       event.recipes.createSandpaperPolishing(['4x minecraft:quartz'],'nyagibits_bytes:raw_herkimer_diamond')
+                       event.recipes.createCrushing(['6x thermal:quartz_dust',
+                                                   Item.of('nyagibits_bytes:raw_compacted_limestone').withChance(0.25),
+                                                   Item.of('thermal:quartz_dust').withChance(0.75)], 'nyagibits_bytes:raw_herkimer_diamond')
+               //Tier 2
+               //Tier 3
+               //Tier 4
+               //Tier 5
+               //Tier 6
+               //Tier 7
+               //Tier 8
+               //Tier 9
+               //Tier 10
+               //Tier 11
+               //Tier 12
+               //Tier 13
+               //Tier 14
+               //Tier 15
+        //Dendritic Agate
+            /*Tier 0 - Quartz[Splashing]
+                       2(Quartz Dust)[Compacting]
+            */
+                       event.recipes.create.splashing(['minecraft:quartz'],'nyagibits_bytes:raw_dendritic_agate')
+                       event.recipes.create.compacting(['2x thermal:quartz_dust'], 'nyagibits_bytes:raw_dendritic_agate')
+               /*Tier 1 - 3(Quartz), Quartz /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise[Sandpaper]
+                          6(Quartz Dust), 0.75(Quartz Dust), 0.25(Compacted Limestone)[Crushing]
+               */
+                       event.recipes.createSandpaperPolishing(['4x minecraft:quartz'],'nyagibits_bytes:raw_dendritic_agate')
+                       event.recipes.createCrushing(['6x thermal:quartz_dust',
+                                                   Item.of('nyagibits_bytes:raw_basaltic_powder').withChance(0.25),
+                                                   Item.of('thermal:quartz_dust').withChance(0.75)], 'nyagibits_bytes:raw_dendritic_agate')
+               //Tier 2
+               //Tier 3
+               //Tier 4
+               //Tier 5
+               //Tier 6
+               //Tier 7
+               //Tier 8
+               //Tier 9
+               //Tier 10
+               //Tier 11
+               //Tier 12
+               //Tier 13
+               //Tier 14
+               //Tier 15
+        //Chalcedony
+            /*Tier 0 - Quartz[Splashing]
+                       2(Quartz Dust)[Compacting]
+            */
+                       event.recipes.create.splashing(['minecraft:quartz'],'nyagibits_bytes:raw_chalcedony')
+                       event.recipes.create.compacting(['2x thermal:quartz_dust'], 'nyagibits_bytes:raw_chalcedony')
+               /*Tier 1 - 3(Quartz), Quartz /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise[Sandpaper]
+                          6(Quartz Dust), Silicon [Crushing]
+               */
+                       event.recipes.createSandpaperPolishing(['4x minecraft:quartz'],'nyagibits_bytes:raw_chalcedony')
+                       event.recipes.createCrushing(['6x thermal:quartz_dust', 'chemlib:silicon_dust'], 'nyagibits_bytes:raw_chalcedony')
+               //Tier 2
+               //Tier 3
+               //Tier 4
+               //Tier 5
+               //Tier 6
+               //Tier 7
+               //Tier 8
+               //Tier 9
+               //Tier 10
+               //Tier 11
+               //Tier 12
+               //Tier 13
+               //Tier 14
+               //Tier 15
+        //Rutilated Quartz
+            /*Tier 0 - Quartz[Splashing]
+                       2(Quartz Dust)[Compacting]
+            */
+                       event.recipes.create.splashing(['minecraft:quartz'],'nyagibits_bytes:raw_rutilated_quartz')
+                       event.recipes.create.compacting(['2x thermal:quartz_dust'], 'nyagibits_bytes:raw_rutilated_quartz')
+               /*Tier 1 - 3(Quartz), Quartz /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise[Sandpaper]
+                          6(Quartz Dust), Titanium [Crushing]
+               */
+                       event.recipes.createSandpaperPolishing(['4x minecraft:quartz'],'nyagibits_bytes:raw_rutilated_quartz')
+                       event.recipes.createCrushing(['6x thermal:quartz_dust', 
+                                                    Item.of('chemlib:titanium_dust').withChance(0.25)], 'nyagibits_bytes:raw_rutilated_quartz')
+               //Tier 2
+               //Tier 3
+               //Tier 4
+               //Tier 5
+               //Tier 6
+               //Tier 7
+               //Tier 8
+               //Tier 9
+               //Tier 10
+               //Tier 11
+               //Tier 12
+               //Tier 13
+               //Tier 14
+               //Tier 15
+        //Amertrine
+            /*Tier 0 - Quartz[Splashing]
+                       2(Quartz Dust)[Compacting]
+            */
+                       event.recipes.create.splashing(['minecraft:quartz'],'nyagibits_bytes:raw_ametrine')
+                       event.recipes.create.compacting(['2x thermal:quartz_dust'], 'nyagibits_bytes:raw_ametrine')
+               /*Tier 1 - 3(Quartz), Quartz /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise[Sandpaper]
+                          6(Quartz Dust), Iron [Crushing]
+               */
+                       event.recipes.createSandpaperPolishing(['4x minecraft:quartz'],'nyagibits_bytes:raw_ametrine')
+                       event.recipes.createCrushing(['6x thermal:quartz_dust', 'create:crushed_raw_iron'], 'nyagibits_bytes:raw_ametrine')
+               //Tier 2
+               //Tier 3
+               //Tier 4
+               //Tier 5
+               //Tier 6
+               //Tier 7
+               //Tier 8
+               //Tier 9
+               //Tier 10
+               //Tier 11
+               //Tier 12
+               //Tier 13
+               //Tier 14
+               //Tier 15
+        //Rose Quartz
+            /*Tier 0 - Quartz[Splashing]
+                       2(Quartz Dust)[Compacting]
+            */
+                       event.recipes.create.splashing(['minecraft:quartz'],'nyagibits_bytes:raw_rose_quartz')
+                       event.recipes.create.compacting(['2x thermal:quartz_dust'], 'nyagibits_bytes:raw_rose_quartz')
+               /*Tier 1 - 3(Quartz), Quartz /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise[Sandpaper]
+                          6(Quartz Dust), Redstone [Crushing]
+               */
+                       event.recipes.createSandpaperPolishing(['4x minecraft:quartz'],'nyagibits_bytes:raw_rose_quartz')
+                       event.recipes.createCrushing(['6x thermal:quartz_dust', 'minecraft:redstone'], 'nyagibits_bytes:raw_rose_quartz')
+               //Tier 2
+               //Tier 3
+               //Tier 4
+               //Tier 5
+               //Tier 6
+               //Tier 7
+               //Tier 8
+               //Tier 9
+               //Tier 10
+               //Tier 11
+               //Tier 12
+               //Tier 13
+               //Tier 14
+               //Tier 15
+        //Prasiolite
+            /*Tier 0 - Quartz[Splashing]
+                       2(Quartz Dust)[Compacting]
+            */
+                       event.recipes.create.splashing(['minecraft:quartz'],'nyagibits_bytes:raw_prasiolite')
+                       event.recipes.create.compacting(['2x thermal:quartz_dust'], 'nyagibits_bytes:raw_prasiolite')
+               /*Tier 1 - 3(Quartz), Quartz /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise[Sandpaper]
+                          6(Quartz Dust), Iron [Crushing]
+               */
+                       event.recipes.createSandpaperPolishing(['4x minecraft:quartz'],'nyagibits_bytes:raw_prasiolite')
+                       event.recipes.createCrushing(['6x thermal:quartz_dust', 'create:crushed_raw_iron'], 'nyagibits_bytes:raw_prasiolite')
+               //Tier 2
+               //Tier 3
+               //Tier 4
+               //Tier 5
+               //Tier 6
+               //Tier 7
+               //Tier 8
+               //Tier 9
+               //Tier 10
+               //Tier 11
+               //Tier 12
+               //Tier 13
+               //Tier 14
+               //Tier 15
+        //Meteoric Certus
+            /*Tier 0 - 2(Certus Quartz)[Splashing]
+                       4(Certus Quartz Dust)[Compacting]
+            */
+                       event.recipes.create.splashing(['2x ae2:certus_quartz_crystal'],'nyagibits_bytes:raw_meteoric_certus')
+                       event.recipes.create.compacting(['4x ae2:certus_quartz_dust'], 'nyagibits_bytes:raw_meteoric_certus')
+               /*Tier 1 - 6(Certus Quartz), Quartz /- output set to x7 and not x6 + 1 due to it not yielding correctly otherwise[Sandpaper]
+                          12(Certus Quartz Dust), 2(Skystone Dust) [Crushing]
+               */
+                       event.recipes.createSandpaperPolishing(['7x ae2:certus_quartz_crystal'],'nyagibits_bytes:raw_meteoric_certus')
+                       event.recipes.createCrushing(['12x ae2:certus_quartz_dust', '2x ae2:sky_dust'], 'nyagibits_bytes:raw_meteoric_certus')
+               //Tier 2
+               //Tier 3
+               //Tier 4
+               //Tier 5
+               //Tier 6
+               //Tier 7
+               //Tier 8
+               //Tier 9
+               //Tier 10
+               //Tier 11
+               //Tier 12
+               //Tier 13
+               //Tier 14
+               //Tier 15
         
         
 })
