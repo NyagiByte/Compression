@@ -1,0 +1,18 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_12__preparation"
+	group: ""
+	icon: {
+		Count: 1b
+		id: "botania:elementium_sword"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "4554DDBBCB8C69AE"
+	order_index: 13
+	quest_links: [ ]
+	quests: [ ]
+	title: "Tier 12 - Preparation "
+}

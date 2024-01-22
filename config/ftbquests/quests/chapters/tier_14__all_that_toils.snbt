@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_14__all_that_toils"
+	group: ""
+	icon: "biomancy:living_flesh"
+	id: "6AA63239A7DE9210"
+	order_index: 15
+	quest_links: [ ]
+	quests: [ ]
+	title: "Tier 14 - All that toils..."
+}

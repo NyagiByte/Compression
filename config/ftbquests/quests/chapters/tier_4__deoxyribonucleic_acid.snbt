@@ -1,0 +1,18 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_4__deoxyribonucleic_acid"
+	group: ""
+	icon: {
+		Count: 1b
+		id: "patchouli:guide_book"
+		tag: {
+			"patchouli:book": "alchemistry:alchemistry_book"
+		}
+	}
+	id: "02408EBC47E43AD8"
+	order_index: 5
+	quest_links: [ ]
+	quests: [ ]
+	title: "Tier 4 - Deoxyribonucleic Acid"
+}

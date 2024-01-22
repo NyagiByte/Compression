@@ -2,12 +2,19 @@ ServerEvents.recipes(event => {
     //Nyagi's Bits & Bytes - Ores
     //Yields:
     /*
+        Furnace/Compacting
         Tier 0 -  (1a)  
-               -  1 Total                                                  
+               -  1 Total
+               
+        Crushing/Polishing
         Tier 1 -  (3a)(1b)  
-               -  4 Total      
+               -  4 Total    
+               
+        Stintering/Waxing
         Tier 2 -  (12a)(3b)(1c)  
                -  16 Total   
+
+        
         Tier 3 -  (48a)(12b)(3c)(1d) 
                -  64 Total   
         Tier 4 -  (192a)(48b)(12c)(3d)(1e) 
@@ -1382,6 +1389,48 @@ ServerEvents.recipes(event => {
                 event.smelting('create:zinc_ingot', 'nyagibits_bytes:raw_franklinite')
             //Tier 1 - 3(Zinc), Iron
                 event.recipes.createCrushing(['3x create:crushed_raw_zinc','create:crushed_raw_iron'],'nyagibits_bytes:raw_franklinite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //Aluminum
+        //Bauxite
+            //Tier 0 - Aluminum
+                event.smelting('chemlib:aluminum_ingot', 'nyagibits_bytes:raw_bauxite')
+            //Tier 1 - 3(Aluminum), Aluminum
+                event.recipes.createCrushing(['3x create:crushed_raw_aluminum','create:crushed_raw_aluminum'],'nyagibits_bytes:raw_bauxite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Feldspar
+            //Tier 0 - Aluminum
+                event.smelting('chemlib:aluminum_ingot', 'nyagibits_bytes:raw_feldspar')
+            //Tier 1 - 3(Aluminum), Aluminum
+                event.recipes.createCrushing(['3x create:crushed_raw_aluminum','chemlib:sodium_dust'],'nyagibits_bytes:raw_feldspar')
             //Tier 2
             //Tier 3
             //Tier 4

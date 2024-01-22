@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_3__a_golden_box"
+	group: ""
+	icon: "ae2:calculation_processor"
+	id: "20D0865DA87C41B2"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+	title: "Tier 3 - A Golden Box"
+}

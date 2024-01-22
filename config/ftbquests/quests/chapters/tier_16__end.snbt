@@ -1,0 +1,28 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_16__end"
+	group: ""
+	icon: "botania:mana_void"
+	id: "3BEACE9F3F1EC3AA"
+	order_index: 17
+	quest_links: [ ]
+	quests: [{
+		description: ["&cIt's all gone, take yours now, it's over"]
+		id: "037525CBB3136E46"
+		shape: "hexagon"
+		size: 8.0d
+		tasks: [{
+			entity: "minecraft:zombie"
+			icon: "ftbquests:stage_barrier"
+			id: "09E1501E0236040F"
+			title: "The Final Task"
+			type: "kill"
+			value: 100L
+		}]
+		title: "The Final Task"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Tier 16 - End"
+}

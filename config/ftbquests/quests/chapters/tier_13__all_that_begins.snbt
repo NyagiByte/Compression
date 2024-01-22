@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_13__all_that_begins"
+	group: ""
+	icon: "botania:goddess_charm"
+	id: "4868C21F1AD60E47"
+	order_index: 14
+	quest_links: [ ]
+	quests: [ ]
+	title: "Tier 13 - All that begins..."
+}

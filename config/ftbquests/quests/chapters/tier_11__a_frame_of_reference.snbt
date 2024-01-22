@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_11__a_frame_of_reference"
+	group: ""
+	icon: "quark:black_framed_glass"
+	id: "53F1B65D010D76A6"
+	order_index: 12
+	quest_links: [ ]
+	quests: [ ]
+	title: "Tier 11 - A Frame of Reference "
+}

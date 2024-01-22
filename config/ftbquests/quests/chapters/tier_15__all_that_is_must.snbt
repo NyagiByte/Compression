@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_15__all_that_is_must"
+	group: ""
+	icon: "ae2:singularity"
+	id: "7FE5FC94BD026BE8"
+	order_index: 16
+	quest_links: [ ]
+	quests: [ ]
+	title: "Tier 15 - All that is... must..."
+}
