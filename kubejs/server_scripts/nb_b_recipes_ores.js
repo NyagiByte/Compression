@@ -1445,6 +1445,166 @@ ServerEvents.recipes(event => {
             //Tier 13
             //Tier 14
             //Tier 15
+            //Prime Beryllic Cluster
+            /*Tier 0 - 0.3333(Emerald)0.3333(Ruby)0.3333(Sapphire)[Splashing]
+                       0.5(Emerald Dust)0.5(Ruby Dust)0.5(Sapphire Dust)[Compacting]
+            */
+                    event.recipes.create.splashing([Item.of('nyagibits_bytes:pezzottaite').withChance(0.14),
+                                                    Item.of('nyagibits_bytes:bixbite').withChance(0.14),
+                                                    Item.of('nyagibits_bytes:goshenite').withChance(0.14),
+                                                    Item.of('nyagibits_bytes:heliodor').withChance(0.14),
+                                                    Item.of('nyagibits_bytes:morganite').withChance(0.14),
+                                                    Item.of('nyagibits_bytes:aquamarine').withChance(0.14),
+                                                    Item.of('minecraft:emerald').withChance(0.14)],'nyagibits_bytes:raw_clustered_beryl')
+                    event.recipes.create.compacting([Item.of('nyagibits_bytes:pezzottaite_dust').withChance(0.25),
+                                                     Item.of('nyagibits_bytes:bixbite_dust').withChance(0.25),
+                                                     Item.of('nyagibits_bytes:goshenite_dust').withChance(0.25),
+                                                     Item.of('nyagibits_bytes:heliodor_dust').withChance(0.25),
+                                                     Item.of('nyagibits_bytes:morganite_dust').withChance(0.25),
+                                                     Item.of('nyagibits_bytes:aquamarine_dust').withChance(0.25),
+                                                     Item.of('thermal:emerald_dust').withChance(0.25)],'nyagibits_bytes:raw_clustered_beryl')
+            /*Tier 1 - 3/7(Pezzottaite),3/7(Bixbite),3/7(Goshenite),3/7(Heliodor),3/7(Morganite),3/7(Aquamarine),3/7(Emerald),
+                       1/4(Pezzottaite_Dust),1/4(Bixbite_Dust),1/4(Goshenite_Dust),1/4(Goshenite_Dust),1/4(Goshenite_Dust),1/4(Goshenite_Dust),1/4(Goshenite_Dust),
+                       1.5(Emerald Dust), 1.5(Ruby Dust), 1.5(Sapphire Dust), 0.1(Emerald/Ruby/Sapphire Dust)[Sequence Processing]
+            */
+                    event.recipes.createSequencedAssembly([
+                    Item.of('12x nyagibits_bytes:pezzottaite'),
+                    Item.of('12x nyagibits_bytes:bixbite'),
+                    Item.of('12x nyagibits_bytes:goshenite'),
+                    Item.of('12x nyagibits_bytes:heliodor'),
+                    Item.of('12x nyagibits_bytes:morganite'),
+                    Item.of('12x nyagibits_bytes:aquamarine'),
+                    Item.of('12x minecraft:emerald'),
+                    Item.of('nyagibits_bytes:pezzottaite_dust').withChance(0.25),
+                    Item.of('nyagibits_bytes:bixbite_dust').withChance(0.25),
+                    Item.of('nyagibits_bytes:goshenite_dust').withChance(0.25),
+                    Item.of('nyagibits_bytes:heliodor_dust').withChance(0.25),
+                    Item.of('nyagibits_bytes:morganite_dust').withChance(0.25),
+                    Item.of('nyagibits_bytes:aquamarine_dust').withChance(0.25),
+                    Item.of('thermal:emerald_dust').withChance(0.25),
+                ], 'nyagibits_bytes:raw_clustered_beryl',
+                    [
+                        event.recipes.createFilling('nyagibits_bytes:raw_clustered_beryl', ['nyagibits_bytes:raw_clustered_beryl', Fluid.water(100)]),
+                        event.recipes.createDeploying('nyagibits_bytes:raw_clustered_beryl', ['nyagibits_bytes:raw_clustered_beryl', '#create:sandpaper'])
+
+                    ]).loops(1).transitionalItem('nyagibits_bytes:raw_clustered_beryl')
+
+                    event.recipes.createCrushing(['4x chemlib:aluminum_dust',
+                                                  Item.of('nyagibits_bytes:pezzottaite_dust').withChance(0.75),
+                                                  Item.of('nyagibits_bytes:bixbite_dust').withChance(0.75),
+                                                  Item.of('nyagibits_bytes:goshenite_dust').withChance(0.75),
+                                                  Item.of('nyagibits_bytes:heliodor_dust').withChance(0.75),
+                                                  Item.of('nyagibits_bytes:morganite_dust').withChance(0.75),
+                                                  Item.of('nyagibits_bytes:aquamarine_dust').withChance(0.75),
+                                                  Item.of('thermal:emerald_dust').withChance(0.75)],'nyagibits_bytes:raw_clustered_beryl')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Cryolite
+            //Tier 0 - Aluminum
+                event.smelting('chemlib:aluminum_ingot', 'nyagibits_bytes:raw_cryolite')
+            //Tier 1 - 3(Aluminum), Fluorite
+                event.recipes.createCrushing(['3x create:crushed_raw_aluminum','mekanism:dust_fluorite'],'nyagibits_bytes:raw_cryolite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Spinel
+            //Tier 0 - Aluminum
+                event.recipes.create.compacting(['create:crushed_raw_zinc'], 'nyagibits_bytes:raw_spinel')
+            //Tier 1 - 3(Aluminum), Magnesium
+                event.recipes.createCrushing(['3x create:crushed_raw_aluminum','chemlib:magnesium_dust'],'nyagibits_bytes:raw_spinel')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Turquoise
+            //Tier 0 - Aluminum
+                event.smelting('chemlib:aluminum_ingot', 'nyagibits_bytes:raw_turquoise')
+            //Tier 1 - 3(Aluminum), Magnesium
+                event.recipes.createCrushing(['3x create:crushed_raw_aluminum','chemlib:phosphate_dust'],'nyagibits_bytes:raw_turquoise')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Garnet Slush
+            //Tier 0 - Silicon
+                event.recipes.create.compacting(['chemlib:silicon_dust'], 'nyagibits_bytes:raw_garnet_slush')
+            //Tier 1 - 3(Silicon), Aluminum
+                event.recipes.createCrushing(['3x chemlib:silicon_dust','create:crushed_raw_aluminum'],'nyagibits_bytes:raw_garnet_slush')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+        //Native Aluminum
+            //Tier 0 - Aluminum
+                event.smelting('chemlib:aluminum_ingot', 'nyagibits_bytes:raw_native_aluminum')
+            //Tier 1 - 3(Aluminum), Aluminum
+                event.recipes.createCrushing(['3x create:crushed_raw_aluminum','create:crushed_raw_aluminum'],'nyagibits_bytes:raw_native_aluminum')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
         
         
 })

@@ -82,6 +82,7 @@
 				tag: { }
 			}
 			id: "2C473A2432696109"
+			shape: "hexagon"
 			tasks: [{
 				id: "127C63548C3099FF"
 				title: "Recipe Scaling"

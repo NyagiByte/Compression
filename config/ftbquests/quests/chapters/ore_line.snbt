@@ -1553,6 +1553,7 @@
 				"               Bixbite Dust &cx1/4&r,"
 				"               Pezzottaite Dust &cx1/4&r"
 				"&6Tier 1 Yield:&r"
+				"               &bNote: The yields show up as x12 to account for the % being lower to be about x3/7"
 				"               Emerald &cx3/7&r,"
 				"               Aquamarine &cx3/7&r,"
 				"               Morganite &cx3/7&r,"
@@ -1582,6 +1583,12 @@
 		}
 		{
 			dependencies: ["759B1A3F42003E45"]
+			description: [
+				"A rather handy form of aluminum ore. The molten form of cryolite is able to dissolve other aluminum oxides fairly readily making extraction more efficient."
+				""
+				"&6Tier 0 Yield:&r Aluminum"
+				"&6Tier 1 Yield:&r Fluorite"
+			]
 			id: "651F9F142E28AD88"
 			shape: "hexagon"
 			tasks: [{
@@ -1594,6 +1601,12 @@
 		}
 		{
 			dependencies: ["759B1A3F42003E45"]
+			description: [
+				"A magnesium aluminum gemstone. Name crom the Latin word &ospinella&r basically meaning \"spine\""
+				""
+				"&6Tier 0 Yield:&r Aluminum"
+				"&6Tier 1 Yield:&r Magnesium"
+			]
 			id: "0C91D3E9BA31DE22"
 			shape: "hexagon"
 			tasks: [{
@@ -1606,6 +1619,12 @@
 		}
 		{
 			dependencies: ["759B1A3F42003E45"]
+			description: [
+				"A hydrous phosphate copper-aluminum mineral, and contrary to the color, does not taste like a gogurt"
+				""
+				"&6Tier 0 Yield:&r Aluminum"
+				"&6Tier 1 Yield:&r Phosphate"
+			]
 			id: "4B27BAC7F959BE2C"
 			shape: "hexagon"
 			tasks: [{
@@ -1618,6 +1637,12 @@
 		}
 		{
 			dependencies: ["759B1A3F42003E45"]
+			description: [
+				"A lump of pulverized rock ideal for abrasive. There are many flavors of garnet including pyrope, almandine, spessartine, grossular, uvarovite, and andradite. Unfortunetly this slurry is ground very fine which would require significant chemical work to restore the gemstones."
+				""
+				"&6Tier 0 Yield:&r Silicon"
+				"&6Tier 1 Yield:&r Aluminum"
+			]
 			id: "04DC460DCA55F630"
 			shape: "hexagon"
 			tasks: [{
@@ -1630,6 +1655,12 @@
 		}
 		{
 			dependencies: ["759B1A3F42003E45"]
+			description: [
+				"A very rare form of aluminum typically, tho &cit seems to be rather abundant here for whatever reason"
+				""
+				"&6Tier 0 Yield:&r Aluminum"
+				"&6Tier 1 Yield:&r Aluminum"
+			]
 			id: "7C5510AA99CE7626"
 			shape: "hexagon"
 			tasks: [{
@@ -2336,7 +2367,7 @@
 				}
 				type: "item"
 			}]
-			title: "Stintering"
+			title: "Sintering"
 			x: -10.5d
 			y: -4.0d
 		}
