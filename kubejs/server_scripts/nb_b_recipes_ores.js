@@ -1240,6 +1240,162 @@ ServerEvents.recipes(event => {
                //Tier 13
                //Tier 14
                //Tier 15
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //Zinc
+        //Zinc Carbonate
+            //Tier 0 - Zinc
+                event.smelting('create:zinc_ingot', 'nyagibits_bytes:raw_zinc_carbonate')
+            //Tier 1 - 3(Zinc), Zinc
+                event.recipes.createCrushing(['3x create:crushed_raw_zinc','create:crushed_raw_zinc'],'nyagibits_bytes:raw_zinc_carbonate')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Sphalterite
+            //Tier 0 - Zinc
+                event.smelting('create:zinc_ingot', 'nyagibits_bytes:raw_sphalerite')
+            //Tier 1 - 3(Zinc), Sulfur
+                event.recipes.createCrushing(['3x create:crushed_raw_zinc','thermal:sulfur_dust'],'nyagibits_bytes:raw_sphalerite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Smithsonite
+            //Tier 0 - Zinc
+                event.smelting('create:zinc_ingot', 'nyagibits_bytes:raw_smithsonite')
+            //Tier 1 - 3(Zinc), Zinc
+                event.recipes.createCrushing(['3x create:crushed_raw_zinc','create:crushed_raw_zinc'],'nyagibits_bytes:raw_smithsonite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Hemimorphite
+            //Tier 0 - Zinc
+                event.recipes.create.compacting(['create:crushed_raw_zinc'], 'nyagibits_bytes:raw_hemimorphite')
+            //Tier 1 - 3(Zinc), Zinc
+                event.recipes.createCrushing(['3x create:crushed_raw_zinc','create:crushed_raw_zinc'],'nyagibits_bytes:raw_hemimorphite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Wurtzite
+            //Tier 0 - Zinc
+                event.smelting('create:zinc_ingot', 'nyagibits_bytes:raw_wurtzite')
+            //Tier 1 - 3(Zinc), Iron
+                event.recipes.createCrushing(['3x create:crushed_raw_zinc','create:crushed_raw_iron'],'nyagibits_bytes:raw_wurtzite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Hydrozincite
+            //Tier 0 - Zinc
+                event.recipes.create.compacting(['create:crushed_raw_zinc'], 'nyagibits_bytes:raw_hydrozincite')
+            //Tier 1 - 3(Zinc), Carbon
+                event.recipes.createCrushing(['3x create:crushed_raw_zinc','chemlib:carbon_dust'],'nyagibits_bytes:raw_hydrozincite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Willemite
+            //Tier 0 - Zinc
+                event.recipes.create.compacting(['create:crushed_raw_zinc'], 'nyagibits_bytes:raw_willemite')
+            //Tier 1 - 3(Zinc), Silicon
+                event.recipes.createCrushing(['3x create:crushed_raw_zinc','chemlib:silicon_dust'],'nyagibits_bytes:raw_willemite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Franklinite
+            //Tier 0 - Zinc
+                event.smelting('create:zinc_ingot', 'nyagibits_bytes:raw_franklinite')
+            //Tier 1 - 3(Zinc), Iron
+                event.recipes.createCrushing(['3x create:crushed_raw_zinc','create:crushed_raw_iron'],'nyagibits_bytes:raw_franklinite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
         
         
 })

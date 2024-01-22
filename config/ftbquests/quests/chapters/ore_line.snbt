@@ -1343,6 +1343,12 @@
 		}
 		{
 			dependencies: ["0EE36446F98AA6C3"]
+			description: [
+				"A large lump of easy to refine zinc. Not a true ore as it used to be called Calamine in the past, but that doesn't stop it from being here"
+				""
+				"&6Tier 0 Yield:&r Zinc"
+				"&6Tier 1 Yield:&r Zinc"
+			]
 			id: "669C7D07D11F0370"
 			shape: "hexagon"
 			tasks: [{
@@ -1355,6 +1361,12 @@
 		}
 		{
 			dependencies: ["0EE36446F98AA6C3"]
+			description: [
+				"A rather pretty ore sporting cubic formations of zinc suldife embeded within the rock"
+				""
+				"&6Tier 0 Yield:&r Zinc"
+				"&6Tier 1 Yield:&r Sulfur"
+			]
 			id: "1C2FC24938509385"
 			shape: "hexagon"
 			tasks: [{
@@ -1367,6 +1379,12 @@
 		}
 		{
 			dependencies: ["0EE36446F98AA6C3"]
+			description: [
+				"Also known as zinc spar, a fairly commong way to source zinc. Tho it's probably too raw in this state to use it to help your flu symptoms "
+				""
+				"&6Tier 0 Yield:&r Zinc"
+				"&6Tier 1 Yield:&r Zinc"
+			]
 			id: "7EAF8DC491432E9E"
 			shape: "hexagon"
 			tasks: [{
@@ -1379,6 +1397,12 @@
 		}
 		{
 			dependencies: ["0EE36446F98AA6C3"]
+			description: [
+				"A crystal primarily comprised of zinc with silicates. Often found along side lead"
+				""
+				"&6Tier 0 Yield:&r Zinc"
+				"&6Tier 1 Yield:&r Zinc"
+			]
 			id: "287B3BBDBF72A30E"
 			shape: "hexagon"
 			tasks: [{
@@ -1391,6 +1415,12 @@
 		}
 		{
 			dependencies: ["0EE36446F98AA6C3"]
+			description: [
+				"A zinc-iron sulfide mineral. A structural polymorph of sphalerite, and thus the yields are somewhat similar"
+				""
+				"&6Tier 0 Yield:&r Zinc"
+				"&6Tier 1 Yield:&r Iron"
+			]
 			id: "257E7A429EA1164D"
 			shape: "hexagon"
 			tasks: [{
@@ -1403,6 +1433,12 @@
 		}
 		{
 			dependencies: ["0EE36446F98AA6C3"]
+			description: [
+				"Also known as a zinc bloom, this is a carbonate mineral containing large amounts of zinc"
+				""
+				"&6Tier 0 Yield:&r Zinc"
+				"&6Tier 1 Yield:&r Carbon"
+			]
 			id: "0747D7AC8FE28016"
 			shape: "hexagon"
 			tasks: [{
@@ -1415,6 +1451,12 @@
 		}
 		{
 			dependencies: ["0EE36446F98AA6C3"]
+			description: [
+				"A Zing silicate mineral that demonstrates strong fluorescence under shortwave uv light, which made it used in first generation fluorescent tube phosphors"
+				""
+				"&6Tier 0 Yield:&r Zinc"
+				"&6Tier 1 Yield:&r Silicon"
+			]
 			id: "23DCA8552C6A5418"
 			shape: "hexagon"
 			tasks: [{
@@ -2316,6 +2358,8 @@
 				"&6Each ore listed below is grouped per major type as well as detailing all side products unlocked per tier"
 				""
 				"&aMining of the ores is detailed in the center locked behind pickaxe tiers"
+				""
+				"&6Also most of the descriptions are from wiki so if something is wrong yell at them not me"
 			]
 			icon: "thermal:drill_head"
 			id: "55F62F8F0F606A69"
