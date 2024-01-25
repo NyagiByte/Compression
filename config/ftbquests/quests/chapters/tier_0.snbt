@@ -131,6 +131,7 @@
 			y: 9.0d
 		}
 		{
+			dependencies: ["64859B912D563011"]
 			dependency_requirement: "one_completed"
 			description: ["Salty water, strips of metal, and a flammable ball of wool, perfect to catch a spark"]
 			id: "710B939C28B99198"
@@ -144,6 +145,7 @@
 			y: 8.0d
 		}
 		{
+			dependencies: ["64859B912D563011"]
 			description: ["A box of dirt, give it a good smush"]
 			id: "4E4521C606190636"
 			shape: "hexagon"
@@ -156,6 +158,7 @@
 			y: 7.5d
 		}
 		{
+			dependencies: ["64859B912D563011"]
 			description: ["A pouch of very spicy powder"]
 			id: "6A7830EE46C1F225"
 			shape: "hexagon"
@@ -283,6 +286,7 @@
 			y: 8.5d
 		}
 		{
+			dependencies: ["64859B912D563011"]
 			description: ["The juiced up pulp of tomatoes and cabbages, natural sources of basic pH testing"]
 			id: "73BBDB52CEA06B8A"
 			shape: "hexagon"
@@ -295,6 +299,7 @@
 			y: 7.5d
 		}
 		{
+			dependencies: ["64859B912D563011"]
 			description: ["A pouch of nature stuff and some mixed soil, question remains if this mod is magic or tech.."]
 			id: "63572758F873D9AA"
 			shape: "hexagon"
@@ -681,6 +686,7 @@
 			y: -3.0d
 		}
 		{
+			dependencies: ["12356B8E644A1A52"]
 			description: ["Smooth out those bumps and lumps"]
 			icon: {
 				Count: 1b
