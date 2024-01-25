@@ -645,6 +645,11 @@ file = "mods/Create-Construction-Wands.zip"
 hash = "a0d23a32a13d95434239dcf16a5334489be694e3c13cd6384021d17220eadb34"
 
 [[files]]
+file = "mods/abyssal-decor.pw.toml"
+hash = "e0e3deb42bbf9021c4edd45b6cb9d6ce8732955658b33f7895295fbd22ceb3a3"
+metafile = true
+
+[[files]]
 file = "mods/aiot-botania.pw.toml"
 hash = "723812c4e90ded3d2e5ef2fe09eebe48cf38a68ca87b601ad68b64c7d1b163a1"
 metafile = true
