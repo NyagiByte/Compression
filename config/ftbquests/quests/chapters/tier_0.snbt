@@ -1,6 +1,6 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: ""
+	default_quest_shape: "hexagon"
 	filename: "tier_0"
 	group: ""
 	icon: "ae2:controller"
@@ -77,10 +77,8 @@
 			y: 10.5d
 		}
 		{
-			dependencies: ["64859B912D563011"]
+			dependencies: ["7E87A032289F7370"]
 			description: ["Ah it's just like elementary school again, don't forget your table of contents"]
-			hide_dependency_lines: true
-			hide_dependent_lines: true
 			id: "7E8C5DB4A0CC311A"
 			shape: "hexagon"
 			tasks: [{
@@ -182,7 +180,7 @@
 			}]
 			title: "Need something to write with after all"
 			x: 0.5d
-			y: 6.0d
+			y: 6.5d
 		}
 		{
 			dependencies: [
@@ -451,8 +449,8 @@
 				type: "item"
 			}]
 			title: "Look what I can do! *Points*"
-			x: 0.5d
-			y: 4.0d
+			x: 0.5006802721088732d
+			y: 4.592006802721102d
 		}
 		{
 			dependencies: ["741704A82A2C1227"]
@@ -466,7 +464,7 @@
 			}]
 			title: "What if we made crafting but bigger"
 			x: 0.5d
-			y: 2.0d
+			y: 2.5d
 		}
 		{
 			dependencies: [
@@ -475,7 +473,6 @@
 				"1BD36FA92BAF1CAC"
 				"4CBFDFBD1A71E6B4"
 				"4FFC0930D0539B28"
-				"4D339608203DD4F6"
 				"02903DDEA28657F2"
 			]
 			description: ["A box with all sorts of goodies for more complex machinery"]
@@ -488,7 +485,7 @@
 			}]
 			title: "All the bits and bobs"
 			x: 0.5d
-			y: 1.0d
+			y: 0.5d
 		}
 		{
 			dependencies: [
@@ -508,8 +505,8 @@
 				type: "item"
 			}]
 			title: "Upgrading already?!"
-			x: 2.5d
-			y: 2.0d
+			x: 0.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["4B89973C8D23D164"]
@@ -522,14 +519,11 @@
 				type: "item"
 			}]
 			title: "If You Can Dodge a Wrench..."
-			x: 3.5d
-			y: 1.0d
+			x: 0.5d
+			y: -0.5d
 		}
 		{
-			dependencies: [
-				"02903DDEA28657F2"
-				"4D339608203DD4F6"
-			]
+			dependencies: ["02903DDEA28657F2"]
 			description: ["&6I was forced by chat to give it this title I'm very sorry"]
 			id: "4B89973C8D23D164"
 			shape: "hexagon"
@@ -539,8 +533,8 @@
 				type: "item"
 			}]
 			title: "Bonking your Concussy"
-			x: -2.0d
-			y: -2.0d
+			x: 0.0d
+			y: -2.5d
 		}
 		{
 			dependencies: [
@@ -564,8 +558,8 @@
 				}
 			]
 			title: "WHISK VIGOROUSLY"
-			x: -2.0d
-			y: 0.0d
+			x: -0.5d
+			y: -1.5d
 		}
 		{
 			dependencies: [
@@ -587,22 +581,8 @@
 				type: "item"
 			}]
 			title: "A Very Angry Box"
-			x: -1.5d
-			y: -1.0d
-		}
-		{
-			dependencies: ["4296F49981434BC7"]
-			description: ["Crush many things much quicker, plus unlocking new &bore line &rrecipes to boost yields!"]
-			id: "1C4899BD021DCC2C"
-			shape: "hexagon"
-			tasks: [{
-				id: "49FB3BC29E6E3BE9"
-				item: "create:crushing_wheel"
-				type: "item"
-			}]
-			title: "The Player Jam Maker"
-			x: -1.5d
-			y: 2.0d
+			x: 1.0d
+			y: -2.5d
 		}
 		{
 			dependencies: [
@@ -635,8 +615,8 @@
 				}
 			]
 			title: "Expensive but Necessary"
-			x: -2.5d
-			y: 1.0d
+			x: 1.5d
+			y: -1.5d
 		}
 		{
 			dependencies: [
@@ -653,22 +633,23 @@
 			}]
 			title: "Mechanical Fun"
 			x: 0.5d
-			y: -1.0d
+			y: -3.5d
 		}
 		{
-			dependencies: ["6F66FCCD63752DC8"]
+			dependencies: ["4D339608203DD4F6"]
 			description: ["&cWhat a mess.. There are other dimensions biomes here. Could be useful"]
 			icon: "minecraft:blaze_spawn_egg"
 			id: "0AC123B7AB13C51E"
 			shape: "hexagon"
+			size: 1.5d
 			tasks: [{
 				id: "5A690B875B57527B"
 				item: "minecraft:netherrack"
 				type: "item"
 			}]
 			title: "A Fortress of Fire"
-			x: -1.5d
-			y: -3.0d
+			x: -0.5714285714285836d
+			y: -3.810374149659843d
 		}
 		{
 			dependencies: ["4D339608203DD4F6"]
@@ -676,14 +657,15 @@
 			icon: "minecraft:creeper_head"
 			id: "1F07598A05563B29"
 			shape: "hexagon"
+			size: 1.5d
 			tasks: [{
 				id: "35DBAAAABE58EAF2"
 				item: "pneumaticcraft:ingot_iron_compressed"
 				type: "item"
 			}]
 			title: "An Explosive Puzzle"
-			x: -0.5d
-			y: -3.0d
+			x: 1.5952380952380807d
+			y: -3.810374149659843d
 		}
 		{
 			dependencies: ["12356B8E644A1A52"]
@@ -716,11 +698,14 @@
 				}
 			]
 			title: "Elbow Grease"
-			x: 0.5d
-			y: -3.0d
+			x: -0.5d
+			y: -5.5d
 		}
 		{
-			dependencies: ["5CFD9FE2895407B0"]
+			dependencies: [
+				"5CFD9FE2895407B0"
+				"4D339608203DD4F6"
+			]
 			description: ["Not to be confused for the space dictator"]
 			id: "4FFC0930D0539B28"
 			shape: "hexagon"
@@ -730,8 +715,8 @@
 				type: "item"
 			}]
 			title: "OOOO Shiny"
-			x: 3.0d
-			y: 0.0d
+			x: 0.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["001D3CBD7E6EA142"]
@@ -760,8 +745,8 @@
 				}
 			]
 			title: "Living Blocks and You!"
-			x: 1.5d
-			y: -3.0d
+			x: 0.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["5E7D0899ECE970A7"]
@@ -773,8 +758,8 @@
 				type: "item"
 			}]
 			title: "Pretty Flowa"
-			x: 2.5d
-			y: -3.0d
+			x: 0.5d
+			y: -7.5d
 		}
 		{
 			dependencies: ["6F66FCCD63752DC8"]
@@ -793,8 +778,8 @@
 				type: "item"
 			}]
 			title: "The picaxlhoe, The axickvle, The..."
-			x: 2.5d
-			y: -1.0d
+			x: 0.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["12356B8E644A1A52"]
@@ -813,8 +798,8 @@
 				type: "item"
 			}]
 			title: "Finally Digging!"
-			x: 3.0d
-			y: -2.0d
+			x: 1.5d
+			y: -5.5d
 		}
 		{
 			description: ["A lil pool of water for plants and various sludges"]
@@ -828,8 +813,8 @@
 				type: "item"
 			}]
 			title: "The Start"
-			x: 0.5d
-			y: -5.0d
+			x: 0.5051020408163183d
+			y: -9.1812925170068d
 		}
 	]
 	title: "Tier 0 - Learning the Ropes"

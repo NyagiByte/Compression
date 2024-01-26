@@ -42,7 +42,7 @@ hash = "83192c66715f399defe1117525f0dcee4ede837fcbafbe380b8f1d11190e9f35"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "6c19538fa2a8bd0ed9b06c6d9152a6e35153104adf8438566cf0de1f11be9f75"
+hash = "d8bf6543527bda83d4b10b32a0f80345e18ed7af401eb9c4e2c16745df57d410"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"
@@ -54,7 +54,7 @@ hash = "dcd73b13354e8021a01c48f0a2c884d18c7f830f1fb8d0fe3cf159fd9afa91a1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
-hash = "46d24b0874a09a9540fbf05b54fc2477beb09de8e9354c5c93cd3a8bf5f65107"
+hash = "6e319128916716c40d742b4c3ec8d3ffe4a384c123c3cd0eee513fb06cff6916"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
@@ -126,7 +126,7 @@ hash = "135fa9b3a3063ad8ab5b52924250c1ea9a10827ffac82e62eb20e4ec9a9748b5"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "4da9a893ddd5672427a9604000b1f708344512ea755dcc9d0c3fc2345c452dd1"
+hash = "3d9f856f3de077e3d09d71aef48f4ce95035ed3f9a7966cd537e938d28dd4eba"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"

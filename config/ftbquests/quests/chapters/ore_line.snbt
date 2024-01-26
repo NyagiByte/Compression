@@ -60,10 +60,7 @@
 			y: -3.0d
 		}
 		{
-			dependencies: [
-				"531EE69871EFB610"
-				"1C4899BD021DCC2C"
-			]
+			dependencies: ["531EE69871EFB610"]
 			description: [
 				"Quadruplicating your ores already! Feels nice ey?"
 				""
