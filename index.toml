@@ -955,6 +955,11 @@ hash = "6bd7068b5350d68cf36658290368084fe9fa3caf18f39553648710e875729d8d"
 metafile = true
 
 [[files]]
+file = "mods/nuclearcraft-neoteric.pw.toml"
+hash = "a64a7f239c438513d1f92766d353cfe547b9a03eaa33b53c937e179bac2ca406"
+metafile = true
+
+[[files]]
 file = "mods/nyagibits_bytes-0.0.1-1.19.2.jar"
 hash = "4f65b153a0769e8eeb7422bc58340e15d8f8efdd1eb290668bc10d28e4f9a7c1"
 
