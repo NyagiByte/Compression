@@ -1605,7 +1605,812 @@ ServerEvents.recipes(event => {
             //Tier 13
             //Tier 14
             //Tier 15
-        
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //Lead
+        //Galena
+            //Tier 0 - Lead
+            event.smelting('thermal:lead_ingot', 'nyagibits_bytes:raw_galena')
+            //Tier 1 - 3(Lead), Sulfur
+                event.recipes.createCrushing(['3x create:crushed_raw_lead','thermal:sulfur_dust'],'nyagibits_bytes:raw_galena')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Lead Sulphide
+            //Tier 0 - Lead
+            event.smelting('thermal:lead_ingot', 'nyagibits_bytes:raw_lead_sulphide')
+            //Tier 1 - 3(Lead), Sulfur
+                event.recipes.createCrushing(['3x create:crushed_raw_lead','thermal:sulfur_dust'],'nyagibits_bytes:raw_lead_sulphide')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Pyromorphite
+            //Tier 0 - Lead
+            event.smelting('thermal:lead_ingot', 'nyagibits_bytes:raw_pyromorphite')
+            //Tier 1 - 3(Lead), Phosphorus
+                event.recipes.createCrushing(['3x create:crushed_raw_lead','chemlib:phosphorus_dust'],'nyagibits_bytes:raw_pyromorphite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Cerussite
+            //Tier 0 - Lead
+            event.smelting('thermal:lead_ingot', 'nyagibits_bytes:raw_cerussite')
+            //Tier 1 - 3(Lead), Phosphorus
+                event.recipes.createCrushing(['3x create:crushed_raw_lead','create:crushed_raw_lead'],'nyagibits_bytes:raw_cerussite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Cerussite
+            //Tier 0 - Lead
+            event.smelting('thermal:lead_ingot', 'nyagibits_bytes:raw_cerussite')
+            //Tier 1 - 3(Lead), Phosphorus
+                event.recipes.createCrushing(['3x create:crushed_raw_lead','create:crushed_raw_lead'],'nyagibits_bytes:raw_cerussite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Anglesite
+            //Tier 0 - Lead
+            event.smelting('thermal:lead_ingot', 'nyagibits_bytes:raw_anglesite')
+            //Tier 1 - 3(Lead), Sulfur
+                event.recipes.createCrushing(['3x create:crushed_raw_lead','thermal:sulfur_dust'],'nyagibits_bytes:raw_anglesite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Wulfenite
+            //Tier 0 - Lead
+            event.smelting('thermal:lead_ingot', 'nyagibits_bytes:raw_wulfenite')
+            //Tier 1 - 3(Lead), Molybdenum
+                event.recipes.createCrushing(['3x create:crushed_raw_lead','chemlib:molybdenum_dust'],'nyagibits_bytes:raw_wulfenite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Vanadinite
+            //Tier 0 - Lead
+            event.smelting('thermal:lead_ingot', 'nyagibits_bytes:raw_vanadinite')
+            //Tier 1 - 3(Lead), Vanadium
+                event.recipes.createCrushing(['3x create:crushed_raw_lead','chemlib:vanadium_dust'],'nyagibits_bytes:raw_vanadinite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Mimetite
+            //Tier 0 - Lead
+            event.smelting('thermal:lead_ingot', 'nyagibits_bytes:raw_mimetite')
+            //Tier 1 - 3(Lead), Arsenic
+                event.recipes.createCrushing(['3x create:crushed_raw_lead','chemlib:arsenic_dust'],'nyagibits_bytes:raw_mimetite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //Nickel
+        //Pentlandite
+            //Tier 0 - Nickel
+            event.smelting('thermal:nickel_ingot', 'nyagibits_bytes:raw_pentlandite')
+            //Tier 1 - 3(Nickel), 3(Iron)
+                event.recipes.createCrushing(['3x create:crushed_raw_nickel','3x create:crushed_raw_iron'],'nyagibits_bytes:raw_pentlandite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Garnierite
+            //Tier 0 - Nickel
+            event.smelting('thermal:nickel_ingot', 'nyagibits_bytes:raw_garnierite')
+            //Tier 1 - 3(Nickel), Granite
+                event.recipes.createCrushing(['3x create:crushed_raw_nickel','minecraft:granite'],'nyagibits_bytes:raw_garnierite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Saprolite
+            //Tier 0 - Nickel
+            event.smelting('thermal:nickel_ingot', 'nyagibits_bytes:raw_saprolite')
+            //Tier 1 - 3(Nickel), 0.1(Bog Iron)
+                event.recipes.createCrushing(['3x create:crushed_raw_nickel',
+                                            Item.of('nyagibits_bytes:raw_bog_iron').withChance(0.1)],'nyagibits_bytes:raw_saprolite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Millerite
+            //Tier 0 - Nickel
+            event.smelting('thermal:nickel_ingot', 'nyagibits_bytes:raw_millerite')
+            //Tier 1 - 3(Nickel), 0.1(Pyrite)
+                event.recipes.createCrushing(['3x create:crushed_raw_nickel',
+                                            Item.of('nyagibits_bytes:raw_pyrite').withChance(0.1)],'nyagibits_bytes:raw_millerite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Hardened Sulfide Flow
+            //Tier 0 - Sulfur
+                event.recipes.create.compacting(['thermal:sulfur_dust'], 'nyagibits_bytes:raw_hardened_sulfide_flow')
+            //Tier 1 - 3(Sulfur), Nickel
+                event.recipes.createCrushing(['3x thermal:sulfur_dust','create:crushed_raw_nickel'],'nyagibits_bytes:raw_hardened_sulfide_flow')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Nickeline
+            //Tier 0 - Nickel
+                event.smelting('thermal:nickel_ingot', 'nyagibits_bytes:raw_nickeline')
+            //Tier 1 - 3(Nickel), Arsenic
+                event.recipes.createCrushing(['3x create:crushed_raw_nickel','chemlib:arsenic_dust'],'nyagibits_bytes:raw_nickeline')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Taenite
+            //Tier 0 - Nickel
+                event.smelting('thermal:nickel_ingot', 'nyagibits_bytes:raw_meteoric_taenite')
+            //Tier 1 - 3(Nickel), 0.1(Meteoric Iron)
+                event.recipes.createCrushing(['3x create:crushed_raw_nickel',
+                                            Item.of('nyagibits_bytes:raw_meteoric_iron').withChance(0.1)],'nyagibits_bytes:raw_meteoric_taenite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Kamacite
+            //Tier 0 - Nickel
+                    event.smelting('thermal:nickel_ingot', 'nyagibits_bytes:raw_meteoric_kamacite')
+                //Tier 1 - 3(Nickel), 0.1(Meteoric Iron), 0.5(Cobalt)
+                    event.recipes.createCrushing(['3x create:crushed_raw_nickel',
+                                                Item.of('nyagibits_bytes:raw_meteoric_iron').withChance(0.1),
+                                                Item.of('chemlib:cobalt_dust').withChance(0.5)],'nyagibits_bytes:raw_meteoric_kamacite')
+                //Tier 2
+                //Tier 3
+                //Tier 4
+                //Tier 5
+                //Tier 6
+                //Tier 7
+                //Tier 8
+                //Tier 9
+                //Tier 10
+                //Tier 11
+                //Tier 12
+                //Tier 13
+                //Tier 14
+                //Tier 15
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //Uranium & Thorium
+        //Pitchblende
+            //Tier 0 - Uranium
+                event.recipes.create.compacting(['create:crushed_raw_uranium'],'nyagibits_bytes:raw_pitchblende')
+            //Tier 1 - 3(Uranium), Cadmium
+                event.recipes.createCrushing(['3x create:crushed_raw_uranium','chemlib:cadmium_dust'],'nyagibits_bytes:raw_pitchblende')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Carnotite
+            //Tier 0 - 2(Uranium)
+                event.recipes.create.compacting(['chemlib:potassium_dust'],'nyagibits_bytes:raw_carnotite')
+            //Tier 1 - 3(Potassium), Uranium
+                event.recipes.createCrushing(['3x chemlib:potassium_dust','chemlib:cadmium_dust'],'nyagibits_bytes:raw_carnotite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Tyuyamunite
+            //Tier 0 - 2(Uranium)
+                event.recipes.create.compacting(['create:crushed_raw_uranium'],'nyagibits_bytes:raw_tyuyamunite')
+            //Tier 1 - 6(Uranium), Calcium
+                event.recipes.createCrushing(['6x create:crushed_raw_uranium','chemlib:calcium_dust'],'nyagibits_bytes:raw_tyuyamunite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Torbernite
+            //Tier 0 - Copper
+                event.recipes.create.compacting(['create:crushed_raw_copper'],'nyagibits_bytes:raw_torbernite')
+            //Tier 1 - 3(Copper), Uranium
+                event.recipes.createCrushing(['3x create:crushed_raw_copper','create:crushed_raw_uranium'],'nyagibits_bytes:raw_torbernite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Autunite
+            //Tier 0 - Phosphorus
+                event.recipes.create.compacting(['chemlib:phosphorus_dust'],'nyagibits_bytes:raw_autunite')
+            //Tier 1 - 3(Phosphorus), Uranium
+                event.recipes.createCrushing(['3x chemlib:phosphorus_dust','create:crushed_raw_uranium'],'nyagibits_bytes:raw_autunite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Thorite
+            //Tier 0 - Thorium
+                event.recipes.create.compacting('chemlib:thorium_dust','nyagibits_bytes:raw_thorite')
+            //Tier 1 - 3(Thorium), Silicon
+                event.recipes.createCrushing(['3x chemlib:thorium_dust','chemlib:silicon_dust'],'nyagibits_bytes:raw_thorite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Uranothorite
+            //Tier 0 - Thorium
+                event.recipes.create.compacting(['chemlib:thorium_dust'],'nyagibits_bytes:raw_uranothorite')
+            //Tier 1 - 3(Thorium), Silicon
+                event.recipes.createCrushing(['3x chemlib:thorium_dust','create:crushed_raw_uranium'],'nyagibits_bytes:raw_uranothorite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Thorianite
+            //Tier 0 - Thorium
+                event.recipes.create.compacting(['chemlib:thorium_dust'],'nyagibits_bytes:raw_thorianite')
+            //Tier 1 - 3(Thorium), Thorium
+                event.recipes.createCrushing(['3x chemlib:thorium_dust','chemlib:thorium_dust'],'nyagibits_bytes:raw_thorianite')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //Tin
+        //Cassiterite
+            //Tier 0 - Tin
+                    event.smelting('thermal:tin_ingot','nyagibits_bytes:raw_cassiterite')
+                //Tier 1 - 3(Tin), Tin
+                    event.recipes.createCrushing(['3x create:crushed_raw_tin','create:crushed_raw_tin'],'nyagibits_bytes:raw_cassiterite')
+                //Tier 2
+                //Tier 3
+                //Tier 4
+                //Tier 5
+                //Tier 6
+                //Tier 7
+                //Tier 8
+                //Tier 9
+                //Tier 10
+                //Tier 11
+                //Tier 12
+                //Tier 13
+                //Tier 14
+                //Tier 15
+        //Stannite
+            //Tier 0 - Tin
+                    event.smelting('thermal:tin_ingot','nyagibits_bytes:raw_stannite')
+                //Tier 1 - 3(Tin), Copper
+                    event.recipes.createCrushing(['3x create:crushed_raw_tin','create:crushed_raw_copper'],'nyagibits_bytes:raw_stannite')
+                //Tier 2
+                //Tier 3
+                //Tier 4
+                //Tier 5
+                //Tier 6
+                //Tier 7
+                //Tier 8
+                //Tier 9
+                //Tier 10
+                //Tier 11
+                //Tier 12
+                //Tier 13
+                //Tier 14
+                //Tier 15
+        //Cylindrite
+            //Tier 0 - Tin
+                    event.smelting('thermal:tin_ingot','nyagibits_bytes:raw_cylindrite')
+                //Tier 1 - 3(Tin), Lead
+                    event.recipes.createCrushing(['3x create:crushed_raw_tin','create:crushed_raw_lead'],'nyagibits_bytes:raw_cylindrite')
+                //Tier 2
+                //Tier 3
+                //Tier 4
+                //Tier 5
+                //Tier 6
+                //Tier 7
+                //Tier 8
+                //Tier 9
+                //Tier 10
+                //Tier 11
+                //Tier 12
+                //Tier 13
+                //Tier 14
+                //Tier 15
+        //Franckeite
+            //Tier 0 - Tin
+                    event.smelting('thermal:tin_ingot','nyagibits_bytes:raw_franckeite')
+                //Tier 1 - 3(Tin), Silver
+                    event.recipes.createCrushing(['3x create:crushed_raw_tin','create:crushed_raw_silver'],'nyagibits_bytes:raw_franckeite')
+                //Tier 2
+                //Tier 3
+                //Tier 4
+                //Tier 5
+                //Tier 6
+                //Tier 7
+                //Tier 8
+                //Tier 9
+                //Tier 10
+                //Tier 11
+                //Tier 12
+                //Tier 13
+                //Tier 14
+                //Tier 15
+        //Canfieldite
+            //Tier 0 - Silver
+                    event.smelting('thermal:silver_ingot','nyagibits_bytes:raw_canfieldite')
+                //Tier 1 - 3(Silver), Tin
+                    event.recipes.createCrushing(['3x create:crushed_raw_silver','create:crushed_raw_tin'],'nyagibits_bytes:raw_canfieldite')
+                //Tier 2
+                //Tier 3
+                //Tier 4
+                //Tier 5
+                //Tier 6
+                //Tier 7
+                //Tier 8
+                //Tier 9
+                //Tier 10
+                //Tier 11
+                //Tier 12
+                //Tier 13
+                //Tier 14
+                //Tier 15
+        //Teallite
+            //Tier 0 - Tin
+                    event.smelting('thermal:tin_ingot','nyagibits_bytes:raw_teallite')
+                //Tier 1 - 3(Tin), Sulfur
+                    event.recipes.createCrushing(['3x create:crushed_raw_tin','thermal:sulfur_dust'],'nyagibits_bytes:raw_teallite')
+                //Tier 2
+                //Tier 3
+                //Tier 4
+                //Tier 5
+                //Tier 6
+                //Tier 7
+                //Tier 8
+                //Tier 9
+                //Tier 10
+                //Tier 11
+                //Tier 12
+                //Tier 13
+                //Tier 14
+                //Tier 15
+        //Brannerite
+            //Tier 0 - Tin
+                    event.recipes.create.compacting(['create:crushed_raw_tin'],'nyagibits_bytes:raw_brannerite')
+                //Tier 1 - 3(Tin), Granite
+                    event.recipes.createCrushing(['3x create:crushed_raw_tin','minecraft:granite'],'nyagibits_bytes:raw_brannerite')
+                //Tier 2
+                //Tier 3
+                //Tier 4
+                //Tier 5
+                //Tier 6
+                //Tier 7
+                //Tier 8
+                //Tier 9
+                //Tier 10
+                //Tier 11
+                //Tier 12
+                //Tier 13
+                //Tier 14
+                //Tier 15
+        //Orthoclase
+            //Tier 0 - Silicon
+                    event.recipes.create.compacting(['chemlib:silicon_dust'],'nyagibits_bytes:raw_orthoclase')
+                //Tier 1 - 3(Silicon), Tin
+                    event.recipes.createCrushing(['3x chemlib:silicon_dust','create:crushed_raw_tin'],'nyagibits_bytes:raw_orthoclase')
+                //Tier 2
+                //Tier 3
+                //Tier 4
+                //Tier 5
+                //Tier 6
+                //Tier 7
+                //Tier 8
+                //Tier 9
+                //Tier 10
+                //Tier 11
+                //Tier 12
+                //Tier 13
+                //Tier 14
+                //Tier 15
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //-------------------------------------------------------
+    //Misc - Random
+        //Saltpeter
+            //Tier 0 - Potassium Nitrate
+                        event.recipes.create.compacting('chemlib:potassium_nitrate_dust','nyagibits_bytes:raw_saltpeter')
+                    //Tier 1 - 3(Potassium Nitrate), Potassium Nitrate
+                        event.recipes.createCrushing(['3x chemlib:potassium_nitrate_dust','chemlib:potassium_nitrate_dust'],'nyagibits_bytes:raw_saltpeter')
+                    //Tier 2
+                    //Tier 3
+                    //Tier 4
+                    //Tier 5
+                    //Tier 6
+                    //Tier 7
+                    //Tier 8
+                    //Tier 9
+                    //Tier 10
+                    //Tier 11
+                    //Tier 12
+                    //Tier 13
+                    //Tier 14
+                    //Tier 15
+        //Borax
+            //Tier 0 - Borax Powder
+                        event.recipes.create.compacting('nuclearcraft:borax_dust','nyagibits_bytes:raw_borax')
+            //Tier 1 - 3(Borax Powder), Borax Powder
+                        event.recipes.createCrushing(['3x nuclearcraft:borax_dust','nuclearcraft:borax_dust'],'nyagibits_bytes:raw_borax')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Compacted Limestone
+            //Tier 0 - 4(Limestone)
+                        event.recipes.create.splashing(['3x create:limestone'],'nyagibits_bytes:raw_compacted_limestone')
+            //Tier 1 - 12(Limestone), 4(Limestone)
+                        event.recipes.createCrushing(['12x create:limestone','4x create:limestone'],'nyagibits_bytes:raw_compacted_limestone')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Volcanic Sulfur
+            //Tier 0 - 2(Sulfur)
+                event.recipes.create.compacting(['2x mekanism:dust_sulfur'],'nyagibits_bytes:raw_volcanic_sulfur')
+            //Tier 1 - 6(Sulfur), 0.5(Cadmium), 0.5(Indium)
+                event.recipes.createCrushing(['6x mekanism:dust_sulfur',
+                                                    Item.of('chemlib:cadmium_dust').withChance(0.5),
+                                                    Item.of('chemlib:indium_dust').withChance(0.5)],'nyagibits_bytes:raw_volcanic_sulfur')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Rainbow Obsidian
+            //Tier 0 - Granulated Obsidian
+                event.recipes.create.compacting(['nyagibits_bytes:raw_granulated_obsidian'],'nyagibits_bytes:raw_rainbow_obsidian')
+            //Tier 1 - 3(Granulated Obsidian), Granulated Obsidian
+                event.recipes.createCrushing(['3x nyagibits_bytes:raw_granulated_obsidian', 'nyagibits_bytes:raw_granulated_obsidian'], 'nyagibits_bytes:raw_rainbow_obsidian')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Petrified
+            //Tier 0 - Silicon Dioxide
+                event.recipes.create.compacting(['chemlib:silicon_dioxide'],'nyagibits_bytes:raw_petrified_wood')
+            //Tier 1 - 3(Silicon Dioxide), Silicon Dioxide
+                event.recipes.createCrushing(['3x chemlib:silicon_dioxide', 'chemlib:silicon_dioxide'], 'nyagibits_bytes:raw_petrified_wood')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Chalk
+            //Tier 0 - Silicon Dioxide
+                event.recipes.create.compacting(['chemlib:silicon_dioxide'],'nyagibits_bytes:raw_petrified_wood')
+            //Tier 1 - 3(Silicon Dioxide), Silicon Dioxide
+                event.recipes.createCrushing(['3x chemlib:silicon_dioxide', 'chemlib:silicon_dioxide'], 'nyagibits_bytes:raw_petrified_wood')
+            //Tier 2
+            //Tier 3
+            //Tier 4
+            //Tier 5
+            //Tier 6
+            //Tier 7
+            //Tier 8
+            //Tier 9
+            //Tier 10
+            //Tier 11
+            //Tier 12
+            //Tier 13
+            //Tier 14
+            //Tier 15
+        //Trona
+            //Tier 0 - Sodium Carbonate
+                event.recipes.create.compacting(['chemlib:sodium_carbonate_dust'],'nyagibits_bytes:raw_trona')
+                //Tier 1 - 3(Sodium Carbonate), Sodium Carbonate
+                    event.recipes.createCrushing(['3x chemlib:sodium_carbonate_dust', 'chemlib:sodium_carbonate_dust'], 'nyagibits_bytes:raw_trona')
+                //Tier 2
+                //Tier 3
+                //Tier 4
+                //Tier 5
+                //Tier 6
+                //Tier 7
+                //Tier 8
+                //Tier 9
+                //Tier 10
+                //Tier 11
+                //Tier 12
+                //Tier 13
+                //Tier 14
+                //Tier 15
         
 })
     //------------------------------------------------------------------

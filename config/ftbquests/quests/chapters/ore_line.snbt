@@ -895,6 +895,11 @@
 		}
 		{
 			dependencies: ["6F66FCCD63752DC8"]
+			description: [
+				"Generic mostly pure diamond, lapis, emerald found on the upper layer of gemstone geodes."
+				""
+				"&dDeeper layers require better tools to fracture open"
+			]
 			id: "36801EB293571923"
 			shape: "hexagon"
 			tasks: [
@@ -1112,6 +1117,11 @@
 				"6F66FCCD63752DC8"
 				"55F62F8F0F606A69"
 			]
+			description: [
+				"Generic mostly pure quartz and certus found on the upper layer of quartz geodes."
+				""
+				"&dDeeper layers require better tools to fracture open"
+			]
 			id: "12D07F810D3FEE98"
 			shape: "hexagon"
 			tasks: [
@@ -1326,6 +1336,11 @@
 		}
 		{
 			dependencies: ["6F66FCCD63752DC8"]
+			description: [
+				"Generic mostly pure zinc found on the upper layer of zinc geodes."
+				""
+				"&dDeeper layers require better tools to fracture open"
+			]
 			icon: "create:zinc_ingot"
 			id: "0EE36446F98AA6C3"
 			shape: "hexagon"
@@ -1478,6 +1493,11 @@
 		}
 		{
 			dependencies: ["6F66FCCD63752DC8"]
+			description: [
+				"Generic mostly pure aluminum found on the upper layer of bauxite geodes."
+				""
+				"&dDeeper layers require better tools to fracture open"
+			]
 			icon: "immersiveengineering:ingot_aluminum"
 			id: "759B1A3F42003E45"
 			shape: "hexagon"
@@ -1670,6 +1690,11 @@
 		}
 		{
 			dependencies: ["6F66FCCD63752DC8"]
+			description: [
+				"Generic mostly pure lead found on the upper layer of lead geodes."
+				""
+				"&dDeeper layers require better tools to fracture open"
+			]
 			icon: "thermal:lead_ingot"
 			id: "71620A0BAD820CD9"
 			shape: "hexagon"
@@ -1684,6 +1709,12 @@
 		}
 		{
 			dependencies: ["71620A0BAD820CD9"]
+			description: [
+				"A natural mineral of lead(II) sulfide. Tends to be accompanied by silver and acts as an important source of it"
+				""
+				"&6Tier 0 Yield:&r Lead"
+				"&6Tier 1 Yield:&r Sulfur"
+			]
 			id: "0988FA4A92F61A1E"
 			shape: "hexagon"
 			tasks: [{
@@ -1696,6 +1727,12 @@
 		}
 		{
 			dependencies: ["71620A0BAD820CD9"]
+			description: [
+				"A purer form of lead(II) sulfide. Typically found as galena ore, however, this form is far more pure and less contaminated by side products"
+				""
+				"&6Tier 0 Yield:&r Lead"
+				"&6Tier 1 Yield:&r Sulfur"
+			]
 			id: "57E2B3C0611A7A1E"
 			shape: "hexagon"
 			tasks: [{
@@ -1708,6 +1745,12 @@
 		}
 		{
 			dependencies: ["71620A0BAD820CD9"]
+			description: [
+				"A lead chlorophosphate ore. Typically forms in clumps of crystals on basaltic rocks"
+				""
+				"&6Tier 0 Yield:&r Lead"
+				"&6Tier 1 Yield:&r Phosphorus"
+			]
 			id: "1A89632520E80C42"
 			shape: "hexagon"
 			tasks: [{
@@ -1720,6 +1763,12 @@
 		}
 		{
 			dependencies: ["71620A0BAD820CD9"]
+			description: [
+				"Known as lead carbonate or white lead ore. Forms elaborate long crystal structures "
+				""
+				"&6Tier 0 Yield:&r Lead"
+				"&6Tier 1 Yield:&r Lead"
+			]
 			id: "3519AB62CD23F6C0"
 			shape: "hexagon"
 			tasks: [{
@@ -1732,6 +1781,12 @@
 		}
 		{
 			dependencies: ["71620A0BAD820CD9"]
+			description: [
+				"Yet another lead sulfate mineral. Forms as a semi-transparent white crystal. Can sometimes be found in a matrix of limonite"
+				""
+				"&6Tier 0 Yield:&r Lead"
+				"&6Tier 1 Yield:&r Sulfur"
+			]
 			id: "3EC6BEF77074CBB2"
 			shape: "hexagon"
 			tasks: [{
@@ -1744,6 +1799,12 @@
 		}
 		{
 			dependencies: ["71620A0BAD820CD9"]
+			description: [
+				"Yet another lead sulfate mineral. Forms as a semi-transparent white crystal. Can sometimes be found in a matrix of limonite"
+				""
+				"&6Tier 0 Yield:&r Lead"
+				"&6Tier 1 Yield:&r Molybdenum"
+			]
 			id: "37E23FB2A666A37D"
 			shape: "hexagon"
 			tasks: [{
@@ -1756,6 +1817,12 @@
 		}
 		{
 			dependencies: ["71620A0BAD820CD9"]
+			description: [
+				"Belongs to the apitate group of phosphates. A lead crystal containing large amounts of vanadium. The larger crystal forms of it resemble a delishious dulce de leche candy. Don't eat it tho"
+				""
+				"&6Tier 0 Yield:&r Lead"
+				"&6Tier 1 Yield:&r Vanadium"
+			]
 			id: "3B234E446A891F03"
 			shape: "hexagon"
 			tasks: [{
@@ -1768,6 +1835,12 @@
 		}
 		{
 			dependencies: ["71620A0BAD820CD9"]
+			description: [
+				"A lead arsenate chloride mineral. Formed by the oxidation of galena and arsenopyrite. Looks like a lemon gummy"
+				""
+				"&6Tier 0 Yield:&r Lead"
+				"&6Tier 1 Yield:&r Arsenic"
+			]
 			id: "62717F1766DB2BD9"
 			shape: "hexagon"
 			tasks: [{
@@ -1780,6 +1853,11 @@
 		}
 		{
 			dependencies: ["6F66FCCD63752DC8"]
+			description: [
+				"Generic mostly pure nickel found on the upper layer of nickel geodes."
+				""
+				"&dDeeper layers require better tools to fracture open"
+			]
 			icon: "immersiveengineering:ingot_nickel"
 			id: "45518D2CD823F143"
 			shape: "hexagon"
@@ -1794,6 +1872,12 @@
 		}
 		{
 			dependencies: ["45518D2CD823F143"]
+			description: [
+				"A iron-nickel sulfide mineral. Often found in a 1:1 ratio of iron to nickel"
+				""
+				"&6Tier 0 Yield:&r Nickel"
+				"&6Tier 1 Yield:&r Iron &bx3&r"
+			]
 			id: "19FBF5E1DE6766C6"
 			shape: "hexagon"
 			tasks: [{
@@ -1806,6 +1890,12 @@
 		}
 		{
 			dependencies: ["45518D2CD823F143"]
+			description: [
+				"A green nickel ore found in pockets of serpentinized ultramafic rock."
+				""
+				"&6Tier 0 Yield:&r Nickel"
+				"&6Tier 1 Yield:&r Granite"
+			]
 			id: "26C6142F9D71AFDD"
 			shape: "hexagon"
 			tasks: [{
@@ -1818,6 +1908,12 @@
 		}
 		{
 			dependencies: ["45518D2CD823F143"]
+			description: [
+				"Chemically weathered rock often rick in nickel and other metals"
+				""
+				"&6Tier 0 Yield:&r Nickel"
+				"&6Tier 1 Yield:&r Bog Iron &cx0.1&r"
+			]
 			id: "0E742531BFE5F86B"
 			shape: "hexagon"
 			tasks: [{
@@ -1830,6 +1926,12 @@
 		}
 		{
 			dependencies: ["45518D2CD823F143"]
+			description: [
+				"Similar to Garnierite, this is formed by lava hardening. This form of it is much more rich in sulfur and smells like rotten eggs"
+				""
+				"&6Tier 0 Yield:&r Sulfur"
+				"&6Tier 1 Yield:&r Nickel"
+			]
 			id: "47501429D9BCBE54"
 			shape: "hexagon"
 			tasks: [{
@@ -1842,6 +1944,12 @@
 		}
 		{
 			dependencies: ["45518D2CD823F143"]
+			description: [
+				"A nickel sulfide mineral. Forms as thin almost furr-like crystals within rocks associated with pyrite"
+				""
+				"&6Tier 0 Yield:&r Nickel"
+				"&6Tier 1 Yield:&r Pyrite &cx0.1&r"
+			]
 			id: "4C6368A79C6F2723"
 			shape: "hexagon"
 			tasks: [{
@@ -1854,6 +1962,12 @@
 		}
 		{
 			dependencies: ["45518D2CD823F143"]
+			description: [
+				"A nickel arsenide. Has small quantities of cobalt, and sometimes antimony"
+				""
+				"&6Tier 0 Yield:&r Nickel"
+				"&6Tier 1 Yield:&r Arsenic"
+			]
 			id: "10022CAD6696F87B"
 			shape: "hexagon"
 			tasks: [{
@@ -1866,6 +1980,12 @@
 		}
 		{
 			dependencies: ["45518D2CD823F143"]
+			description: [
+				"Mostly found in iron meteorites as an alloy"
+				""
+				"&6Tier 0 Yield:&r Nickel"
+				"&6Tier 1 Yield:&r Meteoric Iron &cx0.1&r"
+			]
 			id: "129142E8B04F6DFB"
 			shape: "hexagon"
 			tasks: [{
@@ -1878,6 +1998,13 @@
 		}
 		{
 			dependencies: ["45518D2CD823F143"]
+			description: [
+				"Yet another iron-nickel alloy found in iron meteorites with a much lower concentration of nickel than normal. However can contain more cobalt and carbon than normal."
+				""
+				"&6Tier 0 Yield:&r Nickel"
+				"&6Tier 1 Yield:&r Meteoric Iron &cx0.1&r,"
+				"                Cobalt &cx0.5&r"
+			]
 			id: "14343A7BEDE75B35"
 			shape: "hexagon"
 			tasks: [{
@@ -1890,6 +2017,11 @@
 		}
 		{
 			dependencies: ["6F66FCCD63752DC8"]
+			description: [
+				"Generic mostly pure uranium found on the upper layer of uranothorium geodes."
+				""
+				"&dDeeper layers require better tools to fracture open"
+			]
 			icon: "mekanism:ingot_uranium"
 			id: "2C6845E1DFB220C9"
 			shape: "hexagon"
@@ -1904,6 +2036,12 @@
 		}
 		{
 			dependencies: ["2C6845E1DFB220C9"]
+			description: [
+				"Also called uraninite is a uranium-rich mineral. May also contain thorium and other rare-earth elements"
+				""
+				"&6Tier 0 Yield:&r Uranium"
+				"&6Tier 1 Yield:&r Cadmium"
+			]
 			id: "0FCCCDEFD417FA00"
 			shape: "hexagon"
 			tasks: [{
@@ -1916,6 +2054,12 @@
 		}
 		{
 			dependencies: ["2C6845E1DFB220C9"]
+			description: [
+				"A potassium uranium vanadate mineral. Can contain traces of calcium, barium, magnesium, iron, and sodium"
+				""
+				"&6Tier 0 Yield:&r Potassium"
+				"&6Tier 1 Yield:&r Uranium"
+			]
 			id: "61CD2FE2B2CDF2BB"
 			shape: "hexagon"
 			tasks: [{
@@ -1928,6 +2072,12 @@
 		}
 		{
 			dependencies: ["2C6845E1DFB220C9"]
+			description: [
+				"A very rare uranium mineral with a deep yellow color due to the high uranium concentration"
+				""
+				"&6Tier 0 Yield:&r Uranium &bx2&r"
+				"&6Tier 1 Yield:&r Calcium"
+			]
 			id: "606C8BBB910CFD67"
 			shape: "hexagon"
 			tasks: [{
@@ -1940,6 +2090,12 @@
 		}
 		{
 			dependencies: ["2C6845E1DFB220C9"]
+			description: [
+				"Also known as chalcolite, this is a vibrantly green copper uranyl phosphate crystal found in granites"
+				""
+				"&6Tier 0 Yield:&r Copper"
+				"&6Tier 1 Yield:&r Uranium"
+			]
 			id: "7E7EB9B33D30B0B1"
 			shape: "hexagon"
 			tasks: [{
@@ -1952,6 +2108,12 @@
 		}
 		{
 			dependencies: ["2C6845E1DFB220C9"]
+			description: [
+				"A hydrated calcium uranyl phosphate crystal with a yellow-green apperance due to the fluorescent phosphate mineral"
+				""
+				"&6Tier 0 Yield:&r Phosphorus"
+				"&6Tier 1 Yield:&r Uranium"
+			]
 			id: "411F86107B1D8ECB"
 			shape: "hexagon"
 			tasks: [{
@@ -1964,6 +2126,12 @@
 		}
 		{
 			dependencies: ["2C6845E1DFB220C9"]
+			description: [
+				"A rare neosilicate of thorium. Commonly associated with zircon, monazite, gadolinite, fergusonite, uraninite, yttrialite, and pyrochlore"
+				""
+				"&6Tier 0 Yield:&r Thorium"
+				"&6Tier 1 Yield:&r Silicon"
+			]
 			id: "5FCA5D2D5399D756"
 			shape: "hexagon"
 			tasks: [{
@@ -1976,6 +2144,12 @@
 		}
 		{
 			dependencies: ["2C6845E1DFB220C9"]
+			description: [
+				"A ver rare uranium bearing form of thorite ore"
+				""
+				"&6Tier 0 Yield:&r Thorium"
+				"&6Tier 1 Yield:&r Uranium"
+			]
 			id: "37D713996B5D1E51"
 			shape: "hexagon"
 			tasks: [{
@@ -1988,6 +2162,12 @@
 		}
 		{
 			dependencies: ["2C6845E1DFB220C9"]
+			description: [
+				"A rare thorium oxide that can include traces of uranium, lanthanum, cerium, praseodynium and neodymium"
+				""
+				"&6Tier 0 Yield:&r Thorium"
+				"&6Tier 1 Yield:&r Thorium"
+			]
 			id: "3A1ABA0089CF0F70"
 			shape: "hexagon"
 			tasks: [{
@@ -2000,6 +2180,11 @@
 		}
 		{
 			dependencies: ["6F66FCCD63752DC8"]
+			description: [
+				"Generic mostly pure tin found on the upper layer of tin geodes."
+				""
+				"&dDeeper layers require better tools to fracture open"
+			]
 			icon: "thermal:tin_ingot"
 			id: "1CDB5D26D5C8253C"
 			shape: "hexagon"
@@ -2014,6 +2199,12 @@
 		}
 		{
 			dependencies: ["1CDB5D26D5C8253C"]
+			description: [
+				"A tin oxide mineral that forms as opaque thin crystals that can sometimes appear translucent. "
+				""
+				"&6Tier 0 Yield:&r Tin"
+				"&6Tier 1 Yield:&r Tin"
+			]
 			id: "23247D4451ABE279"
 			shape: "hexagon"
 			tasks: [{
@@ -2026,6 +2217,12 @@
 		}
 		{
 			dependencies: ["1CDB5D26D5C8253C"]
+			description: [
+				"A sulfide of copper, iron and tin. Contains traces of germanium and sometimes found along side wolframite"
+				""
+				"&6Tier 0 Yield:&r Tin"
+				"&6Tier 1 Yield:&r Copper"
+			]
 			id: "641F6752FAA2C0F5"
 			shape: "hexagon"
 			tasks: [{
@@ -2038,6 +2235,12 @@
 		}
 		{
 			dependencies: ["1CDB5D26D5C8253C"]
+			description: [
+				"A sulfosalt containing tin, lead, antimony, and iron"
+				""
+				"&6Tier 0 Yield:&r Tin"
+				"&6Tier 1 Yield:&r Lead"
+			]
 			id: "44B1770BABD3E9E8"
 			shape: "hexagon"
 			tasks: [{
@@ -2050,6 +2253,12 @@
 		}
 		{
 			dependencies: ["1CDB5D26D5C8253C"]
+			description: [
+				"A complex sulfide mineral related to cylindrite. A hydrothermal silver-thin deposit"
+				""
+				"&6Tier 0 Yield:&r Tin"
+				"&6Tier 1 Yield:&r Silver"
+			]
 			id: "3E8341FCC12DDBBC"
 			shape: "hexagon"
 			tasks: [{
@@ -2062,6 +2271,12 @@
 		}
 		{
 			dependencies: ["1CDB5D26D5C8253C"]
+			description: [
+				"A rare silver tin sulfide mineral with trace amounts of fermanium and tellurium"
+				""
+				"&6Tier 0 Yield:&r Silver"
+				"&6Tier 1 Yield:&r Tin"
+			]
 			id: "4ECD8B1464CDD423"
 			shape: "hexagon"
 			tasks: [{
@@ -2074,6 +2289,12 @@
 		}
 		{
 			dependencies: ["1CDB5D26D5C8253C"]
+			description: [
+				"A sulfide mineral of tin and lead found in hydrothermal vents"
+				""
+				"&6Tier 0 Yield:&r Tin"
+				"&6Tier 1 Yield:&r Sulfur"
+			]
 			id: "174A45BD2F86A17F"
 			shape: "hexagon"
 			tasks: [{
@@ -2086,6 +2307,12 @@
 		}
 		{
 			dependencies: ["1CDB5D26D5C8253C"]
+			description: [
+				"A super rare uranium tin mineral primarily found in granite"
+				""
+				"&6Tier 0 Yield:&r Tin"
+				"&6Tier 1 Yield:&r Granite"
+			]
 			id: "18A7E040948E4E0B"
 			shape: "hexagon"
 			tasks: [{
@@ -2098,6 +2325,12 @@
 		}
 		{
 			dependencies: ["1CDB5D26D5C8253C"]
+			description: [
+				"A tectosilicate that forms in igneous rock. While tin is not primarily found in it, it is associated with some tin ores"
+				""
+				"&6Tier 0 Yield:&r Silicon"
+				"&6Tier 1 Yield:&r Tin"
+			]
 			id: "19367A10D464B28F"
 			shape: "hexagon"
 			tasks: [{
@@ -2110,6 +2343,13 @@
 		}
 		{
 			dependencies: ["6F66FCCD63752DC8"]
+			description: [
+				"Generic mostly pure sulfur and niter found on the upper layer of Migmamite geodes."
+				""
+				"&dDeeper layers require better tools to fracture open"
+				""
+				"&bNote: This geode contains a very random mix of ores used in many many lines and thus do not have consistent processing"
+			]
 			id: "7B8BC8FC6D7C4E87"
 			shape: "hexagon"
 			tasks: [
@@ -2130,6 +2370,12 @@
 		}
 		{
 			dependencies: ["7B8BC8FC6D7C4E87"]
+			description: [
+				"A natural mineral source of potassium nitrate. Can be used to make gunpowder, preserve meat, and prevent bacteria growth"
+				""
+				"&6Tier 0 Yield:&r Potassium Nitrate"
+				"&6Tier 1 Yield:&r Potassium Nitrate"
+			]
 			id: "0F1E71EA24F0E287"
 			shape: "hexagon"
 			tasks: [{
@@ -2142,6 +2388,12 @@
 		}
 		{
 			dependencies: ["7B8BC8FC6D7C4E87"]
+			description: [
+				"A salt of sodium and boron. Often used in metallurgy as flux, component of glass, pottery glazes, and a pharmaceutic alkalizer"
+				""
+				"&6Tier 0 Yield:&r Borax Powder"
+				"&6Tier 1 Yield:&r Borax Powder"
+			]
 			id: "032BFD25F2C4C145"
 			shape: "hexagon"
 			tasks: [{
@@ -2154,6 +2406,12 @@
 		}
 		{
 			dependencies: ["7B8BC8FC6D7C4E87"]
+			description: [
+				"A highly compressed hunk of limestone. Used as pigment, soil conditioner, cement, and as a reagent in flue-gas desulfurization"
+				""
+				"&6Tier 0 Yield:&r Limestone &bx4"
+				"&6Tier 1 Yield:&r Limestone &bx4"
+			]
 			id: "6720635414E4501D"
 			shape: "hexagon"
 			tasks: [{
@@ -2166,6 +2424,13 @@
 		}
 		{
 			dependencies: ["7B8BC8FC6D7C4E87"]
+			description: [
+				"Solidifed volcanic flow highly concentrated in sulfur. Being from a volcanic source it contains a slurry of trace elements"
+				""
+				"&6Tier 0 Yield:&r Sulfur &bx2"
+				"&6Tier 1 Yield:&r Cadmium &cx0.5&r,"
+				"                Indium &cx0.5&r"
+			]
 			id: "3364EC3640226F5F"
 			shape: "hexagon"
 			tasks: [{
@@ -2178,6 +2443,12 @@
 		}
 		{
 			dependencies: ["7B8BC8FC6D7C4E87"]
+			description: [
+				"While not too useful mechanically processed, it seems prone to transmutation when reacted with mana into various dyes, could be an easy way to mass stock those"
+				""
+				"&6Tier 0 Yield:&r Granulated Obsidian"
+				"&6Tier 1 Yield:&r Granulated Obsidian "
+			]
 			id: "00A429CE1D31266F"
 			shape: "hexagon"
 			tasks: [{
@@ -2190,6 +2461,12 @@
 		}
 		{
 			dependencies: ["7B8BC8FC6D7C4E87"]
+			description: [
+				"An ancient piece of wood from a long gone species.. &cI wonder if I can bring it back if I don't crush it"
+				""
+				"&6Tier 0 Yield:&r Silicon Dioxide"
+				"&6Tier 1 Yield:&r Silicon Dioxide "
+			]
 			id: "119BAA08559348C5"
 			shape: "hexagon"
 			tasks: [{
@@ -2202,6 +2479,11 @@
 		}
 		{
 			dependencies: ["7B8BC8FC6D7C4E87"]
+			description: [
+				"A white porous form of limestone made of calcite and the skeletons of billions of plankton that settled to the sea floor. Can be used in pottery glazing, decomposed into slaked lime, in agriculture to raise pH, and to confuse college students on a blackboard"
+				""
+				"&6Processing information not displayed as it splits too much"
+			]
 			id: "003A50BF60A4F905"
 			shape: "hexagon"
 			tasks: [{
@@ -2214,11 +2496,17 @@
 		}
 		{
 			dependencies: ["7B8BC8FC6D7C4E87"]
+			description: [
+				"A trisodium hydrogendicarbonate dihydrite, primary source of baking soda for bread making"
+				""
+				"&6Tier 0 Yield:&r Silicon Carbonate"
+				"&6Tier 1 Yield:&r Silicon Carbonate"
+			]
 			id: "53A59BCE01097779"
 			shape: "hexagon"
 			tasks: [{
-				id: "17D2AB9F5C766431"
-				item: "nyagibits_bytes:raw_borax"
+				id: "401B5958A5519340"
+				item: "nyagibits_bytes:raw_trona"
 				type: "item"
 			}]
 			x: 9.5d
