@@ -185,8 +185,8 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
-file = "kubejs/client_scripts/script.js"
-hash = "f7534f18e0e6a728766a0f7464a58198c8995a2f330d8767737f71575da38693"
+file = "kubejs/client_scripts/item_removal.js"
+hash = "3c5590651100020123b1ec9863f2f86fd038f9f4868e7ac6949273d80d32c29b"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -626,7 +626,7 @@ hash = "23dfa6ff27f8beb9cf7a199e3da9e4765ceb3a7da515368facf3a1ca7e229e0f"
 
 [[files]]
 file = "kubejs/server_scripts/vanilla_recipes.js"
-hash = "617c0f6f31c79c8ba2cbd5c07b02bb998ba9a5a4630e4b680c8284dc08437b05"
+hash = "16fa9b9ddb877e72de184b0d37aa8e20c0d5e1366aadc5b81b8242a5e50039f1"
 
 [[files]]
 file = "kubejs/startup_scripts/block_modify.js"
