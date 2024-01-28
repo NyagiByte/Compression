@@ -186,7 +186,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/item_removal.js"
-hash = "7659bfdc895f0988d199451bf9a6795fccfb1c58d31d8a9b45dc6998079b68c5"
+hash = "7964bd92cf8921f7cae9a5060f3f569cc8c1916f26b6fda5ede7bec1d4907789"
 
 [[files]]
 file = "kubejs/config/client.properties"
