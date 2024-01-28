@@ -186,7 +186,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/item_removal.js"
-hash = "3c5590651100020123b1ec9863f2f86fd038f9f4868e7ac6949273d80d32c29b"
+hash = "68005083e1ae513cb0ff144a7a93cc392cfd9c950fd79fb407c76f15448a9b3c"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -582,7 +582,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/ae2.js"
-hash = "da8b1a39a68c7de565b7167de125db9edd34431b1ce3dca71c81d85fbd6ff745"
+hash = "3ff7862cf89dcac3c8f338cec60aba37fe7f432fb4a2c637612aee06d683ca73"
 
 [[files]]
 file = "kubejs/server_scripts/aiot_botania.js"
