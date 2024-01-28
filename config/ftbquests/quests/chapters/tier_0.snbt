@@ -193,6 +193,11 @@
 			id: "177A2060FFFA6932"
 			shape: "hexagon"
 			size: 2.0d
+			tasks: [{
+				id: "0FEBD122FD9B951B"
+				item: "nyagibits_bytes:alchemistry_schematic"
+				type: "item"
+			}]
 			title: "Alchemistry"
 			x: -2.0d
 			y: 13.0d
@@ -207,6 +212,11 @@
 			id: "6C86D86CCAEED256"
 			shape: "hexagon"
 			size: 2.0d
+			tasks: [{
+				id: "43A5700C5C057104"
+				item: "nyagibits_bytes:botania_schematic"
+				type: "item"
+			}]
 			title: "Botania"
 			x: 3.0d
 			y: 13.0d
@@ -227,6 +237,11 @@
 			id: "5FD4E5F7C28806E5"
 			shape: "hexagon"
 			size: 2.0d
+			tasks: [{
+				id: "3FF9DBDF1744B82B"
+				item: "nyagibits_bytes:immersive_engineering_schematic"
+				type: "item"
+			}]
 			title: "Immersive Engineering"
 			x: 0.5d
 			y: 15.5d

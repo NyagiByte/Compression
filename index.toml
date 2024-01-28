@@ -54,7 +54,7 @@ hash = "dcd73b13354e8021a01c48f0a2c884d18c7f830f1fb8d0fe3cf159fd9afa91a1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
-hash = "6e319128916716c40d742b4c3ec8d3ffe4a384c123c3cd0eee513fb06cff6916"
+hash = "930100f9d9087e26aec5d55396b61acb62488b27ee24c83ab61a770ed522d64b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
