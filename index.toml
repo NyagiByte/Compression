@@ -581,6 +581,10 @@ file = "kubejs/exported/tags/sandbox/template_pool_extension.txt"
 hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
+file = "kubejs/server_scripts/Removal/mod.js"
+hash = "9716b3d88884978ee77c859d672c2d38f9cc73e7cec3dfe715a200bffcf25333"
+
+[[files]]
 file = "kubejs/server_scripts/ae2.js"
 hash = "da8b1a39a68c7de565b7167de125db9edd34431b1ce3dca71c81d85fbd6ff745"
 
