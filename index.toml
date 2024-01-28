@@ -961,7 +961,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.1-1.19.2.jar"
-hash = "db0347fc161d7dadddff92e68fb27e3d2caafd5ce147d5afa76a3e0db088ed66"
+hash = "aefec832baab8ef00b8528d903af2b2ed39685c16765b54a2281bd7fe97ec760"
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
