@@ -186,7 +186,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/item_removal.js"
-hash = "3c5590651100020123b1ec9863f2f86fd038f9f4868e7ac6949273d80d32c29b"
+hash = "7964bd92cf8921f7cae9a5060f3f569cc8c1916f26b6fda5ede7bec1d4907789"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -586,11 +586,11 @@ hash = "9716b3d88884978ee77c859d672c2d38f9cc73e7cec3dfe715a200bffcf25333"
 
 [[files]]
 file = "kubejs/server_scripts/ae2.js"
-hash = "da8b1a39a68c7de565b7167de125db9edd34431b1ce3dca71c81d85fbd6ff745"
+hash = "3ff7862cf89dcac3c8f338cec60aba37fe7f432fb4a2c637612aee06d683ca73"
 
 [[files]]
 file = "kubejs/server_scripts/aiot_botania.js"
-hash = "b7e508628ac672c126dee507d6a5d06b7c1cc0e647f8546e293b0cce0d4a53c9"
+hash = "8bf4bef1f1e9e6be79ca9f8c1e42ea59bb1d70a097d3ad429c433b2c623edd28"
 
 [[files]]
 file = "kubejs/server_scripts/botania_recipes.js"
@@ -765,6 +765,11 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
 metafile = true
 
 [[files]]

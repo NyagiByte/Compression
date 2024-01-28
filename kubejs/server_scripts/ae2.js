@@ -1,5 +1,11 @@
 ServerEvents.recipes(event => {
     //Applied Energistics 2
+    //------------------------------------------------------------------
+    //Removal 
+        event.remove({output: 'minecraft:white_wool'});
+        event.remove({output: ['ae2:certus_quartz_shovel', 'ae2:certus_quartz_sword','ae2:certus_quartz_pickaxe','ae2:certus_quartz_axe','ae2:certus_quartz_hoe']})
+        event.remove({output: ['ae2:nether_quartz_shovel', 'ae2:nether_quartz_sword','ae2:nether_quartz_pickaxe','ae2:nether_quartz_axe','ae2:nether_quartz_hoe']})
+        event.remove({output: ['ae2:fluix_shovel', 'ae2:fluix_sword','ae2:fluix_pickaxe','ae2:fluix_axe','ae2:fluix_hoe']})
     
     //------------------------------------------------------------------
     //Applied Energistics 2 Shaped
