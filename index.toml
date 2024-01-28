@@ -606,7 +606,7 @@ hash = "3372741358e6a4d1a3b296b9ec7acaed5dc862c0435e58dc72f4b25c809da87f"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes.js"
-hash = "2a6e710b7f3c21df13000314f464f097d1a27b1b98c53dd3f0ce09130ce5ad37"
+hash = "375b32e0b291e0c863361485af835f85346f1489d53b86084ddcea431af54a7e"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes_ores.js"

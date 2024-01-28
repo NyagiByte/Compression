@@ -99,14 +99,53 @@ ServerEvents.recipes(event => {
             event.shaped(
                 Item.of('nyagibits_bytes:ae2_schematic'), 
                 [ 
-                    'BCD', 
-                    'AAA'
+                    ' C ', 
+                    'BAD'
                 ],
                 {
-                    A: 'minecraft:paper', 
+                    A: 'nyagibits_bytes:blank_blueprint', 
                     B: 'nyagibits_bytes:lab_notebook_with_crude_statics_data',
                     C: 'nyagibits_bytes:lab_notebook_with_crude_compression_data',
                     D: 'nyagibits_bytes:lab_notebook_with_crude_entropy_data'
+                })
+        //Botania Schematic
+            event.shaped(
+                Item.of('nyagibits_bytes:botania_schematic'), 
+                [ 
+                    'BAC'
+                ],
+                {
+                    A: 'nyagibits_bytes:blank_blueprint', 
+                    B: 'nyagibits_bytes:lab_notebook_with_crude_natural_arcana_data',
+                    C: 'nyagibits_bytes:lab_notebook_with_crude_entropy_data'
+                })
+        //Alchemistry Schematic
+            event.shaped(
+                Item.of('nyagibits_bytes:alchemistry_schematic'), 
+                [ 
+                    'BAC',
+                    ' D '
+                ],
+                {
+                    A: 'nyagibits_bytes:blank_blueprint', 
+                    B: 'nyagibits_bytes:lab_notebook_with_crude_acidics_data',
+                    C: 'nyagibits_bytes:lab_notebook_with_crude_entropy_data',
+                    D: 'nyagibits_bytes:lab_notebook_with_crude_statics_data'
+                })
+        //Immsersive Engineering Schematic
+            event.shaped(
+                Item.of('nyagibits_bytes:immersive_engineering_schematic'), 
+                [   
+                    ' E ',
+                    'BAC',
+                    ' D '
+                ],
+                {
+                    A: 'nyagibits_bytes:blank_blueprint', 
+                    B: 'nyagibits_bytes:lab_notebook_with_crude_compression_data',
+                    C: 'nyagibits_bytes:lab_notebook_with_crude_entropy_data',
+                    D: 'nyagibits_bytes:lab_notebook_with_crude_statics_data',
+                    E: 'nyagibits_bytes:lab_notebook_with_crude_material_properties_data'
                 })
         //Ae2 Assembly
             event.shaped(
@@ -267,6 +306,8 @@ ServerEvents.recipes(event => {
             event.recipes.create.compacting(['nyagibits_bytes:micro_tools'], ['create:andesite_casing', 'ae2:certus_quartz_wrench', 'ae2:nether_quartz_wrench', 'ae2:crank', Item.of('ae2:nether_quartz_cutting_knife', '{Damage:0}'), Item.of('ae2:certus_quartz_cutting_knife', '{Damage:0}')])
         //Basic Composite Material
             event.recipes.create.compacting(['nyagibits_bytes:basic_composite_material'], ['create:copper_sheet','create:iron_sheet','nyagibits_bytes:livisite_slate','minecraft:brick','minecraft:coal','ae2:certus_quartz_dust'])
+        //Empty Schematic
+            event.recipes.create.compacting(['nyagibits_bytes:blank_blueprint'], ['minecraft:paper', 'minecraft:paper', 'minecraft:paper', 'minecraft:paper', 'minecraft:paper', 'minecraft:paper', 'minecraft:paper', 'minecraft:paper'])
     //------------------------------------------------------------------
     //Nyagi's Bits & Bytes Create Mixing
         //Soild Sample
