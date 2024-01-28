@@ -597,6 +597,10 @@ file = "kubejs/server_scripts/create_recipes.js"
 hash = "32b0b3c4e39a19ea8be8b799cafe68ce9d5855f913a6d1b02d8a5098b4638184"
 
 [[files]]
+file = "kubejs/server_scripts/farmers_delight.js"
+hash = "0f607651489407230c564d82bacea4da5cd4749fff169916fac8f8815d5a83fc"
+
+[[files]]
 file = "kubejs/server_scripts/loottables.js"
 hash = "d967d8692e140925291c224cdd203bf7f214dc3bc7a2336d5c329e7c38011cbb"
 
