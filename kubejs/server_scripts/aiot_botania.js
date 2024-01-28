@@ -1,6 +1,6 @@
 ServerEvents.recipes(event => {
     //MOD NUKING
-        event.remove({mod: 'aiot-botania'})
+        event.remove({mod: 'aiotbotania'})
     //------------------------------------------------------------------
     //AIOT Items
         //Living Rock Sword

@@ -12,6 +12,8 @@ JEIEvents.hideItems(event => {
 		//Ae2
 		'ae2:certus_quartz_shovel', 'ae2:certus_quartz_sword','ae2:certus_quartz_pickaxe','ae2:certus_quartz_axe','ae2:certus_quartz_hoe',
 		'ae2:nether_quartz_shovel', 'ae2:nether_quartz_sword','ae2:nether_quartz_pickaxe','ae2:nether_quartz_axe','ae2:nether_quartz_hoe',
-		'ae2:fluix_shovel', 'ae2:fluix_sword','ae2:fluix_pickaxe','ae2:fluix_axe','ae2:fluix_hoe'
+		'ae2:fluix_shovel', 'ae2:fluix_sword','ae2:fluix_pickaxe','ae2:fluix_axe','ae2:fluix_hoe',
+		//AIOT Botania
+		'aiotbotania:livingwood_shovel','aiotbotania:livingwood_sword','aiotbotania:livingwood_pickaxe','aiotbotania:livingwood_axe','aiotbotania:livingwood_hoe', 'aiotbotania:livingwood_aiot'
     ])
 })
