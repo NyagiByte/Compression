@@ -1,12 +1,13 @@
 ServerEvents.recipes(event => {
-    //Botania
+//Botania
 
-    //------------------------------------------------------------------
+//------------------------------------------------------------------
     //Botania Items Shapeless
         //Living Wood Planks
         event.shapeless(Item.of('botania:livingwood_planks', 4), [ 'botania:livingwood_log'])
-    //------------------------------------------------------------------
-        //Botania Recipes Shaped
+//------------------------------------------------------------------
+//Botania Recipes Shaped
+    //Apothecary
         event.shaped(
             Item.of('botania:apothecary_default', 1), 
             [ 
@@ -22,7 +23,7 @@ ServerEvents.recipes(event => {
                 D: '#minecraft:logs'
             }
             )
-            //Living Wood Sticks
+    //Living Wood Sticks
         event.shaped(
             Item.of('botania:livingwood_twig', 4), 
             [ 
@@ -85,15 +86,15 @@ ServerEvents.recipes(event => {
                 B: 'botania:polished_livingrock'
             })
     //All side living wood
-    event.shaped(
-        Item.of('botania:livingwood', 3), 
-        [ 
-            'AA',
-            'AA'
-        ],
-        {
-            A: 'botania:livingwood_log'
-        })    
+        event.shaped(
+            Item.of('botania:livingwood', 3), 
+            [ 
+                'AA',
+                'AA'
+            ],
+            {
+                A: 'botania:livingwood_log'
+            })    
     //Living Stripped Wood Slabs
         event.shaped(
             Item.of('botania:livingwood_slab', 6), 
@@ -125,18 +126,18 @@ ServerEvents.recipes(event => {
                 A: 'botania:polished_livingrock'
             })  
     //Living Rock Stairs
-    event.shaped(
-        Item.of('botania:livingrock_stairs', 4), 
-        [ 
-            'A  ',
-            'AA '
-        ],
-        {
-            A: 'botania:livingrock',
-        })   
-    //------------------------------------------------------------------
+        event.shaped(
+            Item.of('botania:livingrock_stairs', 4), 
+            [ 
+                'A  ',
+                'AA '
+            ],
+            {
+                A: 'botania:livingrock',
+            })   
+//------------------------------------------------------------------
     //Botania Pure Daisy
-            //Living Rock
+        //Living Wood
             event.recipes.botania.pure_daisy({
                 output: {
                     name: 'botania:livingwood_log'

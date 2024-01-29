@@ -1,6 +1,5 @@
 ServerEvents.recipes(event => {
-//Vanilla
-    //------------------------------------------------------------------
+//------------------------------------------------------------------
     //Removal 
         event.remove({output: 'minecraft:white_wool'});
         event.remove({output: ['minecraft:wooden_shovel', 'minecraft:wooden_sword','minecraft:wooden_pickaxe','minecraft:wooden_axe','minecraft:wooden_hoe']})
@@ -9,13 +8,8 @@ ServerEvents.recipes(event => {
         event.remove({output: ['minecraft:golden_shovel', 'minecraft:golden_sword','minecraft:golden_pickaxe','minecraft:golden_axe','minecraft:golden_hoe']})
         event.remove({output: ['minecraft:diamond_shovel', 'minecraft:diamond_sword','minecraft:diamond_pickaxe','minecraft:diamond_axe','minecraft:diamond_hoe']})
         event.remove({output: ['minecraft:netherite_shovel','minecraft:netherite_sword','minecraft:netherite_pickaxe','minecraft:netherite_axe','minecraft:netherite_hoe']})
-    //------------------------------------------------------------------
-    //Vanilla Items Shapeless
-        //Paper
-        event.remove({output: 'minecraft:paper'});
-        event.shapeless('2x minecraft:paper',['farmersdelight:tree_bark', 'farmersdelight:tree_bark', 'farmersdelight:tree_bark'])
-    //------------------------------------------------------------------
-    //Vanilla Items Shaped
+//------------------------------------------------------------------
+    //Shaped Crafting
         //Crafting Table 
             event.remove({output:'minecraft:crafting_table'});
             event.shaped( 
@@ -29,7 +23,7 @@ ServerEvents.recipes(event => {
                     B: '#minecraft:planks'
                 })
         //Cobble Slab
-            event.remove({output:'minecraft:cobblestone_slab'});
+            event.remove({id:'minecraft:cobblestone_slab'});
             event.shaped(
                 Item.of('minecraft:cobblestone_slab', 3), 
                 [ 
@@ -97,8 +91,11 @@ ServerEvents.recipes(event => {
                     A: 'create:iron_sheet'
 
                 })       
-        
-    //------------------------------------------------------------------
+    //Shapeless Crafting
+        //Paper
+        event.remove({output: 'minecraft:paper'});
+        event.shapeless('2x minecraft:paper',['farmersdelight:tree_bark', 'farmersdelight:tree_bark', 'farmersdelight:tree_bark'])    
+//------------------------------------------------------------------
     //Blast Furnace
         //Glass
             event.remove({output:'minecraft:glass'});

@@ -1,6 +1,4 @@
 ServerEvents.recipes(event => {
-    //MOD NUKING
-        event.remove({mod: 'aiotbotania'})
     //------------------------------------------------------------------
     //AIOT Items
         //Living Rock Sword
@@ -12,7 +10,7 @@ ServerEvents.recipes(event => {
             A: 'botania:livingrock',
             B: 'botania:livingwood_twig'
         })
-    //Living Rock Axe
+        //Living Rock Axe
         event.shaped(Item.of('aiotbotania:livingrock_axe', '{Damage:0}'), [
             'AA',
             'AB',
@@ -21,7 +19,7 @@ ServerEvents.recipes(event => {
             A: 'botania:livingrock',
             B: 'botania:livingwood_twig'
         })
-    //Living Rock Pick
+        //Living Rock Pick
         event.shaped(Item.of('aiotbotania:livingrock_pickaxe', '{Damage:0}'), [
             'AAA',
             ' B ',
@@ -30,7 +28,7 @@ ServerEvents.recipes(event => {
             A: 'botania:livingrock',
             B: 'botania:livingwood_twig'
         })
-    //Living Rock Shovel
+        //Living Rock Shovel
         event.shaped(Item.of('aiotbotania:livingrock_shovel', '{Damage:0}'), [
             'A',
             'B',
@@ -39,7 +37,7 @@ ServerEvents.recipes(event => {
             A: 'botania:livingrock',
             B: 'botania:livingwood_twig'
         })
-    //Living Rock Hoe
+        //Living Rock Hoe
         event.shaped(Item.of('aiotbotania:livingrock_hoe', '{Damage:0}'), [
             'AA',
             ' B',
@@ -48,14 +46,14 @@ ServerEvents.recipes(event => {
             A: 'botania:livingrock',
             B: 'botania:livingwood_twig'
         })
-    //Living Shears
+        //Living Shears
         event.shaped(Item.of(Item.of('aiotbotania:livingrock_shears', '{Damage:0}')), [
             'A ',
             ' A'
         ], {
             A: 'botania:livingrock'
         })
-    //Living AIOT
+        //Living AIOT
         event.shaped(Item.of(Item.of('aiotbotania:livingrock_aiot', '{Damage:0}')), [
             ' F ',
             'CAE',

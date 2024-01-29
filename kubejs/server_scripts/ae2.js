@@ -1,13 +1,5 @@
 ServerEvents.recipes(event => {
-    //Applied Energistics 2
-    //------------------------------------------------------------------
-    //Removal 
-        event.remove({output: 'minecraft:white_wool'});
-        event.remove({output: ['ae2:certus_quartz_shovel', 'ae2:certus_quartz_sword','ae2:certus_quartz_pickaxe','ae2:certus_quartz_axe','ae2:certus_quartz_hoe']})
-        event.remove({output: ['ae2:nether_quartz_shovel', 'ae2:nether_quartz_sword','ae2:nether_quartz_pickaxe','ae2:nether_quartz_axe','ae2:nether_quartz_hoe']})
-        event.remove({output: ['ae2:fluix_shovel', 'ae2:fluix_sword','ae2:fluix_pickaxe','ae2:fluix_axe','ae2:fluix_hoe']})
-    
-    //------------------------------------------------------------------
+//------------------------------------------------------------------    
     //Applied Energistics 2 Shaped
         //Meteorite
             event.remove({output: 'ae2:meteorite_compass'});
@@ -23,21 +15,16 @@ ServerEvents.recipes(event => {
                     B: 'minecraft:amethyst_shard',
                     C: 'botania:solegnolia'
                 })
-
-
 //------------------------------------------------------------------
     //Applied Energistics 2 Cutting
         //Silicon
-            event.remove({output: 'ae2:silicon'});
             event.recipes.create.cutting('2x ae2:silicon',['nyagibits_bytes:crude_silicon_boule'])
-
 //------------------------------------------------------------------
 })
 //------------------------------------------------------------------
     //Create Sequenced Assembly
     ServerEvents.recipes(e => {
         //Controller
-            e.remove({output: 'ae2:controller'});
             e.recipes.createSequencedAssembly([
                     Item.of('ae2:controller'),
                 ], 'nyagibits_bytes:ae2_assembly',
@@ -46,7 +33,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:controller', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:controller')
         //Energy Acceptor
-            e.remove({output: 'ae2:energy_acceptor'});
             e.recipes.createSequencedAssembly([
                     Item.of('ae2:energy_acceptor'),
                 ], 'nyagibits_bytes:ae2_assembly',
@@ -55,7 +41,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:energy_acceptor', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:energy_acceptor')
         //Drive
-            e.remove({output: 'ae2:drive'});
             e.recipes.createSequencedAssembly([
                     Item.of('2x ae2:drive'),
                 ], 'nyagibits_bytes:ae2_assembly',
@@ -64,7 +49,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:drive', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:drive')
         //Inscription Press
-            e.remove({output: 'ae2:inscriber'});
             e.recipes.createSequencedAssembly([
                     Item.of('2x ae2:inscriber'),
                 ], 'nyagibits_bytes:ae2_assembly',
@@ -73,7 +57,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:inscriber', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:inscriber')
         //Fluix Cables
-            e.remove({output: 'ae2:fluix_glass_cable'});
             e.recipes.createSequencedAssembly([
                     Item.of('64x ae2:fluix_glass_cable'),
                 ], 'nyagibits_bytes:ae2_assembly',
@@ -82,7 +65,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:fluix_glass_cable', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:fluix_glass_cable')
         //Smart Fluix Cables
-            e.remove({output: 'ae2:fluix_smart_cable'});
             e.recipes.createSequencedAssembly([
                     Item.of('32x ae2:fluix_smart_cable'),
                 ], 'nyagibits_bytes:ae2_assembly',
@@ -91,7 +73,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:fluix_smart_cable', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:fluix_smart_cable')
         //Dense Fluix Cables
-            e.remove({output: 'ae2:fluix_smart_dense_cable'});
             e.recipes.createSequencedAssembly([
                     Item.of('16x ae2:fluix_smart_dense_cable'),
                 ], 'nyagibits_bytes:ae2_assembly',
@@ -100,7 +81,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:fluix_smart_dense_cable', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:fluix_smart_dense_cable')
         //Charged Light Fixture
-            e.remove({output: 'ae2:quartz_fixture'});
             e.recipes.createSequencedAssembly([
                     Item.of('128x ae2:quartz_fixture'),
                 ], 'nyagibits_bytes:ae2_assembly',
@@ -109,7 +89,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:quartz_fixture', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:quartz_fixture')
         //Light Detecting Fixture
-            e.remove({output: 'ae2:light_detector'});
             e.recipes.createSequencedAssembly([
                     Item.of('128x ae2:light_detector'),
                 ], 'nyagibits_bytes:ae2_assembly',
@@ -118,7 +97,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:light_detector', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:light_detector')
         //Skystone Tank
-            e.remove({output: 'ae2:sky_stone_tank'});
             e.recipes.createSequencedAssembly([
                     Item.of('10x ae2:sky_stone_tank'),
                 ], 'nyagibits_bytes:ae2_assembly',
@@ -128,7 +106,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:sky_stone_tank', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:sky_stone_tank')
         //Charger
-            e.remove({output: 'ae2:charger'});
             e.recipes.createSequencedAssembly([
                     Item.of('ae2:charger'),
                 ], 'nyagibits_bytes:ae2_assembly',
@@ -138,7 +115,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:charger', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:sky_stone_tank')
         //Vibration Chamber
-            e.remove({output: 'ae2:vibration_chamber'});
             e.recipes.createSequencedAssembly([
                     Item.of('ae2:vibration_chamber'),
                 ], 'nyagibits_bytes:ae2_assembly',
@@ -147,7 +123,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:vibration_chamber', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:vibration_chamber')
         //Interface
-            e.remove({output: 'ae2:interface'});
             e.recipes.createSequencedAssembly([
                     Item.of('4x ae2:interface'),
                 ], 'nyagibits_bytes:ae2_assembly',
@@ -156,7 +131,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:interface', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:interface')
         //Cell Workbench
-            e.remove({output: 'ae2:cell_workbench'});
             e.recipes.createSequencedAssembly([
                     Item.of('ae2:cell_workbench'),
                 ], 'nyagibits_bytes:ae2_assembly',
@@ -165,7 +139,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:cell_workbench', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:cell_workbench')
         //IO Port
-            e.remove({output: 'ae2:io_port'});
             e.recipes.createSequencedAssembly([
                     Item.of('ae2:io_port'),
                 ], 'ae2:cell_workbench',
@@ -174,7 +147,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('ae2:cell_workbench', ['ae2:io_port', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:io_port')
         //Item Cell Housing
-            e.remove({output: 'ae2:item_cell_housing'});
             e.recipes.createSequencedAssembly([
                     Item.of('5x ae2:item_cell_housing'),
                 ], 'nyagibits_bytes:ae2_assembly',
@@ -183,7 +155,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:item_cell_housing', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:item_cell_housing')
         //Fluid Cell Housing
-            e.remove({output: 'ae2:fluid_cell_housing'});
             e.recipes.createSequencedAssembly([
                     Item.of('ae2:fluid_cell_housing'),
                 ], 'ae2:item_cell_housing',
@@ -193,7 +164,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('ae2:item_cell_housing', ['ae2:fluid_cell_housing', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:fluid_cell_housing')
         //Ae2 Chest
-            e.remove({output: 'ae2:chest'});
             e.recipes.createSequencedAssembly([
                     Item.of('ae2:chest'),
                 ], 'nyagibits_bytes:ae2_assembly',
@@ -202,7 +172,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:chest', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:chest')
         //1k Item Storage Cell
-            e.remove({output: 'ae2:cell_component_1k'});
             e.recipes.createSequencedAssembly([
                     Item.of('20x ae2:cell_component_1k'),
                 ], 'nyagibits_bytes:ae2_assembly',
@@ -211,7 +180,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:cell_component_1k', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:cell_component_1k')
         //4k Item Storage Cell
-            e.remove({output: 'ae2:cell_component_4k'});
             e.recipes.createSequencedAssembly([
                     Item.of('ae2:cell_component_4k'),
                 ], 'ae2:cell_component_1k',
@@ -220,7 +188,6 @@ ServerEvents.recipes(event => {
                         e.recipes.createDeploying('ae2:cell_component_1k', ['ae2:cell_component_4k', 'immersiveengineering:circuit_board']),
                         e.recipes.createDeploying('ae2:cell_component_1k', ['ae2:cell_component_4k', 'nyagibits_bytes:ae2_schematic'])
                     ]).loops(1).transitionalItem('ae2:cell_component_4k')
-
         //To-be-added
             e.remove({output: 'ae2:wireless_access_point'});
             e.remove({output: 'ae2:tiny_tnt'});
@@ -257,7 +224,6 @@ ServerEvents.recipes(event => {
             e.remove({output: 'ae2:item_storage_cell_64k'});
             e.remove({output: 'ae2:item_storage_cell_256k'});
         //Logic Processor
-            e.remove({output: 'ae2:logic_processor'});
             e.recipes.createSequencedAssembly([
                     Item.of('ae2:logic_processor'),
                 ], 'create:golden_sheet',

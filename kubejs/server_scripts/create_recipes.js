@@ -1,14 +1,13 @@
-ServerEvents.recipes(event => {
-    //Create
-
-    //------------------------------------------------------------------
+ServerEvents.recipes(e => {
+//Create
+//------------------------------------------------------------------
     //Create Shapeless
-    event.shapeless(Item.of('create:sand_paper', '{Damage:0}'),['minecraft:paper', 'nyagibits_bytes:crude_abrasive'])
-    //------------------------------------------------------------------
+        e.shapeless(Item.of('create:sand_paper', '{Damage:0}'),['minecraft:paper', 'nyagibits_bytes:crude_abrasive'])
+//------------------------------------------------------------------
     //Create Shaped
         //Shaft
-            event.remove({output: 'create:shaft'});
-            event.shaped(Item.of('create:shaft', 8), 
+            e.remove({output:'create:shaft'})
+            e.shaped(Item.of('create:shaft', 8), 
                 [ 
                     'A', 
                     'A'  
@@ -18,8 +17,8 @@ ServerEvents.recipes(event => {
                 }
                 )
         //Small Cog
-            event.remove({output: 'create:cogwheel'});
-            event.shaped(Item.of('create:cogwheel', 2), [
+            e.remove({output:'create:cogwheel'})
+            e.shaped(Item.of('create:cogwheel', 2), [
                     'CA ',
                     'CBC',
                     ' AC'
@@ -29,8 +28,8 @@ ServerEvents.recipes(event => {
                     C: 'botania:livingwood_planks_stairs'
             })
         //Large Cog
-            event.remove({output: 'create:large_cogwheel'});
-            event.shaped(Item.of('create:large_cogwheel', 2), [
+            e.remove({output:'create:large_cogwheel'})
+            e.shaped(Item.of('create:large_cogwheel', 2), [
                 'CAC',
                 'BDB',
                 'CAC'
@@ -41,8 +40,8 @@ ServerEvents.recipes(event => {
                 D: 'create:cogwheel'
             })
         //Water Wheel
-            event.remove({output: 'create:water_wheel'});
-            event.shaped(Item.of('create:water_wheel'), [
+            e.remove({output:'create:water_wheel'})
+            e.shaped(Item.of('create:water_wheel'), [
                 'ABA',
                 'CDC',
                 'ABA'
@@ -53,8 +52,8 @@ ServerEvents.recipes(event => {
                 D: 'create:andesite_casing'
             })
         //Basin
-            event.remove({output: 'create:basin'});
-            event.shaped(Item.of('create:basin'), [
+            e.remove({output:'create:basin'})
+            e.shaped(Item.of('create:basin'), [
                 'A A',
                 'ABA'
             ], {
@@ -62,16 +61,16 @@ ServerEvents.recipes(event => {
                 B: 'botania:livingrock_bricks'
             })
         //Depot
-            event.remove({output: 'create:depot'});
-            event.shaped(Item.of('create:depot'), [
+            e.remove({output:'create:depot'})
+            e.shaped(Item.of('create:depot'), [
                 'ABA'
             ], {
                 A: 'botania:livingrock_stairs',
                 B: 'create:andesite_alloy_block'
             })
         //Press
-            event.remove({output: 'create:mechanical_press'});
-            event.shaped(Item.of('create:mechanical_press'), [
+            e.remove({output:'create:mechanical_press'})
+            e.shaped(Item.of('create:mechanical_press'), [
                 'A',
                 'B',
                 'C'
@@ -81,8 +80,8 @@ ServerEvents.recipes(event => {
                 C: 'quark:iron_plate'
             })
         //Whisk
-            event.remove({output: 'create:whisk'});
-            event.shaped(Item.of('create:whisk'), [
+            e.remove({output:'create:whisk'})
+            e.shaped(Item.of('create:whisk'), [
                 ' A ',
                 'BAB',
                 'BBB'
@@ -91,16 +90,16 @@ ServerEvents.recipes(event => {
                 B: 'create:iron_sheet'
             })
         //Mechanical Belt
-            event.remove({output: 'create:belt_connector'});
-            event.shaped(Item.of('create:belt_connector'), [
+            e.remove({output:'create:belt_connector'})
+            e.shaped(Item.of('create:belt_connector'), [
                 'BAB'
             ], {
                 A: 'thermal:rubber',
                 B: 'immersiveengineering:hemp_fiber'
             })  
         //Mechanical Drill
-            event.remove({output: 'create:mechanical_drill'});
-            event.shaped(Item.of('create:mechanical_drill'), [
+            e.remove({output:'create:mechanical_drill'})
+            e.shaped(Item.of('create:mechanical_drill'), [
                 ' AB',
                 'CDE',
                 ' AB'
@@ -112,8 +111,8 @@ ServerEvents.recipes(event => {
                 E: 'thermal:drill_head'
             })  
         //Mechanical Saw
-            event.remove({output: 'create:mechanical_saw'});
-            event.shaped(Item.of('create:mechanical_saw'), [
+            e.remove({output:'create:mechanical_saw'})
+            e.shaped(Item.of('create:mechanical_saw'), [
                 ' AB',
                 'CDE',
                 ' AB'
@@ -125,8 +124,8 @@ ServerEvents.recipes(event => {
                 E: 'thermal:saw_blade'
             })  
         //Mechanical Harvester
-            event.remove({output: 'create:mechanical_harvester'});
-            event.shaped(Item.of('create:mechanical_harvester'), [
+            e.remove({output:'create:mechanical_harvester'})
+            e.shaped(Item.of('create:mechanical_harvester'), [
                 ' AB',
                 'CDE',
                 ' AB'
@@ -138,8 +137,8 @@ ServerEvents.recipes(event => {
                 E: 'quark:grate'
             })  
         //Encased Fan
-            event.remove({output: 'create:encased_fan'});
-            event.shaped(Item.of('create:encased_fan'), [
+            e.remove({output:'create:encased_fan'})
+            e.shaped(Item.of('create:encased_fan'), [
                 ' AB',
                 'CDE',
                 ' AB'
@@ -151,8 +150,8 @@ ServerEvents.recipes(event => {
                 E: 'create:propeller'
             })  
         //Millstone
-            event.remove({output: 'create:millstone'});
-            event.shaped(Item.of('create:millstone'), [
+            e.remove({output:'create:millstone'})
+            e.shaped(Item.of('create:millstone'), [
                 ' A ',
                 'BCB',
                 'DED'
@@ -164,8 +163,8 @@ ServerEvents.recipes(event => {
                 E: 'create:andesite_casing'
             })  
         //Empty Blaze Burner
-            event.remove({output: 'create:empty_blaze_burner'});
-            event.shaped(Item.of('create:empty_blaze_burner'), [
+            e.remove({output:'create:empty_blaze_burner'})
+            e.shaped(Item.of('create:empty_blaze_burner'), [
                 'A A',
                 'BCB',
                 'DED'
@@ -177,8 +176,8 @@ ServerEvents.recipes(event => {
                 E: 'minecraft:blast_furnace'
             })  
         //Brass Hand
-            event.remove({output: 'create:brass_hand'});
-            event.shaped(Item.of('create:brass_hand'), [
+            e.remove({output:'create:brass_hand'})
+            e.shaped(Item.of('create:brass_hand'), [
                 ' A ',
                 'BCB',
                 ' B '
@@ -188,8 +187,8 @@ ServerEvents.recipes(event => {
                 C: 'create:brass_ingot'
             })  
         //Hand Crank
-            event.remove({output: 'create:hand_crank'});
-            event.shaped(Item.of('create:hand_crank'), [
+            e.remove({output:'create:hand_crank'})
+            e.shaped(Item.of('create:hand_crank'), [
                 'AAB',
                 ' CD'
             ], {
@@ -199,20 +198,20 @@ ServerEvents.recipes(event => {
                 D: 'create:shaft'
             })  
         //Rose Quartz
-            event.remove({output: 'create:rose_quartz'});
-            event.shaped(Item.of('2x create:rose_quartz'), [
-                'ABA',
-                'CDC',
-                'ACA'
-            ], {
-                A: 'minecraft:redstone',
-                B: 'minecraft:red_dye',
-                C: 'quark:clear_shard',
-                D: 'minecraft:quartz'
-            })   
-            //Rose Quartz - Tier 2
-                event.remove({output: 'create:rose_quartz'});
-                event.shaped(Item.of('8x create:rose_quartz'), [
+            e.remove({output:'create:rose_quartz'})
+            //Tier 1
+                e.shaped(Item.of('2x create:rose_quartz'), [
+                    'ABA',
+                    'CDC',
+                    'ACA'
+                ], {
+                    A: 'minecraft:redstone',
+                    B: 'minecraft:red_dye',
+                    C: 'quark:clear_shard',
+                    D: 'minecraft:quartz'
+                })   
+            //Tier 2
+                e.shaped(Item.of('8x create:rose_quartz'), [
                     'ABA',
                     'CDC',
                     'ACA'
@@ -223,8 +222,8 @@ ServerEvents.recipes(event => {
                     D: 'nyagibits_bytes:raw_rose_quartz'
                 }) 
         //Mechanical Crafter
-            event.remove({output: 'create:mechanical_crafter'});
-            event.shaped(Item.of('8x create:mechanical_crafter'), [
+            e.remove({output:'create:mechanical_crafter'})
+            e.shaped(Item.of('8x create:mechanical_crafter'), [
                 'ABA',
                 'CDC'
             ], {
@@ -233,35 +232,34 @@ ServerEvents.recipes(event => {
                 C: 'create:shaft',
                 D: 'create:belt_connector'
             })                            
-    //------------------------------------------------------------------
+//------------------------------------------------------------------
     //Create Mixing recipes
-    //------------------------------------------------------------------
+//------------------------------------------------------------------
     //Create Compacting recipes
         //Raw Rubber
-            event.remove({output: 'thermal:rubber'});
-            event.recipes.create.compacting(['thermal:rubber'], ['minecraft:vine', 'minecraft:dried_kelp', Fluid.of('water', 100)])
-    //------------------------------------------------------------------
+            e.recipes.create.compacting(['thermal:rubber'], ['minecraft:vine', 'minecraft:dried_kelp', Fluid.of('water', 100)])
+//------------------------------------------------------------------
     //Create Press recipes
         //Chute
-            event.remove({output: 'create:chute'});
-            event.recipes.create.pressing(['create:chute'], ['quark:iron_plate'])
-    //------------------------------------------------------------------
-    //Create right click recipes
+            e.remove({output:'create:chute'})
+            e.recipes.create.pressing(['create:chute'], ['quark:iron_plate'])
+//------------------------------------------------------------------
+    //Create In-World recipes
         //Andesite Casing
                 ////////TEMPORARY RECIPE\\\\\\\\\\\\\\
-            event.remove({output: 'create:andesite_casing'});
-                event.shapeless('create:andesite_casing',['nyagibits_bytes:etched_living_wood', 'nyagibits_bytes:livisite_alloy'])
-            event.recipes.createDeploying('create:andesite_casing',['nyagibits_bytes:etched_living_wood', 'nyagibits_bytes:livisite_alloy'])
+                e.remove({output:'create:andesite_casing'})
+                e.shapeless('create:andesite_casing',['nyagibits_bytes:etched_living_wood', 'nyagibits_bytes:livisite_alloy'])
+            e.recipes.createDeploying('create:andesite_casing',['nyagibits_bytes:etched_living_wood', 'nyagibits_bytes:livisite_alloy'])
         //Brass Casing
                 ////////TEMPORARY RECIPE\\\\\\\\\\\\\\
-            event.remove({output: 'create:brass_casing'});
-                event.shapeless('create:brass_casing',['nyagibits_bytes:pile_of_crude_mechanical_parts', 'create:andesite_casing'])
-            event.recipes.createDeploying('create:brass_casing',['nyagibits_bytes:pile_of_crude_mechanical_parts', 'create:andesite_casing'])
-    //------------------------------------------------------------------
+                e.remove({output:'create:brass_casing'})
+                e.shapeless('create:brass_casing',['nyagibits_bytes:pile_of_crude_mechanical_parts', 'create:andesite_casing'])
+            e.recipes.createDeploying('create:brass_casing',['nyagibits_bytes:pile_of_crude_mechanical_parts', 'create:andesite_casing'])
+//------------------------------------------------------------------
     //Create Mechanical recipes
         //Deployer
-            event.remove({output: 'create:deployer'});
-            event.recipes.create.mechanicalCrafting('create:deployer', [
+            e.remove({output:'create:deployer'})
+            e.recipes.create.mechanicalCrafting('create:deployer', [
                 ' ABCD ',
                 'EFGHHH',
                 ' ABCD '
