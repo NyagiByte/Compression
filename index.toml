@@ -1017,6 +1017,11 @@ hash = "6bd7068b5350d68cf36658290368084fe9fa3caf18f39553648710e875729d8d"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "63800317329d340d3550b00dda4fecb2861cc6a643c2390d34f446c550ff9f06"
+metafile = true
+
+[[files]]
 file = "mods/nuclearcraft-neoteric.pw.toml"
 hash = "a64a7f239c438513d1f92766d353cfe547b9a03eaa33b53c937e179bac2ca406"
 metafile = true
