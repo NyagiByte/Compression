@@ -3,8 +3,7 @@ ServerEvents.recipes(event => {
     //Shaped Crafting
         //Book
             //Tier 0
-                event.shaped(
-                    Item.of('minecraft:book'), 
+                event.shaped('minecraft:book', 
                     [ 
                         'AA ', 
                         'AB '
@@ -12,10 +11,9 @@ ServerEvents.recipes(event => {
                     {
                         A: 'minecraft:paper', 
                         B: 'farmersdelight:canvas'
-                    })
+                    }).id('compression:compression/farmersdelight/shaped/book/tier0')
             //Tier 1
-                event.shaped(
-                    Item.of('4x minecraft:book'), 
+                event.shaped('4x minecraft:book', 
                     [ 
                         'C  ', 
                         ' AA',
@@ -25,10 +23,10 @@ ServerEvents.recipes(event => {
                         A: 'minecraft:paper', 
                         B: 'farmersdelight:canvas',
                         C: 'minecraft:leather'
-                    })
+                    }).id('compression:compression/farmersdelight/shaped/book/tier1')
 //------------------------------------------------------------------
     //Create Mixing
         //Heated        
             //Straw
-                event.recipes.create.mixing('farmersdelight:straw',['#byg:all/saplings']).heated()    
+                event.recipes.create.mixing('farmersdelight:straw',['#byg:all/saplings']).heated().id('compression:compression/farmersdelight/mixing/straw')    
 })

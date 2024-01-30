@@ -585,28 +585,36 @@ file = "kubejs/exported/tags/sandbox/template_pool_extension.txt"
 hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
+file = "kubejs/server_scripts/Removal/create.js"
+hash = "0197f229e0fb498efafe5d8c280e78e3ed91f6e75309b639768a1987d9fb84df"
+
+[[files]]
 file = "kubejs/server_scripts/Removal/mod.js"
 hash = "866f70d5dce4053df75dd5fdcc93787748a5c0366c373cb4eece99af05c4cfe3"
 
 [[files]]
+file = "kubejs/server_scripts/Removal/vanilla.js"
+hash = "5877818c26ad0aee8cafc5bd56cf1e5641a9d0feb7faa588401e6ac30c410368"
+
+[[files]]
 file = "kubejs/server_scripts/ae2.js"
-hash = "46cb25f89a3879e9b1f2dcce55eeb5503af1c77d6e7afb2e6d16acb78bc5a7cb"
+hash = "fb01184bdbc23c25bd522e03f9b3d1a10cd9f48ce41c2f68c222dfe968819281"
 
 [[files]]
 file = "kubejs/server_scripts/aiot_botania.js"
-hash = "9c578f840cd5df33fe8a25925c324de9fdb93957f2bb60ff719b0ef35cf7765e"
+hash = "0b3a3fc91ea99be6777d4a03c735150c4f4e2d49f76d684c508dee0c06f23c0e"
 
 [[files]]
 file = "kubejs/server_scripts/botania_recipes.js"
-hash = "151660e41d71207d54a486540c86cbceebb433c7ebc84c1dbd20eadb13d04258"
+hash = "b0a62510c4c5d2834402d8ee356d8d56f89d16e17f076b14c1d282ff7f3082aa"
 
 [[files]]
 file = "kubejs/server_scripts/create_recipes.js"
-hash = "99849d978ce36f2688f5562eb77dd9aeb71a785d0e1d188adfcf1e956574cbca"
+hash = "f5c1de1ffc59ce8801a8ad715e0642f181fa63942ec78ae4065753803767ea49"
 
 [[files]]
 file = "kubejs/server_scripts/farmers_delight.js"
-hash = "66b941235f35e6d8a85a1eac4dbd0414698012ac4cea9a67e60329470fb51f5d"
+hash = "bc86670d1d397f3d32a64d44f3727b7aefea9f4ee7f90093a6be51759976cc4f"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
@@ -614,11 +622,11 @@ hash = "d967d8692e140925291c224cdd203bf7f214dc3bc7a2336d5c329e7c38011cbb"
 
 [[files]]
 file = "kubejs/server_scripts/mekanism.js"
-hash = "a48b39af006b05ba21cf2339d2b30d41123150b89c8b1313d05c8e7c02c886c3"
+hash = "9fc00a083e4b45ff002a79c11631afd265ae177104ba5bb08fbdc49e4e7ddad2"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes.js"
-hash = "cb7d05ef01b69b5f073cf541b6d71fa78abacdd5b2ea78c72f16a925e8fdbad3"
+hash = "5dbbb99f53ec011565690fc6810f184c86ee00bb7fa181e89e7a89333a276790"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes_ores.js"
@@ -626,15 +634,15 @@ hash = "85e340536118d23ff40ed433d7d88abdd94f606c4a407965682791f7c5ed5bc0"
 
 [[files]]
 file = "kubejs/server_scripts/quark.js"
-hash = "3341f1841f1e2ea281a66d74b40e5dec226f64d5aa615d7780efab89428215db"
+hash = "b5fb5107cd9384f0c119be562fd26de2f6c8b00c89e54c93067586b5ef7978ac"
 
 [[files]]
 file = "kubejs/server_scripts/thermal_series.js"
-hash = "2a34818e6b9b216d8c23b7c7fcf9a98bae58c4d3bcf36e8bebaf4304039ef41b"
+hash = "16279bd262f3f578046b846cd939ce2d61561c5e782fe067a240be96d83b7f4b"
 
 [[files]]
 file = "kubejs/server_scripts/vanilla_recipes.js"
-hash = "46544e9f495dd16c89ec5a27f6e8bf6f7ce6564bac49094d5dbae4ee6cad00b1"
+hash = "9221d711acb2b2a9ea293a76e15a528e12e13d7d19ed69e562d16d5de361515c"
 
 [[files]]
 file = "kubejs/startup_scripts/block_modify.js"

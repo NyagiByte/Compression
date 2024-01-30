@@ -1,8 +1,9 @@
-ServerEvents.recipes(event => {
+ServerEvents.recipes(e => {
 //------------------------------------------------------------------
-
+    //Shaped
+    //Shapeless
 //------------------------------------------------------------------
-    //Create Milling
+    //Milling
         //Charcoal Dust
-            event.recipes.create.milling(['mekanism:dust_charcoal'], ['minecraft:charcoal'])
+            e.recipes.create.milling(['mekanism:dust_charcoal'], ['minecraft:charcoal']).id('compression:compression/mekanism/milling/dust_charcoal')
     })

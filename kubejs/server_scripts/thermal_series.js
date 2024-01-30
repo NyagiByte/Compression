@@ -2,7 +2,7 @@ ServerEvents.recipes(e => {
 //------------------------------------------------------------------
     //Shaped Crafting
         //Drill
-            e.shaped(Item.of('thermal:drill_head'), 
+            e.shaped('thermal:drill_head', 
                 [ 
                     ' AA', 
                     'ABA',
@@ -10,9 +10,9 @@ ServerEvents.recipes(e => {
                 ], {
                         A: 'create:iron_sheet',
                         B: 'create:shaft'
-                })
+                }).id('compression:compression/thermal/shaped/drill_head')
         //Sawblade
-            e.shaped(Item.of('thermal:saw_blade'), 
+            e.shaped('thermal:saw_blade', 
                 [ 
                     'AA ', 
                     'ABA',
@@ -20,6 +20,6 @@ ServerEvents.recipes(e => {
                 ], {
                     A: 'create:iron_sheet',
                     B: 'create:shaft'
-                })
-    //------------------------------------------------------------------
+                }).id('compression:compression/thermal/shaped/saw_blade')
+//------------------------------------------------------------------
 })

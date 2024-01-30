@@ -1,10 +1,8 @@
-ServerEvents.recipes(event => {
+ServerEvents.recipes(e => {
 //------------------------------------------------------------------    
-    //Applied Energistics 2 Shaped
+    //Shaped
         //Meteorite
-            event.remove({output: 'ae2:meteorite_compass'});
-            event.shaped(
-                Item.of('ae2:meteorite_compass'), 
+            e.shaped('ae2:meteorite_compass', 
                 [ 
                     ' AB', 
                     'ACA',
@@ -14,180 +12,173 @@ ServerEvents.recipes(event => {
                     A: 'create:iron_sheet', 
                     B: 'minecraft:amethyst_shard',
                     C: 'botania:solegnolia'
-                })
+                }).id('compression:compression/ae2/shaped/meteorite_compass')
 //------------------------------------------------------------------
-    //Applied Energistics 2 Cutting
-        //Silicon
-            event.recipes.create.cutting('2x ae2:silicon',['nyagibits_bytes:crude_silicon_boule'])
-//------------------------------------------------------------------
-})
-//------------------------------------------------------------------
-    //Create Sequenced Assembly
-    ServerEvents.recipes(e => {
+    //Sequenced Assembly
         //Controller
             e.recipes.createSequencedAssembly([
-                    Item.of('ae2:controller'),
+                    'ae2:controller',
                 ], 'nyagibits_bytes:ae2_assembly',
                     [
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:controller', 'ae2:energy_acceptor']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:controller', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:controller')
+                    ]).loops(1).transitionalItem('ae2:controller').id('compression:compression/ae2/assembly/controller')
         //Energy Acceptor
             e.recipes.createSequencedAssembly([
-                    Item.of('ae2:energy_acceptor'),
+                    'ae2:energy_acceptor',
                 ], 'nyagibits_bytes:ae2_assembly',
                     [
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:energy_acceptor', 'nyagibits_bytes:energized_frame']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:energy_acceptor', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:energy_acceptor')
+                    ]).loops(1).transitionalItem('ae2:energy_acceptor').id('compression:compression/ae2/assembly/energy_acceptor')
         //Drive
             e.recipes.createSequencedAssembly([
-                    Item.of('2x ae2:drive'),
+                    '2x ae2:drive',
                 ], 'nyagibits_bytes:ae2_assembly',
                     [
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:drive', 'ae2:sky_stone_chest']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:drive', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:drive')
+                    ]).loops(1).transitionalItem('ae2:drive').id('compression:compression/ae2/assembly/drive')
         //Inscription Press
             e.recipes.createSequencedAssembly([
-                    Item.of('2x ae2:inscriber'),
+                    '2x ae2:inscriber',
                 ], 'nyagibits_bytes:ae2_assembly',
                     [
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:inscriber', 'create:mechanical_press']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:inscriber', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:inscriber')
+                    ]).loops(1).transitionalItem('ae2:inscriber').id('compression:compression/ae2/assembly/inscriber')
         //Fluix Cables
             e.recipes.createSequencedAssembly([
-                    Item.of('64x ae2:fluix_glass_cable'),
+                    '64x ae2:fluix_glass_cable',
                 ], 'nyagibits_bytes:ae2_assembly',
                     [
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:fluix_glass_cable', 'ae2:quartz_fiber']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:fluix_glass_cable', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:fluix_glass_cable')
+                    ]).loops(1).transitionalItem('ae2:fluix_glass_cable').id('compression:compression/ae2/assembly/fluix_glass_cable')
         //Smart Fluix Cables
             e.recipes.createSequencedAssembly([
-                    Item.of('32x ae2:fluix_smart_cable'),
+                    '32x ae2:fluix_smart_cable',
                 ], 'nyagibits_bytes:ae2_assembly',
                     [
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:fluix_smart_cable', 'ae2:fluix_covered_cable']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:fluix_smart_cable', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:fluix_smart_cable')
+                    ]).loops(1).transitionalItem('ae2:fluix_smart_cable').id('compression:compression/ae2/assembly/fluix_smart_cable')
         //Dense Fluix Cables
             e.recipes.createSequencedAssembly([
-                    Item.of('16x ae2:fluix_smart_dense_cable'),
+                    '16x ae2:fluix_smart_dense_cable',
                 ], 'nyagibits_bytes:ae2_assembly',
                     [
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:fluix_smart_dense_cable', 'ae2:fluix_covered_dense_cable']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:fluix_smart_dense_cable', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:fluix_smart_dense_cable')
+                    ]).loops(1).transitionalItem('ae2:fluix_smart_dense_cable').id('compression:compression/ae2/assembly/fluix_smart_dense_cable')
         //Charged Light Fixture
             e.recipes.createSequencedAssembly([
-                    Item.of('128x ae2:quartz_fixture'),
+                    '128x ae2:quartz_fixture',
                 ], 'nyagibits_bytes:ae2_assembly',
                     [
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:quartz_fixture', 'byg:glowstone_lantern']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:quartz_fixture', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:quartz_fixture')
+                    ]).loops(1).transitionalItem('ae2:quartz_fixture').id('compression:compression/ae2/assembly/quartz_fixture')
         //Light Detecting Fixture
             e.recipes.createSequencedAssembly([
-                    Item.of('128x ae2:light_detector'),
+                    '128x ae2:light_detector',
                 ], 'nyagibits_bytes:ae2_assembly',
                     [
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:light_detector', 'minecraft:daylight_detector']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:light_detector', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:light_detector')
+                    ]).loops(1).transitionalItem('ae2:light_detector').id('compression:compression/ae2/assembly/light_detector')
         //Skystone Tank
             e.recipes.createSequencedAssembly([
-                    Item.of('10x ae2:sky_stone_tank'),
+                    '10x ae2:sky_stone_tank',
                 ], 'nyagibits_bytes:ae2_assembly',
                     [
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:sky_stone_tank', 'create:fluid_tank']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:sky_stone_tank', 'ae2:smooth_sky_stone_block']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:sky_stone_tank', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:sky_stone_tank')
+                    ]).loops(1).transitionalItem('ae2:sky_stone_tank').id('compression:compression/ae2/assembly/sky_stone_tank')
         //Charger
             e.recipes.createSequencedAssembly([
-                    Item.of('ae2:charger'),
+                    'ae2:charger',
                 ], 'nyagibits_bytes:ae2_assembly',
                     [
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:charger', 'nyagibits_bytes:raw_magnetite']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:charger', 'thermal:rf_potato']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:charger', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:sky_stone_tank')
+                    ]).loops(1).transitionalItem('ae2:sky_stone_tank').id('compression:compression/ae2/assembly/charger')
         //Vibration Chamber
             e.recipes.createSequencedAssembly([
-                    Item.of('ae2:vibration_chamber'),
+                    'ae2:vibration_chamber',
                 ], 'nyagibits_bytes:ae2_assembly',
                     [
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:vibration_chamber', 'create:blaze_burner']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:vibration_chamber', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:vibration_chamber')
+                    ]).loops(1).transitionalItem('ae2:vibration_chamber').id('compression:compression/ae2/assembly/vibration_chamber')
         //Interface
             e.recipes.createSequencedAssembly([
-                    Item.of('4x ae2:interface'),
+                    '4x ae2:interface',
                 ], 'nyagibits_bytes:ae2_assembly',
                     [
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:interface', 'minecraft:trapped_chest']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:interface', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:interface')
+                    ]).loops(1).transitionalItem('ae2:interface').id('compression:compression/ae2/assembly/interface')
         //Cell Workbench
             e.recipes.createSequencedAssembly([
-                    Item.of('ae2:cell_workbench'),
+                    'ae2:cell_workbench',
                 ], 'nyagibits_bytes:ae2_assembly',
                     [
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:cell_workbench', 'immersiveengineering:craftingtable']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:cell_workbench', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:cell_workbench')
+                    ]).loops(1).transitionalItem('ae2:cell_workbench').id('compression:compression/ae2/assembly/cell_workbench')
         //IO Port
             e.recipes.createSequencedAssembly([
-                    Item.of('ae2:io_port'),
+                    'ae2:io_port',
                 ], 'ae2:cell_workbench',
                     [
                         e.recipes.createDeploying('ae2:cell_workbench', ['ae2:io_port', 'botania:lens_magnet']),
                         e.recipes.createDeploying('ae2:cell_workbench', ['ae2:io_port', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:io_port')
+                    ]).loops(1).transitionalItem('ae2:io_port').id('compression:compression/ae2/assembly/io_port')
         //Item Cell Housing
             e.recipes.createSequencedAssembly([
-                    Item.of('5x ae2:item_cell_housing'),
+                    '5x ae2:item_cell_housing',
                 ], 'nyagibits_bytes:ae2_assembly',
                     [
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:item_cell_housing', 'ironchests:diamond_chest']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:item_cell_housing', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:item_cell_housing')
+                    ]).loops(1).transitionalItem('ae2:item_cell_housing').id('compression:compression/ae2/assembly/item_cell_housing')
         //Fluid Cell Housing
             e.recipes.createSequencedAssembly([
-                    Item.of('ae2:fluid_cell_housing'),
+                    'ae2:fluid_cell_housing',
                 ], 'ae2:item_cell_housing',
                     [
                         e.recipes.createDeploying('ae2:item_cell_housing', ['ae2:fluid_cell_housing', 'immersiveengineering:slab_sheetmetal_constantan']),
                         e.recipes.createDeploying('ae2:item_cell_housing', ['ae2:fluid_cell_housing', 'pneumaticcraft:small_tank']),
                         e.recipes.createDeploying('ae2:item_cell_housing', ['ae2:fluid_cell_housing', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:fluid_cell_housing')
+                    ]).loops(1).transitionalItem('ae2:fluid_cell_housing').id('compression:compression/ae2/assembly/fluid_cell_housing')
         //Ae2 Chest
             e.recipes.createSequencedAssembly([
-                    Item.of('ae2:chest'),
+                    'ae2:chest',
                 ], 'nyagibits_bytes:ae2_assembly',
                     [
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:chest', 'ae2:smooth_sky_stone_chest']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:chest', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:chest')
+                    ]).loops(1).transitionalItem('ae2:chest').id('compression:compression/ae2/assembly/chest')
         //1k Item Storage Cell
             e.recipes.createSequencedAssembly([
-                    Item.of('20x ae2:cell_component_1k'),
+                    '20x ae2:cell_component_1k',
                 ], 'nyagibits_bytes:ae2_assembly',
                     [
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:cell_component_1k', 'ae2:chest']),
                         e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:cell_component_1k', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:cell_component_1k')
+                    ]).loops(1).transitionalItem('ae2:cell_component_1k').id('compression:compression/ae2/assembly/cell_component_1k')
         //4k Item Storage Cell
             e.recipes.createSequencedAssembly([
-                    Item.of('ae2:cell_component_4k'),
+                    'ae2:cell_component_4k',
                 ], 'ae2:cell_component_1k',
                     [
                         e.recipes.createDeploying('ae2:cell_component_1k', ['ae2:cell_component_4k', 'botania:quartz_mana']),
                         e.recipes.createDeploying('ae2:cell_component_1k', ['ae2:cell_component_4k', 'immersiveengineering:circuit_board']),
                         e.recipes.createDeploying('ae2:cell_component_1k', ['ae2:cell_component_4k', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:cell_component_4k')
+                    ]).loops(1).transitionalItem('ae2:cell_component_4k').id('compression:compression/ae2/assembly/cell_component_4k')
         //To-be-added
             e.remove({output: 'ae2:wireless_access_point'});
             e.remove({output: 'ae2:tiny_tnt'});
@@ -225,10 +216,13 @@ ServerEvents.recipes(event => {
             e.remove({output: 'ae2:item_storage_cell_256k'});
         //Logic Processor
             e.recipes.createSequencedAssembly([
-                    Item.of('ae2:logic_processor'),
+                    'ae2:logic_processor',
                 ], 'create:golden_sheet',
                     [
                         e.recipes.createDeploying('create:golden_sheet', ['create:golden_sheet', 'ae2:fluix_covered_dense_cable'])
-                    ]).loops(1).transitionalItem('nyagibits_bytes:ae2_assembly')
-    //------------------------------------------------------------------
-    })
+                    ]).loops(1).transitionalItem('nyagibits_bytes:ae2_assembly').id('compression:compression/ae2/assembly/logic_processor')
+    //Cutting
+        //Silicon
+            e.recipes.create.cutting('2x ae2:silicon',['nyagibits_bytes:crude_silicon_boule']).id('compression:compression/ae2/assembly/silicon')
+//------------------------------------------------------------------
+})
