@@ -2514,7 +2514,11 @@
 		}
 		{
 			dependencies: ["5EF1C3C4635C1CF1"]
-			description: ["Drops 64 ores total from a pool of 8 options, requires at least a terra steel pickaxe to mine"]
+			description: [
+				"Drops 64 ores total from a pool of 8 options, requires at least a terra steel pickaxe to mine"
+				""
+				"&bUnlocks in Tier 5"
+			]
 			icon: "nyagibits_bytes:hyper_conglomerate_iron_ore"
 			id: "30F02289436EB3F9"
 			shape: "hexagon"
@@ -2536,7 +2540,11 @@
 		}
 		{
 			dependencies: ["4E7A58F86D085264"]
-			description: ["Drops 16 ores total from a pool of 8 options, requires at least an elementium pickaxe to mine"]
+			description: [
+				"Drops 16 ores total from a pool of 8 options, requires at least an elementium pickaxe to mine"
+				""
+				"&aUnlocks in Tier 3"
+			]
 			icon: "nyagibits_bytes:dense_conglomerate_iron_ore"
 			id: "5EF1C3C4635C1CF1"
 			shape: "hexagon"
@@ -2560,7 +2568,11 @@
 				"0C8B67BDF8C96B14"
 				"55F62F8F0F606A69"
 			]
-			description: ["Drops 4 ores total from a pool of 8 options, requires at least a manasteel pickaxe to mine"]
+			description: [
+				"Drops 4 ores total from a pool of 8 options, requires at least a manasteel pickaxe to mine"
+				""
+				"&bUnlocks in Tier 1"
+			]
 			icon: "nyagibits_bytes:conglomerate_iron_ore"
 			id: "4E7A58F86D085264"
 			shape: "hexagon"
@@ -2581,7 +2593,11 @@
 		}
 		{
 			dependencies: ["30F02289436EB3F9"]
-			description: ["Drops 256 ores total from a pool of 8 options, requires at least an alfsteel pickaxe to mine"]
+			description: [
+				"Drops 256 ores total from a pool of 8 options, requires at least an alfsteel pickaxe to mine"
+				""
+				"&bUnlocks in Tier 7"
+			]
 			icon: "nyagibits_bytes:tectonic_conglomerate_iron_ore"
 			id: "00F19BCA2441A0A0"
 			shape: "hexagon"
@@ -2606,7 +2622,11 @@
 				"00F19BCA2441A0A0"
 				"55F62F8F0F606A69"
 			]
-			description: ["Drops 64 tectonic ores, requires at least a bedrock breaking pickaxe to mine"]
+			description: [
+				"Drops 64 tectonic ores, requires at least a bedrock breaking pickaxe to mine"
+				""
+				"&bUnlocks in Tier 11"
+			]
 			icon: "nyagibits_bytes:core_conglomerate_iron_ore"
 			id: "5C593DE7D661653B"
 			shape: "hexagon"

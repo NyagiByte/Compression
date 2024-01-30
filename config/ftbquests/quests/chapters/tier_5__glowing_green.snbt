@@ -2,10 +2,10 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "tier_5__glowing_green"
-	group: ""
+	group: "6B3B606AC87356A0"
 	icon: "mekanism:yellow_cake_uranium"
 	id: "30D659F3EEB7B307"
-	order_index: 6
+	order_index: 5
 	quest_links: [ ]
 	quests: [ ]
 	title: "Tier 5 - Glowing Green"

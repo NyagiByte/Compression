@@ -51,6 +51,18 @@
 			x: 3.0d
 			y: -1.5d
 		}
+		{
+			description: ["Normally you can only get these through processing grass, tho due to the book requirements early game, a new method of cooking saplings to straw was developed"]
+			id: "78551F2F0E25BAF8"
+			tasks: [{
+				id: "5B425A70F3AA4216"
+				item: "farmersdelight:straw"
+				type: "item"
+			}]
+			title: "A bundle of twigs"
+			x: -3.0d
+			y: -1.5d
+		}
 	]
 	title: "Organics"
 }

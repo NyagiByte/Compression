@@ -2,10 +2,10 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "tier_6__5_billion_per_second"
-	group: ""
+	group: "6B3B606AC87356A0"
 	icon: "pneumaticcraft:transistor"
 	id: "1C3C118BF0B564FB"
-	order_index: 7
+	order_index: 6
 	quest_links: [ ]
 	quests: [ ]
 	title: "Tier 6 - 5 billion per second"

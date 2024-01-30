@@ -2,10 +2,10 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "tier_8__poking_the_boundaries"
-	group: ""
+	group: "6B3B606AC87356A0"
 	icon: "nyagibits_bytes:flake"
 	id: "4DFFC3C2635CAFBA"
-	order_index: 9
+	order_index: 8
 	quest_links: [ ]
 	quests: [ ]
 	title: "Tier 8 - Poking the boundaries"
