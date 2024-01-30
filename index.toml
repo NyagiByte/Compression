@@ -598,7 +598,7 @@ hash = "151660e41d71207d54a486540c86cbceebb433c7ebc84c1dbd20eadb13d04258"
 
 [[files]]
 file = "kubejs/server_scripts/create_recipes.js"
-hash = "9b29f3773cae366ef8def9afb3cd0cc0a8bd0900ed6db460a34689bdc1e6966e"
+hash = "99849d978ce36f2688f5562eb77dd9aeb71a785d0e1d188adfcf1e956574cbca"
 
 [[files]]
 file = "kubejs/server_scripts/farmers_delight.js"
@@ -622,7 +622,7 @@ hash = "85e340536118d23ff40ed433d7d88abdd94f606c4a407965682791f7c5ed5bc0"
 
 [[files]]
 file = "kubejs/server_scripts/quark.js"
-hash = "1784fb656c4b67b2cf094dd2b4707abf9ad702e656d7d757daea1ef1b2c2b67d"
+hash = "3341f1841f1e2ea281a66d74b40e5dec226f64d5aa615d7780efab89428215db"
 
 [[files]]
 file = "kubejs/server_scripts/thermal_series.js"

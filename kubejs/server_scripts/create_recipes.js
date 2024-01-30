@@ -16,7 +16,7 @@ ServerEvents.recipes(e => {
                     A: 'nyagibits_bytes:livisite_alloy'
                 }
                 )
-        //Small Cog
+        //Small Cog - T0
             e.remove({output:'create:cogwheel'})
             e.shaped(Item.of('create:cogwheel', 2), [
                     'CA ',
@@ -27,6 +27,18 @@ ServerEvents.recipes(e => {
                     B: 'botania:livingwood_planks_slab',
                     C: 'botania:livingwood_planks_stairs'
             })
+            //Small Cog - T1
+                e.remove({output:'create:cogwheel'})
+                e.shaped(Item.of('create:cogwheel', 16), [
+                        'CAD',
+                        'CBC',
+                        'DAC'
+                    ], {
+                        A: 'create:shaft',
+                        B: 'botania:livingwood_planks_slab',
+                        C: 'botania:livingwood_planks_stairs',
+                        D: 'create:brass_nugget'
+                })
         //Large Cog
             e.remove({output:'create:large_cogwheel'})
             e.shaped(Item.of('create:large_cogwheel', 2), [
@@ -68,7 +80,7 @@ ServerEvents.recipes(e => {
                 A: 'botania:livingrock_stairs',
                 B: 'create:andesite_alloy_block'
             })
-        //Press
+        //Press - T0
             e.remove({output:'create:mechanical_press'})
             e.shaped(Item.of('create:mechanical_press'), [
                 'A',
@@ -79,7 +91,19 @@ ServerEvents.recipes(e => {
                 B: 'create:vertical_gearbox',
                 C: 'quark:iron_plate'
             })
-        //Whisk
+            //Press - T1
+                e.recipes.create.mechanicalCrafting('2x create:mechanical_press', [
+                    'A',
+                    'B',
+                    'D',
+                    'C'
+                ], {
+                    A: 'create:piston_extension_pole',
+                    B: 'create:vertical_gearbox',
+                    C: 'quark:iron_plate',
+                    D: 'create:brass_casing'
+                })
+        //Whisk 
             e.remove({output:'create:whisk'})
             e.shaped(Item.of('create:whisk'), [
                 ' A ',
@@ -97,7 +121,7 @@ ServerEvents.recipes(e => {
                 A: 'thermal:rubber',
                 B: 'immersiveengineering:hemp_fiber'
             })  
-        //Mechanical Drill
+        //Mechanical Drill - T0
             e.remove({output:'create:mechanical_drill'})
             e.shaped(Item.of('create:mechanical_drill'), [
                 ' AB',
@@ -110,7 +134,19 @@ ServerEvents.recipes(e => {
                 D: 'create:andesite_casing',
                 E: 'thermal:drill_head'
             })  
-        //Mechanical Saw
+            //Mechanical Drill - T1
+                e.shaped(Item.of('2x create:mechanical_drill'), [
+                    ' AB',
+                    'CDE',
+                    ' AB'
+                ], {
+                    A: 'create:industrial_iron_block',
+                    B: 'nyagibits_bytes:livisite_alloy',
+                    C: 'create:shaft',
+                    D: 'create:brass_casing',
+                    E: 'thermal:drill_head'
+                })   
+        //Mechanical Saw - T0
             e.remove({output:'create:mechanical_saw'})
             e.shaped(Item.of('create:mechanical_saw'), [
                 ' AB',
@@ -122,8 +158,20 @@ ServerEvents.recipes(e => {
                 C: 'create:shaft',
                 D: 'create:andesite_casing',
                 E: 'thermal:saw_blade'
-            })  
-        //Mechanical Harvester
+            })     
+            //Mechanical Saw - T1
+                e.shaped(Item.of('2x create:mechanical_saw'), [
+                    ' AB',
+                    'CDE',
+                    ' AB'
+                ], {
+                    A: 'create:industrial_iron_block',
+                    B: 'nyagibits_bytes:livisite_alloy',
+                    C: 'create:shaft',
+                    D: 'create:brass_casing',
+                    E: 'thermal:saw_blade'
+                }) 
+        //Mechanical Harvester - T0
             e.remove({output:'create:mechanical_harvester'})
             e.shaped(Item.of('create:mechanical_harvester'), [
                 ' AB',
@@ -135,8 +183,20 @@ ServerEvents.recipes(e => {
                 C: 'create:shaft',
                 D: 'create:andesite_casing',
                 E: 'quark:grate'
-            })  
-        //Encased Fan
+            })   
+            //Mechanical Harvester - T1
+                e.shaped(Item.of('2x create:mechanical_harvester'), [
+                    ' AB',
+                    'CDE',
+                    ' AB'
+                ], {
+                    A: 'create:industrial_iron_block',
+                    B: 'nyagibits_bytes:livisite_alloy',
+                    C: 'create:shaft',
+                    D: 'create:brass_casing',
+                    E: 'quark:grate'
+                })  
+        //Encased Fan - T0
             e.remove({output:'create:encased_fan'})
             e.shaped(Item.of('create:encased_fan'), [
                 ' AB',
@@ -149,7 +209,19 @@ ServerEvents.recipes(e => {
                 D: 'create:andesite_casing',
                 E: 'create:propeller'
             })  
-        //Millstone
+            //Encased Fan - T1
+                e.shaped(Item.of('2x create:encased_fan'), [
+                    ' AB',
+                    'CDE',
+                    ' AB'
+                ], {
+                    A: 'create:industrial_iron_block',
+                    B: 'nyagibits_bytes:livisite_alloy',
+                    C: 'create:shaft',
+                    D: 'create:brass_casing',
+                    E: 'create:propeller'
+                })    
+        //Millstone - T0
             e.remove({output:'create:millstone'})
             e.shaped(Item.of('create:millstone'), [
                 ' A ',
@@ -161,7 +233,19 @@ ServerEvents.recipes(e => {
                 C: 'nyagibits_bytes:pile_of_cogs',
                 D: 'nyagibits_bytes:polished_livisite',
                 E: 'create:andesite_casing'
-            })  
+            })     
+            //Millstone - T1
+                e.shaped(Item.of('2x create:millstone'), [
+                    ' A ',
+                    'BCB',
+                    'DED'
+                ], {
+                    A: 'create:chute',
+                    B: 'nyagibits_bytes:livisite_alloy',
+                    C: 'nyagibits_bytes:pile_of_cogs',
+                    D: 'nyagibits_bytes:polished_livisite',
+                    E: 'create:brass_casing'
+                }) 
         //Empty Blaze Burner
             e.remove({output:'create:empty_blaze_burner'})
             e.shaped(Item.of('create:empty_blaze_burner'), [
