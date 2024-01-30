@@ -1081,6 +1081,11 @@ hash = "5ca3e837c2e605c07120ab4ae53c67a6693a79f256c87a5939d09b20a437b5c9"
 metafile = true
 
 [[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "0f1b9970b4dddf8ff69a778c25dcadda8e91e0305c26581ebb7c1d7f54c3b7f9"
+metafile = true
+
+[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "8d50dd4668b13a86e61d7c081e2892b64f19f2d79919020c5902d684e03522e0"
 metafile = true
