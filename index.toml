@@ -126,7 +126,7 @@ hash = "805d444844e1ddb23d212e13b7deab5d4e23f47385db31d33a55a87c2985dab6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome_to_compression.snbt"
-hash = "1a0404a353e1277e7465828aa1eaa869616451481065f853c8d28e7d1a14aeda"
+hash = "3963b644b4a0cfdf561a8f19e7f402a9df2e11896e9af462c640209f4cc5e481"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"

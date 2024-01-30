@@ -33,6 +33,12 @@
 			y: 0.0d
 		}
 		{
+			description: [
+				"Simple Backups is installed to be utilized server side."
+				""
+				"However a manual backup can be triggered with"
+				"&a/simplebackups backup start"
+			]
 			icon: "pneumaticcraft:security_upgrade"
 			id: "5C266BB084E8291E"
 			shape: "hexagon"
@@ -45,6 +51,24 @@
 			y: 1.0d
 		}
 		{
+			description: [
+				"Chunkloading is done through FTB quests"
+				""
+				"&6In order to modify the quantity of chunks/forced chunks go to:&r"
+				"&bInstances --> "
+				"&bCompression --> "
+				"&b.minecraft --> "
+				"&bsaves --> "
+				"&d[your world name] --> "
+				"&bftbchunks --> "
+				"&d[open snbt file]"
+				"^"
+				"max_claim_chunks: "
+				"&a[some number]"
+				""
+				"max_force_load_chunks: "
+				"&a[some number &c<=&r &amax_claim_chunks]"
+			]
 			icon: "createchunkloading:chunk_loader"
 			id: "2B2392C9E05EEE54"
 			shape: "hexagon"
@@ -109,9 +133,9 @@
 		}
 		{
 			description: [
-				"The walls of &dFlake &rare impossible to mine through! How am I suppose to mine?!"
+				"The walls of &dFlake &rare impossible to break through! How am I suppose to mine?!"
 				""
-				"Ores appear exclusively on the surface of the world in massive layered nodes. "
+				"Ores appear exclusively on the surface of the world in massive layered boulders. "
 				""
 				"&bRecipe Scaling &rhas more information on the processing of the ores themselves"
 			]
