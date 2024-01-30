@@ -8,5 +8,6 @@
 	order_index: 9
 	quest_links: [ ]
 	quests: [ ]
-	title: "Tier 9 - Looking Up"
+	subtitle: ["All things formed decay.."]
+	title: " &6Tier 9&r - Looking Up"
 }

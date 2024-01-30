@@ -8,5 +8,6 @@
 	order_index: 6
 	quest_links: [ ]
 	quests: [ ]
-	title: "Tier 6 - 5 billion per second"
+	subtitle: ["Metal and sand made to think"]
+	title: " &6Tier 6&r - 5 billion per second"
 }

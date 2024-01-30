@@ -59,5 +59,6 @@
 			y: -6.0d
 		}
 	]
-	title: " Tier 1 - Magitech Revolution"
+	subtitle: ["Machines greased with mana"]
+	title: " &6Tier 1&r - Magitech Revolution"
 }

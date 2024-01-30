@@ -8,5 +8,6 @@
 	order_index: 14
 	quest_links: [ ]
 	quests: [ ]
-	title: "Tier 14 - All that toils..."
+	subtitle: ["Mangled flesh, Mangled space"]
+	title: " &6Tier 14&r - All that toils..."
 }

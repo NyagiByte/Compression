@@ -8,5 +8,6 @@
 	order_index: 2
 	quest_links: [ ]
 	quests: [ ]
-	title: " Tier 2 - Polytetrafluoro..."
+	subtitle: ["Turning things into other things"]
+	title: " &6Tier 2&r - Polytetrafluoro..."
 }

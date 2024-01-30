@@ -1,6 +1,7 @@
 {
 	chapter_groups: [
 		{ id: "6B3B606AC87356A0", title: " &cThe Path To Null" }
-		{ id: "65E17C337454D8E2", title: "Recipe Scaling" }
+		{ id: "65E17C337454D8E2", title: "&bRecipe Scaling" }
+		{ id: "1C682695BB4A0B06", title: "&dAutomation and YOU!" }
 	]
 }

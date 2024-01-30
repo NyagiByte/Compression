@@ -14,5 +14,6 @@
 	order_index: 4
 	quest_links: [ ]
 	quests: [ ]
-	title: " Tier 4 - Deoxyribonucleic Acid"
+	subtitle: ["Life is chemistry in motion"]
+	title: " &6Tier 4&r - Deoxyribonucleic Acid"
 }

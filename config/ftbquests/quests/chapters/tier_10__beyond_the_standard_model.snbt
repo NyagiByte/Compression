@@ -8,5 +8,6 @@
 	order_index: 10
 	quest_links: [ ]
 	quests: [ ]
-	title: "Tier 10 - Beyond The Standard Model"
+	subtitle: ["No Obligation to make sense, only consistent"]
+	title: " &6Tier 10&r - Beyond The Standard Model"
 }

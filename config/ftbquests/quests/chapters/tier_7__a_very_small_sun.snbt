@@ -8,5 +8,6 @@
 	order_index: 7
 	quest_links: [ ]
 	quests: [ ]
-	title: "Tier 7 - A very small sun"
+	subtitle: ["Only 20 years away!"]
+	title: " &6Tier 7&r - A very small sun"
 }

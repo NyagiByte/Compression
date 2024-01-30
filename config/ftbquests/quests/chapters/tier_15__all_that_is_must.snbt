@@ -8,5 +8,6 @@
 	order_index: 15
 	quest_links: [ ]
 	quests: [ ]
-	title: "Tier 15 - All that is... must..."
+	subtitle: ["Value looses meaning"]
+	title: " &6Tier 15&r - All that is... must..."
 }

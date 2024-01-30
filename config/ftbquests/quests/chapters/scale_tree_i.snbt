@@ -13,7 +13,7 @@
 			description: [
 				"Thats right! To make early game easier paper now takes bark instead of sugar cane."
 				""
-				"&b2 paper per craft"
+				"&b2 Paper per craft"
 			]
 			id: "6F9A0CC233865374"
 			shape: "hexagon"
@@ -27,6 +27,7 @@
 			y: -8.0d
 		}
 		{
+			dependencies: ["12356B8E644A1A52"]
 			description: ["This is the scaling tree for paper"]
 			icon: "minecraft:paper"
 			id: "71143467829FD119"
@@ -48,7 +49,7 @@
 			description: [
 				"Quite a bit more involved but the yield on paper is awesome!"
 				""
-				"&b16 paper per craft"
+				"&b16 Paper per craft"
 			]
 			id: "2350536CFA972596"
 			shape: "hexagon"
@@ -57,9 +58,91 @@
 				item: "chemlib:cellulose_dust"
 				type: "item"
 			}]
+			title: "Mulched Plants"
 			x: -12.5d
 			y: -8.0d
 		}
+		{
+			dependencies: ["12356B8E644A1A52"]
+			description: ["This is the scaling tree for books"]
+			icon: "minecraft:book"
+			id: "58CE0C7BD7398413"
+			tasks: [{
+				id: "53C719E154F57187"
+				title: "Book Tree"
+				type: "checkmark"
+			}]
+			title: "Many paper, but with words"
+			x: -10.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["58CE0C7BD7398413"]
+			description: [
+				"Leather is such a pain early game to acquire! Thankfully some woven dried plants are able to bind paper together just as well"
+				""
+				"&b1 Book per craft"
+			]
+			id: "07E8A1B7E0B721E2"
+			tasks: [{
+				id: "4F34F377BDD9999B"
+				item: "farmersdelight:canvas"
+				type: "item"
+			}]
+			title: "Itchy Paper"
+			x: -10.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["07E8A1B7E0B721E2"]
+			description: [
+				"That being said about leather it does hold the books together a lot more firmly and thus less total raw material is needed"
+				""
+				"&b4 Books per craft"
+			]
+			id: "63EDC0EBBEFA483E"
+			tasks: [{
+				id: "5FF2E63F75BA3B15"
+				item: "minecraft:leather"
+				type: "item"
+			}]
+			title: "The Skin of a Cow"
+			x: -9.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["02903DDEA28657F2"]
+			description: ["The most basic of machine components, the start of the tree. Vanilla recipe yields"]
+			id: "464E07BF8ADBFB35"
+			tasks: [{
+				id: "799A208725585A74"
+				item: "create:andesite_casing"
+				type: "item"
+			}]
+			title: "This is just wood and rock? How is this in machines?"
+			x: -14.5d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"464E07BF8ADBFB35"
+				"741704A82A2C1227"
+			]
+			description: [
+				"Most functional blocks that utilized andesite casings prior can take this to double the amount of machines you get per machine!"
+				""
+				"&bMost Create Machine Blocks: x2"
+			]
+			id: "14810CA3118F5F1A"
+			tasks: [{
+				id: "6E612AF8BF044A14"
+				item: "create:brass_casing"
+				type: "item"
+			}]
+			title: "You can hear the wrench inside"
+			x: -13.5d
+			y: -5.0d
+		}
 	]
-	title: "Scale Tree I"
+	title: " Scale Tree I"
 }

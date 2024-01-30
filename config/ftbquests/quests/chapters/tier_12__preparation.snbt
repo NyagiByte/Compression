@@ -14,5 +14,6 @@
 	order_index: 12
 	quest_links: [ ]
 	quests: [ ]
-	title: "Tier 12 - Preparation "
+	subtitle: ["&cEven Gods Can Die"]
+	title: " &6Tier 12&r - Preparation "
 }

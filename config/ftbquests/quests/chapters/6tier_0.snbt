@@ -1,0 +1,66 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6tier_0"
+	group: "1C682695BB4A0B06"
+	icon: "ae2:energy_acceptor"
+	id: "3132E1AF7B578CC7"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["18F5C12EAF8B07CB"]
+			description: ["No video provided for this one. TNT is inaccessable in &6Tier 0&r, &da more natural source of combustion is needed"]
+			hide_dependency_lines: true
+			icon: "minecraft:creeper_head"
+			id: "697E50D684D5A997"
+			tasks: [{
+				id: "27B6F8DB912C23DB"
+				title: "The Compressed Iron Puzzle"
+				type: "checkmark"
+			}]
+			title: "The Compressed Iron Puzzle"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: ["As a note, the tutorials won't go over how to do create automations that the internal ponder system is able to show. These tabs are for pack specific choke points"]
+			icon: "create:goggles"
+			id: "18F5C12EAF8B07CB"
+			tasks: [{
+				id: "70AF4FB1D571ED33"
+				title: "[W] To Ponder!"
+				type: "checkmark"
+			}]
+			title: "[W] To Ponder!"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["18F5C12EAF8B07CB"]
+			description: [
+				"What do you mean these have to be automated?! As with everything in this pack, weird automations are not excluded!"
+				""
+				"So how to go about it?"
+				""
+				""
+				"&dHint: Deployers can interact with mobs"
+				""
+				"&6Video tutorial:"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: "create:blaze_burner"
+			id: "789821A8D7342A72"
+			tasks: [{
+				id: "464DA84D619E20F7"
+				title: "Amazon box delivery chain"
+				type: "checkmark"
+			}]
+			title: "Amazon box delivery chain"
+			x: 0.0d
+			y: 1.0d
+		}
+	]
+	title: " &6Tier 0"
+}

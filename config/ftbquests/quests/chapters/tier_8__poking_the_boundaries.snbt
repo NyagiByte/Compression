@@ -8,5 +8,6 @@
 	order_index: 8
 	quest_links: [ ]
 	quests: [ ]
-	title: "Tier 8 - Poking the boundaries"
+	subtitle: ["&cI can hear it humming to me"]
+	title: " &6Tier 8&r - Poking the boundaries"
 }
