@@ -586,7 +586,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/Removal/create.js"
-hash = "0197f229e0fb498efafe5d8c280e78e3ed91f6e75309b639768a1987d9fb84df"
+hash = "6a83838af6aa8c08944ee85d0bc26e3463924db36d5007c5f07575dbd03caebe"
 
 [[files]]
 file = "kubejs/server_scripts/Removal/mod.js"
@@ -772,6 +772,11 @@ metafile = true
 [[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "1e962fcff7e64f2346dddb8567f8e40fa336c45c15ea9cd2b4434ade742ba4db"
+metafile = true
+
+[[files]]
+file = "mods/compact-crafting.pw.toml"
+hash = "0ac439beb40cdd07119af1083df0653238447c3ffddcfc47838564ba38b532a7"
 metafile = true
 
 [[files]]
@@ -1056,6 +1061,11 @@ metafile = true
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "a9fa88c30a625b07cd38435bf14c0233dddf59e24dd049a9a696a587eab162e9"
+metafile = true
+
+[[files]]
+file = "mods/ponder.pw.toml"
+hash = "35b04368fc56be29e0c4683ebdf1c9203dcc534c7c8ce1696ead963cb313f643"
 metafile = true
 
 [[files]]
