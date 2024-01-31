@@ -312,6 +312,17 @@ ServerEvents.recipes(e => {
                     C: 'create:shaft',
                     D: 'create:belt_connector'
                 }).id('compression:compression/create/shaped/mechanical_crafter')
+        //Wrench
+            e.shaped('create:wrench',
+                [
+                    'AB',
+                    'AC',
+                    ' B'
+                ], {
+                    A: 'create:golden_sheet',
+                    B: '#minecraft:wooden_fences',
+                    C: 'create:cogwheel'
+                }).id('compression:compression/create/shaped/wrench')
    //Shapeless
         e.shapeless(Item.of('create:sand_paper', '{Damage:0}'),['minecraft:paper', 'nyagibits_bytes:crude_abrasive']).id('compression:compression/create/shapeless/sand_paper')                            
 //------------------------------------------------------------------
@@ -346,7 +357,7 @@ ServerEvents.recipes(e => {
                 F: 'create:brass_casing',
                 G: 'create:mechanical_piston',
                 H: 'create:piston_extension_pole'
-            }).id('compression:compression/create/crafting/deployer')
+            })
         //Press
             //Tier 1
                 e.recipes.create.mechanicalCrafting('2x create:mechanical_press', [
