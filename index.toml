@@ -189,12 +189,16 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
-file = "kubejs/client_scripts/item_removal.js"
+file = "kubejs/client_scripts/JEI_Removal/item_removal.js"
 hash = "7964bd92cf8921f7cae9a5060f3f569cc8c1916f26b6fda5ede7bec1d4907789"
 
 [[files]]
-file = "kubejs/client_scripts/ponder.js"
-hash = "0a5074383bf61aa58a154b692c53202abf41f00d71518063d9d55fef8b264ffe"
+file = "kubejs/client_scripts/Ponder/compactcrafting.js"
+hash = "6f3b1e00df5715897e132d4ed3d3e8216aeb30fe306d9fb555224b66d3a7ce6e"
+
+[[files]]
+file = "kubejs/client_scripts/Ponder/minecraft.js"
+hash = "0517a063271ac960f6eee0a3ed27999a01531d41526d35a8c53027e0977572f1"
 
 [[files]]
 file = "kubejs/config/client.properties"
