@@ -610,7 +610,7 @@ hash = "b0a62510c4c5d2834402d8ee356d8d56f89d16e17f076b14c1d282ff7f3082aa"
 
 [[files]]
 file = "kubejs/server_scripts/create_recipes.js"
-hash = "f5c1de1ffc59ce8801a8ad715e0642f181fa63942ec78ae4065753803767ea49"
+hash = "323b49bca1224170d66306447c343467489b73808671ff8c8d699087a0398d50"
 
 [[files]]
 file = "kubejs/server_scripts/farmers_delight.js"
@@ -741,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "b28c3da3ee3ca475f8c79cbc4e8eb2f5fd44ab488bc14bfdf1fc04dc6f6e67c4"
+hash = "dec5b7bd20fe2c05bc53d06be0227ce36e483df2b6ea9c449d30ba76a5f7ab8c"
 metafile = true
 
 [[files]]
