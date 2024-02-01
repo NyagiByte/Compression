@@ -193,6 +193,10 @@ file = "kubejs/client_scripts/item_removal.js"
 hash = "7964bd92cf8921f7cae9a5060f3f569cc8c1916f26b6fda5ede7bec1d4907789"
 
 [[files]]
+file = "kubejs/client_scripts/ponder.js"
+hash = "0a5074383bf61aa58a154b692c53202abf41f00d71518063d9d55fef8b264ffe"
+
+[[files]]
 file = "kubejs/config/client.properties"
 hash = "cc33a4bbba4d06060b95418d4a27e74223207c6455b6c5c4b6a4e96584b02ba9"
 
@@ -610,7 +614,7 @@ hash = "b0a62510c4c5d2834402d8ee356d8d56f89d16e17f076b14c1d282ff7f3082aa"
 
 [[files]]
 file = "kubejs/server_scripts/create_recipes.js"
-hash = "323b49bca1224170d66306447c343467489b73808671ff8c8d699087a0398d50"
+hash = "83cc9570b7242949403ba9bd6aba5ff8c0ef7bf0dd9a350692e76efef7a603d4"
 
 [[files]]
 file = "kubejs/server_scripts/farmers_delight.js"

@@ -315,13 +315,14 @@ ServerEvents.recipes(e => {
         //Wrench
             e.shaped('create:wrench',
                 [
-                    'AB',
+                    'AD',
                     'AC',
                     ' B'
                 ], {
                     A: 'create:golden_sheet',
                     B: '#minecraft:wooden_fences',
-                    C: 'create:cogwheel'
+                    C: 'create:cogwheel',
+                    D: 'minecraft:gold_nugget'
                 }).id('compression:compression/create/shaped/wrench')
    //Shapeless
         e.shapeless(Item.of('create:sand_paper', '{Damage:0}'),['minecraft:paper', 'nyagibits_bytes:crude_abrasive']).id('compression:compression/create/shapeless/sand_paper')                            
