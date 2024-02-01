@@ -1064,6 +1064,11 @@ hash = "a9fa88c30a625b07cd38435bf14c0233dddf59e24dd049a9a696a587eab162e9"
 metafile = true
 
 [[files]]
+file = "mods/ponder.pw.toml"
+hash = "4b958c3511f8836988f0603a38dc90305ed2adb30dadb89e9caa69dfc0d704a3"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "4792b5508f6583035d60a5d681d1f05bb52acef432fb47f132bcfb1b53d518f6"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Ponder for KubeJS"
+filename = "ponderjs-1.19.2-1.1.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c10c1c14a97ae5d3ef1fa764a1745b96926fa36f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4601122
+project-id = 622888
