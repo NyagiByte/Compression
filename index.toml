@@ -971,27 +971,22 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-botania.pw.toml"
-hash = "20e026a0cecdaa8ca6acf1af00885c9246447fb6ab085e9520e10243994f9402"
+hash = "a518653b7bf6d538b0c3e9181bb30fb11ff58de3086def1e1c1546de373b80ed"
 metafile = true
 
 [[files]]
 file = "mods/kubejs-create.pw.toml"
-hash = "e684c8fa38f3b965abf0f8982b158e72689be99d1c87a5eb5994af3137727f08"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-mekanism.pw.toml"
-hash = "928b596b67d5b351c0ca363be9827d0bfb9329692bb4177cd7c92611b4220314"
+hash = "b031093f843c1f7d382d41750bccb584f7b2022bb294eb5b3f84c0b6f60c0418"
 metafile = true
 
 [[files]]
 file = "mods/kubejs-thermal.pw.toml"
-hash = "ceede2e29844f1009fd1919174d4069915c1d78e31faedfcf444cbc0193cbfbe"
+hash = "bdbf1baa54176fbdcf5258e0c09212cdb760fee8bd72515576a865120f19f453"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "28a3d11f305e1ff760a4dbcc190d5ca5413cff381aa3ae5b0ca190ecb8c2815d"
+hash = "fc1d144633d760ad8d000ebf2c9463243c02491aaf9bedc5e8900403bb9afca8"
 metafile = true
 
 [[files]]
@@ -1006,7 +1001,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootjs.pw.toml"
-hash = "8e76039d3e0c46b46765ca3bdcfda44e944a27890c69ece525a05b89a70eea19"
+hash = "b395baefd33af6da9f29feb5cf50eac5aeb13f3f31e22004d943964c222156ea"
 metafile = true
 
 [[files]]
@@ -1066,11 +1061,6 @@ metafile = true
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "a9fa88c30a625b07cd38435bf14c0233dddf59e24dd049a9a696a587eab162e9"
-metafile = true
-
-[[files]]
-file = "mods/ponder.pw.toml"
-hash = "35b04368fc56be29e0c4683ebdf1c9203dcc534c7c8ce1696ead963cb313f643"
 metafile = true
 
 [[files]]
