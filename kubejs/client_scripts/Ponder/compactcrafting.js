@@ -1,7 +1,7 @@
 Ponder.registry((e) => {
 //------------------------------------------------------------------
-    //Glass
-        e.create("compactcrafting:field_projector").scene("Glass", "Blasted Sand", (scene, util) => {
+    //Field Projector
+        e.create("compactcrafting:field_projector").scene("Miniturization", "Field Projecting", (scene, util) => {
             scene.showBasePlate();
             scene.idle(5);
             scene.world.setBlock([2,1,2], "minecraft:glass", false);

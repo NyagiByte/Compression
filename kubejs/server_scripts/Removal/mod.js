@@ -35,7 +35,7 @@ ServerEvents.recipes(e => {
 	//Entangled
 		e.remove({ mod: 'entangled' })
 	//Farmer's Delight
-		e.remove({ mod: 'farmersdelight' })
+		//e.remove({ mod: 'farmersdelight' })
 	//Immersive Engineering
 		e.remove({ mod: 'immersiveengineering' })
 	//Iron Chests

@@ -10,6 +10,7 @@ ServerEvents.recipes(e => {
     //Items
     	e.remove({output:'minecraft:bucket'})
     	e.remove({output: 'minecraft:paper'})
+        e.remove({output: 'minecraft:book'})
     //Blocks
     	e.remove({output: 'minecraft:white_wool'})
     	e.remove({output:'minecraft:crafting_table'})

@@ -356,7 +356,7 @@ ServerEvents.recipes(e => {
                 ], {
                     A: 'nyagibits_bytes:lab_notebook',
                     B: 'nyagibits_bytes:used_crude_material_properties_test'
-                }).id('compression:compression/nyagibits_bytes/crafting/lab_notebook_with_crude_compression_data')
+                }).id('compression:compression/nyagibits_bytes/crafting/lab_notebook_with_crude_material_properties_data')
         //Create Sequenced Assembly
             //Used Crude Statics Test
                 e.recipes.createSequencedAssembly([
