@@ -194,7 +194,7 @@ hash = "7964bd92cf8921f7cae9a5060f3f569cc8c1916f26b6fda5ede7bec1d4907789"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
-hash = "3f3b54bdfcf3ebb430f6edf22aafabcd633c7e03a37df2cf7ff731ef612fa989"
+hash = "ed7ab56601f11d56d7ff9fa6c468e5205aa0f7c46cd3c9aef247f99338fca129"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/compactcrafting.js"
