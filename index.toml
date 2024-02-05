@@ -193,12 +193,16 @@ file = "kubejs/client_scripts/JEI_Removal/item_removal.js"
 hash = "7964bd92cf8921f7cae9a5060f3f569cc8c1916f26b6fda5ede7bec1d4907789"
 
 [[files]]
+file = "kubejs/client_scripts/Ponder/botania.js"
+hash = "3f3b54bdfcf3ebb430f6edf22aafabcd633c7e03a37df2cf7ff731ef612fa989"
+
+[[files]]
 file = "kubejs/client_scripts/Ponder/compactcrafting.js"
-hash = "6f3b1e00df5715897e132d4ed3d3e8216aeb30fe306d9fb555224b66d3a7ce6e"
+hash = "cf280fbaa0ebc5bf98d66cf7d153c3bd0e0ae4818ca1d4a0b90a2b09f9cd0191"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/minecraft.js"
-hash = "0517a063271ac960f6eee0a3ed27999a01531d41526d35a8c53027e0977572f1"
+hash = "9f480294bc2754a13056b7a7d78736cdf7c3d3ae28f3dc81de08c1962d2205d3"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -598,11 +602,11 @@ hash = "6a83838af6aa8c08944ee85d0bc26e3463924db36d5007c5f07575dbd03caebe"
 
 [[files]]
 file = "kubejs/server_scripts/Removal/mod.js"
-hash = "866f70d5dce4053df75dd5fdcc93787748a5c0366c373cb4eece99af05c4cfe3"
+hash = "937802fe7515c9b5bd255aaa309351a3311624ec10a98799fee3d8eec206f03b"
 
 [[files]]
 file = "kubejs/server_scripts/Removal/vanilla.js"
-hash = "5877818c26ad0aee8cafc5bd56cf1e5641a9d0feb7faa588401e6ac30c410368"
+hash = "0986dd8d3345786f17e8dc6dfe8aec7b2cc2fc47f9e58f854f67c95184255386"
 
 [[files]]
 file = "kubejs/server_scripts/ae2.js"
@@ -634,7 +638,7 @@ hash = "9fc00a083e4b45ff002a79c11631afd265ae177104ba5bb08fbdc49e4e7ddad2"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes.js"
-hash = "5dbbb99f53ec011565690fc6810f184c86ee00bb7fa181e89e7a89333a276790"
+hash = "2fdb9f48654ae19fed10965960e34ac31ebd261ffcaf6ffd12d194ca75a7b364"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes_ores.js"

@@ -17,7 +17,7 @@ ServerEvents.recipes(e => {
 	//Biomancy
 		e.remove({ mod: 'biomancy'})
 	//Botania
-		e.remove({ mod: 'botania'})
+		//e.remove({ mod: 'botania'})
 	//Chemlib
 		e.remove({ mod: 'chemlib' })
 	//Comapct Machines
