@@ -806,6 +806,10 @@ hash = "a840f125eb801e899c969ae883619e0de201ebaf600b372e0ae1bad10ea36edd"
 metafile = true
 
 [[files]]
+file = "mods/compressiontweaks-1.19.2-1.0.0.jar"
+hash = "86d90959d2efda1182d5aec35f93416d89e4b31efdb52a1f2112f5595803807c"
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
 metafile = true
