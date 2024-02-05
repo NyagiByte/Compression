@@ -185,6 +185,14 @@ file = "kubejs/assets/gardenofglass/lang/zh_tw.json"
 hash = "1d2fdca5df457ff19db6b21ea1a0904cd69b46a84e02d2a285948febc6889ad1"
 
 [[files]]
+file = "kubejs/assets/kubejs/ponder/botania_5x5.nbt"
+hash = "48bd55f5f951aa1e53299360a0634470c9655b1637d0aaadf0ed15b1d88ac854"
+
+[[files]]
+file = "kubejs/assets/kubejs/ponder/botania_7x7.nbt"
+hash = "a25193e6ed1b2715b31513d2d20eb32edc83b4029bea5e9a340c1c51100ab280"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
@@ -198,7 +206,7 @@ hash = "7964bd92cf8921f7cae9a5060f3f569cc8c1916f26b6fda5ede7bec1d4907789"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
-hash = "b96942a17c6897bcfcadc5b2e8ac53ac6d4168584a7bcfb24957c69fe92312fc"
+hash = "6585a66cbd3ef3a47c0e6168ee1c4cf614d49aea9bffadd4295d1a905932a9d1"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/compactcrafting.js"

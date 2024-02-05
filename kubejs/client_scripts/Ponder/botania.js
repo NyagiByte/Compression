@@ -4,7 +4,7 @@ Ponder.registry((e) => {
 //------------------------------------------------------------------
     //Petal Apothecary
         e.create("botania:apothecary_default")
-            .scene("Apothecary", "Crafting Using Apothecary", (scene, util) => {
+            .scene("Apothecary", "Crafting Using Apothecary", "kubejs:botania_5x5", (scene, util) => {
                 scene.showBasePlate();
                 scene.idle(5);
                 scene.world.setBlock([2,1,2], "botania:apothecary_default", false);
@@ -58,5 +58,10 @@ Ponder.registry((e) => {
                 const daisy = scene.world.createItemEntity([2.5,2,2.5], [-0.1,0.5,-0.1], "botania:pure_daisy");
                 scene.world.modifyBlock([2,1,2], () => Block.id("botania:apothecary_default").with("fluid", "empty"), true);
             });
+    //Pure Daisy
+        e.create("botania:pure_daisy")
+            .scene("Pure Daisy", "Utilising The Pure Daisy", (scene, util) => {
+                scene.showBasePlate()
+            })
 //------------------------------------------------------------------
 });
