@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "615921c08e8e7b4b74245ac1fc5fd24918a34e74e39ae62ce8ade21b8a0e03de"
+
+[[files]]
 file = "config/Mekanism/world.toml"
 hash = "4afe6819aa4da9a2317c4f8578c4fbb74b941a90875d142cc8b699531f898267"
 
@@ -194,7 +198,7 @@ hash = "7964bd92cf8921f7cae9a5060f3f569cc8c1916f26b6fda5ede7bec1d4907789"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
-hash = "ed7ab56601f11d56d7ff9fa6c468e5205aa0f7c46cd3c9aef247f99338fca129"
+hash = "b96942a17c6897bcfcadc5b2e8ac53ac6d4168584a7bcfb24957c69fe92312fc"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/compactcrafting.js"

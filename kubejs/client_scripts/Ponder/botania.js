@@ -11,11 +11,11 @@ Ponder.registry((e) => {
                 scene.world.showSection([2,1,2], Facing.down);
                 scene.idle(20);
                 scene.overlay.showOutline(PonderPalette.GREEN, "airgap", [2,1,2], 40);
-                scene.text(40, "This Is A Petal Apothecary, It Is Heavily Used In Botania For Creating Flowers", [2,1.5,2]);
-                scene.idle(60);
-                scene.text(40, "As An Example Let's Make A Pure Daisy", [2,1.5,2])
+                scene.text(60, "This Is A Petal Apothecary, It Is Heavily Used In Botania For Creating Flowers", [2,1.5,2]);
+                scene.idle(70);
+                scene.text(60, "As An Example Let's Make A Pure Daisy", [2,1.5,2])
                     .attachKeyFrame();
-                scene.idle(60);
+                scene.idle(70);
                 scene.showControls(40, [2.5, 2.5, 2.5], "down")
                     .rightClick()
                     .withItem("minecraft:water_bucket");
@@ -47,15 +47,16 @@ Ponder.registry((e) => {
                 scene.idle(5);
                 scene.world.modifyEntity(petal4, (r) => { r.discard()});
                 scene.idle(10);
-                scene.text(20, "With All The Resources Added We Then Need To Add Our Catalyst To Combine Them", [2,1.5,2])
+                scene.text(60, "With All The Resources Added We Then Need To Add Our Catalyst To Combine Them", [2,1.5,2])
                     .attachKeyFrame();
-                scene.idle(30);
+                scene.idle(70);
                 const seed = scene.world.createItemEntity([2.5, 5, 2.5], [0, 0, 0], "minecraft:wheat_seeds");
                 scene.idle(10);
                 scene.particles.simple(5, "splash", [2.5,2.5,2.5]).density(1);
                 scene.idle(5);
                 scene.world.modifyEntity(seed, (r) => {r.discard()});
                 const daisy = scene.world.createItemEntity([2.5,2,2.5], [-0.1,0.5,-0.1], "botania:pure_daisy");
+                scene.world.modifyBlock([2,1,2], () => Block.id("botania:apothecary_default").with("fluid", "empty"), true);
             });
 //------------------------------------------------------------------
 });
