@@ -21,7 +21,7 @@ ServerEvents.recipes(event => {
                     B: 'minecraft:gravel'
                 }).id('compression:compression/vanilla/shaped/cobblestone_slab')     
         //Furnace
-            event.shaped('minecraft:furnace', 
+            /*event.shaped('minecraft:furnace', 
                 [ 
                     'AAA',
                     'B B',
@@ -30,7 +30,7 @@ ServerEvents.recipes(event => {
                 {
                     A: 'minecraft:cobblestone_slab', 
                     B: 'minecraft:cobblestone'
-                }).id('compression:compression/vanilla/shaped/furnace')   
+                }).id('compression:compression/vanilla/shaped/furnace')*/ 
         //Blast Furnace
             event.shaped('minecraft:blast_furnace', 
                 [ 

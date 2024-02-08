@@ -145,6 +145,30 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/mineacraft/recipes/blast_furnace.json"
+hash = "366ec5c5b2d2673a365a82dd9b29db417b6baa8e110cad1fe66791a998700871"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/mineacraft/recipes/cobblestone_slab.json"
+hash = "a7aa6b2f3289a4b6a178d7eec3c25b45d4d93db510143d4a8a76c8d80245198f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/mineacraft/recipes/crafting_table.json"
+hash = "ab70cd2d04dfd983a4a484d51680f5e182ca710a42ec20c697d0a57ff46b2adf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/mineacraft/recipes/furnace.json"
+hash = "82a7fcaa21ca59b2c85b32642650920b92cc263ca5a06a6ba32c0ef7d4c980f0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/mineacraft/recipes/piston.json"
+hash = "f7e5091e0e0536ffd49ef3b26d064c1c3af181cc94bf15caa9dff6795f76d225"
+
+[[files]]
+file = "config/paxi/datapacks/compression/pack.mcmeta"
+hash = "3dd4f997cc92dfb94ac98db2c7d88e8a220c8334e89d953db8e5f93fe33ead0f"
+
+[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -630,7 +654,7 @@ hash = "937802fe7515c9b5bd255aaa309351a3311624ec10a98799fee3d8eec206f03b"
 
 [[files]]
 file = "kubejs/server_scripts/Removal/vanilla.js"
-hash = "0986dd8d3345786f17e8dc6dfe8aec7b2cc2fc47f9e58f854f67c95184255386"
+hash = "5c70ff24b93aedbd838452b7c6a9c4f1548abef77ecef56b2dedc9797918e370"
 
 [[files]]
 file = "kubejs/server_scripts/ae2.js"
@@ -678,7 +702,7 @@ hash = "16279bd262f3f578046b846cd939ce2d61561c5e782fe067a240be96d83b7f4b"
 
 [[files]]
 file = "kubejs/server_scripts/vanilla_recipes.js"
-hash = "9221d711acb2b2a9ea293a76e15a528e12e13d7d19ed69e562d16d5de361515c"
+hash = "49b3ee31492a1db6abb8899155d06ed98907d0ec36b40aea1567ac0611bb6262"
 
 [[files]]
 file = "kubejs/startup_scripts/block_modify.js"

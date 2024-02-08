@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"minecraft:cobblestone"},
+    "B": {"item":"minecraft:gravel"}
+  },
+  "pattern": [
+    "ABA",
+  ],
+  "result": {
+    "item": "minecraft:cobblestone_slab"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"botania:polished_livingrock"},
+    "B": {"item":"minecraft:iron_trapdoor"},
+    "C": {"item":"minecraft:furnace"},
+    "D": {"item":"minecraft:industrial_iron_block"},
+    "E": {"item":"minecraft:iron_sheet"}
+  },
+  "pattern": [
+    "DEE",
+    "DCB",
+    "AAA"
+  ],
+  "result": {
+    "item": "minecraft:blast_furnace"
+  }
+}

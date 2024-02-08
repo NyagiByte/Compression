@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"tag":"minecraft:logs"},
+    "B": {"tag":"minecraft:planks"}
+  },
+  "pattern": [
+    "AB",
+    "BA"
+  ],
+  "result": {
+    "item": "minecraft:crafting_table"
+  }
+}

@@ -15,7 +15,7 @@ ServerEvents.recipes(e => {
     	e.remove({output: 'minecraft:white_wool'})
     	e.remove({output:'minecraft:crafting_table'})
     	e.remove({id:'minecraft:cobblestone_slab'})
-    	e.remove({output:'minecraft:furnace'})
+    	//e.remove({output:'minecraft:furnace'})
     	e.remove({output:'minecraft:blast_furnace'})
     	e.remove({output:'minecraft:piston'})
     	e.remove({output:'minecraft:glass'})

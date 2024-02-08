@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"tag":"minecraft:planks"},
+    "B": {"item":"nyagibits_bytes:livisite_cobble"},
+    "C": {"item":"create:piston_extension_pole"},
+    "D": {"item":"minecraft:redstone"}
+  },
+  "pattern": [
+    "AAA",
+    "BCB",
+    "BDB"
+  ],
+  "result": {
+    "item": "minecraft:piston"
+  }
+}

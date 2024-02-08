@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"minecraft:cobblestone_slab"},
+    "B": {"item":"minecraft:cobblestone"}
+  },
+  "pattern": [
+    "AAA",
+    "B B",
+    "BBB"
+  ],
+  "result": {
+    "item": "minecraft:furnace"
+  }
+}
