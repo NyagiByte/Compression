@@ -21,6 +21,10 @@ file = "config/defaultworldtype/client-config.toml"
 hash = "da9776febdf43ec722c549596be77f1275ed2482fa667107f5277fba5abfd8ea"
 
 [[files]]
+file = "config/emi.css"
+hash = "6a98c501dfd707a0e13d4766c81fb4a85a62108b1d19077ef63a527015112be7"
+
+[[files]]
 file = "config/flywheel-client.toml"
 hash = "0d0e22785b8811b4010b7cf39f78fcfb25e31e70558176a52cb9e95ea9202c8f"
 
@@ -135,6 +139,14 @@ hash = "3963b644b4a0cfdf561a8f19e7f402a9df2e11896e9af462c640209f4cc5e481"
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
 hash = "3d9f856f3de077e3d09d71aef48f4ce95035ed3f9a7966cd537e938d28dd4eba"
+
+[[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
