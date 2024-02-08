@@ -1087,6 +1087,11 @@ hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "f54d3a9236721fbc2c527765dde21251fedb0d9b042ec7b44e98f725a702f3a9"
+metafile = true
+
+[[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "a9fa88c30a625b07cd38435bf14c0233dddf59e24dd049a9a696a587eab162e9"
 metafile = true
@@ -1189,6 +1194,11 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "233f79cd76dc6d14c59a4cfbdc6660805c3f858e057061c1ca08df8cad73c56b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "8fe58cbf1d128af0e210ee74dd21883a6c35ac0023c9605ae9646a29c03efd8a"
 metafile = true
 
 [[files]]

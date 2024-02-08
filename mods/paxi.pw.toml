@@ -1,0 +1,13 @@
+name = "Paxi (Forge)"
+filename = "Paxi-1.19.2-Forge-3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b2f2fb80ab85437a81253dc0149250dc1d84e2c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4327033
+project-id = 515708
