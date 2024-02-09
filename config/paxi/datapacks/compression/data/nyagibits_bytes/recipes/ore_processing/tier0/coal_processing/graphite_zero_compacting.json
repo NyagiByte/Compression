@@ -1,0 +1,13 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_graphite"
+      }
+    ],
+    "results": [
+      {
+        "item": "chemlib:carbon_dust"
+      }
+    ]
+  }

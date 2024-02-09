@@ -1,0 +1,23 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_peat"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 3,
+        "item": "minecraft:clay_ball"
+      },
+      {
+        "chance": 0.5,
+        "item": "farmersdelight:straw"
+      },
+      {
+        "chance": 0.5,
+        "item": "minecraft:dirt"
+      }
+    ]
+  }

@@ -1,0 +1,14 @@
+{
+    "type": "create:sandpaper_polishing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_lignite"
+      }
+    ],
+    "results": [
+      {
+        "count": 4,
+        "item": "minecraft:coal"
+      }
+    ]
+  }
