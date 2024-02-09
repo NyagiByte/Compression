@@ -1,6 +1,12 @@
 ServerEvents.recipes(event => {
     //Nyagi's Bits & Bytes - Ores
     //Yields:
+
+    /*
+        NOTE: THIS FILE IS NO LONGER IN USE TO ADD RECIPES IT ONLY EXISTS TO DOCUMENT THE YIELDS OF THE ORES
+              RECIPES ARE NOW IN >.minecraft\config\paxi\datapacks\compression\data\nyagibits_bytes\recipes\ore_processing
+    */
+
     /*
         Furnace/Compacting
         Tier 0 -  (1a)  
@@ -48,9 +54,7 @@ ServerEvents.recipes(event => {
     //Iron
         //Limonite
             //Tier 0 - Iron
-                event.smelting('minecraft:iron_ingot', 'nyagibits_bytes:raw_limonite')
             //Tier 1 - 3(Iron), Iron
-                event.recipes.createCrushing(['3x create:crushed_raw_iron','create:crushed_raw_iron'],'nyagibits_bytes:raw_limonite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -67,9 +71,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Hematite
             //Tier 0 - Iron
-                event.smelting('minecraft:iron_ingot', 'nyagibits_bytes:raw_hematite')
             //Tier 1 - 3(Iron), Iron
-                event.recipes.createCrushing(['3x create:crushed_raw_iron','create:crushed_raw_iron'],'nyagibits_bytes:raw_hematite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -86,9 +88,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Magnetite
             //Tier 0 - Iron
-                event.smelting('minecraft:iron_ingot', 'nyagibits_bytes:raw_magnetite')
             //Tier 1 - 3(Iron), Iron
-                event.recipes.createCrushing(['3x create:crushed_raw_iron','create:crushed_raw_iron'],'nyagibits_bytes:raw_magnetite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -105,9 +105,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Pyrite
             //Tier 0 - Iron
-                event.smelting('minecraft:iron_ingot', 'nyagibits_bytes:raw_pyrite')
             //Tier 1 - 3(Iron), Sulfur
-                event.recipes.createCrushing(['3x create:crushed_raw_iron','thermal:sulfur_dust'],'nyagibits_bytes:raw_pyrite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -124,9 +122,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Siderite
             //Tier 0 - Iron
-                event.smelting('minecraft:iron_ingot', 'nyagibits_bytes:raw_siderite')
             //Tier 1 - 3(Iron), Iron
-                event.recipes.createCrushing(['3x create:crushed_raw_iron','create:crushed_raw_iron'],'nyagibits_bytes:raw_siderite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -143,9 +139,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Banded Iron
             //Tier 0 - Iron
-                event.smelting('minecraft:iron_ingot', 'nyagibits_bytes:raw_banded_iron')
             //Tier 1 - 3(Iron), Iron
-                event.recipes.createCrushing(['3x create:crushed_raw_iron','create:crushed_raw_iron'],'nyagibits_bytes:raw_banded_iron')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -162,9 +156,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Bog Iron
             //Tier 0 - Iron
-                event.smelting('minecraft:iron_ingot', 'nyagibits_bytes:raw_bog_iron')
             //Tier 1 - 3(Iron), Clay
-                event.recipes.createCrushing(['3x create:crushed_raw_iron','minecraft:clay_ball'],'nyagibits_bytes:raw_bog_iron')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -181,9 +173,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Meteoric Iron
             //Tier 0 - Iron
-                event.smelting('minecraft:iron_ingot', 'nyagibits_bytes:raw_meteoric_iron')
             //Tier 1 - 3(Iron), Iron
-                event.recipes.createCrushing(['3x create:crushed_raw_iron','create:crushed_raw_iron'],'nyagibits_bytes:raw_meteoric_iron')
             //Tier 2
             //Tier 3
             //Tier 4
