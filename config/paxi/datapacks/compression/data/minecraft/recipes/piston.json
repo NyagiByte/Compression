@@ -11,7 +11,5 @@
     "BCB",
     "BDB"
   ],
-  "result": {
-    "item": "minecraft:piston"
-  }
+  "result": {"item":"minecraft:piston"}
 }

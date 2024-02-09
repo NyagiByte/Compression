@@ -1,0 +1,10 @@
+{
+  "type": "create:mixing",
+  "heatRequirement":"heated",
+  "ingredients": [
+    {"tag": "minecraft:saplings"}
+  ],
+  "results": [
+    {"item":"farmersdelight:straw"}
+  ]
+}

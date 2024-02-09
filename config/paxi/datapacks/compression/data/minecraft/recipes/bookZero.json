@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"book",
+  "key": {
+    "A": {"item":"minecraft:paper"},
+    "B": {"item":"farmersdelight:canvas"}
+  },
+  "pattern": [
+    "AA",
+    "AB"
+  ],
+  "result": {
+    "item": "minecraft:book"
+  }
+}

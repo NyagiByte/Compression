@@ -1,6 +1,6 @@
 // priority: 0
 
-JEIEvents.hideItems(event => {
+/*JEIEvents.hideItems(event => {
     event.hide([
 		//Vanilla
         'minecraft:wooden_shovel', 'minecraft:wooden_sword','minecraft:wooden_pickaxe','minecraft:wooden_axe','minecraft:wooden_hoe',

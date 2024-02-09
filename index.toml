@@ -145,28 +145,52 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/mineacraft/recipes/blast_furnace.json"
+file = "config/paxi/datapacks/compression/data/farmersdelight/recipes/mixing/straw.json"
+hash = "c697c815e2dd313e2f9f45270da5678056616d678dd71601e84592cceb160643"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/blast_furnace.json"
 hash = "366ec5c5b2d2673a365a82dd9b29db417b6baa8e110cad1fe66791a998700871"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/mineacraft/recipes/cobblestone_slab.json"
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/bookOne.json"
+hash = "68cb05b23404309e6b3f4a49796b129c0a5a87b6266f1cceaba8ff98263d3a69"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/bookZero.json"
+hash = "5f36b50233bb71e4a6ffbbcfad8a8175d457a5057267e52d7118a7c9ea5fc9bb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/bucket.json"
+hash = "71b6e92498a39168df0ca12ba9d63ae5d1fc9805d2d06e9e708de4f59f5d3ae7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/cobblestone_slab.json"
 hash = "a7aa6b2f3289a4b6a178d7eec3c25b45d4d93db510143d4a8a76c8d80245198f"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/mineacraft/recipes/crafting_table.json"
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/crafting_table.json"
 hash = "ab70cd2d04dfd983a4a484d51680f5e182ca710a42ec20c697d0a57ff46b2adf"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/mineacraft/recipes/furnace.json"
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/furnace.json"
 hash = "82a7fcaa21ca59b2c85b32642650920b92cc263ca5a06a6ba32c0ef7d4c980f0"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/mineacraft/recipes/piston.json"
-hash = "f7e5091e0e0536ffd49ef3b26d064c1c3af181cc94bf15caa9dff6795f76d225"
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/glass.json"
+hash = "29659f5fdebcdf74a0c9c7b1c6f9406b21cb5cf4c2e29b1d72449849d365d22c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/paper.json"
+hash = "d4b6a61e982c8c255d4d296f1a4bd1d3a7af2ff400cd04270e6eaf501f8a92f8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/piston.json"
+hash = "19d0d982981bf754fdb24671b45121e642bdacc5080c109df9317e68824f257b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "3dd4f997cc92dfb94ac98db2c7d88e8a220c8334e89d953db8e5f93fe33ead0f"
+hash = "f2bc81ac9a06ce678bcfd1ecfa4d0489c484c515d3906e1d9696798e3168c8e3"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -238,7 +262,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/item_removal.js"
-hash = "7964bd92cf8921f7cae9a5060f3f569cc8c1916f26b6fda5ede7bec1d4907789"
+hash = "c89c96d4ee875f4afbe30b2c943846023b32772233aeccb0431317fd7f6cea53"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
@@ -653,10 +677,6 @@ file = "kubejs/server_scripts/Removal/mod.js"
 hash = "937802fe7515c9b5bd255aaa309351a3311624ec10a98799fee3d8eec206f03b"
 
 [[files]]
-file = "kubejs/server_scripts/Removal/vanilla.js"
-hash = "5c70ff24b93aedbd838452b7c6a9c4f1548abef77ecef56b2dedc9797918e370"
-
-[[files]]
 file = "kubejs/server_scripts/ae2.js"
 hash = "fb01184bdbc23c25bd522e03f9b3d1a10cd9f48ce41c2f68c222dfe968819281"
 
@@ -671,10 +691,6 @@ hash = "b0a62510c4c5d2834402d8ee356d8d56f89d16e17f076b14c1d282ff7f3082aa"
 [[files]]
 file = "kubejs/server_scripts/create_recipes.js"
 hash = "83cc9570b7242949403ba9bd6aba5ff8c0ef7bf0dd9a350692e76efef7a603d4"
-
-[[files]]
-file = "kubejs/server_scripts/farmers_delight.js"
-hash = "bc86670d1d397f3d32a64d44f3727b7aefea9f4ee7f90093a6be51759976cc4f"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
@@ -699,10 +715,6 @@ hash = "b5fb5107cd9384f0c119be562fd26de2f6c8b00c89e54c93067586b5ef7978ac"
 [[files]]
 file = "kubejs/server_scripts/thermal_series.js"
 hash = "16279bd262f3f578046b846cd939ce2d61561c5e782fe067a240be96d83b7f4b"
-
-[[files]]
-file = "kubejs/server_scripts/vanilla_recipes.js"
-hash = "49b3ee31492a1db6abb8899155d06ed98907d0ec36b40aea1567ac0611bb6262"
 
 [[files]]
 file = "kubejs/startup_scripts/block_modify.js"

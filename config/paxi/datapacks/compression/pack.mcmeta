@@ -3,5 +3,42 @@
 	{
 		"pack_format": 9,
 		"description": "Compression's Recipes etc."
-	}
+	},
+	"filter": { "block": [
+		
+			{"namespace": "farmersdelight", "path": "recipes/book_from_canvas.json"},
+		
+			{"namespace": "minecraft", "path": "recipes/wooden_sword.json"},
+			{"namespace": "minecraft", "path": "recipes/wooden_axe.json"},
+			{"namespace": "minecraft", "path": "recipes/wooden_pickaxe.json"},
+			{"namespace": "minecraft", "path": "recipes/wooden_shovel.json"},
+			{"namespace": "minecraft", "path": "recipes/wooden_hoe.json"},
+			{"namespace": "minecraft", "path": "recipes/stone_sword.json"},
+			{"namespace": "minecraft", "path": "recipes/stone_axe.json"},
+			{"namespace": "minecraft", "path": "recipes/stone_pickaxe.json"},
+			{"namespace": "minecraft", "path": "recipes/stone_shovel.json"},
+			{"namespace": "minecraft", "path": "recipes/stone_hoe.json"},
+			{"namespace": "minecraft", "path": "recipes/iron_sword.json"},
+			{"namespace": "minecraft", "path": "recipes/iron_axe.json"},
+			{"namespace": "minecraft", "path": "recipes/iron_pickaxe.json"},
+			{"namespace": "minecraft", "path": "recipes/iron_shovel.json"},
+			{"namespace": "minecraft", "path": "recipes/iron_hoe.json"},
+			{"namespace": "minecraft", "path": "recipes/golden_sword.json"},
+			{"namespace": "minecraft", "path": "recipes/golden_axe.json"},
+			{"namespace": "minecraft", "path": "recipes/golden_pickaxe.json"},
+			{"namespace": "minecraft", "path": "recipes/golden_shovel.json"},
+			{"namespace": "minecraft", "path": "recipes/golden_hoe.json"},
+			{"namespace": "minecraft", "path": "recipes/diamond_sword.json"},
+			{"namespace": "minecraft", "path": "recipes/diamond_axe.json"},
+			{"namespace": "minecraft", "path": "recipes/diamond_pickaxe.json"},
+			{"namespace": "minecraft", "path": "recipes/diamond_shovel.json"},
+			{"namespace": "minecraft", "path": "recipes/diamond_hoe.json"},
+			{"namespace": "minecraft", "path": "recipes/netherite_sword_smithing.json"},
+			{"namespace": "minecraft", "path": "recipes/netherite_axe_smithing.json"},
+			{"namespace": "minecraft", "path": "recipes/netherite_pickaxe_smithing.json"},
+			{"namespace": "minecraft", "path": "recipes/netherite_shovel_smithing.json"},
+			{"namespace": "minecraft", "path": "recipes/netherite_hoe_smithing.json"},
+		
+			{"namespace": "minecraft", "path": "recipes/white_wool_from_string.json"}	
+	]}
 }
