@@ -194,9 +194,7 @@ ServerEvents.recipes(event => {
     //Copper
         //Chalcopyrite
             //Tier 0 - Copper
-                event.smelting('minecraft:copper_ingot', 'nyagibits_bytes:raw_chalcopyrite')
             //Tier 1 - 3(Copper), Iron
-                event.recipes.createCrushing(['3x create:crushed_raw_copper','create:crushed_raw_iron'],'nyagibits_bytes:raw_chalcopyrite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -213,9 +211,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Malachite  
             //Tier 0 - Copper
-                event.smelting('minecraft:copper_ingot', 'nyagibits_bytes:raw_malachite')
             //Tier 1 - 3(Copper), Copper
-                event.recipes.createCrushing(['3x create:crushed_raw_copper','create:crushed_raw_copper'],'nyagibits_bytes:raw_malachite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -232,9 +228,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Azurite  
             //Tier 0 - Copper
-                event.smelting('minecraft:copper_ingot', 'nyagibits_bytes:raw_azurite')
             //Tier 1 - 3(Copper), Copper
-                event.recipes.createCrushing(['3x create:crushed_raw_copper','create:crushed_raw_copper'],'nyagibits_bytes:raw_azurite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -251,9 +245,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Tetrahedrite  
             //Tier 0 - Copper
-                event.smelting('minecraft:copper_ingot', 'nyagibits_bytes:raw_tetrahedrite')
             //Tier 1 - 3(Copper), Antimony
-                event.recipes.createCrushing(['3x create:crushed_raw_copper','chemlib:antimony_dust'],'nyagibits_bytes:raw_tetrahedrite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -270,9 +262,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Enargite
             //Tier 0 - Copper
-                event.smelting('minecraft:copper_ingot', 'nyagibits_bytes:raw_enargite')
             //Tier 1 - 3(Copper), Sulfur
-                event.recipes.createCrushing(['3x create:crushed_raw_copper','thermal:sulfur_dust'],'nyagibits_bytes:raw_enargite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -289,9 +279,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Chrysocolla
             //Tier 0 - Copper
-                event.smelting('minecraft:copper_ingot', 'nyagibits_bytes:raw_chrysocolla')
             //Tier 1 - 3(Copper), Silicon
-                event.recipes.createCrushing(['3x create:crushed_raw_copper','chemlib:silicon_dust'],'nyagibits_bytes:raw_chrysocolla')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -308,9 +296,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Tennanite
             //Tier 0 - Copper
-                event.smelting('minecraft:copper_ingot', 'nyagibits_bytes:raw_tennanite')
             //Tier 1 - 3(Copper), Sulfur
-                event.recipes.createCrushing(['3x create:crushed_raw_copper','thermal:sulfur_dust'],'nyagibits_bytes:raw_tennanite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -327,9 +313,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Dioptase
             //Tier 0 - Copper
-                event.smelting('minecraft:copper_ingot', 'nyagibits_bytes:raw_dioptase')
             //Tier 1 - 3(Copper), Copper
-                event.recipes.createCrushing(['3x create:crushed_raw_copper','create:crushed_raw_copper'],'nyagibits_bytes:raw_dioptase')
             //Tier 2
             //Tier 3
             //Tier 4
