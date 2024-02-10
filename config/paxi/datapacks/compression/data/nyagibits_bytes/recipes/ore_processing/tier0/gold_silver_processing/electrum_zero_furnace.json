@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "cookingtime": 200,
+    "experience": 0.7,
+    "ingredient": {
+      "item": "nyagibits_bytes:raw_electrum"
+    },
+    "result": "minecraft:gold_ingot"
+  }

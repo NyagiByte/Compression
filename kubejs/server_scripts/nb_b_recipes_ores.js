@@ -334,9 +334,7 @@ ServerEvents.recipes(event => {
     //Gold
         //Alluvial Slush
             //Tier 0 - Gold
-                event.smelting('minecraft:gold_ingot', 'nyagibits_bytes:alluvial_slush')
             //Tier 1 - 3(Gold), Gravel
-                event.recipes.createCrushing(['3x create:crushed_raw_gold','minecraft:gravel'],'nyagibits_bytes:alluvial_slush')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -353,9 +351,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Native Gold
             //Tier 0 - Gold
-                event.smelting('minecraft:gold_ingot', 'nyagibits_bytes:native_cluster')
             //Tier 1 - 3(Gold), Gold
-                event.recipes.createCrushing(['3x create:crushed_raw_gold','create:crushed_raw_gold'],'nyagibits_bytes:native_cluster')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -372,9 +368,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Argentite
             //Tier 0 - Silver
-                event.smelting('thermal:silver_ingot', 'nyagibits_bytes:raw_argentite')
             //Tier 1 - 3(Silver), Sulfur
-                event.recipes.createCrushing(['3x create:crushed_raw_silver','thermal:sulfur_dust'],'nyagibits_bytes:raw_argentite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -391,9 +385,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Chlorargyrite
             //Tier 0 - Silver
-                event.smelting('thermal:silver_ingot', 'nyagibits_bytes:raw_chlorargyrite')
             //Tier 1 - 3(Silver), Silver
-                event.recipes.createCrushing(['3x create:crushed_raw_silver','create:crushed_raw_silver'],'nyagibits_bytes:raw_chlorargyrite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -410,9 +402,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Polybasite
             //Tier 0 - Silver
-                event.smelting('thermal:silver_ingot', 'nyagibits_bytes:raw_polybasite')
             //Tier 1 - 3(Silver), Antimony
-                event.recipes.createCrushing(['3x create:crushed_raw_silver','chemlib:antimony_dust'],'nyagibits_bytes:raw_polybasite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -429,9 +419,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Proustite
             //Tier 0 - Silver
-                event.recipes.create.compacting(['create:crushed_raw_silver'],'nyagibits_bytes:raw_proustite')
             //Tier 1 - 3(Silver), Arsenic
-                event.recipes.createCrushing(['3x create:crushed_raw_silver','chemlib:arsenic_dust'],'nyagibits_bytes:raw_proustite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -448,9 +436,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Electrum
             //Tier 0 - Gold
-                event.smelting('minecraft:gold_ingot', 'nyagibits_bytes:raw_electrum')
             //Tier 1 - 3(Gold), Silver
-                event.recipes.createCrushing(['3x create:crushed_raw_gold','create:crushed_raw_silver'],'nyagibits_bytes:raw_electrum')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -467,9 +453,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Kustelite Electrum
             //Tier 0 - Gold
-                event.smelting('minecraft:gold_ingot', 'nyagibits_bytes:raw_kustelite_electrum')
             //Tier 1 - 3(Gold), 2(Gold)
-                event.recipes.createCrushing(['3x create:crushed_raw_gold','2x create:crushed_raw_gold'],'nyagibits_bytes:raw_kustelite_electrum')
             //Tier 2
             //Tier 3
             //Tier 4
