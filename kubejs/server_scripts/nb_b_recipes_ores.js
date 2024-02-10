@@ -474,9 +474,7 @@ ServerEvents.recipes(event => {
     //Redstone 
         //Cinnabar
             //Tier 0 - Redstone
-                event.recipes.create.compacting(['minecraft:redstone'],'nyagibits_bytes:raw_cinnabar')
             //Tier 1 - 3(Redstone), Mercury Sulfide
-                event.recipes.createCrushing(['3x minecraft:redstone','chemlib:mercury_sulfide_dust'],'nyagibits_bytes:raw_cinnabar')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -493,9 +491,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Metacinnabar  
             //Tier 0 - Redstone
-                event.recipes.create.compacting(['minecraft:redstone'],'nyagibits_bytes:raw_metacinnabar')
             //Tier 1 - 3(Redstone), Mercury Sulfide
-                event.recipes.createCrushing(['3x minecraft:redstone','chemlib:mercury_sulfide_dust'],'nyagibits_bytes:raw_metacinnabar')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -512,9 +508,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Corderoite  
             //Tier 0 - Redstone
-                event.recipes.create.compacting(['minecraft:redstone'],'nyagibits_bytes:raw_corderoite')
             //Tier 1 - 3(Redstone), Sulfur
-                event.recipes.createCrushing(['3x minecraft:redstone','thermal:sulfur_dust'],'nyagibits_bytes:raw_corderoite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -531,9 +525,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Basaltic Powder 
             //Tier 0 - Silicon
-                event.recipes.create.compacting(['chemlib:silicon_dust'],'nyagibits_bytes:raw_basaltic_powder')
             //Tier 1 - 3(Silicon), Magnesium
-                event.recipes.createCrushing(['3x chemlib:silicon_dust','chemlib:magnesium_dust'],'nyagibits_bytes:raw_basaltic_powder')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -550,9 +542,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Calomel 
             //Tier 0 - Redstone
-                event.recipes.create.compacting(['minecraft:redstone'],'nyagibits_bytes:raw_calomel')
             //Tier 1 - 3(Redstone), Mercury
-                event.recipes.createCrushing(['3x minecraft:redstone','chemlib:mercury'],'nyagibits_bytes:raw_calomel')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -569,9 +559,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Native Mercury Spherules 
             //Tier 0 - Mercury
-                event.recipes.create.compacting(['chemlib:mercury'],'nyagibits_bytes:raw_native_mercury_spherules')
             //Tier 1 - 3(Mercury), Mercury Sulfide
-                event.recipes.createCrushing(['3x chemlib:mercury','chemlib:mercury_sulfide_dust'],'nyagibits_bytes:raw_native_mercury_spherules')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -588,9 +576,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Montroydite
             //Tier 0 - Redstone
-                event.recipes.create.compacting(['minecraft:redstone'],'nyagibits_bytes:raw_montroydite')
             //Tier 1 - 3(Redstone), Mercury
-                event.recipes.createCrushing(['3x minecraft:redstone','chemlib:mercury'],'nyagibits_bytes:raw_montroydite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -607,9 +593,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Granulated Obsidian
             //Tier 0 - Powdered Obsidian
-                event.recipes.create.compacting(['create:powdered_obsidian'],'nyagibits_bytes:raw_granulated_obsidian')
             //Tier 1 - 3(Powdered Obsidian), Silicon
-                event.recipes.createCrushing(['3x create:powdered_obsidian','chemlib:silicon_dust'],'nyagibits_bytes:raw_granulated_obsidian')
             //Tier 2
             //Tier 3
             //Tier 4

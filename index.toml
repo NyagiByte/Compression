@@ -189,6 +189,10 @@ file = "config/paxi/datapacks/compression/data/minecraft/recipes/piston.json"
 hash = "19d0d982981bf754fdb24671b45121e642bdacc5080c109df9317e68824f257b"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/coal_processing/anthracite_coal_zero_wash.json"
+hash = "f397d2b9f79017c73d28833040a90193e58ae5a41b3862fcf2f096de222714e3"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/coal_processing/anthracite_coal_zero_washing.json"
 hash = "f397d2b9f79017c73d28833040a90193e58ae5a41b3862fcf2f096de222714e3"
 
@@ -409,6 +413,38 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "2151c4e971b2f7e2cd012fd750d4bf510b3510da58386a45f3802e1a2ed81a12"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/redstone_processing/basaltic_powder_zero_compacting.json"
+hash = "3e6084be1076da13d063ced55a3c8dda8868cd59e812f3ea1fd38801d478f696"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/redstone_processing/calomel_zero_compacting.json"
+hash = "08678c4d3919feafbb30a91b278fe2e6f54b2d28b23d2d51e70dd4d260fa31f4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/redstone_processing/cinnabar_zero_compacting.json"
+hash = "40fc70b2953ee4f011af4fa8f70113a7e2c00ab0bcb01768c55dfeb548dc7d47"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/redstone_processing/corderoite_zero_compacting.json"
+hash = "d07f1072b78909a068d8cdbc8a936ef0b61a77e80239da6fbb2849ac69f36eaf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/redstone_processing/granulated_obsidian_zero_compacting.json"
+hash = "351f71b38e26bdadd5d913e43541ba9f772da1f8ff5a3ea2c35f77c90a73bf37"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/redstone_processing/metacinnabar_zero_compacting.json"
+hash = "b8edf093f83a0056b7545b3d14f669c4acaa34bfd5b3a2b7f0504d90ab21d165"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/redstone_processing/montroydite_zero_compacting.json"
+hash = "51ae16e01c4a7e36bd4b1a0a541ddef443af596b575b4b74dec9dde21c884612"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/redstone_processing/native_mercury_spherules_zero_compacting.json"
+hash = "5ead71c1eeb28bd458cf8d1b46c29ee93be0abd14a807aadc210999238ca88a7"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/coal_processing/anthracite_coal_one_polishing.json"
 hash = "c7742757d3c78f9d807cd5220af6dc6d240967c2eb155c114305f7332aa6d9e1"
 
@@ -535,6 +571,38 @@ hash = "6059b3d9a7aa154e70d92df9acafc51d6b5f9469f2bf87890efe4ee4b28c925c"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/iron_processing/siderite_one_crushing.json"
 hash = "39b2049a09db239e34909ecd6e762f63ed8fc414009d0c9605908458cd45c8b6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/redstone_processing/basaltic_powder_one_crushing.json"
+hash = "e0e3a0f1d64533fd910eed3551975054ae3c0440003b0fba42db247c62b3267f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/redstone_processing/calomel_one_crushing.json"
+hash = "0bb709c28a8ebf124e271ad14d4f437c7aba7e1ea693d42d21afdb7fcde0213c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/redstone_processing/cinnabar_one_crushing.json"
+hash = "79f1d6e77d566680b851af0a262ee69b9c04f4463639c3b68ba055b959f0ede6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/redstone_processing/corderoite_one_crushing.json"
+hash = "5b4e93dea93bb9e92921acf3872066b5f378b4c678df4e124537e528982eff50"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/redstone_processing/granulated_obsidian_one_crushing.json"
+hash = "bd4fd52e4fa0ab6895cf6fe17a2e3f8f5609710f400185cf9fb916530557a6e3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/redstone_processing/metacinnabar_one_crushing.json"
+hash = "900c3ec911b1c970f703874ba1f7931dfe602d538b6027f86907ba37ad3a62c6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/redstone_processing/montroydite_one_crushing.json"
+hash = "6f7584c546091b4954cc810af61849eec7becfac21855e5d818db6fff8d279ce"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/redstone_processing/native_mercury_spherules_one_crushing.json"
+hash = "5397b0fd488af25ae81fc8ae931e5fae7b00c0b19077ea78a4bd698c99b7f8c5"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
@@ -1054,7 +1122,7 @@ hash = "2fdb9f48654ae19fed10965960e34ac31ebd261ffcaf6ffd12d194ca75a7b364"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes_ores.js"
-hash = "8e150b71be20b9bd0c26c4247949bbbf9c5a3579af1feb641405e1a3c2eded94"
+hash = "93d55a0e98c4e2f3fda95f2763254b7edd8468a026de4b51e4b15cc7da760ee7"
 
 [[files]]
 file = "kubejs/server_scripts/quark.js"
