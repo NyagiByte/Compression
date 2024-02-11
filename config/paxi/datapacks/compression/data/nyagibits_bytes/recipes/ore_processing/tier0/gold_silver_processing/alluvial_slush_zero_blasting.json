@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "cookingtime": 100,
+    "experience": 0.7,
+    "ingredient": {
+      "item": "nyagibits_bytes:alluvial_slush"
+    },
+    "result": "minecraft:gold_ingot"
+  }

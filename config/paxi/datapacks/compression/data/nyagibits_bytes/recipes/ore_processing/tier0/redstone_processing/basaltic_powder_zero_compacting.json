@@ -1,0 +1,13 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_basaltic_powder"
+      }
+    ],
+    "results": [
+      {
+        "item": "chemlib:silicon_dust"
+      }
+    ]
+  }

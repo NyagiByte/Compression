@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_kustelite_electrum"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 3,
+        "item": "create:crushed_raw_gold"
+      },
+      {
+        "count": 2,
+        "item": "create:crushed_raw_gold"
+      }
+    ]
+  }

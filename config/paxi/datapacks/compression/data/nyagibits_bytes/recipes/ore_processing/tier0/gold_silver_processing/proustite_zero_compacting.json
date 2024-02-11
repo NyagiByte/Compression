@@ -1,0 +1,13 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_proustite"
+      }
+    ],
+    "results": [
+      {
+        "item": "create:crushed_raw_silver"
+      }
+    ]
+  }

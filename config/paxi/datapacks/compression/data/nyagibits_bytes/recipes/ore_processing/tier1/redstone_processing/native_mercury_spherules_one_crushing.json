@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_native_mercury_spherules"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 3,
+        "item": "chemlib:mercury"
+      },
+      {
+        "chance": 1,
+        "item": "minecraft:redstone"
+      }
+    ]
+  }

@@ -1,0 +1,13 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_cinnabar"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:redstone"
+      }
+    ]
+  }
