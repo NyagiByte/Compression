@@ -1,0 +1,31 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
+  "loops": 1,
+  "results": [
+    {"item": "ae2:controller"}
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:controller"},
+        {"item": "ae2:energy_acceptor"}  
+      ],
+      "results": [
+        {"item": "ae2:controller"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:controller"},
+        {"item": "nyagibits_bytes:ae2_schematic"}
+      ],
+      "results": [
+        {"item": "ae2:controller"}
+      ]
+    }
+  ],
+  "transitionalItem": {"item": "ae2:controller"}
+}

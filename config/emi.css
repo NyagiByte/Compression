@@ -427,7 +427,7 @@
 	 * Whether development functions should be enabled. Not recommended for general
 	 * play.
 	 */
-	dev-mode: true;
+	dev-mode: false;
 
 	/**
 	 * Whether editing the index is enabled
@@ -447,7 +447,7 @@
 	/**
 	 * Whether hovering the output of a recipe should show the recipe's EMI ID.
 	 */
-	show-recipe-ids: false;
+	show-recipe-ids: true;
 
 	/**
 	 * Whether stacks in the index should display a highlight if they have a recipe

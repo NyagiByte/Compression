@@ -1,0 +1,18 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {"item":"create:iron_sheet"},
+    {"item":"create:iron_sheet"},
+    {"item":"create:iron_sheet"},
+    {"item":"create:iron_sheet"},
+    {"item":"create:iron_sheet"},
+    {"item":"create:iron_sheet"},
+    {"item":"create:iron_sheet"},
+    {"item":"create:iron_sheet"},
+    {"item":"nyagibits_bytes:livisite_cobble"}
+  ],
+  "results":[ 
+    {"count":4, "item":"quark:iron_plate"}
+  ]
+}

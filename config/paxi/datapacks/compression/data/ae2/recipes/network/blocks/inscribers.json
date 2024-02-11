@@ -1,0 +1,31 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
+  "loops": 1,
+  "results": [
+    {"item": "ae2:inscriber"}
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:inscriber"},
+        {"item": "create:mechanical_press"}  
+      ],
+      "results": [
+        {"item": "ae2:inscriber"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:inscriber"},
+        {"item": "nyagibits_bytes:ae2_schematic"}
+      ],
+      "results": [
+        {"item": "ae2:inscriber"}
+      ]
+    }
+  ],
+  "transitionalItem": {"item": "ae2:inscriber"}
+}

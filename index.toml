@@ -22,7 +22,7 @@ hash = "da9776febdf43ec722c549596be77f1275ed2482fa667107f5277fba5abfd8ea"
 
 [[files]]
 file = "config/emi.css"
-hash = "6a98c501dfd707a0e13d4766c81fb4a85a62108b1d19077ef63a527015112be7"
+hash = "642cb8dc63c3acdc6a46a43c9a7a917af655bdc65ba5899918e1b099d7730db6"
 
 [[files]]
 file = "config/flywheel-client.toml"
@@ -143,6 +143,26 @@ hash = "3d9f856f3de077e3d09d71aef48f4ce95035ed3f9a7966cd537e938d28dd4eba"
 [[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/network/blocks/controller.json"
+hash = "0fa1644a0857c7bdd29f4c470a2656901327ebc9722840ee5b0c7d03156a3222"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/network/blocks/energy_energy_acceptor.json"
+hash = "6b83718aeb0dc963e97cae860476ba3ce9406102de8c34adc63b0dd8b17b14c5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/network/blocks/inscribers.json"
+hash = "231646753159da31dfe22dcd8619aabe383ec966f2e60dc2d9ece771fcd08a33"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/network/blocks/storage_drive.json"
+hash = "96657589fea114327a81d828cee08126f6464defcf0fbc5b7063dd0e9d720b78"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/network/cables/glass_fluix.json"
+hash = "63d306441b00fd7b46af4a5463419b72815b64db51bb24404821429cedd8554e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/farmersdelight/recipes/mixing/straw.json"
@@ -445,6 +465,14 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "39b2049a09db239e34909ecd6e762f63ed8fc414009d0c9605908458cd45c8b6"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/quark/recipes/building/crafting/iron_plate.json"
+hash = "28470b9f482265d22cff060920c5c0b854ad89f2abd877a8420329ab3df40eac"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/quark/recipes/compacting/iron_plateOne.json"
+hash = "61afd6154fae72237a0e74e02c0d7401ea3fa47e1e162e6ea177bf7702dddbe9"
+
+[[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
 hash = "f2bc81ac9a06ce678bcfd1ecfa4d0489c484c515d3906e1d9696798e3168c8e3"
 
@@ -515,10 +543,6 @@ hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
-
-[[files]]
-file = "kubejs/client_scripts/JEI_Removal/item_removal.js"
-hash = "c89c96d4ee875f4afbe30b2c943846023b32772233aeccb0431317fd7f6cea53"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
@@ -925,16 +949,8 @@ file = "kubejs/exported/tags/sandbox/template_pool_extension.txt"
 hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
-file = "kubejs/server_scripts/Removal/create.js"
-hash = "6a83838af6aa8c08944ee85d0bc26e3463924db36d5007c5f07575dbd03caebe"
-
-[[files]]
-file = "kubejs/server_scripts/Removal/mod.js"
-hash = "937802fe7515c9b5bd255aaa309351a3311624ec10a98799fee3d8eec206f03b"
-
-[[files]]
 file = "kubejs/server_scripts/ae2.js"
-hash = "fb01184bdbc23c25bd522e03f9b3d1a10cd9f48ce41c2f68c222dfe968819281"
+hash = "18e36f1c83d19a20003ba502e8302a68291b55f87f1947f83e69d93fa5bbfcd9"
 
 [[files]]
 file = "kubejs/server_scripts/aiot_botania.js"
@@ -959,14 +975,6 @@ hash = "9fc00a083e4b45ff002a79c11631afd265ae177104ba5bb08fbdc49e4e7ddad2"
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes.js"
 hash = "2fdb9f48654ae19fed10965960e34ac31ebd261ffcaf6ffd12d194ca75a7b364"
-
-[[files]]
-file = "kubejs/server_scripts/nb_b_recipes_ores.js"
-hash = "72b48cf4264df6a0de2cc2e159c2b11f9656421c3d32474563e7cfc5788b73e3"
-
-[[files]]
-file = "kubejs/server_scripts/quark.js"
-hash = "b5fb5107cd9384f0c119be562fd26de2f6c8b00c89e54c93067586b5ef7978ac"
 
 [[files]]
 file = "kubejs/server_scripts/thermal_series.js"

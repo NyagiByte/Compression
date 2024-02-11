@@ -1,60 +1,7 @@
 ServerEvents.recipes(e => {
 //------------------------------------------------------------------    
-    //Shaped
-        //Meteorite
-            e.shaped('ae2:meteorite_compass', 
-                [ 
-                    ' AB', 
-                    'ACA',
-                    ' A '  
-                ],
-                {
-                    A: 'create:iron_sheet', 
-                    B: 'minecraft:amethyst_shard',
-                    C: 'botania:solegnolia'
-                }).id('compression:compression/ae2/shaped/meteorite_compass')
 //------------------------------------------------------------------
     //Sequenced Assembly
-        //Controller
-            e.recipes.createSequencedAssembly([
-                    'ae2:controller',
-                ], 'nyagibits_bytes:ae2_assembly',
-                    [
-                        e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:controller', 'ae2:energy_acceptor']),
-                        e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:controller', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:controller').id('compression:compression/ae2/assembly/controller')
-        //Energy Acceptor
-            e.recipes.createSequencedAssembly([
-                    'ae2:energy_acceptor',
-                ], 'nyagibits_bytes:ae2_assembly',
-                    [
-                        e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:energy_acceptor', 'nyagibits_bytes:energized_frame']),
-                        e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:energy_acceptor', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:energy_acceptor').id('compression:compression/ae2/assembly/energy_acceptor')
-        //Drive
-            e.recipes.createSequencedAssembly([
-                    '2x ae2:drive',
-                ], 'nyagibits_bytes:ae2_assembly',
-                    [
-                        e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:drive', 'ae2:sky_stone_chest']),
-                        e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:drive', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:drive').id('compression:compression/ae2/assembly/drive')
-        //Inscription Press
-            e.recipes.createSequencedAssembly([
-                    '2x ae2:inscriber',
-                ], 'nyagibits_bytes:ae2_assembly',
-                    [
-                        e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:inscriber', 'create:mechanical_press']),
-                        e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:inscriber', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:inscriber').id('compression:compression/ae2/assembly/inscriber')
-        //Fluix Cables
-            e.recipes.createSequencedAssembly([
-                    '64x ae2:fluix_glass_cable',
-                ], 'nyagibits_bytes:ae2_assembly',
-                    [
-                        e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:fluix_glass_cable', 'ae2:quartz_fiber']),
-                        e.recipes.createDeploying('nyagibits_bytes:ae2_assembly', ['ae2:fluix_glass_cable', 'nyagibits_bytes:ae2_schematic'])
-                    ]).loops(1).transitionalItem('ae2:fluix_glass_cable').id('compression:compression/ae2/assembly/fluix_glass_cable')
         //Smart Fluix Cables
             e.recipes.createSequencedAssembly([
                     '32x ae2:fluix_smart_cable',

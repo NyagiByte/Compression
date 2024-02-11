@@ -1,0 +1,31 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
+  "loops": 1,
+  "results": [
+    {"count":2, "item": "ae2:drive"}
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:drive"},
+        {"item": "ae2:sky_stone_chest"}  
+      ],
+      "results": [
+        {"item": "ae2:drive"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:drive"},
+        {"item": "nyagibits_bytes:ae2_schematic"}
+      ],
+      "results": [
+        {"item": "ae2:drive"}
+      ]
+    }
+  ],
+  "transitionalItem": {"item": "ae2:drive"}
+}

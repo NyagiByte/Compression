@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"minecraft:iron_ingot"},
+    "B": {"item":"nyagibits_bytes:livisite_cobble"}
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {"item":"quark:iron_plate"}
+}
