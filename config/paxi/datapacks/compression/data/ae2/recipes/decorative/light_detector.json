@@ -1,0 +1,31 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
+  "loops": 1,
+  "results": [
+    {"count":128, "item": "ae2:light_detector"}
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:light_detector"},
+        {"item": "minecraft:daylight_detector"}  
+      ],
+      "results": [
+        {"item": "ae2:light_detector"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:light_detector"},
+        {"item": "nyagibits_bytes:ae2_schematic"}
+      ],
+      "results": [
+        {"item": "ae2:light_detector"}
+      ]
+    }
+  ],
+  "transitionalItem": {"item": "ae2:light_detector"}
+}

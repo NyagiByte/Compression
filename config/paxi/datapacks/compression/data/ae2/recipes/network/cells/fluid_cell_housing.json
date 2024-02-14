@@ -1,0 +1,41 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "ae2:item_cell_housing"},
+  "loops": 1,
+  "results": [
+    {"item": "ae2:fluid_cell_housing"}
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:fluid_cell_housing"},
+        {"item": "immersiveengineering:slab_sheetmetal_constantan"}  
+      ],
+      "results": [
+        {"item": "ae2:fluid_cell_housing"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:fluid_cell_housing"},
+        {"item": "pneumaticcraft:small_tank"}  
+      ],
+      "results": [
+        {"item": "ae2:fluid_cell_housing"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:fluid_cell_housing"},
+        {"item": "nyagibits_bytes:ae2_schematic"}
+      ],
+      "results": [
+        {"item": "ae2:fluid_cell_housing"}
+      ]
+    }
+  ],
+  "transitionalItem": {"item": "ae2:fluid_cell_housing"}
+}

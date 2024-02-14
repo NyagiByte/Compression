@@ -1,0 +1,10 @@
+{
+  "type": "create:cutting",
+  "ingredients": [ 
+    {"item": "nyagibits_bytes:crude_silicon_boule"}
+  ],
+  "processingTime": 50,
+  "results":[
+    {"count":4, "item": "ae2:silicon"}
+  ]
+}

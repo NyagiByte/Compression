@@ -1,0 +1,31 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
+  "loops": 1,
+  "results": [
+    {"count":32, "item": "ae2:fluix_smart_cable"}
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:fluix_smart_cable"},
+        {"item": "ae2:fluix_covered_cable"}  
+      ],
+      "results": [
+        {"item": "ae2:fluix_smart_cable"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:fluix_smart_cable"},
+        {"item": "nyagibits_bytes:ae2_schematic"}
+      ],
+      "results": [
+        {"item": "ae2:fluix_smart_cable"}
+      ]
+    }
+  ],
+  "transitionalItem": {"item": "ae2:fluix_smart_cable"}
+}

@@ -1,0 +1,31 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
+  "loops": 1,
+  "results": [
+    {"count":4, "item": "ae2:interface"}
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:interface"},
+        {"tag": "forge:chests/wooden"}  
+      ],
+      "results": [
+        {"item": "ae2:interface"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:interface"},
+        {"item": "nyagibits_bytes:ae2_schematic"}
+      ],
+      "results": [
+        {"item": "ae2:interface"}
+      ]
+    }
+  ],
+  "transitionalItem": {"item": "ae2:interface"}
+}

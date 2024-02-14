@@ -1,0 +1,31 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
+  "loops": 1,
+  "results": [
+    {"item": "ae2:vibration_chamber"}
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:vibration_chamber"},
+        {"item": "create:blaze_burner"}  
+      ],
+      "results": [
+        {"item": "ae2:vibration_chamber"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:vibration_chamber"},
+        {"item": "nyagibits_bytes:ae2_schematic"}
+      ],
+      "results": [
+        {"item": "ae2:vibration_chamber"}
+      ]
+    }
+  ],
+  "transitionalItem": {"item": "ae2:vibration_chamber"}
+}

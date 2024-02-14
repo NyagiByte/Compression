@@ -1,0 +1,31 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
+  "loops": 1,
+  "results": [
+    {"item": "ae2:chest"}
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:chest"},
+        {"item": "ae2:smooth_sky_stone_chest"}  
+      ],
+      "results": [
+        {"item": "ae2:chest"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:chest"},
+        {"item": "nyagibits_bytes:ae2_schematic"}
+      ],
+      "results": [
+        {"item": "ae2:chest"}
+      ]
+    }
+  ],
+  "transitionalItem": {"item": "ae2:chest"}
+}

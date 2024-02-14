@@ -1,0 +1,41 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "ae2:cell_component_1k"},
+  "loops": 1,
+  "results": [
+    {"item": "ae2:cell_component_4k"}
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:cell_component_4k"},
+        {"item": "botania:quartz_mana"}  
+      ],
+      "results": [
+        {"item": "ae2:cell_component_4k"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:cell_component_4k"},
+        {"item": "immersiveengineering:circuit_board"}  
+      ],
+      "results": [
+        {"item": "ae2:cell_component_4k"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:cell_component_4k"},
+        {"item": "nyagibits_bytes:ae2_schematic"}
+      ],
+      "results": [
+        {"item": "ae2:cell_component_4k"}
+      ]
+    }
+  ],
+  "transitionalItem": {"item": "ae2:cell_component_4k"}
+}

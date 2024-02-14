@@ -1,0 +1,10 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {"item": "create:golden_sheet"},
+    {"tag": "ae2:covered_dense_cable"}
+  ],
+  "results":[
+    {"item": "ae2:logic_processor"}
+  ]
+}

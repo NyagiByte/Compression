@@ -1,0 +1,31 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
+  "loops": 1,
+  "results": [
+    {"count":20, "item": "ae2:cell_component_1k"}
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:cell_component_1k"},
+        {"item": "ae2:chest"}  
+      ],
+      "results": [
+        {"item": "ae2:cell_component_1k"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:cell_component_1k"},
+        {"item": "nyagibits_bytes:ae2_schematic"}
+      ],
+      "results": [
+        {"item": "ae2:cell_component_1k"}
+      ]
+    }
+  ],
+  "transitionalItem": {"item": "ae2:cell_component_1k"}
+}

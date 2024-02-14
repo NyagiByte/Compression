@@ -1,0 +1,41 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
+  "loops": 1,
+  "results": [
+    {"item": "ae2:charger"}
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:charger"},
+        {"item": "nyagibits_bytes:raw_magnetite"}  
+      ],
+      "results": [
+        {"item": "ae2:charger"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:charger"},
+        {"item": "thermal:rf_potato"}  
+      ],
+      "results": [
+        {"item": "ae2:charger"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:charger"},
+        {"item": "nyagibits_bytes:ae2_schematic"}
+      ],
+      "results": [
+        {"item": "ae2:charger"}
+      ]
+    }
+  ],
+  "transitionalItem": {"item": "ae2:charger"}
+}

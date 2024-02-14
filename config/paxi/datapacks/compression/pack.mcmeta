@@ -39,6 +39,7 @@
 			{"namespace": "minecraft", "path": "recipes/netherite_shovel_smithing.json"},
 			{"namespace": "minecraft", "path": "recipes/netherite_hoe_smithing.json"},
 		
-			{"namespace": "minecraft", "path": "recipes/white_wool_from_string.json"}	
+			{"namespace": "minecraft", "path": "recipes/white_wool_from_string.json"},
+			{"namespace": "ae2", "path": "recipes/network/cables/dense_smart_from_smart"}	
 	]}
 }

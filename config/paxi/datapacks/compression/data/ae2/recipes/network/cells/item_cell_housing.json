@@ -1,0 +1,31 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
+  "loops": 1,
+  "results": [
+    {"item": "ae2:item_cell_housing"}
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:item_cell_housing"},
+        {"item": "ironchests:diamond_chest"}  
+      ],
+      "results": [
+        {"item": "ae2:item_cell_housing"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:item_cell_housing"},
+        {"item": "nyagibits_bytes:ae2_schematic"}
+      ],
+      "results": [
+        {"item": "ae2:item_cell_housing"}
+      ]
+    }
+  ],
+  "transitionalItem": {"item": "ae2:item_cell_housing"}
+}

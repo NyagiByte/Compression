@@ -1,0 +1,41 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
+  "loops": 1,
+  "results": [
+    {"count":10, "item": "ae2:sky_stone_tank"}
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:sky_stone_tank"},
+        {"item": "create:fluid_tank"}  
+      ],
+      "results": [
+        {"item": "ae2:sky_stone_tank"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:sky_stone_tank"},
+        {"item": "ae2:smooth_sky_stone_block"}  
+      ],
+      "results": [
+        {"item": "ae2:sky_stone_tank"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:sky_stone_tank"},
+        {"item": "nyagibits_bytes:ae2_schematic"}
+      ],
+      "results": [
+        {"item": "ae2:sky_stone_tank"}
+      ]
+    }
+  ],
+  "transitionalItem": {"item": "ae2:sky_stone_tank"}
+}
