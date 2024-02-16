@@ -1,0 +1,23 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_lazurite"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 24,
+        "item": "thermal:lapis_dust"
+      },
+      {
+        "chance": 0.75,
+        "item": "minecraft:calcite"
+      },
+      {
+        "chance": 0.25,
+        "item": "nyagibits_bytes:raw_compacted_limestone"
+      }
+    ]
+  }

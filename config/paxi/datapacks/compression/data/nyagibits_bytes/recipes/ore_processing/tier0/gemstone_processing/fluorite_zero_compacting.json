@@ -1,0 +1,13 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_fluorite"
+      }
+    ],
+    "results": [
+      {
+        "item": "mekanism:dust_fluorite"
+      }
+    ]
+  }

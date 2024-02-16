@@ -1,0 +1,14 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_lapis_lazuli"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "minecraft:lapis_lazuli"
+      }
+    ]
+  }

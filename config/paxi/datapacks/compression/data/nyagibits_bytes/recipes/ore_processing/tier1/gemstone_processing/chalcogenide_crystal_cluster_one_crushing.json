@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_chalcogenide_crystal_cluster"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 3,
+        "item": "chemlib:antimony_dust"
+      },
+      {
+        "count": 1,
+        "item": "chemlib:bismuth_dust"
+      }
+    ]
+  }

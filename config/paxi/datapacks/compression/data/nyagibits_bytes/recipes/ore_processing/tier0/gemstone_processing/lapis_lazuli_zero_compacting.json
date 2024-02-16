@@ -1,0 +1,14 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_lapis_lazuli"
+      }
+    ],
+    "results": [
+      {
+        "count": 4,
+        "item": "thermal:lapis_dust"
+      }
+    ]
+  }

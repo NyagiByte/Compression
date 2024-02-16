@@ -1,0 +1,13 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_chalcogenide_crystal_cluster"
+      }
+    ],
+    "results": [
+      {
+        "item": "chemlib:antimony_dust"
+      }
+    ]
+  }

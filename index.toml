@@ -377,6 +377,58 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "708d9228d609d4f79642e309c04fe0f0d87fe5f9ded2624e59b614538ab17b5b"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/gemstone_processing/chalcogenide_crystal_cluster_zero_compacting.json"
+hash = "94ebe2c3b4bcd24f0a00622dcf92f5f57fdcbaf569044f45c2bf8bde2c5c76ec"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/gemstone_processing/fluorite_zero_compacting.json"
+hash = "755934bbbf2509e1adc1c6518009b2146e7cefdb4473843710ef73ca4ddeeb13"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/gemstone_processing/kimberlite_zero_compacting.json"
+hash = "00a030289c56ca2df3a6780720e4d34822d4f99e846ec3de0aafb21d123cd285"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/gemstone_processing/kimberlite_zero_washing.json"
+hash = "85fd853507ea44128a80d1e8e6315ad0996b958ff0aa0d8466300edfe1ee79c9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/gemstone_processing/lamproite_zero_compacting.json"
+hash = "78b1d91dcce65b7663759de0f488d3defd1add2b537063a26d51ebeddfc58ddf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/gemstone_processing/lamproite_zero_washing.json"
+hash = "7be5210c9c30a88c197a58baa5af2b710c416e84963f55b697647ad43b3923e7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/gemstone_processing/lapis_lazuli_zero_compacting.json"
+hash = "b502bcd31bebb2a53f56719f5fb460b380af739958bc01761a7bba5201fb9166"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/gemstone_processing/lapis_lazuli_zero_washing.json"
+hash = "963b86c37448fa55bfd36c5f1ee4d53118ce52d425048e5de9d55a9896c0458c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/gemstone_processing/lazurite_zero_compacting.json"
+hash = "5977b1fcfc063690e591fa015b01e818f40b428618f0ab1733114df6cc5f9051"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/gemstone_processing/lazurite_zero_washing.json"
+hash = "90458b59a0181de5832204b6fe3d4a8cd127ad0ff0dd131149368f82e2dc3fb2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/gemstone_processing/prime_beryllic_cluster_zero_compacting.json"
+hash = "5d783f96489e41fa9fcfb14d54356d8306d3409c8bd3b11bfc14dbe3810b95fb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/gemstone_processing/prime_beryllic_cluster_zero_washing.json"
+hash = "6c688749f08d4f85db2ce2e3cf942d216091ffd4e45b77e9e39deb3d864f188c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/gemstone_processing/salt_cluster_zero_compacting.json"
+hash = "0b2b792a588d4b79a776d5a06cb205bb13de0ae9bbd4c19f86ae274aa4a3b892"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/gold_silver_processing/alluvial_slush_zero_blasting.json"
 hash = "f8aba4e62da99061ff07266956d169b0134af3f0d58c63c94d17509da912a269"
 
@@ -595,6 +647,58 @@ hash = "8ce5d9f6bda674d7c10e6f7162bd12f677f3e324ab704290a7488b57470b3f1d"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/copper_processing/tetrahedrite_one_crushing.json"
 hash = "b9666a94e01b598f045c04784bb40f6b047cd87184dbd5b292680a453b22f3c5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gemstone_processing/chalcogenide_crystal_cluster_one_crushing.json"
+hash = "846afc12bf3cb778e1aff329a7254c5d8f237c654b14dfc270333633a4a3c487"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gemstone_processing/fluorite_one_crushing.json"
+hash = "f55c274716b5a6df939c9d89265cde07bf8bb24fd0bffe37dd3a402ebd9c7b03"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gemstone_processing/kimberlite_one_crushing.json"
+hash = "2dd98311dc487b62510813e7b97a906d9159d0850e42d317e5cabb343e8ab0f8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gemstone_processing/kimberlite_one_polishing.json"
+hash = "9a5f60280d320bab8962940b0d891c10ca2c6a5ab87614f687dd28afa994d703"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gemstone_processing/lamproite_one_crushing.json"
+hash = "51d991de7dd2d24397e20ac03b94ec837be0213c6b89983273aa86aa27022b79"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gemstone_processing/lamproite_one_polishing.json"
+hash = "29623a8e663fe6ac9be8b6d536569fb2eaa8cddf21f2f215f74d88f52c7daaa3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gemstone_processing/lapis_lazuli_one_crushing.json"
+hash = "c2847a47ebd30d8a9b33df58a46bb2390a6e80af3955877ce77809d65796a539"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gemstone_processing/lapis_lazuli_one_polishing.json"
+hash = "4c0eb88efdddf00383b5c5049ebe9b83fb66897e7b6b6c986e0ff79b816b40d2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gemstone_processing/lazurite_one_crushing.json"
+hash = "88ad86001ceb462caea948e9d3ee0d60e0b66247dadd3899fbea6a1455163085"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gemstone_processing/lazurite_polishing.json"
+hash = "bd2071f5b0423744fc6d997c2535756f2ae68a295bcdad6d28f88d70d0d382ba"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gemstone_processing/prime_beryllic_cluster_one_crushing.json"
+hash = "1ca707c6f5fa289d9d638dec94ace52e84262ae34bd2aef859bb176540872461"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gemstone_processing/prime_beryllic_cluster_one_sequenced_polishing.json"
+hash = "c0bb223f432a3354a172499af8e3abe04d8731dc51473bd884052de40d860f8d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gemstone_processing/salt_cluster_one_crushing.json"
+hash = "a069e7325e3aa3e07110061aaae3566c47861e66e02bd502008e985346b396f8"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gold_silver_processing/alluvial_slush_one_crushing.json"
@@ -1206,7 +1310,7 @@ hash = "2fdb9f48654ae19fed10965960e34ac31ebd261ffcaf6ffd12d194ca75a7b364"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes_ores.js"
-hash = "93d55a0e98c4e2f3fda95f2763254b7edd8468a026de4b51e4b15cc7da760ee7"
+hash = "1bc1b0814ca984aa51237f10c97341acb9540686a8c2d4818adcf745911b1bff"
 
 [[files]]
 file = "kubejs/server_scripts/thermal_series.js"

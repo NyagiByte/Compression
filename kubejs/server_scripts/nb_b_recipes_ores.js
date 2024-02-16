@@ -756,15 +756,9 @@ ServerEvents.recipes(event => {
             /*Tier 0 - Diamond[Splashing]
                        4(Diamond Shard)[Compacting]
             */
-                    event.recipes.create.splashing(['minecraft:diamond'],'nyagibits_bytes:raw_kimberlite')
-                    event.recipes.create.compacting(['4x nyagibits_bytes:diamond_shard'], 'nyagibits_bytes:raw_kimberlite')
             /*Tier 1 - 3(Diamond), Diamond /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise[Sandpaper]
                        12(Diamond Shard), 0.75(Carbon), 0.25(Raw Graphite Ore)[Crushing]
             */
-                    event.recipes.createSandpaperPolishing(['4x minecraft:diamond'],'nyagibits_bytes:raw_kimberlite')
-                    event.recipes.createCrushing(['12x nyagibits_bytes:diamond_shard',
-                                                Item.of('nyagibits_bytes:raw_graphite').withChance(0.25),
-                                                Item.of('chemlib:carbon_dust').withChance(0.75)], 'nyagibits_bytes:raw_kimberlite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -783,15 +777,9 @@ ServerEvents.recipes(event => {
             /*Tier 0 - Diamond[Splashing]
                        4(Diamond Shard)[Compacting]
             */
-                    event.recipes.create.splashing(['minecraft:diamond'],'nyagibits_bytes:raw_lamproite')
-                    event.recipes.create.compacting(['4x nyagibits_bytes:diamond_shard'], 'nyagibits_bytes:raw_lamproite')
             /*Tier 1 - 3(Diamond), Diamond /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise[Sandpaper]
                        12(Diamond Shard), 0.75(Carbon), 0.25(Raw Graphite Ore)[Crushing]
             */
-                    event.recipes.createSandpaperPolishing(['4x minecraft:diamond'],'nyagibits_bytes:raw_lamproite')
-                    event.recipes.createCrushing(['12x nyagibits_bytes:diamond_shard',
-                                                Item.of('nyagibits_bytes:raw_basaltic_powder').withChance(0.25),
-                                                Item.of('chemlib:potassium_dust').withChance(0.75)], 'nyagibits_bytes:raw_lamproite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -810,15 +798,9 @@ ServerEvents.recipes(event => {
             /*Tier 0 - Lapis[Splashing]
                        2(Lapis Dust)[Compacting]
             */
-                    event.recipes.create.splashing(['minecraft:lapis_lazuli'],'nyagibits_bytes:raw_lazurite')
-                    event.recipes.create.compacting(['2x thermal:lapis_dust'], 'nyagibits_bytes:raw_lazurite')
             /*Tier 1 - 3(Lapis), Lapis /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise[Sandpaper]
                        6(Lapis Dust), 0.75(Calcite), 0.25(Compacted Limstone)[Crushing]
             */
-                    event.recipes.createSandpaperPolishing(['4x minecraft:lapis_lazuli'],'nyagibits_bytes:raw_lazurite')
-                    event.recipes.createCrushing(['24x thermal:lapis_dust',
-                                                Item.of('nyagibits_bytes:raw_compacted_limestone').withChance(0.25),
-                                                Item.of('minecraft:calcite').withChance(0.75)], 'nyagibits_bytes:raw_lazurite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -837,15 +819,9 @@ ServerEvents.recipes(event => {
             /*Tier 0 - 2(Lapis)[Splashing]
                        4(Lapis Dust)[Compacting]
             */
-                    event.recipes.create.splashing(['2x minecraft:lapis_lazuli'],'nyagibits_bytes:raw_lapis_lazuli')
-                    event.recipes.create.compacting(['4x thermal:lapis_dust'], 'nyagibits_bytes:raw_lapis_lazuli')
             /*Tier 1 - 6(Lapis), Lapis /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise[Sandpaper]
                        12(Lapis Dust), 0.75(Calcite), 0.25(Compacted Limstone)[Crushing]
             */
-                    event.recipes.createSandpaperPolishing(['7x minecraft:lapis_lazuli'],'nyagibits_bytes:raw_lapis_lazuli')
-                    event.recipes.createCrushing(['12x thermal:lapis_dust',
-                                                Item.of('nyagibits_bytes:raw_pyrite').withChance(0.25),
-                                                Item.of('minecraft:calcite').withChance(0.75)], 'nyagibits_bytes:raw_lapis_lazuli')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -864,33 +840,9 @@ ServerEvents.recipes(event => {
             /*Tier 0 - 0.3333(Emerald)0.3333(Ruby)0.3333(Sapphire)[Splashing]
                        0.5(Emerald Dust)0.5(Ruby Dust)0.5(Sapphire Dust)[Compacting]
             */
-                    event.recipes.create.splashing([Item.of('nyagibits_bytes:ruby').withChance(0.33),
-                                                    Item.of('nyagibits_bytes:sapphire').withChance(0.33),
-                                                    Item.of('minecraft:emerald').withChance(0.33)],'nyagibits_bytes:raw_prime_beryllic_cluster')
-                    event.recipes.create.compacting([Item.of('nyagibits_bytes:ruby_dust').withChance(0.5),
-                                                     Item.of('nyagibits_bytes:sapphire_dust').withChance(0.5),
-                                                     Item.of('thermal:emerald_dust').withChance(0.5)],'nyagibits_bytes:raw_prime_beryllic_cluster')
             /*Tier 1 - 1(Emerald), 1(Ruby), 1(Sapphire), Aluminum /- output set to x4 and not x3 + 1 due to it not yielding correctly otherwise[Sandpaper]
                        1.5(Emerald Dust), 1.5(Ruby Dust), 1.5(Sapphire Dust), 0.1(Emerald/Ruby/Sapphire Dust)[Sequence Processing]
             */
-                    event.recipes.createSequencedAssembly([
-                    Item.of('3x nyagibits_bytes:ruby'),
-                    Item.of('3x nyagibits_bytes:sapphire'),
-                    Item.of('3x minecraft:emerald'),
-                    Item.of('nyagibits_bytes:ruby_dust').withChance(0.1),
-                    Item.of('nyagibits_bytes:sapphire_dust').withChance(0.1),
-                    Item.of('thermal:emerald_dust').withChance(0.1),
-                ], 'nyagibits_bytes:raw_prime_beryllic_cluster',
-                    [
-                        event.recipes.createFilling('nyagibits_bytes:raw_prime_beryllic_cluster', ['nyagibits_bytes:raw_prime_beryllic_cluster', Fluid.water(100)]),
-                        event.recipes.createDeploying('nyagibits_bytes:raw_prime_beryllic_cluster', ['nyagibits_bytes:raw_prime_beryllic_cluster', '#create:sandpaper'])
-
-                    ]).loops(1).transitionalItem('nyagibits_bytes:raw_prime_beryllic_cluster')
-
-                    event.recipes.createCrushing(['chemlib:aluminum_dust',
-                                                  Item.of('nyagibits_bytes:ruby_dust').withChance(1.5),
-                                                  Item.of('nyagibits_bytes:sapphire_dust').withChance(1.5),
-                                                  Item.of('thermal:emerald_dust').withChance(1.5)],'nyagibits_bytes:raw_prime_beryllic_cluster')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -907,9 +859,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Fluorite
             //Tier 0 - Fluorite Dust
-                event.recipes.create.compacting(['mekanism:dust_fluorite'],'nyagibits_bytes:raw_fluorite')
             //Tier 1 - 3(Fluorite Dust), Calcium
-                event.recipes.createCrushing(['3x mekanism:dust_fluorite','chemlib:calcium_dust'],'nyagibits_bytes:raw_fluorite')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -926,9 +876,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Chalcogenide Crystal Cluster
             //Tier 0 - Antimony
-                event.recipes.create.compacting(['chemlib:antimony_dust'],'nyagibits_bytes:raw_chalcogenide_crystal_cluster')
             //Tier 1 - 3(Antimony), Bismuth
-                event.recipes.createCrushing(['3x chemlib:antimony_dust','chemlib:bismuth_dust'],'nyagibits_bytes:raw_chalcogenide_crystal_cluster')
             //Tier 2
             //Tier 3
             //Tier 4
@@ -945,9 +893,7 @@ ServerEvents.recipes(event => {
             //Tier 15
         //Salt Cluster
             //Tier 0 - Salt
-                event.recipes.create.compacting(['mekanism:salt'],'nyagibits_bytes:raw_salt_cluster')
             //Tier 1 - 3(Salt), Potassium Chloride
-                event.recipes.createCrushing(['3x mekanism:salt','chemlib:potassium_chloride_dust'],'nyagibits_bytes:raw_salt_cluster')
             //Tier 2
             //Tier 3
             //Tier 4

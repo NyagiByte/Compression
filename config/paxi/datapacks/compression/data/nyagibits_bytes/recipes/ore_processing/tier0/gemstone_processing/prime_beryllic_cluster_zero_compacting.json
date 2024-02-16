@@ -1,0 +1,24 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
+      }
+    ],
+    "results": [
+      {
+        "chance": 0.34,
+        "item": "thermal:emerald_dust"
+      },
+      {
+        "chance": 0.33,
+        "item": "nyagibits_bytes:sapphire_dust"
+
+      },
+      {
+        "chance": 0.33,
+        "item": "nyagibits_bytes:ruby_dust"
+
+      }
+    ]
+  }

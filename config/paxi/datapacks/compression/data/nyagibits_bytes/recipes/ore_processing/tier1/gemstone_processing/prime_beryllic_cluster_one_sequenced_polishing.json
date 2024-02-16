@@ -1,0 +1,65 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
+    },
+    "loops": 1,
+    "results": [
+        {
+          "chance": 34,
+          "count": 3,
+          "item": "nyagibits_bytes:ruby"
+        },
+        {
+          "chance": 33,
+          "count": 3,
+          "item": "nyagibits_bytes:sapphire"
+        },
+        {
+          "chance": 33,
+          "count": 3,
+          "item": "minecraft:emerald"
+        }
+      ],
+    "sequence": [
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
+          },
+          {
+            "amount": 500,
+            "fluid": "minecraft:water",
+            "nbt": {}
+          }
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
+          },
+          [
+            {
+              "item": "nyagibits_bytes:crude_abrasive"
+            }
+          ]
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
+    }
+  }

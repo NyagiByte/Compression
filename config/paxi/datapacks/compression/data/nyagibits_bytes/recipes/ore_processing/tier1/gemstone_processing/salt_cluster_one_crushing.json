@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_salt_cluster"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 3,
+        "item": "mekanism:salt"
+      },
+      {
+        "count": 1,
+        "item": "chemlib:potassium_chloride_dust"
+      }
+    ]
+  }

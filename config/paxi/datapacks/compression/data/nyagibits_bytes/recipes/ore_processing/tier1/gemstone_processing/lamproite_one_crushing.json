@@ -1,0 +1,23 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_lamproite"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 12,
+        "item": "nyagibits_bytes:diamond_shard"
+      },
+      {
+        "chance": 0.75,
+        "item": "chemlib:potassium_dust"
+      },
+      {
+        "chance": 0.25,
+        "item": "nyagibits_bytes:raw_basaltic_powder"
+      }
+    ]
+  }

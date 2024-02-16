@@ -1,0 +1,13 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_lazurite"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:lapis_lazuli"
+      }
+    ]
+  }
