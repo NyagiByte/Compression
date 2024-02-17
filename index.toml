@@ -1463,7 +1463,7 @@ metafile = true
 
 [[files]]
 file = "mods/compressiontweaks-1.19.2-1.0.0.jar"
-hash = "57c17ca24a832dc7fb098bf62f19be7bcd396de79a0148e7604f917ca37aa0d9"
+hash = "ddb2afd50acce0a5362e0b3e95115790bc203ae275b4e9b960450c7cc69fb320"
 
 [[files]]
 file = "mods/configured.pw.toml"
