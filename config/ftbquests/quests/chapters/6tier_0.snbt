@@ -5,7 +5,7 @@
 	group: "1C682695BB4A0B06"
 	icon: "ae2:energy_acceptor"
 	id: "3132E1AF7B578CC7"
-	order_index: 0
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{

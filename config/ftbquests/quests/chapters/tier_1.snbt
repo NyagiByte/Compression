@@ -3,6 +3,7 @@
 	default_quest_shape: ""
 	filename: "tier_1"
 	group: "6B3B606AC87356A0"
+	hide_quest_details_until_startable: true
 	icon: "thermal:netherite_gear"
 	id: "4D853DE4C4204A9D"
 	order_index: 1
@@ -15,6 +16,7 @@
 				"5FD4E5F7C28806E5"
 				"177A2060FFFA6932"
 			]
+			hide: true
 			icon: "thermal:enderium_gear"
 			id: "472213B0CD3A8117"
 			shape: "hexagon"
@@ -38,25 +40,6 @@
 			}]
 			x: 0.0d
 			y: -1.5d
-		}
-		{
-			dependencies: ["41AC9292A879EB3C"]
-			id: "0C8B67BDF8C96B14"
-			shape: "hexagon"
-			size: 1.5d
-			tasks: [{
-				id: "7D89A10BC5928C4C"
-				item: {
-					Count: 1b
-					id: "aiotbotania:manasteel_aiot"
-					tag: {
-						Damage: 0
-					}
-				}
-				type: "item"
-			}]
-			x: 0.0d
-			y: -6.0d
 		}
 	]
 	subtitle: ["Machines greased with mana"]

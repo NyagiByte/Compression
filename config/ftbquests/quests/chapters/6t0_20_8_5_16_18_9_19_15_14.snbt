@@ -1,0 +1,32 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6t0_20_8_5_16_18_9_19_15_14"
+	group: "5AA3D071C2D3B9FD"
+	hide_quest_details_until_startable: true
+	icon: "nyagibits_bytes:flake"
+	id: "22FE608410FC0833"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		dependencies: [
+			"7063B8BCE64899C9"
+			"6C86D86CCAEED256"
+			"5FD4E5F7C28806E5"
+			"177A2060FFFA6932"
+		]
+		description: ["8 20 20 16 19 25 15 21 20 21 2 5 22 17 5 13 14 2 13 7 13 "]
+		hide: true
+		icon: "nyagibits_bytes:flake"
+		id: "6FF17104DF811D3E"
+		tasks: [{
+			id: "3C48A3A788B73A29"
+			title: "Where am I?"
+			type: "checkmark"
+		}]
+		title: " &6t0_20 8 5 16 18 9 19 15 14"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: " &6t0_20 8 5 16 18 9 19 15 14"
+}

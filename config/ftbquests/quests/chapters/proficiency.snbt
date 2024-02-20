@@ -1,0 +1,86 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "proficiency"
+	group: "1C682695BB4A0B06"
+	icon: "ae2:molecular_assembler"
+	id: "49CFEE35A165B6FF"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["4CBFDFBD1A71E6B4"]
+			description: ["Into the box you go!"]
+			id: "2745055EE3F9B013"
+			tasks: [{
+				count: 1024L
+				id: "105CC8788AD88BA4"
+				item: "create:blaze_burner"
+				type: "item"
+			}]
+			title: "Encasing the living flame"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["64859B912D563011"]
+			description: ["I'm not sure if this is better than a sword"]
+			icon: "nyagibits_bytes:pen"
+			id: "1B5E16663536E70C"
+			tasks: [{
+				count: 5120L
+				id: "360947880C069804"
+				item: "nyagibits_bytes:pen"
+				type: "item"
+			}]
+			title: "*Click* *Click *Click*"
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["12356B8E644A1A52"]
+			description: ["Does.. does this mean my machines are alive...?"]
+			id: "40984ABC05C3304A"
+			tasks: [{
+				count: 10240L
+				id: "3CE2D4F7AAF52C45"
+				item: "nyagibits_bytes:livisite_stone"
+				title: "A Create and Botania love child"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6F9A0CC233865374"]
+			description: ["1yq47nym859n5s40bjrherrulpamqyy934tsehee8eqxwo8bsnfnr9jndu9houc0rc1w195sno58l67f9ykjeam59j1ik9c836hxhy8q7lc4wnnp7mmlkt2ysyhp9losdve0exsq3tr9qar68worwl6ovr37v3sc45ih9obb5lssjw49nkpojgujzlekr0fq8s5vgw2m0jh0oc5krnk0hqo179ixj6du9189em625nujjinksz1078tv2vxiit9oz9lm03890amu9xsnmk12ojs6z3arqxemjkhd7lj3h55rz23vxuqdbxgaf61wcgcps8btfug002wmkwjiyf86efxnh0v1ir8o7z8b6cc1t8t4lh406nct4hf8wkbdcwlmxfp19g5z6vvlw06754wdfb1e6gca24k5kkof80em6zmtsyukurcgml08sk4c8j7ch7226tsrtynue3yie6pp46l90g98i2rrj0mh59b771zhmsf30vukf4yj9j74ov4zi2j2bdyhqybq1qvzx2l4t57i0w20438o5uxx87edqw5g0ef53urjr699jee10i8omxn4akzcdjqzhsdgbga3vhx0ryzktjkccb4hn8xnxexl12tuxbu6chry0b0nwg4rei2eok8b3cmard1motsrr19vgdhk9j3egm1g24ug7nwfr14l2ni1gkfbk037mt8jg3efy5uewm7g4rkx65dny2f4zyk5buhsn5747go2vnftza9h2dmi1orqkv7lg4yyp4vw342bfrl0ryfuibeea92mgrm6weilskl881kj23bjhq3r4e0k5nhqzo9aaizwunek2domr8p5876d6wwnomm88w21aaqeec73trezqswoj58q4bmju5yav4tenrombrjmvy821imda68rephsjlaegq74z3gzdagg7otjm4b3s5d4sf5ebz7vguibf5ms32mbcr5pl3px5jrdc5qdqnqdn5c5yt2twhg17gptxtfcx5fr48xu98ncq2qlhegntmht0x0of0nx6pftvym2ygg0m3qnx3so82zrf1oecfylsndc60a27qmsqdve57dbiwxwlj3ll9c6zzne8xu2hzddqji98xbtn56i9x9dur8zhjqbttgh6nnhbyr2vccqgkwxugy6i6mu4a3vso8vejt6jaw9fvd5ujedhsmq5m8avli96jw85l7taqgsqz2awjuktbaxuvfdf5y4rg9txlyilq3jifix0v2s1yhudrhki1zmmt4tn4l4z9hqa1v8kn4w2u8mhku1wt15xgejkg101nqyfbkfn8hnljk5zvqzlt8iv6stvd99usxzd1nni2d6puustrdiij0sy981ea54gc7ik0bqn9xsb6vnl3sv0fd5f9vtnr3i90ymdkpy8t4e454jwuu6jl2vivo61h1gtdse8z2a0qeyxrn1qa87r3t22p2y10yjujkosjldbgpfu8s0ej8iw5c0ac0hasspwjxz9wxcznq6xwemnpt5n08zylfc959l7dltbv6r5j3f9m9ui6b65zzluuukz4qet1in909m3lcyo3znef0tebmsi5d92zpcqlu2osh4a05lca83r4jk3eeqwctuigy1ylvfr917bcub3yqfny5o5l607qhblyk91ws5cv338b8ju1bv3gnghi42ddohe3deblu65t4xkevgty2fgip9132qxrgoikduzrwjeo2k4fajbfmy2gygixw7oew0gk808w92srgw5vheqsmi76drx0nkbmw6zhxj2stv733y90saq2mpm3gtc2mw3ycpan4jtcccn3wgfij1emk3hjvxfh6d98fu66vgb2r8qgv5obp035gcltqxefv91r73ife73eb5e4s1q58hbafb1u77e6xyr67fb54xzoyzh5a4kd82rtsyrs3mj3lxeixqz9byjrelyjyj9v09l2vqq9kvd15b7b2nkiisszuj57g642buuu89nzv0ze88kmu8d79a4hy0b7cbn4qotwwzy0ur9l25ytzbiiex4codo0dzl2r8m949xfrlr94zt02ssnlpxinrabkxod5vxhmtlumdzkayefxiabhq9ow74axcijx1jvkh1ox1jjay2w46d3f286xbuypid1lp6p9zcai3j9gyfyeqnxxvdju079yztkgshteo18o7tcx3o8au732v44nk47jb2laetffulkc1gjaniey09hbybtgvt6i1vfxuai2wmzbavua1a5u0tq2e35xlk4jejtw49xrjoamfq2tzzabnkj07b05jv0uv05f5vrtwinbxn355cgxxunzvdptg2cp2t9oo3nu9t4ahsh67ind0gt5glto1f9twaawx4bv9ektj6u7eau8dszouhco40568r2fqonr63tunt29hww8858wctb09l2upvifyma4ph13xqcpta36sb5pfqc6zthmnsu15rbsobbv9lsqc2fli25k7pipnwgqlyijzdspe8bdn97r56fn8mw1dkjjj0hq8ue8suv4el30xqd80n86a43u1g708pyfgu5o4eikmoj054t9ssxqam7baip27ksxh7bzabna1sd3114b8az3roy9gmukidxpcgegdwx1xqnlulbxaqpci807njd94c1tvup3woh0yfm7vqc4083owdwrz3wnh8btk9lss745e0w69kqitdieqf1pybg0ovy56e4ug68l3xpqgjhiozpxr95btxvmse0fayzd2omqj3r6tj763hoq98fdhbihh8d2qhfr613702a1d3zxjjp2qb5euru1122ss76at9xrynazq4i7j4f37n7sg0x7ppnkrtl73nd8gd05elu024h5fe8ojn9qppk01e5p94kfp7klqihqlut9f3upcye07ndwm6pjtn5ik2las3qk4c1rhmsxj4ieowkgh1x9e1qrmu4s225enz6f6l09f4jbj7w7dwe1tdjbbjwqq1o3j2ex9wf4qucrjs3iwhuqoqe673otkgtlu9nw8dgheped2h2dvikqcdsx7kwcfgr30zdzstwv3r6qdyj1wuvacocb8c9sz0xxf0srq93o442jac1439ebqiv9pqxp4e27og6evztshahm6emnzq89etv9brtqjfa9qk6ck9cefrm4oei74i0d0afidu74xblfz31omeaelj84b8sqbzfh1xdhnplbrkeqftjv5kix2v4uauoioqsisgs5jrvs5v2r6373r3"]
+			icon: "minecraft:book"
+			id: "61F31FA24CE086DE"
+			tasks: [{
+				count: 5120L
+				id: "7BD18295B84DF42E"
+				item: "minecraft:book"
+				type: "item"
+			}]
+			title: "Babbling in the library"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6F9A0CC233865374"]
+			description: ["Why are all of these instructions in swedish"]
+			id: "7A53875C5D108A26"
+			tasks: [{
+				count: 1024L
+				id: "13BA4F3164C35864"
+				item: "nyagibits_bytes:blank_blueprint"
+				type: "item"
+			}]
+			title: "Build it yourself!"
+			x: 0.0d
+			y: 1.0d
+		}
+	]
+	subtitle: [" &fGrind, Optimize, Automate, Thrive"]
+	title: " &fProficiency"
+}

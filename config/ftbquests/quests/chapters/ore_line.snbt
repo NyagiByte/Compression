@@ -83,7 +83,7 @@
 				"55F62F8F0F606A69"
 			]
 			description: [
-				"Generic mostly pure iron found on the upper layer of iron geodes."
+				"Generic mostly pure iron found on the upper layer of iron geodes. &eExtruded from the inner world, boiling hot with magma and basalt"
 				""
 				"&dDeeper layers require better tools to fracture open"
 			]
@@ -245,7 +245,7 @@
 		{
 			dependencies: ["6F66FCCD63752DC8"]
 			description: [
-				"Generic mostly pure copper found on the upper layer of copper geodes."
+				"Generic mostly pure copper found on the upper layer of copper geodes. &eThere seems to be quite a variety of organic life around these"
 				""
 				"&dDeeper layers require better tools to fracture open"
 			]
@@ -407,7 +407,7 @@
 		{
 			dependencies: ["6F66FCCD63752DC8"]
 			description: [
-				"Generic mostly pure gold and silver found on the upper layer of electrum geodes."
+				"Generic mostly pure gold and silver found on the upper layer of electrum geodes. &eAncient node of gold and silver taken over by a long dead ancient coral encasing itself around the node itself, spilling digestive acids around its corpse"
 				""
 				"&dDeeper layers require better tools to fracture open"
 			]
@@ -577,7 +577,7 @@
 		{
 			dependencies: ["6F66FCCD63752DC8"]
 			description: [
-				"Generic mostly pure redstone found on the upper layer of mercury geodes."
+				"Generic mostly pure redstone found on the upper layer of mercury geodes. &eA tendril of obsidian coated in mercury wrapping around the boulder is seen"
 				""
 				"&dDeeper layers require better tools to fracture open"
 			]
@@ -740,6 +740,7 @@
 			dependencies: ["6F66FCCD63752DC8"]
 			description: [
 				"Generic mostly pure coal found on the upper layer of coal geodes."
+				"&eMay contain some useful liquids early game as well"
 				""
 				"&dDeeper layers require better tools to fracture open"
 				""
@@ -1042,9 +1043,6 @@
 				"               Emerald"
 				"               Sapphire"
 				"               Ruby"
-				"               Emerald Dust &cx0.1&r,"
-				"               Sapphire Dust &cx0.1&r,"
-				"               Ruby Dust &cx0.1&r"
 				"               &aor&r"
 				"               Aluminum Dust"
 			]
@@ -2499,8 +2497,8 @@
 			description: [
 				"A trisodium hydrogendicarbonate dihydrite, primary source of baking soda for bread making"
 				""
-				"&6Tier 0 Yield:&r Silicon Carbonate"
-				"&6Tier 1 Yield:&r Silicon Carbonate"
+				"&6Tier 0 Yield:&r Sodium Carbonate"
+				"&6Tier 1 Yield:&r Sodium Carbonate"
 			]
 			id: "53A59BCE01097779"
 			shape: "hexagon"
@@ -2564,10 +2562,7 @@
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"0C8B67BDF8C96B14"
-				"55F62F8F0F606A69"
-			]
+			dependencies: ["55F62F8F0F606A69"]
 			description: [
 				"Drops 4 ores total from a pool of 8 options, requires at least a manasteel pickaxe to mine"
 				""
