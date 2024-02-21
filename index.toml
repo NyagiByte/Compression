@@ -1733,7 +1733,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.1-1.19.2.jar"
-hash = "4f91cd483dd3db61530adaf80a52e8bf815c3ae6096a5554b667ace3671878bf"
+hash = "89e3be01bdbab96cf6c6bbec5496b2b86a0cd2d3be1a43f181747d256ddb1849"
 
 [[files]]
 file = "mods/oculus.pw.toml"
