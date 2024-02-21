@@ -161,8 +161,16 @@ file = "config/paxi/datapacks/compression/data/ae2/recipes/decorative/quartz_fix
 hash = "65df1c051ac970f433f954729fddbce1e402975084f916dcb97e64f4128fc527"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/inscriber/calculation_processor.json"
+hash = "c6d31b4708f5e210cfbe1e422472f16dabdb447cc5f9dd30f9b2746b060b7bb9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/inscriber/engineering_processor.json"
+hash = "9927c9edfcc862a5fe0124314c49526eb78729b1a183e08e992842d7a0b572fc"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/inscriber/logic_processor.json"
-hash = "b5affa5525cef8ec1d383541809e56160214c8496b1d93c178627b6d0031895a"
+hash = "0cf04f1f0cc6ed9da1dcfc139e536a77d1f3129a2745c4152ff635adda822c77"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/misc/silicon_cutting_crude.json"
