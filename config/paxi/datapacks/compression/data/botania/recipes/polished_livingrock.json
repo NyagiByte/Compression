@@ -1,0 +1,9 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {"item": "botania:livingrock"}
+  ],
+  "results": [
+    {"item": "botania:polished_livingrock"}
+  ]
+}

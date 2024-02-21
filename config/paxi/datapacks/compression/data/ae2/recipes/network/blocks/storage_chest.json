@@ -9,23 +9,23 @@
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:chest"},
+        {"item": "nyagibits_bytes:incomplete_me_chest"},
         {"item": "ae2:smooth_sky_stone_chest"}  
       ],
       "results": [
-        {"item": "ae2:chest"}
+        {"item": "nyagibits_bytes:incomplete_me_chest"}
       ]
     },
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:chest"},
+        {"item": "nyagibits_bytes:incomplete_me_chest"},
         {"item": "nyagibits_bytes:ae2_schematic"}
       ],
       "results": [
-        {"item": "ae2:chest"}
+        {"item": "nyagibits_bytes:incomplete_me_chest"}
       ]
     }
   ],
-  "transitionalItem": {"item": "ae2:chest"}
+  "transitionalItem": {"item": "nyagibits_bytes:incomplete_me_chest"}
 }

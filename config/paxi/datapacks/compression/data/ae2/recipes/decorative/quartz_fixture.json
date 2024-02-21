@@ -9,23 +9,23 @@
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:quartz_fixture"},
+        {"item": "nyagibits_bytes:incomplete_charged_quartz_fixture"},
         {"item": "byg:glowstone_lantern"}  
       ],
       "results": [
-        {"item": "ae2:quartz_fixture"}
+        {"item": "nyagibits_bytes:incomplete_charged_quartz_fixture"}
       ]
     },
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:quartz_fixture"},
+        {"item": "nyagibits_bytes:incomplete_charged_quartz_fixture"},
         {"item": "nyagibits_bytes:ae2_schematic"}
       ],
       "results": [
-        {"item": "ae2:quartz_fixture"}
+        {"item": "nyagibits_bytes:incomplete_charged_quartz_fixture"}
       ]
     }
   ],
-  "transitionalItem": {"item": "ae2:quartz_fixture"}
+  "transitionalItem": {"item": "nyagibits_bytes:incomplete_charged_quartz_fixture"}
 }

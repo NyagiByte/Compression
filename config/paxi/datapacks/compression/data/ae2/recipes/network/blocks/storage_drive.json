@@ -9,23 +9,23 @@
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:drive"},
+        {"item": "nyagibits_bytes:incomplete_me_drive"},
         {"item": "ae2:sky_stone_chest"}  
       ],
       "results": [
-        {"item": "ae2:drive"}
+        {"item": "nyagibits_bytes:incomplete_me_drive"}
       ]
     },
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:drive"},
+        {"item": "nyagibits_bytes:incomplete_me_drive"},
         {"item": "nyagibits_bytes:ae2_schematic"}
       ],
       "results": [
-        {"item": "ae2:drive"}
+        {"item": "nyagibits_bytes:incomplete_me_drive"}
       ]
     }
   ],
-  "transitionalItem": {"item": "ae2:drive"}
+  "transitionalItem": {"item": "nyagibits_bytes:incomplete_me_drive"}
 }

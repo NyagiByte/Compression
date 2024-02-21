@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"botania:livingwood_planks"}
+  },
+  "pattern": [
+    "A",
+    "A"
+  ],
+  "result": {"count":4,"item": "botania:livingwood_twig"}
+}

@@ -9,23 +9,23 @@
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:inscriber"},
+        {"item": "nyagibits_bytes:incomplete_inscriber"},
         {"item": "create:mechanical_press"}  
       ],
       "results": [
-        {"item": "ae2:inscriber"}
+        {"item": "nyagibits_bytes:incomplete_inscriber"}
       ]
     },
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:inscriber"},
+        {"item": "nyagibits_bytes:incomplete_inscriber"},
         {"item": "nyagibits_bytes:ae2_schematic"}
       ],
       "results": [
-        {"item": "ae2:inscriber"}
+        {"item": "nyagibits_bytes:incomplete_inscriber"}
       ]
     }
   ],
-  "transitionalItem": {"item": "ae2:inscriber"}
+  "transitionalItem": {"item": "nyagibits_bytes:incomplete_inscriber"}
 }

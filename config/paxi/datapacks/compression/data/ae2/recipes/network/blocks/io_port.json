@@ -9,23 +9,23 @@
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:io_port"},
+        {"item": "nyagibits_bytes:incomplete_me_io_port"},
         {"item": "botania:lens_magnet"}  
       ],
       "results": [
-        {"item": "ae2:io_port"}
+        {"item": "nyagibits_bytes:incomplete_me_io_port"}
       ]
     },
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:io_port"},
+        {"item": "nyagibits_bytes:incomplete_me_io_port"},
         {"item": "nyagibits_bytes:ae2_schematic"}
       ],
       "results": [
-        {"item": "ae2:io_port"}
+        {"item": "nyagibits_bytes:incomplete_me_io_port"}
       ]
     }
   ],
-  "transitionalItem": {"item": "ae2:io_port"}
+  "transitionalItem": {"item": "nyagibits_bytes:incomplete_me_io_port"}
 }

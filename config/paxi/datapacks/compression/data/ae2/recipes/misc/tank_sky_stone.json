@@ -9,33 +9,33 @@
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:sky_stone_tank"},
+        {"item": "nyagibits_bytes:incomplete_skystone_tank"},
         {"item": "create:fluid_tank"}  
       ],
       "results": [
-        {"item": "ae2:sky_stone_tank"}
+        {"item": "nyagibits_bytes:incomplete_skystone_tank"}
       ]
     },
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:sky_stone_tank"},
+        {"item": "nyagibits_bytes:incomplete_skystone_tank"},
         {"item": "ae2:smooth_sky_stone_block"}  
       ],
       "results": [
-        {"item": "ae2:sky_stone_tank"}
+        {"item": "nyagibits_bytes:incomplete_skystone_tank"}
       ]
     },
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:sky_stone_tank"},
+        {"item": "nyagibits_bytes:incomplete_skystone_tank"},
         {"item": "nyagibits_bytes:ae2_schematic"}
       ],
       "results": [
-        {"item": "ae2:sky_stone_tank"}
+        {"item": "nyagibits_bytes:incomplete_skystone_tank"}
       ]
     }
   ],
-  "transitionalItem": {"item": "ae2:sky_stone_tank"}
+  "transitionalItem": {"item": "nyagibits_bytes:incomplete_skystone_tank"}
 }
