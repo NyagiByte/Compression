@@ -19,6 +19,11 @@
 		hide: true
 		icon: "nyagibits_bytes:flake"
 		id: "6FF17104DF811D3E"
+		rewards: [{
+			id: "3D11C51C6F0E9B9F"
+			item: "nyagibits_bytes:tier_zero_strawberry"
+			type: "item"
+		}]
 		tasks: [{
 			id: "3C48A3A788B73A29"
 			title: "Where am I?"

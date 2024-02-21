@@ -19,6 +19,11 @@
 			description: ["This line of quests will guide you towards major key steps in increasing yields in gemstone-type processing"]
 			icon: "minecraft:diamond"
 			id: "35494E3A757EA660"
+			rewards: [{
+				id: "04E4B62FF9E165C0"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "5DC0F82CAB8513F1"
@@ -33,6 +38,11 @@
 			description: ["This line of quests will guide you towards major key steps in increasing yields in metal-type processing"]
 			icon: "minecraft:raw_iron"
 			id: "0F2BCC8D3D977D1E"
+			rewards: [{
+				id: "48C52A2CF0C20CDA"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "24C5EF9613BDACB9"
@@ -50,6 +60,11 @@
 				"&b1 drop per ore"
 			]
 			id: "531EE69871EFB610"
+			rewards: [{
+				id: "52220145E67B81DA"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "1CBF03206F76DA8B"
@@ -67,6 +82,11 @@
 				"&b4 total drops per ore"
 			]
 			id: "301DE6C093EF12D1"
+			rewards: [{
+				id: "61CC18DE9C1A3C6E"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				count: 2L
@@ -89,6 +109,11 @@
 			]
 			icon: "minecraft:iron_ingot"
 			id: "2345F14F53AF22A6"
+			rewards: [{
+				id: "501BDCDF040DA7F3"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "26E9BF0BEBE36732"
@@ -107,6 +132,11 @@
 				"&6Tier 1 Yield:&r Iron"
 			]
 			id: "67A33403E5A33908"
+			rewards: [{
+				id: "7C25B5E70207E323"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "2DC4ABDF9C72598C"
@@ -125,6 +155,11 @@
 				"&6Tier 1 Yield:&r Iron"
 			]
 			id: "58923677AB18101F"
+			rewards: [{
+				id: "30499F06FB327743"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "37342502E0A8095F"
@@ -143,6 +178,11 @@
 				"&6Tier 1 Yield:&r Iron"
 			]
 			id: "7F48EEDDB59BF09E"
+			rewards: [{
+				id: "7FEB642276233A52"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "22642E3FF404CFA7"
@@ -161,6 +201,11 @@
 				"&6Tier 1 Yield:&r Sulfur"
 			]
 			id: "0C283C5774790BE4"
+			rewards: [{
+				id: "65A3C34B2ACA3667"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "66CC8E373731DE1E"
@@ -179,6 +224,11 @@
 				"&6Tier 1 Yield:&r Iron"
 			]
 			id: "5BC59FE0D095DE08"
+			rewards: [{
+				id: "2A46E0DDE5B7830A"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "073EFA3D1EAF2784"
@@ -197,6 +247,11 @@
 				"&6Tier 1 Yield:&r Iron"
 			]
 			id: "52412DFD0519F04E"
+			rewards: [{
+				id: "4993164826418484"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "6F0455507F872D46"
@@ -215,6 +270,11 @@
 				"&6Tier 1 Yield:&r Clay"
 			]
 			id: "71EB7F1DCCACFFD0"
+			rewards: [{
+				id: "4E9CFED6BCD0C619"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "7B27949A810C1A35"
@@ -233,6 +293,11 @@
 				"&6Tier 1 Yield:&r Iron"
 			]
 			id: "151971F1799BCDA2"
+			rewards: [{
+				id: "47647190DCBA523F"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "548D2C6E6CEFC503"
@@ -251,6 +316,11 @@
 			]
 			icon: "minecraft:copper_ingot"
 			id: "3DF87F43E36C0204"
+			rewards: [{
+				id: "77960EBCDCE247C9"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "49F455AD9B80E29D"
@@ -269,6 +339,11 @@
 				"&6Tier 1 Yield:&r Iron"
 			]
 			id: "62418EFCDCAD72E4"
+			rewards: [{
+				id: "4F6E7AEA4F92C23B"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "6BC11B9EE0573EA4"
@@ -287,6 +362,11 @@
 				"&6Tier 1 Yield:&r Copper"
 			]
 			id: "2B54406B8D37509B"
+			rewards: [{
+				id: "782D6E2A8389F103"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "7C40FC02D9CFEB1B"
@@ -305,6 +385,11 @@
 				"&6Tier 1 Yield:&r Copper"
 			]
 			id: "5FAEE148EC5A3355"
+			rewards: [{
+				id: "7B5C269768662D39"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "536BB561BFD21413"
@@ -323,6 +408,11 @@
 				"&6Tier 1 Yield:&r Antimony"
 			]
 			id: "78C42FDAD1A8B62B"
+			rewards: [{
+				id: "78E918119EF76416"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "4F1ECFB7BAB5D1A4"
@@ -341,6 +431,11 @@
 				"&6Tier 1 Yield:&r Sulfur"
 			]
 			id: "264EA0720710551E"
+			rewards: [{
+				id: "66DDEBF9B6E5FD53"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "14FACF77FE982641"
@@ -359,6 +454,11 @@
 				"&6Tier 1 Yield:&r Silicon"
 			]
 			id: "0CCA4A8CCB705314"
+			rewards: [{
+				id: "1C7D9D012E5C28C7"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "1A50A8EA661588E3"
@@ -377,6 +477,11 @@
 				"&6Tier 1 Yield:&r Sulfur"
 			]
 			id: "71C62012FD5BB79B"
+			rewards: [{
+				id: "45D36ECEB421FC6D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "4B7C6E3A23F48DBD"
@@ -395,6 +500,11 @@
 				"&6Tier 1 Yield:&r Copper"
 			]
 			id: "2BF9AC909FCE6E74"
+			rewards: [{
+				id: "4EA26803F56CC3B2"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "5F2E980017D3F44B"
@@ -413,6 +523,11 @@
 			]
 			icon: "minecraft:gold_ingot"
 			id: "13FC2F89AE4F3F6E"
+			rewards: [{
+				id: "77241CADC89A21F1"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [
 				{
@@ -439,6 +554,11 @@
 				"&6Tier 1 Yield:&r Gravel"
 			]
 			id: "7D8F4E873B8C86EC"
+			rewards: [{
+				id: "064ECF93AE010673"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "39CD6F0EEDB0EABE"
@@ -457,6 +577,11 @@
 				"&6Tier 1 Yield:&r Gold"
 			]
 			id: "79DB6A36983AC55D"
+			rewards: [{
+				id: "55F859E972F77163"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "14F4F9B2F8DD723F"
@@ -475,6 +600,11 @@
 				"&6Tier 1 Yield:&r Sulfur"
 			]
 			id: "6C3F94DE1163D837"
+			rewards: [{
+				id: "26751C47CD06359F"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "343E80D69D8B0134"
@@ -493,6 +623,11 @@
 				"&6Tier 1 Yield:&r Silver"
 			]
 			id: "7ECC3DA24391CE03"
+			rewards: [{
+				id: "217F9B381BA2574F"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "489E1A754451AFE0"
@@ -511,6 +646,11 @@
 				"&6Tier 1 Yield:&r Antimony"
 			]
 			id: "0706D348FEA18955"
+			rewards: [{
+				id: "6210ABCB7BB9A47A"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "70D97D0A4B588C43"
@@ -529,6 +669,11 @@
 				"&6Tier 1 Yield:&r Arsenic"
 			]
 			id: "620F9326CF74EDFB"
+			rewards: [{
+				id: "1E38365D0AF59F15"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "10BDFD8F6FABE37B"
@@ -547,6 +692,11 @@
 				"&6Tier 1 Yield:&r Silver"
 			]
 			id: "38E79A712811BE9E"
+			rewards: [{
+				id: "6489076DA7C4DAF3"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "1C554EE58E1DD282"
@@ -565,6 +715,11 @@
 				"&6Tier 1 Yield:&r Gold &bx2"
 			]
 			id: "1B57872EBFFB1EAE"
+			rewards: [{
+				id: "29B38B3F2F553157"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "11FDDC976D062048"
@@ -582,6 +737,11 @@
 				"&dDeeper layers require better tools to fracture open"
 			]
 			id: "1DFA40765C37E21B"
+			rewards: [{
+				id: "38AF5EF2F3BD6726"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "5627175D5BABB587"
@@ -601,6 +761,11 @@
 				"&6Tier 1 Yield:&r Mercury Sulfide"
 			]
 			id: "2AB039D37466584C"
+			rewards: [{
+				id: "5FB94CA0BAE24FFE"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "6F069D7526A5ED19"
@@ -619,6 +784,11 @@
 				"&6Tier 1 Yield:&r Mercury Sulfide"
 			]
 			id: "34E0AF7803580F54"
+			rewards: [{
+				id: "44FE3C8918458A85"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "7C5872AB757D3B6D"
@@ -637,6 +807,11 @@
 				"&6Tier 1 Yield:&r Sulfur"
 			]
 			id: "179031B57EE47680"
+			rewards: [{
+				id: "4A9634FA1E7C7DF1"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "40C89B41F81541F7"
@@ -655,6 +830,11 @@
 				"&6Tier 1 Yield:&r Magnesium"
 			]
 			id: "289AC82BB64734A9"
+			rewards: [{
+				id: "2049323549C96764"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "63A1D8C3BA130C78"
@@ -673,6 +853,11 @@
 				"&6Tier 1 Yield:&r Mercury"
 			]
 			id: "186B290B36A2F760"
+			rewards: [{
+				id: "24266198D7C16F1D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "3D26ED3E52C2224F"
@@ -691,6 +876,11 @@
 				"&6Tier 1 Yield:&r Mercury Sulfide"
 			]
 			id: "54C651D87DB4C548"
+			rewards: [{
+				id: "69AEED2ECFF59B1E"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "05E824F23B04E7B9"
@@ -709,6 +899,11 @@
 				"&6Tier 1 Yield:&r Mercury"
 			]
 			id: "36ED42A46C26988C"
+			rewards: [{
+				id: "2B9651A1DE423E5C"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "1C1F629B0CD6C6AA"
@@ -727,6 +922,11 @@
 				"&6Tier 1 Yield:&r "
 			]
 			id: "435B8B460BE5AF93"
+			rewards: [{
+				id: "0A1FA81784EEA12F"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "0088DDCC0923BE29"
@@ -747,6 +947,11 @@
 				"&bNote: Coal ores have additional processing chains outside of extracting coal"
 			]
 			id: "384CA06F7A29D8CE"
+			rewards: [{
+				id: "0872CA4FAE482D4F"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "01A99F26F29EFCAC"
@@ -765,6 +970,11 @@
 				"&6Tier 1 Yield:&r Coal"
 			]
 			id: "15B4E8BF1E92F05E"
+			rewards: [{
+				id: "6FACA897A3CA0EAD"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "1685E86665DE696C"
@@ -783,6 +993,11 @@
 				"&6Tier 1 Yield:&r Coal"
 			]
 			id: "0F9263C2901F888E"
+			rewards: [{
+				id: "0BFBBBAB08F8E0D3"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "736C315C999D8CB0"
@@ -801,6 +1016,11 @@
 				"&6Tier 1 Yield:&r Coal"
 			]
 			id: "613CF91B0C58B1BE"
+			rewards: [{
+				id: "0F936869F2886A44"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "27F500F315D4ECAE"
@@ -819,6 +1039,11 @@
 				"&6Tier 1 Yield:&r Coal &bx2"
 			]
 			id: "4450CBE8E5334BA1"
+			rewards: [{
+				id: "75CC8CD05EC625D9"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "57F819EF06E465B3"
@@ -837,6 +1062,11 @@
 				"&6Tier 1 Yield:&r Coal"
 			]
 			id: "137D5ED631849B19"
+			rewards: [{
+				id: "55BFB04F284776DB"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "723CCC52674B1839"
@@ -849,6 +1079,11 @@
 		{
 			dependencies: ["384CA06F7A29D8CE"]
 			id: "3A0984E0B03D9FF9"
+			rewards: [{
+				id: "2518D8F0B5627EA5"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "719E053AFB449E66"
@@ -867,6 +1102,11 @@
 				"&6Tier 1 Yield:&r Dirt &cx0.5&r Straw&c x0.5"
 			]
 			id: "0A8E0946A2BF1D4F"
+			rewards: [{
+				id: "3688DFEAE7EC5330"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "6E76BA7A69C664DA"
@@ -885,6 +1125,11 @@
 				"&6Tier 1 Yield:&r Carbon"
 			]
 			id: "65D954270BC93561"
+			rewards: [{
+				id: "555AFCB298B0A9EC"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "23FF44B07A969D99"
@@ -902,6 +1147,11 @@
 				"&dDeeper layers require better tools to fracture open"
 			]
 			id: "36801EB293571923"
+			rewards: [{
+				id: "03B0577D4CFB539B"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [
 				{
@@ -940,6 +1190,11 @@
 				"               Carbon &cx0.75"
 			]
 			id: "0A9ECBA01878A7AB"
+			rewards: [{
+				id: "7B5DBBF39877D7A5"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "35C6EFA0DA3F31BF"
@@ -965,6 +1220,11 @@
 				"               Potassium &cx0.75"
 			]
 			id: "0534734B826094D9"
+			rewards: [{
+				id: "6F9657B99EDFAF9A"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "5678C1F33CD6B451"
@@ -990,6 +1250,11 @@
 				"               Calcite &cx0.75"
 			]
 			id: "7E36565D6A714D77"
+			rewards: [{
+				id: "7F1E9E8A8AA6EED9"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "2D98EB589EBEB998"
@@ -1015,6 +1280,11 @@
 				"               Calcite &cx0.75"
 			]
 			id: "51123E21330821D0"
+			rewards: [{
+				id: "69C80283C633DB17"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "7D9935B74E00CB6B"
@@ -1047,6 +1317,11 @@
 				"               Aluminum Dust"
 			]
 			id: "2F36F840E0012977"
+			rewards: [{
+				id: "7DC97AE1DB731B2B"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "69C086623CA1DB34"
@@ -1065,6 +1340,11 @@
 				"&6Tier 1 Yield:&r Calcium"
 			]
 			id: "0E07F636B9B08AE8"
+			rewards: [{
+				id: "64402094C470EDE2"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "0F0701771EFA7D07"
@@ -1083,6 +1363,11 @@
 				"&6Tier 1 Yield:&r Bismuth"
 			]
 			id: "35ECC39B3E74CFD1"
+			rewards: [{
+				id: "4CAE8F7A4A55826B"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "1E659D0BDDBFC47C"
@@ -1101,6 +1386,11 @@
 				"&6Tier 1 Yield:&r Potassium Chloride"
 			]
 			id: "53970793D10A4AEF"
+			rewards: [{
+				id: "5BB42B6709AC370B"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "3DE9FE1C20E0A408"
@@ -1121,6 +1411,11 @@
 				"&dDeeper layers require better tools to fracture open"
 			]
 			id: "12D07F810D3FEE98"
+			rewards: [{
+				id: "2CDCD41BD4415AA6"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [
 				{
@@ -1154,6 +1449,11 @@
 				"               Quartz Dust &cx0.75"
 			]
 			id: "7EBA24E0515AD4D3"
+			rewards: [{
+				id: "2A2CDC07BCF21D7A"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "4C38DC0B5CAB6354"
@@ -1179,6 +1479,11 @@
 				"               Quartz Dust &cx0.75"
 			]
 			id: "18F7940BCDD9A93E"
+			rewards: [{
+				id: "234C26762CE95CC0"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "50EF40F3FD99BD90"
@@ -1203,6 +1508,11 @@
 				"               Silicon"
 			]
 			id: "3C36DC4D8427D51F"
+			rewards: [{
+				id: "3980480C1ABBC029"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "2A9619FBC04B0633"
@@ -1227,6 +1537,11 @@
 				"               Titanium &cx0.25&r"
 			]
 			id: "6EADF678BD74FECC"
+			rewards: [{
+				id: "591E382EF810C5A4"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "433BA3F65F64AB90"
@@ -1251,6 +1566,11 @@
 				"               Iron"
 			]
 			id: "57DE26D7500C341D"
+			rewards: [{
+				id: "49B8E3A85BEE7C15"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "60805B4F68883ABE"
@@ -1275,6 +1595,11 @@
 				"               Redstone"
 			]
 			id: "2410D97DAF875C6D"
+			rewards: [{
+				id: "2EF9C4E3C9BD9C79"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "45BC8F8A31556FCA"
@@ -1299,6 +1624,11 @@
 				"               Iron"
 			]
 			id: "4490F631697B7789"
+			rewards: [{
+				id: "62DF48D0F2B65BB3"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "6EDA2777F8616D53"
@@ -1323,6 +1653,11 @@
 				"               Skystone Dust &bx2"
 			]
 			id: "501ADCCCBBC15FD8"
+			rewards: [{
+				id: "0261F4F3536F321D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "04F306EA4D447E61"
@@ -1341,6 +1676,11 @@
 			]
 			icon: "create:zinc_ingot"
 			id: "0EE36446F98AA6C3"
+			rewards: [{
+				id: "3BD8D8117DB88C4C"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "787BA0198FCBCD5F"
@@ -1360,6 +1700,11 @@
 				"&6Tier 1 Yield:&r Zinc"
 			]
 			id: "669C7D07D11F0370"
+			rewards: [{
+				id: "0352239E953B7A2A"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "4E048B2AED8CF64D"
@@ -1378,6 +1723,11 @@
 				"&6Tier 1 Yield:&r Sulfur"
 			]
 			id: "1C2FC24938509385"
+			rewards: [{
+				id: "3313BE38B0118285"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "5519F943FB83D869"
@@ -1396,6 +1746,11 @@
 				"&6Tier 1 Yield:&r Zinc"
 			]
 			id: "7EAF8DC491432E9E"
+			rewards: [{
+				id: "303D7B1B0738EC49"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "1DB7E183D17A2BEE"
@@ -1414,6 +1769,11 @@
 				"&6Tier 1 Yield:&r Zinc"
 			]
 			id: "287B3BBDBF72A30E"
+			rewards: [{
+				id: "02FB1D3B0BBE244A"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "1F880B1A107ACC9A"
@@ -1432,6 +1792,11 @@
 				"&6Tier 1 Yield:&r Iron"
 			]
 			id: "257E7A429EA1164D"
+			rewards: [{
+				id: "70A01ADABB7A0FC9"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "2D386A37D671B8F8"
@@ -1450,6 +1815,11 @@
 				"&6Tier 1 Yield:&r Carbon"
 			]
 			id: "0747D7AC8FE28016"
+			rewards: [{
+				id: "325600FAEAEDEFDD"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "5FAA316016E8FD4B"
@@ -1468,6 +1838,11 @@
 				"&6Tier 1 Yield:&r Silicon"
 			]
 			id: "23DCA8552C6A5418"
+			rewards: [{
+				id: "4D84CD87FBF34657"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "3570312BF6F4C13B"
@@ -1480,6 +1855,11 @@
 		{
 			dependencies: ["0EE36446F98AA6C3"]
 			id: "1E6FCB9DA9E6A5F2"
+			rewards: [{
+				id: "49408639689156A2"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "450AF3B37A490896"
@@ -1498,6 +1878,11 @@
 			]
 			icon: "immersiveengineering:ingot_aluminum"
 			id: "759B1A3F42003E45"
+			rewards: [{
+				id: "417F3A0B1984E14B"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "114BAEE3B20A8D0C"
@@ -1517,6 +1902,11 @@
 				"&6Tier 1 Yield:&r Aluminum"
 			]
 			id: "6A8FD9006612002D"
+			rewards: [{
+				id: "0CB6F6102E49C314"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "69369D231F81949E"
@@ -1535,6 +1925,11 @@
 				"&6Tier 1 Yield:&r Sodium"
 			]
 			id: "10CE9AA34871CB46"
+			rewards: [{
+				id: "1FDD8FB24C4A0408"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "798CC5D03EACB30D"
@@ -1587,6 +1982,11 @@
 				"               Aluminum Dust &bx4"
 			]
 			id: "51892F6F65402E61"
+			rewards: [{
+				id: "62BCE34C97DDB1F3"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "6DC7E6B203C4FA74"
@@ -1605,6 +2005,11 @@
 				"&6Tier 1 Yield:&r Fluorite"
 			]
 			id: "651F9F142E28AD88"
+			rewards: [{
+				id: "787164E46314587B"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "5C1B42C2188F8BD3"
@@ -1623,6 +2028,11 @@
 				"&6Tier 1 Yield:&r Magnesium"
 			]
 			id: "0C91D3E9BA31DE22"
+			rewards: [{
+				id: "50C0D1460F8AE654"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "6DE369E346574FAC"
@@ -1641,6 +2051,11 @@
 				"&6Tier 1 Yield:&r Phosphate"
 			]
 			id: "4B27BAC7F959BE2C"
+			rewards: [{
+				id: "305BA2EE646C8E7F"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "365C13DB8FF2BBF5"
@@ -1659,6 +2074,11 @@
 				"&6Tier 1 Yield:&r Aluminum"
 			]
 			id: "04DC460DCA55F630"
+			rewards: [{
+				id: "5B2E3EDD26794E6F"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "6AA07C149CDA93C9"
@@ -1677,6 +2097,11 @@
 				"&6Tier 1 Yield:&r Aluminum"
 			]
 			id: "7C5510AA99CE7626"
+			rewards: [{
+				id: "3897D4376F9ECED9"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "2BCC1D589CFAFA74"
@@ -1695,6 +2120,11 @@
 			]
 			icon: "thermal:lead_ingot"
 			id: "71620A0BAD820CD9"
+			rewards: [{
+				id: "57F91A31C0D0AD09"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "36DC21C14579A482"
@@ -1714,6 +2144,11 @@
 				"&6Tier 1 Yield:&r Sulfur"
 			]
 			id: "0988FA4A92F61A1E"
+			rewards: [{
+				id: "07C8515EFF9691C8"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "682B4DC78FCBAF9F"
@@ -1732,6 +2167,11 @@
 				"&6Tier 1 Yield:&r Sulfur"
 			]
 			id: "57E2B3C0611A7A1E"
+			rewards: [{
+				id: "0DB48B2DED309A1B"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "4CA57E1CDF391333"
@@ -1750,6 +2190,11 @@
 				"&6Tier 1 Yield:&r Phosphorus"
 			]
 			id: "1A89632520E80C42"
+			rewards: [{
+				id: "4C771CC71175C50A"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "0635F07C559DB7A0"
@@ -1768,6 +2213,11 @@
 				"&6Tier 1 Yield:&r Lead"
 			]
 			id: "3519AB62CD23F6C0"
+			rewards: [{
+				id: "67DE42E5CBCEAF3F"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "2637191ED7A5A66F"
@@ -1786,6 +2236,11 @@
 				"&6Tier 1 Yield:&r Sulfur"
 			]
 			id: "3EC6BEF77074CBB2"
+			rewards: [{
+				id: "2B1850B783E0D15C"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "557D25DF6EBC4D13"
@@ -1804,6 +2259,11 @@
 				"&6Tier 1 Yield:&r Molybdenum"
 			]
 			id: "37E23FB2A666A37D"
+			rewards: [{
+				id: "6D635AAF571F3F89"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "60B44A38A67D6084"
@@ -1822,6 +2282,11 @@
 				"&6Tier 1 Yield:&r Vanadium"
 			]
 			id: "3B234E446A891F03"
+			rewards: [{
+				id: "68764982F5E58D13"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "5A1475AE81A26052"
@@ -1840,6 +2305,11 @@
 				"&6Tier 1 Yield:&r Arsenic"
 			]
 			id: "62717F1766DB2BD9"
+			rewards: [{
+				id: "664E6D44256EBD9A"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "13C3816280182A03"
@@ -1858,6 +2328,11 @@
 			]
 			icon: "immersiveengineering:ingot_nickel"
 			id: "45518D2CD823F143"
+			rewards: [{
+				id: "27D01AF23B73757B"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "5B621EC8666A167B"
@@ -1877,6 +2352,11 @@
 				"&6Tier 1 Yield:&r Iron &bx3&r"
 			]
 			id: "19FBF5E1DE6766C6"
+			rewards: [{
+				id: "484139E1E845E732"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "42C92928022CEBE3"
@@ -1895,6 +2375,11 @@
 				"&6Tier 1 Yield:&r Granite"
 			]
 			id: "26C6142F9D71AFDD"
+			rewards: [{
+				id: "37826E3DC2FD88A6"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "00E3B56DB263D4A7"
@@ -1913,6 +2398,11 @@
 				"&6Tier 1 Yield:&r Bog Iron &cx0.1&r"
 			]
 			id: "0E742531BFE5F86B"
+			rewards: [{
+				id: "6DF72254335ADA5B"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "5C916B1BBD51F0FC"
@@ -1931,6 +2421,11 @@
 				"&6Tier 1 Yield:&r Nickel"
 			]
 			id: "47501429D9BCBE54"
+			rewards: [{
+				id: "34DB5CA5646F7E20"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "269E3D1BB8E9A5C7"
@@ -1949,6 +2444,11 @@
 				"&6Tier 1 Yield:&r Pyrite &cx0.1&r"
 			]
 			id: "4C6368A79C6F2723"
+			rewards: [{
+				id: "10345746D05F902E"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "0CDCE43FB16B2DFC"
@@ -1967,6 +2467,11 @@
 				"&6Tier 1 Yield:&r Arsenic"
 			]
 			id: "10022CAD6696F87B"
+			rewards: [{
+				id: "163E2E91FE55794E"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "5564E3573191CFA0"
@@ -1985,6 +2490,11 @@
 				"&6Tier 1 Yield:&r Meteoric Iron &cx0.1&r"
 			]
 			id: "129142E8B04F6DFB"
+			rewards: [{
+				id: "4A5F20DD001576AC"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "2446F1BDD7C4C277"
@@ -2004,6 +2514,11 @@
 				"                Cobalt &cx0.5&r"
 			]
 			id: "14343A7BEDE75B35"
+			rewards: [{
+				id: "0FC979792046BF4A"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "4463966533446729"
@@ -2022,6 +2537,11 @@
 			]
 			icon: "mekanism:ingot_uranium"
 			id: "2C6845E1DFB220C9"
+			rewards: [{
+				id: "571F55EFA9573BB2"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "73D0E9AA6F61FA0F"
@@ -2041,6 +2561,11 @@
 				"&6Tier 1 Yield:&r Cadmium"
 			]
 			id: "0FCCCDEFD417FA00"
+			rewards: [{
+				id: "133EE9F7B359CA62"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "6DF6C473536C56CD"
@@ -2059,6 +2584,11 @@
 				"&6Tier 1 Yield:&r Uranium"
 			]
 			id: "61CD2FE2B2CDF2BB"
+			rewards: [{
+				id: "016DA9BE0750BD17"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "425CA25710833448"
@@ -2077,6 +2607,11 @@
 				"&6Tier 1 Yield:&r Calcium"
 			]
 			id: "606C8BBB910CFD67"
+			rewards: [{
+				id: "523BD0929C9B23CC"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "5A873B654F748318"
@@ -2095,6 +2630,11 @@
 				"&6Tier 1 Yield:&r Uranium"
 			]
 			id: "7E7EB9B33D30B0B1"
+			rewards: [{
+				id: "0A9A4B3F32DB329A"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "478A6420F9BB7254"
@@ -2113,6 +2653,11 @@
 				"&6Tier 1 Yield:&r Uranium"
 			]
 			id: "411F86107B1D8ECB"
+			rewards: [{
+				id: "005756395D7D1A49"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "4F05E9B63563679A"
@@ -2131,6 +2676,11 @@
 				"&6Tier 1 Yield:&r Silicon"
 			]
 			id: "5FCA5D2D5399D756"
+			rewards: [{
+				id: "166ED8260DC77BCD"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "1670085C7AB03411"
@@ -2149,6 +2699,11 @@
 				"&6Tier 1 Yield:&r Uranium"
 			]
 			id: "37D713996B5D1E51"
+			rewards: [{
+				id: "5D6FA54C09E5B3AE"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "3FE5AAB9F14B315B"
@@ -2167,6 +2722,11 @@
 				"&6Tier 1 Yield:&r Thorium"
 			]
 			id: "3A1ABA0089CF0F70"
+			rewards: [{
+				id: "24A4666E48E46239"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "5D03CFDD6FB04B25"
@@ -2185,6 +2745,11 @@
 			]
 			icon: "thermal:tin_ingot"
 			id: "1CDB5D26D5C8253C"
+			rewards: [{
+				id: "621B79613ECA9D40"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "0C2A2483F906BCEB"
@@ -2204,6 +2769,11 @@
 				"&6Tier 1 Yield:&r Tin"
 			]
 			id: "23247D4451ABE279"
+			rewards: [{
+				id: "0F6101C8AF35F520"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "6F50D3111F77237B"
@@ -2222,6 +2792,11 @@
 				"&6Tier 1 Yield:&r Copper"
 			]
 			id: "641F6752FAA2C0F5"
+			rewards: [{
+				id: "42CD0BE34083A43D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "785A1119F63518F1"
@@ -2240,6 +2815,11 @@
 				"&6Tier 1 Yield:&r Lead"
 			]
 			id: "44B1770BABD3E9E8"
+			rewards: [{
+				id: "2DBB1F7FBB524331"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "5389FC58E52000AE"
@@ -2258,6 +2838,11 @@
 				"&6Tier 1 Yield:&r Silver"
 			]
 			id: "3E8341FCC12DDBBC"
+			rewards: [{
+				id: "24511A6DB14DE0D1"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "47C1AD843BA1982D"
@@ -2276,6 +2861,11 @@
 				"&6Tier 1 Yield:&r Tin"
 			]
 			id: "4ECD8B1464CDD423"
+			rewards: [{
+				id: "1AD5BB12AA258FC1"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "5010A2810C9A2CA5"
@@ -2294,6 +2884,11 @@
 				"&6Tier 1 Yield:&r Sulfur"
 			]
 			id: "174A45BD2F86A17F"
+			rewards: [{
+				id: "40ECC0EB47C1DCA5"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "3FDC6B0F49CF3022"
@@ -2312,6 +2907,11 @@
 				"&6Tier 1 Yield:&r Granite"
 			]
 			id: "18A7E040948E4E0B"
+			rewards: [{
+				id: "5008D7856C005D21"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "21A57E16257A91D2"
@@ -2330,6 +2930,11 @@
 				"&6Tier 1 Yield:&r Tin"
 			]
 			id: "19367A10D464B28F"
+			rewards: [{
+				id: "08F0FD106AF11555"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "7540AEABF23FD168"
@@ -2349,6 +2954,11 @@
 				"&bNote: This geode contains a very random mix of ores used in many many lines and thus do not have consistent processing"
 			]
 			id: "7B8BC8FC6D7C4E87"
+			rewards: [{
+				id: "4D88578427D0742E"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [
 				{
@@ -2375,6 +2985,11 @@
 				"&6Tier 1 Yield:&r Potassium Nitrate"
 			]
 			id: "0F1E71EA24F0E287"
+			rewards: [{
+				id: "57DBE209944B0273"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "2D2E9A0200BA88E1"
@@ -2393,6 +3008,11 @@
 				"&6Tier 1 Yield:&r Borax Powder"
 			]
 			id: "032BFD25F2C4C145"
+			rewards: [{
+				id: "1D078A540A6B6010"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "395E26EC07FDAC18"
@@ -2411,6 +3031,11 @@
 				"&6Tier 1 Yield:&r Limestone &bx4"
 			]
 			id: "6720635414E4501D"
+			rewards: [{
+				id: "2E0F93B0A520EC6C"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "70257CE58EBF93B5"
@@ -2430,6 +3055,11 @@
 				"                Indium &cx0.5&r"
 			]
 			id: "3364EC3640226F5F"
+			rewards: [{
+				id: "5989B7F9918C29D3"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "3300CF048AA37E23"
@@ -2448,6 +3078,11 @@
 				"&6Tier 1 Yield:&r Granulated Obsidian "
 			]
 			id: "00A429CE1D31266F"
+			rewards: [{
+				id: "6226F406641E4290"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "1B9A5EC0F079C6ED"
@@ -2466,6 +3101,11 @@
 				"&6Tier 1 Yield:&r Silicon Dioxide "
 			]
 			id: "119BAA08559348C5"
+			rewards: [{
+				id: "6744B0CB5D1EF2A3"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "071AEB4189DD5137"
@@ -2483,6 +3123,11 @@
 				"&6Processing information not displayed as it splits too much"
 			]
 			id: "003A50BF60A4F905"
+			rewards: [{
+				id: "1E6F20F4E2A188CB"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "6C811E832F224A2D"
@@ -2501,6 +3146,11 @@
 				"&6Tier 1 Yield:&r Sodium Carbonate"
 			]
 			id: "53A59BCE01097779"
+			rewards: [{
+				id: "29F6560992AFDD39"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "401B5958A5519340"
@@ -2570,6 +3220,11 @@
 			]
 			icon: "nyagibits_bytes:conglomerate_iron_ore"
 			id: "4E7A58F86D085264"
+			rewards: [{
+				id: "607068C210A0CF33"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "1968977F5C0F05BC"
@@ -2655,6 +3310,11 @@
 				}
 			}
 			id: "41AC9292A879EB3C"
+			rewards: [{
+				id: "648CFF51B88E4239"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "785E499B000518D5"
@@ -2679,6 +3339,11 @@
 				"&b1 drop per ore"
 			]
 			id: "25404916F94B9AE8"
+			rewards: [{
+				id: "14403CDC10D2C901"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "169BDC7A53840482"
@@ -2704,6 +3369,11 @@
 				}
 			}
 			id: "510C4A6E6F1259B5"
+			rewards: [{
+				id: "6B5A08586DA185FD"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [
 				{
@@ -2745,6 +3415,11 @@
 			]
 			icon: "thermal:drill_head"
 			id: "55F62F8F0F606A69"
+			rewards: [{
+				id: "1EA19971E3E56B1E"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "5703EEDC44C089E6"
@@ -2759,6 +3434,11 @@
 			dependencies: ["35494E3A757EA660"]
 			description: ["Some gemstones are more useful crushed to dust.."]
 			id: "38A22A91E1E443B1"
+			rewards: [{
+				id: "714A7909CD9D6209"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "618D7DF42B2FB37A"
@@ -2769,5 +3449,5 @@
 			y: -3.0d
 		}
 	]
-	title: " Ore Line"
+	title: " &aOre Line"
 }

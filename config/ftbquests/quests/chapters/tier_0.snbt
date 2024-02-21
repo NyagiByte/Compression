@@ -17,6 +17,11 @@
 			description: ["The core of your base, channels are on btw"]
 			icon: "ae2:controller"
 			id: "7063B8BCE64899C9"
+			rewards: [{
+				id: "27F8B37C1D21CFE9"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 3.0d
 			tasks: [{
@@ -35,6 +40,11 @@
 			]
 			description: ["Soil bricks seem to work as jenga brick blocks"]
 			id: "38759235CBA030FE"
+			rewards: [{
+				id: "07EDF5B0F6941D08"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "680935FD9B9368B6"
@@ -51,6 +61,11 @@
 			]
 			description: ["Editors Note: &c\"Adjust the strength of the deployers, it keeps breaking buckets\""]
 			id: "4BF754A57EA40429"
+			rewards: [{
+				id: "25DFD6B32F2BC3BD"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "22C6F852C1E84DB7"
@@ -67,6 +82,11 @@
 			]
 			description: ["&c\"The powder smells like sulfur and tastes just as bad\""]
 			id: "202FD86BCA12CFCD"
+			rewards: [{
+				id: "15E9D789349605B3"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "7114FCE4AAC04A38"
@@ -80,6 +100,11 @@
 			dependencies: ["7E87A032289F7370"]
 			description: ["Ah it's just like elementary school again, don't forget your table of contents"]
 			id: "7E8C5DB4A0CC311A"
+			rewards: [{
+				id: "6AB205FF2E507C1A"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "4EC93F877CAE313F"
@@ -93,6 +118,11 @@
 			dependencies: ["710B939C28B99198"]
 			description: ["The deployer seems to of broken the damn bucket somehow, &cat least I got the data"]
 			id: "770C7DBC0FB627B2"
+			rewards: [{
+				id: "01A0C5ED9014FD50"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "66C2CB353BA9ACCC"
@@ -106,6 +136,11 @@
 			dependencies: ["4E4521C606190636"]
 			description: ["Ahah! A slab of ground!.. &cI'm not sure what data to write down but that was fun to do"]
 			id: "7E87A032289F7370"
+			rewards: [{
+				id: "394C8BF5F92CA84A"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "310F49926462E83A"
@@ -119,6 +154,11 @@
 			dependencies: ["6A7830EE46C1F225"]
 			description: ["It's still sizzling..."]
 			id: "3BA93909A397863E"
+			rewards: [{
+				id: "43DD351B65339034"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "3A699AF3CFA2955B"
@@ -133,6 +173,11 @@
 			dependency_requirement: "one_completed"
 			description: ["Salty water, strips of metal, and a flammable ball of wool, perfect to catch a spark"]
 			id: "710B939C28B99198"
+			rewards: [{
+				id: "5102F05F0D69DF88"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "7E4B69762581F9B4"
@@ -146,6 +191,11 @@
 			dependencies: ["64859B912D563011"]
 			description: ["A box of dirt, give it a good smush"]
 			id: "4E4521C606190636"
+			rewards: [{
+				id: "574BAE8A8DF0AA61"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "0608D8688CC38117"
@@ -159,6 +209,11 @@
 			dependencies: ["64859B912D563011"]
 			description: ["A pouch of very spicy powder"]
 			id: "6A7830EE46C1F225"
+			rewards: [{
+				id: "62572B738C7116F1"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "6C6DDC90E9425DE7"
@@ -172,6 +227,11 @@
 			dependencies: ["030A8303B3827284"]
 			description: ["&cThe science can now begin as I can now take notes"]
 			id: "64859B912D563011"
+			rewards: [{
+				id: "31B4410DCB1E6082"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "3067DA7A478B50D3"
@@ -191,6 +251,11 @@
 			description: ["Remember, \"The point of chemistry is not to be barbaric, the point of chemistry is to play god\" -Explosions and Fire"]
 			icon: "alchemistry:dissolver"
 			id: "177A2060FFFA6932"
+			rewards: [{
+				id: "7E984378E8EC771A"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 2.0d
 			tasks: [{
@@ -210,6 +275,11 @@
 			description: ["Liquid blue.... actually wait that sounds like a drug nvm"]
 			icon: "botania:fabulous_pool"
 			id: "6C86D86CCAEED256"
+			rewards: [{
+				id: "13C8CD13D0758230"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 2.0d
 			tasks: [{
@@ -235,6 +305,11 @@
 				}
 			}
 			id: "5FD4E5F7C28806E5"
+			rewards: [{
+				id: "52FB43C1098A00CB"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 2.0d
 			tasks: [{
@@ -250,6 +325,11 @@
 			dependencies: ["3E9A1FE5841F94D1"]
 			description: ["Tomatoes are acidic and cabbages are trash at being a pH indicator, noted.."]
 			id: "0301CFDBE4EBB36A"
+			rewards: [{
+				id: "1B407DAFAD2A90C3"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "6C3D8044493769EB"
@@ -263,6 +343,11 @@
 			dependencies: ["45CE62BA434CAC71"]
 			description: ["&6I'm still unsure if this is a magic mod or not, more testing needed"]
 			id: "5B2FAF848FE69A9D"
+			rewards: [{
+				id: "50937DA8A6361B06"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "61F191633AB8A8C2"
@@ -276,6 +361,11 @@
 			dependencies: ["73BBDB52CEA06B8A"]
 			description: ["I'm not sure how you managed to break the tube rack but we got our data"]
 			id: "3E9A1FE5841F94D1"
+			rewards: [{
+				id: "022BCAC5AAAC2647"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "6B309CF1857924B4"
@@ -289,6 +379,11 @@
 			dependencies: ["63572758F873D9AA"]
 			description: ["Wah how did.. it turn into a cherry bonsai"]
 			id: "45CE62BA434CAC71"
+			rewards: [{
+				id: "6FDAC6BE79ABB742"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "68B61C717506A742"
@@ -302,6 +397,11 @@
 			dependencies: ["64859B912D563011"]
 			description: ["The juiced up pulp of tomatoes and cabbages, natural sources of basic pH testing"]
 			id: "73BBDB52CEA06B8A"
+			rewards: [{
+				id: "5B92BF825E3843BC"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "4EE4E9AF8B396599"
@@ -315,6 +415,11 @@
 			dependencies: ["64859B912D563011"]
 			description: ["A pouch of nature stuff and some mixed soil, question remains if this mod is magic or tech.."]
 			id: "63572758F873D9AA"
+			rewards: [{
+				id: "161EA3C333F661CB"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "0AD51114A4A1EEBC"
@@ -334,6 +439,11 @@
 			]
 			icon: "minecraft:writable_book"
 			id: "6AB5F63B5AD1C84D"
+			rewards: [{
+				id: "76042B8ECDC35100"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "56A23577265585D6"
@@ -347,6 +457,11 @@
 			dependencies: ["6AB5F63B5AD1C84D"]
 			description: ["An interesting composite material, should subject it to many conditions to document its properties"]
 			id: "3C40482F07310467"
+			rewards: [{
+				id: "085F616DCE8E3354"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "6A23A2FB33C5C8B8"
@@ -360,6 +475,11 @@
 			dependencies: ["3C40482F07310467"]
 			description: ["Well the material isnt useable anymore but &cat least I know the limits of it now"]
 			id: "63CBF0ED263FF6F9"
+			rewards: [{
+				id: "7E7B92C2BE74D517"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "77C1D7997CA954FE"
@@ -373,6 +493,11 @@
 			dependencies: ["63CBF0ED263FF6F9"]
 			description: ["&c\"Probably useful in more intensive situations\""]
 			id: "3877192A0CE7A58C"
+			rewards: [{
+				id: "2DA05D015022F14C"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "039327DE4563B7ED"
@@ -391,6 +516,11 @@
 			]
 			icon: "thermal:enderium_gear"
 			id: "31869F0FD4F46592"
+			rewards: [{
+				id: "2C56388DFB8DD12C"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "59E8C43FACF77D82"
@@ -412,6 +542,11 @@
 			]
 			icon: "megacells:bulk_cell_component"
 			id: "070987945CDE95A7"
+			rewards: [{
+				id: "285DE098DC57D038"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "2EBAA7808107BB83"
@@ -426,6 +561,11 @@
 			description: ["Oh yeah also all those \"manual\" things you did with the petal apothecary and other random things? Go back and automate those if possible. You will need to have an automatic supply of &beverything"]
 			icon: "create:mechanical_crafter"
 			id: "0EFAB63A5ECC5F0C"
+			rewards: [{
+				id: "335E7ADA2F64745B"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "3D5F8D5E0713C3EA"
@@ -440,6 +580,11 @@
 			description: ["Next tier will be where the pack truly begins"]
 			icon: "botania:cosmetic_thinking_hand"
 			id: "5CF731C7D9CE3BE0"
+			rewards: [{
+				id: "3A84775FEF45BD2C"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "5AD584B8ABF15397"
@@ -456,6 +601,11 @@
 			]
 			description: ["The final step in creating the start of the science chain, the mighty Pen"]
 			id: "030A8303B3827284"
+			rewards: [{
+				id: "5C9D75DA7C0D6AAC"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 3.0d
 			tasks: [{
@@ -471,6 +621,11 @@
 			dependencies: ["741704A82A2C1227"]
 			description: ["You need a lot of these, so &6I made it so you get 8 at once, enjoy!"]
 			id: "4296F49981434BC7"
+			rewards: [{
+				id: "15544E12A4553151"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "350AE5130ED396EB"
@@ -492,6 +647,11 @@
 			]
 			description: ["A box with all sorts of goodies for more complex machinery"]
 			id: "733F9A8147398E52"
+			rewards: [{
+				id: "3AB02D9157DD4EA2"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "3B92DA48D0E31A80"
@@ -513,6 +673,11 @@
 				"&bAlso don't forget to check uses, some items get a boosted yield if using this casing"
 			]
 			id: "741704A82A2C1227"
+			rewards: [{
+				id: "11E31005AE0FE5D1"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "507536FB62D0B659"
@@ -527,6 +692,11 @@
 			dependencies: ["4B89973C8D23D164"]
 			description: ["Don't dodge it I was trying to give it to you!"]
 			id: "13F74400CE10E339"
+			rewards: [{
+				id: "6E665DAC65C23F46"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "3A702304ACF5B85E"
@@ -541,6 +711,11 @@
 			dependencies: ["02903DDEA28657F2"]
 			description: ["&6I was forced by chat to give it this title I'm very sorry"]
 			id: "4B89973C8D23D164"
+			rewards: [{
+				id: "2C35C83E04678DBF"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "586D1940C06DB3D1"
@@ -559,6 +734,11 @@
 			description: ["Usually used for shapeless crafting, but has some required use cases"]
 			icon: "create:mechanical_mixer"
 			id: "1BD36FA92BAF1CAC"
+			rewards: [{
+				id: "6F1A7B711642CBC2"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [
 				{
@@ -589,6 +769,11 @@
 				"&bI heard it also like eggs"
 			]
 			id: "4CBFDFBD1A71E6B4"
+			rewards: [{
+				id: "1355FF5BDE4B75AC"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "6BD9889E1AD6919F"
@@ -606,6 +791,11 @@
 			]
 			description: ["Many mechanical toys to begin building your factory"]
 			id: "0601DBB1C7FD9207"
+			rewards: [{
+				id: "754E41B97AE3BF6C"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [
 				{
@@ -640,6 +830,11 @@
 			]
 			description: ["Your very first casing"]
 			id: "02903DDEA28657F2"
+			rewards: [{
+				id: "6E6725E456AB4C26"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "72F82A610908D973"
@@ -655,6 +850,11 @@
 			description: ["&cWhat a mess.. There are other dimensions biomes here. Could be useful"]
 			icon: "minecraft:blaze_spawn_egg"
 			id: "0AC123B7AB13C51E"
+			rewards: [{
+				id: "46D6199E664BEB69"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 1.5d
 			tasks: [{
@@ -671,6 +871,11 @@
 			description: ["Hmm TNT seems to be locked behind advanced chemistry, &chow else would I explode some iron..."]
 			icon: "minecraft:creeper_head"
 			id: "1F07598A05563B29"
+			rewards: [{
+				id: "12D35C4CA5694117"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 1.5d
 			tasks: [{
@@ -693,6 +898,11 @@
 				}
 			}
 			id: "5CFD9FE2895407B0"
+			rewards: [{
+				id: "0C6FAB2AFA5338DA"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [
 				{
@@ -723,6 +933,11 @@
 			]
 			description: ["Not to be confused for the space dictator"]
 			id: "4FFC0930D0539B28"
+			rewards: [{
+				id: "50E17FD284B3FE4C"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "20049AD89B7CCBE6"
@@ -741,6 +956,11 @@
 				"&bYou can break living stone with your hands btw"
 			]
 			id: "12356B8E644A1A52"
+			rewards: [{
+				id: "70A86D35F52BD83E"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [
 				{
@@ -767,6 +987,11 @@
 			dependencies: ["5E7D0899ECE970A7"]
 			description: ["&cI wonder if sentient rocks feel pain when you break them"]
 			id: "001D3CBD7E6EA142"
+			rewards: [{
+				id: "3566DF29F3FCFD6D"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6B74476D0F789202"
 				item: "botania:pure_daisy"
@@ -780,6 +1005,11 @@
 			dependencies: ["6F66FCCD63752DC8"]
 			description: ["The All In One Tool!"]
 			id: "4D339608203DD4F6"
+			rewards: [{
+				id: "4CF70BC70865FA48"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "4AD71BFFD5D74D37"
@@ -800,6 +1030,11 @@
 			dependencies: ["12356B8E644A1A52"]
 			description: ["Finally something to chip off the top layer of these &bore boulders"]
 			id: "6F66FCCD63752DC8"
+			rewards: [{
+				id: "6DE912734723EF10"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "4F105E638E690E29"
@@ -820,6 +1055,11 @@
 			description: ["A lil pool of water for plants and various sludges"]
 			icon: "botania:apothecary_forest"
 			id: "5E7D0899ECE970A7"
+			rewards: [{
+				id: "71ACF730C613F9AF"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 2.0d
 			tasks: [{
@@ -833,5 +1073,5 @@
 		}
 	]
 	subtitle: ["The Tutorial"]
-	title: " &6Tier 0&r - Learning the Ropes"
+	title: " &6Tier 0&b - Learning the Ropes"
 }

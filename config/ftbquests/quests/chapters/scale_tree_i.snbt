@@ -16,6 +16,11 @@
 				"&b2 Paper per craft"
 			]
 			id: "6F9A0CC233865374"
+			rewards: [{
+				id: "681EECB0B921C22A"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "06A8E789FD59632B"
@@ -31,6 +36,11 @@
 			description: ["This is the scaling tree for paper"]
 			icon: "minecraft:paper"
 			id: "71143467829FD119"
+			rewards: [{
+				id: "7967B891E06CB2CF"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "1B16C6E258F534A8"
@@ -52,6 +62,11 @@
 				"&b16 Paper per craft"
 			]
 			id: "2350536CFA972596"
+			rewards: [{
+				id: "7B4DD0BCB637CB2A"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "28BCB739ECCC4ABA"
@@ -67,6 +82,11 @@
 			description: ["This is the scaling tree for books"]
 			icon: "minecraft:book"
 			id: "58CE0C7BD7398413"
+			rewards: [{
+				id: "201ABE7DD5D76C5B"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "53C719E154F57187"
 				title: "Book Tree"
@@ -84,6 +104,11 @@
 				"&b1 Book per craft"
 			]
 			id: "07E8A1B7E0B721E2"
+			rewards: [{
+				id: "3F208B6C156C9D6B"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4F34F377BDD9999B"
 				item: "farmersdelight:canvas"
@@ -101,6 +126,11 @@
 				"&b4 Books per craft"
 			]
 			id: "63EDC0EBBEFA483E"
+			rewards: [{
+				id: "4C885919353802D6"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5FF2E63F75BA3B15"
 				item: "minecraft:leather"
@@ -114,6 +144,11 @@
 			dependencies: ["02903DDEA28657F2"]
 			description: ["The most basic of machine components, the start of the tree. Vanilla recipe yields"]
 			id: "464E07BF8ADBFB35"
+			rewards: [{
+				id: "28CD4EBA037DDE32"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "799A208725585A74"
 				item: "create:andesite_casing"
@@ -134,6 +169,11 @@
 				"&bMost Create Machine Blocks: x2"
 			]
 			id: "14810CA3118F5F1A"
+			rewards: [{
+				id: "39A4B8E47DE37A27"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6E612AF8BF044A14"
 				item: "create:brass_casing"
@@ -144,5 +184,5 @@
 			y: -5.0d
 		}
 	]
-	title: " Scale Tree I"
+	title: " &aScale Tree I"
 }

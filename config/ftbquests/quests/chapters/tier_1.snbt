@@ -19,6 +19,11 @@
 			hide: true
 			icon: "thermal:enderium_gear"
 			id: "472213B0CD3A8117"
+			rewards: [{
+				id: "51CC5425C9D933DB"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 2.0d
 			tasks: [{
@@ -32,6 +37,11 @@
 		{
 			dependencies: ["472213B0CD3A8117"]
 			id: "46FF0B8D87309F93"
+			rewards: [{
+				id: "552D41A685B7CB18"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "771E709133C2B556"
@@ -43,5 +53,5 @@
 		}
 	]
 	subtitle: ["Machines greased with mana"]
-	title: " &6Tier 1&r - Magitech Revolution"
+	title: " &6Tier 1&b - Magitech Revolution"
 }

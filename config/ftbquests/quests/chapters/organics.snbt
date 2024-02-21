@@ -11,6 +11,11 @@
 		{
 			description: ["Tomatoes are used early game as a source of acid for the crude acidics test, grow them!"]
 			id: "6AACB528AE3E38EC"
+			rewards: [{
+				id: "57871CA9F2B2E8C0"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "664DAB0194FBC2B5"
@@ -24,6 +29,11 @@
 		{
 			description: ["Cabbages contain a natural pH indicator called anthocyanin, which early on is about as good as you have to do chemistry tests. Grow some!"]
 			id: "6881ADF9AA924AF6"
+			rewards: [{
+				id: "2F2205BD2659802D"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "01D2DD1867D9BC7C"
@@ -41,6 +51,11 @@
 			]
 			description: ["Petrified wood hold ancient genetic information for long gone tree species, &cI wonder if there is a way to generate saplings from this.."]
 			id: "3E430A180563A3E4"
+			rewards: [{
+				id: "72B6511B9A301322"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "7E0AF991458197B1"
@@ -54,6 +69,11 @@
 		{
 			description: ["Normally you can only get these through processing grass, tho due to the book requirements early game, a new method of cooking saplings to straw was developed"]
 			id: "78551F2F0E25BAF8"
+			rewards: [{
+				id: "0385B611C8B3912B"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5B425A70F3AA4216"
 				item: "farmersdelight:straw"
@@ -64,5 +84,5 @@
 			y: -1.5d
 		}
 	]
-	title: " Organics"
+	title: " &aOrganics"
 }

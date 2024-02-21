@@ -22,6 +22,11 @@
 			]
 			icon: "minecraft:writable_book"
 			id: "049B4B94A7313B6C"
+			rewards: [{
+				id: "5B41D13FFADA1869"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			subtitle: "This book is optional"
 			tasks: [{
@@ -41,6 +46,11 @@
 			]
 			icon: "pneumaticcraft:security_upgrade"
 			id: "5C266BB084E8291E"
+			rewards: [{
+				id: "1B0097A37455DD67"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "22DFECEF9525C8F4"
@@ -71,6 +81,11 @@
 			]
 			icon: "createchunkloading:chunk_loader"
 			id: "2B2392C9E05EEE54"
+			rewards: [{
+				id: "1F057CB161E136C2"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "063863EBF5133028"
@@ -87,6 +102,11 @@
 			]
 			icon: "ae2:singularity"
 			id: "05D0BEF6458AB8D9"
+			rewards: [{
+				id: "143D5744594923EF"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "54278B1758C5D0ED"
@@ -109,6 +129,11 @@
 				tag: { }
 			}
 			id: "2C473A2432696109"
+			rewards: [{
+				id: "79B80E72F9F418C1"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "127C63548C3099FF"
@@ -122,6 +147,11 @@
 			description: ["&cThis land must be a sort of dumping ground, everything is so... Broken"]
 			icon: "nyagibits_bytes:flake"
 			id: "39B2B73AB851E837"
+			rewards: [{
+				id: "2857AF63582B887A"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "4F7D249F207B3FDF"
@@ -141,6 +171,11 @@
 			]
 			icon: "nyagibits_bytes:raw_banded_iron"
 			id: "7BD5615FF834FB3B"
+			rewards: [{
+				id: "400B7E97D36B1B0A"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			shape: "hexagon"
 			tasks: [{
 				id: "07FFD34EBC199E9C"
@@ -152,5 +187,5 @@
 			y: 0.0d
 		}
 	]
-	title: "Welcome to Compression!"
+	title: "&fWelcome to Compression!"
 }

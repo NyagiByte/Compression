@@ -14,6 +14,11 @@
 			hide_dependency_lines: true
 			icon: "minecraft:creeper_head"
 			id: "697E50D684D5A997"
+			rewards: [{
+				id: "41977BBEBA5EBA16"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "27B6F8DB912C23DB"
 				title: "The Compressed Iron Puzzle"
@@ -27,6 +32,11 @@
 			description: ["As a note, the tutorials won't go over how to do create automations that the internal ponder system is able to show. These tabs are for pack specific choke points"]
 			icon: "create:goggles"
 			id: "18F5C12EAF8B07CB"
+			rewards: [{
+				id: "64168845CFE6A695"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "70AF4FB1D571ED33"
 				title: "[W] To Ponder!"
@@ -52,6 +62,11 @@
 			hide_dependent_lines: true
 			icon: "create:blaze_burner"
 			id: "789821A8D7342A72"
+			rewards: [{
+				id: "7FF2A3DB356666A3"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "464DA84D619E20F7"
 				title: "Amazon box delivery chain"
