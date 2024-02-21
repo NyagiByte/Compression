@@ -9,23 +9,23 @@
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:light_detector"},
+        {"item": "nyagibits_bytes:incomplete_light_detecting_fixture"},
         {"item": "minecraft:daylight_detector"}  
       ],
       "results": [
-        {"item": "ae2:light_detector"}
+        {"item": "nyagibits_bytes:incomplete_light_detecting_fixture"}
       ]
     },
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:light_detector"},
+        {"item": "nyagibits_bytes:incomplete_light_detecting_fixture"},
         {"item": "nyagibits_bytes:ae2_schematic"}
       ],
       "results": [
-        {"item": "ae2:light_detector"}
+        {"item": "nyagibits_bytes:incomplete_light_detecting_fixture"}
       ]
     }
   ],
-  "transitionalItem": {"item": "ae2:light_detector"}
+  "transitionalItem": {"item": "nyagibits_bytes:incomplete_light_detecting_fixture"}
 }

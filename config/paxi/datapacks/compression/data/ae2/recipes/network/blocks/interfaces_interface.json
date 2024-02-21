@@ -9,23 +9,23 @@
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:interface"},
+        {"item": "nyagibits_bytes:incomplete_me_interface"},
         {"tag": "forge:chests/wooden"}  
       ],
       "results": [
-        {"item": "ae2:interface"}
+        {"item": "nyagibits_bytes:incomplete_me_interface"}
       ]
     },
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:interface"},
+        {"item": "nyagibits_bytes:incomplete_me_interface"},
         {"item": "nyagibits_bytes:ae2_schematic"}
       ],
       "results": [
-        {"item": "ae2:interface"}
+        {"item": "nyagibits_bytes:incomplete_me_interface"}
       ]
     }
   ],
-  "transitionalItem": {"item": "ae2:interface"}
+  "transitionalItem": {"item": "nyagibits_bytes:incomplete_me_interface"}
 }

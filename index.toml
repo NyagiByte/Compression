@@ -154,22 +154,22 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/decorative/light_detector.json"
-hash = "0f703d28282a0ae47434647c087c7cab9b0b78d088dc9f8ff37e6fac4335356e"
+hash = "0e2ef7edd4ceab1ecbe95439483862f423d0ac598055be072a8002d731cca735"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/decorative/quartz_fixture.json"
-hash = "65df1c051ac970f433f954729fddbce1e402975084f916dcb97e64f4128fc527"
+hash = "426bd1677698d49d29f51b32abfb923342d0e74103c8f599a851f66d5522c2a4"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/ae2/recipes/inscriber/calculation_processor.json"
+file = "config/paxi/datapacks/compression/data/ae2/recipes/inscriber/calculation_processor_print.json"
 hash = "c6d31b4708f5e210cfbe1e422472f16dabdb447cc5f9dd30f9b2746b060b7bb9"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/ae2/recipes/inscriber/engineering_processor.json"
+file = "config/paxi/datapacks/compression/data/ae2/recipes/inscriber/engineering_processor_print.json"
 hash = "9927c9edfcc862a5fe0124314c49526eb78729b1a183e08e992842d7a0b572fc"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/ae2/recipes/inscriber/logic_processor.json"
+file = "config/paxi/datapacks/compression/data/ae2/recipes/inscriber/logic_processor_print.json"
 hash = "0cf04f1f0cc6ed9da1dcfc139e536a77d1f3129a2745c4152ff635adda822c77"
 
 [[files]]
@@ -178,19 +178,19 @@ hash = "10ff3e9372c132afa4036984aa51994b90b13be5cc50cfb9afe08de516de1581"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/misc/tank_sky_stone.json"
-hash = "1a3283f831cbaa8b6e9636200dcfc39830d8bc6dac4d89758ad9ea8a38d56bcb"
+hash = "a7d42d89d2f27c273da1ee4c566a668971c42d2d3fbe5fc192941c4b193b1e4e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/blocks/cell_workbench.json"
-hash = "f2b3b289b93576ac0bd7d0ffd15401eea25f5ad0b5e24444ae93313871eb9fea"
+hash = "b3fe1e051df633a8cb36d5050c193a6a241ad573ec023b2e3eed92e15dd5f1d2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/blocks/controller.json"
-hash = "0fa1644a0857c7bdd29f4c470a2656901327ebc9722840ee5b0c7d03156a3222"
+hash = "1f25cef4a39da21a5e8dd53d0f0e6d4da983af240646fcfdc211b7553bb372fc"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/blocks/crystal_processing_charger.json"
-hash = "4d0b2b166a64170b72bfd74f8b4ad7fb4d13edd12b4276ffd28ee4df8a7c0fb3"
+hash = "9195c40270c74c610e37024019aaf61be621009ea217bc65d2cd346cea6a514f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/blocks/energy_energy_acceptor.json"
@@ -198,39 +198,39 @@ hash = "6b83718aeb0dc963e97cae860476ba3ce9406102de8c34adc63b0dd8b17b14c5"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/blocks/energy_vibration_chamber.json"
-hash = "f020a2bcbfd199ce68f4bf451b9ba9a2822a7179063fd48312ebdb6c4d540dbd"
+hash = "69708c7918ede9a2a680c32df398f2374caf2ed5b4224ff7228579bb0572f644"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/blocks/inscribers.json"
-hash = "231646753159da31dfe22dcd8619aabe383ec966f2e60dc2d9ece771fcd08a33"
+hash = "5c8aeffa05cec3ed123872948d293042b4d3da3d41697f32a0cf7ad8ed7e5db4"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/blocks/interfaces_interface.json"
-hash = "2a122e7979eedc9cf873e12b4fc0f4572d792efdb0fba5e5734209636847bcf6"
+hash = "869338e0805d8699b4cfe33a3da2ee85af540b90d4ef44f2235da5802ca666fc"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/blocks/io_port.json"
-hash = "dd9d3c5d3fd002a034fe1a3077c7582a0a317381cd9f1c33c352f9157df0f7af"
+hash = "da45bbe8e901272654f4647a31c1ccacfdde9b3029a0dc341e44dff3a299981e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/blocks/storage_chest.json"
-hash = "08412a30fe1423d49dbfb8a88d2599d762055f9ab3749a752e09e8ef434ed708"
+hash = "2f689c9de98c01a739641beeb7d9f523efd118f6cf03d2e8078753ff1e8ec23b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/blocks/storage_drive.json"
-hash = "96657589fea114327a81d828cee08126f6464defcf0fbc5b7063dd0e9d720b78"
+hash = "ef23c0dc3d22e1dd5a0599ec2f59f59730d52772af4ab9e238ea5b118e575e23"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/cables/dense_smart_fluix.json"
-hash = "d82aa852bd90ec09fb270b5eb0c11436bc52c1b426081dab8b308ce39cbabeeb"
+hash = "0e60324af488dfe2c098abfd81f42a351745a48051807f120203c4893f914c3e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/cables/glass_fluix.json"
-hash = "63d306441b00fd7b46af4a5463419b72815b64db51bb24404821429cedd8554e"
+hash = "e58404f4b8d1c18b1468fc6649867dca9b4ac9bd6588d1efadc35fed31801f9c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/cables/smart_fluix.json"
-hash = "4cdcf46c5a21c74747ed7e8b23521e58f9f0866965a90bf8be31f048caf7fcf5"
+hash = "000e3c8aae2afc8c68b5dbd3045288666d1cd8d3028813ac381787714f4a5f6b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/cells/fluid_cell_housing.json"
@@ -238,15 +238,59 @@ hash = "c30aaa52edb2a1a8f87c900ac6e90addd58b80f4046c60d5eb6d1e1d15aa0ebb"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/cells/item_cell_housing.json"
-hash = "072481fb4cd309f3b20a3155c6825aa0086022f6a0c523dc15dd28eb13cb42cd"
+hash = "e655d1765995da90976dfd15d1600219e19895e5ee5b0db86d18e9f5ccba1771"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/cells/item_storage_components_cell_1k_part.json"
-hash = "7f2efda9206853c604936f8a360358046600451c0d977c493422e1be809adcf0"
+hash = "f84d6f65c09c488213adacea128636ad08cf78266734d726777cf831aad48222"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/cells/item_storage_components_cell_4k_part.json"
 hash = "c25ca83573b9273ed8b49f4899809969186186273feb85e7ffe5a06c3ba59464"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/aiotbotania/recipes/livingrock_aiot.json"
+hash = "d8d53485fec7e88d50b760e09030e450d2897f4efd97cdc2fa39af06f2566c78"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/apothecary_default.json"
+hash = "62d6a76eda60625d6776bad535e5be4bcd5b72c3af5ec0ee328ed57131997faf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/framed_livingwood.json"
+hash = "61c392a5f74f485d57fa154b43670e6f823adaca0ed81c1b0b1c1cd3798bbaf4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/livingrock_stairs.json"
+hash = "91cdb2e820cd3dc14a0b420b8da9bea7659c61b76ea73c123502921ddf87438d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/livingwood_fence.json"
+hash = "f4ab828bdc712cef2535b5b97c196125657ee77d51eab836fa64b6c37e4a7d28"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/livingwood_planks_stairs.json"
+hash = "29024c6415bcf2fd13a3ceb5ea8432834c676dff291fc473c27338a1b1dcd015"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/livingwood_twig.json"
+hash = "2990537b971d12fc695cab75650097355af909c4911e69dc6337ee4117aabf2d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/pattern_framed_livingwood.json"
+hash = "cb7f72996014b474ff7feb834500fd501194459a5005258347b930bd23656741"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/polished_livingrock.json"
+hash = "4b754a8953748c6e7496f55698f420579cb0abb861cf0471f7cc1956006d5ba5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/pure_daisy/livingrock.json"
+hash = "c0890103bdc8e89367d5958ec6a7e432af739b5e832580c6735d508c93da0cd9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/pure_daisy/root.json"
+hash = "ce91ce0ade32aad6b265677a6ce720fbb2a2a272a5beaa2079b67ce12f87172c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/farmersdelight/recipes/mixing/straw.json"
@@ -1299,14 +1343,6 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 [[files]]
 file = "kubejs/server_scripts/ae2.js"
 hash = "ec23ba1cbd7b23934ac587e6847e1f5ba32503cb72ad8072957777946dda6936"
-
-[[files]]
-file = "kubejs/server_scripts/aiot_botania.js"
-hash = "0b3a3fc91ea99be6777d4a03c735150c4f4e2d49f76d684c508dee0c06f23c0e"
-
-[[files]]
-file = "kubejs/server_scripts/botania_recipes.js"
-hash = "b0a62510c4c5d2834402d8ee356d8d56f89d16e17f076b14c1d282ff7f3082aa"
 
 [[files]]
 file = "kubejs/server_scripts/create_recipes.js"

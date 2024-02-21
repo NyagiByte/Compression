@@ -9,23 +9,23 @@
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:fluix_glass_cable"},
+        {"item": "nyagibits_bytes:incomplete_fluix_me_cable"},
         {"item": "ae2:quartz_fiber"}  
       ],
       "results": [
-        {"item": "ae2:fluix_glass_cable"}
+        {"item": "nyagibits_bytes:incomplete_fluix_me_cable"}
       ]
     },
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:fluix_glass_cable"},
+        {"item": "nyagibits_bytes:incomplete_fluix_me_cable"},
         {"item": "nyagibits_bytes:ae2_schematic"}
       ],
       "results": [
-        {"item": "ae2:fluix_glass_cable"}
+        {"item": "nyagibits_bytes:incomplete_fluix_me_cable"}
       ]
     }
   ],
-  "transitionalItem": {"item": "ae2:fluix_glass_cable"}
+  "transitionalItem": {"item": "nyagibits_bytes:incomplete_fluix_me_cable"}
 }

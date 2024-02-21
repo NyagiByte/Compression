@@ -9,23 +9,23 @@
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:cell_component_1k"},
+        {"item": "nyagibits_bytes:incomplete_onek_me_storage_component"},
         {"item": "ae2:chest"}  
       ],
       "results": [
-        {"item": "ae2:cell_component_1k"}
+        {"item": "nyagibits_bytes:incomplete_onek_me_storage_component"}
       ]
     },
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:cell_component_1k"},
+        {"item": "nyagibits_bytes:incomplete_onek_me_storage_component"},
         {"item": "nyagibits_bytes:ae2_schematic"}
       ],
       "results": [
-        {"item": "ae2:cell_component_1k"}
+        {"item": "nyagibits_bytes:incomplete_onek_me_storage_component"}
       ]
     }
   ],
-  "transitionalItem": {"item": "ae2:cell_component_1k"}
+  "transitionalItem": {"item": "nyagibits_bytes:incomplete_onek_me_storage_component"}
 }

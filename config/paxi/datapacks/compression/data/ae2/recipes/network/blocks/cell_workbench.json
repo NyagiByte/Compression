@@ -9,23 +9,23 @@
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:cell_workbench"},
+        {"item": "nyagibits_bytes:incomplete_cell_workbench"},
         {"item": "immersiveengineering:craftingtable"}  
       ],
       "results": [
-        {"item": "ae2:cell_workbench"}
+        {"item": "nyagibits_bytes:incomplete_cell_workbench"}
       ]
     },
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:cell_workbench"},
+        {"item": "nyagibits_bytes:incomplete_cell_workbench"},
         {"item": "nyagibits_bytes:ae2_schematic"}
       ],
       "results": [
-        {"item": "ae2:cell_workbench"}
+        {"item": "nyagibits_bytes:incomplete_cell_workbench"}
       ]
     }
   ],
-  "transitionalItem": {"item": "ae2:cell_workbench"}
+  "transitionalItem": {"item": "nyagibits_bytes:incomplete_cell_workbench"}
 }

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"nyagibits_bytes:livisite_alloy"},
+    "B": {"item":"aiotbotania:livingrock_sword"},
+    "C": {"item":"aiotbotania:livingrock_axe"},
+    "D": {"item":"aiotbotania:livingrock_pickaxe"},
+    "E": {"item":"aiotbotania:livingrock_hoe"},
+    "F": {"item":"aiotbotania:livingrock_shovel"}
+  },
+  "pattern": [
+    "ABA",
+  ],
+  "result": {
+    "item": "aiotbotania:livingrock_aiot"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"botania:livingwood_planks"},
+    "B": {"item":"botania:polished_livingrock"}
+  },
+  "pattern": [
+    "A A",
+    " B ",
+    "A A"
+  ],
+  "result": {"count":4,"item": "botania:framed_livingwood"}
+}

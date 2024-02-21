@@ -9,23 +9,23 @@
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:item_cell_housing"},
+        {"item": "nyagibits_bytes:incomplete_me_item_cell_housing"},
         {"item": "ironchests:diamond_chest"}  
       ],
       "results": [
-        {"item": "ae2:item_cell_housing"}
+        {"item": "nyagibits_bytes:incomplete_me_item_cell_housing"}
       ]
     },
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:item_cell_housing"},
+        {"item": "nyagibits_bytes:incomplete_me_item_cell_housing"},
         {"item": "nyagibits_bytes:ae2_schematic"}
       ],
       "results": [
-        {"item": "ae2:item_cell_housing"}
+        {"item": "nyagibits_bytes:incomplete_me_item_cell_housing"}
       ]
     }
   ],
-  "transitionalItem": {"item": "ae2:item_cell_housing"}
+  "transitionalItem": {"item": "nyagibits_bytes:incomplete_me_item_cell_housing"}
 }
