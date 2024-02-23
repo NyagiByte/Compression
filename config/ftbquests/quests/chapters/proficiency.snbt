@@ -18,6 +18,7 @@
 				type: "item"
 			}]
 			tasks: [{
+				consume_items: true
 				count: 1024L
 				id: "105CC8788AD88BA4"
 				item: "create:blaze_burner"
@@ -58,7 +59,7 @@
 				type: "item"
 			}]
 			tasks: [{
-				consume_items: false
+				consume_items: true
 				count: 10240L
 				id: "587DB147ED926D80"
 				item: "nyagibits_bytes:livisite_stone"
@@ -79,6 +80,7 @@
 				type: "item"
 			}]
 			tasks: [{
+				consume_items: true
 				count: 5120L
 				id: "7BD18295B84DF42E"
 				item: "minecraft:book"
@@ -98,6 +100,7 @@
 				type: "item"
 			}]
 			tasks: [{
+				consume_items: true
 				count: 1024L
 				id: "13BA4F3164C35864"
 				item: "nyagibits_bytes:blank_blueprint"
@@ -118,7 +121,7 @@
 			size: 2.0d
 			tasks: [{
 				consume_items: true
-				count: 97L
+				count: 99L
 				id: "1A46599C22D9A0E8"
 				item: "nyagibits_bytes:tier_zero_strawberry"
 				type: "item"
@@ -146,6 +149,94 @@
 			title: "Tier 1 Mastery"
 			x: 0.0d
 			y: 4.5d
+		}
+		{
+			dependencies: ["46FF0B8D87309F93"]
+			description: ["Well that sucked to automate"]
+			id: "447A0F909BA28958"
+			rewards: [{
+				id: "1D327473D0C30D9C"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 1024L
+				id: "2BCA2F8545290768"
+				item: "nyagibits_bytes:ae2_assembly"
+				type: "item"
+			}]
+			title: "A world of cables"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["741704A82A2C1227"]
+			description: ["Still not sure where the hand crank went into this thing"]
+			id: "7312EF48A3AAF71D"
+			rewards: [{
+				id: "33812AC30928F040"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 1024L
+				id: "1E23D3C601E2529E"
+				item: "create:brass_casing"
+				type: "item"
+			}]
+			title: "It's rattling inside"
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"73D3F42F0A83A1BD"
+				"0FEBD122FD9B951B"
+				"43A5700C5C057104"
+				"3FF9DBDF1744B82B"
+			]
+			description: ["I like KNAWLEDGE"]
+			id: "68833F45298254BF"
+			rewards: [{
+				id: "38CBBA5C2166B9F4"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 256L
+					id: "25F44D60D3DAD185"
+					item: "nyagibits_bytes:ae2_schematic"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 256L
+					id: "71967BFFC542DB25"
+					item: "nyagibits_bytes:botania_schematic"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 256L
+					id: "12A0192E8D38FEEA"
+					item: "nyagibits_bytes:immersive_engineering_schematic"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 256L
+					id: "473F61FECEAAA3C8"
+					item: "nyagibits_bytes:alchemistry_schematic"
+					type: "item"
+				}
+			]
+			title: "I know how to make thing now!"
+			x: 1.0d
+			y: -1.0d
 		}
 	]
 	subtitle: [" &fGrind, Optimize, Automate, Thrive"]

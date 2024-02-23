@@ -9,17 +9,30 @@
 	quest_links: [ ]
 	quests: [{
 		description: ["&cIt's all gone, take yours now, it's over"]
+		icon: "ftbquests:barrier"
 		id: "037525CBB3136E46"
 		shape: "hexagon"
 		size: 8.0d
-		tasks: [{
-			entity: "minecraft:zombie"
-			icon: "ftbquests:stage_barrier"
-			id: "09E1501E0236040F"
-			title: "The Final Task"
-			type: "kill"
-			value: 100L
-		}]
+		tasks: [
+			{
+				entity: "minecraft:zombie"
+				icon: "ftbquests:stage_barrier"
+				id: "09E1501E0236040F"
+				title: "The Final Task"
+				type: "kill"
+				value: 100L
+			}
+			{
+				id: "19DAC36E961E7321"
+				item: "nyagibits_bytes:golden_tier_zero_strawberry"
+				type: "item"
+			}
+			{
+				id: "56CA9F9D6F6226BE"
+				item: "nyagibits_bytes:golden_tier_one_strawberry"
+				type: "item"
+			}
+		]
 		title: "The Final Task"
 		x: 0.0d
 		y: 0.0d
