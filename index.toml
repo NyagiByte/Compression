@@ -9,6 +9,10 @@ file = "config/Mekanism/world.toml"
 hash = "4afe6819aa4da9a2317c4f8578c4fbb74b941a90875d142cc8b699531f898267"
 
 [[files]]
+file = "config/botania-client.toml"
+hash = "b30e5c177cec07cda8f332ca645d40d3917fb3e13e0b2f51bf0fc393bf933d92"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "667b50af91a4312360fac0502a25f9497e745e3e321b297ed4efb6e257e81db4"
 
