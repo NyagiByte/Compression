@@ -1463,6 +1463,11 @@ hash = "f61a1570bc5af4372483bb4eb5172c82d0590b80c603d5dab19117eae84a4d17"
 metafile = true
 
 [[files]]
+file = "mods/architects-palette.pw.toml"
+hash = "2a60981f4a00c8a7e838efacc7d957ee99d91de3900f2e0329befed6b42e64f4"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
 metafile = true
@@ -1928,6 +1933,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
 hash = "453855eca691e5b0c2502517bc5fcd60aaeb9645c4a45f3af2e456135ed347af"
+metafile = true
+
+[[files]]
+file = "mods/vertical-slabs-compat.pw.toml"
+hash = "0933c751ef107dc173728e8456eca8a03f088e7ccce28233707a37acda8ede5c"
 metafile = true
 
 [[files]]

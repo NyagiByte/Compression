@@ -1,0 +1,13 @@
+name = "Vertical Slabs Compat"
+filename = "v_slab_compat-1.19.2-1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f4f69a423fcf29ee3884c8139ffa29a6302379e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4808086
+project-id = 724387
