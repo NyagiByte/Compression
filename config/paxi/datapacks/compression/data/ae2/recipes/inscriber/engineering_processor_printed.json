@@ -1,0 +1,59 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "ae2:printed_engineering_processor"},
+    "loops": 1,
+    "results": [
+      {
+        "count": 2,
+        "item": "ae2:engineering_processor"}
+    ],
+    "sequence": [
+        {
+            "type": "create:cutting",
+            "ingredients": [
+              {
+                "item": "nyagibits_bytes:incomplete_engineering_processor"
+              }
+            ],
+            "processingTime": 50,
+            "results": [
+              {
+                "item": "nyagibits_bytes:incomplete_engineering_processor"
+              }  
+            ]
+        },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:incomplete_engineering_processor"
+          },
+          {
+            "item": "nyagibits_bytes:livisite_slate"
+          }  
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:incomplete_engineering_processor"
+        }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:incomplete_engineering_processor"
+          },
+          {
+            "item": "nyagibits_bytes:etched_redstone_plate"
+          }  
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:incomplete_engineering_processor"
+        }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:incomplete_engineering_processor"}
+  }
