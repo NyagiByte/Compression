@@ -66,7 +66,7 @@ hash = "3f030da18167d12c1906d7f3a48ee5cfffb09768d1537398db53dfcfe630f3a6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/proficiency.snbt"
-hash = "1f0d6f465ab5b63de3e7cca8854a4fa788e2becdbaf8da2e9284e546b3715c14"
+hash = "cac201b3312b042c29f2e62df625d01b8ba9a8e3a573f83613d9da165638e33d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
@@ -106,7 +106,7 @@ hash = "7cdf76648e15863e15d2eb8e7ab413a0fa326b7fb3830d6a2bf2f113a837030b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_16__end.snbt"
-hash = "4b499704b622bf73c69c682e449766c0445b864b4932a5d6be67cd7a5962bb3d"
+hash = "099ba67a8fa80b6d942c494f67d65743faa7194eaf31ea49dc1f83b237bb48e6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_2__polytetrafluoro.snbt"
