@@ -1602,6 +1602,11 @@ hash = "46f89d83ac2820d715fe0a76f203535e9712206ffcff56719c2dfe17c1915389"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "d49b20d6841ee811b7f7cef4aae51dfa6b52c37f1fca15823699f45900152966"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "4bf0b32175e08d57d5cc194a19bfdefe2e1151828884e015301a149d87e61cf8"
 metafile = true
@@ -1719,6 +1724,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "aa19f1e147d97a697e4fb84f061db2ad6735ecca27d29ed6c233f8384449c9ee"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
 
 [[files]]
