@@ -170,7 +170,7 @@ hash = "f8ee21486aea99b8f729c1a046af6b6b725cff783a6d37316e96dd1955d332af"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/inscriber/calculation_processor_print.json"
-hash = "c6d31b4708f5e210cfbe1e422472f16dabdb447cc5f9dd30f9b2746b060b7bb9"
+hash = "fc11b7e9450ff47157e136c92d71e2f338e1ffa1a619e99a9ef9aa5249da61f3"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/inscriber/calculation_processor_printed.json"
@@ -182,7 +182,7 @@ hash = "0a52afea9d6d51137177e8f144e710f6a7247603b1054b66d0dfc5d9a03538d7"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/inscriber/engineering_processor_print.json"
-hash = "9927c9edfcc862a5fe0124314c49526eb78729b1a183e08e992842d7a0b572fc"
+hash = "bf710b02df6314406f3e63c687aed4079f4e48fc66e2ccd249828af20e9d626c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/inscriber/engineering_processor_printed.json"
@@ -194,7 +194,7 @@ hash = "ccd1532d9d43d55922457a3fabba5bab47560a1a76daf1d0f07e0ecb4c670c06"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/inscriber/logic_processor_print.json"
-hash = "0cf04f1f0cc6ed9da1dcfc139e536a77d1f3129a2745c4152ff635adda822c77"
+hash = "2ec6fea9f97b8460e007709118a0a3924b2c4631c486ff6e764122a8b333cb0d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/inscriber/logic_processor_printed.json"
