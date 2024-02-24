@@ -8,7 +8,7 @@
       "item": "ae2:logic_processor_press"
     },
     "bottom":{
-      "item": "nyagibits_bytes:etched_redstone_plate"
+      "item": "ae2:printed_silicon"
     }
   },
   "mode": "inscribe",
