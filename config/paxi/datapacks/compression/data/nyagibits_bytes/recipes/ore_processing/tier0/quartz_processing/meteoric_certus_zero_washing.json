@@ -1,0 +1,14 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_meteoric_certus"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "ae2:certus_quartz_crystal"
+      }
+    ]
+  }

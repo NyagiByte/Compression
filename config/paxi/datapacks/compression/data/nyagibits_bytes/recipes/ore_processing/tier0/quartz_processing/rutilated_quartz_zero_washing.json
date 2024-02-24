@@ -1,0 +1,13 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_rutilated_quartz"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:quartz"
+      }
+    ]
+  }

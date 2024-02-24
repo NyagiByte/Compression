@@ -1,0 +1,13 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_prasiolite"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:quartz"
+      }
+    ]
+  }

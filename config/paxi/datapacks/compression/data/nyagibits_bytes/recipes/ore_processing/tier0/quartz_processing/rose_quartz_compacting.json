@@ -1,0 +1,14 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_rose_quartz"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "thermal:quartz_dust"
+      }
+    ]
+  }

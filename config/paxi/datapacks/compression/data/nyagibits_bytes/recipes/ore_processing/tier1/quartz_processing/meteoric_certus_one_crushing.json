@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_meteoric_certus"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 12,
+        "item": "ae2:certus_quartz_dust"
+      },
+      {
+        "count": 2,
+        "item": "ae2:sky_dust"
+      }
+    ]
+  }

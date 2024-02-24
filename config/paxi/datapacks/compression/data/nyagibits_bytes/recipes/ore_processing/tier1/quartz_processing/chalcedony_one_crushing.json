@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_chalcedony"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 6,
+        "item": "thermal:quartz_dust"
+      },
+      {
+        "count": 1,
+        "item": "chemlib:silicon_dust"
+      }
+    ]
+  }

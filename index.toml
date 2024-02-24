@@ -725,7 +725,27 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "2151c4e971b2f7e2cd012fd750d4bf510b3510da58386a45f3802e1a2ed81a12"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/ametrine_zero_compacting.json"
+hash = "e3dafb9bdf7bacaa7b8657b7800118454806e92af5826310f68ca3c700872759"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/ametrine_zero_washing.json"
+hash = "0fe2548e83526a3d952ed7b328d62857b72cc6fd57fff8b818076f2d3ea8ac6e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/chalcedony_zero_compacting.json"
+hash = "8de484560609c959da7a853ada0d8312118397af24824f0858778130a54ca575"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/chalcedony_zero_washing.json"
+hash = "df34a9a1eb3632ebb748f28962b8e4df03ee7c77bd9839b4a3635d7e2ac2ea95"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/dendritic_agate_zero_ccompacting.json"
+hash = "70e2dfefc33964e12af84695c17f30a10339d8dcd487e042d52b98ab0b707c16"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/dendritic_agate_zero_compacting.json"
 hash = "70e2dfefc33964e12af84695c17f30a10339d8dcd487e042d52b98ab0b707c16"
 
 [[files]]
@@ -739,6 +759,38 @@ hash = "58d6dc754a399b9a4998c7c16c9c5fd8e9ea718876e8c592d315a57a80233f68"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/herkimer_diamond_zero_washing.json"
 hash = "50c251ec75c4c43883a06363a4008048c6618c3565a2fa64aa478c0b4d530e72"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/meteoric_certus_zero_compacting.json"
+hash = "f8ee8a938b73a56d3dddd9f1450a476f2592e86ced9cf35019d14e669aa41cc5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/meteoric_certus_zero_washing.json"
+hash = "fdc2a02274ca268ef3c28503ab4451e463a8f16f7dcb15531666a32926518bbd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/prasiolite_zero_compacting.json"
+hash = "0c5634dffe7bb16b650d915b8c4f4595739a67ab1f97950111db72fff4c6e523"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/prasiolite_zero_washing.json"
+hash = "c188cdbb1cc35e0c8c94eb383bf51e0a92ba29aaa06efe141bc84fdc986840ac"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/rose_quartz_compacting.json"
+hash = "2da6fa58f3baf4052f4bb08c4c8f03d6dce97da99b83135bcaa96e334f2658d3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/rose_quartz_washing.json"
+hash = "c039aef10dd4a705fa404711eb2ee7e777bdddde64aa20d6da7ac6c210cbb8ae"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/rutilated_quartz_zero_compacting.json"
+hash = "88e22861d8279142983c63dffba5b4bbbb9995fb1e638a07a3f6efffa363961f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/rutilated_quartz_zero_washing.json"
+hash = "2ba5bbb9cc36021b6f8cadc6914c939344441014541fa8ca576dc6016b96ca23"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/redstone_processing/basaltic_powder_zero_compacting.json"
@@ -953,12 +1005,68 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "39b2049a09db239e34909ecd6e762f63ed8fc414009d0c9605908458cd45c8b6"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/ametrine_one_crushing.json"
+hash = "b2738bf37f075db411b987e9e8d9a68496deaeaa8069822e65202a1a1c360b52"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/ametrine_one_polishing.json"
+hash = "46524a1c0724c877b481b61448eef67607bcb5c98827f68ec2bcad50fd058a7d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/chalcedony_one_crushing.json"
+hash = "2f107b7877d7775469100074e79e6fd6586f1ddfb4539a06da2beaa1a63492f1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/chalcedony_one_polishing.json"
+hash = "a2de7a47bcd94705a41d2683353d8f138998a322cef9383f32fac3b6aa203a37"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/dendritic_agate_one_crushing.json"
+hash = "21087f8b9e6860d2311a31ecef725d893ab541e2685fc02242ef2d9065ef5745"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/dendritic_agate_one_polishing.json"
+hash = "6219310ee5b006eef35223c8b7853dd06c7c6f20c4be57309823ee51a038f4a7"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/herkimer_diamond_one_crushing.json"
 hash = "c58008076c7a79e60982f01e99e7197ba9afb7ccdcd174f91bc3507edde198e4"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/herkimer_diamond_one_polishing.json"
 hash = "88fabf47d75fd9ccf7adccf0afd032ebd8c46cf16798ba4724a6f911ed3d37c1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/meteoric_certus_one_crushing.json"
+hash = "4321bb80527f6f21b91386187b68f2bc02fe1f33ca9ca9ad3c57e8f93ec74a59"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/meteoric_certus_one_polishing.json"
+hash = "c770f8682052facc426397e6536ca9090d1c23452536fcc55d90170c876cdd1c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/prasiolite_one_crushing.json"
+hash = "0f7d2e67342e1c40a092814113b30bee641256658374e0103d95bafaf5b6e65d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/prasiolite_one_polishing.json"
+hash = "56835ed9ec4f50ea9ac075d83d38dfb5f6ecd6795e0e183eac4865a771909874"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/rose_quartz_one_crushing.json"
+hash = "405b34c050b38301bc0e466e29708f463f02db61f31b669b1310b6bb9ab25fe4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/rose_quartz_polishing.json"
+hash = "cfd5d39dcc7190715be86f4d10f85ca3abf57fc872dd5188d5157f03ce27ea4c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/rutilated_quartz_one_crushing.json"
+hash = "1850f4cfbf2e1961be7865d72bd293635bf2fd37882cb0276d8885b24331eebb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/rutilated_quartz_one_polishing.json"
+hash = "6348824221a0228bc0fc373eb4f2dab8b48e276bb56bab3c524c1f36eb83d20a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/redstone_processing/basaltic_powder_one_crushing.json"
