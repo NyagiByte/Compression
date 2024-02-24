@@ -445,6 +445,10 @@ file = "config/paxi/datapacks/compression/data/minecraft/recipes/piston.json"
 hash = "19d0d982981bf754fdb24671b45121e642bdacc5080c109df9317e68824f257b"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create_milling/torn_wool_ball.json"
+hash = "d58fde63485e3c92c4775130b7d64edeb40c18ff16325fed033ba4a40b94f408"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/coal_processing/anthracite_coal_zero_wash.json"
 hash = "f397d2b9f79017c73d28833040a90193e58ae5a41b3862fcf2f096de222714e3"
 
@@ -721,6 +725,22 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "2151c4e971b2f7e2cd012fd750d4bf510b3510da58386a45f3802e1a2ed81a12"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/dendritic_agate_zero_ccompacting.json"
+hash = "70e2dfefc33964e12af84695c17f30a10339d8dcd487e042d52b98ab0b707c16"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/dendritic_agate_zero_washing.json"
+hash = "4c76b43e5f902fc15a4f56c63329ceaa0042b0745dfd2a94c46bd46b52d7fb4c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/herkimer_diamond_zero_compacting.json"
+hash = "58d6dc754a399b9a4998c7c16c9c5fd8e9ea718876e8c592d315a57a80233f68"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/herkimer_diamond_zero_washing.json"
+hash = "50c251ec75c4c43883a06363a4008048c6618c3565a2fa64aa478c0b4d530e72"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/redstone_processing/basaltic_powder_zero_compacting.json"
 hash = "3e6084be1076da13d063ced55a3c8dda8868cd59e812f3ea1fd38801d478f696"
 
@@ -933,6 +953,14 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "39b2049a09db239e34909ecd6e762f63ed8fc414009d0c9605908458cd45c8b6"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/herkimer_diamond_one_crushing.json"
+hash = "c58008076c7a79e60982f01e99e7197ba9afb7ccdcd174f91bc3507edde198e4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/herkimer_diamond_one_polishing.json"
+hash = "88fabf47d75fd9ccf7adccf0afd032ebd8c46cf16798ba4724a6f911ed3d37c1"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/redstone_processing/basaltic_powder_one_crushing.json"
 hash = "e0e3a0f1d64533fd910eed3551975054ae3c0440003b0fba42db247c62b3267f"
 
@@ -963,6 +991,26 @@ hash = "6f7584c546091b4954cc810af61849eec7becfac21855e5d818db6fff8d279ce"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/redstone_processing/native_mercury_spherules_one_crushing.json"
 hash = "5397b0fd488af25ae81fc8ae931e5fae7b00c0b19077ea78a4bd698c99b7f8c5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/sequenced_assembly/calculation_dud.json"
+hash = "80ccda00778d4c1118a3a1a5b4d6b3afda79fa10876f74de4b891405eeb9c12f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/sequenced_assembly/charged_certus_quartz_initial.json"
+hash = "e5d449d7cc0edee1f0eaac46d63866edfa73b2f4989464e663f1eb796c1caf17"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/sequenced_assembly/engineering_dud.json"
+hash = "7bf4e9f7f76e6c552801af613948ec98ad3ff8a74025fc59b409f8dee16f2c10"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/sequenced_assembly/livisite_slate.json"
+hash = "e7309b7a693092f35e8e43f4d0ece6cc39f94c2271455d2a98fd21a36dcabf06"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/sequenced_assembly/logic_dud.json"
+hash = "9aa60cb608657e6e95f5b5e5940b86fb45712fcd92e7f5bb067f4bbcdcfc187e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/quark/recipes/building/crafting/iron_plate.json"

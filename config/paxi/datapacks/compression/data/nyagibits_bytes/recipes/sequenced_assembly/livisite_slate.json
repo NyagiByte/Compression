@@ -1,0 +1,59 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "nyagibits_bytes:livisite_stone"},
+    "loops": 1,
+    "results": [
+      {
+        "count": 8,
+        "item": "nyagibits_bytes:livisite_slate"
+    }
+    ],
+    "sequence": [
+        {
+            "type": "create:filling",
+            "ingredients": [
+              {
+                "item": "nyagibits_bytes:livisite_stone"
+              },
+              {
+                "amount": 500,
+                "fluid": "minecraft:water",
+                "nbt": {}
+              }
+            ],
+            "results": [
+              {
+                "item": "nyagibits_bytes:livisite_stone"
+              }
+            ]
+          },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:livisite_stone"
+          }
+        ],
+        "processingTime": 50,
+        "results": [
+          {
+            "item": "nyagibits_bytes:livisite_stone"
+          }  
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:livisite_stone"
+          }
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:livisite_stone"
+          }  
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:livisite_stone"}
+  }

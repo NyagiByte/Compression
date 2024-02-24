@@ -1,0 +1,13 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_dendritic_agate"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:quartz"
+      }
+    ]
+  }

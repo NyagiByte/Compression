@@ -1,0 +1,23 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_herkimer_diamond"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 6,
+        "item": "thermal:quartz_dust"
+      },
+      {
+        "chance": 0.75,
+        "item": "thermal:quartz_dust"
+      },
+      {
+        "chance": 0.25,
+        "item": "nyagibits_bytes:raw_compacted_limestone"
+      }
+    ]
+  }

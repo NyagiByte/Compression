@@ -1,0 +1,41 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "create:golden_sheet"},
+    "loops": 1,
+    "results": [
+      {"item": "nyagibits_bytes:logic_dud"}
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:incomplete_logic_dud"
+          },
+          {
+            "item": "nyagibits_bytes:bottle_of_malic_and_citric_acid"
+          }  
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:incomplete_logic_dud"
+        }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:incomplete_logic_dud"
+          }
+        ],
+        "processingTime": 50,
+        "results": [
+          {
+            "item": "nyagibits_bytes:incomplete_logic_dud"
+          }  
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:incomplete_logic_dud"}
+  }
