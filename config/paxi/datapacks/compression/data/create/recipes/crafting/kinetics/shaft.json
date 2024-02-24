@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"nyagibits_bytes:livisite_alloy"}
+  },
+  "pattern": [
+    " A ",
+    " A "
+  ],
+  "result": {"count":8,"item": "create:shaft"}
+}

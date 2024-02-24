@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "minecraft:paper"},
+    {"item": "nyagibits_bytes:crude_abrasive"}
+  ],
+  "result": {"item": "create:sand_paper"}
+}

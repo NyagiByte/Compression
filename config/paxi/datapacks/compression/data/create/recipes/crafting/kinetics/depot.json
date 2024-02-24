@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"botania:livingrock_stairs"},
+    "B": {"item":"create:andesite_alloy_block"},
+    "C": {"item":"botania:livingwood_planks_slab"}
+  },
+  "pattern": [
+    " B ",
+    "ACA"
+  ],
+  "result": {"count":2,"item":"create:depot"}
+}

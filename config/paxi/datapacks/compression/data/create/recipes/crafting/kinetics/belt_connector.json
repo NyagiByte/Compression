@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"immersiveengineering:hemp_fiber"},
+    "B": {"item":"thermal:cured_rubber"}
+  },
+  "pattern": [
+    "ABA",
+    " B ",
+    "ABA"
+  ],
+  "result": {"count":4,"item": "create:belt_connector"}
+}

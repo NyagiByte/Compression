@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"create:shaft"},
+    "B": {"item":"botania:stripped_livingwood_slab"},
+    "C": {"item":"botania:livingwood_planks_stairs"}
+  },
+  "pattern": [
+    "CAC",
+    "BAB",
+    "CAC"
+  ],
+  "result": {"count":2, "item": "create:large_cogwheel"}
+}

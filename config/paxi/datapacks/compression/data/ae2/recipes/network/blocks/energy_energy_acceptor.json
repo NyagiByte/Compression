@@ -9,23 +9,23 @@
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:energy_acceptor"},
+        {"item": "nyagibits_bytes:incomplete_energy_acceptor"},
         {"item": "nyagibits_bytes:energized_frame"}  
       ],
       "results": [
-        {"item": "ae2:controller"}
+        {"item": "nyagibits_bytes:incomplete_energy_acceptor"}
       ]
     },
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "ae2:energy_acceptor"},
+        {"item": "nyagibits_bytes:incomplete_energy_acceptor"},
         {"item": "nyagibits_bytes:ae2_schematic"}
       ],
       "results": [
-        {"item": "ae2:energy_acceptor"}
+        {"item": "nyagibits_bytes:incomplete_energy_acceptor"}
       ]
     }
   ],
-  "transitionalItem": {"item": "ae2:energy_acceptor"}
+  "transitionalItem": {"item": "nyagibits_bytes:incomplete_energy_acceptor"}
 }

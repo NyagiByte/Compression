@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"create:andesite_alloy"},
+    "B": {"item":"create:iron_sheet"},
+    "C": {"item":"create:shaft"}
+  },
+  "pattern": [
+    " BA",
+    "BCB",
+    "CB"
+  ],
+  "result": {"item": "thermal:drill_head"}
+}

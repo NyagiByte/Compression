@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"create:piston_extension_pole"},
+    "B": {"item":"create:vertical_gearbox"},
+    "C": {"item":"quark:iron_plate"}
+  },
+  "pattern": [
+    " B ",
+    " A ",
+    " C "
+  ],
+  "result": {"item": "create:mechancical_press"}
+}

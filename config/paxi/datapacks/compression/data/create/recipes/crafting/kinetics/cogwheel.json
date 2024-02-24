@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"create:shaft"},
+    "B": {"item":"botania:livingwood_planks_slab"},
+    "C": {"item":"botania:livingwood_planks_stairs"}
+  },
+  "pattern": [
+    "CA ",
+    "CBC",
+    " AC"
+  ],
+  "result": {"count":4,"item": "create:cogwheel"}
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"create:industrial_iron_block"},
+    "B": {"item":"nyagibits_bytes:livisite_alloy"},
+    "C": {"item":"create:shaft"},
+    "D": {"item":"create:andesite_casing"},
+    "E": {"item":"thermal:saw_blade"}
+  },
+  "pattern": [
+    " AB",
+    "CDE",
+    " AB"
+  ],
+  "result": {"item":"create:mechanical_saw"}
+}
