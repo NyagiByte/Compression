@@ -1,0 +1,13 @@
+name = "PackTweaker"
+filename = "packtweaker-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2bacf50886bad10110cbbe60d711c1918d27c2c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5132799
+project-id = 978942

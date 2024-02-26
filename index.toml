@@ -2070,6 +2070,11 @@ hash = "25b1c1ccd0ffd18bdd0ad163b8db0236717141dae5e57dba8e8fcf4aa83d3a1b"
 metafile = true
 
 [[files]]
+file = "mods/packtweaker.pw.toml"
+hash = "50aa603a5086aa745f2dc1234c961e791021bd243f323e928dfa9c8e7b5e2be2"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
 metafile = true
