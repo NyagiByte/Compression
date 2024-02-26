@@ -1,0 +1,11 @@
+
+["PackTweaker config"]
+	#If false, you will not be able to ignite portal frames.
+	"Enable Nether Portals" = false
+	#If false, player cannot sleep. Setting respawn point will still work.
+	"Enable Sleep" = false
+	#If false, player always has max hunger and saturation. Warning: this will make natural regeneration pretty OP.
+	"Enable Hunger" = false
+	#If hunger was disabled, this amount will be used as your hunger value.
+	"Constant Hunger Value" = 18
+

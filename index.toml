@@ -153,6 +153,10 @@ file = "config/ftbquests/quests/data.snbt"
 hash = "3d9f856f3de077e3d09d71aef48f4ce95035ed3f9a7966cd537e938d28dd4eba"
 
 [[files]]
+file = "config/packtweaker-common.toml"
+hash = "2f9032b38c0d562bcbf977a75b8d77e31de701871c8e96c2e3421e57979b8a96"
+
+[[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -1684,11 +1688,6 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "d83fccfbefa34aae187e64c16dd91a4416a276de4603397a94b2706ccc2667a8"
-metafile = true
-
-[[files]]
-file = "mods/appleskin.pw.toml"
-hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
 
 [[files]]
