@@ -325,14 +325,6 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/pure_daisy/root.j
 hash = "ce91ce0ade32aad6b265677a6ce720fbb2a2a272a5beaa2079b67ce12f87172c"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/create/recipes/crafting/item_application/andesite_casing_from_log.json"
-hash = "f277acb0e5b738a194f58db3dc3c4b6bcc7c681aaaef404a15f29593c0226006"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/create/recipes/crafting/item_application/brass_casing_from_log.json"
-hash = "8a0aaba4a9c77aa8b5b391eea1a3ed304cf1721e564095699e97d19ee20b6b20"
-
-[[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/basin.json"
 hash = "0b20e7759f3825951e161b457d22c30208461aa841e8ca53b015df7f34830fe2"
 
@@ -459,6 +451,18 @@ hash = "88dc31fdd924e46123fdcb76cb4898a9e4bdc802b0f524c06e1182d9ea8b77bf"
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/materials/sand_paper.json"
 hash = "43f8114ae1acfb4a9323e6860188dd43c9a3ba3ddd50adcf96147107398c5d7c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/cutting/andesite_alloy.json"
+hash = "fafda37d1766ba01415c1b52132aa84a54f19b03b670ab5dc5818f6652ddb198"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/item_application/andesite_casing_from_log.json"
+hash = "f277acb0e5b738a194f58db3dc3c4b6bcc7c681aaaef404a15f29593c0226006"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/item_application/brass_casing_from_log.json"
+hash = "8a0aaba4a9c77aa8b5b391eea1a3ed304cf1721e564095699e97d19ee20b6b20"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/farmersdelight/recipes/mixing/straw.json"
@@ -1294,7 +1298,7 @@ hash = "8cc138cc6fca762bdf76cbe9e88959da0e770f0bb4468c6db0bc790325fc028f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "273d8791805acc37c9e2b0d73f75bd8a93a9869b229197d1c88905a175bc8556"
+hash = "32b463affd54c29eec4e1d92fc52202493f5951275d64d1e8379fa7ff2a10e31"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
