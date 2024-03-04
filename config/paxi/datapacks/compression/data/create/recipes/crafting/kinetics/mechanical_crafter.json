@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"nyagibits_bytes:pile_of_cogs"},
+    "B": {"item":"create:brass_casing"},
+    "C": {"item":"create:shaft"},
+    "D": {"item":"create:belt_connector"}
+  },
+  "pattern": [
+    "ABA",
+    "CDC"
+  ],
+  "result": {"count":8,"item":"create:mechanical_crafter"}
+}

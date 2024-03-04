@@ -3,7 +3,7 @@
   "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
   "loops": 1,
   "results": [
-    {"item": "ae2:item_cell_housing"}
+    {"count":10, "item": "ae2:item_cell_housing"}
   ],
   "sequence": [
     {

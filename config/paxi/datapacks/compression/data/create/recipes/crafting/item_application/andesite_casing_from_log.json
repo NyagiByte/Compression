@@ -1,0 +1,10 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {"item": "nyagibits_bytes:etched_living_wood"},
+    {"item": "create:andesite_alloy"}
+  ],
+  "results": [
+    {"item": "create:andesite_casing"}
+  ]
+}

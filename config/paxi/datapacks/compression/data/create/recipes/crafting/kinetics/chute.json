@@ -1,0 +1,9 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {"item": "quark:iron_plate"}
+  ],
+  "results": [
+    {"item": "create:chute"}
+  ]
+}

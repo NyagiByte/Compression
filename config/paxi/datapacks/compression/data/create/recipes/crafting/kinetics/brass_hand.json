@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"create:andesite_alloy"},
+    "B": {"item":"create:brass_nugget"},
+    "C": {"item":"create:brass_ingot"}
+  },
+  "pattern": [
+    " A ",
+    "BCB",
+    " B "
+  ],
+  "result": {"item":"create:brass_hand"}
+}

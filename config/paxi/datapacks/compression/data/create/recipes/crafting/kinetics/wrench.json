@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"create:golden_sheet"},
+    "B": {"tag":"minecraft:wooden_fences"},
+    "C": {"item":"create:cogwheel"},
+    "D": {"item":"minecraft:gold_nugget"}
+  },
+  "pattern": [
+    "AD",
+    "AC",
+    " B"
+  ],
+  "result": {"item":"create:wrench"}
+}

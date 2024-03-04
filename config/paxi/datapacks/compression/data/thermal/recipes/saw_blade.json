@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"create:iron_sheet"},
+    "B": {"item":"create:shaft"}
+  },
+  "pattern": [
+    "AA ",
+    "ABA",
+    " AA"
+  ],
+  "result": {"item": "thermal:saw_blade"}
+}

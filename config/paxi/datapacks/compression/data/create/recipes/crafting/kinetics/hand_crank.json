@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"nyagibits_bytes:etched_living_wood"},
+    "B": {"item":"nyagibits_bytes:pile_of_cogs"},
+    "C": {"item":"create:brass_nugget"},
+    "D": {"item":"create:shaft"}
+  },
+  "pattern": [
+    "AAB",
+    " CD"
+  ],
+  "result": {"item":"create:hand_crank"}
+}

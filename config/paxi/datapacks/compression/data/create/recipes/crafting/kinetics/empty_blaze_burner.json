@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"quark:iron_plate_stairs"},
+    "B": {"item":"create:ornate_iron_window_pane"},
+    "C": {"item":"minecraft:netherrack"},
+    "D": {"item":"pneumaticcraft:ingot_iron_compressed"},
+    "E": {"item":"minecraft:blast_furnace"}
+  },
+  "pattern": [
+    "A A",
+    "BCB",
+    "DED"
+  ],
+  "result": {"item":"create:empty_blaze_burner"}
+}

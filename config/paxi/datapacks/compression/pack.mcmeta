@@ -7,6 +7,8 @@
 	"filter": { "block": [
 		
 			{"namespace": "farmersdelight", "path": "recipes/book_from_canvas.json"},
+			{"namespace": "thermal", "path": "recipes/rubber_from_dandalion.json"},
+			{"namespace": "thermal", "path": "recipes/rubber_from_vine.json"},
 		
 			{"namespace": "minecraft", "path": "recipes/wooden_sword.json"},
 			{"namespace": "minecraft", "path": "recipes/wooden_axe.json"},
@@ -40,6 +42,8 @@
 			{"namespace": "minecraft", "path": "recipes/netherite_hoe_smithing.json"},
 		
 			{"namespace": "minecraft", "path": "recipes/white_wool_from_string.json"},
+			{"namespace": "create", "path": "recipes/item_application/andesite_casing_from_wood.json"},
+			{"namespace": "create", "path": "recipes/item_application/brass_casing_from_wood.json"},
 			{"namespace": "ae2", "path": "recipes/network/cables/dense_smart_from_smart"}	
 	]}
 }
