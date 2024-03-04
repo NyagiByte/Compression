@@ -8,7 +8,7 @@
   "pattern": [
     " BA",
     "BCB",
-    "CB"
+    "CB "
   ],
   "result": {"item": "thermal:drill_head"}
 }

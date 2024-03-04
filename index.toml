@@ -389,6 +389,14 @@ file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/
 hash = "6b719250976089159036a47000f86b0bd10682ef116d1e3fa1f7d9430206d68d"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/millstone.json"
+hash = "a995e9685ebad1fda6df22bf8e932ef34a7d76c781e0d62e05ed2d1410058e9c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/millstone_T1.json"
+hash = "a66759f105c7442789db505049ae098559a228ae36518e61fdd5decae911fcfe"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/shaft.json"
 hash = "7ae534bb3a014199123cceddde85f43f1d03e8e81fde1e290ec5b6d4f5b4d90d"
 
@@ -406,7 +414,7 @@ hash = "c697c815e2dd313e2f9f45270da5678056616d678dd71601e84592cceb160643"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/blast_furnace.json"
-hash = "366ec5c5b2d2673a365a82dd9b29db417b6baa8e110cad1fe66791a998700871"
+hash = "cd8b095f26b5cac506fb3a6f77d4895bb7bf9c63d8f295e6df637d88b5aab803"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/bookOne.json"
@@ -1130,7 +1138,7 @@ hash = "61afd6154fae72237a0e74e02c0d7401ea3fa47e1e162e6ea177bf7702dddbe9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/thermal/recipes/drill_head.json"
-hash = "e9ac88aab4b7de08e45d9fbddfc0b6e9ae1c73a47257ceed7de4bd681f43148a"
+hash = "3080a0a95e0e6c7bec0b8077e3b1fe3b5c166f07fbb86e67a0df44b12c326126"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
@@ -1634,7 +1642,7 @@ hash = "1bc1b0814ca984aa51237f10c97341acb9540686a8c2d4818adcf745911b1bff"
 
 [[files]]
 file = "kubejs/server_scripts/thermal_series.js"
-hash = "16279bd262f3f578046b846cd939ce2d61561c5e782fe067a240be96d83b7f4b"
+hash = "3d139a9cc403149189695809760fbc7c1bea1174822d4970b0548ec317cade8b"
 
 [[files]]
 file = "kubejs/startup_scripts/block_modify.js"
