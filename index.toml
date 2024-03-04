@@ -513,6 +513,62 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create_mi
 hash = "d58fde63485e3c92c4775130b7d64edeb40c18ff16325fed033ba4a40b94f408"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/bauxite_processing/bauxite_blasting_zero.json"
+hash = "fd5b77c80efe6c4e82d88d9f1913d0dbcbd1ee420c9c5dc95cb3ceb03db8f526"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/bauxite_processing/bauxite_smelting_zero.json"
+hash = "3d4d7a4ac1cd21fb152042accbcd143f856add6c6329d8c62c8684b384d6e30c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/bauxite_processing/clustered_beryl_zero_compacting.json"
+hash = "dc5f0c81ddb0903f8a2472f4c5af38dfaee5571d610f7fbdba39ffd9f555a82e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/bauxite_processing/clustered_beryl_zero_washing.json"
+hash = "d22c5d37b412f8681a103dc889c7c56b40048b52d1e9f9c5fa05ca368d3bcef2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/bauxite_processing/cryolite_blasting_zero.json"
+hash = "f91df41cc7d7c272c3c512d58d47ba6730a31f95cd4af4c62e26985e65e46f86"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/bauxite_processing/cryolite_smelting_zero.json"
+hash = "2ffbbdea101a7ea23bcd6546a4056f7d86afc79b2455684150c5cd9d62b3c7ea"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/bauxite_processing/feldspar_blasting_zero.json"
+hash = "1f0fc8c0a9fa9305dd7852b407f19b09d775ff48ca0fbb21ade88035e72b10b2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/bauxite_processing/feldspar_smelting_zero.json"
+hash = "5b99f0b25f414e3620e74e077214e188132b43d2c0d713e4b1f62e0f475cb152"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/bauxite_processing/garnet_slush_zero_compacting.json"
+hash = "20dca0247d024384ca3d99a9b3d5d7603c0c911f30a4f2ca0ceb50f5973d76c7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/bauxite_processing/native_aluminum_blasting_zero.json"
+hash = "760c979aabb6626aceec8be54be6d14feb106b1efee0676cfe95ab5ecb5c75b3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/bauxite_processing/native_aluminum_smelting_zero.json"
+hash = "6dfe2850e713c293508e6b7beefde69572058739b2484e99844742de360a00c1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/bauxite_processing/spinel_zero_compacting.json"
+hash = "88b46259bcadd324362be61d1c7b1a170dcfacbc3b8b1a97575704f114202c82"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/bauxite_processing/turquoise_blasting_zero.json"
+hash = "cb5df50196889ead948eb50aef82eee85194211bb1362a9a98dbe328f3fbdc58"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/bauxite_processing/turquoise_smelting_zero.json"
+hash = "7b63ec9d7a3735ec2438a0d3fffc81319885e9ddfbcd32f3dc5a81b49502fbd6"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/coal_processing/anthracite_coal_zero_wash.json"
 hash = "f397d2b9f79017c73d28833040a90193e58ae5a41b3862fcf2f096de222714e3"
 
@@ -947,6 +1003,42 @@ hash = "40a86898e7a8f7c28d4fd8173dca12bd6ee7920dee58c2eb2e1d4060134244db"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/zinc_processing/zinc_carbonate_smelting_zero.json"
 hash = "ed84242cabaa2dcd322a4300bb3a19a28f1bb85b746182333743b675a27c990e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/bauxite_processing/bauxite_one_crushing.json"
+hash = "df601f78ad1930a271ae288ad2cc5ca109435c70ee67df0a74eff0d3984397c2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/bauxite_processing/clustered_beryl_one_crushing.json"
+hash = "cde7c57fa33b2286cf4b24d5a5b82bbddc686a263d942a8ab9fd42428823c14e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/bauxite_processing/clustered_beryl_one_sequenced_polishing.json"
+hash = "35f37c141c671ea3f4621591c6bf50c375f52cfd79bb27a8c7ba042ad4e7fa42"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/bauxite_processing/cryolite_one_crushing.json"
+hash = "ca9fd9f3278e4b500da7baaa2346409cc7dd8c80cb5f8e6b03c659fa05f0642f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/bauxite_processing/feldspar_one_crushing.json"
+hash = "76eadb8bcfed59a91ba24711240f99f0ddb78cd1f0eff8c35c9b1b2b0d9c4a86"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/bauxite_processing/garnet_slush_one_crushing.json"
+hash = "6f4cd563d4635a05c8b478f826ffef19b6554b60cb7c8506e9349116e9e7c74e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/bauxite_processing/native_aluminum_one_crushing.json"
+hash = "1d663fcd6b98cb3ad7efeedf0677c030ae641429efa27187440e5f3a7954cdfa"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/bauxite_processing/spinel_one_crushing.json"
+hash = "86809b72744069a1e2f37562756e5cf68263cdef404dd3247b48f6abe978886c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/bauxite_processing/turquoise_one_crushing.json"
+hash = "073c6e7570cafece82bce7b685d0a3650bc0fbd42e7bbaf1f40a87e6c90fddcd"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/coal_processing/anthracite_coal_one_polishing.json"

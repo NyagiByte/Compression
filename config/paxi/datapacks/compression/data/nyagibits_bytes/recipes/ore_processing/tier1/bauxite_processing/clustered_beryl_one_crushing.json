@@ -1,0 +1,43 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_clustered_beryl"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 4,
+        "item": "chemlib:aluminum_dust"
+      },
+      {
+        "chance": 0.75,
+        "item": "thermal:emerald_dust"
+      },
+      {
+        "chance": 0.75,
+        "item": "nyagibits_bytes:heliodor_dust"
+      },
+      {
+        "chance": 0.75,
+        "item": "nyagibits_bytes:morganite_dust"
+      },
+      {
+        "chance": 0.75,
+        "item": "nyagibits_bytes:aquamarine_dust"
+      },
+      {
+        "chance": 0.75,
+        "item": "nyagibits_bytes:pezzottaite_dust"
+      },
+      {
+        "chance": 0.75,
+        "item": "nyagibits_bytes:bixbite_dust"
+      },
+      {
+        "chance": 0.75,
+        "item": "nyagibits_bytes:goshenite_dust"
+      }
+    ]
+  }
