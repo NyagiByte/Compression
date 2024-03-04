@@ -1,0 +1,44 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_clustered_beryl"
+      }
+    ],
+    "results": [
+      {
+        "chance": 0.14,
+        "item": "minecraft:emerald"
+      },
+      {
+        "chance": 0.14,
+        "item": "nyagibits_bytes:heliodor"
+
+      },
+      {
+        "chance": 0.14,
+        "item": "nyagibits_bytes:morganite"
+
+      },
+      {
+        "chance": 0.14,
+        "item": "nyagibits_bytes:aquamarine"
+
+      },
+      {
+        "chance": 0.14,
+        "item": "nyagibits_bytes:pezzottaite"
+
+      },
+      {
+        "chance": 0.14,
+        "item": "nyagibits_bytes:bixbite"
+
+      },
+      {
+        "chance": 0.14,
+        "item": "nyagibits_bytes:goshenite"
+
+      }
+    ]
+  }

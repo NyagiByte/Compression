@@ -1,0 +1,85 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "nyagibits_bytes:raw_clustered_beryl"
+    },
+    "loops": 1,
+    "results": [
+        {
+          "chance": 1,
+          "count": 22,
+          "item": "minecraft:emerald"
+        },
+        {
+          "chance": 1,
+          "count": 22,
+          "item": "nyagibits_bytes:heliodor"
+        },
+        {
+          "chance": 1,
+          "count": 22,
+          "item": "nyagibits_bytes:morganite"
+        },
+        {
+          "chance": 1,
+          "count": 22,
+          "item": "nyagibits_bytes:aquamarine"
+        },
+        {
+          "chance": 1,
+          "count": 22,
+          "item": "nyagibits_bytes:pezzottaite"
+        },
+        {
+          "chance": 1,
+          "count": 22,
+          "item": "nyagibits_bytes:bixbite"
+        },
+        {
+          "chance": 1,
+          "count": 22,
+          "item": "nyagibits_bytes:goshenite"
+        }
+      ],
+    "sequence": [
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
+          },
+          {
+            "amount": 500,
+            "fluid": "minecraft:water",
+            "nbt": {}
+          }
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
+          },
+          [
+            {
+              "item": "nyagibits_bytes:crude_abrasive"
+            }
+          ]
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
+    }
+  }
