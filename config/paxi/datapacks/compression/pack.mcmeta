@@ -42,6 +42,10 @@
 			{"namespace": "minecraft", "path": "recipes/netherite_hoe_smithing.json"},
 		
 			{"namespace": "minecraft", "path": "recipes/white_wool_from_string.json"},
+			{"namespace": "create", "path": "recipes/crafting/deploying/large_cogwheel.json"},
+			{"namespace": "create", "path": "recipes/crafting/deploying/cogwheel.json"},
+			{"namespace": "create", "path": "recipes/crafting/kinetics/mechanical_arm.json"},
+			{"namespace": "create", "path": "recipes/crafting/kinetics/steam_engine.json"},
 			{"namespace": "create", "path": "recipes/item_application/andesite_casing_from_wood.json"},
 			{"namespace": "create", "path": "recipes/item_application/brass_casing_from_wood.json"},
 			{"namespace": "ae2", "path": "recipes/network/cables/dense_smart_from_smart"}	

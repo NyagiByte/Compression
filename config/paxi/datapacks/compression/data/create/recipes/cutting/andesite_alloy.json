@@ -1,0 +1,10 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {"item": "nyagibits_bytes:livisite_alloy"}
+  ],
+  "processingTime": 200,
+  "results": [
+    {"count": 6, "item": "create:shaft"}
+  ]
+}
