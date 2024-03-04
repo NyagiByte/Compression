@@ -845,6 +845,70 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "2151c4e971b2f7e2cd012fd750d4bf510b3510da58386a45f3802e1a2ed81a12"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/lead_processing/anglesite_blasting_zero.json"
+hash = "8cc55098d6d8d71226b9a2c14a57dbb9401f83aaeb97fddf5062417e2d65b0fe"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/lead_processing/anglesite_smelting_zero.json"
+hash = "8d87c9046f048355d770f8f1054f364f0907ee53b5303fc21cee5b1e530bc602"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/lead_processing/cerussite_blasting_zero.json"
+hash = "778c8eef7516d945627de7b1f9d495fcb56cb07a6c35e2524177b9537c7d10b3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/lead_processing/cerussite_smelting_zero.json"
+hash = "f96f4857bc27d138a879e06f233e45623d3c08d4350e4e128c232b4086a501b0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/lead_processing/galena_blasting_zero.json"
+hash = "3e481d4feb525d6c910530ac7e3f004e733cdbd1ce1b47023fa80c516b4dd107"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/lead_processing/galena_smelting_zero.json"
+hash = "a7acb049db00baf53a647db1dd832a09814015d4c8412cf864a3fad612317e8a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/lead_processing/lead_sulphide_blasting_zero.json"
+hash = "4d7f124c03283e153791b994ad70ae1a579ccfdbcacb89608d810cd9f35e2f11"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/lead_processing/lead_sulphide_smelting_zero.json"
+hash = "fa524e283f6c541f3aaec7eadd4fa0e35e5904e96f12e5f91eb199bbddc6a054"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/lead_processing/mimetite_blasting_zero.json"
+hash = "eb106540793b6c05026ac41621e363ba51c394b18a5ef7f0e8f597555fd85327"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/lead_processing/mimetite_smelting_zero.json"
+hash = "8a507347aed4c46b91ff2f81a0ff2e471b9390c114cde26b779a2b229433d475"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/lead_processing/pyromorphite_blasting_zero.json"
+hash = "37a6809c32f154b307489707921f6bc77e1352def85720804224869745c359dd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/lead_processing/pyromorphite_smelting_zero.json"
+hash = "43bc4780a2a6bd417c23d847854c1230034ee59c44fe695a5b6f7175deea0975"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/lead_processing/vanadinite_blasting_zero.json"
+hash = "dd020d0d69603bf7bf1e74a745f60c73b5118a9ffcbb12d9d3083baa8dfa5873"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/lead_processing/vanadinite_smelting_zero.json"
+hash = "b1fedd101ca1b4ad0bf049974fd7b9690c2d3acd25781e5fac8977cc8d492910"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/lead_processing/wulfenite_blasting_zero.json"
+hash = "fb58e3928e2254657d37f417f40bb46d123af54c2bb6ea67e761684f712569ab"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/lead_processing/wulfenite_smelting_zero.json"
+hash = "ce9c3c06124203215600629bd5030238bae794615f00d05eee94a2fcd0124c39"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/ametrine_zero_compacting.json"
 hash = "e3dafb9bdf7bacaa7b8657b7800118454806e92af5826310f68ca3c700872759"
 
@@ -1219,6 +1283,38 @@ hash = "6059b3d9a7aa154e70d92df9acafc51d6b5f9469f2bf87890efe4ee4b28c925c"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/iron_processing/siderite_one_crushing.json"
 hash = "39b2049a09db239e34909ecd6e762f63ed8fc414009d0c9605908458cd45c8b6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/lead_processing/anglesite_one_crushing.json"
+hash = "1b4223672aae5697d85a5bddfbc32e312ce17219aef0280fa024ccba798b1e75"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/lead_processing/cerussite_one_crushing.json"
+hash = "2c7275b180bfddfda8e591364668241b0c02bac728b378006f48b94307e82eaf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/lead_processing/galena_one_crushing.json"
+hash = "cd9c40b0abeb7346d1ed51d0bef39189997a9b078e9c8893c49c8755bce7073f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/lead_processing/lead_sulphide_one_crushing.json"
+hash = "a72863cf139503de5c934dc072aa26b6c72e552bca8b8cf3a1b14ec5bc02b15a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/lead_processing/mimetite_one_crushing.json"
+hash = "5d292d69caa1efa623d63bf5493f0ff7bf0ac17a0a8fed599a8ef21b45833f2a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/lead_processing/pyromorphite_one_crushing.json"
+hash = "3742b85f80ab90f2b31c3fb13018d6b8da9b22dd649db3d0c750369d8d46a0ca"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/lead_processing/vanadinite_one_crushing.json"
+hash = "ed20445cddf39c329d473e753a4205a682272df31cb8c1b3d5b1be721a05a4fc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/lead_processing/wulfenite_one_crushing.json"
+hash = "048e0668fb38c1054e36311711560f1b985e9ce12df3d5166f309243f8aa2701"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/ametrine_one_crushing.json"

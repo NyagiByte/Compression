@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_anglesite"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 3,
+        "item": "create:crushed_raw_lead"
+      },
+      {
+        "chance": 1,
+        "item": "chemlib:sulfur_dust"
+      }
+    ]
+  }
