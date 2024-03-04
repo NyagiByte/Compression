@@ -1,0 +1,13 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_willemite"
+      }
+    ],
+    "results": [
+      {
+        "item": "create:crushed_raw_zinc"
+      }
+    ]
+  }
