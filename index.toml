@@ -153,6 +153,10 @@ file = "config/ftbquests/quests/data.snbt"
 hash = "3d9f856f3de077e3d09d71aef48f4ce95035ed3f9a7966cd537e938d28dd4eba"
 
 [[files]]
+file = "config/packtweaker-common.toml"
+hash = "2f9032b38c0d562bcbf977a75b8d77e31de701871c8e96c2e3421e57979b8a96"
+
+[[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -1695,11 +1699,6 @@ hash = "d83fccfbefa34aae187e64c16dd91a4416a276de4603397a94b2706ccc2667a8"
 metafile = true
 
 [[files]]
-file = "mods/appleskin.pw.toml"
-hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
-metafile = true
-
-[[files]]
 file = "mods/applied-botanics-addon.pw.toml"
 hash = "73cf97348874724f2b0891f5fe663eaed8dc510e0e8f869c49bde79eacd8475c"
 metafile = true
@@ -2065,7 +2064,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.1-1.19.2.jar"
-hash = "34acba31088c9adfc6f834e126f8b8df9494119838d1e31b88886b429bc7a31f"
+hash = "798e23c2011ae6931f68b8378c23739be9f8c580d937a8e00b09ace1e9fc1b20"
 
 [[files]]
 file = "mods/oculus.pw.toml"
@@ -2075,6 +2074,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
 hash = "25b1c1ccd0ffd18bdd0ad163b8db0236717141dae5e57dba8e8fcf4aa83d3a1b"
+metafile = true
+
+[[files]]
+file = "mods/packtweaker.pw.toml"
+hash = "50aa603a5086aa745f2dc1234c961e791021bd243f323e928dfa9c8e7b5e2be2"
 metafile = true
 
 [[files]]
