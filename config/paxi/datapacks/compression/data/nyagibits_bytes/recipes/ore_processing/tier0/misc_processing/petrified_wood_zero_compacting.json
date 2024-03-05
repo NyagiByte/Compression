@@ -1,0 +1,13 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_petrified_wood"
+      }
+    ],
+    "results": [
+      {
+        "item": "chemlib:silicon_dioxide"
+      }
+    ]
+  }

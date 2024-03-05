@@ -1,0 +1,13 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_trona"
+      }
+    ],
+    "results": [
+      {
+        "item": "chemlib:sodium_carbonate_dust"
+      }
+    ]
+  }

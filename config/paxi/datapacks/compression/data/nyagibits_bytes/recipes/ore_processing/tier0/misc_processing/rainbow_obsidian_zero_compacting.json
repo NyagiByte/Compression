@@ -1,0 +1,13 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_rainbow_obsidian"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:raw_granulated_obsidian"
+      }
+    ]
+  }

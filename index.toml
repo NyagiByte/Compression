@@ -909,6 +909,34 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "ce9c3c06124203215600629bd5030238bae794615f00d05eee94a2fcd0124c39"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/misc_processing/borax_zero_compacting.json"
+hash = "842040a731bd708e1fb6fa371db324368e6c64ead85505c29da9eea2f8e6fa41"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/misc_processing/compacted_limestone_zero_washing.json"
+hash = "9156304f098613fd01271fc4e03a131b78c27cf01b6bee59286261d9a0757558"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/misc_processing/petrified_wood_zero_compacting.json"
+hash = "bb94205ec8c4939d1afd143e822d65ff8e3ff174a6c4c1c42cee846fb26df401"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/misc_processing/rainbow_obsidian_zero_compacting.json"
+hash = "ede2f31a323b348d079dc1cca34c2758e04171b5f60d1b64b1b34f0069c0bb11"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/misc_processing/saltpeter_zero_compacting.json"
+hash = "f8a7a46db1eb013524a551e91f8f6a8ba2c8ddb43654235245726879ecd2cfa9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/misc_processing/trona_zero_compacting.json"
+hash = "4e85463f0b4a3cafdb2c8bd9bbf6716c2d2e765c0cc6dd2fcacf773623de4e35"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/misc_processing/volcanic_sulfur_zero_compacting.json"
+hash = "a3035130236cb0d3eacb20bdd12f1a9be1437fed0e522d7423b0d885de4938f4"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/nickel_processing/garnierite_blasting_zero.json"
 hash = "839aebf9298aef3ac18e24d7b3fab673fdabafb04e17e870717d9b0a9efb430b"
 
@@ -1463,6 +1491,34 @@ hash = "ed20445cddf39c329d473e753a4205a682272df31cb8c1b3d5b1be721a05a4fc"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/lead_processing/wulfenite_one_crushing.json"
 hash = "048e0668fb38c1054e36311711560f1b985e9ce12df3d5166f309243f8aa2701"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/misc_processing/borax_one_crushing.json"
+hash = "cd1df2277816da523c1cc2876a270dbf51c4552850b37131a519dcf3cf4e127b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/misc_processing/compacted_limestone_one_crushing.json"
+hash = "da6b7fd1965184a79a4b275f733349f8a5cdca0dea0a62b01e841a601e34032d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/misc_processing/petrified_wood_one_crushing.json"
+hash = "461f6062659416fc7e53836080e53dcbcce3dc124d3410952f5d25464a2c3aeb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/misc_processing/rainbow_obsidian_one_crushing.json"
+hash = "1c420c836e64a4c3cbdbf2849e72ca77365abfb3b21a6867338c98a13302493e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/misc_processing/saltpeter_one_crushing.json"
+hash = "158bb4881c7f1534577a9a77a675c26a98e2a343d9affbae8b91e77770914370"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/misc_processing/trona_one_crushing.json"
+hash = "2ba8bfe8e8b9f4d458286d6209ccaf2eef9f4cc8a00ad72519c0aab5f585d455"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/misc_processing/volcanic_sulfur_one_crushing.json"
+hash = "7c21d3526b32ba0fed36f00567afd9fa7b1beba957caf4648c4722d5677be8e2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/nickel_processing/garnierite_one_crushing.json"
@@ -2222,7 +2278,7 @@ hash = "2fdb9f48654ae19fed10965960e34ac31ebd261ffcaf6ffd12d194ca75a7b364"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes_ores.js"
-hash = "1bc1b0814ca984aa51237f10c97341acb9540686a8c2d4818adcf745911b1bff"
+hash = "1b138d54d15800ccd1d160a2ac2c99951e8939bb7d234742a20be70b19fb8b03"
 
 [[files]]
 file = "kubejs/server_scripts/thermal_series.js"

@@ -1,0 +1,14 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_volcanic_sulfur"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "chemlib:sulfur_dust"
+      }
+    ]
+  }

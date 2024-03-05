@@ -1,0 +1,23 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_volcanic_sulfur"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 6,
+        "item": "chemlib:sulfur_dust"
+      },
+      {
+        "chance": 0.5,
+        "item": "chemlib:cadmium_dust"
+      },
+      {
+        "chance": 0.5,
+        "item": "chemlib:indium_dust"
+      }
+    ]
+  }

@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_rainbow_obsidian"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 3,
+        "item": "nyagibits_bytes:raw_granulated_obsidian"
+      },
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:raw_granulated_obsidian"
+      }
+    ]
+  }

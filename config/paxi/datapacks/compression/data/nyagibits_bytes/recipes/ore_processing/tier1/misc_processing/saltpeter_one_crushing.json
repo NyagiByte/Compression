@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_saltpeter"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 3,
+        "item": "chemlib:potassium_nitrate_dust"
+      },
+      {
+        "chance": 1,
+        "item": "chemlib:potassium_nitrate_dust"
+      }
+    ]
+  }

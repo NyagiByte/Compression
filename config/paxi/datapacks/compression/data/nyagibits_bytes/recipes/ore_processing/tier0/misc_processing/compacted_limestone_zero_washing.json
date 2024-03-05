@@ -1,0 +1,14 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_compacted_limestone"
+      }
+    ],
+    "results": [
+      {
+        "count": 4,
+        "item": "create:limestone"
+      }
+    ]
+  }

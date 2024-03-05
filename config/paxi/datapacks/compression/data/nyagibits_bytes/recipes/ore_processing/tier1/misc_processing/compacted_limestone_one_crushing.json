@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_compacted_limestone"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 12,
+        "item": "create:limestone"
+      },
+      {
+        "count": 4,
+        "item": "create:limestone"
+      }
+    ]
+  }
