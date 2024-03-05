@@ -442,11 +442,11 @@ hash = "f489fa5436875821b348d26db10c64526060e198c2f62cca1fe3ba130ffea70d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/materials/rose_quartz.json"
-hash = "e143edccade2a3a6a662953a718ce4de45858addf5e4efcd6ca13cd24edd6794"
+hash = "f7811acbd82d9f44d8109c7805d5813ab9c96cae200fdf8d0ae347c3cd4ee4b8"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/materials/rose_quartz_T1.json"
-hash = "88dc31fdd924e46123fdcb76cb4898a9e4bdc802b0f524c06e1182d9ea8b77bf"
+hash = "98a46c4162fef3c7217ca375a4a7eb2d235b9d25045d993fd5f0eb442a5258e5"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/materials/sand_paper.json"
