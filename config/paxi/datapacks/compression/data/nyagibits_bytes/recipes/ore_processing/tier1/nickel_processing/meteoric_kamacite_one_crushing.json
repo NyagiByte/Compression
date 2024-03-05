@@ -1,0 +1,23 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_meteoric_kamacite"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 3,
+        "item": "create:crushed_raw_nickel"
+      },
+      {
+        "chance": 0.1,
+        "item": "nyagibits_bytes:raw_meteoric_iron"
+      },
+      {
+        "chance": 0.5,
+        "item": "chemlib:cobalt_dust"
+      }
+    ]
+  }

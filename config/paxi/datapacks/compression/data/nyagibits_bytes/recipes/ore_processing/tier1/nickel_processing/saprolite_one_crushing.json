@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_saprolite"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 3,
+        "item": "create:crushed_raw_nickel"
+      },
+      {
+        "chance": 0.1,
+        "item": "nyagibits_bytes:raw_bog_iron"
+      }
+    ]
+  }

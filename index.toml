@@ -909,6 +909,66 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "ce9c3c06124203215600629bd5030238bae794615f00d05eee94a2fcd0124c39"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/nickel_processing/garnierite_blasting_zero.json"
+hash = "839aebf9298aef3ac18e24d7b3fab673fdabafb04e17e870717d9b0a9efb430b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/nickel_processing/garnierite_smelting_zero.json"
+hash = "1adbf50bb5a1c8d0a72e88045edfd877ea9a87a45fded643f7e9f8ec71eccda0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/nickel_processing/hardened_sulfide_flow_zero_compacting.json"
+hash = "1c5df506b271545e3424493b413a8707f4d5e62542b9789018434ab0adee3840"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/nickel_processing/meteoric_kamacite_blasting_zero.json"
+hash = "a5c75e5c217f6bdc20020830acbc27ba8a8f66d4769990f3c4822eebcebb4a24"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/nickel_processing/meteoric_kamacite_smelting_zero.json"
+hash = "5310d839316f9a221cc782fef81b4dc83ace340e6056241ad9baa9153a76731a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/nickel_processing/meteoric_taenite_blasting_zero.json"
+hash = "f8d252faf443633718ba6d936d96a37f09bcbcfdd92d0a9e0e918cadd0b05f3e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/nickel_processing/meteoric_taenite_smelting_zero.json"
+hash = "6d39214f7184f7b2f2212f4b24f8042be5f59f526871c1d9ba6c72108b012658"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/nickel_processing/millerite_blasting_zero.json"
+hash = "7c3f0f8cccf188d149b5bcb7c9c693b8b45f4d7027fcab6c85730a5ea11e10a1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/nickel_processing/millerite_smelting_zero.json"
+hash = "1d183efc31d43a755bd182b7bce795b187d5f37b4deee63a563c50e8a160aa21"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/nickel_processing/nickeline_blasting_zero.json"
+hash = "f7b5e8239a14d62e6889751c99bb5c5615f7123e119df6cb3dff6700a65db13f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/nickel_processing/nickeline_smelting_zero.json"
+hash = "b5e0dd49b8b64c538cb725e39d8985af61aaa953bdef5601178cc45a0cdb7e76"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/nickel_processing/pentlandite_blasting_zero.json"
+hash = "2797f31c0e4f24a55671d9953899e7ce431d59fee407da36a5746905fa58b647"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/nickel_processing/pentlandite_smelting_zero.json"
+hash = "258fcff23809c04e1556466dc1c24f1a49a985cd919f71e6904d51dc3f8f7a47"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/nickel_processing/saprolite_blasting_zero.json"
+hash = "4e2ca41d57dfc51cabd4c80176aa83e53d8685ae045a51591f0239d4cf6c8ecd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/nickel_processing/saprolite_smelting_zero.json"
+hash = "149df8a4df135bff88b0babb96193f0d3a82e0fa9359e662de90476c0f57c549"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/quartz_processing/ametrine_zero_compacting.json"
 hash = "e3dafb9bdf7bacaa7b8657b7800118454806e92af5826310f68ca3c700872759"
 
@@ -1315,6 +1375,38 @@ hash = "ed20445cddf39c329d473e753a4205a682272df31cb8c1b3d5b1be721a05a4fc"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/lead_processing/wulfenite_one_crushing.json"
 hash = "048e0668fb38c1054e36311711560f1b985e9ce12df3d5166f309243f8aa2701"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/nickel_processing/garnierite_one_crushing.json"
+hash = "7e0312a33776bce713381518720d73c17b1ed1ec89d5db124ebfc45960c115d3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/nickel_processing/hardened_sulfide_flow_one_crushing.json"
+hash = "795908495d4ed8f833b3f23fa8e365667d72282cdc76835746340ecc6aaec586"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/nickel_processing/meteoric_kamacite_one_crushing.json"
+hash = "269ce6238be72547e543cbc695d9d6e400e1e9a462bb70b1efc5b93872aeab87"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/nickel_processing/meteoric_taenite_one_crushing.json"
+hash = "784a3fc23e34029e4f0fd1347df3e761c9718ea9c7002593336c7e9a9d44b425"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/nickel_processing/millerite_one_crushing.json"
+hash = "c3a521e9754565161df77d88c5cac4199a64ae7f68b44956bed4b7478dae831d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/nickel_processing/nickeline_one_crushing.json"
+hash = "2f268214396694061c84fde228433f40ba065de6fa966274bd1981f1f6ae0820"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/nickel_processing/pentlandite_one_crushing.json"
+hash = "adaedf9bdb5ca3e82b43b3f606ac014c0eb43ea9ba959bca4286d7a7efc99555"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/nickel_processing/saprolite_one_crushing.json"
+hash = "07bcff727bb0fde8c1040b06ebbb1fcffd2e9e4d0d01d7dc817201754314e9d8"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/quartz_processing/ametrine_one_crushing.json"
