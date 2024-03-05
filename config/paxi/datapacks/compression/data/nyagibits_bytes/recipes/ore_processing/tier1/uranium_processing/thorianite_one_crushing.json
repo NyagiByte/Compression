@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_thorianite"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 3,
+        "item": "chemlib:thorium_dust"
+      },
+      {
+        "chance": 1,
+        "item": "chemlib:thorium_dust"
+      }
+    ]
+  }

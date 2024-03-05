@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_autunite"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 3,
+        "item": "chemlib:phosphorus_dust"
+      },
+      {
+        "chance": 1,
+        "item": "create:crushed_raw_uranium"
+      }
+    ]
+  }

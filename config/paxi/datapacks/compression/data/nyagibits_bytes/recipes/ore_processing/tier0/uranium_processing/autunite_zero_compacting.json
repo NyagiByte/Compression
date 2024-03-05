@@ -1,0 +1,13 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_autunite"
+      }
+    ],
+    "results": [
+      {
+        "item": "chemlib:phosphorus_dust"
+      }
+    ]
+  }

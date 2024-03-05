@@ -1,0 +1,13 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_uranothorite"
+      }
+    ],
+    "results": [
+      {
+        "item": "chemlib:thorium_dust"
+      }
+    ]
+  }

@@ -1,0 +1,13 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_carnotite"
+      }
+    ],
+    "results": [
+      {
+        "item": "chemlib:potassium_dust"
+      }
+    ]
+  }

@@ -1,0 +1,14 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_tyuyamunite"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "create:crushed_raw_uranium"
+      }
+    ]
+  }

@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_tyuyamunite"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 6,
+        "item": "create:crushed_raw_uranium"
+      },
+      {
+        "chance": 1,
+        "item": "chemlib:calcium_dust"
+      }
+    ]
+  }

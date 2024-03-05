@@ -1069,6 +1069,38 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "5ead71c1eeb28bd458cf8d1b46c29ee93be0abd14a807aadc210999238ca88a7"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/uranium_processing/autunite_zero_compacting.json"
+hash = "09fc3fcd38a1b908f32e0bea2ba1de02c836166fcc7cc25a45442cea4dd6fc52"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/uranium_processing/carnotite_zero_compacting.json"
+hash = "bfbf937b23be6ee667e6bd3b22b1d5feb552a4f727b4f75295652a73ed577a77"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/uranium_processing/pitchblende_zero_compacting.json"
+hash = "3c680500b8f74780b0ac0b740918a89270200b6579e3f6e0b898d2bb3ce52f2d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/uranium_processing/thorianite_zero_compacting.json"
+hash = "7729dd93405aa4758823a1be21315101d79940474149eebe07f6907c66d5139c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/uranium_processing/thorite_zero_compacting.json"
+hash = "4cc5a449a0098af454c8b4f4eff47ecaced2620290ac60178e2648cbb3e3ed37"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/uranium_processing/torbernite_zero_compacting.json"
+hash = "46e0a0072408f531c8d110ec02ccc68ac8e73b6ac7784102d0b88840d5324395"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/uranium_processing/tyuyamunite_zero_compacting.json"
+hash = "46ef48ecc45aed9b344c12451fc47d8d44f8393c669fa8c3e53c43e29c5e0184"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/uranium_processing/uranothorite_zero_compacting.json"
+hash = "02c842e31464e3e9da97a7ea1ecf6c3df6727deae6393b37a24fd07fdbe5186e"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/zinc_processing/franklinite_blasting_zero.json"
 hash = "a48223887fe6dfc651fd63ef8892f653d0c69dfacbe77044ecd29871d6cc8627"
 
@@ -1503,6 +1535,38 @@ hash = "6f7584c546091b4954cc810af61849eec7becfac21855e5d818db6fff8d279ce"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/redstone_processing/native_mercury_spherules_one_crushing.json"
 hash = "5397b0fd488af25ae81fc8ae931e5fae7b00c0b19077ea78a4bd698c99b7f8c5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/uranium_processing/autunite_one_crushing.json"
+hash = "7bcf46085f2fdbf42454d2e08caa50ffcd18507b523be258edcd97e4b08470d5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/uranium_processing/carnotite_one_crushing.json"
+hash = "e5ae9c25811983a40614ece855b7a88155ff7eeaa84b0b87c979dc3d923a497a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/uranium_processing/pitchblende_one_crushing.json"
+hash = "67a81f081dc9068a08bccb26ed0199b26c0c6eccaac9c71f6d2f20e45b23843e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/uranium_processing/thorianite_one_crushing.json"
+hash = "414915991eab61f6a6a38aa9eab7a3fac4f2f155ff25219d6b9d58d67eb6537b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/uranium_processing/thorite_one_crushing.json"
+hash = "8a4b9628c581ee2d6dd22f22bdb0afae2d0f0ba5af337c7326b918c0da3677e5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/uranium_processing/torbernite_one_crushing.json"
+hash = "4d7656f888dfe7a8f768d0c993d0fa16c9d9c45d8deebcc3b841fb69e6ebd6ea"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/uranium_processing/tyuyamunite_one_crushing.json"
+hash = "8b3143b1b7d98b77b84fbbef5c64a8935fcaeb2079cdb513d02939770522ceae"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/uranium_processing/uranothorite_one_crushing.json"
+hash = "4720aa1184acdee8465f128ace6c8a7524ef370166e5073214c769c60c0a7e23"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/zinc_processing/franklinite_one_crushing.json"
