@@ -121,7 +121,7 @@
 			size: 2.0d
 			tasks: [{
 				consume_items: true
-				count: 99L
+				count: 100L
 				id: "1A46599C22D9A0E8"
 				item: "nyagibits_bytes:tier_zero_strawberry"
 				type: "item"

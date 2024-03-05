@@ -16,6 +16,7 @@
 				"5FD4E5F7C28806E5"
 				"177A2060FFFA6932"
 			]
+			description: ["&6Hello! If you are reading this currently you are either an alpha tester or an early player! Congrats! Tier 1 will be released once completed. Thank you for playing"]
 			hide: true
 			icon: "thermal:enderium_gear"
 			id: "472213B0CD3A8117"
@@ -36,6 +37,11 @@
 		}
 		{
 			dependencies: ["472213B0CD3A8117"]
+			description: [
+				"Svenska: Sätt in del 17a i stångsegment 1,2 och 5 för att rikta in segmenten för steg åttiotvå"
+				""
+				"English: Put part 17a into rod segment 1,2 and 5 to align the segments for step eighty two"
+			]
 			id: "46FF0B8D87309F93"
 			rewards: [{
 				id: "552D41A685B7CB18"
@@ -48,6 +54,7 @@
 				item: "nyagibits_bytes:ae2_assembly"
 				type: "item"
 			}]
+			title: "Some Assembly Required"
 			x: 0.0d
 			y: -1.5d
 		}

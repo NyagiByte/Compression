@@ -186,6 +186,30 @@
 			x: -1.0d
 			y: 0.0d
 		}
+		{
+			description: [
+				"Strawberries as rewards? Yes! Instead of blowing up your inventory with useless cr- garbage, you can collect strawberries to work towards a quest in the &6Proficiency&r tab."
+				""
+				"&dProving a golden is legit gets you a special role in the Compression Discord&r"
+				""
+				"Also &bDO NOT LOOSE THE BERRIES, THERE IS NO WAY TO GET MORE"
+			]
+			icon: "nyagibits_bytes:tier_zero_strawberry"
+			id: "55BE706474A6DB29"
+			rewards: [{
+				id: "44D125E7DC26283A"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1F07C5641437DF5C"
+				title: "Holy bingle Celeste:tm: refrence"
+				type: "checkmark"
+			}]
+			title: "&cStrawberries?"
+			x: 0.0d
+			y: 2.0d
+		}
 	]
 	title: "&fWelcome to Compression!"
 }
