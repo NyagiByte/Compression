@@ -1142,7 +1142,7 @@
 		{
 			dependencies: ["6F66FCCD63752DC8"]
 			description: [
-				"Generic mostly pure diamond, lapis, emerald found on the upper layer of gemstone geodes."
+				"Generic mostly pure diamond, lapis, emerald found on the upper layer of gemstone geodes. &eOnce believed to be ice frozen so cold it could never melt, this boulder of crystals glisens with the shards of ice surrounding it"
 				""
 				"&dDeeper layers require better tools to fracture open"
 			]
@@ -1406,7 +1406,7 @@
 				"55F62F8F0F606A69"
 			]
 			description: [
-				"Generic mostly pure quartz and certus found on the upper layer of quartz geodes."
+				"Generic mostly pure quartz and certus found on the upper layer of quartz geodes. &cWell thats curious, not sure how a meteor would get into here, seems to have technology within it as well"
 				""
 				"&dDeeper layers require better tools to fracture open"
 			]
@@ -1670,7 +1670,7 @@
 		{
 			dependencies: ["6F66FCCD63752DC8"]
 			description: [
-				"Generic mostly pure zinc found on the upper layer of zinc geodes."
+				"Generic mostly pure zinc found on the upper layer of zinc geodes. &eDesiccated arid ground erroding away to reveal a pillar of zinc pushed from deep within the ground"
 				""
 				"&dDeeper layers require better tools to fracture open"
 			]
@@ -1872,7 +1872,7 @@
 		{
 			dependencies: ["6F66FCCD63752DC8"]
 			description: [
-				"Generic mostly pure aluminum found on the upper layer of bauxite geodes."
+				"Generic mostly pure aluminum found on the upper layer of bauxite geodes. &eThe acidic and aluminum rich soil acts as a strong antibacterial substrate, allowing for complex mycology to develop undisturbed"
 				""
 				"&dDeeper layers require better tools to fracture open"
 			]
@@ -2107,7 +2107,7 @@
 		{
 			dependencies: ["6F66FCCD63752DC8"]
 			description: [
-				"Generic mostly pure lead found on the upper layer of lead geodes."
+				"Generic mostly pure lead found on the upper layer of lead geodes. &ePillars of calcite and bleached stones leaking diluted acids, lead leaching into pourous stone "
 				""
 				"&dDeeper layers require better tools to fracture open"
 			]
