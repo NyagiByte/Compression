@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_orthoclase"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 3,
+        "item": "chemlib:silicon_dust"
+      },
+      {
+        "chance": 1,
+        "item": "create:crushed_raw_tin"
+      }
+    ]
+  }

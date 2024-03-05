@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_cylindrite"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 3,
+        "item": "create:crushed_raw_tin"
+      },
+      {
+        "chance": 1,
+        "item": "create:crushed_raw_lead"
+      }
+    ]
+  }

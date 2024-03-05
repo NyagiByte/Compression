@@ -1069,6 +1069,62 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "5ead71c1eeb28bd458cf8d1b46c29ee93be0abd14a807aadc210999238ca88a7"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/tin_processing/brannerite_zero_compacting.json"
+hash = "391ff9ec85e1c7830195c8a14fb36928c483a14a4a4332b0a8cdbab817a39440"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/tin_processing/canfieldite_zero_blasting.json"
+hash = "80468445271cf327bf082f2ab71853a79a49a9472ab4f9d94b6453a47d793786"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/tin_processing/canfieldite_zero_furnace.json"
+hash = "1112a9fdc098aef28274c25f50d90000b2b0740d48e3e94cc8f94ac57ec375dd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/tin_processing/cassiterite_zero_blasting.json"
+hash = "c6183342794fdbdd9dc45725f2c236a4142b609d8224bf26515d4e8f0cfde87d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/tin_processing/cassiterite_zero_furnace.json"
+hash = "099dcb913c2dae7bd2517f2c75c557703b80adf591dd9a92a70fb63e87fd3747"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/tin_processing/cylindrite_zero_blasting.json"
+hash = "2c8e352432d88c4548ac632989230b075dbe0ffedbf9dd73da50a446297b3fa8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/tin_processing/cylindrite_zero_furnace.json"
+hash = "a06f9ae29eec135968a1c28bdaa14387636deaafbdc39e579d359a6a89f19c8d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/tin_processing/franckeite_zero_blasting.json"
+hash = "c7e1167e91ebe8abb1fadbf40f0ede887228d4836650bdf631bc6b9ccf4a04ff"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/tin_processing/franckeite_zero_furnace.json"
+hash = "a7a885da34eebbb8fbb997823c22ad01feac5bb87fab59d7924c255ace62c9a7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/tin_processing/orthoclase_zero_compacting.json"
+hash = "937f001778cb09152e06b073a5399b1ab1d7c51a332e4244b3e08fe25ba55ddd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/tin_processing/stannite_zero_blasting.json"
+hash = "1e2fbff82815ecd4e0f62b0bd822482793759f56c61695f5f43c66f42a876c41"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/tin_processing/stannite_zero_furnace.json"
+hash = "412ac68cc99c769997dd4e49a5e006c0cf4f4672a9ee5401bee25c2c7c6ee78b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/tin_processing/teallite_zero_blasting.json"
+hash = "ccadca75efc9bad0bd487287710cbbffac4b69be665d272d3a361a4cc7c5d3f2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/tin_processing/teallite_zero_furnace.json"
+hash = "79f0d752b118c22e283650a6f8c77063b644294d87d288a328f8b7fef521f8fa"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/uranium_processing/autunite_zero_compacting.json"
 hash = "09fc3fcd38a1b908f32e0bea2ba1de02c836166fcc7cc25a45442cea4dd6fc52"
 
@@ -1535,6 +1591,38 @@ hash = "6f7584c546091b4954cc810af61849eec7becfac21855e5d818db6fff8d279ce"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/redstone_processing/native_mercury_spherules_one_crushing.json"
 hash = "5397b0fd488af25ae81fc8ae931e5fae7b00c0b19077ea78a4bd698c99b7f8c5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/tin_processing/brannerite_one_crushing.json"
+hash = "3b8535791b2f21a302c29127b39159b9bfffe2d3e60086b4f20388f0dcb3352f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/tin_processing/canfieldite_one_crushing.json"
+hash = "03d1c0bc9876d513d5b8c71d4aa6f1945a61fb9689305a0e066835bdf77c76a5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/tin_processing/cassiterite_one_crushing.json"
+hash = "cbb7934d3e8d6f05a127b3ac2a8000626adf9836a637d914220959ad1b391ffc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/tin_processing/cylindrite_one_crushing.json"
+hash = "b7811d58cfe152202c6679b33dd615fa2bcdaa36c9d4566c180d45339d75c52a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/tin_processing/franckeite_one_crushing.json"
+hash = "2b31b8be1afa7eb2be44d97354054c0d330a92f4d5c42c34424437cf75668a2c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/tin_processing/orthoclase_one_crushing.json"
+hash = "d2c3a2a3b8a55b82af303975dff820eb0785350c5bcfc11c9d20b92c320db6c0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/tin_processing/stannite_one_crushing.json"
+hash = "7d9c9282d35fd42550ce856e061616a73451c552bd37f22984db3277cd76a95b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/tin_processing/teallite_one_crushing.json"
+hash = "0d066bf15129fd6b4f97a727c06ddfc40cf0e2afaa7d66cb94e100f1cb136a7b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/uranium_processing/autunite_one_crushing.json"
