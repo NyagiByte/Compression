@@ -2289,10 +2289,6 @@ file = "kubejs/server_scripts/nb_b_recipes_ores.js"
 hash = "1b138d54d15800ccd1d160a2ac2c99951e8939bb7d234742a20be70b19fb8b03"
 
 [[files]]
-file = "kubejs/server_scripts/thermal_series.js"
-hash = "3d139a9cc403149189695809760fbc7c1bea1174822d4970b0548ec317cade8b"
-
-[[files]]
 file = "kubejs/startup_scripts/block_modify.js"
 hash = "31fdbf00f39f3bd94435c3c7be906b4ff1227ed35f2aceb5e644c656b76f1430"
 
