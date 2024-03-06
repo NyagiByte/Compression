@@ -477,6 +477,10 @@ file = "config/paxi/datapacks/compression/data/farmersdelight/recipes/mixing/str
 hash = "c697c815e2dd313e2f9f45270da5678056616d678dd71601e84592cceb160643"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/mekanism/recipes/creatified/charcoal_dust.json"
+hash = "1839ce45ee72bbab8b5f51b08eaff617141875f924feadede7163ab9c3d3ddaa"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/blast_furnace.json"
 hash = "cd8b095f26b5cac506fb3a6f77d4895bb7bf9c63d8f295e6df637d88b5aab803"
 
@@ -2275,10 +2279,6 @@ hash = "ec23ba1cbd7b23934ac587e6847e1f5ba32503cb72ad8072957777946dda6936"
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
 hash = "d967d8692e140925291c224cdd203bf7f214dc3bc7a2336d5c329e7c38011cbb"
-
-[[files]]
-file = "kubejs/server_scripts/mekanism.js"
-hash = "9fc00a083e4b45ff002a79c11631afd265ae177104ba5bb08fbdc49e4e7ddad2"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes.js"
