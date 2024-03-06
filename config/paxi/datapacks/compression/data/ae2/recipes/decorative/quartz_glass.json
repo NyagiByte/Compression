@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "ae2:certus_quartz_dust"
+    }
+  ],
+  "results": [
+    {
+      "item": "ae2:quartz_glass"
+    }
+  ]
+}

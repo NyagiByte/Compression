@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "quark:framed_glass"
+    },
+    {
+      "item": "ae2:certus_quartz_dust"
+    },
+    {
+        "amount": 100,
+        "fluid": "minecraft:water"
+    }
+  ],
+  "results": [
+    {
+      "item": "ae2:quartz_glass"
+    },
+    {
+        "chance": 0.5,
+        "item": "ae2:certus_quartz_dust"
+    }
+  ]
+}
