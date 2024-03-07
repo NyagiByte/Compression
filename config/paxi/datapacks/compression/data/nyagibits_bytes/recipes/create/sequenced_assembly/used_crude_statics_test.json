@@ -1,0 +1,27 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "nyagibits_bytes:crude_statics_test"},
+    "loops": 8,
+    "results": [
+      {"item": "nyagibits_bytes:used_crude_statics_test"}
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:crude_statics_test"
+          },
+          {
+            "item": "nyagibits_bytes:torn_wool_ball"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:crude_statics_test"
+            }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:crude_statics_test"}
+  }

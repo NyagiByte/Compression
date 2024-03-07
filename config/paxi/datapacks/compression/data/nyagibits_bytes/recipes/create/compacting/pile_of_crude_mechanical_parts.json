@@ -1,0 +1,34 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "create:wrench"
+      },
+      {
+        "item": "create:electron_tube"
+      },
+      {
+        "item": "create:gantry_shaft"
+      },
+      {
+        "item": "create:brass_hand"
+      },
+      {
+        "item": "nyagibits_bytes:pile_of_cogs"
+      },
+      {
+        "item": "create:hand_crank"
+      },
+      {
+        "item": "create:andesite_casing"
+      },
+      {
+        "item": "create:brass_sheet"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:pile_of_crude_mechanical_parts"
+      }
+    ]
+  }

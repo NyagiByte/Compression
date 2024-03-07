@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"ae2:cable_anchor"},
+      "B": {"item":"nyagibits_bytes:livisite_slate"}
+    },
+    "pattern": [
+      " A ",
+      "ABA",
+      " A "
+    ],
+    "result": {
+        "item": "nyagibits_bytes:decorative_paneling"
+    }
+  }

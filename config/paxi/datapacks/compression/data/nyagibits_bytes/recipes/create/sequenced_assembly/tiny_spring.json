@@ -1,0 +1,41 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "create:iron_sheet"},
+    "loops": 1,
+    "results": [
+      {
+        "count": 8,
+        "item": "nyagibits_bytes:tiny_spring"
+    }
+    ],
+    "sequence": [
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "create:iron_sheet"
+          }
+        ],
+        "processingTime": 10,
+        "results": [
+            {
+                "item": "create:iron_sheet"
+            }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "create:iron_sheet"
+          }
+        ],
+        "results": [
+          {
+            "item": "create:iron_sheet"
+          }  
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "create:iron_sheet"}
+  }

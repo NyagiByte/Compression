@@ -1,0 +1,61 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "ae2:quartz_fiber"},
+    "loops": 1,
+    "results": [
+      {
+        "item": "nyagibits_bytes:energized_wires"
+    }
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "ae2:quartz_fiber"
+          },
+          {
+            "item": "ae2:certus_quartz_dust"
+          }
+        ],
+        "results": [
+            {
+                "item": "ae2:quartz_fiber"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "ae2:quartz_fiber"
+          },
+          {
+            "item": "create:sturdy_sheet"
+          }
+        ],
+        "results": [
+            {
+                "item": "ae2:quartz_fiber"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "ae2:quartz_fiber"
+          },
+          {
+            "item": "create:brass_sheet"
+          }
+        ],
+        "results": [
+            {
+                "item": "ae2:quartz_fiber"
+            }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "ae2:quartz_fiber"}
+  }

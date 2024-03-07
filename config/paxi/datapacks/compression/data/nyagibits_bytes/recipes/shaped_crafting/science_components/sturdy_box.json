@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:etched_living_wood"},
+      "B": {"item":"botania:open_crate"}
+    },
+    "pattern": [
+      "A A",
+      "ABA"
+    ],
+    "result": {"item": "nyagibits_bytes:sturdy_box"}
+  }

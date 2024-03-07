@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "create:shaft"
+      }
+    ],
+    "processingTime": 10,
+    "results": [
+      {
+        "count": 2,
+        "item": "nyagibits_bytes:thin_casing"
+      }
+    ]
+  }

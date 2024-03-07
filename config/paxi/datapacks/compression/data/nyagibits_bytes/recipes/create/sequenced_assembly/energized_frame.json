@@ -1,0 +1,61 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "quark:framed_glass"},
+    "loops": 1,
+    "results": [
+      {
+        "item": "nyagibits_bytes:energized_frame"
+    }
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "quark:framed_glass"
+          },
+          {
+            "item": "ae2:certus_quartz_dust"
+          }
+        ],
+        "results": [
+            {
+                "item": "quark:framed_glass"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "quark:framed_glass"
+          },
+          {
+            "item": "create:sturdy_sheet"
+          }
+        ],
+        "results": [
+            {
+                "item": "quark:framed_glass"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "quark:framed_glass"
+          },
+          {
+            "item": "create:brass_sheet"
+          }
+        ],
+        "results": [
+            {
+                "item": "quark:framed_glass"
+            }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "quark:framed_glass"}
+  }

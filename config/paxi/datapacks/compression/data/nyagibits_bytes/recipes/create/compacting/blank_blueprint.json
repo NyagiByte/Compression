@@ -1,0 +1,34 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "minecraft:paper"
+      },
+      {
+        "item": "minecraft:paper"
+      },
+      {
+        "item": "minecraft:paper"
+      },
+      {
+        "item": "minecraft:paper"
+      },
+      {
+        "item": "minecraft:paper"
+      },
+      {
+        "item": "minecraft:paper"
+      },
+      {
+        "item": "minecraft:paper"
+      },
+      {
+        "item": "minecraft:paper"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:blank_blueprint"
+      }
+    ]
+  }

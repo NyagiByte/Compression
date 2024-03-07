@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:blank_blueprint"},
+      "B": {"item":"nyagibits_bytes:lab_notebook_with_crude_natural_arcana_data"},
+      "C": {"item":"nyagibits_bytes:lab_notebook_with_crude_entropy_data"}
+    },
+    "pattern": [
+      "BAC"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:botania_schematic"
+    }
+  }

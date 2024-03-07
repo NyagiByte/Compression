@@ -1,0 +1,26 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "nyagibits_bytes:basic_composite_material"},
+    "loops": 4,
+    "results": [
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+    }
+    ],
+    "sequence": [
+        {
+            "type": "create:pressing",
+            "ingredients": [
+              {
+                "item": "nyagibits_bytes:basic_composite_material"
+              }
+            ],
+            "results": [
+              {
+                "item": "nyagibits_bytes:basic_composite_material"
+              }  
+            ]
+          }
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:basic_composite_material"}
+  }

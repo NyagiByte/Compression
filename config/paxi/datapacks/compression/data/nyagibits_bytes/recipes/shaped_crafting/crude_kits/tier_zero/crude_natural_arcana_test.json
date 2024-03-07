@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"minecraft:carved_pumpkin"},
+      "B": {"item":"botania:pure_daisy"},
+      "C": {"item":"botania:livingwood_twig"},
+      "D": {"item":"botania:living_root"},
+      "E": {"item":"nyagibits_bytes:soil_sample"},
+      "F": {"item":"minecraft:kelp"},
+      "G": {"item":"botania:flower_bag"}
+    },
+    "pattern": [
+      "ABC",
+      "DEF",
+      " G "
+    ],
+    "result": {
+        "item": "nyagibits_bytes:crude_natural_arcana_test"
+    }
+  }

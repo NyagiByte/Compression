@@ -1,0 +1,28 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "create:copper_sheet"
+      },
+      {
+        "item": "create:iron_sheet"
+      },
+      {
+        "item": "nyagibits_bytes:livisite_slate"
+      },
+      {
+        "item": "minecraft:brick"
+      },
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "item": "ae2:certus_quartz_dust"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:basic_composite_material"
+      }
+    ]
+  }

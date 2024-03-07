@@ -1,0 +1,27 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "minecraft:diamond"},
+    "loops": 16,
+    "results": [
+      {
+        "count": 4,
+        "item": "nyagibits_bytes:diamond_shard"
+    }
+    ],
+    "sequence": [
+        {
+            "type": "create:pressing",
+            "ingredients": [
+              {
+                "item": "minecraft:diamond"
+              }
+            ],
+            "results": [
+              {
+                "item": "minecraft:diamond"
+              }  
+            ]
+          }
+    ],
+    "transitionalItem": {"item": "minecraft:diamond"}
+  }

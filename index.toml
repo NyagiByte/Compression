@@ -521,6 +521,170 @@ file = "config/paxi/datapacks/compression/data/minecraft/recipes/piston.json"
 hash = "19d0d982981bf754fdb24671b45121e642bdacc5080c109df9317e68824f257b"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/petal_apothecary/used_crude_natural_arcana_test.json"
+hash = "3ce58a594344fb287f4358423bd029b58543eded7d9d9d0cf40b4efafe0e9011"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/pure_daisy/livisite_stone.json"
+hash = "aba6e4775e94f2f845b350b5fc2b3dd0f6944207a90389849ad98437c49dcc5b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/basic_composite_material.json"
+hash = "7a1c254fe4c00849644ec4775607f1141ee244b4ba1b825dd72789b728750b5f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/blank_blueprint.json"
+hash = "318163fafad37dedf057ab449f49f0dccb1610698488adf0891bbd45eb6c020d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/micro_tools.json"
+hash = "05ca355b20cb1c07e95fe846e27dedffd2f0458212b48a376a05fe65bcdcb52f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/pile_of_crude_mechanical_parts.json"
+hash = "2a79c82cd3049f6c479cdce7d35b0b0e66bb4c49285260b4aa45b57fd44712cb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/used_crude_compression_test.json"
+hash = "cb34aea80ec033de0cc00f13e88503b790811edcbc38af7a61b130cc35ef2ddc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mechanical_crafting/lab_notebooks/lab_notebook_with_crude_acidics_data.json"
+hash = "8df67b7481457fbcb7c32107892cdc11612062f58f046dd61a3699a2db51f37b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mechanical_crafting/lab_notebooks/lab_notebook_with_crude_compression_data.json"
+hash = "5d7f7d77c59fcbbda3fc7f5890ff4cec5895540ebbd019fcc7ece4d2588b4a8c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mechanical_crafting/lab_notebooks/lab_notebook_with_crude_entropy_data.json"
+hash = "37b2fe8ab42329725b554615fc79a9b59a24926ec66a266f42d3f07c6afec819"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mechanical_crafting/lab_notebooks/lab_notebook_with_crude_material_properties_data.json"
+hash = "a65ff06ff081b810092b7abd355e1a000807298c24178afa8961db683dbd8bce"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mechanical_crafting/lab_notebooks/lab_notebook_with_crude_natural_arcana_data.json"
+hash = "4502cdb9356b9aacb03e7f50e73350fe14d4b5d0d70ff1748e9bab2756d6c321"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mechanical_crafting/lab_notebooks/lab_notebook_with_crude_statics_data.json"
+hash = "7ce6a43d7fa8ef0eb670ddda2dd6ff838d6cd55a109ad0ae3350659c4b21a6fe"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/ball_bearing.json"
+hash = "0f99f1ec9464968d84c23f568127b2f01370513f4e79d1d3963e5ddd38cbd1bf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/torn_wool_ball.json"
+hash = "d58fde63485e3c92c4775130b7d64edeb40c18ff16325fed033ba4a40b94f408"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/bottle_of_anthocyanin.json"
+hash = "4892dc87f6720a6f60bca5270a65d6e57de7a147ce05921ef6e12fe281e573fb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/bottle_of_malic_and_citric_acid.json"
+hash = "b139cf3867c62bd02c017178960c1b8428ac907d02f6a4bbcea1931fc60632b8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/crude_silicon_boule.json"
+hash = "d0e475c3a64a272d7ee6f5d4a73272c3e5f661fc4156e30b9ac3a7b428ee95a5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/ink.json"
+hash = "6fd592b16c1eace8abd5c3adf45314384316891f6f1ef8c0bf817f99456e8ddf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/soil_sample.json"
+hash = "ed777d2c5bfffe12125458762dc90ea8e7d7757aef1c5f8e3fa8c67b3acfdbaf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/used_crude_acidics_test.json"
+hash = "1063d98bc228d0d9dfbadfc8a06ceb4b41fc4cc463b0388f2d11991a2b250c08"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/used_crude_entropy_test.json"
+hash = "97c4a640cdbfc2a91a384dafc21c517f1b15c90855343d15bca31877d31d6d66"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/polishing/polished_living_rock.json"
+hash = "35b51cf5f206ac111ec66ae0ceeefa301bd813d6f92573de856cc1a4d0d7a692"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/saw_cutting/thin_casing.json"
+hash = "8f33c4a71acaf9636c70ea6c325611141b3797406d26ed4eddd6fc050a5f717a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/basic_composite_plates.json"
+hash = "4eb5becc3750b3d748778474f8ee09b6e8de63c624341cb2310af3670e6eb211"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/calculation_dud.json"
+hash = "80ccda00778d4c1118a3a1a5b4d6b3afda79fa10876f74de4b891405eeb9c12f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/charged_certus_quartz_initial.json"
+hash = "e5d449d7cc0edee1f0eaac46d63866edfa73b2f4989464e663f1eb796c1caf17"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/crystal_harmonizer.json"
+hash = "bc3c22d80993d8147063a8503bd7c6bf9cdc3140462c6346e15fc2a3bc62faf1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/diamond_shard.json"
+hash = "c76fd4763187c6014b4be3c82dfa5d8475eab7ad24059cfa8ef475cca6a59fbe"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/energized_frame.json"
+hash = "50dad40bf32f317cfb03eea17065048106dc6cc5c2f6dfe627319e90c5f2776f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/energized_wires.json"
+hash = "f5ce64729a0f6374e092c94e324aae31e68b7eb2437439fe67de432ab515c73c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/engineering_dud.json"
+hash = "7bf4e9f7f76e6c552801af613948ec98ad3ff8a74025fc59b409f8dee16f2c10"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/etched_redstone_plate.json"
+hash = "6349519d75f7fe682e91782d9a37ae6e7bb73d1c114f1d70a8687f572998f68a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/ink_cartridge.json"
+hash = "ab966e4ed48e1eb2d17bc8fb36d75e00ad4cdda5356114c2d2cbae988a97bfbb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/livisite_slate.json"
+hash = "e7309b7a693092f35e8e43f4d0ece6cc39f94c2271455d2a98fd21a36dcabf06"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/logic_dud.json"
+hash = "9aa60cb608657e6e95f5b5e5940b86fb45712fcd92e7f5bb067f4bbcdcfc187e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/pen.json"
+hash = "dec9f236c1683e74820b99ed59d8f6bf7a4d3c5facdf02a6ee3d7dc729ea7ac9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/skystone_shielding.json"
+hash = "cccf413f110fd2f3cb42b08380050c7cb0a335b511328f2ec5b93b53bf5bb1cc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/tiny_spring.json"
+hash = "2edc43f1738fd0c8f612120b152d46fad591dfb55a01c4b981fa408c4bda2607"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/used_crude_material_properties_test.json"
+hash = "6a07ac15fec121bed8ba90ea0cfd294e63488493f6c56515ddb7a18fb5f268e5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/used_crude_statics_test.json"
+hash = "be2a2cf14d5fefc5ac3f7db6e1bf7f5e103a0e40e6b4bafbb186dcd028fa58fc"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create_milling/torn_wool_ball.json"
 hash = "d58fde63485e3c92c4775130b7d64edeb40c18ff16325fed033ba4a40b94f408"
 
@@ -1777,6 +1941,102 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/sequenced
 hash = "9aa60cb608657e6e95f5b5e5940b86fb45712fcd92e7f5bb067f4bbcdcfc187e"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assemblies/ae_assembly.json"
+hash = "0ef32aaa6b0b5c12eed2381200090a5b782f33486d27cebc4f1d386e34872787"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/crude_kits/tier_zero/crude_acidics_test.json"
+hash = "557b70e5af5dd918c9580ae02e2c17d11409e62722bd2c559e4ff7f3f71bdc04"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/crude_kits/tier_zero/crude_compression_test.json"
+hash = "da5f4cbf36a01506eed8a0ece8e73bc418e7c6e2b57775460cef27dc462eea64"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/crude_kits/tier_zero/crude_entropy_test.json"
+hash = "d76b8c390890c3a08c135846bddd2551f7221c14fe7fd592ee070d626204c145"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/crude_kits/tier_zero/crude_material_properties_test.json"
+hash = "95a1dba2e5c79b53f6babc116eef5de80a8bac1f37558532ede6db86af84b971"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/crude_kits/tier_zero/crude_natural_arcana_test.json"
+hash = "ee108f9fa441c609063fe6ef6f08fc81e22ff0e1952c5dffe63139cc56c108e7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/crude_kits/tier_zero/crude_statics_test.json"
+hash = "ab092fd4fabb15fff33ed6b9c68f0d3e05eaac427e83e88af4ddb124f6db3c7b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/decorative_paneling.json"
+hash = "23ae81ee18e875622be3f96c0660635ebe98f76b65e96870c2ab965ca61f6797"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/etched_living_wood.json"
+hash = "82d32f78dcebff531fdb7d1b1329c8e7d6f899119e7b6d71e342efec6cb81b25"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/livisite_alloy_T0.json"
+hash = "9c8190fb10227b58ec5bf9156fd3535733037f9dadc0d53481cec2e53d7cbf14"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/matter_converters.json"
+hash = "38513e6fab4296a3d468953bb91b4ab53ae18ffa6a7c5915526c8d985beece9f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/processor_stack.json"
+hash = "4a3bf398074cd9f6f62c1867955630234f674854821711e22c671f69fd66e43d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/schematics/ae_schematic.json"
+hash = "2bae36b50cb852547197b8d6716c2d061538a62a1d3ed9401362fd4159ef3f88"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/schematics/alchemistry_schematic.json"
+hash = "589dd04b3eabd3de8b0d6f6c614202cbb9b8f8f11fa7e297b35e204dae22071d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/schematics/botania_schematic.json"
+hash = "0bca46ce250c95464cf57ab986380fd1f65327d72b59d4dec7260f1ff6928117"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/schematics/immersive_engineering_schematic.json"
+hash = "c936da255c6e8fe302669fc6825d5c3bbddbdffcbc184182be5e280d1c5ffd19"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/science_components/chemistry_rack.json"
+hash = "8f8ab7291b5d4a0cf49e3c01cafc0c47b0c6d6ffe63815157c2f197e763edcda"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/science_components/sealed_pouch.json"
+hash = "a001da93410b4aa75c04e290c3d80fbf6411a65da22a6c859d2f270bf40631d8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/science_components/sturdy_box.json"
+hash = "89d2f8ece8fdf8b786ae81f106d37cb2bfc5003efd92d6e25af85b5581911cb5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/bucket_of_salt_water.json"
+hash = "94732f545d2a2643e36b69c89b940c706a1b0c2d565d19ec6b6215b28e54b3fb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/crude_abrasive.json"
+hash = "fcd048db13e79460f90312d11bb730ed2497267e9a388aa6655bb6e770a4d948"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/lab_notebook.json"
+hash = "6a498214dd2141133cb378097f0c5dcbb1a291de20e608904e06c4407ad1dfa3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/pen_assembly.json"
+hash = "1e2dd01c535101247be954a3062a054944316c62c0ec599699a92dc3585205b1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/pile_of_cogs.json"
+hash = "3aa4e1e099a62c30e1e6ce06593833b8415a982928d9c59dba8058fd5e2cce2a"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/quark/recipes/building/crafting/iron_plate.json"
 hash = "28470b9f482265d22cff060920c5c0b854ad89f2abd877a8420329ab3df40eac"
 
@@ -2279,10 +2539,6 @@ hash = "ec23ba1cbd7b23934ac587e6847e1f5ba32503cb72ad8072957777946dda6936"
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
 hash = "d967d8692e140925291c224cdd203bf7f214dc3bc7a2336d5c329e7c38011cbb"
-
-[[files]]
-file = "kubejs/server_scripts/nb_b_recipes.js"
-hash = "2fdb9f48654ae19fed10965960e34ac31ebd261ffcaf6ffd12d194ca75a7b364"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes_ores.js"

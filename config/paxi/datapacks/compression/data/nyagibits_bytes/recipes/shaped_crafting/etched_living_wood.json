@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"botania:pattern_framed_livingwood"},
+      "B": {"item":"botania:framed_livingwood"},
+      "C": {"item":"nyagibits_bytes:livisite_alloy"}
+    },
+    "pattern": [
+      "ABA",
+      "BCB",
+      "ABA"
+    ],
+    "result": {
+        "count": 4,
+        "item": "nyagibits_bytes:etched_living_wood"
+    }
+  }

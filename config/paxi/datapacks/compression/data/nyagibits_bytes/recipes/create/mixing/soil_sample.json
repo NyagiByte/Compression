@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "minecraft:coarse_dirt"
+      },
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:clay"
+      },
+      {
+        "item": "minecraft:mud"
+      }
+    ],
+    "results": [
+      {
+        "count": 4,
+        "item": "nyagibits_bytes:soil_sample"
+      }
+    ]
+  }

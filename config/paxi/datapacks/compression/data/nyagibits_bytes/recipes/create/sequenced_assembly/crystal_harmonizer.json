@@ -1,0 +1,93 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "minecraft:comparator"},
+    "loops": 1,
+    "results": [
+      {
+        "item": "nyagibits_bytes:crystal_harmonizer"
+    }
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "minecraft:comparator"
+          },
+          {
+            "item": "ae2:certus_quartz_crystal"
+          }
+        ],
+        "results": [
+            {
+                "item": "minecraft:comparator"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "minecraft:comparator"
+          },
+          {
+            "item": "ae2:fluix_crystal"
+          }
+        ],
+        "results": [
+            {
+                "item": "minecraft:comparator"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "minecraft:comparator"
+          },
+          {
+            "item": "ae2:charged_certus_quartz_crystal"
+          }
+        ],
+        "results": [
+            {
+                "item": "minecraft:comparator"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "minecraft:comparator"
+          },
+          {
+            "item": "minecraft:quartz"
+          }
+        ],
+        "results": [
+            {
+                "item": "minecraft:comparator"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "minecraft:comparator"
+          },
+          {
+            "item": "minecraft:redstone"
+          }
+        ],
+        "results": [
+            {
+                "item": "minecraft:comparator"
+            }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "minecraft:comparator"}
+  }

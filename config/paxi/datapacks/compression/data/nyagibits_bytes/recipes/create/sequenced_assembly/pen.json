@@ -1,0 +1,81 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "nyagibits_bytes:pen_assembly"},
+    "loops": 1,
+    "results": [
+      {
+        "item": "nyagibits_bytes:pen"
+    }
+    ],
+    "sequence": [
+        {
+            "type": "create:deploying",
+            "ingredients": [
+              {
+                "item": "nyagibits_bytes:pen_assembly"
+              },
+              {
+                "item": "thermal:cured_rubber"
+              }
+            ],
+            "results": [
+                {
+                    "item": "nyagibits_bytes:pen_assembly"
+                }
+            ]
+          },
+          {
+            "type": "create:pressing",
+            "ingredients": [
+              {
+                "item": "nyagibits_bytes:pen_assembly"
+              }
+            ],
+            "results": [
+              {
+                "item": "nyagibits_bytes:pen_assembly"
+              }  
+            ]
+          },
+          {
+            "type": "create:pressing",
+            "ingredients": [
+              {
+                "item": "nyagibits_bytes:pen_assembly"
+              }
+            ],
+            "results": [
+              {
+                "item": "nyagibits_bytes:pen_assembly"
+              }  
+            ]
+          },
+          {
+            "type": "create:pressing",
+            "ingredients": [
+              {
+                "item": "nyagibits_bytes:pen_assembly"
+              }
+            ],
+            "results": [
+              {
+                "item": "nyagibits_bytes:pen_assembly"
+              }  
+            ]
+          },
+          {
+            "type": "create:pressing",
+            "ingredients": [
+              {
+                "item": "nyagibits_bytes:pen_assembly"
+              }
+            ],
+            "results": [
+              {
+                "item": "nyagibits_bytes:pen_assembly"
+              }  
+            ]
+          }
+    ],
+    "transitionalItem": {"item": "create:pen_assembly"}
+  }

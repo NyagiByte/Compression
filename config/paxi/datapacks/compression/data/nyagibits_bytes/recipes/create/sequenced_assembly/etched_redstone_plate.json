@@ -1,0 +1,58 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "minecraft:redstone_block"},
+    "loops": 1,
+    "results": [
+      {
+        "count": 9,
+        "item": "nyagibits_bytes:etched_redstone_plate"
+    }
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "minecraft:redstone_block"
+          },
+          {
+            "item": "ae2:quartz_fiber"
+          }  
+    ],
+        "results": [
+          {
+            "item": "minecraft:redstone_block"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "minecraft:redstone_block"
+          }
+        ],
+        "processingTime": 60,
+        "results": [
+          {
+            "item": "minecraft:redstone_block"
+          }  
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "minecraft:redstone_block"
+          }
+        ],
+        "processingTime": 60,
+        "results": [
+          {
+            "item": "minecraft:redstone_block"
+          }  
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "minecraft:redstone_block"}
+  }

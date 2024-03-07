@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"minecraft:piston"},
+      "B": {"item":"nyagibits_bytes:soil_sample"},
+      "C": {"item":"nyagibits_bytes:sturdy_box"}
+    },
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:crude_compression_test"
+    }
+  }

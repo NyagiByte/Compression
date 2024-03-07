@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:crystal_harmonizer"},
+      "B": {"item":"nyagibits_bytes:processor_stack"},
+      "C": {"item":"nyagibits_bytes:energized_frame"},
+      "D": {"item":"nyagibits_bytes:energized_wires"},
+      "E": {"item":"create:brass_casing"},
+      "F": {"item":"nyagibits_bytes:skystone_shielding"},
+      "G": {"item":"nyagibits_bytes:matter_converters"},
+      "H": {"item":"nyagibits_bytes:decorative_paneling"},
+      "I": {"item":"nyagibits_bytes:micro_tools"}
+    },
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:ae2_assembly"
+    }
+  }

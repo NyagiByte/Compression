@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"create:iron_sheet"},
+      "B": {"item":"create:shaft"},
+      "C": {"item":"ae2:engineering_processor"},
+      "D": {"item":"ae2:calculation_processor"},
+      "E": {"item":"ae2:logic_processor"}
+    },
+    "pattern": [
+      "ACA",
+      "BDB",
+      "AEA"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:processor_stack"
+    }
+  }

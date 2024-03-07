@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"botania:livingwood_planks_slab"},
+      "B": {"item":"botania:livingwood_twig"}
+    },
+    "pattern": [
+      "AAA",
+      "B B",
+      "AAA"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:chemistry_rack"}
+  }

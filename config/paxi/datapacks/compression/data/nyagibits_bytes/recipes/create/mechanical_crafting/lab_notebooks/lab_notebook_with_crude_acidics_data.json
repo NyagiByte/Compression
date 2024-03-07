@@ -1,0 +1,19 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {
+        "item": "nyagibits_bytes:lab_notebook"
+      },
+      "B": {
+        "item": "nyagibits_bytes:used_crude_acidics_test"
+      }
+    },
+    "pattern": [
+      "A",
+      "B"
+    ],
+    "result": {
+      "item": "nyagibits_bytes:lab_notebook_with_crude_acidics_data"
+    }
+  }

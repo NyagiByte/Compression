@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:blank_blueprint"},
+      "B": {"item":"nyagibits_bytes:lab_notebook_with_crude_compression_data"},
+      "C": {"item":"nyagibits_bytes:lab_notebook_with_crude_entropy_data"},
+      "D": {"item":"nyagibits_bytes:lab_notebook_with_crude_statics_data"},
+      "E": {"item":"nyagibits_bytes:lab_notebook_with_crude_material_properties_data"}
+    },
+    "pattern": [
+      " E ",
+      "BAC",
+      " D "
+    ],
+    "result": {
+        "item": "nyagibits_bytes:immersive_engineering_schematic"
+    }
+  }

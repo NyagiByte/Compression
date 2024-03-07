@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "nyagibits_bytes:ball_bearing"
+        },
+        {
+            "item": "nyagibits_bytes:thin_casing"
+        },
+        {
+            "item": "nyagibits_bytes:tiny_spring"
+        },
+        {
+            "item": "nyagibits_bytes:ink_cartridge"
+        }
+    ],
+    "result": {
+        "item": "nyagibits_bytes:pen_assembly"
+    }
+}

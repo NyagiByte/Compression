@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"ae2:sky_stone_brick_slab"},
+      "B": {"item":"ae2:formation_core"},
+      "C": {"item":"ae2:annihilation_core"},
+      "D": {"item":"ae2:tiny_tnt"}
+    },
+    "pattern": [
+      " AC",
+      "ADA",
+      "BA "
+    ],
+    "result": {
+        "item": "nyagibits_bytes:matter_converters"
+    }
+  }

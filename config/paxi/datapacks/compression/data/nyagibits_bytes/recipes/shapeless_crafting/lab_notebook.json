@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "nyagibits_bytes:pen"
+        },
+        {
+            "item": "minecraft:book"
+        }
+    ],
+    "result": {
+        "item": "nyagibits_bytes:lab_notebook"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "create:large_cogwheel"
+        },
+        {
+            "item": "create:cogwheel"
+        },
+        {
+            "item": "create:cogwheel"
+        },
+        {
+            "item": "create:cogwheel"
+        }
+    ],
+    "result": {
+        "item": "nyagibits_bytes:pile_of_cogs"
+    }
+}

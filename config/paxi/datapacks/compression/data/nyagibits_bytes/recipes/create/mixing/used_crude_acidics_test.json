@@ -1,0 +1,13 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:crude_acidics_test"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:used_crude_acidics_test"
+      }
+    ]
+  }

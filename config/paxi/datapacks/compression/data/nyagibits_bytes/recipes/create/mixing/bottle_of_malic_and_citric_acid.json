@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "farmersdelight:tomato"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      },
+      {
+        "amount": 250,
+        "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:bottle_of_malic_and_citric_acid"
+      }
+    ]
+  }

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"minecraft:gunpowder"},
+      "B": {"item":"minecraft:redstone"},
+      "C": {"item":"ae2:certus_quartz_dust"},
+      "D": {"item":"mekanism:dust_charcoal"},
+      "E": {"item":"nyagibits_bytes:sealed_pouch"}
+    },
+    "pattern": [
+      " A ",
+      "BCD",
+      " E "
+    ],
+    "result": {
+        "item": "nyagibits_bytes:crude_entropy_test"
+    }
+  }

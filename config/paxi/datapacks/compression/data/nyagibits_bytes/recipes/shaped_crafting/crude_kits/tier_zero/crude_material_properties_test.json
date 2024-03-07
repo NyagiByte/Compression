@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:lab_notebook_with_crude_acidics_data"},
+      "B": {"item":"nyagibits_bytes:basic_composite_plate"},
+      "C": {"item":"nyagibits_bytes:sturdy_box"}
+    },
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:crude_material_properties_test"
+    }
+  }

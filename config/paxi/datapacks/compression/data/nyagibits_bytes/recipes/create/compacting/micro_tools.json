@@ -1,0 +1,28 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "create:andesite_casing"
+      },
+      {
+        "item": "ae2:certus_quartz_wrench"
+      },
+      {
+        "item": "ae2:nether_quartz_wrench"
+      },
+      {
+        "item": "ae2:crank"
+      },
+      {
+        "item": "ae2:nether_quartz_cutting_knife"
+      },
+      {
+        "item": "ae2:certus_quartz_cutting_knife"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:micro_tools"
+      }
+    ]
+  }

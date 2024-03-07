@@ -1,0 +1,87 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "nyagibits_bytes:crude_material_properties_test"},
+    "loops": 1,
+    "results": [
+      {"item": "nyagibits_bytes:used_crude_material_properties_test"}
+    ],
+    "sequence": [
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:crude_material_properties_test"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:crude_material_properties_test"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:crude_material_properties_test"
+          },
+          {
+            "item": "nyagibits_bytes:bottle_of_malic_and_citric_acid"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:crude_material_properties_test"
+            }
+        ]
+      },
+      {
+          "type": "create:filling",
+          "ingredients": [
+            {
+              "item": "nyagibits_bytes:livisite_stone"
+            },
+            {
+              "amount": 100,
+              "fluid": "minecraft:lava",
+              "nbt": {}
+            }
+          ],
+          "results": [
+            {
+              "item": "nyagibits_bytes:livisite_stone"
+            }
+          ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:crude_material_properties_test"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:crude_material_properties_test"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:crude_material_properties_test"
+          },
+          {
+            "item": "nyagibits_bytes:pen"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:crude_material_properties_test"
+            }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:crude_material_properties_test"}
+  }

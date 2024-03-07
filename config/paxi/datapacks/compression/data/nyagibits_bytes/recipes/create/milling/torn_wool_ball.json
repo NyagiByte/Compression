@@ -1,0 +1,20 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "tag": "minecraft:wool"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "count": 4,
+        "item": "nyagibits_bytes:torn_wool_ball"
+      },
+      {
+        "chance": 0.1,
+        "count": 4,
+        "item": "nyagibits_bytes:torn_wool_ball"
+      }
+    ]
+  }

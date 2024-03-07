@@ -1,0 +1,30 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "nyagibits_bytes:ink"},
+    "loops": 4,
+    "results": [
+      {
+        "count": 4,
+        "item": "nyagibits_bytes:ink_cartridge"
+    }
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:ink"
+          },
+          {
+            "item": "nyagibits_bytes:thin_casing"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:ink"
+            }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:ink"}
+  }
