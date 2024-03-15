@@ -3316,17 +3316,24 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			tasks: [{
-				id: "785E499B000518D5"
-				item: {
-					Count: 1b
-					id: "immersiveengineering:graphite_electrode"
-					tag: {
-						graphDmg: 0
+			tasks: [
+				{
+					id: "785E499B000518D5"
+					item: {
+						Count: 1b
+						id: "immersiveengineering:graphite_electrode"
+						tag: {
+							graphDmg: 0
+						}
 					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "403CA3B25FAAD602"
+					item: "ftbquests:missing_item"
+					type: "item"
+				}
+			]
 			title: "Sintering"
 			x: -10.5d
 			y: -4.0d
@@ -3447,6 +3454,31 @@
 			}]
 			x: 7.5d
 			y: -3.0d
+		}
+		{
+			dependencies: [
+				"510C4A6E6F1259B5"
+				"256F108BD683D592"
+			]
+			description: [
+				"A nice chemical polishing agent to really make those gemstones glimmer"
+				""
+				"&b16 total drops per ore"
+			]
+			id: "02A7009A90D4E96A"
+			rewards: [{
+				id: "6732EBB2CC483405"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "228EE2E63037D336"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Today on Myth Busters, Can you polish a turd"
+			x: 9.5d
+			y: -4.0d
 		}
 	]
 	title: " &aOre Line"

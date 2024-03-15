@@ -134,7 +134,7 @@
 			size: 2.0d
 			tasks: [{
 				consume_items: true
-				count: 101L
+				count: 104L
 				id: "1A46599C22D9A0E8"
 				item: "nyagibits_bytes:tier_zero_strawberry"
 				type: "item"
@@ -263,6 +263,26 @@
 			title: "I know how to make thing now!"
 			x: 1.0d
 			y: -1.0d
+		}
+		{
+			dependencies: ["2B1226794C380C3A"]
+			description: ["I'm sure all the chemicals that went into this is great for my health"]
+			id: "2E2F1258673AC18B"
+			rewards: [{
+				id: "5D9E13556EDEA2DE"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 2048L
+				id: "605BCBFCD243B6D4"
+				item: "botania:manasteel_ingot"
+				type: "item"
+			}]
+			title: "This ingot makes me want blueberries"
+			x: 0.0d
+			y: -2.0d
 		}
 	]
 	subtitle: [" &fGrind, Optimize, Automate, Thrive"]

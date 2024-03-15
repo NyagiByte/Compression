@@ -183,6 +183,89 @@
 			x: -13.5d
 			y: -5.0d
 		}
+		{
+			dependencies: ["0601DBB1C7FD9207"]
+			description: ["This is the scaling tree for cured rubber"]
+			icon: "thermal:cured_rubber"
+			id: "33F886E51F20B0F5"
+			rewards: [{
+				id: "32F1F5B17BD1BE07"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "78B20C0E8767BE4E"
+				type: "checkmark"
+			}]
+			title: "Boing Boing Boing"
+			x: -7.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["5B376416775C4131"]
+			description: [
+				"Sulfur allowes the rubber to undergo vulcanization, boosting yields significantly"
+				""
+				"&b4 Cured Rubber per craft"
+			]
+			id: "15DA31C6CA7363E4"
+			rewards: [{
+				id: "29D9C3448D77EA07"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7DDB5F848193087B"
+				item: "chemlib:sulfur"
+				type: "item"
+			}]
+			title: "It stinks"
+			x: -6.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["33F886E51F20B0F5"]
+			description: [
+				"Chuck some of that raw stuff into a furnace, cures it right up"
+				""
+				"&b1 Cured Rubber per craft"
+			]
+			id: "5B376416775C4131"
+			rewards: [{
+				id: "3492801562232D5E"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "18C411E455AF2897"
+				item: "minecraft:furnace"
+				type: "item"
+			}]
+			title: "Burnt Bouncy Ball"
+			x: -7.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["71D2EEB0AA5125EC"]
+			description: [
+				"Another doubling?! How ludicrous"
+				""
+				"&bMost Create Machine Blocks: x4"
+			]
+			id: "1454C26B845826FE"
+			rewards: [{
+				id: "0FDC1A140C120E21"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4943DDF9B419B302"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			x: -12.5d
+			y: -5.0d
+		}
 	]
 	title: " &aScale Tree I"
 }

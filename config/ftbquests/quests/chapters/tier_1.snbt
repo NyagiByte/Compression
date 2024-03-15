@@ -19,7 +19,7 @@
 			description: [
 				"&6Hello! If you are reading this currently you are either an alpha tester or an early player! Congrats! Tier 1 will be released once completed. Thank you for playing"
 				""
-				"&6You are more than welcome to continue playing. However keep in mind things will be incomplete and are very likely to run into softlocks making you unable to progress, or running into progression skips if we forget to disable anything"
+				"&6You are more than welcome to continue playing. However keep in mind things will be incomplete and are very likely to run into softlocks making you unable to progress, or running into progression skips if we forget to disable anything. Note: This will not count towards being a \"Game Breaker\""
 			]
 			icon: "thermal:enderium_gear"
 			id: "472213B0CD3A8117"

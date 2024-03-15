@@ -50,6 +50,7 @@
 				"6C86D86CCAEED256"
 			]
 			description: ["Petrified wood hold ancient genetic information for long gone tree species, &cI wonder if there is a way to generate saplings from this.."]
+			icon: "nyagibits_bytes:raw_petrified_wood"
 			id: "3E430A180563A3E4"
 			rewards: [{
 				id: "72B6511B9A301322"
@@ -57,11 +58,18 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			tasks: [{
-				id: "7E0AF991458197B1"
-				item: "nyagibits_bytes:raw_petrified_wood"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "7E0AF991458197B1"
+					item: "nyagibits_bytes:raw_petrified_wood"
+					type: "item"
+				}
+				{
+					id: "1DA687025CAC88C0"
+					item: "botania:alchemy_catalyst"
+					type: "item"
+				}
+			]
 			title: "Ancient Wood?"
 			x: 3.0d
 			y: -1.5d
@@ -82,6 +90,52 @@
 			title: "A bundle of twigs"
 			x: -3.0d
 			y: -1.5d
+		}
+		{
+			description: ["You know how to use this, boost those crops!"]
+			id: "44305D597DEAF9D3"
+			rewards: [{
+				id: "650CACDF2D8CFDA1"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "264BC2B2241341A8"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			title: "Skeleton Dust"
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"44305D597DEAF9D3"
+				"2749DE946E0BF9CB"
+			]
+			description: ["As it turns out Lignite coal acts as a slow release fertilizer and mild pesticide"]
+			icon: "nyagibits_bytes:raw_lignite"
+			id: "4D0360FC736A49F6"
+			rewards: [{
+				id: "12779A49645DB684"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "7BF5B5259CFE4B4C"
+					item: "ftbquests:missing_item"
+					type: "item"
+				}
+				{
+					id: "56CF9E10AE52207A"
+					item: "nyagibits_bytes:raw_lignite"
+					type: "item"
+				}
+			]
+			title: "I thought coal was bad?"
+			x: 4.0d
+			y: -2.5d
 		}
 	]
 	title: " &aOrganics"
