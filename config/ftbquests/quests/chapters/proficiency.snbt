@@ -113,15 +113,28 @@
 		{
 			description: ["Congrats, you have mastered Tier 0"]
 			id: "0FBE020008F1513D"
-			rewards: [{
-				id: "2B70CB0329A98FE3"
-				item: "nyagibits_bytes:golden_tier_zero_strawberry"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "2B70CB0329A98FE3"
+					item: "nyagibits_bytes:golden_tier_zero_strawberry"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5AF4C47157DA805E"
+					item: "quark:glowing_glass_item_frame"
+					type: "item"
+				}
+				{
+					id: "1EA0BED204D71710"
+					item: "nyagibits_bytes:tier_zero_strawberry"
+					type: "item"
+				}
+			]
 			size: 2.0d
 			tasks: [{
 				consume_items: true
-				count: 100L
+				count: 101L
 				id: "1A46599C22D9A0E8"
 				item: "nyagibits_bytes:tier_zero_strawberry"
 				type: "item"
@@ -133,11 +146,24 @@
 		{
 			description: ["Congrats, you have mastered Tier 1"]
 			id: "49E9B0C0039CC939"
-			rewards: [{
-				id: "4D8EC93FF4651761"
-				item: "nyagibits_bytes:golden_tier_one_strawberry"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "4D8EC93FF4651761"
+					item: "nyagibits_bytes:golden_tier_one_strawberry"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "45FB14E4CE9F9D04"
+					item: "quark:glowing_glass_item_frame"
+					type: "item"
+				}
+				{
+					id: "3EA9F5438A7F4085"
+					item: "nyagibits_bytes:tier_one_strawberry"
+					type: "item"
+				}
+			]
 			size: 2.0d
 			tasks: [{
 				consume_items: false

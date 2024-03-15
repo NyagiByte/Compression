@@ -16,8 +16,11 @@
 				"5FD4E5F7C28806E5"
 				"177A2060FFFA6932"
 			]
-			description: ["&6Hello! If you are reading this currently you are either an alpha tester or an early player! Congrats! Tier 1 will be released once completed. Thank you for playing"]
-			hide: true
+			description: [
+				"&6Hello! If you are reading this currently you are either an alpha tester or an early player! Congrats! Tier 1 will be released once completed. Thank you for playing"
+				""
+				"&6You are more than welcome to continue playing. However keep in mind things will be incomplete and are very likely to run into softlocks making you unable to progress, or running into progression skips if we forget to disable anything"
+			]
 			icon: "thermal:enderium_gear"
 			id: "472213B0CD3A8117"
 			rewards: [{
@@ -37,11 +40,8 @@
 		}
 		{
 			dependencies: ["472213B0CD3A8117"]
-			description: [
-				"Svenska: Sätt in del 17a i stångsegment 1,2 och 5 för att rikta in segmenten för steg åttiotvå"
-				""
-				"English: Put part 17a into rod segment 1,2 and 5 to align the segments for step eighty two"
-			]
+			description: ["Svenska: Sätt in del 17a i stångsegment 1,2 och 5 för att rikta in segmenten för steg åttiotvå"]
+			hide: true
 			id: "46FF0B8D87309F93"
 			rewards: [{
 				id: "552D41A685B7CB18"
@@ -57,6 +57,1814 @@
 			title: "Some Assembly Required"
 			x: 0.0d
 			y: -1.5d
+		}
+		{
+			dependencies: ["472213B0CD3A8117"]
+			description: ["En massa levande material som visas i figur sju b. Vänligen sjunga ritualen som beskrivs i avsnitt fem"]
+			hide: true
+			icon: "ftbquests:missing_item"
+			id: "37FAB0261BCDF974"
+			rewards: [{
+				id: "4113AEC4591708F3"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "28E017DCBFE6C6A7"
+					item: "ftbquests:missing_item"
+					type: "item"
+				}
+				{
+					id: "481A203D7947955D"
+					item: {
+						Count: 1b
+						id: "botania:twig_wand"
+						tag: {
+							color1: 0
+							color2: 0
+						}
+					}
+					match_nbt: false
+					type: "item"
+				}
+			]
+			title: "Every Tech Mod has a Pile of Wood"
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["472213B0CD3A8117"]
+			description: ["Olagligt på de flesta platser, avsnitt arton j beskriver hur man producerar sprängämnen och dödliga gaser"]
+			hide: true
+			id: "05CC38E1E327BA2E"
+			rewards: [{
+				id: "7DBC0AEA4B6CA0E2"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0A1AADC1E50F97B9"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Yeah You're On a List Now"
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"66DDC75CB8C3D557"
+				"564AB0DF80D53015"
+				"0B221BE78ECA364A"
+			]
+			description: ["HÅLL DINA HÄNDER BORTA FRÅN DE MEKANISMER VI INTE HAR OSHA - Få en fyraåring att sticka in händerna i fack sju för att vrida på vredet"]
+			id: "64B7C87F4FB6406C"
+			rewards: [{
+				id: "5732454194967FC0"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2C9CB40E40B2379F"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Immersive Assembly"
+			x: 6.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["37FAB0261BCDF974"]
+			description: ["This flower loves the industrial revolution. Give it burnables NOW!"]
+			id: "1237E149EAD883A2"
+			rewards: [{
+				id: "70E5193B85C882B6"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "44FA13065CF34122"
+				item: "botania:endoflame"
+				type: "item"
+			}]
+			title: "Mmmmmmm, Charcoal"
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["37FAB0261BCDF974"]
+			description: ["The \"batteries\" in the well known \"tech mod\" Botania"]
+			id: "6B5E13C2D13D548F"
+			rewards: [{
+				id: "617CA99E4A62C82D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "76976C9004F7EFDD"
+				item: "botania:mana_pool"
+				type: "item"
+			}]
+			title: "Good Soup"
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["37FAB0261BCDF974"]
+			description: ["Technologically turns energy from the tech mod into a physical bolt of power to power up machines dressed up as flowers"]
+			id: "611BC6ECDD43744E"
+			rewards: [{
+				id: "11439FEB64CCB164"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "31F5C517CE4671C0"
+				item: "botania:mana_spreader"
+				type: "item"
+			}]
+			title: "Definitely a Power Cable"
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"1237E149EAD883A2"
+				"6B5E13C2D13D548F"
+				"611BC6ECDD43744E"
+				"30AD364BEED4DD5E"
+			]
+			description: ["Dripping with mana this new material has the capacity to regenerate itself. Possibly has good uses for durable machines"]
+			id: "2B1226794C380C3A"
+			rewards: [{
+				id: "7593EF36F6936B4D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "4017E713FB5F4876"
+				item: "botania:manasteel_ingot"
+				type: "item"
+			}]
+			title: "Will This Stain My Hands?"
+			x: -4.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["05CC38E1E327BA2E"]
+			description: ["This powerful block can reduce objects into their component parts with the aid of electricity. Just dont breath in the fumes"]
+			id: "256F108BD683D592"
+			rewards: [{
+				id: "1A2461DEA6F2D6D5"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1AC8F02ED361E02F"
+				item: "alchemistry:dissolver"
+				type: "item"
+			}]
+			title: "GET ATOMIZED NERD"
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"256F108BD683D592"
+				"66DDC75CB8C3D557"
+			]
+			description: ["With some chemical wizardry, we have punched many microscopic holes within an ingot of steel allowing it to absorb whatever liquids we want through capillary action"]
+			id: "30AD364BEED4DD5E"
+			rewards: [{
+				id: "25B322D4A3A1A976"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "63DC2375D69CF17C"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "It doesn't live in a pineapple under the sea"
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["472213B0CD3A8117"]
+			description: [
+				"Yes the amazing point in every pack where you must make coke and steel."
+				""
+				"Do not despair quite yet as the crafting recipe for the ovens yields all 27 required bricks and features &bsignificantly reduced processing times!"
+			]
+			hide: true
+			icon: "immersiveengineering:cokebrick"
+			id: "28B78F18CDBAEB65"
+			rewards: [{
+				id: "2CA0CC3C49B1498C"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 27L
+					id: "075DD993C9448065"
+					item: "immersiveengineering:cokebrick"
+					type: "item"
+				}
+				{
+					id: "4F4A5C59D2E78C81"
+					item: {
+						Count: 1b
+						id: "immersiveengineering:hammer"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Oh god not this again"
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"28B78F18CDBAEB65"
+				"7457EE5BA59A0BDB"
+			]
+			description: ["Much like the coke bricks, these also get batch crafted in 27 at a time. You will need industrial grade coke in order to run this furnace for the time being, better fuels will be available later"]
+			id: "4ABA1A64E5BE1E94"
+			rewards: [{
+				id: "105A6450F4CA9DC6"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				count: 27L
+				id: "1A80DF92D468A3D3"
+				item: "immersiveengineering:blastbrick"
+				type: "item"
+			}]
+			title: "Oof Ouchy Hot Furnace"
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"28B78F18CDBAEB65"
+				"2749DE946E0BF9CB"
+			]
+			description: ["Sadly the generic coal and lower quality coals do not produce sufficiently useful coke needed for steel production. As a result better coals are needed"]
+			icon: "ftbquests:missing_item"
+			id: "7457EE5BA59A0BDB"
+			rewards: [{
+				id: "6835D277D1A53588"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "78FD04C924A49479"
+					item: "nyagibits_bytes:raw_subbituminous"
+					type: "item"
+				}
+				{
+					id: "3498EFD41C0B6604"
+					item: "nyagibits_bytes:raw_bituminous"
+					type: "item"
+				}
+				{
+					id: "19274F2E4CF8A71F"
+					item: "nyagibits_bytes:raw_anthracite"
+					type: "item"
+				}
+			]
+			title: "Industrial Coke"
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["256F108BD683D592"]
+			description: [
+				"TNT?! What for? "
+				""
+				"The &econglomerate and dense conglomerate&r layer of ore can actually be harvested via explosion. This will actually be required for progression as the &bmanasteel&r pickaxe needed requires industrial coke quality coals to produce the steel"
+			]
+			id: "2749DE946E0BF9CB"
+			rewards: [{
+				id: "53A918EE3DA95A5B"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7841406A8A4E1D1F"
+				item: "minecraft:tnt"
+				type: "item"
+			}]
+			title: "Tetranitrotoluene"
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4ABA1A64E5BE1E94"]
+			description: ["The backbone for any respectable factory. I crave the strength and certainty of steel"]
+			id: "66DDC75CB8C3D557"
+			rewards: [{
+				id: "05FEBBB2F5C3E893"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "46889FB8072272B5"
+				item: "immersiveengineering:ingot_steel"
+				type: "item"
+			}]
+			title: "Symbol of Industry"
+			x: 4.450340136054415d
+			y: 2.394897959183666d
+		}
+		{
+			dependencies: ["28B78F18CDBAEB65"]
+			description: ["The process of blasting organic material results in even more organic material! Who knew... Gonna have to clean this up to use it"]
+			id: "638BCB657E1B5F7D"
+			rewards: [{
+				id: "569DADD6F5F42E2B"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5568E2E68DD851AB"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Hydrocarbon Soup?"
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["256F108BD683D592"]
+			description: ["A hyper absorbant polymer able to hold onto multiple times its own mass worth of water, and possibly other polar liquids"]
+			id: "078074C1ED91490F"
+			rewards: [{
+				id: "2DBFF65C876A1DF3"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7E62C758A9456F9A"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Placeholder - Sodium Polyacrylate"
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"2B1226794C380C3A"
+				"003E374B8B915CB9"
+			]
+			description: ["This uhm.. Techy crafter uh... wait why is stuff floating there's no magnets in this"]
+			id: "639B2FF66B0FB1B4"
+			rewards: [{
+				id: "44582877476F7B69"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6EC315448B474F9E"
+				item: "botania:runic_altar"
+				type: "item"
+			}]
+			title: "Technologmomically Crafting"
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"6B5E13C2D13D548F"
+				"078074C1ED91490F"
+			]
+			description: ["Drop some absorbant powder into the pool, it drinks it right up"]
+			id: "0ACB4AD3B480F954"
+			rewards: [{
+				id: "408957E61E3B5283"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6E2613F0A5892F30"
+				item: "botania:mana_powder"
+				type: "item"
+			}]
+			title: "I know it's a powder... don't"
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0ACB4AD3B480F954"]
+			description: ["A binding agent to etch and act as glue for runic components"]
+			id: "4A052E691A3B799A"
+			rewards: [{
+				id: "159FB69CA9BD2B33"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6842E7C9DD238D26"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Placeholder - Rune Binder"
+			x: -4.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["52D6A6706C04ED84"]
+			description: ["This may look like a vanilla wafer, but it is mostly rock and metal, please don't put it in your mouth"]
+			id: "003E374B8B915CB9"
+			rewards: [{
+				id: "60A22D2CD2159C0D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3E0C63AE0C092B3D"
+				item: "nyagibits_bytes:rune_blank"
+				type: "item"
+			}]
+			title: "NOT EDIBLE"
+			x: -7.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"639B2FF66B0FB1B4"
+				"4A052E691A3B799A"
+			]
+			description: [
+				"Yippie we can finally make runes!"
+				""
+				"&6Note: In Compression, instead of living rock, the finishing item will be &erune binder &6not living rock"
+			]
+			id: "68300CAEDAC23F73"
+			rewards: [{
+				id: "220AC79DF3F62F28"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "59763477A9B49C4B"
+					item: "botania:rune_water"
+					type: "item"
+				}
+				{
+					id: "7B64F9314A333E97"
+					item: "botania:rune_fire"
+					type: "item"
+				}
+				{
+					id: "1EC758FAEB5A639A"
+					item: "botania:rune_earth"
+					type: "item"
+				}
+				{
+					id: "2CAAD2C95A0FE7A9"
+					item: "botania:rune_air"
+					type: "item"
+				}
+			]
+			title: "Keep an eye on the fire one..."
+			x: -6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"2B1226794C380C3A"
+				"6B5E13C2D13D548F"
+			]
+			description: ["A sturdy frame to channel totally technological energies and improve the structural stability of semi alive rock"]
+			id: "52D6A6706C04ED84"
+			rewards: [{
+				id: "21C1D9B849E60D5A"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4D6D49BB10ECE0D9"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Tic-Tac-Toe"
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["638BCB657E1B5F7D"]
+			description: ["Finally some clean liquid, I can already smell the usefullness of this cancerous soup"]
+			id: "564AB0DF80D53015"
+			rewards: [{
+				id: "0B89BE1C92A6DB1D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "594019F7B1BF4430"
+				item: "immersiveengineering:creosote_bucket"
+				type: "item"
+			}]
+			title: "Very Flammable"
+			x: 4.4438775510204d
+			y: 1.0020408163265202d
+		}
+		{
+			dependencies: ["68300CAEDAC23F73"]
+			description: ["An interesting flower able to chemically alter any stone placed near it. The new resulting types probably have good uses"]
+			id: "28208E9BB8763E5C"
+			rewards: [{
+				id: "51359EE04BC11E9D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "71EC2B0FE11DA886"
+				item: "botania:marimorphosis"
+				type: "item"
+			}]
+			title: "Wonder if this flower enjoys rock"
+			x: -8.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["68300CAEDAC23F73"]
+			description: ["This flower will bring around itself mystical flowers through super techy methods using mana"]
+			id: "2AC05C5C4441E035"
+			rewards: [{
+				id: "0C66F304E49C8671"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0E269FBDD72D7EAF"
+				item: "botania:jaded_amaranthus"
+				type: "item"
+			}]
+			title: "Flowaaaaas"
+			x: -8.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["68300CAEDAC23F73"]
+			description: ["This trio of flowers does a fantastic low effort job breeding and butchering your livestock"]
+			id: "2CE0B59988943259"
+			rewards: [{
+				id: "1D4EFE3F70D9C98C"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "18E4D574903A3F7D"
+					item: "botania:dreadthorn"
+					type: "item"
+				}
+				{
+					id: "628D16C318E44EE8"
+					item: "botania:pollidisiac"
+					type: "item"
+				}
+				{
+					id: "08E9607FDB4C6BB8"
+					item: "botania:bergamute"
+					type: "item"
+				}
+			]
+			title: "I NEED LEATHER"
+			x: -8.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["28208E9BB8763E5C"]
+			description: [
+				"While all stone types can generate in any biome, specific flavors of stone skew more in some biomes."
+				""
+				"&6Solite skews more in &eDeserts/Savannas"
+				"&2Fuchsite skews more in &aForests"
+				"&4Mycelite skews more in &cMushroom Islands/Underground Biomes"
+				"&5Rosy Talc skews more in &dSavannas/Badlands"
+				"&7Gneiss skews more in &rMountain Biomes"
+				"&fTalc skews more in &aPlains/Beaches"
+				"&2Cataclasite skews more in &aJungles/Swamps"
+				"&9Lunite skews more in &bTaiga/Cold Biomes"
+			]
+			id: "2D6CEF818A4E4FDD"
+			rewards: [{
+				id: "48DF5A77998EC331"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "5947E7C80442CB0A"
+					item: "botania:metamorphic_mountain_stone"
+					type: "item"
+				}
+				{
+					id: "0D84F7EE3213293D"
+					item: "botania:metamorphic_taiga_stone"
+					type: "item"
+				}
+				{
+					id: "74275BA84D8EB7D4"
+					item: "botania:metamorphic_mesa_stone"
+					type: "item"
+				}
+				{
+					id: "7E57EB42C734BDCF"
+					item: "botania:metamorphic_forest_stone"
+					type: "item"
+				}
+				{
+					id: "2548C8739E600AA8"
+					item: "botania:metamorphic_fungal_stone"
+					type: "item"
+				}
+				{
+					id: "165F0A37E46BBE06"
+					item: "botania:metamorphic_desert_stone"
+					type: "item"
+				}
+				{
+					id: "6E33EAF5C47BE906"
+					item: "botania:metamorphic_swamp_stone"
+					type: "item"
+				}
+				{
+					id: "179A30795345FEB8"
+					item: "botania:metamorphic_plains_stone"
+					type: "item"
+				}
+			]
+			title: "Fancy Multicolored Rocks"
+			x: -8.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2D6CEF818A4E4FDD"]
+			description: ["A special alloy, dramatically boosting yields of create related machinery"]
+			id: "7F547C6C8CC1328F"
+			rewards: [{
+				id: "38BBFC15E2416279"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "022176A88BD2E3E2"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Placeholder - Metamorphic Alloy"
+			x: -6.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"2D6CEF818A4E4FDD"
+				"256F108BD683D592"
+				"2B1226794C380C3A"
+			]
+			description: [
+				"As it turns out these rocks tend to have some useful components to them when you crack them open and subject them to acid"
+				""
+				"&6Gneiss - &dTitanium Oxide"
+				""
+				"&6Fuchsite - &dChromium Oxide/Potassium Hydroxide"
+				""
+				"&6Mycelite - &dChitin/Diammonium Phosphate"
+				""
+				"&6Rosy Talc - &dIron (III) Nitrate"
+				""
+				"&6Solite - &dPhosphate"
+				""
+				"&6Talc - &dMagnessium and &edirect industrial uses"
+				""
+				"&6Cataclasite - &dLithium"
+				""
+				"&6Lunite - &dCobalt"
+			]
+			id: "560765E7C460F28A"
+			rewards: [{
+				id: "37999931913AB744"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "7365603CDF2E2CAD"
+					item: "chemlib:titanium_oxide"
+					type: "item"
+				}
+				{
+					id: "34D8D02E80A71684"
+					item: "chemlib:chromium_oxide_dust"
+					type: "item"
+				}
+				{
+					id: "5FC6D1848C13D2C3"
+					item: "chemlib:potassium_hydroxide_dust"
+					type: "item"
+				}
+				{
+					id: "5958472A87F91E4A"
+					item: "chemlib:chitin"
+					type: "item"
+				}
+				{
+					id: "4B8E5563454B2E1E"
+					item: "chemlib:diammonium_phosphate"
+					type: "item"
+				}
+				{
+					id: "5D8AF344C5B649A0"
+					item: "chemlib:iron_iii_nitrate_dust"
+					type: "item"
+				}
+				{
+					id: "316A842A0021BB1E"
+					item: "chemlib:phosphate_dust"
+					type: "item"
+				}
+				{
+					id: "57D6FA74149CCDB6"
+					item: "chemlib:magnesium"
+					type: "item"
+				}
+				{
+					id: "3A65735986125CA6"
+					item: "chemlib:lithium"
+					type: "item"
+				}
+				{
+					id: "35E8E7195B654B5F"
+					item: "chemlib:cobalt"
+					type: "item"
+				}
+			]
+			title: "Rock Chemistry"
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"256F108BD683D592"
+				"66DDC75CB8C3D557"
+			]
+			description: ["Steel is a wonderful material as the ratio between added elements can dramatically alter the properties of it. A few flavors of steel should be made to strengthen machines further "]
+			id: "5B109E7F50E8EBC2"
+			tasks: [{
+				id: "1DBD08C3FBB05BFB"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Flavors of Steel"
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["66DDC75CB8C3D557"]
+			description: ["Steel casings continue the boosted yields from create! You get another doubling on create machines, go nuts"]
+			id: "71D2EEB0AA5125EC"
+			rewards: [{
+				id: "5B4758DB15154448"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "12A0CD553687C430"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Steel Casings?"
+			x: 5.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2B1226794C380C3A"]
+			id: "0CA06BC53DA3167B"
+			rewards: [{
+				id: "5E57B688F3CC94B8"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "710B7AF3C3025D08"
+				item: {
+					Count: 1b
+					id: "aiotbotania:manasteel_aiot"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Finally an Upgrade"
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"560765E7C460F28A"
+				"30AD364BEED4DD5E"
+				"5B109E7F50E8EBC2"
+			]
+			description: ["This rune seems to be able to drive forward reactions without itself being used... usually.."]
+			id: "6147C880915EF20D"
+			rewards: [{
+				id: "3D51E7EAE0A4E9DB"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "188E71E3C3CA6097"
+				item: "nyagibits_bytes:rune_catalytic"
+				type: "item"
+			}]
+			title: "Give and Take"
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["28B78F18CDBAEB65"]
+			description: ["These old iron components wont survive inside of these machines. Better raise that carbon content before they get used"]
+			id: "0B221BE78ECA364A"
+			rewards: [{
+				id: "4788403E8CFCB0BB"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "08FD7316D421CE1B"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Wrought Components"
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"66DDC75CB8C3D557"
+				"64B7C87F4FB6406C"
+			]
+			description: ["Uses far less coke to create the same quantity of steel!"]
+			icon: "immersiveengineering:blastbrick_reinforced"
+			id: "01F2A64C70A46882"
+			rewards: [{
+				id: "3C8B65C55BEDD8FC"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "75D33B17E5F85028"
+					item: "immersiveengineering:blastfurnace_preheater"
+					type: "item"
+				}
+				{
+					count: 27L
+					id: "307FB93C400A8590"
+					item: "immersiveengineering:blastbrick_reinforced"
+					type: "item"
+				}
+				{
+					id: "42EBB5A9C6CF78D9"
+					item: "minecraft:hopper"
+					type: "item"
+				}
+			]
+			title: "More Steel More Better"
+			x: 6.514285714285727d
+			y: 2.3816326530612315d
+		}
+		{
+			dependencies: ["64B7C87F4FB6406C"]
+			description: ["Bulk craft those multiblock components! The Factory Must Grow"]
+			id: "004C5BBDCDBA33BA"
+			rewards: [{
+				id: "39CB250D282DB69C"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "2C23D6CBAA177DC4"
+					item: "immersiveengineering:light_engineering"
+					type: "item"
+				}
+				{
+					id: "385E5CF2AB78EBD9"
+					item: "immersiveengineering:heavy_engineering"
+					type: "item"
+				}
+				{
+					id: "2278F18866164FB7"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					id: "6AD8D96705404905"
+					item: "immersiveengineering:generator"
+					type: "item"
+				}
+				{
+					id: "6B7C74357C3E6B3D"
+					item: "immersiveengineering:radiator"
+					type: "item"
+				}
+				{
+					id: "47E1F150472FF02F"
+					item: "immersiveengineering:steel_scaffolding_standard"
+					type: "item"
+				}
+			]
+			title: "Blocks of Industry"
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["004C5BBDCDBA33BA"]
+			description: ["A nice sturdy foundation to lay down wires and basic electronic components"]
+			id: "692B02745BB6435E"
+			rewards: [{
+				id: "4D206D2E3E68858D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4CFC6292BA365120"
+				item: "immersiveengineering:circuit_board"
+				type: "item"
+			}]
+			title: "Not Bread Sadly"
+			x: 8.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"692B02745BB6435E"
+				"103B984BD274E9AF"
+			]
+			description: ["Still the same type limit, but you can have more per cell. Also 1:1 upgrades! Horray!"]
+			id: "3B26CEFA5BEC5331"
+			rewards: [{
+				id: "7798962C8F6E3C64"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "65CD8CC2662DEE4D"
+				item: "ae2:cell_component_4k"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1EE4A07531120ED5"]
+			description: ["20 at once?! Yup"]
+			id: "103B984BD274E9AF"
+			rewards: [{
+				id: "4864E51A7450ADBB"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				count: 20L
+				id: "66A98BCA7E697644"
+				item: "ae2:cell_component_1k"
+				type: "item"
+			}]
+			title: "Ugh type limits"
+			x: 7.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["46FF0B8D87309F93"]
+			description: ["... Is just someone else's server room. Speaking of which it's time to make some!"]
+			id: "1EE4A07531120ED5"
+			rewards: [{
+				id: "5B64F5B3B0DCF9C1"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				count: 2L
+				id: "4143002754A34B00"
+				item: "ae2:drive"
+				type: "item"
+			}]
+			title: "The Clouuuuuuuuud..."
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1EE4A07531120ED5"]
+			description: ["Little protective shell to hold onto storage components"]
+			id: "129782E3C29EAD6A"
+			rewards: [{
+				id: "6926E6E10935A902"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				count: 10L
+				id: "753AF7F3E0125223"
+				item: "ae2:item_cell_housing"
+				title: "It's like a box but expensive"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["129782E3C29EAD6A"]
+			description: ["With some slight reconfiguring this housing can make storage components accept fluids instead of items"]
+			id: "282C6AC53AAF6EBC"
+			rewards: [{
+				id: "0C6DA65522371F5F"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "662D6C78D46B5CB8"
+				item: "ae2:fluid_cell_housing"
+				type: "item"
+			}]
+			title: "I wonder if I can drink it.."
+			x: 7.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["46FF0B8D87309F93"]
+			description: ["This piece of garbage powers the system? Yes! Ae2 power requirements are massively lowered in Compression"]
+			id: "299A7421330CF038"
+			rewards: [{
+				id: "7D2E63B174455A36"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "7E449FE935537A99"
+				item: "ae2:vibration_chamber"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["299A7421330CF038"]
+			description: [
+				"&bChannels are quadrupled in Compression. "
+				"&e32 channels for a standard cable"
+				"&6128 channels for a dense cable"
+			]
+			id: "136435B97101A1B5"
+			rewards: [{
+				id: "3076BBD0702CA4E6"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "72442DAEAFC7C05C"
+				item: "ae2:controller"
+				type: "item"
+			}]
+			title: "The heart and the brain"
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["46FF0B8D87309F93"]
+			description: ["On demand crafting using requesting will &cNOT&r be able to be done for a large slice of this pack. Instead components that allow shuttling of items have been made cheap to encourage passive and continuous production"]
+			id: "09F509541A68BB2B"
+			rewards: [{
+				id: "0076016A4AC64464"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				count: 4L
+				id: "26BAB47635632600"
+				item: "ae2:interface"
+				type: "item"
+			}]
+			title: "Where's my autocrafting?"
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["09F509541A68BB2B"]
+			description: ["Excellent for botania automations involving placed blocks. Can place and collect blocks extremely fast"]
+			id: "2DAEF49745029EBB"
+			rewards: [{
+				id: "35E392AD76EDCFCB"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "54E6CFF8DB3C5760"
+					item: "ae2:annihilation_plane"
+					type: "item"
+				}
+				{
+					id: "60EE5D3014266755"
+					item: "ae2:formation_plane"
+					type: "item"
+				}
+			]
+			title: "Ying and Yang"
+			x: -7.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["09F509541A68BB2B"]
+			description: ["Useful little trinkets, get those items shmovin!"]
+			id: "6AF232A9CC059617"
+			rewards: [{
+				id: "180701CBDCB9FF29"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "4667385EB3CC4B41"
+					item: "ae2:export_bus"
+					type: "item"
+				}
+				{
+					id: "6C69736A66C0EB5A"
+					item: "ae2:import_bus"
+					type: "item"
+				}
+				{
+					id: "5C8A057F18918EFB"
+					item: "ae2:storage_bus"
+					type: "item"
+				}
+			]
+			title: "Bussin' Around"
+			x: -7.0d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"5B109E7F50E8EBC2"
+				"004C5BBDCDBA33BA"
+			]
+			description: ["Incredibly durable slabs of steel able to be forced through materials to create new shapes! I wonder of any of them go into the square hole"]
+			id: "247A2F1774D0E89F"
+			rewards: [{
+				id: "2ECEEF1DAC237665"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "1A21104604DC8C73"
+					item: "immersiveengineering:mold_plate"
+					type: "item"
+				}
+				{
+					id: "15089E72268CFEE7"
+					item: "immersiveengineering:mold_gear"
+					type: "item"
+				}
+				{
+					id: "1E178408D6CACA3F"
+					item: "immersiveengineering:mold_rod"
+					type: "item"
+				}
+				{
+					id: "22A1F5D42E1ECF9E"
+					item: "immersiveengineering:mold_wire"
+					type: "item"
+				}
+			]
+			title: "Metal Cookie Cutters"
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"6147C880915EF20D"
+				"247A2F1774D0E89F"
+				"4A385D5A92592D0A"
+			]
+			dependency_requirement: "one_completed"
+			description: ["A plate coated in various materials able to undero generalized material sintering. Perfect for ore processing"]
+			id: "08CB5877D8F65C34"
+			rewards: [{
+				id: "356449FE9D903B43"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "79C9D28E4676942E"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Ore Extraction Plate"
+			x: 9.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"6147C880915EF20D"
+				"2D6CEF818A4E4FDD"
+			]
+			description: ["A rather energetic core, probably useful for some more arcane constructions"]
+			id: "163ECE113A4F686B"
+			rewards: [{
+				id: "249686CCE40C8F1D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "435C5BDD9427A356"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Oh god it keeps zapping me"
+			x: -9.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["1237E149EAD883A2"]
+			description: ["&cEntropy comes for all, however the results may prove useful"]
+			id: "0236A82047151FD5"
+			rewards: [{
+				id: "4BB6FA54964BBFAB"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "73AE95BB3DB01B0C"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Decay?!"
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"0236A82047151FD5"
+				"560765E7C460F28A"
+				"6147C880915EF20D"
+			]
+			description: ["&cIt doesn't stop burning... Interesting"]
+			id: "50FDF49B52314764"
+			rewards: [{
+				id: "51C06B5E415C51A5"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "38C51E616AB281E2"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Where is my fire extinguisher?!"
+			x: -3.5d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"163ECE113A4F686B"
+				"52D6A6706C04ED84"
+			]
+			id: "45E43BF51EC35414"
+			rewards: [{
+				id: "0563FB5894126DC1"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6065B038D6B99FDA"
+				item: "botania:mana_pylon"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"6147C880915EF20D"
+				"5B109E7F50E8EBC2"
+				"00252987E3B16C8F"
+			]
+			description: ["It seems that by filling up a rune with a ton of metal and blasting it with electricity it can become intrinsically magnetic"]
+			id: "7483F87F4311A3CA"
+			rewards: [{
+				id: "4DF7A00C9CB6FE4E"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "26B7F6A7D624F08F"
+				item: "nyagibits_bytes:rune_magnetic"
+				type: "item"
+			}]
+			title: "Finger Pincher 9000"
+			x: 3.5d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"256F108BD683D592"
+				"21C63543DE36AAB7"
+			]
+			description: ["Time to store up that juicy power to better handle spikes in demand"]
+			id: "00252987E3B16C8F"
+			rewards: [{
+				id: "42892A490EB12EF7"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "579C0C26A328BF4E"
+				item: "immersiveengineering:capacitor_lv"
+				type: "item"
+			}]
+			title: "Dont lick the top"
+			x: 3.5119047619047308d
+			y: 4.149659863945573d
+		}
+		{
+			dependencies: ["64B7C87F4FB6406C"]
+			description: ["This rather simple generator creates its power by having a temperature difference between the sides of it"]
+			id: "21C63543DE36AAB7"
+			rewards: [{
+				id: "0B683A72078B66F0"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1BD538778B885AC7"
+				item: "immersiveengineering:thermoelectric_generator"
+				type: "item"
+			}]
+			title: "Doesn't get simpler than this"
+			x: 8.722108843537384d
+			y: 4.177891156462614d
+		}
+		{
+			dependencies: [
+				"163ECE113A4F686B"
+				"50FDF49B52314764"
+				"3DEB55D883E126E6"
+			]
+			description: ["The pulses of energy through this seem to be in a semi chaotic equilibrium. &cI can probably use this for better science kits"]
+			id: "244C2C768C2432AC"
+			rewards: [{
+				id: "6E243A73EA6C3ACB"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "71D6CEE4D7942D5B"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Basic Arcana Core"
+			x: -9.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"7483F87F4311A3CA"
+				"393955B19363A53C"
+			]
+			description: ["Gizmos, Gadgets, Whatchamacallits, and Thingamabobs"]
+			id: "69E02A020327EEA0"
+			rewards: [{
+				id: "071794DB7AA18FE3"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "07DE7C1EC2049333"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "A Thingamabob!"
+			x: 9.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"50FDF49B52314764"
+				"7483F87F4311A3CA"
+				"393955B19363A53C"
+				"3DEB55D883E126E6"
+			]
+			description: ["&cOpen air reactions will probably be too messy moving forwards. I need a way to tech more precise machinery.."]
+			id: "3D85B94ED8694280"
+			rewards: [{
+				id: "7058991F6F88046E"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "51C6D4EA7B251CDF"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Sometimes an empty thing is useful"
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["283B51981AAE92DC"]
+			description: ["These rods are burnt up during the operating of the &eArc Furnace&r, and can also be used as a projectile with the rail gun"]
+			id: "4A385D5A92592D0A"
+			rewards: [{
+				id: "01D5F87D1C4CD900"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				count: 3L
+				id: "0A3C719F32C12234"
+				item: {
+					Count: 1b
+					id: "immersiveengineering:graphite_electrode"
+					tag: {
+						graphDmg: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Oh wow that gets so bright- *bang*"
+			x: 10.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["004C5BBDCDBA33BA"]
+			description: ["A purified form of industrial coke, perfect for high temperature graphite electrodes"]
+			id: "283B51981AAE92DC"
+			rewards: [{
+				id: "6BF6D724BBC45B2D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4657972CCEBDFF43"
+				item: "immersiveengineering:dust_hop_graphite"
+				type: "item"
+			}]
+			title: "An absolute pain in the a-"
+			x: 10.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"3D85B94ED8694280"
+				"3DEB55D883E126E6"
+				"393955B19363A53C"
+			]
+			id: "7E9E38A2E9B28630"
+			rewards: [{
+				id: "498D8698A50D0E10"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5075FA17386E6064"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Crude Fluid Dynamics Test"
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7483F87F4311A3CA"]
+			description: ["This nifty components can weakly power itself off thermal differences, perfect to instantly destroy for science"]
+			id: "393955B19363A53C"
+			rewards: [{
+				id: "337F0E9D210F4C11"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6F04B78F21A37019"
+				type: "item"
+			}]
+			title: "Expensive Fidget Toy"
+			x: 1.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["50FDF49B52314764"]
+			description: ["&cWonder what running other flowers would yield..."]
+			id: "3DEB55D883E126E6"
+			rewards: [{
+				id: "040C5B00368CFAAE"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "093BF07C522D552D"
+				type: "item"
+			}]
+			title: "Floral Burning"
+			x: -1.0d
+			y: 10.0d
+		}
+		{
+			dependencies: [
+				"7E9E38A2E9B28630"
+				"3DEB55D883E126E6"
+				"393955B19363A53C"
+			]
+			id: "7C5EF41D53181AFB"
+			rewards: [{
+				id: "53B779D400157169"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5D18CB7C64CF4AF4"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Used Crude Fluid Dynamic Test"
+			x: 0.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["00252987E3B16C8F"]
+			description: [
+				"Still not enough storage? No worries you can store more with this accumulator."
+				""
+				"&6Note: Damage encoured by wires gets rather high at MV, consider insulating the wires"
+			]
+			icon: "immersiveengineering:capacitor_mv"
+			id: "2672B8CBD2F58BC7"
+			rewards: [{
+				id: "4A0BF12CC726C66F"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "358CFC8A88EF976A"
+					item: "immersiveengineering:wirecoil_electrum_ins"
+					type: "item"
+				}
+				{
+					id: "7F5FB07091E6113D"
+					item: "immersiveengineering:capacitor_mv"
+					type: "item"
+				}
+			]
+			title: "More Juice'"
+			x: 4.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2672B8CBD2F58BC7"]
+			description: ["Still not enough power?! HV might be needed, however be warned &cHV wires can not be insulated and can insta' kill you!&r A transformer might be a good saftey measure"]
+			icon: "immersiveengineering:capacitor_hv"
+			id: "3CB6EFD66F335C89"
+			rewards: [{
+				id: "200DAF1A00A986DD"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "799B8A35DE15FBC7"
+					item: "immersiveengineering:capacitor_hv"
+					type: "item"
+				}
+				{
+					id: "1D553909F40497F9"
+					item: "immersiveengineering:transformer_hv"
+					type: "item"
+				}
+			]
+			title: "This is a bit dangerous..."
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"21C63543DE36AAB7"
+				"3CB6EFD66F335C89"
+			]
+			description: ["This big hunk of machine can use diesel to make a nice 4,096FE/t. A single HV line can carry away said power"]
+			icon: "immersiveengineering:biodiesel_bucket"
+			id: "57C915CC52E428B6"
+			rewards: [{
+				id: "3C389092F83761DB"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 9L
+					id: "7BB97BEE40A98785"
+					item: "immersiveengineering:radiator"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "236889D85D3F468A"
+					item: "immersiveengineering:generator"
+					type: "item"
+				}
+				{
+					count: 13L
+					id: "5037B82BDF902153"
+					item: "immersiveengineering:heavy_engineering"
+					type: "item"
+				}
+				{
+					id: "67EEF112FCCB6944"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "04BA6DDBBE8843A4"
+					item: "immersiveengineering:steel_scaffolding_standard"
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "712A29F825C3C84B"
+					item: "immersiveengineering:fluid_pipe"
+					type: "item"
+				}
+			]
+			title: "Engine go brrrrrrrr"
+			x: 9.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["244C2C768C2432AC"]
+			description: [
+				"A more robust kit for testing the natural \"sciences\""
+				""
+				"&6Note: Yields from the crude version are boosted when using data from this test"
+			]
+			id: "0E2F79E22394F9E2"
+			rewards: [{
+				id: "6397115C4C3445CD"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2E14AD15CA6B3C49"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Basic Natural Arcana Test"
+			x: -8.5d
+			y: 9.0d
+		}
+		{
+			dependencies: [
+				"004C5BBDCDBA33BA"
+				"4A385D5A92592D0A"
+				"57C915CC52E428B6"
+				"01F2A64C70A46882"
+			]
+			description: ["This is it! The real big guns of immersive. With this you can now enjoy the wonderful &bx16 ore yield&r from the scaling tree as well as make new specialty materials"]
+			id: "418B5928BC9515CA"
+			rewards: [{
+				id: "4BB3D7FC87776BD9"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "470A32284EB31307"
+					item: "immersiveengineering:sheetmetal_steel"
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "4CED4EDD03960539"
+					item: "immersiveengineering:storage_steel"
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "4F364AA4BC3C6958"
+					item: "immersiveengineering:heavy_engineering"
+					type: "item"
+				}
+				{
+					id: "0D6516823BAB1815"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "0500692534FE45CC"
+					item: "immersiveengineering:light_engineering"
+					type: "item"
+				}
+				{
+					count: 27L
+					id: "214BA571C970C861"
+					item: "immersiveengineering:blastbrick_reinforced"
+					type: "item"
+				}
+				{
+					count: 14L
+					id: "2D9538069391A95B"
+					item: "immersiveengineering:slab_sheetmetal_steel"
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "1370B3C574B0328B"
+					item: "immersiveengineering:steel_scaffolding_standard"
+					type: "item"
+				}
+				{
+					id: "6D81F03DA0BD703C"
+					item: "minecraft:cauldron"
+					type: "item"
+				}
+			]
+			title: "The biggon'"
+			x: 10.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["69E02A020327EEA0"]
+			description: [
+				"More advanced materials to test and probably blow up somehow"
+				""
+				"&6Note: Yields from the crude version are boosted when using data from this test"
+			]
+			id: "026E4A3182733337"
+			rewards: [{
+				id: "5890BE70AAD0515C"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "280D1013C85717B0"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Basic Materials Properties Test"
+			x: 8.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7C5EF41D53181AFB"]
+			id: "27A9C9F48FFDB7EA"
+			rewards: [{
+				id: "71B750E18AF7AD66"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "019A0EA1483896C6"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Crude Hydrocarbon Chemistry Test"
+			x: -3.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["7C5EF41D53181AFB"]
+			id: "276300336054718E"
+			tasks: [{
+				id: "5B6B75CA5168C7B9"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Crude Polymer Chemistry Test"
+			x: 3.5d
+			y: 11.0d
 		}
 	]
 	subtitle: ["Machines greased with mana"]

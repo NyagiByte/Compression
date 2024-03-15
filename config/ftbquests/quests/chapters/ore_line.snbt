@@ -3205,7 +3205,10 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["55F62F8F0F606A69"]
+			dependencies: [
+				"55F62F8F0F606A69"
+				"0CA06BC53DA3167B"
+			]
 			description: [
 				"Drops 4 ores total from a pool of 8 options, requires at least a manasteel pickaxe to mine"
 				""
@@ -3289,7 +3292,11 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["301DE6C093EF12D1"]
+			dependencies: [
+				"301DE6C093EF12D1"
+				"418B5928BC9515CA"
+				"08CB5877D8F65C34"
+			]
 			description: [
 				"Blast them with heat and lye!"
 				""

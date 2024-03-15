@@ -210,6 +210,33 @@
 			x: 0.0d
 			y: 2.0d
 		}
+		{
+			description: [
+				"&6This tab is dedicated to players who showcase exceptional skill in speed, survivability, or unique problem solving. This tab is updated along side any major version releases or bug fix updates."
+				""
+				""
+				"&bTier 0 Golden Speedrun Record:"
+				""
+				"&cHardcore players beyond Tier 0:"
+				""
+				"&aGame breakers:"
+			]
+			icon: "nyagibits_bytes:golden_tier_zero_strawberry"
+			id: "37D731BB4473E8B8"
+			rewards: [{
+				id: "088D93CDD28FAB5E"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "26DD74BF61BFBAC0"
+				title: "Special Achivements"
+				type: "checkmark"
+			}]
+			title: "Special Achivements"
+			x: 0.0d
+			y: -2.0d
+		}
 	]
 	title: "&fWelcome to Compression!"
 }
