@@ -1,0 +1,58 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "ae2:quartz_glass"},
+    "loops": 1,
+    "results": [
+      {
+        "count": 2,
+        "item": "nyagibits_bytes:petri_dish_empty"
+    }
+    ],
+    "sequence": [
+        {
+            "type": "create:cutting",
+            "ingredients": [
+              {
+                "item": "ae2:quartz_glass"
+              }
+            ],
+            "results": [
+              {
+                "item": "ae2:quartz_glass"
+              }
+            ]
+          },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "ae2:quartz_glass"
+          }
+        ],
+        "results": [
+          {
+            "item": "ae2:quartz_glass"
+          }  
+        ]
+      },
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "ae2:quartz_glass"
+          },
+          {
+            "amount": 500,
+            "fluid": "minecraft:water",
+            "nbt": {}
+          }
+        ],
+        "results": [
+          {
+            "item": "ae2:quartz_glass"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "ae2:quartz_glass"}
+  }

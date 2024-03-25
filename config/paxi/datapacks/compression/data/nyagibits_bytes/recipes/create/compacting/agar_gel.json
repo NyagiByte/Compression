@@ -1,0 +1,25 @@
+{
+    "type": "create:compacting",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "minecraft:seagrass"
+      },
+      {
+        "item": "minecraft:kelp"
+      },
+      {
+        "amount": 250,
+        "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:agar_gel"
+      },
+      {
+        "amount": 200,
+        "fluid": "minecraft:water"
+      }
+    ]
+  }

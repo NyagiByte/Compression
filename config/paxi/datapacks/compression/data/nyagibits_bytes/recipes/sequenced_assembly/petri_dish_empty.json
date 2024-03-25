@@ -1,0 +1,58 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "minecraft:glass"},
+    "loops": 1,
+    "results": [
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:petri_dish_empty"
+    }
+    ],
+    "sequence": [
+        {
+            "type": "create:cutting",
+            "ingredients": [
+              {
+                "item": "minecraft:glass"
+              }
+            ],
+            "results": [
+              {
+                "item": "minecraft:glass"
+              }
+            ]
+          },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "minecraft:glass"
+          }
+        ],
+        "results": [
+          {
+            "item": "minecraft:glass"
+          }  
+        ]
+      },
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "minecraft:glass"
+          },
+          {
+            "amount": 500,
+            "fluid": "minecraft:water",
+            "nbt": {}
+          }
+        ],
+        "results": [
+          {
+            "item": "minecraft:glass"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "minecraft:glass"}
+  }

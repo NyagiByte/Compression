@@ -529,12 +529,20 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/p
 hash = "aba6e4775e94f2f845b350b5fc2b3dd0f6944207a90389849ad98437c49dcc5b"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/agar_gel.json"
+hash = "6b2098486bc41347820b99b029af86b09635ac6b42fb88a32ae11bc6280010ad"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/basic_composite_material.json"
 hash = "7a1c254fe4c00849644ec4775607f1141ee244b4ba1b825dd72789b728750b5f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/blank_blueprint.json"
 hash = "318163fafad37dedf057ab449f49f0dccb1610698488adf0891bbd45eb6c020d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/compacted_soil.json"
+hash = "d47b6e1612aab7037654411780042a80b355c4c7f1ed49bd504c4c2766316022"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/micro_tools.json"
@@ -573,12 +581,20 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/me
 hash = "7ce6a43d7fa8ef0eb670ddda2dd6ff838d6cd55a109ad0ae3350659c4b21a6fe"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/agar_powder.json"
+hash = "4405a94fe11c6afae9cbd9e53c4fafbc9261683dc4700f731e7c94c21a1f6704"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/ball_bearing.json"
 hash = "0f99f1ec9464968d84c23f568127b2f01370513f4e79d1d3963e5ddd38cbd1bf"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/torn_wool_ball.json"
 hash = "d58fde63485e3c92c4775130b7d64edeb40c18ff16325fed033ba4a40b94f408"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/agar_agar.json"
+hash = "84cc0126310c1010946b84204c9dd45fb3a8ee98b93d3758f67910e7e95e174e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/bottle_of_anthocyanin.json"
@@ -683,6 +699,10 @@ hash = "6a07ac15fec121bed8ba90ea0cfd294e63488493f6c56515ddb7a18fb5f268e5"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/used_crude_statics_test.json"
 hash = "be2a2cf14d5fefc5ac3f7db6e1bf7f5e103a0e40e6b4bafbb186dcd028fa58fc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/smoking/agar_flakes.json"
+hash = "43c7309b5e9461cdd8c57f6ec2c9752de9222bce3e50a0cae76cc8ca28fe2e82"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create_milling/torn_wool_ball.json"
@@ -1941,6 +1961,14 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/sequenced
 hash = "9aa60cb608657e6e95f5b5e5940b86fb45712fcd92e7f5bb067f4bbcdcfc187e"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/sequenced_assembly/petri_dish_empty.json"
+hash = "feda91026f28dc12eb2863b007e8f29d1bf38104904c14e8c3f45ad5ad2cbb75"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/sequenced_assembly/petri_dish_empty_t1.json"
+hash = "0ce3fb4a07e89142027cd1ce404abe55a4a194a7686101b5a63bee58a86dab2f"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assemblies/ae_assembly.json"
 hash = "0ef32aaa6b0b5c12eed2381200090a5b782f33486d27cebc4f1d386e34872787"
 
@@ -2015,6 +2043,10 @@ hash = "a001da93410b4aa75c04e290c3d80fbf6411a65da22a6c859d2f270bf40631d8"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/science_components/sturdy_box.json"
 hash = "89d2f8ece8fdf8b786ae81f106d37cb2bfc5003efd92d6e25af85b5581911cb5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/tough_bag.json"
+hash = "1a141e3bc83f85b5dc8c87cbffe341c017cf8fe3dbb8dada10acff71819bc033"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/bucket_of_salt_water.json"
@@ -2960,7 +2992,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "e19fcca5ccd9871d276aa271384b448e000dd8329a02f621da53622306f325f2"
+hash = "bbdd36010287a0881aa8e49542965a4af4a82dea30a31cce8b6bbcfe2e4c8a2b"
 
 [[files]]
 file = "mods/oculus.pw.toml"

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "cookingtime": 100,
+    "experience": 0.0,
+    "ingredient": {
+      "item": "nyagibits_bytes:agar_gel"
+    },
+    "result": "nyagibits_bytes:agar_flakes"
+  }

@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:agar_flakes"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      }
+    ]
+  }
