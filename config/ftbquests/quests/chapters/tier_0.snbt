@@ -413,7 +413,11 @@
 		}
 		{
 			dependencies: ["64859B912D563011"]
-			description: ["A pouch of nature stuff and some mixed soil, question remains if this mod is magic or tech.."]
+			description: [
+				"A pouch of nature stuff and some mixed soil, question remains if this mod is magic or tech.."
+				""
+				"&bSide note: Living root &6(item)&b comes from Living root &a(block) &b-&6 Check pure daisy recipes"
+			]
 			id: "63572758F873D9AA"
 			rewards: [{
 				id: "161EA3C333F661CB"

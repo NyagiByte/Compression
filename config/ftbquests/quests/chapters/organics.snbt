@@ -23,7 +23,7 @@
 				type: "item"
 			}]
 			title: "The.. Fruit? Vegetable?"
-			x: -5.0d
+			x: -6.0d
 			y: -1.5d
 		}
 		{
@@ -41,7 +41,7 @@
 				type: "item"
 			}]
 			title: "The big ball of green"
-			x: -4.0d
+			x: -5.0d
 			y: -1.5d
 		}
 		{
@@ -88,7 +88,7 @@
 				type: "item"
 			}]
 			title: "A bundle of twigs"
-			x: -3.0d
+			x: -4.0d
 			y: -1.5d
 		}
 		{
@@ -137,6 +137,109 @@
 			x: 4.0d
 			y: -2.5d
 		}
+		{
+			description: ["Simple enough to cultivate, just smack it with some bonemeal"]
+			id: "33C1A63A2EBA973D"
+			rewards: [{
+				id: "2FAD383C6B08ECA8"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1C00DAE6B2BFB458"
+				item: "minecraft:seagrass"
+				type: "item"
+			}]
+			title: "Turtle food"
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			description: ["It's like seagrass but much taller. Very important for multiple production lines, highly recommended you get this automated as soon as possible"]
+			id: "404A88584CA083D4"
+			rewards: [{
+				id: "78D5D0B645AA7C0E"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0475A8BF9DB6C7FD"
+				item: "minecraft:kelp"
+				type: "item"
+			}]
+			title: "Does it come in diet tho?"
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			description: ["Horribly annoying to automate early on but absolutely crucial for pens"]
+			id: "7AA6F59FEA1AF7B2"
+			rewards: [{
+				id: "3893069F9330803E"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6D561E4AF91FE304"
+				item: "minecraft:ink_sac"
+				type: "item"
+			}]
+			title: "Tastes good on pasta"
+			x: -5.0d
+			y: 3.5d
+		}
+		{
+			description: ["Leather! While somewhat annoying early game is very important for multiple items. Get that farm going"]
+			id: "34B64FEF04CB584D"
+			rewards: [{
+				id: "147AFEC6D321278C"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "57AA74025B38C9BA"
+				item: "minecraft:leather"
+				type: "item"
+			}]
+			title: "I have so much beef left over.."
+			x: -6.0d
+			y: 3.5d
+		}
+		{
+			description: ["String has many sources some of which entirely avoid interacting with mobs. It's only down here because the top row already has too much"]
+			id: "4DC6F1A0241AA002"
+			rewards: [{
+				id: "4B0750F421BB0BE8"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1F9BCC4155B441BE"
+				item: "minecraft:string"
+				type: "item"
+			}]
+			title: "All tied up"
+			x: -4.0d
+			y: 3.5d
+		}
+		{
+			description: ["Block 'o Wool. You already know the deal here get some shears"]
+			id: "700DE235CD7B7063"
+			rewards: [{
+				id: "39704C8C383ABDD6"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5AF3EC1875FF2393"
+				item: "minecraft:white_wool"
+				type: "item"
+			}]
+			title: "A wolf in.. how do I wear this"
+			x: -3.0d
+			y: 3.5d
+		}
 	]
+	subtitle: ["I've been farming for 100 hours"]
 	title: " &aOrganics"
 }

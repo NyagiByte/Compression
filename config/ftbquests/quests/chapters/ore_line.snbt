@@ -3481,5 +3481,6 @@
 			y: -4.0d
 		}
 	]
+	subtitle: ["I am a dwarf and I'm digging a hole"]
 	title: " &aOre Line"
 }

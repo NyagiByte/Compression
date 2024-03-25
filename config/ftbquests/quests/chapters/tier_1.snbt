@@ -62,7 +62,7 @@
 			dependencies: ["472213B0CD3A8117"]
 			description: ["En massa levande material som visas i figur sju b. Vänligen sjunga ritualen som beskrivs i avsnitt fem"]
 			hide: true
-			icon: "ftbquests:missing_item"
+			icon: "nyagibits_bytes:botania_assembly"
 			id: "37FAB0261BCDF974"
 			rewards: [{
 				id: "4113AEC4591708F3"
@@ -70,11 +70,6 @@
 				type: "item"
 			}]
 			tasks: [
-				{
-					id: "28E017DCBFE6C6A7"
-					item: "ftbquests:missing_item"
-					type: "item"
-				}
 				{
 					id: "481A203D7947955D"
 					item: {
@@ -86,6 +81,11 @@
 						}
 					}
 					match_nbt: false
+					type: "item"
+				}
+				{
+					id: "213422C384DD6A55"
+					item: "nyagibits_bytes:botania_assembly"
 					type: "item"
 				}
 			]

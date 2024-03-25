@@ -62,27 +62,27 @@ hash = "6dee5a071304fc1ed4480b0f1dba296099a49094bc88dedf406a652d35258135"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "6b5947cdd9384a0e708fd0621364b4d50a9a538c1e8d86b852ed27b2aa2b399c"
+hash = "cb96ea7d2a678fbe0a9a13c49175f3b73137abcdf7e018d659132b57bae2d342"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"
-hash = "a5bbaeb3a7cec5d008ea159f8e77e986a43c6a549f648fb7046498587d25d532"
+hash = "f40935b1ff1c57f48e71246ed70b5e08caa0f1806a7b804379a79d251a8f23fc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/proficiency.snbt"
-hash = "d2c2193bdbf946186228b0caef606a95074447974a27f900f4b1e063a3e4de3b"
+hash = "cdf9b6c9569208dc1c0a0d23492d9cbaf831741d651e9532eaca9021e8913218"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
-hash = "5936ff6ba7e0ab1cae276ec5906d029ae983920e2bd7e8f54ccca4c284960c58"
+hash = "465c4a2c6de1b74db0e4e28948be1975f95784bec6bbfe0b1a58b4fb1bedf92e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
-hash = "720490a7e19a97716788ac1efd9df74d9811333c272c0cefdcf59b50779a60cb"
+hash = "440e4b5501f1840861e9c539071b88eb9c5396def5b81f4acfed57947ad51ef4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "ebdd3c9e2a25c333680015c2811253d2a52b1336d8a30996f4b730db9fd0cd97"
+hash = "6320bf94fb0fd0edd641569721c6ba094e90e03ab000c8c3c7ec9a26e958941f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
