@@ -1,0 +1,77 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "nyagibits_bytes:tough_bag"},
+    "loops": 2,
+    "results": [
+      {
+        "item": "nyagibits_bytes:soil_conditioner"
+    }
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:tough_bag"
+          },
+          {
+            "item": "mekanism:sawdust"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:tough_bag"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:tough_bag"
+          },
+          {
+            "item": "mekanism:dust_charcoal"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:tough_bag"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:tough_bag"
+          },
+          {
+            "item": "minecraft:clay_ball"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:tough_bag"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:tough_bag"
+          },
+          {
+            "item": "minecraft:bone_meal"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:tough_bag"
+            }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:tough_bag"}
+  }

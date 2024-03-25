@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "nyagibits_bytes:compacted_soil"
+        },
+        {
+            "item": "chemlib:fluorine"
+        },
+        {
+            "item": "chemlib:potassium_cyanide_dust"
+        },
+        {
+            "item": "chemlib:calcium_hydroxide"
+        },
+        {
+            "item": "chemlib:diammonium_phosphate"
+        }
+    ],
+    "result": {
+        "item": "nyagibits_bytes:semi_organic_substrate"
+    }
+}

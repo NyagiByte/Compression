@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "thermal:cured_rubber"
+      },
+      {
+        "item": "chemlib:ammonium_chloride"
+      },
+      {
+        "amount": 250,
+        "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:sealant"
+      }
+    ]
+  }

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "nyagibits_bytes:petri_dish_empty"
+        },
+        {
+            "item": "nyagibits_bytes:agar_agar"
+        }
+    ],
+    "result": {
+        "item": "nyagibits_bytes:petri_dish_agar_agar"
+    }
+}

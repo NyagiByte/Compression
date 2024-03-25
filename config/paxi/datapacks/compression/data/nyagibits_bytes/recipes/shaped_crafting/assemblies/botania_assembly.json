@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:semi_organic_substrate"},
+      "B": {"item":"nyagibits_bytes:magnetic_hematite"},
+      "C": {"item":"nyagibits_bytes:sealant"},
+      "D": {"item":"nyagibits_bytes:mystic_fertilizer"},
+      "E": {"item":"create:brass_casing"},
+      "F": {"item":"nyagibits_bytes:terrarium"},
+      "G": {"item":"nyagibits_bytes:soil_conditioner"},
+      "H": {"item":"nyagibits_bytes:living_frame"},
+      "I": {"item":"nyagibits_bytes:organic_pseudo_logic"}
+    },
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:botania_assembly"
+    }
+  }

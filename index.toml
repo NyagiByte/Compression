@@ -521,6 +521,10 @@ file = "config/paxi/datapacks/compression/data/minecraft/recipes/piston.json"
 hash = "19d0d982981bf754fdb24671b45121e642bdacc5080c109df9317e68824f257b"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/petal_apothecary/organic_pseudo_logic.json"
+hash = "8a58c4ce1f02f9514955420d9f822a7b7d7a01fa72cee9028bed4cb1e385d9c1"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/petal_apothecary/used_crude_natural_arcana_test.json"
 hash = "3ce58a594344fb287f4358423bd029b58543eded7d9d9d0cf40b4efafe0e9011"
 
@@ -613,6 +617,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "6fd592b16c1eace8abd5c3adf45314384316891f6f1ef8c0bf817f99456e8ddf"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/sealant.json"
+hash = "16d2d233a4fbe2f2a8943267900a6e8ff7bd67b181f6eb34b89443a493907e87"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/soil_sample.json"
 hash = "ed777d2c5bfffe12125458762dc90ea8e7d7757aef1c5f8e3fa8c67b3acfdbaf"
 
@@ -681,12 +689,28 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/se
 hash = "9aa60cb608657e6e95f5b5e5940b86fb45712fcd92e7f5bb067f4bbcdcfc187e"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/mystic_fertilizer.json"
+hash = "cc118078e5c102aad8a0deaf989a7ab7e37e3fca97038a1abd1b20efdf6527fd"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/pen.json"
 hash = "dec9f236c1683e74820b99ed59d8f6bf7a4d3c5facdf02a6ee3d7dc729ea7ac9"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/petri_dish_empty.json"
+hash = "feda91026f28dc12eb2863b007e8f29d1bf38104904c14e8c3f45ad5ad2cbb75"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/petri_dish_empty_t1.json"
+hash = "0ce3fb4a07e89142027cd1ce404abe55a4a194a7686101b5a63bee58a86dab2f"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/skystone_shielding.json"
 hash = "cccf413f110fd2f3cb42b08380050c7cb0a335b511328f2ec5b93b53bf5bb1cc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/soil_conditioner.json"
+hash = "6149602d3dbf9fe2c7206f343147329c50a9b0f241ecffb2f760b450b37b1b91"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/tiny_spring.json"
@@ -1969,8 +1993,20 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/sequenced
 hash = "0ce3fb4a07e89142027cd1ce404abe55a4a194a7686101b5a63bee58a86dab2f"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assemblies/ae_assembly.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assemblies/ae2_assembly.json"
 hash = "0ef32aaa6b0b5c12eed2381200090a5b782f33486d27cebc4f1d386e34872787"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assemblies/botania_assembly.json"
+hash = "f0afe0315043cecab8fec7468697f88421fe78891ba8d1217c01373cd1871e17"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assembly_components/living_frame.json"
+hash = "dcaf53d05ee365283038470a4abc595b52d3d543166fa258aea5cf890e036cf1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assembly_components/terrarium.json"
+hash = "e3270ecd2e491fb80396e0c8922083438bb996d49e6df125bc721b19cbef8b7f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/crude_kits/tier_zero/crude_acidics_test.json"
@@ -2061,12 +2097,24 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless
 hash = "6a498214dd2141133cb378097f0c5dcbb1a291de20e608904e06c4407ad1dfa3"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/magnetic_hematite.json"
+hash = "6e409ac4fde228b44209310c108fc27d0b97e2e2a23e3fdb34c64e0739889d2e"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/pen_assembly.json"
 hash = "1e2dd01c535101247be954a3062a054944316c62c0ec599699a92dc3585205b1"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/petri_dish_agar_agar.json"
+hash = "cfcbd05ac1057d200ce72816a578b07c3e647215fd48a0bd6f0f49497d2efefc"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/pile_of_cogs.json"
 hash = "3aa4e1e099a62c30e1e6ce06593833b8415a982928d9c59dba8058fd5e2cce2a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/semi_organic_substrate.json"
+hash = "56128638c2ee13a4c460189e96c23de6e79501a6812b893010988630c53fe088"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/quark/recipes/building/crafting/iron_plate.json"

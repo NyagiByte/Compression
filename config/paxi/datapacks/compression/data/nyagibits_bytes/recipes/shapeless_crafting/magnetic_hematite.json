@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "nyagibits_bytes:raw_hematite"
+        },
+        {
+            "item": "nyagibits_bytes:used_crude_statics_test"
+        },
+        {
+            "item": "minecraft:glass_bottle"
+        }
+    ],
+    "result": {
+        "item": "nyagibits_bytes:magnetic_hematite"
+    }
+}

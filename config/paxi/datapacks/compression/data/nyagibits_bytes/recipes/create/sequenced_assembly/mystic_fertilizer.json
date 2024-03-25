@@ -1,0 +1,77 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "nyagibits_bytes:tough_bag"},
+    "loops": 2,
+    "results": [
+      {
+        "item": "nyagibits_bytes:mystic_fertilizer"
+    }
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:tough_bag"
+          },
+          {
+            "item": "minecraft:bone_meal"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:tough_bag"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:tough_bag"
+          },
+          {
+            "item": "botania:fertilizer"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:tough_bag"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:tough_bag"
+          },
+          {
+            "item": "botania:living_root"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:tough_bag"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:tough_bag"
+          },
+          {
+            "item": "nyagibits_bytes:agar_powder"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:tough_bag"
+            }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:tough_bag"}
+  }
