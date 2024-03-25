@@ -2009,6 +2009,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_cr
 hash = "e3270ecd2e491fb80396e0c8922083438bb996d49e6df125bc721b19cbef8b7f"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assembly_components/tough_bag.json"
+hash = "1a141e3bc83f85b5dc8c87cbffe341c017cf8fe3dbb8dada10acff71819bc033"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/crude_kits/tier_zero/crude_acidics_test.json"
 hash = "557b70e5af5dd918c9580ae02e2c17d11409e62722bd2c559e4ff7f3f71bdc04"
 
