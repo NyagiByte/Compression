@@ -1,0 +1,10 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {"item": "botania:mana_pool"}
+    ],
+    "processingTime": 200,
+    "results": [
+      {"count": 2, "item": "botania:diluted_pool"}
+    ]
+  }

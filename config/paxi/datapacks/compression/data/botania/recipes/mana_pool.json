@@ -1,0 +1,27 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "nyagibits_bytes:botania_assembly"
+      },
+      {
+        "item": "botania:cracked_livingrock_bricks"
+      },
+      {
+        "item": "botania:chiseled_livingrock_bricks"
+      },
+      {
+        "item": "botania:mossy_livingrock_bricks"
+      }
+    ],
+    "output": {
+      "count": 2,
+      "item": "botania:mana_pool"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }
