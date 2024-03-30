@@ -317,8 +317,16 @@ file = "config/paxi/datapacks/compression/data/aiotbotania/recipes/livingrock_ai
 hash = "d8d53485fec7e88d50b760e09030e450d2897f4efd97cdc2fa39af06f2566c78"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/alchemy_catalyst.json"
+hash = "3e5ad14ffc91fb226bfbf7101007014c0ad4559fe4b6f62456575108021fc62c"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/apothecary_default.json"
 hash = "62d6a76eda60625d6776bad535e5be4bcd5b72c3af5ec0ee328ed57131997faf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/diluted_pool.json"
+hash = "bc852a361e89709e78764508d4958baabc2348c84624c3f60dedb561d7c9827f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/framed_livingwood.json"
@@ -341,8 +349,24 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/livingwood_twig.j
 hash = "2990537b971d12fc695cab75650097355af909c4911e69dc6337ee4117aabf2d"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/mana_infusion/manasteel.json"
+hash = "45041fc585b90b3f05ba22cad89344e302c474582a5293f48a8f6c1b760cb5ee"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/mana_pool.json"
+hash = "f5b360a1916ceb76e946582ee3a28583d2317e21020304b03a954f5ae9cd8caf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/mana_spreader.json"
+hash = "914c7ecacc9c3a615a104b4bd018941079a4f02d42688e352e70cd71a8b5c619"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/pattern_framed_livingwood.json"
 hash = "cb7f72996014b474ff7feb834500fd501194459a5005258347b930bd23656741"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/endoflame.json"
+hash = "fb4d4662cc9905d5f3e6a47cf9cd2e492e446febef9b93b6e64dbc5eb6bb80f5"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/polished_livingrock.json"
@@ -355,6 +379,14 @@ hash = "c0890103bdc8e89367d5958ec6a7e432af739b5e832580c6735d508c93da0cd9"
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/pure_daisy/root.json"
 hash = "ce91ce0ade32aad6b265677a6ce720fbb2a2a272a5beaa2079b67ce12f87172c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar.json"
+hash = "9e43d5e45b8f0aa1607731da898803c5fb457d81aff98cb43278439ae3e3831a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar_alt.json"
+hash = "e40c53007dcfd0c22f45676c6bcc76a5d0df948de6f43bb512aa9d3e45fedb09"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/basin.json"
@@ -3072,7 +3104,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "bbdd36010287a0881aa8e49542965a4af4a82dea30a31cce8b6bbcfe2e4c8a2b"
+hash = "98a28a9b2e5ce1b0571fbfde1e4400d33d3881b8825613440a7f589fc73853ef"
 
 [[files]]
 file = "mods/oculus.pw.toml"

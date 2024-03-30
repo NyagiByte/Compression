@@ -1,0 +1,35 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "nyagibits_bytes:botania_assembly"
+      },
+      {
+        "item": "botania:lens_normal"
+      },
+      {
+        "item": "botania:mana_pearl"
+      },
+      {
+        "item": "botania:polished_livingrock_wall"
+      },
+      {
+        "item": "botania:polished_livingrock_wall"
+      },
+      {
+        "item": "botania:livingrock_bricks_stairs"
+      },
+      {
+        "item": "botania:livingrock_bricks_stairs"
+      }
+    ],
+    "output": {
+      "item": "botania:runic_altar"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

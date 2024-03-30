@@ -1,0 +1,10 @@
+{
+    "type": "botania:mana_infusion",
+    "input": {
+      "item": "nyagibits_bytes:sponged_steel"
+    },
+    "mana": 3000,
+    "output": {
+      "item": "botania:manasteel_ingot"
+    }
+  }
