@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"minecraft:smooth_stone"},
+    "B": {"item":"thermal:saw_blade"}
+  },
+  "pattern": [
+    " B ",
+    "AAA"
+  ],
+  "result": {
+    "item": "minecraft:stonecutter"
+  }
+}

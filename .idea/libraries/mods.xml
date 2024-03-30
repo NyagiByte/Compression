@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="mods">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mods/Create-Construction-Wands.zip!/" />
+      <root url="jar://$PROJECT_DIR$/mods/compressiontweaks-1.19.2-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/nyagibits_bytes-0.0.2-1.19.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/3dskinlayers-forge-1.5.2-mc1.19.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
