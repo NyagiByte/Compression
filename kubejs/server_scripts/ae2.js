@@ -190,7 +190,7 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:clip'});
         e.remove({output: 'botania:horn_grass'});
         e.remove({output: 'botania:horn_leaves'});
-        e.remove({output: 'botania:horn_snow});
+        e.remove({output: 'botania:horn_snow'});
         e.remove({output: 'botania:vine_ball'});
         e.remove({output: 'botania:slingshot'});
         e.remove({output: 'botania:open_bucket'});

@@ -21,6 +21,10 @@ file = ".idea/vcs.xml"
 hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
+file = ".idea/workspace.xml"
+hash = "1079a9898847969b78c8a7b3bc611c640bd61bf0635feb39cdd4e497d9efd82b"
+
+[[files]]
 file = "README.md"
 hash = "615921c08e8e7b4b74245ac1fc5fd24918a34e74e39ae62ce8ade21b8a0e03de"
 
@@ -2674,7 +2678,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/ae2.js"
-hash = "27f3869d5de7bb9c27afcf445ed07fa7dc17350c7235e2bf6991654cb354147a"
+hash = "0fe130b2e084cf47e71ee263d07d3fcc2449099b202751f361a63607915d74f1"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
