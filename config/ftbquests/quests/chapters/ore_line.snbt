@@ -3456,10 +3456,7 @@
 			y: -3.0d
 		}
 		{
-			dependencies: [
-				"510C4A6E6F1259B5"
-				"256F108BD683D592"
-			]
+			dependencies: ["256F108BD683D592"]
 			description: [
 				"A nice chemical polishing agent to really make those gemstones glimmer"
 				""
@@ -3477,8 +3474,8 @@
 				type: "item"
 			}]
 			title: "Today on Myth Busters, Can you polish a turd"
-			x: 9.5d
-			y: -4.0d
+			x: 20.0d
+			y: 3.0d
 		}
 	]
 	subtitle: ["I am a dwarf and I'm digging a hole"]

@@ -59,7 +59,10 @@
 			y: -1.5d
 		}
 		{
-			dependencies: ["472213B0CD3A8117"]
+			dependencies: [
+				"472213B0CD3A8117"
+				"256F108BD683D592"
+			]
 			description: ["En massa levande material som visas i figur sju b. Vänligen sjunga ritualen som beskrivs i avsnitt fem"]
 			hide: true
 			icon: "nyagibits_bytes:botania_assembly"
@@ -243,8 +246,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "63DC2375D69CF17C"
-				item: "ftbquests:missing_item"
+				id: "5B0652C821FECBE2"
+				item: "nyagibits_bytes:sponged_steel"
 				type: "item"
 			}]
 			title: "It doesn't live in a pineapple under the sea"
@@ -414,8 +417,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "7E62C758A9456F9A"
-				item: "ftbquests:missing_item"
+				id: "31985763ADC7D38D"
+				item: "nyagibits_bytes:sodium_polyacrylate"
 				type: "item"
 			}]
 			title: "Placeholder - Sodium Polyacrylate"
@@ -474,11 +477,11 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "6842E7C9DD238D26"
-				item: "ftbquests:missing_item"
+				id: "2CC72E83254E8F59"
+				item: "nyagibits_bytes:rune_binder"
 				type: "item"
 			}]
-			title: "Placeholder - Rune Binder"
+			title: "Somehow not sticky!"
 			x: -4.5d
 			y: 4.0d
 		}
@@ -505,11 +508,7 @@
 				"639B2FF66B0FB1B4"
 				"4A052E691A3B799A"
 			]
-			description: [
-				"Yippie we can finally make runes!"
-				""
-				"&6Note: In Compression, instead of living rock, the finishing item will be &erune binder &6not living rock"
-			]
+			description: ["Yippie we can finally make runes!"]
 			id: "68300CAEDAC23F73"
 			rewards: [{
 				id: "220AC79DF3F62F28"
@@ -555,8 +554,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "4D6D49BB10ECE0D9"
-				item: "ftbquests:missing_item"
+				id: "56C70C5C9525DB9F"
+				item: "nyagibits_bytes:manasteel_lattice"
 				type: "item"
 			}]
 			title: "Tic-Tac-Toe"
@@ -584,17 +583,25 @@
 		{
 			dependencies: ["68300CAEDAC23F73"]
 			description: ["An interesting flower able to chemically alter any stone placed near it. The new resulting types probably have good uses"]
+			icon: "botania:marimorphosis"
 			id: "28208E9BB8763E5C"
 			rewards: [{
 				id: "51359EE04BC11E9D"
 				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
-			tasks: [{
-				id: "71EC2B0FE11DA886"
-				item: "botania:marimorphosis"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "71EC2B0FE11DA886"
+					item: "botania:marimorphosis"
+					type: "item"
+				}
+				{
+					id: "0E3D4AEB7765E86F"
+					item: "minecraft:stone"
+					type: "item"
+				}
+			]
 			title: "Wonder if this flower enjoys rock"
 			x: -8.0d
 			y: 5.0d
@@ -825,6 +832,11 @@
 			]
 			description: ["Steel is a wonderful material as the ratio between added elements can dramatically alter the properties of it. A few flavors of steel should be made to strengthen machines further "]
 			id: "5B109E7F50E8EBC2"
+			rewards: [{
+				id: "31438F6C4A5D6D64"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1DBD08C3FBB05BFB"
 				item: "ftbquests:missing_item"
@@ -1316,8 +1328,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "73AE95BB3DB01B0C"
-				item: "ftbquests:missing_item"
+				id: "698BCD79F222A825"
+				item: "nyagibits_bytes:endoflame_mush"
 				type: "item"
 			}]
 			title: "Decay?!"
@@ -1350,7 +1362,9 @@
 			dependencies: [
 				"163ECE113A4F686B"
 				"52D6A6706C04ED84"
+				"6DF5980B895DEEC2"
 			]
+			description: ["As it turns out the rocks themselves seem to push themselves off the ground treating the object as a whole as an arcane magnet. Probably quite useful"]
 			id: "45E43BF51EC35414"
 			rewards: [{
 				id: "0563FB5894126DC1"
@@ -1362,6 +1376,7 @@
 				item: "botania:mana_pylon"
 				type: "item"
 			}]
+			title: "Floating Funny FMetal"
 			x: -9.0d
 			y: 1.0d
 		}
@@ -1532,8 +1547,8 @@
 				type: "item"
 			}]
 			title: "An absolute pain in the a-"
-			x: 10.5d
-			y: 1.0d
+			x: 8.725850340136049d
+			y: 2.9639455782312893d
 		}
 		{
 			dependencies: [
@@ -1722,7 +1737,10 @@
 			y: 5.0d
 		}
 		{
-			dependencies: ["244C2C768C2432AC"]
+			dependencies: [
+				"244C2C768C2432AC"
+				"36D7F43B1E51F721"
+			]
 			description: [
 				"A more robust kit for testing the natural \"sciences\""
 				""
@@ -1748,7 +1766,6 @@
 				"004C5BBDCDBA33BA"
 				"4A385D5A92592D0A"
 				"57C915CC52E428B6"
-				"01F2A64C70A46882"
 			]
 			description: ["This is it! The real big guns of immersive. With this you can now enjoy the wonderful &bx16 ore yield&r from the scaling tree as well as make new specialty materials"]
 			id: "418B5928BC9515CA"
@@ -1812,8 +1829,8 @@
 				}
 			]
 			title: "The biggon'"
-			x: 10.0d
-			y: 3.5d
+			x: 10.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["69E02A020327EEA0"]
@@ -1857,6 +1874,11 @@
 		{
 			dependencies: ["7C5EF41D53181AFB"]
 			id: "276300336054718E"
+			rewards: [{
+				id: "3B66F61DF7CB6819"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5B6B75CA5168C7B9"
 				item: "ftbquests:missing_item"
@@ -1865,6 +1887,479 @@
 			title: "Crude Polymer Chemistry Test"
 			x: 3.5d
 			y: 11.0d
+		}
+		{
+			dependencies: ["57C915CC52E428B6"]
+			description: ["Taking a sample of ground lets you determin which harder to access materials are present, allowing for less guesswork in excavator installations"]
+			id: "76CD51F5EE2F47AC"
+			rewards: [{
+				id: "2FF66D3D46253C90"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "00E28D583BD8798D"
+				item: "immersiveengineering:sample_drill"
+				type: "item"
+			}]
+			title: "Sampling the world"
+			x: 11.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"76CD51F5EE2F47AC"
+				"418B5928BC9515CA"
+			]
+			description: ["This large 2 part machine is able to scoop incredibly high volumes of earth for a high energy cost. This allows for the extraction of \"rare earth\" elements, which arn't actually very rare, just very spread across the crust. &6You may even find unique resource sources"]
+			id: "1955E60B51E911ED"
+			rewards: [{
+				id: "5A0334038A223C69"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "177485CAFFF828F2"
+					item: "immersiveengineering:sheetmetal_steel"
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "154D608913DB6375"
+					item: "immersiveengineering:radiator"
+					type: "item"
+				}
+				{
+					count: 9L
+					id: "23502814A58A5BAF"
+					item: "immersiveengineering:light_engineering"
+					type: "item"
+				}
+				{
+					id: "3DDA88B17C41B32D"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "04A2F5672C9DAB7B"
+					item: "immersiveengineering:heavy_engineering"
+					type: "item"
+				}
+				{
+					count: 26L
+					id: "5BE928085420DAB5"
+					item: "immersiveengineering:steel_scaffolding_standard"
+					type: "item"
+				}
+				{
+					count: 9L
+					id: "0770681D54BDF20A"
+					item: "immersiveengineering:storage_steel"
+					type: "item"
+				}
+			]
+			title: "Drill Baby Drill"
+			x: 12.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["28208E9BB8763E5C"]
+			description: ["I wonder what happens with other lithic-type materials interact with this flower.."]
+			id: "6DF5980B895DEEC2"
+			rewards: [{
+				id: "4ED85DDAD3CBD347"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "535A047810FBC586"
+					item: "minecraft:andesite"
+					type: "item"
+				}
+				{
+					id: "64C97E6D08CFEADA"
+					item: "minecraft:granite"
+					type: "item"
+				}
+				{
+					id: "52B34182DCF8BEB3"
+					item: "minecraft:diorite"
+					type: "item"
+				}
+				{
+					id: "78BCB739569DA09A"
+					item: "minecraft:deepslate"
+					type: "item"
+				}
+				{
+					id: "4B1E72307C1F311D"
+					item: "minecraft:calcite"
+					type: "item"
+				}
+				{
+					id: "650F416CD7015BEE"
+					item: "minecraft:tuff"
+					type: "item"
+				}
+				{
+					id: "3E79180CDBB24634"
+					item: "minecraft:dripstone_block"
+					type: "item"
+				}
+				{
+					id: "1220EDD84E16C4F9"
+					item: "minecraft:netherrack"
+					type: "item"
+				}
+			]
+			title: "Exomorphosis"
+			x: -10.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"6DF5980B895DEEC2"
+				"45E43BF51EC35414"
+				"2AC05C5C4441E035"
+			]
+			id: "681E32095BFCA886"
+			rewards: [{
+				id: "6DE789ACC5A0AA79"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "330F4923DB14471A"
+				item: "botania:black_floating_flower"
+				type: "item"
+			}]
+			title: "Look! I'm Floatin'!"
+			x: -10.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"76CD51F5EE2F47AC"
+				"0096F28CB0BC9933"
+			]
+			id: "7175C712B2A94D90"
+			rewards: [{
+				id: "1976019D4B1F9C55"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4705683F1A643AA6"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Crude Geology Test"
+			x: 11.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["026E4A3182733337"]
+			id: "0096F28CB0BC9933"
+			rewards: [{
+				id: "649909C58F70E62A"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "493FD9C7A246AF81"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Used Basic Material Properties Test"
+			x: 8.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["0E2F79E22394F9E2"]
+			id: "06B6BFB0D1106B34"
+			rewards: [{
+				id: "5FA5AFF58A29E84D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "34247D1B245047DA"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Used Basic Natural Arcana Test"
+			x: -8.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["27A9C9F48FFDB7EA"]
+			id: "56496F9343BD6021"
+			rewards: [{
+				id: "0BC1FADCAD8F161D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "46EE63CEDEC23C28"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Used Crude Hydrocarbon Chemistry Test"
+			x: -4.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["276300336054718E"]
+			id: "38486B956BEE4D84"
+			rewards: [{
+				id: "41CFAC02DDEFB80D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "00C38C1FB0EB48A9"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Used Crude Polymer Chemistry Test"
+			x: 4.5d
+			y: 10.5d
+		}
+		{
+			dependencies: [
+				"2D9751C9547372D3"
+				"6C4D86C7A06F3BD4"
+				"7AEA117AE047A311"
+				"6657035C06A91C38"
+				"4ADFC2717D02EB20"
+			]
+			id: "43BF36460BEA05DE"
+			rewards: [{
+				id: "5DE7D83CF3A957F0"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "4DA887E3EF34B6C2"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Pneumatic Schematic"
+			x: 0.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["7C5EF41D53181AFB"]
+			id: "2D9751C9547372D3"
+			rewards: [{
+				id: "7260EB668A181C11"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "71B97A1D17D6CE47"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Lab Notebook With Crude Fluid Dynamics Data"
+			x: 0.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["38486B956BEE4D84"]
+			id: "6C4D86C7A06F3BD4"
+			rewards: [{
+				id: "56A0336A8439F33D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2649E91F3E9E4FDA"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Lab Notebook With Crude Polymer Chemistry Data"
+			x: 1.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["56496F9343BD6021"]
+			id: "7AEA117AE047A311"
+			rewards: [{
+				id: "14DA512E17191D0E"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6CB1BF7384134A40"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Lab Notebook With Crude Hydrocarbon Chemistry Data"
+			x: -1.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["0096F28CB0BC9933"]
+			id: "6657035C06A91C38"
+			rewards: [{
+				id: "43EF930590FAC8B6"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "678FB1E0B47EE6F1"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Lexicon With Basic Material Properties Data"
+			x: 1.5d
+			y: 17.0d
+		}
+		{
+			dependencies: ["06B6BFB0D1106B34"]
+			id: "4ADFC2717D02EB20"
+			rewards: [{
+				id: "2F43FC9369CF1FD5"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1317391CCA7A6C90"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Lexicon With Basic Natural Arcana Data"
+			x: -1.5d
+			y: 17.0d
+		}
+		{
+			dependencies: ["681E32095BFCA886"]
+			description: ["Very large books imbued with mana based calligraphy to more compactly store written information. Much needed to describe the results of more sophisticated science tests"]
+			id: "36D7F43B1E51F721"
+			rewards: [{
+				id: "44B30A8BA45737D6"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "091E657E3CD46F63"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Lexicons"
+			x: -10.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["078D5F3DD8BD448E"]
+			id: "2591E9EC898378B9"
+			rewards: [{
+				id: "0EBAEC9010D1EEA0"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "501A28BBB9B42097"
+				item: "alchemistry:combiner"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 22.0d
+		}
+		{
+			dependencies: [
+				"36D7F43B1E51F721"
+				"56725DB290555B13"
+				"4ADFC2717D02EB20"
+				"6657035C06A91C38"
+			]
+			id: "078D5F3DD8BD448E"
+			rewards: [{
+				id: "705FCF43ABB28136"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "40FB91EF1F12FF84"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Crude Element Data Lexicon"
+			x: 0.0d
+			y: 20.5d
+		}
+		{
+			dependencies: ["7175C712B2A94D90"]
+			id: "374180986ED91A0D"
+			rewards: [{
+				id: "747C5A08647B4861"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "064984EC941C287F"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Used Crude Geology Test"
+			x: 10.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["374180986ED91A0D"]
+			id: "56725DB290555B13"
+			tasks: [{
+				id: "0D493FAC715A78AD"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Lab Notebook With Crude Geology Data"
+			x: 9.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["1EE4A07531120ED5"]
+			description: ["I got all these new larger drives! How do I move the items off the smaller more pathetic drives? The IO port lets you shuffel up your drives to clear them!"]
+			id: "196E30A73AB60893"
+			rewards: [{
+				id: "6C127A244ECDBFB6"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "505ECC3C26A92942"
+				item: "ae2:io_port"
+				type: "item"
+			}]
+			title: "Shuffling Items"
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["299A7421330CF038"]
+			description: ["Tired of charging crystals by rubbing wool on them? Build this!"]
+			id: "7EE34DC07FDD1EAB"
+			rewards: [{
+				id: "1D30AACF91E3B477"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "347E92AB32D96A6D"
+				item: "ae2:charger"
+				type: "item"
+			}]
+			title: "Do not bring this into a shower"
+			x: -1.5d
+			y: -4.5d
 		}
 	]
 	subtitle: ["Machines greased with mana"]

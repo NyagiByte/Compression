@@ -82,7 +82,7 @@ hash = "6dee5a071304fc1ed4480b0f1dba296099a49094bc88dedf406a652d35258135"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "cb96ea7d2a678fbe0a9a13c49175f3b73137abcdf7e018d659132b57bae2d342"
+hash = "97ae8a7c48a0f119fe84d029578cc0621949124bf36fa404ff2fa499e2b98404"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"
@@ -102,7 +102,7 @@ hash = "440e4b5501f1840861e9c539071b88eb9c5396def5b81f4acfed57947ad51ef4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "6320bf94fb0fd0edd641569721c6ba094e90e03ab000c8c3c7ec9a26e958941f"
+hash = "707e490afcc41286712b52cf2be5ed25da0ab61e5811da09cf67ef36270b8a1b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
