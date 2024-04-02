@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "compstruct:mangled_nether_fortress",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 14,
+        "separation": 10,
+        "salt": 14347342873
+    }
+}

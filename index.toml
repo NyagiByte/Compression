@@ -2289,6 +2289,154 @@ file = "kubejs/config/common.properties"
 hash = "6aba57f340cfb6dfd74b2a165127ce897d1757b28398bea2a21a588baacd1885"
 
 [[files]]
+file = "kubejs/data/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
+hash = "6d380cbc0b44f41ba04be2ba23e4f72c095cb00dd62621ddebec770a6a420f6a"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/structures/coal_boulder.nbt"
+hash = "706436dcba2611ffa657929e011e7a605896a0afd9de032d574b0b227e83b685"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/structures/copper_boulder.nbt"
+hash = "c7ea97bb9b486c68be9f42109c4e4245d0df41e73fd1c9a5be927a76ff931083"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/structures/electrum_boulder.nbt"
+hash = "59ff73824c91b40c7f1df965ef60ea129e9d6915409dbb6c5ed9c5012adeba1c"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/structures/gemstone_boulder.nbt"
+hash = "f5c2c76940f52483414e57b81aa1f353e4ce56d8785533a47104cde906f948df"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/structures/iron_boulder.nbt"
+hash = "35f9d5dc3a7dd71e607793d815f8e37e2dd05ed95bb24e328448b1c32f3b0aa0"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/structures/lead_boulder.nbt"
+hash = "1e56e33bf2bd9f7d37116a0466b7f76ef13ff5e2dafac110010e9551849586b6"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/structures/mangled_nether_fortress.nbt"
+hash = "707b1952c07d2c1556c6a743578dc65bb5320358269d114c5651a69ee9debd91"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/structures/misc_boulder.nbt"
+hash = "ffc197f5c253221523cea3aefa643b679e9954e726fd5f4614b8724de626fb99"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/structures/nickel_boulder.nbt"
+hash = "66523a4f8375b46fe9311d5a8497373230daaa8055208b137a992e1057f49d09"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/structures/quartz_boulder.nbt"
+hash = "26a071605a86b771ba63ccb0e8c710a804b8ac4d22cb6d0d29ac53d1329812df"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/structures/redstone_boulder.nbt"
+hash = "84e62737b8c72a6991b241483c09f36ee61bc4af2fdc4090e5bfd6113a78703b"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/structures/tin_boulder.nbt"
+hash = "469a1bd2fa316517449d8d58d0f28db287a92b87d174afb0ab50ff14256b227e"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/structures/uranium_boulder.nbt"
+hash = "8d8bb4cdcdc2e3ec96e03f13f93f6187696ead98a2262d063ea9a507bcd089cb"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/structures/zinc_boulder.nbt"
+hash = "3e04aa1bb46da157d91f2dd60edff5d4b0727c1cb2bc1e0fcdeb08740d8e2d03"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/tags/worldgen/biome/boulders.json"
+hash = "2f32977a5a0285745826e4990615ab32cca64ab19940cc6130c70b1076c28c32"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/tags/worldgen/biome/mangled_nether_fortress.json"
+hash = "ebafcc8216f0d985746b71a122cc28c489e1c467d6ac30a827c6285d3764e357"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/worldgen/structure/aluminum_boulder.json"
+hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/worldgen/structure/coal_boulder.json"
+hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/worldgen/structure/copper_boulder.json"
+hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/worldgen/structure/electrum_boulder.json"
+hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/worldgen/structure/gemstone_boulder.json"
+hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/worldgen/structure/iron_boulder.json"
+hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/worldgen/structure/lead_boulder.json"
+hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/worldgen/structure/mangled_nether_fortress.json"
+hash = "fa7090a2ab2ce7acdc00f4a05c02fb3624d51edf1bb1ca8860df88a027608588"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/worldgen/structure/misc_boulder.json"
+hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/worldgen/structure/nickel_boulder.json"
+hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/worldgen/structure/quartz_boulder.json"
+hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/worldgen/structure/redstone_boulder.json"
+hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/worldgen/structure/tin_boulder.json"
+hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/worldgen/structure/uranium_boulder.json"
+hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/worldgen/structure/zinc_boulder.json"
+hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/worldgen/structure_set/boulders.json"
+hash = "82681ec8bc43436245570620b0a5e1c126c667165254c0f0628cc8bad7eca65b"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/worldgen/structure_set/mangled_nether_fortress.json"
+hash = "98ef7e93e5f22d303ecaabf730fcddab98e6db4391374de2f3faac6ed9917f56"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/worldgen/template_pool/boulders.json"
+hash = "837ebf8c42802d2f762c384ad50115d90e3e15466f7d09c98f3f3d810cd2f045"
+
+[[files]]
+file = "kubejs/data/compstruct/data/compstruct/worldgen/template_pool/mangled_nether_fortress.json"
+hash = "94700f818d5f94f20bd6c9fee6ec154f09449302967cde4e46468d6606f40a12"
+
+[[files]]
+file = "kubejs/data/compstruct/pack.mcmeta"
+hash = "03840ef9a41eeee00d7f8b8fb8e5e24a1ac29ee48709434c44dc1ad7fa2ceb44"
+
+[[files]]
 file = "kubejs/data/hexlands/worldgen/world_preset/hexlands.json"
 hash = "b597b16e2c90d24df3edbd108816e7f80fa5e32ec5b06d4ec6c376ccef1cd8c8"
 

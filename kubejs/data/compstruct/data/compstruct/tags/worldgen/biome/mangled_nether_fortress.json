@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "compressiontweaks:soulsand_valley",
+        "compressiontweaks:basalt_deltas",
+        "compressiontweaks:crimson_forest",
+        "compressiontweaks:warped_forest"
+    ]
+}

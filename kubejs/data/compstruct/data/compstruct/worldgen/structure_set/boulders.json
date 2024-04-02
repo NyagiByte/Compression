@@ -1,0 +1,66 @@
+{
+    "structures": [
+        {
+            "structure": "compstruct:aluminum_boulder",
+            "weight": 1
+        },
+        {
+            "structure": "compstruct:coal_boulder",
+            "weight": 1
+        },
+        {
+            "structure": "compstruct:copper_boulder",
+            "weight": 1
+        },
+        {
+            "structure": "compstruct:electrum_boulder",
+            "weight": 1
+        },
+        {
+            "structure": "compstruct:gemstone_boulder",
+            "weight": 1
+        },
+        {
+            "structure": "compstruct:iron_boulder",
+            "weight": 1
+        },
+        {
+            "structure": "compstruct:lead_boulder",
+            "weight": 1
+        },
+        {
+            "structure": "compstruct:misc_boulder",
+            "weight": 1
+        },
+        {
+            "structure": "compstruct:nickel_boulder",
+            "weight": 1
+        },
+        {
+            "structure": "compstruct:quartz_boulder",
+            "weight": 1
+        },
+        {
+            "structure": "compstruct:redstone_boulder",
+            "weight": 1
+        },
+        {
+            "structure": "compstruct:tin_boulder",
+            "weight": 1
+        },
+        {
+            "structure": "compstruct:uranium_boulder",
+            "weight": 1
+        },
+        {
+            "structure": "compstruct:zinc_boulder",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 14,
+        "separation": 10,
+        "salt": 14347342873
+    }
+}
