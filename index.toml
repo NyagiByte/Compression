@@ -3092,6 +3092,11 @@ hash = "807971d207f593d747063f389dd3809b8b82c2aa1e572e87180ab694e67e44de"
 metafile = true
 
 [[files]]
+file = "mods/forgematica.pw.toml"
+hash = "38631853e85168a278b22752dde9188816af998dacbd6eccc1ee144ba32b6ea3"
+metafile = true
+
+[[files]]
 file = "mods/forgiving-void.pw.toml"
 hash = "69c5c1b59f9a5946cbcea6e4cfb318af9bdb43d5a24a86391f1c34b1ca845b58"
 metafile = true
@@ -3209,6 +3214,11 @@ metafile = true
 [[files]]
 file = "mods/lootjs.pw.toml"
 hash = "b395baefd33af6da9f29feb5cf50eac5aeb13f3f31e22004d943964c222156ea"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "a5357a8e0a0fb218a020075361accc57c0007479f56dc33bc23631d75077aaca"
 metafile = true
 
 [[files]]
