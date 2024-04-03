@@ -1,0 +1,34 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "ae2:fluid_cell_housing"},
+  "loops": 1,
+  "results": [
+    {"count":1, "item": "ae2:fluid_storage_cell_1k"}
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:fluid_cell_housing"},
+        {"item": "ae2:cell_component_1k"}  
+      ],
+      "results": [
+        {"item": "ae2:fluid_cell_housing"}
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "ae2:fluid_cell_housing"
+        }
+      ],
+      "results": [
+          {
+              "item": "ae2:fluid_cell_housing"
+          }
+      ]
+    }
+  ],
+  "transitionalItem": {"item": "ae2:fluid_cell_housing"}
+}

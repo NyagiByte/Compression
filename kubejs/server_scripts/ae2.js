@@ -4,7 +4,6 @@ ServerEvents.recipes(e => {
     //Sequenced Assembly
         //To-be-added
             e.remove({output: 'ae2:wireless_access_point'});
-            e.remove({output: 'ae2:tiny_tnt'});
             e.remove({output: 'ae2:security_station'});
             e.remove({output: 'ae2:quantum_ring'});
             e.remove({output: 'ae2:quantum_link'});
@@ -25,18 +24,48 @@ ServerEvents.recipes(e => {
             e.remove({output: 'ae2:pattern_provider'});
             e.remove({output: 'ae2:molecular_assembler'});
             e.remove({output: 'ae2:spatial_anchor'});
-            e.remove({output: 'ae2:crank'});
             e.remove({output: 'ae2:cell_component_16k'});
             e.remove({output: 'ae2:cell_component_64k'});
             e.remove({output: 'ae2:cell_component_256k'});
             e.remove({output: 'ae2:spatial_cell_component_2'});
             e.remove({output: 'ae2:spatial_cell_component_16'});
             e.remove({output: 'ae2:spatial_cell_component_128'});
-            e.remove({output: 'ae2:item_storage_cell_1k'});
-            e.remove({output: 'ae2:item_storage_cell_4k'});
             e.remove({output: 'ae2:item_storage_cell_16k'});
             e.remove({output: 'ae2:item_storage_cell_64k'});
             e.remove({output: 'ae2:item_storage_cell_256k'});
+            e.remove({output: 'ae2:wireless_terminal'});
+            e.remove({output: 'ae2:wireless_crafting_terminal'});
+            e.remove({output: 'ae2:biometric_card'});
+            e.remove({output: 'ae2:matter_cannon'});
+            e.remove({output: 'ae2:wireless_receiver'});
+            e.remove({output: 'ae2:wireless_booster'});
+            e.remove({output: 'ae2:pattern_encoding_terminal'});
+            e.remove({output: 'ae2:cabel_pattern_provider'});
+            e.remove({output: 'ae2:pattern_access_terminal'});
+        //Ae2 Tools
+            e.remove({output: 'ae2:certus_quartz_axe'});
+            e.remove({output: 'ae2:certus_quartz_hoe'});
+            e.remove({output: 'ae2:certus_quartz_sword'});
+            e.remove({output: 'ae2:certus_quartz_shovel'});
+            e.remove({output: 'ae2:certus_quartz_pickaxe'});
+            e.remove({output: 'ae2:nether_quartz_axe'});
+            e.remove({output: 'ae2:nether_quartz_hoe'});
+            e.remove({output: 'ae2:nether_quartz_sword'});
+            e.remove({output: 'ae2:nether_quartz_shovel'});
+            e.remove({output: 'ae2:nether_quartz_pickaxe'});
+            e.remove({output: 'ae2:fluix_axe'});
+            e.remove({output: 'ae2:fluix_hoe'});
+            e.remove({output: 'ae2:fluix_sword'});
+            e.remove({output: 'ae2:fluix_shovel'});
+            e.remove({output: 'ae2:fluix_pickaxe'});
+        //Shit that refuses to be removed normally
+            e.remove({not: {type: 'create:cutting'}, output: 'ae2:silicon'});
+            e.remove({not: {type: 'create:sequenced_assembly'}, output: 'ae2:formation_plane'});
+            e.remove({not: {type: 'create:sequenced_assembly'}, output: 'ae2:annihilation_plane'});
+            e.remove({not: {type: 'create:sequenced_assembly'}, output: 'ae2:item_storage_cell_1k'});
+            e.remove({not: {type: 'create:sequenced_assembly'}, output: 'ae2:item_storage_cell_4k'});
+            e.remove({not: {type: 'create:sequenced_assembly'}, output: 'ae2:fluid_storage_cell_1k'});
+            e.remove({not: {type: 'create:sequenced_assembly'}, output: 'ae2:fluid_storage_cell_4k'});
 //Removal of other stoof
     //Botania
         e.remove({output: 'botania:apothecary_forest'});
@@ -599,6 +628,8 @@ ServerEvents.recipes(e => {
         e.remove({mod: 'nuclearcraft'})
     //Compact Machines
         e.remove({mod: 'compactmachines'})
+    //Chromatic Return
+        e.remove({mod: 'createchromaticreturn'})
     //PneumaticCraft
         e.remove({output: 'pneumaticcraft:pressure_gauge'});
         e.remove({output: 'pneumaticcraft:stone_base'});
@@ -762,5 +793,7 @@ ServerEvents.recipes(e => {
         e.remove({output: 'pneumaticcraft:vacuum_trap'});
     //Compact Crafting
         e.remove({mod: 'compactcrafting'});
+    //Quark
+        e.remove({mod: 'quark'});
 //------------------------------------------------------------------
 })

@@ -1,0 +1,31 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
+    "loops": 1,
+    "results": [
+      {"count": 8, "item": "ae2:formation_plane"}
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {"item": "nyagibits_bytes:incomplete_me_formation_plane"},
+          {"item": "create:deployer"}  
+        ],
+        "results": [
+          {"item": "nyagibits_bytes:incomplete_me_formation_plane"}
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {"item": "nyagibits_bytes:incomplete_me_formation_plane"},
+          {"item": "nyagibits_bytes:ae2_schematic"}
+        ],
+        "results": [
+          {"item": "nyagibits_bytes:incomplete_me_formation_plane"}
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:incomplete_me_formation_plane"}
+  }

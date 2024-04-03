@@ -1,0 +1,31 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
+    "loops": 1,
+    "results": [
+      {"count": 16, "item": "ae2:me_p2p_tunnel"}
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {"item": "nyagibits_bytes:incomplete_me_ptwop_tunnel"},
+          {"item": "create:brass_tunnel"}  
+        ],
+        "results": [
+          {"item": "nyagibits_bytes:incomplete_me_ptwop_tunnel"}
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {"item": "nyagibits_bytes:incomplete_me_ptwop_tunnel"},
+          {"item": "nyagibits_bytes:ae2_schematic"}
+        ],
+        "results": [
+          {"item": "nyagibits_bytes:incomplete_me_ptwop_tunnel"}
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:incomplete_me_ptwop_tunnel"}
+  }

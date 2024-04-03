@@ -1,0 +1,11 @@
+{
+    "type": "botania:mana_infusion",
+    "input": {
+      "item": "ae2:controller"
+    },
+    "mana": 90000,
+    "output": {
+      "count": 4,
+      "item": "botania:mana_diamond_block"
+    }
+  }

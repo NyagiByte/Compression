@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "A": {"item":"create:iron_sheet"},
+        "B": {"item":"nyagibits_bytes:etched_redstone_plate"},
+        "C": {"item":"nyagibits_bytes:diamond_shard"},
+        "D": {"item":"ae2:calculation_processor"},
+        "E": {"item":"nyagibits_bytes:manasteel_lattice"}
+    },
+    "pattern": [
+      "ABC",
+      "AEC",
+      "AD "
+
+    ],
+    "result": {
+      "count": 4,
+      "item": "ae2:advanced_card"
+    }
+  }

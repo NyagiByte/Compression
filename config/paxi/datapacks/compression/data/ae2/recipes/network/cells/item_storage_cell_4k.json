@@ -1,0 +1,73 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "ae2:item_storage_cell_1k"},
+    "loops": 1,
+    "results": [
+      {"count":1, "item": "ae2:item_storage_cell_4k"}
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {"item": "ae2:item_storage_cell_1k"},
+          {"item": "ae2:cell_component_4k"}  
+        ],
+        "results": [
+          {"item": "ae2:item_storage_cell_1k"}
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "ae2:item_storage_cell_1k"
+          }
+        ],
+        "results": [
+            {
+                "item": "ae2:item_storage_cell_1k"
+            }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "ae2:item_storage_cell_1k"
+          }
+        ],
+        "results": [
+            {
+                "item": "ae2:item_storage_cell_1k"
+            }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "ae2:item_storage_cell_1k"
+          }
+        ],
+        "results": [
+            {
+                "item": "ae2:item_storage_cell_1k"
+            }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "ae2:item_storage_cell_1k"
+          }
+        ],
+        "results": [
+            {
+                "item": "ae2:item_storage_cell_1k"
+            }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "ae2:item_storage_cell_1k"}
+  }

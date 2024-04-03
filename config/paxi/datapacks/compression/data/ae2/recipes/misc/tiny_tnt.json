@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "A": {"item":"minecraft:gunpowder"},
+        "B": {"item":"pneumaticcraft:ingot_iron_compressed"},
+        "C": {"item":"minecraft:red_dye"},
+        "D": {"item":"botania:open_crate"}
+    },
+    "pattern": [
+      " A ",
+      "ABA",
+      "CDC"
+    ],
+    "result": {
+      "item": "ae2:tiny_tnt"
+    }
+  }

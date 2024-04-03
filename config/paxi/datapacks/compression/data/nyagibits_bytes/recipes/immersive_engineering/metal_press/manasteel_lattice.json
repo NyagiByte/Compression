@@ -1,0 +1,7 @@
+{"type":"immersiveengineering:metal_press",
+
+"energy":2400,"input":{"item":"botania:manasteel_ingot"},
+
+"mold":"immersiveengineering:mold_plate",
+
+"result":{"item":"nyagibits_bytes:manasteel_lattice"}}

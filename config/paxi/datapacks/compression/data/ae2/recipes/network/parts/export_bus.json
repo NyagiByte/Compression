@@ -1,0 +1,31 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
+    "loops": 1,
+    "results": [
+      {"count": 8, "item": "ae2:export_bus"}
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {"item": "nyagibits_bytes:incomplete_me_export_bus"},
+          {"item": "minecraft:dropper"}  
+        ],
+        "results": [
+          {"item": "nyagibits_bytes:incomplete_me_export_bus"}
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {"item": "nyagibits_bytes:incomplete_me_export_bus"},
+          {"item": "nyagibits_bytes:ae2_schematic"}
+        ],
+        "results": [
+          {"item": "nyagibits_bytes:incomplete_me_export_bus"}
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:incomplete_me_export_bus"}
+  }

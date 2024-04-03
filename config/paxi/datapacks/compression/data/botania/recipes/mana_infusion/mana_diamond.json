@@ -1,0 +1,10 @@
+{
+    "type": "botania:mana_infusion",
+    "input": {
+      "item": "ae2:engineering_processor"
+    },
+    "mana": 10000,
+    "output": {
+      "item": "botania:mana_diamond"
+    }
+  }

@@ -1,0 +1,37 @@
+{
+  "type": "botania:runic_altar",
+  "ingredients": [
+    {
+      "item": "botania:mana_powder"
+    },
+    {
+      "item": "nyagibits_bytes:rune_blank"
+    },
+    {
+      "item": "nyagibits_bytes:agar_agar"
+    },
+    {
+      "item": "minecraft:sea_pickle"
+    },
+    {
+      "item": "minecraft:clay"
+    },
+    {
+      "item": "minecraft:pufferfish"
+    },
+    {
+      "item": "ae2:blue_lumen_paint_ball"
+    },
+    {
+      "item": "quark:sugar_cane_block"
+    },
+    {
+      "item": "nyagibits_bytes:rune_binder"
+    }
+  ],
+  "mana": 5200,
+  "output": {
+    "count": 2,
+    "item": "botania:rune_water"
+  }
+}

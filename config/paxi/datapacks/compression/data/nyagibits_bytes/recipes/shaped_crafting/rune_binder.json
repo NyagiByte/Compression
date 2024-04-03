@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"create:super_glue"},
+      "B": {"item":"botania:manaweave_cloth"},
+      "C": {"item":"botania:mana_powder"}
+    },
+    "pattern": [
+      " A ",
+      "BCB",
+      " B "
+    ],
+    "result": {
+        "item": "nyagibits_bytes:rune_binder"
+    }
+  }

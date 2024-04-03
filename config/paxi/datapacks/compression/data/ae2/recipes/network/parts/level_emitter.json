@@ -1,0 +1,31 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
+    "loops": 1,
+    "results": [
+      {"count": 32, "item": "ae2:level_emitter"}
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {"item": "nyagibits_bytes:incomplete_me_level_emitter"},
+          {"item": "minecraft:comparator"}  
+        ],
+        "results": [
+          {"item": "nyagibits_bytes:incomplete_me_level_emitter"}
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {"item": "nyagibits_bytes:incomplete_me_level_emitter"},
+          {"item": "nyagibits_bytes:ae2_schematic"}
+        ],
+        "results": [
+          {"item": "nyagibits_bytes:incomplete_me_level_emitter"}
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:incomplete_me_level_emitter"}
+  }

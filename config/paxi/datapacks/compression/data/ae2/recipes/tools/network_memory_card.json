@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "A": {"item":"ae2:calculation_processor"},
+        "B": {"item":"pneumaticcraft:ingot_iron_compressed"},
+        "C": {"item":"create:brass_sheet"},
+        "D": {"item":"nyagibits_bytes:etched_redstone_plate"}
+    },
+    "pattern": [
+      "ABB",
+      "CDC"
+    ],
+    "result": {
+      "item": "ae2:memory_card"
+    }
+  }

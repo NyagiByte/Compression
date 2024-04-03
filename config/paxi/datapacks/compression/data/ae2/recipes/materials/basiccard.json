@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "A": {"item":"create:iron_sheet"},
+        "B": {"item":"nyagibits_bytes:etched_redstone_plate"},
+        "C": {"item":"create:brass_sheet"},
+        "D": {"item":"ae2:calculation_processor"}
+    },
+    "pattern": [
+      "ABC",
+      "ABC",
+      "AD "
+
+    ],
+    "result": {
+      "count": 4,
+      "item": "ae2:basic_card"
+    }
+  }
