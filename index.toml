@@ -38,7 +38,7 @@ hash = "667b50af91a4312360fac0502a25f9497e745e3e321b297ed4efb6e257e81db4"
 
 [[files]]
 file = "config/create-common.toml"
-hash = "5ecbf2bd9577f059760c02b37d8931b5fbec5567bd1190f943b19b5e3a493a8c"
+hash = "b97f2dcaa2b14666eb4f846fe2c92079a7f0484cf70495d885f0b06039820236"
 
 [[files]]
 file = "config/defaultworldtype/client-config.toml"
@@ -2842,7 +2842,7 @@ hash = "c5aa5aeea928ccb7a51356901bce92f64984d608db586128da2e1452b0e379b7"
 
 [[files]]
 file = "kubejs/startup_scripts/worldgen.js"
-hash = "5b2de7abffbe389f98cb51e285f59c55d7777e8b4a255551c070b018835572bd"
+hash = "e36d34120d86356da340083fbccf6161629e61a2e40946fa633b2d1bbf10012a"
 
 [[files]]
 file = "mods/3dskinlayers-forge-1.5.2-mc1.19.1.jar"

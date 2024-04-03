@@ -1,6 +1,7 @@
 WorldgenEvents.remove(event => {
     event.removeOres(ores => {
-        ores.blocks = ["minecraft:coal_ore",
+        ores.blocks = [
+        "minecraft:coal_ore",
         "minecraft:iron_ore",
         "minecraft:gold_ore",
         "minecraft:diamond_ore",
@@ -14,6 +15,27 @@ WorldgenEvents.remove(event => {
         "thermal:nickel_ore",
         "thermal:cinnabar_ore",
         "thermal:silver_ore",
-        "thermal:lead_ore"]
+        "thermal:lead_ore",
+        "nuclearcraft:thorium_ore",
+        "nuclearcraft:thorium_deepslate_ore",
+        "nuclearcraft:tin_ore",
+        "nuclearcraft:magnesium_ore",
+        "nuclearcraft:magnesium_deepslate_ore",
+        "nuclearcraft:silver_ore",
+        "nuclearcraft:silver_deepslate_ore",
+        "nuclearcraft:cobalt_ore",
+        "nuclearcraft:cobalt_deepslate_ore",
+        "nuclearcraft:uranium_ore",
+        "nuclearcraft:uranium_deepslate_ore",
+        "nuclearcraft:boron_ore",
+        "nuclearcraft:boron_deepslate_ore",
+        "nuclearcraft:lithium_ore",
+        "nuclearcraft:lithium_deepslate_ore",
+        "nuclearcraft:zinc_ore",
+        "nuclearcraft:lead_ore",
+        "nuclearcraft:platinum_deepslate_ore",
+        "create:zinc_ore",
+        "create:deepslate_zinc_ore"
+    ]
     })
 })
