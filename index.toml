@@ -2321,6 +2321,10 @@ file = "config/paxi/datapacks/compstruct/data/compstruct/structures/coal_boulder
 hash = "706436dcba2611ffa657929e011e7a605896a0afd9de032d574b0b227e83b685"
 
 [[files]]
+file = "config/paxi/datapacks/compstruct/data/compstruct/structures/compression_end_city.nbt"
+hash = "0f80f77823d5dddead4c046579deffe4fe0f32a2165621746e1c380204dc4cee"
+
+[[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/copper_boulder.nbt"
 hash = "c7ea97bb9b486c68be9f42109c4e4245d0df41e73fd1c9a5be927a76ff931083"
 
@@ -2377,6 +2381,10 @@ file = "config/paxi/datapacks/compstruct/data/compstruct/tags/worldgen/biome/bou
 hash = "2f32977a5a0285745826e4990615ab32cca64ab19940cc6130c70b1076c28c32"
 
 [[files]]
+file = "config/paxi/datapacks/compstruct/data/compstruct/tags/worldgen/biome/compression_end_city.json"
+hash = "633323ee29327b56381d9471a5b4702142d787f9438b877c6bf4b0412b97e021"
+
+[[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/tags/worldgen/biome/mangled_nether_fortress.json"
 hash = "ebafcc8216f0d985746b71a122cc28c489e1c467d6ac30a827c6285d3764e357"
 
@@ -2387,6 +2395,10 @@ hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/structure/coal_boulder.json"
 hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
+
+[[files]]
+file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/structure/compression_end_city.json"
+hash = "73eaec5b5a3f0f4665a9855b74f29c19ed6d8453bee1250d1014a2902aa6ca30"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/structure/copper_boulder.json"
@@ -2445,12 +2457,20 @@ file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/structure_set/
 hash = "0430ee6bbd372ab31d520c9feab662bcf51dbc0ff85d396f269f941bb8dab82e"
 
 [[files]]
+file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/structure_set/compression_end_city.json"
+hash = "63a980947fd0adedfe71f1b053c27961075bcd03dfc8a0e5d7f897fd4d537552"
+
+[[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/structure_set/mangled_nether_fortress.json"
 hash = "ada0de911e08fa988944ef8c1d73fbbd4a813dc66c36b645b9c5409c12b81466"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/template_pool/boulders.json"
 hash = "837ebf8c42802d2f762c384ad50115d90e3e15466f7d09c98f3f3d810cd2f045"
+
+[[files]]
+file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/template_pool/compression_end_city.json"
+hash = "ebbf0365290da7865e1524d6744d821d726dbe62dc78cae093ee66336a31661c"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/template_pool/mangled_nether_fortress.json"

@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "compstruct:compression_end_city",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 10,
+        "separation": 6,
+        "salt": 9012471
+    }
+}
