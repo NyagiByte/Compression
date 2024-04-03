@@ -2330,11 +2330,11 @@ hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/structure_set/boulders.json"
-hash = "82681ec8bc43436245570620b0a5e1c126c667165254c0f0628cc8bad7eca65b"
+hash = "0430ee6bbd372ab31d520c9feab662bcf51dbc0ff85d396f269f941bb8dab82e"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/structure_set/mangled_nether_fortress.json"
-hash = "98ef7e93e5f22d303ecaabf730fcddab98e6db4391374de2f3faac6ed9917f56"
+hash = "ada0de911e08fa988944ef8c1d73fbbd4a813dc66c36b645b9c5409c12b81466"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/template_pool/boulders.json"
