@@ -2298,7 +2298,7 @@ hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/structure/mangled_nether_fortress.json"
-hash = "fa7090a2ab2ce7acdc00f4a05c02fb3624d51edf1bb1ca8860df88a027608588"
+hash = "1daafdec65550a909354f7173c269714ad814d4529ebaa5c60fd5d0f962a0f29"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/structure/misc_boulder.json"
