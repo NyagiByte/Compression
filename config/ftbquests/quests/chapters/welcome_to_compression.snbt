@@ -238,5 +238,6 @@
 			y: -2.0d
 		}
 	]
+	subtitle: ["Read me!"]
 	title: "&fWelcome to Compression!"
 }
