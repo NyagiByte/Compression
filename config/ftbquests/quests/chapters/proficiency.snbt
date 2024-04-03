@@ -132,13 +132,71 @@
 				}
 			]
 			size: 2.0d
-			tasks: [{
-				consume_items: true
-				count: 110L
-				id: "1A46599C22D9A0E8"
-				item: "nyagibits_bytes:tier_zero_strawberry"
-				type: "item"
-			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 48L
+					id: "26ACB9F661CEB993"
+					item: "nyagibits_bytes:tier_zero_strawberry"
+					title: "Main Tier 0 Quests"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 9L
+					id: "286C95CC0182FEDF"
+					item: "nyagibits_bytes:tier_zero_strawberry"
+					title: "Welcome Information"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 9L
+					id: "4CE2636F4DF29620"
+					item: "nyagibits_bytes:tier_zero_strawberry"
+					title: "Scale Tree I"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 22L
+					id: "662B28409F5E44C1"
+					item: "nyagibits_bytes:tier_zero_strawberry"
+					title: "Ore Line"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 10L
+					id: "042610D256B837C1"
+					item: "nyagibits_bytes:tier_zero_strawberry"
+					title: "Organics"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 3L
+					id: "3BB2537A76BC51E8"
+					item: "nyagibits_bytes:tier_zero_strawberry"
+					title: "T0 Tutorials"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 7L
+					id: "4D2E1A1EE622F991"
+					item: "nyagibits_bytes:tier_zero_strawberry"
+					title: "T0 Proficiency"
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "2F71CB70899D9A99"
+					item: "nyagibits_bytes:tier_zero_strawberry"
+					title: "?"
+					type: "item"
+				}
+			]
 			title: "Tier 0 Mastery"
 			x: 0.0d
 			y: 2.5d
@@ -282,6 +340,91 @@
 			}]
 			title: "This ingot makes me want blueberries"
 			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["68300CAEDAC23F73"]
+			description: ["With enough stones to flip you can eventually simulate reality.. assuming you dont mess up a bit flip somewhere"]
+			icon: "botania:runic_altar"
+			id: "6F3EFC4FAC1756BA"
+			rewards: [{
+				id: "3E8D7B6BC454BC77"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 512L
+					id: "350C4E771B78DD52"
+					item: "botania:rune_water"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 512L
+					id: "002FFF89E7F8A3B8"
+					item: "botania:rune_fire"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 512L
+					id: "26C5B2D00746D8C0"
+					item: "botania:rune_earth"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 512L
+					id: "621002F4B87271F3"
+					item: "botania:rune_air"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 256L
+					id: "52BB494F1AA2A84E"
+					item: "botania:rune_mana"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 128L
+					id: "7F5CAECDB1419070"
+					item: "nyagibits_bytes:rune_catalytic"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 128L
+					id: "403414FAC58E64A9"
+					item: "nyagibits_bytes:rune_magnetic"
+					type: "item"
+				}
+			]
+			title: "Rock Computers"
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2749DE946E0BF9CB"]
+			description: ["I'm sure this quest makes server admins feel very safe"]
+			id: "00372E6732444ABF"
+			rewards: [{
+				id: "06ADA16168CA499D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 5024L
+				id: "69B0DC30CE8EBF26"
+				item: "minecraft:tnt"
+				type: "item"
+			}]
+			title: "KABLEWY!"
+			x: 1.0d
 			y: -2.0d
 		}
 	]

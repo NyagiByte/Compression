@@ -3316,24 +3316,17 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			tasks: [
-				{
-					id: "785E499B000518D5"
-					item: {
-						Count: 1b
-						id: "immersiveengineering:graphite_electrode"
-						tag: {
-							graphDmg: 0
-						}
+			tasks: [{
+				id: "785E499B000518D5"
+				item: {
+					Count: 1b
+					id: "immersiveengineering:graphite_electrode"
+					tag: {
+						graphDmg: 0
 					}
-					type: "item"
 				}
-				{
-					id: "403CA3B25FAAD602"
-					item: "ftbquests:missing_item"
-					type: "item"
-				}
-			]
+				type: "item"
+			}]
 			title: "Sintering"
 			x: -10.5d
 			y: -4.0d

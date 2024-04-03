@@ -38,7 +38,7 @@ hash = "667b50af91a4312360fac0502a25f9497e745e3e321b297ed4efb6e257e81db4"
 
 [[files]]
 file = "config/create-common.toml"
-hash = "5ecbf2bd9577f059760c02b37d8931b5fbec5567bd1190f943b19b5e3a493a8c"
+hash = "b97f2dcaa2b14666eb4f846fe2c92079a7f0484cf70495d885f0b06039820236"
 
 [[files]]
 file = "config/defaultworldtype/client-config.toml"
@@ -82,7 +82,7 @@ hash = "6dee5a071304fc1ed4480b0f1dba296099a49094bc88dedf406a652d35258135"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "97ae8a7c48a0f119fe84d029578cc0621949124bf36fa404ff2fa499e2b98404"
+hash = "5c2edb0bd468af8f74c900e3dcba5164d8ce2913851fb8b0ce00e7dbf46b5870"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"
@@ -90,7 +90,7 @@ hash = "f40935b1ff1c57f48e71246ed70b5e08caa0f1806a7b804379a79d251a8f23fc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/proficiency.snbt"
-hash = "cdf9b6c9569208dc1c0a0d23492d9cbaf831741d651e9532eaca9021e8913218"
+hash = "e99381e07f6854427949a8e401156461b976cfeb5d4cdf764e69c59e560420ce"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
@@ -102,7 +102,7 @@ hash = "440e4b5501f1840861e9c539071b88eb9c5396def5b81f4acfed57947ad51ef4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "707e490afcc41286712b52cf2be5ed25da0ab61e5811da09cf67ef36270b8a1b"
+hash = "336b0f4d2160e12c86f8606a90b3fc937e6b7945e1dc4fc2cfaf8dad1c74be7b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -166,7 +166,7 @@ hash = "05594852dfb6c5952d46028d01d88b46f6faf7db615afda0bb9240a974cb933c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome_to_compression.snbt"
-hash = "c6cdbc763ded4e77b2b16354a24c0912344fe6c029c2117ff048ac7af11ad99f"
+hash = "12ad282c6aae787d2763259ed38d630946ddd63db38fdfc4500726c9b3f76b47"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -2842,7 +2842,7 @@ hash = "c5aa5aeea928ccb7a51356901bce92f64984d608db586128da2e1452b0e379b7"
 
 [[files]]
 file = "kubejs/startup_scripts/worldgen.js"
-hash = "5b2de7abffbe389f98cb51e285f59c55d7777e8b4a255551c070b018835572bd"
+hash = "e36d34120d86356da340083fbccf6161629e61a2e40946fa633b2d1bbf10012a"
 
 [[files]]
 file = "mods/3dskinlayers-forge-1.5.2-mc1.19.1.jar"
@@ -3092,6 +3092,11 @@ hash = "807971d207f593d747063f389dd3809b8b82c2aa1e572e87180ab694e67e44de"
 metafile = true
 
 [[files]]
+file = "mods/forgematica.pw.toml"
+hash = "38631853e85168a278b22752dde9188816af998dacbd6eccc1ee144ba32b6ea3"
+metafile = true
+
+[[files]]
 file = "mods/forgiving-void.pw.toml"
 hash = "69c5c1b59f9a5946cbcea6e4cfb318af9bdb43d5a24a86391f1c34b1ca845b58"
 metafile = true
@@ -3209,6 +3214,11 @@ metafile = true
 [[files]]
 file = "mods/lootjs.pw.toml"
 hash = "b395baefd33af6da9f29feb5cf50eac5aeb13f3f31e22004d943964c222156ea"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "a5357a8e0a0fb218a020075361accc57c0007479f56dc33bc23631d75077aaca"
 metafile = true
 
 [[files]]
