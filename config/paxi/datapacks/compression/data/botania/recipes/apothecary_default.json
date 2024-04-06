@@ -3,13 +3,12 @@
   "key": {
     "A": {"tag":"minecraft:wooden_stairs"},
     "B": {"tag":"minecraft:wooden_slabs"},
-    "C": {"tag":"forge:stripped_logs"},
-    "D": {"tag":"minecraft:logs"}
+    "C": {"tag":"minecraft:logs"}
   },
   "pattern": [
     "ABA",
     " C ",
-    "DDD"
+    "CCC"
   ],
   "result": {
     "item": "botania:apothecary_default"

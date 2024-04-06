@@ -390,7 +390,7 @@ hash = "3e5ad14ffc91fb226bfbf7101007014c0ad4559fe4b6f62456575108021fc62c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/apothecary_default.json"
-hash = "62d6a76eda60625d6776bad535e5be4bcd5b72c3af5ec0ee328ed57131997faf"
+hash = "09d3a44a90b6f15fd4d7d7a68be588ac4ab437fe126188115d7ea3f8425ad52a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/diluted_pool.json"
