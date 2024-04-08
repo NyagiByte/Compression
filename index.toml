@@ -2970,7 +2970,7 @@ hash = "1b138d54d15800ccd1d160a2ac2c99951e8939bb7d234742a20be70b19fb8b03"
 
 [[files]]
 file = "kubejs/startup_scripts/block_modify.js"
-hash = "31fdbf00f39f3bd94435c3c7be906b4ff1227ed35f2aceb5e644c656b76f1430"
+hash = "deb502daf1ad978850eb78725e63780169d21b9a5d126455df0b0a1da0047470"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
