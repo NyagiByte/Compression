@@ -2314,7 +2314,7 @@ hash = "3080a0a95e0e6c7bec0b8077e3b1fe3b5c166f07fbb86e67a0df44b12c326126"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/thermal/recipes/rubber_3.json"
-hash = "bf31204f9529e60dd2f534d3f1801e3ced66f2eb0c6b4bfb250531c7d36653c3"
+hash = "b70a08e3f756011b4580f4763468fe69d4cb1bfbc35623a5ba015cf8cc6c4260"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/thermal/recipes/saw_blade.json"

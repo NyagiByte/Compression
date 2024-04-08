@@ -6,6 +6,6 @@
     {"amount": 100, "fluid": "minecraft:water", "nbt": {}}
   ],
   "results": [
-    {"item": "thermal:cured_rubber"}
+    {"item": "thermal:rubber"}
   ]
 }
