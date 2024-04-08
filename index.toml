@@ -3064,6 +3064,11 @@ hash = "19704238939be7e9cbd4323a0d67464a60eeb25ea8ceed774a0bb337420dbc82"
 metafile = true
 
 [[files]]
+file = "mods/botania-garden-of-glass.pw.toml"
+hash = "fc5584a4b48ef7f2d49afedc9650c4d639c2a97288a7608a48c60363592d877f"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "dec5b7bd20fe2c05bc53d06be0227ce36e483df2b6ea9c449d30ba76a5f7ab8c"
 metafile = true
