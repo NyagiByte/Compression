@@ -973,11 +973,6 @@
 					type: "item"
 				}
 				{
-					id: "502C80AA9873ED3B"
-					item: "nyagibits_bytes:livisite_stone"
-					type: "item"
-				}
-				{
 					id: "3157671F87E36F63"
 					item: "botania:livingwood_log"
 					type: "item"
@@ -990,6 +985,7 @@
 		{
 			dependencies: ["5E7D0899ECE970A7"]
 			description: ["&cI wonder if sentient rocks feel pain when you break them"]
+			icon: "botania:pure_daisy"
 			id: "001D3CBD7E6EA142"
 			rewards: [{
 				id: "3566DF29F3FCFD6D"
