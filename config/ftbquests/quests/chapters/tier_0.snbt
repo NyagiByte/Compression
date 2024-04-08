@@ -996,11 +996,27 @@
 				item: "nyagibits_bytes:tier_zero_strawberry"
 				type: "item"
 			}]
-			tasks: [{
-				id: "6B74476D0F789202"
-				item: "botania:pure_daisy"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6B74476D0F789202"
+					item: "botania:pure_daisy"
+					type: "item"
+				}
+				{
+					id: "462D3378FD8A4303"
+					item: {
+						Count: 1b
+						id: "botania:water_bowl"
+						tag: {
+							Fluid: {
+								Amount: 1000
+								FluidName: "minecraft:water"
+							}
+						}
+					}
+					type: "item"
+				}
+			]
 			title: "Pretty Flowa"
 			x: 0.5d
 			y: -7.5d
