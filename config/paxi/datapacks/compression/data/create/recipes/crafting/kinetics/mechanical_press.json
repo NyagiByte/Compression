@@ -6,9 +6,9 @@
     "C": {"item":"quark:iron_plate"}
   },
   "pattern": [
-    " B ",
     " A ",
+    " B ",
     " C "
   ],
-  "result": {"item": "create:mechancical_press"}
+  "result": {"item": "create:mechanical_press"}
 }
