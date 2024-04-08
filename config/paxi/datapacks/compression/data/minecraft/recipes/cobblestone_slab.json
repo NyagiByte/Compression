@@ -5,7 +5,7 @@
     "B": {"item":"minecraft:gravel"}
   },
   "pattern": [
-    "ABA",
+    "ABA"
   ],
   "result": {
     "item": "minecraft:cobblestone_slab"

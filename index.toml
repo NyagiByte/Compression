@@ -637,8 +637,12 @@ file = "config/paxi/datapacks/compression/data/minecraft/recipes/bucket.json"
 hash = "71b6e92498a39168df0ca12ba9d63ae5d1fc9805d2d06e9e708de4f59f5d3ae7"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/chests.json"
+hash = "a17fdb905db8c5a76b366043882d51f72ba3bc232d5c982b89583694a49c0ad6"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/cobblestone_slab.json"
-hash = "a7aa6b2f3289a4b6a178d7eec3c25b45d4d93db510143d4a8a76c8d80245198f"
+hash = "f1d66815e3f83007c914f06edac76a73746a5f880e3f66fa78bf242a8bef2bae"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/crafting_table.json"
