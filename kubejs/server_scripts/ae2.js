@@ -620,6 +620,8 @@ ServerEvents.recipes(e => {
         e.remove({output: 'thermal:chiller_ball_cast'});
         e.remove({output: 'thermal:chiller_ingot_cast'});
         e.remove({output: 'thermal:chiller_rod_cast'});
+
+        e.remove({ output: 'thermal:rubber', type: 'minecraft:crafting_shaped' })
     //MEGA CELLS
         e.remove({mod: 'megacells'})
     //Bedrock Miner

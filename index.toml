@@ -2970,7 +2970,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/ae2.js"
-hash = "35cd8ca25a8b59b94dd55b51e06c2e4f43ae1255ea5f653c4cf034593fd03e50"
+hash = "c9b0c00ee834c8d609986a50506ca2ebe36ce4b08e6fd3cf4993a0afc35656ff"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
