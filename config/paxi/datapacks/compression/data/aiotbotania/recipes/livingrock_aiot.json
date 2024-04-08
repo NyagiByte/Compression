@@ -9,7 +9,9 @@
     "F": {"item":"aiotbotania:livingrock_shovel"}
   },
   "pattern": [
-    "ABA",
+    "DB ",
+    "CAE",
+    " F "
   ],
   "result": {
     "item": "aiotbotania:livingrock_aiot"

@@ -382,7 +382,7 @@ hash = "e4963756ba27ce6fe8a1c7ccfb5ec3b18838d4d3289bc55ab3204650ffa014f9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/aiotbotania/recipes/livingrock_aiot.json"
-hash = "d8d53485fec7e88d50b760e09030e450d2897f4efd97cdc2fa39af06f2566c78"
+hash = "0cc73d080edf91fa625d5b958b613ec57c3c14018c269fd0ac7fcef8fd5b106e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/alchemy_catalyst.json"
