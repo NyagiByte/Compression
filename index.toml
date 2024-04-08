@@ -554,7 +554,7 @@ hash = "10a58d8c0d921135bda833149e802b391638e962149f2050525d096dc1ba4edb"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/mechanical_press.json"
-hash = "baf60698a19591cfd02a2a16d24269d960d2c3ef7ecb483ce519ad82ce63ab1b"
+hash = "e744a6259dbca8694c54d84f61ee484b04afdefe0f662c1907eac4c6df9b2562"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/mechanical_press_T1.json"
@@ -887,6 +887,14 @@ hash = "be2a2cf14d5fefc5ac3f7db6e1bf7f5e103a0e40e6b4bafbb186dcd028fa58fc"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/smoking/agar_flakes.json"
 hash = "43c7309b5e9461cdd8c57f6ec2c9752de9222bce3e50a0cae76cc8ca28fe2e82"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/furnacing/livisite_blasting.json"
+hash = "d18c5862aa2f42fa2394f4d8fa24763df3542561eb453b2bba2946d10effb73f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/furnacing/livisite_blasting_furnace.json"
+hash = "13ad28e3a1d88d6d0e7a2a074fa1f7cd404a65b30de671674fb83275dc981c1c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/metal_press/manasteel_lattice.json"
