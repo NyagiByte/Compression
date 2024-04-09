@@ -796,6 +796,9 @@ ServerEvents.recipes(e => {
     //Compact Crafting
         e.remove({mod: 'compactcrafting'});
     //Quark
-        e.remove({not: {output: 'quark:iron_plate'}, mod: 'quark'});
+        e.remove({not: {output: 'quark:iron_plate'}, 
+                  not: {output: 'quark:iron_plate_stairs'}, 
+                  not: {output: 'quark:grate'}, 
+        mod: 'quark'});
 //------------------------------------------------------------------
 })
