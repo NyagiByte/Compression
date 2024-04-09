@@ -2498,7 +2498,7 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
-hash = "7ea6e676c1e585b9b793e719144809afbeee4cc9979fb550ea4a5c55df98d61a"
+hash = "f1082ffe895dd0f555f0e7eed5eb00fe6f9e3e890abff9763c649be1c14a1ef2"
 
 [[files]]
 file = "kubejs/README.txt"
