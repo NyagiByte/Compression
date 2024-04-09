@@ -721,11 +721,18 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			tasks: [{
-				id: "586D1940C06DB3D1"
-				item: "create:mechanical_press"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "586D1940C06DB3D1"
+					item: "create:mechanical_press"
+					type: "item"
+				}
+				{
+					id: "603C3AE2CDB0E304"
+					item: "create:water_wheel"
+					type: "item"
+				}
+			]
 			title: "Bonking your Concussy"
 			x: 0.0d
 			y: -2.5d
@@ -820,6 +827,11 @@
 				{
 					id: "18A6CFBBDCED7A01"
 					item: "create:mechanical_saw"
+					type: "item"
+				}
+				{
+					id: "60C5BBA3B8F278D2"
+					item: "create:encased_fan"
 					type: "item"
 				}
 			]
