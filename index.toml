@@ -21,6 +21,10 @@ file = ".idea/vcs.xml"
 hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
+file = ".idea/workspace.xml"
+hash = "e790ee8639a2bd9b8f4cfa82fd6e56b7544595612fc91728bf865d01a26c5382"
+
+[[files]]
 file = "README.md"
 hash = "615921c08e8e7b4b74245ac1fc5fd24918a34e74e39ae62ce8ade21b8a0e03de"
 
@@ -2322,7 +2326,7 @@ hash = "8cc138cc6fca762bdf76cbe9e88959da0e770f0bb4468c6db0bc790325fc028f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "b473472438835dd30ffd85cad2084652f532d3c27aa49b6f7e131db310c0d4af"
+hash = "22c9cafb66894c8fc25e650079779a8f2bfb750ec50af1e63769ce50882a9a48"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -2970,7 +2974,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/ae2.js"
-hash = "2d9a32be236960fc7c0b2d6f9c6575fdf63cfd544321f754f8f2b6cdd59890e0"
+hash = "ebe52fdcddb2f2f16e2747289dbdb750efed7cfc45cac8ba15b3354f2cdde1a5"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
