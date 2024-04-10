@@ -9,6 +9,7 @@
 		{"namespace": "farmersdelight", "path": "recipes/book_from_canvas.json"},
 		{"namespace": "thermal", "path": "recipes/rubber_from_dandalion.json"},
 		{"namespace": "thermal", "path": "recipes/rubber_from_vine.json"},
+		{"namespace": "thermal", "path": "recipes/explosive_grenade_4.json"},
 
 		{"namespace": "minecraft", "path": "recipes/wooden_sword.json"},
 		{"namespace": "minecraft", "path": "recipes/wooden_axe.json"},
