@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:livisite_stone"
+      },
+      {
+        "item": "minecraft:iron_nugget"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:livisite_alloy"
+      }
+    ]
+  }
