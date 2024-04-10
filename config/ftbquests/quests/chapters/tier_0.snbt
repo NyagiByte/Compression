@@ -603,7 +603,13 @@
 				"4296F49981434BC7"
 				"741704A82A2C1227"
 			]
-			description: ["The final step in creating the start of the science chain, the mighty Pen"]
+			description: [
+				"The final step in creating the start of the science chain, the mighty Pen"
+				""
+				"&bCan also place blocks and use tools given to it, go get that &epure daisy&b automated yeah? &bGiving it &eshears&b will also enable you to finally harvest &dVines&b automagically"
+				""
+				"&bAs a tip you can time the collection using an &6Etho Hopper Clock,&b or build a detector using &6observers"
+			]
 			id: "030A8303B3827284"
 			rewards: [{
 				id: "5C9D75DA7C0D6AAC"
@@ -713,7 +719,17 @@
 		}
 		{
 			dependencies: ["02903DDEA28657F2"]
-			description: ["&6I was forced by chat to give it this title I'm very sorry"]
+			description: [
+				"&6I was forced by chat to give it this title I'm very sorry"
+				""
+				"&bImportant information on create \"power\""
+				""
+				"&aThings like water wheels, wind turbines, hand cranks, and steam engines, make SU (Stress Units)"
+				""
+				"&aMachines use SU as their power source. The faster they are the more they consume"
+				""
+				"&dIf you use more SU than you are making, your system will &clock up&d until machines are removed or your SU input is upgraded by adding more of it, or connecting more powerful SU sources"
+			]
 			id: "4B89973C8D23D164"
 			rewards: [{
 				id: "2C35C83E04678DBF"
@@ -800,7 +816,21 @@
 				"02903DDEA28657F2"
 				"4B89973C8D23D164"
 			]
-			description: ["Many mechanical toys to begin building your factory"]
+			description: [
+				"Many mechanical toys to begin building your factory!"
+				""
+				"&bA quick run down of expected use cases for early automation:"
+				""
+				"&aDrill - &fGet that &dcobblestone&r generator running!"
+				"---------------------------------"
+				"&aMillstone - &fAll that passive cobble? Crush it into &dgravel&r and &dflint"
+				"---------------------------------"
+				"&aHarvester - &dWheat, Cabbage, Tomatoes, Hemp,&r and &dKelp&r are all vital to have stocked up"
+				"---------------------------------"
+				"&aSaw - &rTree farms galore for all that needed &dWood.&r Can also be used in factory lines to further process into &dplanks"
+				"---------------------------------"
+				"&aFan - &rFans can entirely replace the function of &eFurnaces, Smokers,&r and &eBlast Furnaces&r get that &dSmooth stone, Glass, &rand &dDried Kelp&r on those production lines"
+			]
 			id: "0601DBB1C7FD9207"
 			rewards: [{
 				id: "754E41B97AE3BF6C"
@@ -996,7 +1026,21 @@
 		}
 		{
 			dependencies: ["5E7D0899ECE970A7"]
-			description: ["&cI wonder if sentient rocks feel pain when you break them"]
+			description: [
+				"&cI wonder if sentient rocks feel pain when you break them"
+				""
+				"&aTemporary text until ponder is done!"
+				"Place pure daisy this way:&r"
+				""
+				"XXX"
+				"X&eD&rX"
+				"XXX"
+				""
+				"&eD&r - Pure Daisy"
+				"&dX&r - Block you wish to transform"
+				""
+				"&aYou will know it is working when you see particles appear on the block"
+			]
 			icon: "botania:pure_daisy"
 			id: "001D3CBD7E6EA142"
 			rewards: [{
@@ -1031,7 +1075,11 @@
 		}
 		{
 			dependencies: ["6F66FCCD63752DC8"]
-			description: ["The All In One Tool!"]
+			description: [
+				"The All In One Tool!"
+				""
+				"&cNote: Not all top layers of ore boulders can be mined with this tool, more &dcreative&c solutions are required"
+			]
 			id: "4D339608203DD4F6"
 			rewards: [{
 				id: "4CF70BC70865FA48"

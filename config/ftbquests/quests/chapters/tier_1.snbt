@@ -107,8 +107,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "0A1AADC1E50F97B9"
-				item: "ftbquests:missing_item"
+				id: "1C8417A73C1B175E"
+				item: "nyagibits_bytes:alchemistry_assembly"
 				type: "item"
 			}]
 			title: "Yeah You're On a List Now"

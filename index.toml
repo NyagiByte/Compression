@@ -98,11 +98,11 @@ hash = "465c4a2c6de1b74db0e4e28948be1975f95784bec6bbfe0b1a58b4fb1bedf92e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
-hash = "7cca996d581defe541b5d5e7dce6a0bb0bd37c83f43515547b92bbad6551ae55"
+hash = "eea27aa38609580a029d73f9cc4b15a29efb544521a416a83f8cabe0973615ee"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "336b0f4d2160e12c86f8606a90b3fc937e6b7945e1dc4fc2cfaf8dad1c74be7b"
+hash = "bf88244ecc43898a319904fca725dcff68a5c0336e8f5cec60e3433420c30314"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
