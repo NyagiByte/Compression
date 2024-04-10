@@ -496,8 +496,12 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:conveyor_vertical'});
         e.remove({output: 'immersiveengineering:conveyor_splitter'});
         e.remove({output: 'immersiveengineering:conveyor_extract'});
+        e.remove({output: 'immersiveengineering:ingot_nickel'});
     //Mekanism
         e.remove({mod: 'mekansim'});
+        e.remove({output: 'mekanism:ingot_uranium'});
+        e.remove({output: 'mekanism:ingot_lead'});
+        e.remove({output: 'mekanism:ingot_tin'});
     //Thermal
         e.remove({output: 'thermal:machine_frame'});
         e.remove({output: 'thermal:energy_cell_frame'});
@@ -620,14 +624,23 @@ ServerEvents.recipes(e => {
         e.remove({output: 'thermal:chiller_ball_cast'});
         e.remove({output: 'thermal:chiller_ingot_cast'});
         e.remove({output: 'thermal:chiller_rod_cast'});
+        e.remove({output: 'thermal:silver_ingot'});
 
         e.remove({ output: 'thermal:rubber', type: 'minecraft:crafting_shaped' })
     //MEGA CELLS
         e.remove({mod: 'megacells'})
     //Bedrock Miner
         e.remove({mod: 'bedrockminer'})
-    //Nuclearcraft
+    //Nuclearcraft //why were so many of these fucked like this
         e.remove({mod: 'nuclearcraft'})
+        e.remove({id: 'minecraft:nuclearcraft_zinc_raw'})
+        e.remove({output: 'nuclearcraft:zinc_ingot'});
+        e.remove({id: 'minecraft:nuclearcraft_silver_raw'})
+        e.remove({output: 'nuclearcraft:silver_ingot'});
+        e.remove({id: 'minecraft:nuclearcraft_uranium_raw'})
+        e.remove({output: 'nuclearcraft:uranium_ingot'});
+        e.remove({id: 'minecraft:nuclearcraft_tin_raw'})
+        e.remove({output: 'nuclearcraft:tin_ingot'});
     //Compact Machines
         e.remove({mod: 'compactmachines'})
     //Chromatic Return
@@ -796,9 +809,33 @@ ServerEvents.recipes(e => {
     //Compact Crafting
         e.remove({mod: 'compactcrafting'});
     //Quark
-        e.remove({not: {output: 'quark:iron_plate'}, 
-                  not: {output: 'quark:iron_plate_stairs'}, 
-                  not: {output: 'quark:grate'}, 
-        mod: 'quark'});
+        e.remove({mod: 'quark'});
+        e.shaped('quark:iron_plate', [
+            ' A ', 
+            'ABA', 
+            ' A '  
+        ], {
+            A: 'minecraft:iron_ingot', 
+            B: 'nyagibits_bytes:livisite_cobble'   
+        }
+    )
+
+        e.shaped('8x quark:iron_plate_stairs', [
+            'A  ',
+            'AA ', 
+            'AAA'  
+        ], {
+            A: 'quark:iron_plate'
+        }
+    )
+
+        e.shaped('quark:grate', [
+            'AAA', 
+            'AAA', 
+            'AAA'  
+        ], {
+            A: 'minecraft:iron_bars'
+        }
+    )
 //------------------------------------------------------------------
 })
