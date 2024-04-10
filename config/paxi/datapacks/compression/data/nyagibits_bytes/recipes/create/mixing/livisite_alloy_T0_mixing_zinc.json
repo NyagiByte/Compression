@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:livisite_stone"
+      },
+      {
+        "tag": "forge:nuggets/zinc"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:livisite_alloy"
+      }
+    ]
+  }
