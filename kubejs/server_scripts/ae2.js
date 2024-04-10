@@ -796,9 +796,33 @@ ServerEvents.recipes(e => {
     //Compact Crafting
         e.remove({mod: 'compactcrafting'});
     //Quark
-        e.remove({not: {output: 'quark:iron_plate'}, 
-                  not: {output: 'quark:iron_plate_stairs'}, 
-                  not: {output: 'quark:grate'}, 
-        mod: 'quark'});
+        e.remove({mod: 'quark'});
+        e.shaped('quark:iron_plate', [
+            ' A ', 
+            'ABA', 
+            ' A '  
+        ], {
+            A: 'minecraft:iron_ingot', 
+            B: 'nyagibits_bytes:livisite_cobble'   
+        }
+    )
+
+        e.shaped('8x quark:iron_plate_stairs', [
+            'A  ',
+            'AA ', 
+            'AAA'  
+        ], {
+            A: 'quark:iron_plate'
+        }
+    )
+
+        e.shaped('quark:grate', [
+            'AAA', 
+            'AAA', 
+            'AAA'  
+        ], {
+            A: 'minecraft:iron_bars'
+        }
+    )
 //------------------------------------------------------------------
 })
