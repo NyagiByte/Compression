@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"nyagibits_bytes:livisite_stone"},
+    "B": {"tag":"forge:nuggets/zinc"}
+  },
+  "pattern": [
+    "AB",
+    "BA"
+  ],
+  "result": {"item": "nyagibits_bytes:livisite_alloy"}
+}
