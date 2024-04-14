@@ -82,7 +82,7 @@ hash = "6dee5a071304fc1ed4480b0f1dba296099a49094bc88dedf406a652d35258135"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "5c2edb0bd468af8f74c900e3dcba5164d8ce2913851fb8b0ce00e7dbf46b5870"
+hash = "82ca4c671db10f07d16e15a7503ed03f264fb2ac173f6a46136970095a57d0cf"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"

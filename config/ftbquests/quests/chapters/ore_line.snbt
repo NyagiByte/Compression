@@ -540,6 +540,11 @@
 					item: "immersiveengineering:raw_silver"
 					type: "item"
 				}
+				{
+					id: "53FCC356B6B7D14B"
+					item: "thermal:raw_silver"
+					type: "item"
+				}
 			]
 			title: "Raw Gold and Silver"
 			x: -3.5d
