@@ -773,6 +773,14 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "6fd592b16c1eace8abd5c3adf45314384316891f6f1ef8c0bf817f99456e8ddf"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/livisite_alloy_T0_mixing_zinc.json"
+hash = "f74a7d238f487fbab525b4e20c0d55501a3fc8e0219212de679012018dde23e8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/livisite_alloy_t0_mixing.json"
+hash = "38e923e1f7b91305f2f47e50ce62abdbffba9cb63327aaf8619f8e74655e2f6d"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/sealant.json"
 hash = "16d2d233a4fbe2f2a8943267900a6e8ff7bd67b181f6eb34b89443a493907e87"
 
@@ -2221,6 +2229,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_cr
 hash = "9c8190fb10227b58ec5bf9156fd3535733037f9dadc0d53481cec2e53d7cbf14"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/livisite_alloy_T0_zinc.json"
+hash = "99479d1eaca0ba31a35790e5598d1f7166ab004625f9cc7ad02d0d1c1b5cc6d8"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/matter_converters.json"
 hash = "38513e6fab4296a3d468953bb91b4ab53ae18ffa6a7c5915526c8d985beece9f"
 
@@ -2495,6 +2507,10 @@ hash = "03840ef9a41eeee00d7f8b8fb8e5e24a1ac29ee48709434c44dc1ad7fa2ceb44"
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/yosby/options.txt"
+hash = "6601a9b91320ab684b5405758d27088e13567fc8f10c7def18faa1d65b33b03e"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
@@ -2970,7 +2986,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/ae2.js"
-hash = "ebe52fdcddb2f2f16e2747289dbdb750efed7cfc45cac8ba15b3354f2cdde1a5"
+hash = "a17f2486b7c269086698efbdc94d44a8aabcfc9f52483c3e5622b4c40c4f697e"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
@@ -3405,6 +3421,11 @@ hash = "63800317329d340d3550b00dda4fecb2861cc6a643c2390d34f446c550ff9f06"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "909e0c021f6d58d6f6a4d5cc37e6db88a37bb18287eb6120fc8b047fd234fb9f"
+metafile = true
+
+[[files]]
 file = "mods/nuclearcraft-neoteric.pw.toml"
 hash = "a64a7f239c438513d1f92766d353cfe547b9a03eaa33b53c937e179bac2ca406"
 metafile = true
@@ -3551,6 +3572,11 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "233f79cd76dc6d14c59a4cfbdc6660805c3f858e057061c1ca08df8cad73c56b"
+metafile = true
+
+[[files]]
+file = "mods/yosby.pw.toml"
+hash = "ea15ef438a1a9836b56165ecde006913119eeb17a8130225f730addf4cf99509"
 metafile = true
 
 [[files]]
