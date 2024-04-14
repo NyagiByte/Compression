@@ -3261,11 +3261,6 @@ hash = "807971d207f593d747063f389dd3809b8b82c2aa1e572e87180ab694e67e44de"
 metafile = true
 
 [[files]]
-file = "mods/forgematica.pw.toml"
-hash = "38631853e85168a278b22752dde9188816af998dacbd6eccc1ee144ba32b6ea3"
-metafile = true
-
-[[files]]
 file = "mods/forgiving-void.pw.toml"
 hash = "69c5c1b59f9a5946cbcea6e4cfb318af9bdb43d5a24a86391f1c34b1ca845b58"
 metafile = true
@@ -3562,11 +3557,6 @@ metafile = true
 [[files]]
 file = "mods/vertical-slabs-compat.pw.toml"
 hash = "0933c751ef107dc173728e8456eca8a03f088e7ccce28233707a37acda8ede5c"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
 metafile = true
 
 [[files]]
