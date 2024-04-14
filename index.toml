@@ -414,7 +414,7 @@ hash = "29024c6415bcf2fd13a3ceb5ea8432834c676dff291fc473c27338a1b1dcd015"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/livingwood_twig.json"
-hash = "2990537b971d12fc695cab75650097355af909c4911e69dc6337ee4117aabf2d"
+hash = "77179e46a6dbb31952fb9667400a3d2f121a9c9b00c7dfd035d5e9fd84aca238"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_infusion/mana_diamond.json"
@@ -771,6 +771,14 @@ hash = "d0e475c3a64a272d7ee6f5d4a73272c3e5f661fc4156e30b9ac3a7b428ee95a5"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/ink.json"
 hash = "6fd592b16c1eace8abd5c3adf45314384316891f6f1ef8c0bf817f99456e8ddf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/livisite_alloy_T0_mixing_zinc.json"
+hash = "f74a7d238f487fbab525b4e20c0d55501a3fc8e0219212de679012018dde23e8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/livisite_alloy_t0_mixing.json"
+hash = "38e923e1f7b91305f2f47e50ce62abdbffba9cb63327aaf8619f8e74655e2f6d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/sealant.json"
@@ -2221,6 +2229,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_cr
 hash = "9c8190fb10227b58ec5bf9156fd3535733037f9dadc0d53481cec2e53d7cbf14"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/livisite_alloy_T0_zinc.json"
+hash = "99479d1eaca0ba31a35790e5598d1f7166ab004625f9cc7ad02d0d1c1b5cc6d8"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/matter_converters.json"
 hash = "38513e6fab4296a3d468953bb91b4ab53ae18ffa6a7c5915526c8d985beece9f"
 
@@ -2495,6 +2507,10 @@ hash = "03840ef9a41eeee00d7f8b8fb8e5e24a1ac29ee48709434c44dc1ad7fa2ceb44"
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "e6fae4ca81fd44fad4de2260520a377efb8d2b19079fa5d6278e0523dead7a61"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
@@ -2970,7 +2986,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/ae2.js"
-hash = "ebe52fdcddb2f2f16e2747289dbdb750efed7cfc45cac8ba15b3354f2cdde1a5"
+hash = "a17f2486b7c269086698efbdc94d44a8aabcfc9f52483c3e5622b4c40c4f697e"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
