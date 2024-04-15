@@ -5,12 +5,12 @@
     "B": {"item":"nyagibits_bytes:livisite_alloy"},
     "C": {"item":"create:shaft"},
     "D": {"item":"create:brass_casing"},
-    "E": {"item":"thermal:drill_head"}
+    "E": {"item":"quark:grate"}
   },
   "pattern": [
     " AB",
     "CDE",
     " AB"
   ],
-  "result": {"count":2, "item":"create:mechanical_drill"}
+  "result": {"count":2, "item":"create:mechanical_harvester"}
 }
