@@ -193,8 +193,8 @@ file = "config/paxi/datapacks/compression/data/ae2/recipes/decorative/quartz_gla
 hash = "dd367052be1259daaad3a79d30761954e18c61edeccb9a0cdf61d409e84d0b41"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/ae2/recipes/decorative/quartz_glass_T1.json"
-hash = "1e8c8f2f822379db8bd6d25464e6932744e3010a77c8615fa9d9575546f9be0e"
+file = "config/paxi/datapacks/compression/data/ae2/recipes/decorative/quartz_glass_t1.json"
+hash = "48d4cb893420b17104d82b06e3bbe364e14e51681abb54c41b07f77397a97243"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/inscriber/calculation_processor.json"
@@ -493,8 +493,8 @@ file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/
 hash = "b3c89e166df59f1077db2e6ecce4a82203789419c706b00af86d427af2fd8de3"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/cogwheel_T1.json"
-hash = "4e23dec79022d225fb4f3254fc072d07b1f0876eae0185f872a594bbe2b60538"
+file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/cogwheel_t1.json"
+hash = "ae676f895408a903e001461dc28d74e6d0ac25456c41061df02f6db8edbf12d5"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/deployer.json"
@@ -513,8 +513,8 @@ file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/
 hash = "3ea251a1760439142c652e51e855bca9e7243d957d67f10b8add5010b0bde571"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/encased_fan_T1.json"
-hash = "2d9a64b2a980ac982e270d0e9e9257da2ecd4a930eda04fc09d2dd22ec729ff9"
+file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/encased_fan_t1.json"
+hash = "e2fc9e17aeb66969898bc5c459f6712b3ba802220c9bf296519a22f8766dbf24"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/hand_crank.json"
@@ -541,40 +541,40 @@ file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/
 hash = "82d1a65d9093eed378b86478270adf83ad391666495830f8fe9d3dbb5985b058"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/mechanical_drill_T1.json"
-hash = "eee1376d3c81b74b6fc22cc407b4d27b48378cd319db93c8e1f0cca63df2db82"
+file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/mechanical_drill_t1.json"
+hash = "d2f62d9c4912f2bd111cdf9e420e41156bb5a257c79646ac4a7f7a07bd7b5587"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/mechanical_harvester.json"
 hash = "3fc6ce265016251d9f0cbb15cc80566056df0595ca4a957f70effd3f6c2764a5"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/mechanical_harvester_T1.json"
-hash = "10a58d8c0d921135bda833149e802b391638e962149f2050525d096dc1ba4edb"
+file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/mechanical_harvester_t1.json"
+hash = "42f360933378f6173adc0f96818a8a991b0292dab9bc61c13623809072cf6660"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/mechanical_press.json"
 hash = "e744a6259dbca8694c54d84f61ee484b04afdefe0f662c1907eac4c6df9b2562"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/mechanical_press_T1.json"
-hash = "c224615c0e1f5b88ebd6981901a1f891f4c84569e4190404578be8827d9dcdb6"
+file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/mechanical_press_t1.json"
+hash = "287550fa29d55814c3bf13fd351f0f4af24b9f7852dbfbb3fde49e950f6ad657"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/mechanical_saw.json"
 hash = "7d8c9c6d8973df73584c99f41afa49ac856c2cfca73198d23d70d6ef5619a78f"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/mechanical_saw_T1.json"
-hash = "6b719250976089159036a47000f86b0bd10682ef116d1e3fa1f7d9430206d68d"
+file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/mechanical_saw_t1.json"
+hash = "b43de81b643d080b84ba456f66a8f5fcebfa2e2012f32110d5642eda7ba66215"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/millstone.json"
 hash = "7905093e93894febed4ad5d4dcefd36ab97e2348a3e3dfab29139c8a25779df0"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/millstone_T1.json"
-hash = "e74955a8f6c7bfbc0a227b3cd91946204e099c6ababe31cb91d14c62083ea908"
+file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/millstone_t1.json"
+hash = "8c24a873845acdf7a8295ef9a6011d266bcbb103fc37a9586090597254776584"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/shaft.json"
@@ -593,8 +593,8 @@ file = "config/paxi/datapacks/compression/data/create/recipes/crafting/materials
 hash = "f7811acbd82d9f44d8109c7805d5813ab9c96cae200fdf8d0ae347c3cd4ee4b8"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/create/recipes/crafting/materials/rose_quartz_T1.json"
-hash = "98a46c4162fef3c7217ca375a4a7eb2d235b9d25045d993fd5f0eb442a5258e5"
+file = "config/paxi/datapacks/compression/data/create/recipes/crafting/materials/rose_quartz_t1.json"
+hash = "1b2e1c7c69fa9a7dae03b41d989014087f00803a32c50979527586e9f41d9441"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/materials/sand_paper.json"
@@ -629,7 +629,7 @@ file = "config/paxi/datapacks/compression/data/minecraft/recipes/book.json"
 hash = "5f36b50233bb71e4a6ffbbcfad8a8175d457a5057267e52d7118a7c9ea5fc9bb"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/minecraft/recipes/bookOne.json"
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/book_one.json"
 hash = "68cb05b23404309e6b3f4a49796b129c0a5a87b6266f1cceaba8ff98263d3a69"
 
 [[files]]
@@ -773,12 +773,12 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "6fd592b16c1eace8abd5c3adf45314384316891f6f1ef8c0bf817f99456e8ddf"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/livisite_alloy_T0_mixing_zinc.json"
-hash = "f74a7d238f487fbab525b4e20c0d55501a3fc8e0219212de679012018dde23e8"
-
-[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/livisite_alloy_t0_mixing.json"
 hash = "38e923e1f7b91305f2f47e50ce62abdbffba9cb63327aaf8619f8e74655e2f6d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/livisite_alloy_t0_mixing_zinc.json"
+hash = "f74a7d238f487fbab525b4e20c0d55501a3fc8e0219212de679012018dde23e8"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/sealant.json"
@@ -2225,11 +2225,11 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_cr
 hash = "82d32f78dcebff531fdb7d1b1329c8e7d6f899119e7b6d71e342efec6cb81b25"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/livisite_alloy_T0.json"
-hash = "9c8190fb10227b58ec5bf9156fd3535733037f9dadc0d53481cec2e53d7cbf14"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/livisite_alloy_t0.json"
+hash = "77564000a8872c7ca5f9366ad5960c0cd6301cd1eee1bf46dd0eb96ca0790432"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/livisite_alloy_T0_zinc.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/livisite_alloy_t0_zinc.json"
 hash = "99479d1eaca0ba31a35790e5598d1f7166ab004625f9cc7ad02d0d1c1b5cc6d8"
 
 [[files]]
@@ -2317,7 +2317,7 @@ file = "config/paxi/datapacks/compression/data/quark/recipes/building/crafting/i
 hash = "28470b9f482265d22cff060920c5c0b854ad89f2abd877a8420329ab3df40eac"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/quark/recipes/compacting/iron_plateOne.json"
+file = "config/paxi/datapacks/compression/data/quark/recipes/compacting/iron_plate_one.json"
 hash = "61afd6154fae72237a0e74e02c0d7401ea3fa47e1e162e6ea177bf7702dddbe9"
 
 [[files]]
@@ -3427,7 +3427,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "bd9e9c1bf4fbbc9117c3664605a784b5b0362ee08a2e9bf6b5df056279fe71be"
+hash = "2c1c47e4e371352936a379e4e336b5ebbc04c99cf557d14dab73ec7ea6d5c2e6"
 
 [[files]]
 file = "mods/oculus.pw.toml"
