@@ -1,0 +1,73 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "create:basin"
+      },
+      {
+        "item": "minecraft:black_dye"
+      },
+      {
+        "item": "minecraft:yellow_dye"
+      },
+      {
+        "item": "minecraft:blue_dye"
+      },
+      {
+        "item": "minecraft:white_dye"
+      },
+      {
+        "item": "minecraft:white_dye"
+      },
+      {
+        "item": "minecraft:red_dye"
+      },
+      {
+        "item": "minecraft:red_dye"
+      },
+      {
+        "item": "minecraft:red_dye"
+      },
+      {
+        "item": "nyagibits_bytes:activated_charcoal"
+      },
+      {
+        "item": "nyagibits_bytes:activated_charcoal"
+      },
+      {
+        "item": "nyagibits_bytes:activated_charcoal"
+      },
+      {
+        "item": "nyagibits_bytes:activated_charcoal"
+      },
+      {
+        "item": "chemlib:sulfur_dust"
+      },
+      {
+        "item": "chemlib:sulfur_dust"
+      },
+      {
+        "item": "chemlib:sulfur_dust"
+      },
+      {
+        "item": "chemlib:sulfur_dust"
+      },
+      {
+        "item": "chemlib:sulfur_dust"
+      },
+      {
+        "item": "chemlib:sulfur_dust"
+      },
+      {
+        "item": "chemlib:sulfur_dust"
+      },
+      {
+        "item": "chemlib:sulfur_dust"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:desiccation_powder"
+      }
+    ]
+  }

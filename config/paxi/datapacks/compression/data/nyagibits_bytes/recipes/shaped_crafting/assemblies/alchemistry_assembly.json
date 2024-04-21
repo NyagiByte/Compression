@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:bunsen_burner"},
+      "B": {"item":"nyagibits_bytes:chemical_grade_glassware"},
+      "C": {"item":"nyagibits_bytes:ph_strips"},
+      "D": {"item":"nyagibits_bytes:electrolytic_core"},
+      "E": {"item":"create:brass_casing"},
+      "F": {"item":"nyagibits_bytes:fume_fan"},
+      "G": {"item":"nyagibits_bytes:desiccation_powder"},
+      "H": {"item":"nyagibits_bytes:chemically_inert_wood"},
+      "I": {"item":"nyagibits_bytes:chromatography_kit"}
+    },
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:alchemistry_assembly"
+    }
+  }

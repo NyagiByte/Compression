@@ -1,0 +1,17 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {
+        "item": "nyagibits_bytes:sterilized_quartz_glass"
+      }
+    },
+    "pattern": [
+      "    AA",
+      "AAAAAA",
+      "  A A "
+    ],
+    "result": {
+      "item": "nyagibits_bytes:distillation_column"
+    }
+  }

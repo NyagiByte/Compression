@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:beaker"},
+      "B": {"item":"nyagibits_bytes:distillation_column"},
+      "C": {"item":"nyagibits_bytes:round_bottom_flask"},
+      "D": {"item":"nyagibits_bytes:inlet"},
+      "E": {"item":"nyagibits_bytes:burette"},
+      "F": {"item":"nyagibits_bytes:sturdy_tray"}
+    },
+    "pattern": [
+      "A B",
+      "CDE",
+      " F "
+    ],
+    "result": {
+        "item": "nyagibits_bytes:chemical_grade_glassware"
+    }
+  }

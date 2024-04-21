@@ -1,0 +1,20 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {
+        "item": "nyagibits_bytes:sterilized_quartz_glass"
+      },
+      "B": {
+        "item": "thermal:cured_rubber"
+      }
+    },
+    "pattern": [
+      " B      ",
+      "AAAAAAAA",
+      " A      "
+    ],
+    "result": {
+      "item": "nyagibits_bytes:burette"
+    }
+  }

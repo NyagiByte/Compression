@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:rubberized_cable"},
+      "B": {"item":"thermal:cured_rubber_block"},
+      "C": {"item":"nyagibits_bytes:sterilized_quartz_glass"},
+      "D": {"item":"nyagibits_bytes:ceramic"},
+      "E": {"item":"minecraft:white_terracotta"}
+    },
+    "pattern": [
+      "ABA",
+      "CCC",
+      "DED"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:electrolytic_core"
+    }
+  }

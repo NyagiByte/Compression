@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:sterilized_quartz_glass"},
+      "B": {"item":"thermal:cured_rubber"}
+    },
+    "pattern": [
+      "AAA",
+      "BAB",
+      " A "
+    ],
+    "result": {
+        "item": "nyagibits_bytes:inlet"
+    }
+  }

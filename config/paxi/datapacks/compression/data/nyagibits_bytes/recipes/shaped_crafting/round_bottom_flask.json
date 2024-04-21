@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:sterilized_quartz_glass"}
+    },
+    "pattern": [
+      " A ",
+      "A A",
+      "AAA"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:round_bottom_flask"
+    }
+  }
