@@ -2124,11 +2124,18 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			tasks: [{
-				id: "36DC21C14579A482"
-				item: "immersiveengineering:raw_lead"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "36DC21C14579A482"
+					item: "immersiveengineering:raw_lead"
+					type: "item"
+				}
+				{
+					id: "0F2021918C57D742"
+					item: "thermal:raw_lead"
+					type: "item"
+				}
+			]
 			title: "Raw Lead"
 			x: -3.5d
 			y: 7.5d
@@ -2333,8 +2340,8 @@
 			}]
 			shape: "hexagon"
 			tasks: [{
-				id: "5B621EC8666A167B"
-				item: "immersiveengineering:raw_nickel"
+				id: "5FBAFDE0FE0500E2"
+				item: "thermal:raw_nickel"
 				type: "item"
 			}]
 			title: "Raw Nickel"
@@ -2542,8 +2549,8 @@
 			}]
 			shape: "hexagon"
 			tasks: [{
-				id: "73D0E9AA6F61FA0F"
-				item: "mekanism:raw_uranium"
+				id: "2F5F7AFEEB81FA37"
+				item: "nuclearcraft:uranium_chunk"
 				type: "item"
 			}]
 			title: "Raw Uranium and Thorium"
