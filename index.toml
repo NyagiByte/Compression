@@ -3424,6 +3424,11 @@ hash = "632cc987bec151520dd5636f1152c7b7af67403a5957adfdcc6d3c2e4d39ac79"
 metafile = true
 
 [[files]]
+file = "mods/immersive-petroleum.pw.toml"
+hash = "75f5e193bbe59997aadecb9f61ad1dad409acbcc1c60bdcdb2c5a6f32cacebda"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "66a9a95ce268c2bcb7c3e7ce3cb1325b3708631161fed2e831780b5a37093add"
 metafile = true
