@@ -617,6 +617,18 @@ file = "config/paxi/datapacks/compression/data/farmersdelight/recipes/mixing/str
 hash = "c697c815e2dd313e2f9f45270da5678056616d678dd71601e84592cceb160643"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blastbrick.json"
+hash = "d5249177deebaaa757bd88bdeadf989e9f619adc3264245168c064216e2bf483"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/cokebrick.json"
+hash = "c266e5fba179d8e929b1715380fefa97c103bc0a9c82871ca3b20e9ab0c1a124"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/hammer.json"
+hash = "15fd28b5a4fa7e8a789e22203e477711ec6918f154e3558808b8fee66ae576e9"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/mekanism/recipes/creatified/charcoal_dust.json"
 hash = "1839ce45ee72bbab8b5f51b08eaff617141875f924feadede7163ab9c3d3ddaa"
 
@@ -3082,7 +3094,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "a17f2486b7c269086698efbdc94d44a8aabcfc9f52483c3e5622b4c40c4f697e"
+hash = "9ed6a1478a509397b81ff21f8ca44467b6389a25b2c86467005363d0734750dc"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"

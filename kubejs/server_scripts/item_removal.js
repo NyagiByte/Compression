@@ -365,7 +365,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:plate_duroplast'});
         e.remove({output: 'immersiveengineering:empty_casing'});
         e.remove({output: 'immersiveengineering:empty_shell'});
-        e.remove({output: 'immersiveengineering:hammer'});
         e.remove({output: 'immersiveengineering:wirecutter'});
         e.remove({output: 'immersiveengineering:screwdriver'});
         e.remove({output: 'immersiveengineering:voltmeter'});
@@ -437,8 +436,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:armor_faraday_chest'});
         e.remove({output: 'immersiveengineering:armor_faraday_legs'});
         e.remove({output: 'immersiveengineering:armor_faraday_feet'});
-        e.remove({output: 'immersiveengineering:cokebrick'});
-        e.remove({output: 'immersiveengineering:blastbrick'});
         e.remove({output: 'immersiveengineering:blastbrick_reinforced'});
         e.remove({output: 'immersiveengineering:insulating_glass'});
         e.remove({output: 'immersiveengineering:alloybrick'});
