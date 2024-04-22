@@ -3094,7 +3094,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "9ed6a1478a509397b81ff21f8ca44467b6389a25b2c86467005363d0734750dc"
+hash = "e14bab22af73feed4eb790b9993a16700963fefcdfcacfab40f4351e8074ee3e"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"

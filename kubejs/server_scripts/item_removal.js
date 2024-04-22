@@ -792,5 +792,23 @@ ServerEvents.recipes(e => {
         e.remove({output: 'pneumaticcraft:vacuum_trap'});
     //Compact Crafting
         e.remove({mod: 'compactcrafting'});
+    //Drawers
+        e.remove({output: 'storagedrawers:obsidian_storage_upgrade'});
+        e.remove({output: 'storagedrawers:iron_storage_upgrade'});
+        e.remove({output: 'storagedrawers:gold_storage_upgrade'});
+        e.remove({output: 'storagedrawers:diamond_storage_upgrade'});
+        e.remove({output: 'storagedrawers:emerald_storage_upgrade'});
+        e.remove({output: 'storagedrawers:controller_slave'});
+        e.remove({output: 'storagedrawers:controller'});
+        e.remove({output: 'storagedrawers:compacting_drawers_3'});
+        e.remove({output: 'storagedrawers:oak_trim'});
+        e.remove({output: 'storagedrawers:birch_trim'});
+        e.remove({output: 'storagedrawers:spruce_trim'});
+        e.remove({output: 'storagedrawers:jungle_trim'});
+        e.remove({output: 'storagedrawers:acacia_trim'});
+        e.remove({output: 'storagedrawers:dark_oak_trim'});
+        e.remove({output: 'storagedrawers:crimson_trim'});
+        e.remove({output: 'storagedrawers:warped_trim'});
+
 //------------------------------------------------------------------
 })
