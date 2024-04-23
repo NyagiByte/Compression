@@ -3354,9 +3354,8 @@ hash = "246f9e0d7a89cc45148ba28243aff0ff31874ab638e340c545d508a89141a3a1"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "1bda822071a014b1812753d4602a42ebd70be863dfdf1761f4b1ae5b6873fb6e"
-metafile = true
+file = "mods/fancymenu_forge_3.1.5_MC_1.19.2.jar"
+hash = "fc8a23da2541d93ddce4c175fa111d8e038a6d0e4bcdcae403a9f399e8030c1e"
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
@@ -3469,6 +3468,10 @@ hash = "657ae63e2d5f25867c9d179784eaae3b53ff5e1ba31533781b476c93becb5264"
 metafile = true
 
 [[files]]
+file = "mods/konkrete_forge_1.8.0_MC_1.19-1.19.2.jar"
+hash = "2c1902deb1587f28a35874b0e9c4a367111ebb3ea7e39838dd0050b37b483832"
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
@@ -3524,9 +3527,8 @@ hash = "f6cc47777418eada79b50d6cdd57bd6dc35017f8e46defd5e888a2d6215be0e1"
 metafile = true
 
 [[files]]
-file = "mods/melody.pw.toml"
-hash = "313e8d86888699c1b31c8440938b7512171ad7f123f0ef4689878f933eff188e"
-metafile = true
+file = "mods/melody_forge_1.0.1_MC_1.19.2.jar"
+hash = "c9ce1a75bf33ff10bd1dd6074a7b39ed49fc7e03173e7ea9dc7d61715bd3d11b"
 
 [[files]]
 file = "mods/mod-name-tooltip.pw.toml"
