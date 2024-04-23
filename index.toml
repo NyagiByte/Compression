@@ -3354,6 +3354,11 @@ hash = "246f9e0d7a89cc45148ba28243aff0ff31874ab638e340c545d508a89141a3a1"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "1bda822071a014b1812753d4602a42ebd70be863dfdf1761f4b1ae5b6873fb6e"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "fc61146eab089feb4f979289ba3aca698b538aa5bd3eba5f18ac0c80090c589f"
 metafile = true
@@ -3459,6 +3464,11 @@ hash = "aa19f1e147d97a697e4fb84f061db2ad6735ecca27d29ed6c233f8384449c9ee"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "657ae63e2d5f25867c9d179784eaae3b53ff5e1ba31533781b476c93becb5264"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
@@ -3511,6 +3521,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "f6cc47777418eada79b50d6cdd57bd6dc35017f8e46defd5e888a2d6215be0e1"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "313e8d86888699c1b31c8440938b7512171ad7f123f0ef4689878f933eff188e"
 metafile = true
 
 [[files]]
