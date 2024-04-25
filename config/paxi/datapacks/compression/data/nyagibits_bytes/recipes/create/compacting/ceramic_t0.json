@@ -1,0 +1,44 @@
+{
+    "type": "create:compacting",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "minecraft:white_glazed_terracotta"
+      },
+      {
+        "item": "thermal:quartz_dust"
+      },
+      {
+        "item": "minecraft:terracotta"
+      },
+      {
+        "item": "minecraft:clay_ball"
+      },
+      {
+        "item": "minecraft:clay_ball"
+      },
+      {
+        "item": "minecraft:clay_ball"
+      },
+      {
+        "item": "minecraft:clay_ball"
+      },
+      {
+        "item": "minecraft:clay_ball"
+      },
+      {
+        "item": "minecraft:clay_ball"
+      },
+      {
+        "item": "minecraft:clay_ball"
+      },
+      {
+        "item": "minecraft:clay_ball"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:ceramic"
+      }
+    ]
+  }

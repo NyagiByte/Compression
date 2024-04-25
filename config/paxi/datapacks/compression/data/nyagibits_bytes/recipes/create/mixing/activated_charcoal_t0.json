@@ -1,0 +1,27 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "thermal:charcoal_block"
+      },
+      {
+        "item": "nyagibits_bytes:bottle_of_malic_and_citric_acid"
+      },
+      {
+        "item": "nyagibits_bytes:bottle_of_malic_and_citric_acid"
+      },
+      {
+        "item": "nyagibits_bytes:bottle_of_malic_and_citric_acid"
+      },
+      {
+        "item": "nyagibits_bytes:bottle_of_malic_and_citric_acid"
+      }
+    ],
+    "results": [
+      {
+        "count": 4,
+        "item": "nyagibits_bytes:activated_charcoal"
+      }
+    ]
+  }

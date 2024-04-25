@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"create:copper_sheet"},
+      "B": {"item":"thermal:cured_rubber"},
+      "C": {"item":"nyagibits_bytes:ceramic"}
+    },
+    "pattern": [
+      " A ",
+      "BCB",
+      " A "
+    ],
+    "result": {
+        "count": 4,
+        "item": "nyagibits_bytes:rubberized_cable"
+    }
+  }

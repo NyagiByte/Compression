@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"create:brass_block"},
+      "B": {"item":"botania:livingwood_wall"},
+      "C": {"item":"create:wrench"}
+    },
+    "pattern": [
+      " A ",
+      " BA",
+      "C  "
+    ],
+    "result": {
+        "item": "immersiveengineering:hammer"
+    }
+  }

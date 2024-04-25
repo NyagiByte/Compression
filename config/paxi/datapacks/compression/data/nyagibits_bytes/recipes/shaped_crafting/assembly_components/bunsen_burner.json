@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"minecraft:flint_and_steel"},
+      "B": {"item":"quark:iron_pillar"},
+      "C": {"item":"create:smart_fluid_pipe"},
+      "D": {"item":"create:brass_sheet"},
+      "E": {"item":"quark:iron_plate"}
+    },
+    "pattern": [
+      "AB ",
+      " BC",
+      "DED"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:bunsen_burner"
+    }
+  }

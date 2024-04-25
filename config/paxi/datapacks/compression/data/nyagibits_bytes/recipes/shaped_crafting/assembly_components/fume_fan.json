@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"minecraft:polished_andesite_slab"},
+      "B": {"item":"nyagibits_bytes:chemically_inert_wood"},
+      "C": {"item":"chemlib:zinc_plate"},
+      "D": {"item":"create:encased_fan"},
+      "E": {"item":"create:copper_sheet"}
+    },
+    "pattern": [
+      "ABA",
+      "CDC",
+      "EBA"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:fume_fan"
+    }
+  }

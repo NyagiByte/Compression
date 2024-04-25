@@ -1,0 +1,41 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "botania:livingwood_wall"
+      },
+      {
+        "item": "botania:stripped_livingwood_wall"
+      },
+      {
+        "item": "nyagibits_bytes:bottle_of_malic_and_citric_acid"
+      },
+      {
+        "item": "nyagibits_bytes:bottle_of_malic_and_citric_acid"
+      },
+      {
+        "item": "nyagibits_bytes:bottle_of_malic_and_citric_acid"
+      },
+      {
+        "item": "nyagibits_bytes:bottle_of_malic_and_citric_acid"
+      },
+      {
+        "item": "nyagibits_bytes:bottle_of_malic_and_citric_acid"
+      },
+      {
+        "item": "nyagibits_bytes:bottle_of_malic_and_citric_acid"
+      },
+      {
+        "item": "nyagibits_bytes:bottle_of_malic_and_citric_acid"
+      },
+      {
+        "item": "nyagibits_bytes:bottle_of_malic_and_citric_acid"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:chemically_inert_wood"
+      }
+    ]
+  }

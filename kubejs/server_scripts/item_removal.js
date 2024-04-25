@@ -365,7 +365,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:plate_duroplast'});
         e.remove({output: 'immersiveengineering:empty_casing'});
         e.remove({output: 'immersiveengineering:empty_shell'});
-        e.remove({output: 'immersiveengineering:hammer'});
         e.remove({output: 'immersiveengineering:wirecutter'});
         e.remove({output: 'immersiveengineering:screwdriver'});
         e.remove({output: 'immersiveengineering:voltmeter'});
@@ -437,8 +436,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:armor_faraday_chest'});
         e.remove({output: 'immersiveengineering:armor_faraday_legs'});
         e.remove({output: 'immersiveengineering:armor_faraday_feet'});
-        e.remove({output: 'immersiveengineering:cokebrick'});
-        e.remove({output: 'immersiveengineering:blastbrick'});
         e.remove({output: 'immersiveengineering:blastbrick_reinforced'});
         e.remove({output: 'immersiveengineering:insulating_glass'});
         e.remove({output: 'immersiveengineering:alloybrick'});
@@ -795,5 +792,23 @@ ServerEvents.recipes(e => {
         e.remove({output: 'pneumaticcraft:vacuum_trap'});
     //Compact Crafting
         e.remove({mod: 'compactcrafting'});
+    //Drawers
+        e.remove({output: 'storagedrawers:obsidian_storage_upgrade'});
+        e.remove({output: 'storagedrawers:iron_storage_upgrade'});
+        e.remove({output: 'storagedrawers:gold_storage_upgrade'});
+        e.remove({output: 'storagedrawers:diamond_storage_upgrade'});
+        e.remove({output: 'storagedrawers:emerald_storage_upgrade'});
+        e.remove({output: 'storagedrawers:controller_slave'});
+        e.remove({output: 'storagedrawers:controller'});
+        e.remove({output: 'storagedrawers:compacting_drawers_3'});
+        e.remove({output: 'storagedrawers:oak_trim'});
+        e.remove({output: 'storagedrawers:birch_trim'});
+        e.remove({output: 'storagedrawers:spruce_trim'});
+        e.remove({output: 'storagedrawers:jungle_trim'});
+        e.remove({output: 'storagedrawers:acacia_trim'});
+        e.remove({output: 'storagedrawers:dark_oak_trim'});
+        e.remove({output: 'storagedrawers:crimson_trim'});
+        e.remove({output: 'storagedrawers:warped_trim'});
+
 //------------------------------------------------------------------
 })

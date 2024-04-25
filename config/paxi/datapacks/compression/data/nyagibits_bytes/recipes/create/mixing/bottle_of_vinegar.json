@@ -1,0 +1,48 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "pneumaticcraft:yeast_culture_bucket"
+      },
+      {
+        "item": "nyagibits_bytes:bottle_of_malic_and_citric_acid"
+      },
+      {
+        "amount": 500,
+        "fluid": "minecraft:water"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:bottle_of_vinegar"
+      },
+      {
+        "item": "minecraft:bucket"
+      }
+    ]
+  }

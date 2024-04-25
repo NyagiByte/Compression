@@ -1,0 +1,194 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "create:blaze_burner"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "immersiveengineering:cokebrick"
+      },
+      {
+        "item": "nyagibits_bytes:immersive_engineering_schematic"
+      }
+    ],
+    "results": [
+      {
+        "count": 27,
+        "item": "immersiveengineering:blastbrick"
+      }
+    ]
+  }

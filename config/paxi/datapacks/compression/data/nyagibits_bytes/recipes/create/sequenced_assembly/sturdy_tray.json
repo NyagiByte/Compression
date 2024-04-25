@@ -1,0 +1,40 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "nyagibits_bytes:chemically_inert_wood"},
+    "loops": 1,
+    "results": [
+      {
+        "item": "nyagibits_bytes:sturdy_tray"
+    }
+    ],
+    "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "nyagibits_bytes:chemically_inert_wood"
+        }
+      ],
+      "results": [
+        {
+          "item": "nyagibits_bytes:chemically_inert_wood"
+        }  
+      ]
+    },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:chemically_inert_wood"
+          }
+        ],
+        "processingTime": 500,
+        "results": [
+          {
+            "item": "nyagibits_bytes:chemically_inert_wood"
+          }  
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:chemically_inert_wood"}
+  }

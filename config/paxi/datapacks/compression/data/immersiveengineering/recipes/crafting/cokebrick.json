@@ -1,0 +1,116 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "minecraft:blast_furnace"
+      },
+      {
+        "item": "ae2:sky_stone_tank"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:immersive_engineering_schematic"
+      }
+    ],
+    "results": [
+      {
+        "count": 27,
+        "item": "immersiveengineering:cokebrick"
+      }
+    ]
+  }

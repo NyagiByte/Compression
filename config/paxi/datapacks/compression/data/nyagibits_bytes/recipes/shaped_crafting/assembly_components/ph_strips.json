@@ -1,0 +1,133 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "create:basin"
+      },
+      {
+        "item": "minecraft:black_dye"
+      },
+      {
+        "item": "minecraft:black_dye"
+      },
+      {
+        "item": "minecraft:cyan_dye"
+      },
+      {
+        "item": "minecraft:cyan_dye"
+      },
+      {
+        "item": "minecraft:lime_dye"
+      },
+      {
+        "item": "minecraft:lime_dye"
+      },
+      {
+        "item": "minecraft:magenta_dye"
+      },
+      {
+        "item": "minecraft:magenta_dye"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      },
+      {
+        "item": "nyagibits_bytes:ph_strip"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:ph_strips"
+      }
+    ]
+  }
