@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"botania:livingwood_twig"},
+      "B": {"item":"create:brass_nugget"},
+      "C": {"item":"botania:livingwood_fence_gate"},
+      "D": {"item":"create:sail_frame"}
+    },
+    "pattern": [
+      "ABA",
+      "CDC",
+      "ABA"
+    ],
+    "result": {
+        "count": 4,
+        "item":"storagedrawers:upgrade_template"
+    }
+  }

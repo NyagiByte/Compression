@@ -49,6 +49,102 @@ file = "config/emi.css"
 hash = "04aa98aaa9d9915743aad1731e4e188e3c6bce024a8148a2037edf70460c2392"
 
 [[files]]
+file = "config/fancymenu/assets/blackbackground.png"
+hash = "d7da16ca03c4543195c9d6a545d0c7a590067b329ae8527672505d6b9899f52d"
+
+[[files]]
+file = "config/fancymenu/assets/compression16.png"
+hash = "02ea842f03585dc58ea0cda0f6c70385b3143bc74b9cead4479c99375047946e"
+
+[[files]]
+file = "config/fancymenu/assets/compression32.png"
+hash = "f7e42fc5e1e919151c65a0a36aed777d4e592cf97a1292b2ecf816b611c81a68"
+
+[[files]]
+file = "config/fancymenu/assets/compressionexit.png"
+hash = "eb50feedcc314603346611107a72f404402e552eca858b4223eee1d6a1666233"
+
+[[files]]
+file = "config/fancymenu/assets/compressionicon.icns"
+hash = "803f04994339c9b15cca17b91a260006f1d3811c7ae29a9a93560d83511fff35"
+
+[[files]]
+file = "config/fancymenu/assets/compressionicon.png"
+hash = "27b9d0879c856f660f92c153a85f48025c2b5b044bbc994956dadc079932cf86"
+
+[[files]]
+file = "config/fancymenu/assets/compressionlogo.png"
+hash = "56a2fcc6f6f2aa0daf862a45522a186d9714f913e39b57ebb5bab096dcbaf4bd"
+
+[[files]]
+file = "config/fancymenu/assets/compressionmultiplayer.png"
+hash = "83275205f064e195336b0c7d7fac4e4135bc2a203af201b31c783ad8e9b73ea4"
+
+[[files]]
+file = "config/fancymenu/assets/compressionplay.png"
+hash = "e556ae3065850cecc1af78852ad2bc07f91a950bbb606a5db708af8a6750d251"
+
+[[files]]
+file = "config/fancymenu/assets/compressionplayreal.png"
+hash = "937eb99cf27bff021888162c635b6ba04af13fe5524d175741a36c867937ec9c"
+
+[[files]]
+file = "config/fancymenu/assets/compressionsettings.png"
+hash = "a290d28ae63fb4b1cbe63e0a128478830c959361277151a3e23962a9aec3407c"
+
+[[files]]
+file = "config/fancymenu/assets/compressionsettingsreal.png"
+hash = "df4d6ae7a3b8b00022cafb6f80b43c514ac0dbd34d88dccfb85ab215fb9b90f6"
+
+[[files]]
+file = "config/fancymenu/assets/menu.ogg"
+hash = "b0ad3d8aacb1d86cc10f81607a2b305ee741c18daf77114c1b086540cbaaf0a8"
+
+[[files]]
+file = "config/fancymenu/assets/transparent_picture.png"
+hash = "b144377c58b90f9503cbaedb07f2749be28752ee327165ef29a8e6a2f34d4812"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "2696361227caf078628776aa7032556acc386799342e2008c9a3c80b678a62e6"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout_1.txt"
+hash = "9d3d03585013de3b2cf1b67c9343d0300fecb9321eaec7d48fe0cd73796a83ac"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "d59aea1d3901e73a70343d9ee45dac6125dea62f89928cb73ec6d44cbcca2f58"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "config/flywheel-client.toml"
 hash = "0d0e22785b8811b4010b7cf39f78fcfb25e31e70558176a52cb9e95ea9202c8f"
 
@@ -2337,6 +2433,26 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_cr
 hash = "38513e6fab4296a3d468953bb91b4ab53ae18ffa6a7c5915526c8d985beece9f"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/mixed_seed_processing/mixed_to_farmers_delight.json"
+hash = "bb238a9765782489751bba35717c3908fe9992f8ce6cd38830d1fbd2d8ef3da1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/mixed_seed_processing/mixed_to_hemp.json"
+hash = "bdf8bb5d1a4625792e7d21b5418e28fe9bc71aac04ce95d0ddcf04e55409179a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/mixed_seed_processing/mixed_to_melon.json"
+hash = "07f102f318686210c43db30870efeb656c01fcbd6362ac6261b769a72033ed44"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/mixed_seed_processing/mixed_to_pumpkin.json"
+hash = "1ade3cc8c453b557d1f9f145c8fe2b63cbfc98fe4beca277565e33de764eac77"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/mixed_seed_processing/mixed_to_wheat.json"
+hash = "97c03d1b59ba816ffa64169d584379715fc12de8f75e7b7c929a8c6d3165eceb"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/processor_stack.json"
 hash = "4a3bf398074cd9f6f62c1867955630234f674854821711e22c671f69fd66e43d"
 
@@ -2429,6 +2545,10 @@ file = "config/paxi/datapacks/compression/data/quark/recipes/compacting/iron_pla
 hash = "61afd6154fae72237a0e74e02c0d7401ea3fa47e1e162e6ea177bf7702dddbe9"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/storagedrawers/recipes/upgrade_template.json"
+hash = "b055c5dc6e3e60b2c13dd51c248fd5ac341700661693566160d592c2dba397ca"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/thermal/recipes/drill_head.json"
 hash = "3080a0a95e0e6c7bec0b8077e3b1fe3b5c166f07fbb86e67a0df44b12c326126"
 
@@ -2442,7 +2562,7 @@ hash = "8cc138cc6fca762bdf76cbe9e88959da0e770f0bb4468c6db0bc790325fc028f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "71e12f56d07856aa297636445cc8ef7f017799ee8bbca33b784ef3d54d7f0f3c"
+hash = "6fb24a1db1d57f544a9f5d453b880aa4b38aa4213a6858c27745192b1c5b46e6"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -2618,7 +2738,7 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "e6fae4ca81fd44fad4de2260520a377efb8d2b19079fa5d6278e0523dead7a61"
+hash = "3fbadecc2640dd32686dca212c619b62f4d6556118f0d08573117dd6bf8c72e7"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
@@ -2686,7 +2806,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
-hash = "9d3f88eaaf41cf90cc704465bb572e3fa2e00a64a958816aafe34ffec115064c"
+hash = "6aba4f7ca577078e1d96f9cb9e617079c20771744cb7f762c31b4fbb66ed1035"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/compactcrafting.js"
