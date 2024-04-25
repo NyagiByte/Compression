@@ -7,6 +7,7 @@
 	"filter": { "block": [
 		
 		{"namespace": "farmersdelight", "path": "recipes/book_from_canvas.json"},
+		{"namespace": "farmersdelight", "path": "recipes/paper_from_tree_bark.json"},
 		{"namespace": "thermal", "path": "recipes/rubber_from_dandalion.json"},
 		{"namespace": "thermal", "path": "recipes/rubber_from_vine.json"},
 		{"namespace": "thermal", "path": "recipes/explosive_grenade_4.json"},
@@ -103,6 +104,7 @@
 		{"namespace": "create", "path": "recipes/item_application/brass_casing_from_wood.json"},
 		{"namespace": "create", "path": "recipes/milling/charcoal.json"},
 		{"namespace": "create", "path": "recipes/milling/wool.json"},
+		{"namespace": "create", "path": "recipes/pressing/sugar_cane.json"},
 		{"namespace": "ae2", "path": "recipes/network/cables/dense_smart_from_smart"},
 		{"namespace": "botania", "path": "recipes/stonecutting/livingrock_to_polished_livingrock.json"},
 		{"namespace": "botania", "path": "recipes/mana_fluxfield.json"},
