@@ -2753,6 +2753,10 @@ file = "defaultconfigs/immersiveengineering-server.toml"
 hash = "f1082ffe895dd0f555f0e7eed5eb00fe6f9e3e890abff9763c649be1c14a1ef2"
 
 [[files]]
+file = "defaultconfigs/serverconfig/create-server.toml"
+hash = "b4c7394a26bee7e7f41c201a4e7d151e3b9c8719da0ef3945d9ce867c59308de"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
 
