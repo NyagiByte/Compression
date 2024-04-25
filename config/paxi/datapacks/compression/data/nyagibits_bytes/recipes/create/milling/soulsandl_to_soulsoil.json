@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "minecraft:soul_sand"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "minecraft:soul_soil"
+      }
+    ]
+  }

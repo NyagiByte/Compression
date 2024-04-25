@@ -873,6 +873,14 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "0f99f1ec9464968d84c23f568127b2f01370513f4e79d1d3963e5ddd38cbd1bf"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/soulsandl_to_soulsoil.json"
+hash = "71e7c3b6d9f9c6454d502d53e4f2380f57e868e604a9983e46bed34a7db1ef8a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/soulsoil_to_soulsand.json"
+hash = "030a45f1306b0d035f16fc38eb8558753f992bff09f66a68680e43cd25c7efaf"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/torn_wool_ball.json"
 hash = "d58fde63485e3c92c4775130b7d64edeb40c18ff16325fed033ba4a40b94f408"
 
