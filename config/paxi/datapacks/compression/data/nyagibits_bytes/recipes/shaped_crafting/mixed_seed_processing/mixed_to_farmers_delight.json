@@ -1,0 +1,27 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:mixed_seeds"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "chance": 0.75,
+        "item": "farmersdelight:onion"
+      },
+      {
+        "chance": 0.75,
+        "item": "farmersdelight:tomato_seeds"
+      },
+      {
+        "chance": 0.75,
+        "item": "farmersdelight:cabbage_seeds"
+      },
+      {
+        "chance": 0.75,
+        "item": "farmersdelight:rice"
+      }
+    ]
+  }
