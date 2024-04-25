@@ -64,27 +64,35 @@ Ponder.registry((e) => {
             .scene("PureDaisy", "Utilising The Pure Daisy", "kubejs:botania_7x7", (scene, util) => {
                 scene.showBasePlate();
                 scene.idle(10);
-                scene.world.setBlock([3,1,1], "botania:pure_daisy", false);
+                scene.world.setBlock([3,1,3], "botania:pure_daisy", false);
                 scene.world.showSection([3,1,3], Facing.down);
                 scene.idle(20);
                 scene.overlay.showOutline(PonderPalette.WHITE, "airgap", [3,1,3], 60);
-                scene.text(60, "This Is A Pure Daisy It Is A Functional Flower That Changes Blocks Placed Around It", [2,1.5,2]);
+                scene.text(60, "This Is A Pure Daisy It Is A Functional Flower That Changes Blocks Placed Around It", [3,1.5,3]);
                 scene.idle(70);
                 scene.world.setBlock([2,1,2], "minecraft:stone",true);
+                scene.world.showSection([2,1,2], Facing.down);
                 scene.idle(5);
                 scene.world.setBlock([3,1,2], "minecraft:stone",true);
+                scene.world.showSection([3,1,2], Facing.down);
                 scene.idle(5);
                 scene.world.setBlock([4,1,2], "minecraft:stone",true);
+                scene.world.showSection([4,1,2], Facing.down);
                 scene.idle(5);
                 scene.world.setBlock([4,1,3], "minecraft:stone",true);
+                scene.world.showSection([4,1,3], Facing.down);
                 scene.idle(5);
                 scene.world.setBlock([4,1,4], "minecraft:stone",true);
+                scene.world.showSection([4,1,4], Facing.down);
                 scene.idle(5);
                 scene.world.setBlock([3,1,4], "minecraft:stone",true);
+                scene.world.showSection([3,1,4], Facing.down);
                 scene.idle(5);
                 scene.world.setBlock([2,1,4], "minecraft:stone",true);
+                scene.world.showSection([2,1,4], Facing.down);
                 scene.idle(5);
                 scene.world.setBlock([2,1,3], "minecraft:stone",true);
+                scene.world.showSection([2,1,3], Facing.down);
                 scene.idle(5);
                 scene.markAsFinished()
             });
