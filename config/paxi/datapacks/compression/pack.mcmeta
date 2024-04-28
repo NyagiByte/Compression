@@ -106,8 +106,6 @@
 		{"namespace": "create", "path": "recipes/milling/wool.json"},
 		{"namespace": "create", "path": "recipes/pressing/sugar_cane.json"},
 		{"namespace": "create", "path": "recipes/sequenced_assembly/precision_mechanism.json"},
-		{"namespace": "create", "path": "recipes/deploying/cogwheel.json"},
-		{"namespace": "create", "path": "recipes/deploying/large_cogwheel.json"},
 		{"namespace": "ae2", "path": "recipes/network/cables/dense_smart_from_smart"},
 		{"namespace": "botania", "path": "recipes/stonecutting/livingrock_to_polished_livingrock.json"},
 		{"namespace": "botania", "path": "recipes/mana_fluxfield.json"},
@@ -116,6 +114,9 @@
 		{"namespace": "botania", "path": "recipes/corporea_funnel.json"},
 		{"namespace": "botania", "path": "recipes/corporea_interceptor.json"},
 		{"namespace": "botania", "path": "recipes/corporea_crystal_cube.json"},
-		{"namespace": "botania", "path": "recipes/corporea_retainer.json"}
+		{"namespace": "botania", "path": "recipes/corporea_retainer.json"},
+
+		{"namespace": "immersiveengineering", "path": "loot_modifiers/hemp_from_grass.json"},
+		{"namespace": "immersiveengineering", "path": "loot_modifiers/hemp_from_tall_grass.json"}
 	]}
 }
