@@ -3668,6 +3668,11 @@ hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
 metafile = true
 
 [[files]]
+file = "mods/music-triggers.pw.toml"
+hash = "117f4ee58b26cabd9943e19352b770a9ab569fb0711270028917129194e6bdda"
+metafile = true
+
+[[files]]
 file = "mods/mythicbotany.pw.toml"
 hash = "6bd7068b5350d68cf36658290368084fe9fa3caf18f39553648710e875729d8d"
 metafile = true
@@ -3809,6 +3814,11 @@ metafile = true
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
 hash = "5b41c25289361f7791a080ef812c7cab6d9f63ab57b63b0d3ec6694bb78d18dc"
+metafile = true
+
+[[files]]
+file = "mods/the-impossible-library.pw.toml"
+hash = "80c496c73b0f19043434515e2aa4bed0f2e1ea6dfae2c56868f38974f0b6addc"
 metafile = true
 
 [[files]]
