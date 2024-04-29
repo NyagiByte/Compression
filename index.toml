@@ -29,6 +29,46 @@ file = "config/Mekanism/world.toml"
 hash = "4afe6819aa4da9a2317c4f8578c4fbb74b941a90875d142cc8b699531f898267"
 
 [[files]]
+file = "config/MusicTriggers/channels.toml"
+hash = "bbfdd75ff01c871f3b1baae911950e561518bd80b18ad7c2602756af9d332117"
+
+[[files]]
+file = "config/MusicTriggers/debug.toml"
+hash = "aa12e2f35e5478f4e0277e15223fe57c15327a30466641c9ddace8a6d7bb3fe4"
+
+[[files]]
+file = "config/MusicTriggers/example/commands.toml"
+hash = "8bdd3884c1b428c5357a5b6ee78d1073acfae08460fb4dd823b97a1accad6251"
+
+[[files]]
+file = "config/MusicTriggers/example/jukebox.txt"
+hash = "a1a5822f28ad5c597498ee532838cef17a747f020f21c72fcc8a419f5134d53b"
+
+[[files]]
+file = "config/MusicTriggers/example/main.toml"
+hash = "79df9468ccd42a4a46e08dcf06327943e81fd34f59024f151155bb57e9939001"
+
+[[files]]
+file = "config/MusicTriggers/example/redirect.txt"
+hash = "d8db2d12f48439d9f3b316afef799f9fe9b06ff791acd995771eee21a35dde59"
+
+[[files]]
+file = "config/MusicTriggers/example/toggles.toml"
+hash = "d2dbca3eb827eaaee393ba1ee0460b8d5619a48914e89065c9d5450e00de4a7c"
+
+[[files]]
+file = "config/MusicTriggers/example/transitions.toml"
+hash = "b013fb3249c811335a1f75baee19ad0e7012f4e7c404b7947103fdb7b95fcfbe"
+
+[[files]]
+file = "config/MusicTriggers/registration.toml"
+hash = "d674ad8b711aea989e45dcc154feda2c42a1c61127b56f8b2992faab965d9b9a"
+
+[[files]]
+file = "config/MusicTriggers/songs/mainmenu.mp3"
+hash = "b81df3feabafe86791ccbcc422e8ba26a82b8823b9999a2a202bb3c6fcbd2d79"
+
+[[files]]
 file = "config/botania-client.toml"
 hash = "b30e5c177cec07cda8f332ca645d40d3917fb3e13e0b2f51bf0fc393bf933d92"
 
