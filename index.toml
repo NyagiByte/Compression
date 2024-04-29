@@ -3674,6 +3674,11 @@ hash = "fb537f8737c8ee73a27c661ada6636b972a9a580dfd989bd1eabbec50b97a901"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "d21ebdd8d0c381c2dcea3817308c6ffc7e033b1beb6e27b8ed0ba539b4fac861"
+metafile = true
+
+[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "b395baefd33af6da9f29feb5cf50eac5aeb13f3f31e22004d943964c222156ea"
 metafile = true
