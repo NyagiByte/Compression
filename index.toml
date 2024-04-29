@@ -729,6 +729,14 @@ file = "config/paxi/datapacks/compression/data/mekanism/recipes/creatified/charc
 hash = "1839ce45ee72bbab8b5f51b08eaff617141875f924feadede7163ab9c3d3ddaa"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/loot_tables/grass.json"
+hash = "4def6a9610c5050a441bf990897cf0d43e9555e1f8f958103b1a0297d115f9be"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/loot_tables/tall_grass.json"
+hash = "f5e3ae755ec2ed2f5615a45b6368164d22de837b23a22ba26fd1b77177110172"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/blast_furnace.json"
 hash = "cd8b095f26b5cac506fb3a6f77d4895bb7bf9c63d8f295e6df637d88b5aab803"
 
@@ -2570,7 +2578,7 @@ hash = "8cc138cc6fca762bdf76cbe9e88959da0e770f0bb4468c6db0bc790325fc028f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "0bc87dc94200377b010ab1accbe004f33a13b507450d19f877c9c96f27f36031"
+hash = "532db1d0ac2588aaf374bd07d8041bcae363fb8f77bdb11f253355d610c4b8f2"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -3229,10 +3237,6 @@ file = "kubejs/server_scripts/item_removal.js"
 hash = "e14bab22af73feed4eb790b9993a16700963fefcdfcacfab40f4351e8074ee3e"
 
 [[files]]
-file = "kubejs/server_scripts/loottables.js"
-hash = "d967d8692e140925291c224cdd203bf7f214dc3bc7a2336d5c329e7c38011cbb"
-
-[[files]]
 file = "kubejs/server_scripts/nb_b_recipes_ores.js"
 hash = "1b138d54d15800ccd1d160a2ac2c99951e8939bb7d234742a20be70b19fb8b03"
 
@@ -3478,11 +3482,6 @@ metafile = true
 [[files]]
 file = "mods/entity-collision-fps-fix.pw.toml"
 hash = "f2bdada853b7968d2106949fcc1327dd0f445149a75c7e523f9d07c05d6d9fc0"
-metafile = true
-
-[[files]]
-file = "mods/essential-mod.pw.toml"
-hash = "246f9e0d7a89cc45148ba28243aff0ff31874ab638e340c545d508a89141a3a1"
 metafile = true
 
 [[files]]
