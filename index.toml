@@ -2561,10 +2561,6 @@ file = "config/paxi/datapacks/compression/data/quark/recipes/compacting/iron_pla
 hash = "61afd6154fae72237a0e74e02c0d7401ea3fa47e1e162e6ea177bf7702dddbe9"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/storagedrawers/recipes/upgrade_template.json"
-hash = "b055c5dc6e3e60b2c13dd51c248fd5ac341700661693566160d592c2dba397ca"
-
-[[files]]
 file = "config/paxi/datapacks/compression/data/thermal/recipes/drill_head.json"
 hash = "3080a0a95e0e6c7bec0b8077e3b1fe3b5c166f07fbb86e67a0df44b12c326126"
 
@@ -3234,7 +3230,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "e14bab22af73feed4eb790b9993a16700963fefcdfcacfab40f4351e8074ee3e"
+hash = "8f7433b482ca11635b80d5879cc2cd5b50682a95cabf066b5a15738755138e77"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes_ores.js"
@@ -3701,6 +3697,11 @@ hash = "25b1c1ccd0ffd18bdd0ad163b8db0236717141dae5e57dba8e8fcf4aa83d3a1b"
 metafile = true
 
 [[files]]
+file = "mods/packages.pw.toml"
+hash = "68b2755324ce2642d69bf4b49590a6a97d4d54659144723035e239c31b2c6792"
+metafile = true
+
+[[files]]
 file = "mods/packtweaker.pw.toml"
 hash = "50aa603a5086aa745f2dc1234c961e791021bd243f323e928dfa9c8e7b5e2be2"
 metafile = true
@@ -3778,11 +3779,6 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "84b4303c211a5837819e5b88b8d131b659820c59dd8136fb8a69859c29922345"
-metafile = true
-
-[[files]]
-file = "mods/storage-drawers.pw.toml"
-hash = "11332954f108106789ad818138a9b6ee0dd169a92b8763ae35d2d9ce88815c23"
 metafile = true
 
 [[files]]
