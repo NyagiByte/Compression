@@ -3491,6 +3491,11 @@ hash = "46f89d83ac2820d715fe0a76f203535e9712206ffcff56719c2dfe17c1915389"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "62d6479ad4b3731b517754f0660d021d4700de63ee462c7e24a7a85b34714c1b"
+metafile = true
+
+[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "d49b20d6841ee811b7f7cef4aae51dfa6b52c37f1fca15823699f45900152966"
 metafile = true
