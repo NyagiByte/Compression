@@ -3,7 +3,16 @@
 # for any specific questions you might have regarding the main config file
 
 [triggers]
+	[triggers.generic]
 	[triggers.menu]
 [songs]
-	[songs.mainmenu]
+	[songs.godseyesarelikemymotherseyes]
 		triggers = [ "menu" ]
+	[songs.heavenexistsandisfullofpoorpeople]
+		triggers = [ "generic" ]
+	[songs.thankyouforgivingsomuch]
+		triggers = [ "generic" ]
+	[songs.thegloriousexperienceofdyingpeacefully]
+		triggers = [ "generic" ]
+	[songs.wheredoyouhideinthebrightlight]
+		triggers = [ "generic" ]

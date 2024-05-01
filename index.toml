@@ -46,7 +46,7 @@ hash = "a1a5822f28ad5c597498ee532838cef17a747f020f21c72fcc8a419f5134d53b"
 
 [[files]]
 file = "config/MusicTriggers/example/main.toml"
-hash = "79df9468ccd42a4a46e08dcf06327943e81fd34f59024f151155bb57e9939001"
+hash = "88f13f2caf80509bd7f3903eb6ab1ae5b5ef2b5335bb34450318d15042d7f9e4"
 
 [[files]]
 file = "config/MusicTriggers/example/redirect.txt"
@@ -65,8 +65,28 @@ file = "config/MusicTriggers/registration.toml"
 hash = "d674ad8b711aea989e45dcc154feda2c42a1c61127b56f8b2992faab965d9b9a"
 
 [[files]]
+file = "config/MusicTriggers/songs/godseyesarelikemymotherseyes.mp3"
+hash = "9af0f103b41fba6756c3fca7af4d809910fbe8487a52a56d0f46c6aa879d89b9"
+
+[[files]]
+file = "config/MusicTriggers/songs/heavenexistsandisfullofpoorpeople.mp3"
+hash = "c33951a5e91a566d8b6590b44cc1c8190c1f58d39257607726bda9a8057fbff1"
+
+[[files]]
 file = "config/MusicTriggers/songs/mainmenu.mp3"
 hash = "b81df3feabafe86791ccbcc422e8ba26a82b8823b9999a2a202bb3c6fcbd2d79"
+
+[[files]]
+file = "config/MusicTriggers/songs/thankyouforgivingsomuch.mp3"
+hash = "b81df3feabafe86791ccbcc422e8ba26a82b8823b9999a2a202bb3c6fcbd2d79"
+
+[[files]]
+file = "config/MusicTriggers/songs/thegloriousexperienceofdyingpeacefully.mp3"
+hash = "207b5eed80335e42a6719c66d8eba262171587b507fa829fcfb377f6a4f4aa77"
+
+[[files]]
+file = "config/MusicTriggers/songs/wheredoyouhideinthebrightlight.mp3"
+hash = "db6e7a04f10b801db1b2b24e3f08a99514237577363d9fe8ad3b80f2b4800553"
 
 [[files]]
 file = "config/botania-client.toml"
