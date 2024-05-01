@@ -105,6 +105,10 @@ file = "config/fancymenu/assets/compressionexit.png"
 hash = "eb50feedcc314603346611107a72f404402e552eca858b4223eee1d6a1666233"
 
 [[files]]
+file = "config/fancymenu/assets/compressioneyeloading.png"
+hash = "14472bbeffd3721f81e77de141efdeea6b8a1e76ab780f1fbce1285512daa8f2"
+
+[[files]]
 file = "config/fancymenu/assets/compressionicon.icns"
 hash = "803f04994339c9b15cca17b91a260006f1d3811c7ae29a9a93560d83511fff35"
 
@@ -141,6 +145,10 @@ file = "config/fancymenu/assets/menu.ogg"
 hash = "b0ad3d8aacb1d86cc10f81607a2b305ee741c18daf77114c1b086540cbaaf0a8"
 
 [[files]]
+file = "config/fancymenu/assets/oblivionawaits.png"
+hash = "e3538044cf2611a5c19bb7bd0ed76bb5885136adcfba5f27b13d41312f995841"
+
+[[files]]
 file = "config/fancymenu/assets/transparent_picture.png"
 hash = "b144377c58b90f9503cbaedb07f2749be28752ee327165ef29a8e6a2f34d4812"
 
@@ -150,11 +158,15 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+hash = "8e15b8fdd11e054e25d49c37ce6a448807a7e6e34f9c3b46dc4d222aa0aca44b"
+
+[[files]]
+file = "config/fancymenu/customization/compressionloading.txt"
+hash = "9f39adae62acf73740efe64bdb13e7f14ba3199ed7e1f2531421ac753815f15e"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "733d00c68f5b1be2a6b380d1eba36b2bab2e3f5ca1370d83bcc8c7a6805e4a34"
+hash = "8b71d935bbefcd8b75f2bbb5d0cb89a6fcb653b2d50acbe45b61bf122ac20815"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_1.txt"
