@@ -320,7 +320,7 @@
 				"2749DE946E0BF9CB"
 			]
 			description: ["Sadly the generic coal and lower quality coals do not produce sufficiently useful coke needed for steel production. As a result better coals are needed"]
-			icon: "ftbquests:missing_item"
+			icon: "nyagibits_bytes:industrial_grade_coke"
 			id: "7457EE5BA59A0BDB"
 			rewards: [{
 				id: "6835D277D1A53588"
@@ -329,22 +329,17 @@
 			}]
 			tasks: [
 				{
-					id: "78FD04C924A49479"
-					item: "nyagibits_bytes:raw_subbituminous"
+					id: "28DCEDA5AD2DB00D"
+					item: "nyagibits_bytes:low_grade_coke"
 					type: "item"
 				}
 				{
-					id: "3498EFD41C0B6604"
-					item: "nyagibits_bytes:raw_bituminous"
-					type: "item"
-				}
-				{
-					id: "19274F2E4CF8A71F"
-					item: "nyagibits_bytes:raw_anthracite"
+					id: "5E887B37CBB03FB7"
+					item: "nyagibits_bytes:industrial_grade_coke"
 					type: "item"
 				}
 			]
-			title: "Industrial Coke"
+			title: "No not that kind of coke!"
 			x: 1.5d
 			y: 2.0d
 		}
@@ -918,12 +913,24 @@
 				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
-			tasks: [{
-				id: "08FD7316D421CE1B"
-				item: "ftbquests:missing_item"
-				type: "item"
-			}]
-			title: "Wrought Components"
+			tasks: [
+				{
+					id: "0B0A90DA79C14E88"
+					item: "nyagibits_bytes:wrought_ball_bearing"
+					type: "item"
+				}
+				{
+					id: "096423EC90617548"
+					item: "nyagibits_bytes:wrought_tiny_spring"
+					type: "item"
+				}
+				{
+					id: "6FDC0D99520CC5F3"
+					item: "nyagibits_bytes:wrought_iron_rod"
+					type: "item"
+				}
+			]
+			title: "It's iron but now in brown"
 			x: 2.5d
 			y: 0.0d
 		}
@@ -1171,6 +1178,7 @@
 				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
+			shape: "hexagon"
 			tasks: [{
 				count: 4L
 				id: "26BAB47635632600"
