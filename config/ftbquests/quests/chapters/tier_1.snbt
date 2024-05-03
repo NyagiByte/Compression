@@ -130,10 +130,10 @@
 			}]
 			tasks: [{
 				id: "2C9CB40E40B2379F"
-				item: "ftbquests:missing_item"
+				item: "nyagibits_bytes:immersive_assembly"
 				type: "item"
 			}]
-			title: "Immersive Assembly"
+			title: "Oh F- Thats so many items"
 			x: 6.5d
 			y: 1.0d
 		}
