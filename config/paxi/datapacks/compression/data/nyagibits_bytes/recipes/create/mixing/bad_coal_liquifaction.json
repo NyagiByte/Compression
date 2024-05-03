@@ -1,0 +1,64 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:industrial_grade_coke"
+      },
+      {
+        "item": "nyagibits_bytes:industrial_grade_coke"
+      },
+      {
+        "item": "nyagibits_bytes:industrial_grade_coke"
+      },
+      {
+        "item": "nyagibits_bytes:industrial_grade_coke"
+      },
+      {
+        "item": "nyagibits_bytes:industrial_grade_coke"
+      },
+      {
+        "item": "nyagibits_bytes:industrial_grade_coke"
+      },
+      {
+        "item": "nyagibits_bytes:industrial_grade_coke"
+      },
+      {
+        "item": "nyagibits_bytes:industrial_grade_coke"
+      },
+      {
+        "item": "nyagibits_bytes:industrial_grade_coke"
+      },
+      {
+        "item": "nyagibits_bytes:industrial_grade_coke"
+      },
+      {
+        "item": "nyagibits_bytes:industrial_grade_coke"
+      },
+      {
+        "item": "nyagibits_bytes:industrial_grade_coke"
+      },
+      {
+        "item": "nyagibits_bytes:industrial_grade_coke"
+      },
+      {
+        "item": "nyagibits_bytes:industrial_grade_coke"
+      },
+      {
+        "item": "nyagibits_bytes:industrial_grade_coke"
+      },
+      {
+        "item": "nyagibits_bytes:industrial_grade_coke"
+      },
+      {
+        "amount": 2000,
+        "fluid": "immersiveengineering:creosote"
+      }
+    ],
+    "results": [
+      {
+        "amount": 500,
+        "fluid": "immersivepetroleum:crudeoil"
+      }
+    ]
+  }

@@ -1,0 +1,31 @@
+{
+    "type":"immersiveengineering:blueprint",
+    "category":"components",
+    
+    "inputs":[
+        {
+            "base_ingredient":{
+                "item":"nyagibits_bytes:high_temperature_heat_exchanger"},
+                "count":4},
+        {
+            "base_ingredient":{
+                "item":"nyagibits_bytes:dampener"},
+                "count":8},
+        {
+            "base_ingredient":{
+                "item":"nyagibits_bytes:synchronous_electric_motor"},
+                "count":4},
+        {
+            "base_ingredient":{
+                "item":"immersiveengineering:heavy_engineering"},
+                "count":1},
+        {
+            "item":"nyagibits_bytes:immersive_engineering_schematic"
+        },
+        {
+            "item":"nyagibits_bytes:immersive_assembly"
+        }],
+    "result":{
+            "count": 4,
+            "item":"immersiveengineering:generator"
+        }}

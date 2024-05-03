@@ -1,0 +1,31 @@
+{
+    "type":"immersiveengineering:blueprint",
+    "category":"components",
+    
+    "inputs":[
+        {
+            "base_ingredient":{
+                "item":"nyagibits_bytes:high_strength_concrete"},
+                "count":16},
+        {
+            "base_ingredient":{
+                "item":"nyagibits_bytes:fasteners"},
+                "count":32},
+        {
+            "base_ingredient":{
+                "item":"immersiveengineering:stick_steel"},
+                "count":16},
+        {
+            "base_ingredient":{
+                "item":"nyagibits_bytes:acetylene_tank"},
+                "count":1},
+        {
+            "item":"nyagibits_bytes:immersive_engineering_schematic"
+        },
+        {
+            "item":"nyagibits_bytes:immersive_assembly"
+        }],
+    "result":{
+            "count": 64,
+            "item":"immersiveengineering:steel_scaffolding_standard"
+        }}

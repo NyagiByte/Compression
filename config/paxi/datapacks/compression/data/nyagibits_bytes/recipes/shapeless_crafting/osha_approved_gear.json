@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "nyagibits_bytes:fire_extinguisher"
+        },
+        {
+            "item": "nyagibits_bytes:organic_vapor_respirator"
+        },
+        {
+            "item": "nyagibits_bytes:hard_hat"
+        },
+        {
+            "item": "nyagibits_bytes:protective_eye_wear"
+        }
+    ],
+    "result": {
+        "item": "nyagibits_bytes:osha_approved_gear"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type":"immersiveengineering:blueprint",
+    "category":"components",
+    
+    "inputs":[
+        {
+            "base_ingredient":{
+                "item":"nyagibits_bytes:solenoid_component"},
+                "count":4},
+        {
+            "base_ingredient":{
+                "item":"immersiveengineering:stick_steel"},
+                "count":1},
+        {
+            "base_ingredient":{
+                "item":"immersiveengineering:capacitor_lv"},
+                "count":1},
+        {
+            "base_ingredient":{
+                "item":"immersiveengineering:connector_lv"},
+                "count":2}
+            ],
+    "result":{
+            "item":"nyagibits_bytes:synchronous_electric_motor"
+        }}

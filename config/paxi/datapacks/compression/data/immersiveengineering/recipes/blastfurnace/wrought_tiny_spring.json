@@ -1,0 +1,10 @@
+{
+    "type":"immersiveengineering:blast_furnace",
+    "input":{
+        "item":"nyagibits_bytes:tiny_spring"
+            },
+        "result":{
+            "item":"nyagibits_bytes:wrought_tiny_spring"
+                 },"slag":{
+                        "item":"thermal:slag"
+                          },"time":20}

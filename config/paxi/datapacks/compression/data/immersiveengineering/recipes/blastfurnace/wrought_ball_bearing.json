@@ -1,0 +1,10 @@
+{
+    "type":"immersiveengineering:blast_furnace",
+    "input":{
+        "item":"nyagibits_bytes:ball_bearing"
+            },
+        "result":{
+            "item":"nyagibits_bytes:wrought_ball_bearing"
+                 },"slag":{
+                        "item":"thermal:slag"
+                          },"time":20}

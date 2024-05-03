@@ -1,0 +1,31 @@
+{
+    "type":"immersiveengineering:blueprint",
+    "category":"components",
+    
+    "inputs":[
+        {
+            "base_ingredient":{
+                "item":"immersiveengineering:alu_scaffolding_standard"},
+                "count":8},
+        {
+            "base_ingredient":{
+                "item":"immersiveengineering:treated_scaffold"},
+                "count":8},
+        {
+            "base_ingredient":{
+                "item":"create:fluid_pipe"},
+                "count":32},
+        {
+            "base_ingredient":{
+                "item":"immersiveengineering:sheetmetal_steel"},
+                "count":16},
+        {
+            "item":"nyagibits_bytes:immersive_engineering_schematic"
+        },
+        {
+            "item":"nyagibits_bytes:immersive_assembly"
+        }],
+    "result":{
+            "count": 16,
+            "item":"immersiveengineering:light_engineering"
+        }}

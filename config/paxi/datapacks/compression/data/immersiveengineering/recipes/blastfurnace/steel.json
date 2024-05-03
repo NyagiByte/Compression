@@ -1,0 +1,10 @@
+{
+    "type":"immersiveengineering:blast_furnace",
+    "input":{
+        "item":"minecraft:iron_ingot"
+            },
+        "result":{
+            "item":"immersiveengineering:ingot_steel"
+                 },"slag":{
+                        "item":"thermal:rich_slag"
+                          },"time":100}

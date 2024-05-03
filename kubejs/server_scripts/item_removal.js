@@ -341,10 +341,8 @@ ServerEvents.recipes(e => {
     //Immersive Engineering
         e.remove({output: 'immersiveengineering:stick_treated'});
         e.remove({output: 'immersiveengineering:stick_iron'});
-        e.remove({output: 'immersiveengineering:stick_steel'});
         e.remove({output: 'immersiveengineering:stick_aluminum'});
         e.remove({output: 'immersiveengineering:hemp_fabric'});
-        e.remove({output: 'immersiveengineering:component_iron'});
         e.remove({output: 'immersiveengineering:component_steel'});
         e.remove({output: 'immersiveengineering:component_electronic'});
         e.remove({output: 'immersiveengineering:component_electronic_adv'});
@@ -421,7 +419,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:toolupgrade_revolver_bayonet'});
         e.remove({output: 'immersiveengineering:toolupgrade_revolver_magazine'});
         e.remove({output: 'immersiveengineering:toolupgrade_revolver_electro'});
-        e.remove({output: 'immersiveengineering:toolupgrade_chemthrower_focus'});
         e.remove({output: 'immersiveengineering:toolupgrade_railgun_scope'});
         e.remove({output: 'immersiveengineering:toolupgrade_railgun_capacitors'});
         e.remove({output: 'immersiveengineering:toolupgrade_shield_flash'});
@@ -458,12 +455,10 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:metal_barrel'});
         e.remove({output: 'immersiveengineering:fluid_pump'});
         e.remove({output: 'immersiveengineering:fluid_placer'});
-        e.remove({output: 'immersiveengineering:blastfurnace_preheater'});
         e.remove({output: 'immersiveengineering:furnace_heater'});
         e.remove({output: 'immersiveengineering:dynamo'});
         e.remove({output: 'immersiveengineering:thermoelectric_generator'});
         e.remove({output: 'immersiveengineering:charging_station'});
-        e.remove({output: 'immersiveengineering:fluid_pipe'});
         e.remove({output: 'immersiveengineering:sample_drill'});
         e.remove({output: 'immersiveengineering:tesla_coil'});
         e.remove({output: 'immersiveengineering:turret_chem'});
@@ -472,11 +467,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:coil_lv'});
         e.remove({output: 'immersiveengineering:coil_mv'});
         e.remove({output: 'immersiveengineering:coil_hv'});
-        e.remove({output: 'immersiveengineering:rs_engineering'});
-        e.remove({output: 'immersiveengineering:heavy_engineering'});
-        e.remove({output: 'immersiveengineering:light_engineering'});
-        e.remove({output: 'immersiveengineering:generator'});
-        e.remove({output: 'immersiveengineering:radiator'});
         e.remove({output: 'immersiveengineering:steel_fence'});
         e.remove({output: 'immersiveengineering:alu_fence'});
         e.remove({output: 'immersiveengineering:transformer'});
@@ -493,6 +483,9 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:conveyor_vertical'});
         e.remove({output: 'immersiveengineering:conveyor_splitter'});
         e.remove({output: 'immersiveengineering:conveyor_extract'});
+
+        e.remove([{ type: 'immersiveengineering:metal_press', output: 'immersiveengineering:stick_steel' }])
+        e.remove([{ type: 'minecraft:crafting_shaped', output: 'immersiveengineering:component_iron' }])
     //Mekanism
         e.remove({mod: 'mekansim'});
     //Thermal

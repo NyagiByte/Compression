@@ -1,0 +1,17 @@
+{
+    "type":"immersiveengineering:blueprint",
+    "category":"components",
+    
+    "inputs":[
+        {
+            "base_ingredient":{
+                "item":"ae2:quartz_glass"},
+                "count":2},
+        {
+            "base_ingredient":{
+                "item":"nyagibits_bytes:fasteners"},
+                "count":1}
+            ],
+    "result":{
+            "item":"nyagibits_bytes:protective_eye_wear"
+        }}

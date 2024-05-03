@@ -1,0 +1,14 @@
+{
+    "type":"immersiveengineering:blueprint",
+    "category":"components",
+    
+    "inputs":[
+        {
+            "item":"immersiveengineering:plate_duroplast"
+        },
+        {
+            "item":"nyagibits_bytes:rubberized_cable"
+        }],
+    "result":{
+            "item":"immersiveengineering:circuit_board"
+        }}

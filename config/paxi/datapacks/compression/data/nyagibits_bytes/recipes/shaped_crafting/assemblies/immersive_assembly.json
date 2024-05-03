@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:triple_bay_4s_series_toolbox"},
+      "B": {"item":"nyagibits_bytes:duct_tape"},
+      "C": {"item":"nyagibits_bytes:wd_40"},
+      "D": {"item":"nyagibits_bytes:high_strength_concrete"},
+      "E": {"item":"create:brass_casing"},
+      "F": {"item":"nyagibits_bytes:osha_approved_gear"},
+      "G": {"item":"nyagibits_bytes:acetylene_tank"},
+      "H": {"item":"nyagibits_bytes:crate_of_industrial_components"},
+      "I": {"item":"nyagibits_bytes:high_temperature_heat_exchanger"}
+    },
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:immersive_assembly"
+    }
+  }

@@ -1,0 +1,31 @@
+{
+    "type":"immersiveengineering:blueprint",
+    "category":"components",
+    
+    "inputs":[
+        {
+            "base_ingredient":{
+                "item":"immersiveengineering:light_engineering"},
+                "count":2},
+        {
+            "base_ingredient":{
+                "item":"nyagibits_bytes:reinforced_gearbox"},
+                "count":2},
+        {
+            "base_ingredient":{
+                "item":"immersiveengineering:slab_storage_steel"},
+                "count":12},
+        {
+            "base_ingredient":{
+                "item":"immersiveengineering:steel_fence"},
+                "count":16},
+        {
+            "item":"nyagibits_bytes:immersive_engineering_schematic"
+        },
+        {
+            "item":"nyagibits_bytes:immersive_assembly"
+        }],
+    "result":{
+            "count": 8,
+            "item":"immersiveengineering:heavy_engineering"
+        }}

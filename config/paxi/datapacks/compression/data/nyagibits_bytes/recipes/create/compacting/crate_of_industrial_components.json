@@ -1,0 +1,49 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:hardened_mechanical_bearing"
+      },
+      {
+        "item": "nyagibits_bytes:hardened_mechanical_bearing"
+      },
+      {
+        "item": "nyagibits_bytes:fasteners"
+      },
+      {
+        "item": "nyagibits_bytes:fasteners"
+      },
+      {
+        "item": "nyagibits_bytes:fasteners"
+      },
+      {
+        "item": "nyagibits_bytes:fasteners"
+      },
+      {
+        "item": "nyagibits_bytes:synchronous_electric_motor"
+      },
+      {
+        "item": "nyagibits_bytes:industrial_gear"
+      },
+      {
+        "item": "nyagibits_bytes:dampener"
+      },
+      {
+        "item": "nyagibits_bytes:reinforced_gearbox"
+      },
+      {
+        "item": "nyagibits_bytes:v_belt"
+      },
+      {
+        "item": "nyagibits_bytes:solenoid_component"
+      },
+      {
+        "item": "nyagibits_bytes:solenoid_component"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:crate_of_industrial_components"
+      }
+    ]
+  }

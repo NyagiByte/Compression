@@ -1,0 +1,22 @@
+{
+    "type":"immersiveengineering:blueprint",
+    "category":"components",
+    
+    "inputs":[
+        {
+            "base_ingredient":{
+                "item":"nyagibits_bytes:ceramic"},
+                "count":16},  
+        {
+            "item":"nyagibits_bytes:endoflame_mush"
+        },
+        {
+            "item":"nyagibits_bytes:immersive_engineering_schematic"
+        },
+        {
+            "item":"nyagibits_bytes:immersive_assembly"
+        }],
+    "result":{
+            "count": 16,
+            "item":"immersiveengineering:blastfurnace_preheater"
+        }}
