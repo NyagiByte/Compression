@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shaped",
     "key": {
       "A": {"item":"nyagibits_bytes:bucket_of_salt_water"},
-      "B": {"item":"minecraft:tall_grass"},
+      "B": {"item":"minecraft:grass"},
       "C": {"item":"nyagibits_bytes:compacted_soil"},
       "D": {"item":"minecraft:moss_carpet"},
       "E": {"item":"minecraft:glass_bottle"}

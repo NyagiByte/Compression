@@ -2594,7 +2594,7 @@ hash = "79b1eb58547b856b93aa6e24d38b99e5c2649f1b68a6e486450a5329c8c19659"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assembly_components/terrarium.json"
-hash = "e3270ecd2e491fb80396e0c8922083438bb996d49e6df125bc721b19cbef8b7f"
+hash = "9d69effabcc8baf75cb076e859149711f4a910118987dd763315d01a332a49d2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assembly_components/tough_bag.json"
