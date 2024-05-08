@@ -785,6 +785,14 @@ file = "config/paxi/datapacks/compression/data/farmersdelight/recipes/mixing/str
 hash = "c697c815e2dd313e2f9f45270da5678056616d678dd71601e84592cceb160643"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/loot_modifiers/hemp_from_grass.json"
+hash = "2c98f18726fe0c0157401f224ea7f476ed50d8021b22668a1ac03b80898a5a41"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/loot_modifiers/hemp_from_tall_grass.json"
+hash = "1b2c43ee52ba0677d724b8548df4efd1faf4bc28191a172d0c2ace0791673414"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blastfurnace/steel.json"
 hash = "55442ee1e9743129ccc30bfb95fd67499119140367c5e3b40196c80f5d3af458"
 
@@ -865,12 +873,20 @@ file = "config/paxi/datapacks/compression/data/mekanism/recipes/creatified/charc
 hash = "1839ce45ee72bbab8b5f51b08eaff617141875f924feadede7163ab9c3d3ddaa"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/minecraft/loot_tables/grass.json"
+file = "config/paxi/datapacks/compression/data/minecraft/loot_tables/blocks/grass.json"
 hash = "4def6a9610c5050a441bf990897cf0d43e9555e1f8f958103b1a0297d115f9be"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/minecraft/loot_tables/tall_grass.json"
+file = "config/paxi/datapacks/compression/data/minecraft/loot_tables/blocks/tall_grass.json"
 hash = "f5e3ae755ec2ed2f5615a45b6368164d22de837b23a22ba26fd1b77177110172"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/loot_tables/grass.json"
+hash = "8a30465ee55aa4a07a4837647b0596e6ae184f839f00e22824561e994fc8f8d8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/loot_tables/tall_grass.json"
+hash = "8bdb9771b00c1fd01a00c0f2c790ebbbaecbd7f3efd4e41425f56c14bf0e2303"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/blast_furnace.json"
@@ -3459,6 +3475,10 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
 hash = "f91e6101d0d832f897bf1a61998753b3c2ff443f62b55f134994c115980089d5"
+
+[[files]]
+file = "kubejs/server_scripts/loottables.js"
+hash = "fb521c9f286201a786ded3f3a373cfa926b5ef010865bd04c6c0d8faf69bbe9f"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes_ores.js"
