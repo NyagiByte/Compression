@@ -2541,34 +2541,6 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "569e5f7ff5054f2ba15db2cb50cd386e71c931de4d7bd0cd68a435488af6de5f"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/sequenced_assembly/calculation_dud.json"
-hash = "80ccda00778d4c1118a3a1a5b4d6b3afda79fa10876f74de4b891405eeb9c12f"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/sequenced_assembly/charged_certus_quartz_initial.json"
-hash = "e5d449d7cc0edee1f0eaac46d63866edfa73b2f4989464e663f1eb796c1caf17"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/sequenced_assembly/engineering_dud.json"
-hash = "7bf4e9f7f76e6c552801af613948ec98ad3ff8a74025fc59b409f8dee16f2c10"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/sequenced_assembly/livisite_slate.json"
-hash = "e7309b7a693092f35e8e43f4d0ece6cc39f94c2271455d2a98fd21a36dcabf06"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/sequenced_assembly/logic_dud.json"
-hash = "9aa60cb608657e6e95f5b5e5940b86fb45712fcd92e7f5bb067f4bbcdcfc187e"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/sequenced_assembly/petri_dish_empty.json"
-hash = "feda91026f28dc12eb2863b007e8f29d1bf38104904c14e8c3f45ad5ad2cbb75"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/sequenced_assembly/petri_dish_empty_t1.json"
-hash = "0ce3fb4a07e89142027cd1ce404abe55a4a194a7686101b5a63bee58a86dab2f"
-
-[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assemblies/ae2_assembly.json"
 hash = "0ef32aaa6b0b5c12eed2381200090a5b782f33486d27cebc4f1d386e34872787"
 
