@@ -617,6 +617,10 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/
 hash = "fb4d4662cc9905d5f3e6a47cf9cd2e492e446febef9b93b6e64dbc5eb6bb80f5"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/pure_daisy.json"
+hash = "4642bd7c1d95cec14c2effe7431b55f9780ed2e03bc656e3de888fa7d6169aae"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/polished_livingrock.json"
 hash = "4b754a8953748c6e7496f55698f420579cb0abb861cf0471f7cc1956006d5ba5"
 

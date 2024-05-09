@@ -1,0 +1,23 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "tag": "botania:petals"
+      },
+      {
+        "tag": "botania:petals"
+      },
+      {
+        "tag": "botania:petals"
+      },
+      {
+        "tag": "botania:petals"
+      }
+    ],
+    "output": {
+      "item": "botania:pure_daisy"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }
