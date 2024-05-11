@@ -2969,6 +2969,10 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/phantomsandnightmares-common.toml"
+hash = "a0458c2f37a07e6b49327894db860899700bc7c4bea4f5f1267156d3020264f3"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "3fbadecc2640dd32686dca212c619b62f4d6556118f0d08573117dd6bf8c72e7"
 
