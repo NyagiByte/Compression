@@ -3956,6 +3956,11 @@ hash = "f54d3a9236721fbc2c527765dde21251fedb0d9b042ec7b44e98f725a702f3a9"
 metafile = true
 
 [[files]]
+file = "mods/phantoms-and-nightmares.pw.toml"
+hash = "f6316032f780b156208f0aa5fba3c76b5df029c1234ab3c95b8e216a02f7ac82"
+metafile = true
+
+[[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "a9fa88c30a625b07cd38435bf14c0233dddf59e24dd049a9a696a587eab162e9"
 metafile = true
