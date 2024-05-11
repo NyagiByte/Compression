@@ -1,13 +1,13 @@
 name = "Phantoms and Nightmares"
-filename = "phantomsandnightmares-1.19.2-1.0.0.jar"
+filename = "phantomsandnightmares-1.19.2-1.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7439853421f29ed047fbe935b5aa3f3541350950"
+hash = "e618a69f410ea95fcfba416ef0a3fc18a1f2da6b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5329892
+file-id = 5334937
 project-id = 1015954
