@@ -1,0 +1,61 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "nyagibits_bytes:alchemistry_assembly"},
+    "loops": 1,
+    "results": [
+      {
+        "item": "alchemistry:dissolver"
+    }
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:alchemistry_assembly"
+          },
+          {
+            "item": "create:basin"
+          }  
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:alchemistry_assembly"
+        }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:alchemistry_assembly"
+          },
+          {
+            "item": "create:mechanical_mixer"
+          }  
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:alchemistry_assembly"
+        }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:alchemistry_assembly"
+          },
+          {
+            "item": "nyagibits_bytes:alchemistry_schematic"
+          }  
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:alchemistry_assembly"
+        }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:alchemistry_assembly"}
+  }

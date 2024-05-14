@@ -1,0 +1,46 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "nyagibits_bytes:alchemistry_assembly"},
+    "loops": 1,
+    "results": [
+      {
+        "count": 4,
+        "item": "alchemistry:liquifier"
+    }
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:alchemistry_assembly"
+          },
+          {
+            "item": "immersiveengineering:furnace_heater"
+          }  
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:alchemistry_assembly"
+        }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:alchemistry_assembly"
+          },
+          {
+            "item": "nyagibits_bytes:alchemistry_schematic"
+          }  
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:alchemistry_assembly"
+        }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:alchemistry_assembly"}
+  }

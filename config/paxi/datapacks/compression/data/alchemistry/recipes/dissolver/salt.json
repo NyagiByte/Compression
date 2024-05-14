@@ -1,0 +1,29 @@
+{
+    "type": "alchemistry:dissolver",
+    "group": "alchemistry:dissolver",
+    "input": {
+      "count": 1,
+      "ingredient": {
+        "item": "mekanism:salt"
+      }
+    },
+    "output": {
+      "groups": [
+        {
+          "probability": 100.0,
+          "results": [
+            {
+              "count": 1,
+              "item": "chemlib:chlorine"
+            },
+            {
+              "count": 1,
+              "item": "chemlib:sodium"
+            }
+          ]
+        }
+      ],
+      "rolls": 1,
+      "weighted": false
+    }
+  }

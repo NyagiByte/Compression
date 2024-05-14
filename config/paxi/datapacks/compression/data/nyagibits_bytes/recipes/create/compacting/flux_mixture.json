@@ -1,0 +1,17 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:low_grade_coke"
+      },
+      {
+        "item": "create:limestone"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "nyagibits_bytes:flux_mixture"
+      }
+    ]
+  }

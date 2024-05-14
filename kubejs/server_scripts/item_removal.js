@@ -66,6 +66,8 @@ ServerEvents.recipes(e => {
             e.remove({not: {type: 'create:sequenced_assembly'}, output: 'ae2:item_storage_cell_4k'});
             e.remove({not: {type: 'create:sequenced_assembly'}, output: 'ae2:fluid_storage_cell_1k'});
             e.remove({not: {type: 'create:sequenced_assembly'}, output: 'ae2:fluid_storage_cell_4k'});
+        //Temp Alchemistry Removals
+            e.remove({output:'chemlib:silicon'});
 //Removal of other stoof
     //Botania
         e.remove({output: 'botania:apothecary_forest'});
@@ -336,14 +338,11 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:solegnolia'});
         e.remove({output: 'botania:orechid_ignem'});
         e.remove({output: 'botania:labellia'});
-    //Alchemistry
-        e.remove({mod: 'alchemistry'});
     //Immersive Engineering
         e.remove({output: 'immersiveengineering:stick_treated'});
         e.remove({output: 'immersiveengineering:stick_iron'});
         e.remove({output: 'immersiveengineering:stick_aluminum'});
         e.remove({output: 'immersiveengineering:hemp_fabric'});
-        e.remove({output: 'immersiveengineering:component_steel'});
         e.remove({output: 'immersiveengineering:component_electronic'});
         e.remove({output: 'immersiveengineering:component_electronic_adv'});
         e.remove({output: 'immersiveengineering:waterwheel_segment'});
@@ -485,7 +484,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:conveyor_extract'});
 
         e.remove([{ type: 'immersiveengineering:metal_press', output: 'immersiveengineering:stick_steel' }])
-        e.remove([{ type: 'minecraft:crafting_shaped', output: 'immersiveengineering:component_iron' }])
     //Mekanism
         e.remove({mod: 'mekansim'});
     //Thermal

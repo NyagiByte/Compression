@@ -1,0 +1,25 @@
+{
+    "type": "alchemistry:dissolver",
+    "group": "alchemistry:dissolver",
+    "input": {
+      "count": 1,
+      "ingredient": {
+        "item": "farmersdelight:carrot_crate"
+      }
+    },
+    "output": {
+      "groups": [
+        {
+          "probability": 100.0,
+          "results": [
+            {
+              "count": 1,
+              "item": "chemlib:diammonium_phosphate"
+            }
+          ]
+        }
+      ],
+      "rolls": 1,
+      "weighted": false
+    }
+  }

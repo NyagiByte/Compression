@@ -1,0 +1,25 @@
+{
+    "type": "alchemistry:dissolver",
+    "group": "alchemistry:dissolver",
+    "input": {
+      "count": 1,
+      "ingredient": {
+        "item": "nyagibits_bytes:flux_mixture"
+      }
+    },
+    "output": {
+      "groups": [
+        {
+          "probability": 100.0,
+          "results": [
+            {
+              "count": 4,
+              "item": "chemlib:acetylene"
+            }
+          ]
+        }
+      ],
+      "rolls": 1,
+      "weighted": false
+    }
+  }
