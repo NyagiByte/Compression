@@ -1,0 +1,91 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "nyagibits_bytes:reinforced_gearbox"
+    },
+    "loops": 1,
+    "results": [
+      {
+        "chance": 200.0,
+        "count": 2,
+        "item": "create:precision_mechanism"
+      },
+      {
+        "chance": 8.0,
+        "item": "nyagibits_bytes:industrial_gear"
+      },
+      {
+        "chance": 8.0,
+        "item": "nyagibits_bytes:steel_high_carbon_15n20"
+      },
+      {
+        "chance": 5.0,
+        "item": "create:gearshift"
+      },
+      {
+        "chance": 3.0,
+        "item": "create:adjustable_chain_gearshift"
+      },
+      {
+        "chance": 2.0,
+        "item": "create:sequenced_gearshift"
+      },
+      {
+        "chance": 2.0,
+        "item": "nyagibits_bytes:pile_of_cogs"
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "create:incomplete_precision_mechanism"
+          },
+          {
+            "item": "nyagibits_bytes:steel_high_carbon_15n20"
+          }
+        ],
+        "results": [
+          {
+            "item": "create:incomplete_precision_mechanism"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "create:incomplete_precision_mechanism"
+          },
+          {
+            "item": "create:brass_scaffolding"
+          }
+        ],
+        "results": [
+          {
+            "item": "create:incomplete_precision_mechanism"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "create:incomplete_precision_mechanism"
+          },
+          {
+            "item": "nyagibits_bytes:pile_of_cogs"
+          }
+        ],
+        "results": [
+          {
+            "item": "create:incomplete_precision_mechanism"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "create:incomplete_precision_mechanism"
+    }
+  }

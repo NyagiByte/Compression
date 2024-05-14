@@ -1,0 +1,10 @@
+{
+    "type": "botania:mana_infusion",
+    "input": {
+      "item": "nyagibits_bytes:sodium_polyacrylate"
+    },
+    "mana": 500,
+    "output": {
+      "item": "botania:mana_powder"
+    }
+  }

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"botania:mossy_livingwood_planks"},
+    "B": {"item":"create:brass_casing"},
+    "C": {"item":"immersiveengineering:fluid_pump"}
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "ACA"
+  ],
+  "result": {"item": "thermal:device_tree_extractor"}
+}

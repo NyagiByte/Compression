@@ -1,0 +1,52 @@
+{
+  "type": "botania:runic_altar",
+  "ingredients": [
+    {
+      "item": "botania:mana_powder"
+    },
+    {
+      "item": "botania:mana_powder"
+    },
+    {
+      "item": "botania:mana_powder"
+    },
+    {
+      "item": "botania:mana_powder"
+    },
+    {
+      "item": "nyagibits_bytes:rune_blank"
+    },
+    {
+      "item": "botania:manasteel_ingot"
+    },
+    {
+      "item": "botania:mana_pearl"
+    },
+    {
+      "item": "botania:mana_diamond"
+    },
+    {
+      "item": "botania:mana_string"
+    },
+    {
+      "item": "ae2:magenta_lumen_paint_ball"
+    },
+    {
+      "item": "botania:manaweave_cloth"
+    },
+    {
+      "item": "botania:quartz_mana"
+    },
+    {
+      "item": "createchromaticreturn:shadow_steel"
+    },
+    {
+      "item": "nyagibits_bytes:rune_binder"
+    }
+  ],
+  "mana": 10400,
+  "output": {
+    "count": 2,
+    "item": "botania:rune_mana"
+  }
+}

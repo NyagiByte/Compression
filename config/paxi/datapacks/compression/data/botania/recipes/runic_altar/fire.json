@@ -8,22 +8,22 @@
       "item": "nyagibits_bytes:rune_blank"
     },
     {
-      "item": "nyagibits_bytes:agar_agar"
+      "item": "nyagibits_bytes:high_temperature_heat_exchanger"
     },
     {
-      "item": "minecraft:sea_pickle"
+      "item": "nyagibits_bytes:endoflame_mush"
     },
     {
-      "item": "minecraft:clay"
+      "item": "minecraft:lava_bucket"
     },
     {
-      "item": "create:large_water_wheel"
+      "item": "quark:nether_wart_sack"
     },
     {
-      "item": "ae2:blue_lumen_paint_ball"
+      "item": "ae2:red_lumen_paint_ball"
     },
     {
-      "item": "quark:sugar_cane_block"
+      "item": "chemlib:phosphorus_dust"
     },
     {
       "item": "nyagibits_bytes:rune_binder"
@@ -32,6 +32,6 @@
   "mana": 5200,
   "output": {
     "count": 2,
-    "item": "botania:rune_water"
+    "item": "botania:rune_fire"
   }
 }

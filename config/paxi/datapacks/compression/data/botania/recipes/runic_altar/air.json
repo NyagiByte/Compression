@@ -8,22 +8,22 @@
       "item": "nyagibits_bytes:rune_blank"
     },
     {
-      "item": "nyagibits_bytes:agar_agar"
+      "item": "pneumaticcraft:compressed_iron_block"
     },
     {
-      "item": "minecraft:sea_pickle"
+      "item": "create:windmill_bearing"
     },
     {
-      "item": "minecraft:clay"
+      "item": "create:white_sail"
     },
     {
-      "item": "create:large_water_wheel"
+      "item": "quark:bottled_cloud"
     },
     {
-      "item": "ae2:blue_lumen_paint_ball"
+      "item": "ae2:light_blue_lumen_paint_ball"
     },
     {
-      "item": "quark:sugar_cane_block"
+      "item": "create:steam_engine"
     },
     {
       "item": "nyagibits_bytes:rune_binder"
@@ -32,6 +32,6 @@
   "mana": 5200,
   "output": {
     "count": 2,
-    "item": "botania:rune_water"
+    "item": "botania:rune_air"
   }
 }

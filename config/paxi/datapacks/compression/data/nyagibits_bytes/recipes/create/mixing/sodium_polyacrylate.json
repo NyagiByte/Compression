@@ -1,0 +1,40 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "chemlib:sodium"
+      },
+      {
+        "item": "chemlib:sodium"
+      },
+      {
+        "item": "chemlib:sodium"
+      },
+      {
+        "item": "chemlib:sodium"
+      },
+      {
+        "item": "chemlib:sodium"
+      },
+      {
+        "item": "chemlib:sodium"
+      },
+      {
+        "item": "chemlib:sodium"
+      },
+      {
+        "item": "chemlib:sodium"
+      },
+      {
+        "amount": 1000,
+        "fluid": "thermal:sap"
+      }
+    ],
+    "results": [
+      {
+        "count": 40,
+        "item": "nyagibits_bytes:sodium_polyacrylate"
+      }
+    ]
+  }

@@ -67,7 +67,7 @@ ServerEvents.recipes(e => {
             e.remove({not: {type: 'create:sequenced_assembly'}, output: 'ae2:fluid_storage_cell_1k'});
             e.remove({not: {type: 'create:sequenced_assembly'}, output: 'ae2:fluid_storage_cell_4k'});
         //Temp Alchemistry Removals
-            e.remove({output:'chemlib:silicon'});
+            //e.remove([{type: 'alchemistry:dissolver', output: 'chemlib:silicon'}]);
 //Removal of other stoof
     //Botania
         e.remove({output: 'botania:apothecary_forest'});
@@ -128,7 +128,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:pixie_dust'});
         e.remove({output: 'botania:dragonstone'});
         e.remove({output: 'botania:red_string'});
-        e.remove({output: 'botania:mana_powder'});
         e.remove({output: 'botania:quartz_dark'});
         e.remove({output: 'botania:quartz_mana'});
         e.remove({output: 'botania:quartz_blaze'});
@@ -159,16 +158,10 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:lens_flare'});
         e.remove({output: 'botania:lens_messenger'});
         e.remove({output: 'botania:tripwire'});
-        e.remove({output: 'botania:lens_storm'});
-        e.remove({output: 'botania:rune_water'});
-        e.remove({output: 'botania:rune_fire'});
-        e.remove({output: 'botania:rune_earth'});
-        e.remove({output: 'botania:rune_air'});
         e.remove({output: 'botania:rune_spring'});
         e.remove({output: 'botania:rune_summer'});
         e.remove({output: 'botania:rune_autumn'});
         e.remove({output: 'botania:rune_winter'});
-        e.remove({output: 'botania:rune_mana'});
         e.remove({output: 'botania:rune_lust'});
         e.remove({output: 'botania:rune_gluttony'});
         e.remove({output: 'botania:rune_greed'});
@@ -452,7 +445,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:capacitor_mv'});
         e.remove({output: 'immersiveengineering:capacitor_hv'});
         e.remove({output: 'immersiveengineering:metal_barrel'});
-        e.remove({output: 'immersiveengineering:fluid_pump'});
         e.remove({output: 'immersiveengineering:fluid_placer'});
         e.remove({output: 'immersiveengineering:furnace_heater'});
         e.remove({output: 'immersiveengineering:dynamo'});
@@ -494,7 +486,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'thermal:signalum_glass'});
         e.remove({output: 'thermal:lumium_glass'});
         e.remove({output: 'thermal:enderium_glass'});
-        e.remove({output: 'thermal:device_tree_extractor'});
         e.remove({output: 'thermal:device_fisher'});
         e.remove({output: 'thermal:device_composter'});
         e.remove({output: 'thermal:device_water_gen'});

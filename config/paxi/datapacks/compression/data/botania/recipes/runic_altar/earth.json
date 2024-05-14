@@ -8,22 +8,22 @@
       "item": "nyagibits_bytes:rune_blank"
     },
     {
-      "item": "nyagibits_bytes:agar_agar"
+      "item": "nyagibits_bytes:mixed_seeds"
     },
     {
-      "item": "minecraft:sea_pickle"
+      "item": "nyagibits_bytes:basic_composite_plate"
     },
     {
-      "item": "minecraft:clay"
+      "item": "minecraft:amethyst_shard"
     },
     {
-      "item": "create:large_water_wheel"
+      "item": "farmersdelight:rich_soil"
     },
     {
-      "item": "ae2:blue_lumen_paint_ball"
+      "item": "ae2:green_lumen_paint_ball"
     },
     {
-      "item": "quark:sugar_cane_block"
+      "item": "chemlib:titanium"
     },
     {
       "item": "nyagibits_bytes:rune_binder"
@@ -32,6 +32,6 @@
   "mana": 5200,
   "output": {
     "count": 2,
-    "item": "botania:rune_water"
+    "item": "botania:rune_earth"
   }
 }

@@ -645,6 +645,10 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/mana_infusion/man
 hash = "76558a9cd9c55140e8fb3dbe6d88851c0db857d4b24bdce270e701ce6948b8e5"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/mana_infusion/mana_powder_dust.json"
+hash = "5f8f2c9bef858605164952596d6a831e26519aff61d1e11a9d969909756aeb02"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_infusion/manasteel.json"
 hash = "45041fc585b90b3f05ba22cad89344e302c474582a5293f48a8f6c1b760cb5ee"
 
@@ -685,8 +689,24 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar.json"
 hash = "9e43d5e45b8f0aa1607731da898803c5fb457d81aff98cb43278439ae3e3831a"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/air.json"
+hash = "49caff7c71af2ec2f01649dcb6f476770ebec742bf0ab97c5eae644eb6198d10"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/earth.json"
+hash = "37331ea733e15fcb59a6057e2cabde1a849cd9254f11350c49a58ba897090e3f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/fire.json"
+hash = "671478b9b96da0d3b1ae8d35a97c0bb53fd231712f812f69bab95cfcaeb0f1f3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/mana.json"
+hash = "6a0123f614846cab714ca45dfd6a3c8bf4bed3d2e195ab84530b4d270345217a"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/water.json"
-hash = "2959c51201b22e57eac7d8dd11d7068a7267a649f94cb560a11d642a8753cb32"
+hash = "c90593ee84caef0f0128cc15fcf168e13f1cca0a017d58723b99a09c21c1492c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar_alt.json"
@@ -801,6 +821,10 @@ file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/
 hash = "7ae534bb3a014199123cceddde85f43f1d03e8e81fde1e290ec5b6d4f5b4d90d"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/steam_engine.json"
+hash = "f66688c54e8f4e23c35893e4f34d8c1ffdb08346aeedeec83421789d2925b8fc"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/water_wheel.json"
 hash = "692b84ce9d587c5885337587b756a5f7dd1a476d8d7040ac74d3b3ebc340c219"
 
@@ -831,6 +855,10 @@ hash = "f277acb0e5b738a194f58db3dc3c4b6bcc7c681aaaef404a15f29593c0226006"
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/item_application/brass_casing_from_log.json"
 hash = "8a0aaba4a9c77aa8b5b391eea1a3ed304cf1721e564095699e97d19ee20b6b20"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/sequenced_assembly/precision_mechanism.json"
+hash = "c3dab91039b3fa186949661de230011572aa1a71b787ecf2fff60b8b29e77768"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/farmersdelight/recipes/mixing/straw.json"
@@ -1171,6 +1199,10 @@ hash = "a3b2d867938908b2fc08bebf7b5e5fda551b3a41e638f9e1c16ea5d029d87b3b"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/sealant.json"
 hash = "16d2d233a4fbe2f2a8943267900a6e8ff7bd67b181f6eb34b89443a493907e87"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/sodium_polyacrylate.json"
+hash = "b00a3aa618382d886023b5aad585f5bc80bda38c841c3363bab1f358c32bb9e0"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/soil_sample.json"
@@ -2865,6 +2897,10 @@ file = "config/paxi/datapacks/compression/data/quark/recipes/compacting/iron_pla
 hash = "61afd6154fae72237a0e74e02c0d7401ea3fa47e1e162e6ea177bf7702dddbe9"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/device_tree_extractor.json"
+hash = "9ab43b4c0f39d4da071775062afd8c1631e22b8c53101d470ebed5c07c33525f"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/thermal/recipes/drill_head.json"
 hash = "3080a0a95e0e6c7bec0b8077e3b1fe3b5c166f07fbb86e67a0df44b12c326126"
 
@@ -2878,7 +2914,7 @@ hash = "8cc138cc6fca762bdf76cbe9e88959da0e770f0bb4468c6db0bc790325fc028f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "54fc7e16da3b6a8a4ec51e17b1bab990eb3c288f6ff87090d4534d109dc9ae06"
+hash = "30062f28bf6c8a87bd8db352fa4507ab0c85a8750a2e2f46d18224ef54e90e70"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -3538,7 +3574,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "e82e222bd1d9ec01d7b2ec492e0fbf9909534c3d68fd4204cb93ed8ad4f23580"
+hash = "fff71006e626f2f9aa71c7dea973348fc471daef0adba90f7facfebad835ea43"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"

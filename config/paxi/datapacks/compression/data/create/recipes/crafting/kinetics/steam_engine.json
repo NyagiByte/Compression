@@ -1,0 +1,22 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {"item": "create:brass_block"},
+      "B": {"item": "create:copper_casing"},
+      "C": {"item": "nyagibits_bytes:steel_high_carbon_15n20"},
+      "D": {"item": "create:brass_sheet"},
+      "E": {"item": "create:precision_mechanism"},
+      "F": {"item": "nyagibits_bytes:steel_high_carbon_1080"},
+      "G": {"item": "create:stressometer"}
+    },
+    "pattern": [
+      " A C",
+      "BFBC",
+      "BEBD",
+      "BEB ",
+      "GFB ",
+      "BFB "
+    ],
+    "result": {"item": "create:steam_engine"}
+  }
