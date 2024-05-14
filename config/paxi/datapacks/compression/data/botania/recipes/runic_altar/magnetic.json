@@ -1,0 +1,43 @@
+{
+  "type": "botania:runic_altar",
+  "ingredients": [
+    {
+      "item": "botania:rune_earth"
+    },
+    {
+      "item": "botania:rune_air"
+    },
+    {
+      "item": "nyagibits_bytes:synchronous_electric_motor"
+    },
+    {
+      "item": "ae2:charger"
+    },
+    {
+      "item": "botania:lens_magnet"
+    },
+    {
+      "item": "botania:lens_magnet"
+    },
+    {
+      "item": "nyagibits_bytes:magnetic_hematite"
+    },
+    {
+      "item": "nyagibits_bytes:solenoid_component"
+    },
+    {
+      "item": "nyagibits_bytes:solenoid_component"
+    },
+    {
+      "item": "nyagibits_bytes:solenoid_component"
+    },
+    {
+      "item": "nyagibits_bytes:solenoid_component"
+    }
+  ],
+  "mana": 30000,
+  "output": {
+    "count": 1,
+    "item": "nyagibits_bytes:rune_magnetic"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "botania:runic_altar",
+  "ingredients": [
+    {
+      "item": "botania:rune_earth"
+    },
+    {
+      "item": "botania:rune_fire"
+    },
+    {
+      "item": "nyagibits_bytes:activated_charcoal"
+    },
+    {
+      "item": "nyagibits_bytes:steel_stainless"
+    },
+    {
+      "item": "nyagibits_bytes:steel_stainless"
+    },
+    {
+      "item": "nyagibits_bytes:steel_stainless"
+    },
+    {
+      "item": "chemlib:chromium"
+    },
+    {
+      "item": "chemlib:magnesium"
+    },
+    {
+      "item": "chemlib:cobalt"
+    },
+    {
+      "item": "ae2:cyan_lumen_paint_ball"
+    },
+    {
+      "item": "chemlib:lithium"
+    },
+    {
+      "item": "chemlib:platinum"
+    },
+    {
+      "item": "chemlib:palladium"
+    }
+  ],
+  "mana": 30000,
+  "output": {
+    "count": 1,
+    "item": "nyagibits_bytes:rune_catalytic"
+  }
+}
