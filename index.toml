@@ -270,7 +270,7 @@ hash = "eea27aa38609580a029d73f9cc4b15a29efb544521a416a83f8cabe0973615ee"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "70b2fede66b2cd7d1148be63f96fa04b583c794e7ffc6ad87e96a8d2ba70e398"
+hash = "0f81622b00c5934c8e2cd4172907ce0e7366b64a7cdf50369609aff183875076"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -693,12 +693,20 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/air.j
 hash = "49caff7c71af2ec2f01649dcb6f476770ebec742bf0ab97c5eae644eb6198d10"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/catalytic.json"
+hash = "318688e2d82208697e39b9ac2e870295ce02fda4a0f1723c9494d9d9fa12f7bb"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/earth.json"
 hash = "37331ea733e15fcb59a6057e2cabde1a849cd9254f11350c49a58ba897090e3f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/fire.json"
 hash = "671478b9b96da0d3b1ae8d35a97c0bb53fd231712f812f69bab95cfcaeb0f1f3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/magnetic.json"
+hash = "79e35a5a842e69c82ca0d36be882858ae1118713a15a8d58f5343ab44fb875c4"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/mana.json"
@@ -895,10 +903,6 @@ hash = "2ac8ff6c75f244a3868615cce1f91e470db59d0ad9bb09c6859ae2e96beddeea"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blueprint/circuit_board.json"
 hash = "09051a795821b0749a6a6b392533463efaaf9e290f576e78ad06b0e264d2d57b"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blueprint/component_iron.json"
-hash = "eae3eda474d7e4bf3e10820376bde95b7f22bd75b4eb410da11a36c4c21e059c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blastbrick.json"
