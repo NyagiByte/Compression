@@ -239,6 +239,23 @@
 			x: -3.0d
 			y: 3.5d
 		}
+		{
+			description: ["While these are able to be gotten in tier 0, they serve no purpose until tier 1. Enjoy your berry i guess"]
+			id: "2529C782076D8C7C"
+			rewards: [{
+				id: "6522DB90F8949F9A"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5D3A6A22ACA8B78A"
+				item: "minecraft:sugar_cane"
+				type: "item"
+			}]
+			title: "Used to be called reeds actually"
+			x: -1.0d
+			y: -1.5d
+		}
 	]
 	subtitle: ["I've been farming for 100 hours"]
 	title: " &aOrganics"

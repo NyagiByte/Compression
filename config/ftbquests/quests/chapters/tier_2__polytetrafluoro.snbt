@@ -7,7 +7,28 @@
 	id: "1FC0283CD05AF9A8"
 	order_index: 2
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		dependencies: [
+			"43BF36460BEA05DE"
+			"2591E9EC898378B9"
+		]
+		icon: "pneumaticcraft:pressure_tube"
+		id: "2F65DDC0C4F6ABD1"
+		rewards: [{
+			id: "3C192B410C4D223A"
+			item: "ftbquests:missing_item"
+			type: "item"
+		}]
+		size: 2.0d
+		tasks: [{
+			id: "2CB30E172E7708A0"
+			title: "Chemistry! Brought to you by work place accidents"
+			type: "checkmark"
+		}]
+		title: "Chemistry and Industrial Accidents"
+		x: 0.0d
+		y: 0.0d
+	}]
 	subtitle: ["Turning things into other things"]
 	title: " &6Tier 2&b - Polytetrafluoro..."
 }

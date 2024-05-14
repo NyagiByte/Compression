@@ -3482,6 +3482,30 @@
 			x: 20.0d
 			y: 3.0d
 		}
+		{
+			dependencies: ["510C4A6E6F1259B5"]
+			id: "4D9B214ADB223440"
+			rewards: [{
+				id: "67BC88A606DFBBDD"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "0B051CC346F1E27F"
+					item: "ftbquests:missing_item"
+					type: "item"
+				}
+				{
+					id: "250DB4C4EADA65E8"
+					item: "ftbquests:missing_item"
+					type: "item"
+				}
+			]
+			title: "Fluid Assistance"
+			x: 9.5d
+			y: -4.0d
+		}
 	]
 	subtitle: ["I am a dwarf and I'm digging a hole"]
 	title: " &aOre Line"

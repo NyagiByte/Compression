@@ -41,7 +41,6 @@
 		{
 			dependencies: ["472213B0CD3A8117"]
 			description: ["Svenska: Sätt in del 17a i stångsegment 1,2 och 5 för att rikta in segmenten för steg åttiotvå"]
-			hide: true
 			id: "46FF0B8D87309F93"
 			rewards: [{
 				id: "552D41A685B7CB18"
@@ -64,7 +63,7 @@
 				"256F108BD683D592"
 			]
 			description: ["En massa levande material som visas i figur sju b. Vänligen sjunga ritualen som beskrivs i avsnitt fem"]
-			hide: true
+			hide: false
 			icon: "nyagibits_bytes:botania_assembly"
 			id: "37FAB0261BCDF974"
 			rewards: [{
@@ -99,7 +98,6 @@
 		{
 			dependencies: ["472213B0CD3A8117"]
 			description: ["Olagligt på de flesta platser, avsnitt arton j beskriver hur man producerar sprängämnen och dödliga gaser"]
-			hide: true
 			id: "05CC38E1E327BA2E"
 			rewards: [{
 				id: "7DBC0AEA4B6CA0E2"
@@ -261,7 +259,6 @@
 				""
 				"Do not despair quite yet as the crafting recipe for the ovens yields all 27 required bricks and features &bsignificantly reduced processing times!"
 			]
-			hide: true
 			icon: "immersiveengineering:cokebrick"
 			id: "28B78F18CDBAEB65"
 			rewards: [{
@@ -349,6 +346,8 @@
 				"TNT?! What for? "
 				""
 				"The &econglomerate and dense conglomerate&r layer of ore can actually be harvested via explosion. This will actually be required for progression as the &bmanasteel&r pickaxe needed requires industrial coke quality coals to produce the steel"
+				""
+				"&dOther methods exist, but won't be stated in the quest book"
 			]
 			id: "2749DE946E0BF9CB"
 			rewards: [{

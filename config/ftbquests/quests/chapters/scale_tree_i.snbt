@@ -55,6 +55,7 @@
 			dependencies: [
 				"6F9A0CC233865374"
 				"177A2060FFFA6932"
+				"2529C782076D8C7C"
 			]
 			description: [
 				"Quite a bit more involved but the yield on paper is awesome!"
@@ -246,7 +247,10 @@
 			y: -8.0d
 		}
 		{
-			dependencies: ["71D2EEB0AA5125EC"]
+			dependencies: [
+				"71D2EEB0AA5125EC"
+				"14810CA3118F5F1A"
+			]
 			description: [
 				"Another doubling?! How ludicrous"
 				""
@@ -263,8 +267,42 @@
 				item: "ftbquests:missing_item"
 				type: "item"
 			}]
+			title: "Beautifully Robust"
 			x: -12.5d
 			y: -5.0d
+		}
+		{
+			dependencies: ["63EDC0EBBEFA483E"]
+			description: [
+				"Crude plastic reinforcing allows for the same quantity of leather to yield a doubling on books"
+				""
+				"&b8 Books per craft"
+			]
+			id: "3500F16244BD9D6C"
+			rewards: [{
+				id: "223C5AB348E16F96"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4EEED133697A5313"
+				item: "immersiveengineering:plate_duroplast"
+				type: "item"
+			}]
+			title: "Probably worse for the environment"
+			x: -9.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["5B109E7F50E8EBC2"]
+			id: "387DFD801FA80B99"
+			tasks: [{
+				id: "72AD02D38ED2A512"
+				title: "Stainless Steel Tree"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -9.0d
 		}
 	]
 	subtitle: ["I NEED MORE STUFF"]

@@ -427,6 +427,63 @@
 			x: 1.0d
 			y: -2.0d
 		}
+		{
+			dependencies: [
+				"37FAB0261BCDF974"
+				"05CC38E1E327BA2E"
+				"64B7C87F4FB6406C"
+			]
+			description: ["I lost a piece of my soul automating these but now the factory can really pick up pace"]
+			id: "5A77F6106542B766"
+			rewards: [{
+				id: "7C884FC08DCDB0D2"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 256L
+					id: "0E31EDBEE37248BD"
+					item: "nyagibits_bytes:botania_assembly"
+					title: "A Trio of Pain"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "0A059E2FEEA407EC"
+					item: "nyagibits_bytes:alchemistry_assembly"
+					type: "item"
+				}
+				{
+					count: 128L
+					id: "70B0ED3F60B4DEAE"
+					item: "nyagibits_bytes:immersive_assembly"
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			description: ["Congrats, You have mastered Tier 2"]
+			id: "2C215F96485014C7"
+			rewards: [{
+				id: "081144F17B55AA52"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "20BB277EC2D60602"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Tier 2 Mastery"
+			x: 0.0d
+			y: 6.5d
+		}
 	]
 	subtitle: [" &fGrind, Optimize, Automate, Thrive"]
 	title: " &fProficiency"
