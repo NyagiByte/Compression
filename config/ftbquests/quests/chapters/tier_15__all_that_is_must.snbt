@@ -7,7 +7,19 @@
 	id: "7FE5FC94BD026BE8"
 	order_index: 15
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		dependencies: ["3BEACE9F3F1EC3AA"]
+		id: "360C9A23E1035CB7"
+		size: 6.0d
+		tasks: [{
+			id: "561996A81AB855E8"
+			item: "ftbquests:missing_item"
+			type: "item"
+		}]
+		title: "&c[...]"
+		x: 0.0d
+		y: 0.0d
+	}]
 	subtitle: ["Value looses meaning"]
 	title: " &6Tier 15&b - All that is... must..."
 }

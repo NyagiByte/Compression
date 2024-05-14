@@ -7,7 +7,19 @@
 	id: "13B4B27E774FDAB7"
 	order_index: 7
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		dependencies: ["3BEACE9F3F1EC3AA"]
+		id: "2D5173EA12F7B0BF"
+		size: 2.0d
+		tasks: [{
+			id: "3553F2D822A3CDF9"
+			item: "nuclearcraft:fusion_core"
+			type: "item"
+		}]
+		title: "Tokomak my Beloved"
+		x: 0.0d
+		y: 0.0d
+	}]
 	subtitle: ["Only 20 years away!"]
 	title: " &6Tier 7&b - A very small sun"
 }

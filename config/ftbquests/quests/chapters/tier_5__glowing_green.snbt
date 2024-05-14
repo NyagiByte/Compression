@@ -7,7 +7,19 @@
 	id: "30D659F3EEB7B307"
 	order_index: 5
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		dependencies: ["3BEACE9F3F1EC3AA"]
+		icon: "nuclearcraft:uranium_rtg"
+		id: "15E201E7CE25E2A0"
+		size: 2.0d
+		tasks: [{
+			id: "0063D287229271ED"
+			title: "Time to crack some atoms"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
 	subtitle: ["Twisting the dragon's tail"]
 	title: " &6Tier 5&b - Glowing Green"
 }

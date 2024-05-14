@@ -484,6 +484,24 @@
 			x: 0.0d
 			y: 6.5d
 		}
+		{
+			id: "7F551DACA7479075"
+			rewards: [{
+				id: "186E12C191A97206"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "3FB6D1C59C527C4D"
+				item: "nyagibits_bytes:endoflame_mush"
+				type: "item"
+			}]
+			title: "Expensive Mush"
+			x: 1.0d
+			y: -3.0d
+		}
 	]
 	subtitle: [" &fGrind, Optimize, Automate, Thrive"]
 	title: " &fProficiency"

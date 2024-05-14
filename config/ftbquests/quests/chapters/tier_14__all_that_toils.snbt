@@ -7,7 +7,19 @@
 	id: "6AA63239A7DE9210"
 	order_index: 14
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		dependencies: ["3BEACE9F3F1EC3AA"]
+		id: "6424C8F4C56760F0"
+		size: 5.0d
+		tasks: [{
+			id: "3CC90EA38E240027"
+			item: "ftbquests:missing_item"
+			type: "item"
+		}]
+		title: "&c[NNNLL NFFFOO]"
+		x: 0.0d
+		y: 0.0d
+	}]
 	subtitle: ["Mangled flesh, Mangled space"]
 	title: " &6Tier 14&b - All that toils..."
 }

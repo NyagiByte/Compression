@@ -7,7 +7,19 @@
 	id: "7093D24DA2A2C946"
 	order_index: 10
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		dependencies: ["3BEACE9F3F1EC3AA"]
+		id: "25ACFB117AD34613"
+		size: 2.0d
+		tasks: [{
+			id: "083CD88CF4692367"
+			item: "ftbquests:missing_item"
+			type: "item"
+		}]
+		title: "&cThere Is Always A Way"
+		x: 0.0d
+		y: 0.0d
+	}]
 	subtitle: ["No Obligation to make sense, only consistent"]
 	title: " &6Tier 10&b - Beyond The Standard Model"
 }

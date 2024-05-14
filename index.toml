@@ -258,7 +258,7 @@ hash = "d728b35a32035c56c2bf70611af06079f4f9d387618d382383e32d65255ac6e5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/proficiency.snbt"
-hash = "123ff3d3da19e6b32cc635a8ece0aba12b5254f140d3007e7f65d4c0c308fefd"
+hash = "f9cdafc7578201f4546064225d0e752e889715b39d4a587ad68bc435758b54d0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
@@ -274,27 +274,27 @@ hash = "0f81622b00c5934c8e2cd4172907ce0e7366b64a7cdf50369609aff183875076"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
-hash = "9b73ecba69b52af42edff230f21b4c99582594a040414a8ce2417a00d817ec61"
+hash = "57724ca7bd91ac0c458cb73c22e26ba3b09698b507337339688aa2d3baeabd96"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_11__a_frame_of_reference.snbt"
-hash = "6ca8506f60b5f54ccd3b8c4fcf2dac5d00001023b354d496ce25aef9bccbfffb"
+hash = "183865d18b6fd861089bb81e210cc6bfbbba514a4b473a20ba4a8421b1ef46a3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_12__preparation.snbt"
-hash = "7deae983cfe5322d7f7119b967f0f79baf3b418fc500c0265cfa5fc2b0eaec64"
+hash = "d718bc492ecc078157598ac9aec18a44b79efe2bc76a39d24fab607c85469ba2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_13__all_that_begins.snbt"
-hash = "62f9477a9e23fb9e6db1b1f984bf4f0aeb651a17f9701bfb56eaad871fc66b7f"
+hash = "dfcc78d3e5e8e1128f2e331db77e78efd02f18811ab445e93d9f5b0286cad0eb"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_14__all_that_toils.snbt"
-hash = "c8606a626d8d42f07ae9babfd7323b0d1c22ae34198a993b6c809d9f7fc44421"
+hash = "8f7da08e27548d0a6476961c83dc1d391784433d71733543cc8cdb076e25f178"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_15__all_that_is_must.snbt"
-hash = "7cdf76648e15863e15d2eb8e7ab413a0fa326b7fb3830d6a2bf2f113a837030b"
+hash = "2639f4a72fc57577297ffa3c6a56ec596fcbba358532c9188204afea6a6343d1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_16__end.snbt"
@@ -306,31 +306,31 @@ hash = "01b4dadf2a57bef40ef7b85f22b3ce1105a38f128c9a1dc92c7207e547dc3561"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_3__a_golden_box.snbt"
-hash = "9baef2046e69d5cca9440702787f16d5c665572cbc5fb19d7742e162f35f9061"
+hash = "375180eec7143a77a80d6191fbcec7f0bde4a47dbe6272221e93e157dc269ffd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_4__deoxyribonucleic_acid.snbt"
-hash = "5fd7dfc318b6ad80f5d681936190aadc309c03bbb303decd549bda7c71f6eb45"
+hash = "e044ac02952a07a92f8a0d66f778cc9926aaeaa333af26117834fb23af0f8946"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_5__glowing_green.snbt"
-hash = "10dacf1d30db0baf47650573d3f52b3e0c846b0306218eb24a43e6ac18520436"
+hash = "5ae23df54d86aed97807419af706454217aff125f02cebc545ddc81c47f68e2a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_6__5_billion_per_second.snbt"
-hash = "25af7adcb1776fad3983166e42ce5ac2a63e961a556b06e60a52d7233e1118c8"
+hash = "28d65330e3447b2b32b89ab294cd1fea42a9cfe5a2795509e7a6fa8901105761"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_7__a_very_small_sun.snbt"
-hash = "69e66c75a717686c636faf0d83ee2b79851678f92969be9473ec233a27584b3e"
+hash = "1653dc2d0c5e08331f6ae7a7aaab350f19bf1e0429291b2145c010488cdd5bcd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_8__poking_the_boundaries.snbt"
-hash = "c666cfcafc10952af95a2f3bfaa2aff6f9b36cdfe874189cf1426d72c02e03d1"
+hash = "4f272ae8116c5086deb1677d2a9cc6d22e31f2fbe294c0a0f15ca0f82ed3ae85"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_9__looking_up.snbt"
-hash = "05594852dfb6c5952d46028d01d88b46f6faf7db615afda0bb9240a974cb933c"
+hash = "55a668749c65a2929945b96fdeda9f42caa5ba27713e1ae35fd472f2b74b34f7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome_to_compression.snbt"

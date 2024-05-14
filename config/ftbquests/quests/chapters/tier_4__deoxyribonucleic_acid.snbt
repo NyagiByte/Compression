@@ -13,7 +13,24 @@
 	id: "02408EBC47E43AD8"
 	order_index: 4
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		dependencies: ["3BEACE9F3F1EC3AA"]
+		icon: "biomancy:flesh_bits"
+		id: "6BC5E6AD744988DD"
+		rewards: [{
+			id: "0F1F558689AA6BCF"
+			item: "ftbquests:missing_item"
+			type: "item"
+		}]
+		size: 2.0d
+		tasks: [{
+			id: "0238085D23E68C39"
+			title: "Horrors well within comprehension"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
 	subtitle: ["Life is chemistry in motion"]
 	title: " &6Tier 4&b - Deoxyribonucleic Acid"
 }

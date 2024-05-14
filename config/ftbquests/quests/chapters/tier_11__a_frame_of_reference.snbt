@@ -7,7 +7,19 @@
 	id: "53F1B65D010D76A6"
 	order_index: 11
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		dependencies: ["3BEACE9F3F1EC3AA"]
+		id: "43D4102FC348F335"
+		size: 2.0d
+		tasks: [{
+			id: "6C80912C22E8741F"
+			item: "compactcrafting:field_projector"
+			type: "item"
+		}]
+		title: "&cBending the rules"
+		x: 0.0d
+		y: 0.0d
+	}]
 	subtitle: ["Infinity is unnatural"]
 	title: " &6Tier 11&b - A Frame of Reference "
 }

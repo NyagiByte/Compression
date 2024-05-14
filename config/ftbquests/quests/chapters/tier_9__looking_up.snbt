@@ -7,7 +7,20 @@
 	id: "293D11FE9470BC37"
 	order_index: 9
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		dependencies: ["3BEACE9F3F1EC3AA"]
+		description: [""]
+		id: "13ABA16FBB63A831"
+		size: 2.0d
+		tasks: [{
+			id: "0F512E7B5C6681BE"
+			item: "abyssal_decor:telescope_bottom"
+			type: "item"
+		}]
+		title: "&cThe Nature of Reality"
+		x: 0.0d
+		y: 0.0d
+	}]
 	subtitle: ["All things formed decay.."]
 	title: " &6Tier 9&b - Looking Up"
 }

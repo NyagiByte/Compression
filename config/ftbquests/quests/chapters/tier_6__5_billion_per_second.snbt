@@ -7,7 +7,19 @@
 	id: "1C3C118BF0B564FB"
 	order_index: 6
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		dependencies: ["3BEACE9F3F1EC3AA"]
+		icon: "pneumaticcraft:transistor"
+		id: "3141035C996CF5B0"
+		tasks: [{
+			id: "5B9385CB35D145B7"
+			title: "7 nanometers each"
+			type: "checkmark"
+		}]
+		title: "7nm Thinking Metal"
+		x: 0.0d
+		y: 0.0d
+	}]
 	subtitle: ["Metal and sand made to think"]
 	title: " &6Tier 6&b - 5 billion per second"
 }

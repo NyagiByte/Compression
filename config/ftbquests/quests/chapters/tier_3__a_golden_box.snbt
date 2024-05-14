@@ -7,7 +7,24 @@
 	id: "20D0865DA87C41B2"
 	order_index: 3
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		dependencies: ["3BEACE9F3F1EC3AA"]
+		icon: "immersiveengineering:wire_electrum"
+		id: "63481AC6B9F7024A"
+		rewards: [{
+			id: "32446F8E32A30E64"
+			item: "ftbquests:missing_item"
+			type: "item"
+		}]
+		size: 2.0d
+		tasks: [{
+			id: "5C94B3E8B7B328A4"
+			title: "The Computation Age Begins"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
 	subtitle: ["Delicate weaving, golden threads"]
 	title: " &6Tier 3&b - A Golden Box"
 }

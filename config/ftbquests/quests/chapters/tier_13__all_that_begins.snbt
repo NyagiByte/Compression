@@ -7,7 +7,19 @@
 	id: "4868C21F1AD60E47"
 	order_index: 13
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		dependencies: ["3BEACE9F3F1EC3AA"]
+		id: "32EEB8DA9FD5A35F"
+		size: 4.0d
+		tasks: [{
+			id: "0CC85434D18944F2"
+			item: "ftbquests:missing_item"
+			type: "item"
+		}]
+		title: "&c[NULL IN-]"
+		x: 0.0d
+		y: 0.0d
+	}]
 	subtitle: ["&cTo continue what was started"]
 	title: " &6Tier 13&b - All that begins..."
 }

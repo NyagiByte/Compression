@@ -13,7 +13,19 @@
 	id: "4554DDBBCB8C69AE"
 	order_index: 12
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		dependencies: ["3BEACE9F3F1EC3AA"]
+		id: "2730316A9131934A"
+		size: 3.0d
+		tasks: [{
+			id: "66D9F6FC4C3FA42C"
+			item: "ftbquests:missing_item"
+			type: "item"
+		}]
+		title: "&c[NULL INFORMATION]"
+		x: 0.0d
+		y: 0.0d
+	}]
 	subtitle: ["&cEven Gods Can Die"]
 	title: " &6Tier 12&b - Preparation "
 }
