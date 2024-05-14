@@ -1,0 +1,107 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "nyagibits_bytes:steel_high_carbon_1080"},
+    "loops": 8,
+    "results": [
+      {
+        "count": 16,
+        "item": "nyagibits_bytes:steel_damascus"
+    }
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:steel_high_carbon_1080"
+          },
+          {
+            "item": "nyagibits_bytes:steel_high_carbon_15n20"
+          }  
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:incomplete_calculation_dud"
+        }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:steel_high_carbon_1080"
+          },
+          {
+            "item": "nyagibits_bytes:flux_mixture"
+          }  
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:steel_high_carbon_1080"
+        }
+        ]
+      },
+      {
+          "type": "create:filling",
+          "ingredients": [
+            {
+              "item": "nyagibits_bytes:steel_high_carbon_1080"
+            },
+            {
+              "amount": 100,
+              "fluid": "minecraft:lava",
+              "nbt": {}
+            }
+          ],
+          "results": [
+            {
+              "item": "nyagibits_bytes:steel_high_carbon_1080"
+            }
+          ]
+        },
+      {
+          "type": "create:pressing",
+          "ingredients": [
+            {
+              "item": "nyagibits_bytes:steel_high_carbon_1080"
+            }
+          ],
+          "results": [
+            {
+              "item": "nyagibits_bytes:steel_high_carbon_1080"
+            }  
+          ]
+        },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:steel_high_carbon_1080"
+          }
+        ],
+        "processingTime": 50,
+        "results": [
+          {
+            "item": "nyagibits_bytes:steel_high_carbon_1080"
+          }  
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:steel_high_carbon_1080"
+          },
+          {
+            "item": "nyagibits_bytes:steel_high_carbon_1080"
+          }  
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:steel_high_carbon_1080"
+        }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:steel_high_carbon_1080"}
+  }

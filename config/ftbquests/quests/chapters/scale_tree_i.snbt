@@ -295,14 +295,329 @@
 		}
 		{
 			dependencies: ["5B109E7F50E8EBC2"]
+			description: ["This is the scaling tree for stainless steel"]
+			icon: "nyagibits_bytes:steel_stainless"
 			id: "387DFD801FA80B99"
+			rewards: [{
+				id: "36CD297AC2C3F4D8"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "72AD02D38ED2A512"
 				title: "Stainless Steel Tree"
 				type: "checkmark"
 			}]
-			x: -3.0d
+			title: "Rust Begone!"
+			x: -3.5d
 			y: -9.0d
+		}
+		{
+			dependencies: ["387DFD801FA80B99"]
+			description: ["Chromium is your standard entry point to cooking up some stainless steel. The other steel flavors don't scale. &eSomething to note, the scaling for stainless steel is to reduce trace element use per unit made and not necessarily for gaining material out of nothing."]
+			id: "37F088321E6173EF"
+			rewards: [{
+				id: "4408767994FFA56D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1053AE88636EF0E7"
+				item: "chemlib:chromium"
+				type: "item"
+			}]
+			title: "Chromominomium"
+			x: -3.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["37F088321E6173EF"]
+			description: ["With the addition of some rarer molybdenum the quantities of the other elements can be reduced rather dramatically"]
+			id: "6010CF0C03A9D607"
+			rewards: [{
+				id: "7B6C99AE21B30D71"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4E594DC2F8FB8F61"
+				item: "chemlib:molybdenum"
+				type: "item"
+			}]
+			title: "Like MSG for Steel"
+			x: -2.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["7063B8BCE64899C9"]
+			description: ["This is the scaling tree for ae2 processors"]
+			icon: "ae2:logic_processor"
+			id: "031EFEA90E87FC96"
+			rewards: [{
+				id: "24525A44CA098F26"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "736CAA8E762D29B0"
+				title: "Processor Tree"
+				type: "checkmark"
+			}]
+			title: "The thinky bits of Ae2"
+			x: -10.5d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"08A009A673DC1A89"
+				"46FF0B8D87309F93"
+			]
+			description: [
+				"By pressing on the duds to a sheet of printed silicon processors can be made more efficiently"
+				""
+				"&b2 Processors per craft"
+			]
+			id: "2B60ADFF135962EB"
+			rewards: [{
+				id: "5A343B3F57BEB77A"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "43E84BAB3ED33DD4"
+				item: "ae2:printed_silicon"
+				type: "item"
+			}]
+			title: "So much sand..."
+			x: -9.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["031EFEA90E87FC96"]
+			description: [
+				"Simple stamped material gets the job done albeit rather inefficiently"
+				""
+				"&b1 Processor per craft"
+			]
+			id: "08A009A673DC1A89"
+			rewards: [{
+				id: "1282F34EEDEB9718"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3EBA9ADEFFD3A8A8"
+					item: "nyagibits_bytes:logic_dud"
+					type: "item"
+				}
+				{
+					id: "454DF67FC3EE42C8"
+					item: "nyagibits_bytes:calculation_dud"
+					type: "item"
+				}
+				{
+					id: "5DE794265FAC0630"
+					item: "nyagibits_bytes:engineering_dud"
+					type: "item"
+				}
+			]
+			title: "Duds but not Dumb(s)"
+			x: -9.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["7063B8BCE64899C9"]
+			description: ["This is the scaling tree for quartz glass"]
+			icon: "ae2:quartz_glass"
+			id: "368547EA5877E132"
+			rewards: [{
+				id: "65654AF6A9EB871D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "787B74CD9625469B"
+				title: "Quartz Glass Tree"
+				type: "checkmark"
+			}]
+			title: "Glass but more stronger"
+			x: -7.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["368547EA5877E132"]
+			description: [
+				"Unlike regular scale trees in quartz glass production the aim is to dramatically reduce useage of &3certus quartz&r by using better glasses. May even reduce the use of the glass itself"
+				""
+				"&b1 Quartz Glass per craft"
+				"&c100% chance to consume certus quartz"
+			]
+			id: "0AB5EE0F094264AB"
+			rewards: [{
+				id: "3B8FA1063219D307"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6E412D97B7306438"
+				item: "minecraft:glass"
+				type: "item"
+			}]
+			title: "Good ol' Glass"
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["0AB5EE0F094264AB"]
+			description: [
+				"&b1 Quartz Glass per craft"
+				"&c50% chance to consume certus quartz"
+			]
+			id: "672E4CF1853FC9E8"
+			rewards: [{
+				id: "2634D88D6AB50932"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0EAED61FA2B33BF0"
+				item: "quark:framed_glass"
+				type: "item"
+			}]
+			title: "Reinforced and Refined~"
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4FFC0930D0539B28"]
+			description: ["This is the scaling tree for rose quartz"]
+			icon: "create:rose_quartz"
+			id: "1C8AA0B6AF089D28"
+			rewards: [{
+				id: "70052FA9D50E724F"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0856DBBE7B90BDA4"
+				title: "Rose Quartz Tree"
+				type: "checkmark"
+			}]
+			title: "Hey I could make an SU refrence"
+			x: -13.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["12356B8E644A1A52"]
+			description: [
+				"This is the scale tree for all pure daisy conversions"
+				""
+				"&eThe \"scaling\" with pure daisy conversion has to do with SPEED. More specifically using more consutrcted blocks to engage in the process that both take less time and yield more product"
+			]
+			icon: "botania:pure_daisy"
+			id: "600D1BF0A4506C5F"
+			rewards: [{
+				id: "2D4E1C991287D1DD"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "711910964A4F1A90"
+				title: "Living Blocks Tree"
+				type: "checkmark"
+			}]
+			title: "More Flower? No make it faster"
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1C8AA0B6AF089D28"]
+			description: [
+				"Generic quartz can be painted red and if you squint your eyes kinda right it's rose-ish"
+				""
+				"&b1 Rose Quartz per craft"
+			]
+			id: "5174EC26A86B7461"
+			rewards: [{
+				id: "139467154F083DCE"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "47DF24C3A6366E01"
+				item: "minecraft:quartz"
+				type: "item"
+			}]
+			title: "Quartz from HELL"
+			x: -12.5d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"5174EC26A86B7461"
+				"2410D97DAF875C6D"
+			]
+			description: [
+				"Ok last quest was silly lets use an actual piece of rose quartz here"
+				""
+				"&b8 Rose Quartz per craft"
+			]
+			id: "747C27A7093EF8E8"
+			rewards: [{
+				id: "71A79FC7E55168BF"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "288F25F701E2A2CD"
+				item: "nyagibits_bytes:raw_rose_quartz"
+				type: "item"
+			}]
+			title: "Wait which is the real rose quartz?"
+			x: -12.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["600D1BF0A4506C5F"]
+			description: [
+				"Smooth Stone --> Living Stone"
+				"Logs --> Living Wood"
+				"Ethced Wood --> Living Roots"
+				"Andesite --> Livisite"
+				""
+				"&bStandard Processing Time"
+			]
+			id: "07E1088AA73FF590"
+			rewards: [{
+				id: "5E6CD061A2554E7B"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "102FDDF086D3C9E1"
+					item: "minecraft:smooth_stone"
+					type: "item"
+				}
+				{
+					id: "74469C51B4CE3ED7"
+					item: "minecraft:oak_log"
+					type: "item"
+				}
+				{
+					id: "2461F4F8C8CA834A"
+					item: "nyagibits_bytes:etched_living_wood"
+					type: "item"
+				}
+				{
+					id: "6CF02CF3494A0231"
+					item: "minecraft:andesite"
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: -3.5d
 		}
 	]
 	subtitle: ["I NEED MORE STUFF"]

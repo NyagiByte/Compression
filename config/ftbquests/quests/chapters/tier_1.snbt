@@ -831,11 +831,28 @@
 				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
-			tasks: [{
-				id: "1DBD08C3FBB05BFB"
-				item: "ftbquests:missing_item"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "5CAD38DDC4A16816"
+					item: "nyagibits_bytes:steel_damascus"
+					type: "item"
+				}
+				{
+					id: "4E422B1661C27600"
+					item: "nyagibits_bytes:steel_high_carbon_1080"
+					type: "item"
+				}
+				{
+					id: "38713F8F7742ED68"
+					item: "nyagibits_bytes:steel_high_carbon_15n20"
+					type: "item"
+				}
+				{
+					id: "6F0FED88AEE3E21C"
+					item: "nyagibits_bytes:steel_stainless"
+					type: "item"
+				}
+			]
 			title: "Flavors of Steel"
 			x: 1.0d
 			y: 6.0d

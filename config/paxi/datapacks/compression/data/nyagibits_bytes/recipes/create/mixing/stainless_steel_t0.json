@@ -1,0 +1,33 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "immersiveengineering:ingot_steel"
+      },
+      {
+        "item": "chemlib:phosphorus"
+      },
+      {
+        "item": "chemlib:silicon"
+      },
+      {
+        "item": "chemlib:chromium"
+      },
+      {
+        "item": "chemlib:chromium"
+      },
+      {
+        "item": "chemlib:chromium"
+      },
+      {
+        "item": "chemlib:chromium"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:steel_stainless"
+      }
+    ]
+  }
