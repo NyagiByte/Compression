@@ -258,11 +258,11 @@ hash = "d728b35a32035c56c2bf70611af06079f4f9d387618d382383e32d65255ac6e5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/proficiency.snbt"
-hash = "cf035a04babcbde1422ef981e09c8d5a1949001c98e87bb3a19f346ab6385007"
+hash = "123ff3d3da19e6b32cc635a8ece0aba12b5254f140d3007e7f65d4c0c308fefd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
-hash = "31567d8c8c0a779f47f67b4e6b84de979b9650406739d67db143ecd0f228731b"
+hash = "e949221ea2c15d23f28fba917b3e30c9b4c1fcd3a78565ab295aec63ae4243f5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
@@ -270,7 +270,7 @@ hash = "eea27aa38609580a029d73f9cc4b15a29efb544521a416a83f8cabe0973615ee"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "915d3d1f728204195214f32926c096b9085dd0e84d9afbbe9c0b6937fdfa0ce1"
+hash = "70b2fede66b2cd7d1148be63f96fa04b583c794e7ffc6ad87e96a8d2ba70e398"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -1113,6 +1113,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "d58fde63485e3c92c4775130b7d64edeb40c18ff16325fed033ba4a40b94f408"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/15n20_high_carbon_steel.json"
+hash = "d83caa7bf17586346c545bdda0aeb083c550f6da8b85401290dcd5d68cc74772"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/activated_charcoal_t0.json"
 hash = "eecf7c218dc99dbaa1bbdaf702c714f95ca30b31b37dde94d219a0f88a033385"
 
@@ -1177,6 +1181,14 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "9326fce0cf29899be22124bf3a01412b8343908abd55b667a2ed9be2b512b304"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/stainless_steel_t0.json"
+hash = "55e084f4e2bbc0103c948ea2b3e00f622004a557773f67309d8b5e8967643dfa"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/stainless_steel_t1.json"
+hash = "5310a6b233a7c0583cfeb36eb07cd9503d189685c28ce3bb8158f530d43424fd"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/used_crude_acidics_test.json"
 hash = "1063d98bc228d0d9dfbadfc8a06ceb4b41fc4cc463b0388f2d11991a2b250c08"
 
@@ -1211,6 +1223,10 @@ hash = "e5d449d7cc0edee1f0eaac46d63866edfa73b2f4989464e663f1eb796c1caf17"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/crystal_harmonizer.json"
 hash = "bc3c22d80993d8147063a8503bd7c6bf9cdc3140462c6346e15fc2a3bc62faf1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/damascus_steel.json"
+hash = "9afea9e16befabf60103b8220403b34acd9459b083a5136ec51c80834d680a35"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/diamond_shard.json"
@@ -1301,80 +1317,84 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/furnacing
 hash = "b8a450da43f833222ad23ed71c223234b66d08db3cb47a19b064088b1ed0f8b3"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/metal_press/manasteel_lattice.json"
-hash = "b9d06ac933cb6aefaecd654993440c57b12147691980bd6a776a1fb0345a9fe2"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blasting/1080high_carbon_steel.json"
+hash = "b42c1b2dc4ebc30f8a1dd837ea48b69b75efc4192ded88f46a4f9207b18f2941"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering_table/4s_toolbox.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/4s_toolbox.json"
 hash = "eddacf551c5cd06eded3b5af1b0f536c3213c6ddffc9ceb2e611cc94be191cbd"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering_table/acetylene_tank.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/acetylene_tank.json"
 hash = "eca7f78ef04d8a55a70a2c495a930c6185eba07dbb45391faa5166de0a9b761c"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering_table/dampener.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/dampener.json"
 hash = "fed7226cb8112caee842e56acad0101da2abd796229100dc3361678b7033d810"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering_table/duct_tape.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/duct_tape.json"
 hash = "3f7701ee71d15eb315ed4d70ef00281a9f870da38a75086138b1cf1b6dfb18df"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering_table/fasteners.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/fasteners.json"
 hash = "1735c94361278f2df740ce8689b0f13471bc0f292a1482cabdf0fc6bb862fcc0"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering_table/fire_extinguisher.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/fire_extinguisher.json"
 hash = "1a358f8569b0a3b67931e35743e3b4ec1e488c6d1c260729f3e9f8598fc9995c"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering_table/hard_hat.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/hard_hat.json"
 hash = "38b2279763f1b3556e4b9e3f1c1055fb7e8980be5e5300ea24bd9b8ef098d582"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering_table/hardened_mechanical_bearing.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/hardened_mechanical_bearing.json"
 hash = "bf8c11c9e8e03c04efeccfe2ce0cec923d7573a78a8dcf55cfb234a07001e523"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering_table/high_strength_concrete.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/high_strength_concrete.json"
 hash = "5c217daba137d41b4772f265e4caea3b4e2546f8746ba541871a17ca4f4f972e"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering_table/high_temperature_heat_exchanger.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/high_temperature_heat_exchanger.json"
 hash = "9429a0bac494ac331618f56b8f06a4af6901066532d4d10e17dcd379af5d9ea0"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering_table/industrial_gear.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/industrial_gear.json"
 hash = "952a1e68e3c1c5606b64cbab5de0972869eeb368881ff95aa095a88c5277a206"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering_table/organic_vapor_respirator.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/organic_vapor_respirator.json"
 hash = "2c163c8fa1777cdd37c51e1fbe7a314537bdd562deefc58343f2d682d2ae103d"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering_table/protective_eyewear.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/protective_eyewear.json"
 hash = "ea122a8d13afd661910186977c1633b6966217fd14810ca0b712628240ff979a"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering_table/reinforced_gearbox.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/reinforced_gearbox.json"
 hash = "1b65d632bd8eef484b010b87211caf647f3589a6f2052fc05163f49d403c0ef0"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering_table/solenoid_component.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/solenoid_component.json"
 hash = "ced02b283d6bdc443e9526d98b8c809ce337d5cc45ed86004428d66a08ab96d8"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering_table/synchronous_electric_motor.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/synchronous_electric_motor.json"
 hash = "64ef686f50740af8f1b130bd609560e02266f157ef32456f7da683a626f6aba2"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering_table/v_belt.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/v_belt.json"
 hash = "58535c9dc82bd25807343b5e63e7f67e9fee8a07d64e26a97d61bd7e8ba49ea2"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering_table/wd_40.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/wd_40.json"
 hash = "d01755eb9b068da3d4552d28f3f045c0cb41acc039ec0c7e31f13d4ace6344dc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/metal_press/manasteel_lattice.json"
+hash = "b9d06ac933cb6aefaecd654993440c57b12147691980bd6a776a1fb0345a9fe2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/bauxite_processing/bauxite_blasting_zero.json"
