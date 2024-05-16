@@ -1,0 +1,20 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "chemlib:nitric_acid"
+      },
+      {
+        "item": "nyagibits_bytes:oleum"
+      },
+      {
+        "item": "nyagibits_bytes:dinitrotoluene"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:trinitrotoluene"
+      }
+    ]
+  }

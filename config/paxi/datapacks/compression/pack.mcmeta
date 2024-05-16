@@ -65,7 +65,6 @@
 
 
 		{"namespace": "minecraft", "path": "recipes/white_wool_from_string.json"},
-		{"namespace": "minecraft", "path": "recipes/tnt.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/cobblestone_furnace.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/mixed_furnace.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/blackstone_furnace.json"},

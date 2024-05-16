@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "chemlib:nitric_acid"
+      },
+      {
+        "item": "nyagibits_bytes:mononitrotoluene"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:dinitrotoluene"
+      }
+    ]
+  }

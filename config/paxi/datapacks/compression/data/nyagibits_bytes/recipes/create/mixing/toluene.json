@@ -1,0 +1,36 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:methyl_chloride"
+      },
+      {
+        "item": "nyagibits_bytes:methyl_chloride"
+      },
+      {
+        "item": "nyagibits_bytes:methyl_chloride"
+      },
+      {
+        "item": "nyagibits_bytes:aluminum_trichloride"
+      },
+      {
+        "amount": 1000,
+        "fluid": "immersivepetroleum:benzene"
+      }
+    ],
+    "results": [
+      {
+        "count": 3,
+        "item": "nyagibits_bytes:toluene"
+      },
+      {
+        "count": 3,
+        "item": "chemlib:hydrochloric_acid"
+      },
+      {
+        "chance": 0.95,
+        "item": "nyagibits_bytes:aluminum_trichloride"
+      }
+    ]
+  }

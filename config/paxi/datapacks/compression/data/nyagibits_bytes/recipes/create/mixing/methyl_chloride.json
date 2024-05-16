@@ -1,0 +1,22 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "chemlib:chlorine"
+      },
+      {
+        "item": "chemlib:methane"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:methyl_chloride"
+      },
+      {
+        "count": 1,
+        "item": "chemlib:hydrogen"
+      }
+    ]
+  }

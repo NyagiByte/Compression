@@ -1,0 +1,22 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "chemlib:sulfuric_acid"
+      },
+      {
+        "item": "chemlib:sulfuric_acid"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:oleum"
+      },
+      {
+        "count": 2,
+        "item": "chemlib:water"
+      }
+    ]
+  }

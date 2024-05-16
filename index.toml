@@ -577,6 +577,10 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/combiner/diam
 hash = "dd266369e3e0f29156d9328a76afb9fa961af5458ca02188b6e8fbfcf801fae3"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/combiner/methane.json"
+hash = "73d1c69915b24336d0e7b5c4a0574dc409e2476cd490532b694bfcf12bbfcda4"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor.json"
 hash = "2b77c6a7082363dec68e7ecb3f255b36dd98e58108b6365eef8491d4e3ac5455"
 
@@ -1029,6 +1033,10 @@ file = "config/paxi/datapacks/compression/data/minecraft/recipes/stonecutter.jso
 hash = "7fa33e68ebe01d4efcd6814cc84d8d9f1c62bd73fe67f00bb22ac0c69aee96c8"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/tnt.json"
+hash = "f32833e90069dc4c9524ae83ce191a72908e513fbda26db7024053f4b8bab9ad"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/petal_apothecary/components/organic_pseudo_logic.json"
 hash = "8a58c4ce1f02f9514955420d9f822a7b7d7a01fa72cee9028bed4cb1e385d9c1"
 
@@ -1161,6 +1169,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "84cc0126310c1010946b84204c9dd45fb3a8ee98b93d3758f67910e7e95e174e"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/aluminum_trichloride.json"
+hash = "19457c1b3dcc62ad23378d0c2d6a8f16c635a18f54ac08e4cf23333fc860662f"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/apatite.json"
 hash = "970b0edff09f2b4a98b0f62f00dbbe05066983886185cc53ceaad2a7be6a745b"
 
@@ -1185,6 +1197,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "d0e475c3a64a272d7ee6f5d4a73272c3e5f661fc4156e30b9ac3a7b428ee95a5"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/dinitrotoluene.json"
+hash = "fa084fbb9af2ecc4f58e94e07c8f2de7e6b991f994302730244e19cdb4f16d17"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/ink.json"
 hash = "6fd592b16c1eace8abd5c3adf45314384316891f6f1ef8c0bf817f99456e8ddf"
 
@@ -1195,6 +1211,18 @@ hash = "38e923e1f7b91305f2f47e50ce62abdbffba9cb63327aaf8619f8e74655e2f6d"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/livisite_alloy_t0_mixing_zinc.json"
 hash = "f74a7d238f487fbab525b4e20c0d55501a3fc8e0219212de679012018dde23e8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/methyl_chloride.json"
+hash = "6f0ae14d969af41944e3c649a88098e553946fded15e0698576d8ae7f5a044c9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/mononitrotoluene.json"
+hash = "610fe63a8c9df4bd019dad1feba86d1d8afb6776219fcbf60a570e7753f095c2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/oleum.json"
+hash = "cdfe022405d6272e7e975e4fee9be892f1b72b70773230121cde39e592c2fa14"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/ph_strip.json"
@@ -1223,6 +1251,14 @@ hash = "55e084f4e2bbc0103c948ea2b3e00f622004a557773f67309d8b5e8967643dfa"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/stainless_steel_t1.json"
 hash = "5310a6b233a7c0583cfeb36eb07cd9503d189685c28ce3bb8158f530d43424fd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/toluene.json"
+hash = "acb50dc2eefbdd1fa41f9a6e9d475a5afa775034111cbe08288d223e25fd477d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/trinitrotoluene.json"
+hash = "b5e4aaede841749b22721e2dca83604b2dd044c6607b9b78f75ef44742212daf"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/used_crude_acidics_test.json"
@@ -2918,7 +2954,7 @@ hash = "8cc138cc6fca762bdf76cbe9e88959da0e770f0bb4468c6db0bc790325fc028f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "30062f28bf6c8a87bd8db352fa4507ab0c85a8750a2e2f46d18224ef54e90e70"
+hash = "9d2776673f9b79a7ecf5ba03584b37a32e21c28a83793760fb64e4452f34d862"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"

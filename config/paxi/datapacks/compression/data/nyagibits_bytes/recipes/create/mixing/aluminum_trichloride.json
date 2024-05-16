@@ -1,0 +1,28 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "chemlib:copper_chloride"
+      },
+      {
+        "item": "chemlib:copper_chloride"
+      },
+      {
+        "item": "chemlib:copper_chloride"
+      },
+      {
+        "item": "create:crushed_raw_aluminum"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:aluminum_trichloride"
+      },
+      {
+        "count": 3,
+        "item": "chemlib:copper"
+      }
+    ]
+  }
