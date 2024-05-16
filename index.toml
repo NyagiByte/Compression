@@ -270,7 +270,7 @@ hash = "eea27aa38609580a029d73f9cc4b15a29efb544521a416a83f8cabe0973615ee"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "0f81622b00c5934c8e2cd4172907ce0e7366b64a7cdf50369609aff183875076"
+hash = "af12f86547e6b6635346fcd649944251541fd7e5a80d84671fdd93a7992b67b1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -1055,6 +1055,10 @@ hash = "3ce58a594344fb287f4358423bd029b58543eded7d9d9d0cf40b4efafe0e9011"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/pure_daisy/livisite_stone.json"
 hash = "aba6e4775e94f2f845b350b5fc2b3dd0f6944207a90389849ad98437c49dcc5b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/pure_daisy/snow_to_ice.json"
+hash = "0053e57ed5e0a9a6939ee812634389be8969a26220c1d708e1257b3fc5782830"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/agar_gel.json"

@@ -308,7 +308,7 @@
 				type: "item"
 			}]
 			title: "Oof Ouchy Hot Furnace"
-			x: 2.5d
+			x: 3.0d
 			y: 2.0d
 		}
 		{
@@ -337,11 +337,14 @@
 				}
 			]
 			title: "No not that kind of coke!"
-			x: 1.5d
+			x: 2.0d
 			y: 2.0d
 		}
 		{
-			dependencies: ["256F108BD683D592"]
+			dependencies: [
+				"256F108BD683D592"
+				"28B78F18CDBAEB65"
+			]
 			description: [
 				"TNT?! What for? "
 				""
@@ -360,7 +363,7 @@
 				item: "minecraft:tnt"
 				type: "item"
 			}]
-			title: "Tetranitrotoluene"
+			title: "2,4,6-Trinitrotoluene"
 			x: 1.0d
 			y: 3.0d
 		}
