@@ -3880,6 +3880,11 @@ hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "d2493cda0721ddca80f37aff224e0291256176c6b940a06268fdd3eef45b92a1"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
 metafile = true
@@ -4196,6 +4201,11 @@ hash = "68b2755324ce2642d69bf4b49590a6a97d4d54659144723035e239c31b2c6792"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "eb127723ae014d8a6186cbb0ba64d132061883ecef97b2960d233c8b372cb2ad"
+metafile = true
+
+[[files]]
 file = "mods/packtweaker.pw.toml"
 hash = "50aa603a5086aa745f2dc1234c961e791021bd243f323e928dfa9c8e7b5e2be2"
 metafile = true
@@ -4333,6 +4343,11 @@ metafile = true
 [[files]]
 file = "mods/vertical-slabs-compat.pw.toml"
 hash = "0933c751ef107dc173728e8456eca8a03f088e7ccce28233707a37acda8ede5c"
+metafile = true
+
+[[files]]
+file = "mods/xl-packets.pw.toml"
+hash = "69a85643d125b0454ed6408cfa4a7cea1b3566c78ed3fd5f3107f93fa852f1c9"
 metafile = true
 
 [[files]]
