@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:slushy_ice"
+      },
+      {
+        "item": "chemlib:sulfur_trioxide"
+      },
+      {
+        "amount": 250,
+        "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+        "item": "chemlib:sulfuric_acid"
+      }
+    ]
+  }

@@ -1,0 +1,20 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {"item": "create:piston_extension_pole"},
+    "B": {"item": "create:vertical_gearbox"},
+    "C": {"item": "nyagibits_bytes:steel_casing"},
+    "D": {"item": "quark:iron_plate"}
+  },
+  "pattern": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "result": {
+    "count":4, 
+    "item": "create:mechanical_press"
+}
+}

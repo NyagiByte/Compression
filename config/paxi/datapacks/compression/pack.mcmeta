@@ -155,6 +155,8 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/lapis_lazuli.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/lapis_block.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/lapis.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/glow_ink_sac.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/dyes/cyan.json"},
 		
 		{"namespace": "alchemistry", "path": "recipes/dissolver/logs.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/chorus_fruit.json"},
@@ -235,6 +237,9 @@
 		{"namespace": "alchemistry", "path": "recipes/combiner/sodium_bisulfate.json"},
 		{"namespace": "alchemistry", "path": "recipes/combiner/sodium_nitrate.json"},
 		{"namespace": "alchemistry", "path": "recipes/combiner/cellulose.json"},
+		
+		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
+		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
 
 		{"namespace": "immersiveengineering", "path": "loot_modifiers/hemp_from_grass.json"},
 		{"namespace": "immersiveengineering", "path": "loot_modifiers/hemp_from_tall_grass.json"}

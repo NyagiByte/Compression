@@ -1,0 +1,43 @@
+{
+    "type": "alchemistry:dissolver",
+    "group": "alchemistry:dissolver",
+    "input": {
+      "count": 1,
+      "ingredient": {
+        "item": "minecraft:oxidized_copper"
+      }
+    },
+    "output": {
+      "groups": [
+        {
+          "probability": 40.0,
+          "results": [
+            {
+              "count": 4,
+              "item": "chemlib:copper"
+            }
+          ]
+        },
+        {
+          "probability": 30.0,
+          "results": [
+            {
+              "count": 2,
+              "item": "chemlib:copper_i_oxide"
+            }
+          ]
+        },
+        {
+          "probability": 30.0,
+          "results": [
+            {
+              "count": 2,
+              "item": "chemlib:copper_chloride"
+            }
+          ]
+        }
+      ],
+      "rolls": 16,
+      "weighted": false
+    }
+  }

@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "abyssal_decor:paper_stack"
+      }
+    ],
+    "processingTime": 40,
+    "results": [
+      {
+        "count": 16,
+        "item": "minecraft:paper"
+      }
+    ]
+  }

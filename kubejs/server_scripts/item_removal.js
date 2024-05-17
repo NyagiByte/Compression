@@ -486,7 +486,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'thermal:signalum_glass'});
         e.remove({output: 'thermal:lumium_glass'});
         e.remove({output: 'thermal:enderium_glass'});
-        e.remove({output: 'thermal:device_fisher'});
         e.remove({output: 'thermal:device_composter'});
         e.remove({output: 'thermal:device_water_gen'});
         e.remove({output: 'thermal:device_rock_gen'});

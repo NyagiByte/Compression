@@ -1,0 +1,23 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "A": {"item": "nyagibits_bytes:pile_of_cogs"},
+    "B": {"item": "nyagibits_bytes:livisite_alloy"},
+    "C": {"item": "botania:polished_livingrock_slab"},
+    "D": {"item": "nyagibits_bytes:livisite_slate"},
+    "E": {"item": "create:brass_hand"},
+    "F": {"item": "nyagibits_bytes:steel_casing"},
+    "G": {"item": "create:mechanical_piston"},
+    "H": {"item": "create:piston_extension_pole"}
+  },
+  "pattern": [
+    " ABCD ",
+    "EFGHHH",
+    " ABCD "
+  ],
+  "result": {
+    "count": 2,
+    "item": "create:deployer"
+}
+}

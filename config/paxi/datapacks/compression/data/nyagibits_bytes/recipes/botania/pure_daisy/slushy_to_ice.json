@@ -2,9 +2,9 @@
   "type": "botania:pure_daisy",
   "input": {
     "type": "block",
-    "block": "minecraft:snow"
+    "block": "nyagibits_bytes:slushy_ice"
   },
   "output": {
-    "name": "nyagibits_bytes:slushy_ice"
+    "name": "minecraft:ice"
   }
 }

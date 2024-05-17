@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"create:industrial_iron_block"},
+    "B": {"item":"nyagibits_bytes:livisite_alloy"},
+    "C": {"item":"create:shaft"},
+    "D": {"item":"nyagibits_bytes:steel_casing"},
+    "E": {"item":"quark:grate"}
+  },
+  "pattern": [
+    " AB",
+    "CDE",
+    " AB"
+  ],
+  "result": {
+    "count":4, 
+    "item":"create:mechanical_harvester"
+}
+}

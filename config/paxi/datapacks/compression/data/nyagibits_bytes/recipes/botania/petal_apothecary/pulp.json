@@ -1,0 +1,20 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "farmersdelight:tree_bark"
+      },
+      {
+        "item": "farmersdelight:tree_bark"
+      },
+      {
+        "item": "chemlib:cellulose"
+      }
+    ],
+    "output": {
+      "item": "nyagibits_bytes:pulp"
+    },
+    "reagent": {
+      "item": "farmersdelight:tree_bark"
+    }
+  }
