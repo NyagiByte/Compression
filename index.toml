@@ -4115,6 +4115,11 @@ hash = "4bf0b32175e08d57d5cc194a19bfdefe2e1151828884e015301a149d87e61cf8"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "f70b64ae7ef75adbd0e21cb80b262a1f1f80431196ee6b4a98b36e8430f81500"
+metafile = true
+
+[[files]]
 file = "mods/engineers-delight.pw.toml"
 hash = "d3c31266b05d3af9cf5da2c53053665b9baf79c3c773e677d3984a95ea436efa"
 metafile = true
