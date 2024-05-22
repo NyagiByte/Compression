@@ -469,15 +469,29 @@
 		{
 			description: ["Congrats, You have mastered Tier 2"]
 			id: "2C215F96485014C7"
-			rewards: [{
-				id: "081144F17B55AA52"
-				item: "ftbquests:missing_item"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "3626837EFF1EF1FA"
+					item: "nyagibits_bytes:golden_tier_two_strawberry"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5C07F0784DF3AA07"
+					item: "quark:glowing_glass_item_frame"
+					type: "item"
+				}
+				{
+					id: "7A4B49E56316B5BB"
+					item: "nyagibits_bytes:tier_two_strawberry"
+					type: "item"
+				}
+			]
 			size: 2.0d
 			tasks: [{
-				id: "20BB277EC2D60602"
-				item: "ftbquests:missing_item"
+				count: 999999L
+				id: "7AB3B582EA3B8AAD"
+				item: "nyagibits_bytes:tier_two_strawberry"
 				type: "item"
 			}]
 			title: "Tier 2 Mastery"
@@ -485,6 +499,7 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["3DEB55D883E126E6"]
 			id: "7F551DACA7479075"
 			rewards: [{
 				id: "186E12C191A97206"

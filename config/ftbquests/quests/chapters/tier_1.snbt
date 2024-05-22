@@ -870,8 +870,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "12A0CD553687C430"
-				item: "ftbquests:missing_item"
+				id: "3C296F16D1BC7C5E"
+				item: "nyagibits_bytes:steel_casing"
 				type: "item"
 			}]
 			title: "Steel Casings?"

@@ -256,6 +256,28 @@
 			x: -1.0d
 			y: -1.5d
 		}
+		{
+			dependencies: ["639B2FF66B0FB1B4"]
+			description: [
+				"While technically acquirable in tier 0, they are not needed till tier 1 for the &eBotania Assembly&r"
+				""
+				"While the &eAlchemy Catalyst&r is able to transmute between fish, the &bThermal Aquatic Entangler&r can automate fishing for you"
+			]
+			id: "113F8E288B68C17F"
+			rewards: [{
+				id: "1021C0F9239144FA"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1A7A64D171891D39"
+				item: "minecraft:pufferfish"
+				type: "item"
+			}]
+			title: "Recreational Dolphin Ball"
+			x: -2.0d
+			y: 3.5d
+		}
 	]
 	subtitle: ["I've been farming for 100 hours"]
 	title: " &aOrganics"
