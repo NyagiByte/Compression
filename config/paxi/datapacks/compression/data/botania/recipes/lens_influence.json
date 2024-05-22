@@ -1,0 +1,14 @@
+{
+    "type": "botania:mana_infusion",
+    "catalyst": {
+      "type": "block",
+      "block": "botania:alchemy_catalyst"
+    },
+    "input": {
+      "item": "botania:lens_bounce"
+    },
+    "mana": 10000,
+    "output": {
+      "item": "botania:lens_influence"
+    }
+  }

@@ -1,0 +1,33 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "nyagibits_bytes:botania_assembly"
+      },
+      {
+        "item": "botania:mana_glass_pane"
+      },
+      {
+        "item": "botania:manaweave_cloth"
+      },
+      {
+        "item": "botania:manaweave_cloth"
+      },
+      {
+        "item": "nyagibits_bytes:rune_blank"
+      },
+      {
+        "item": "nyagibits_bytes:manasteel_lattice"
+      }
+    ],
+    "output": {
+      "count": 16,
+      "item": "botania:lens_normal"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

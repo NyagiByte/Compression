@@ -123,6 +123,7 @@
 		{"namespace": "botania", "path": "recipes/corporea_crystal_cube.json"},
 		{"namespace": "botania", "path": "recipes/corporea_retainer.json"},
 		{"namespace": "botania", "path": "recipes/mossy_livingwood_planks_vine.json"},
+		{"namespace": "botania", "path": "recipes/lens_light_alt.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/combiner.json"},
 
