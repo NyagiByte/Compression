@@ -1,0 +1,14 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {"item": "minecraft:vine"},
+      {"item": "minecraft:dried_kelp"},
+      {"amount": 200, "fluid": "thermal:latex", "nbt": {}}
+    ],
+    "results": [
+      {
+        "count": 4,
+        "item": "thermal:rubber"
+    }
+    ]
+  }

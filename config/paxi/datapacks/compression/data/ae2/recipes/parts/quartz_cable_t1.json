@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "A": {"item":"quark:framed_glass"},
+        "B": {"item":"ae2:certus_quartz_dust"}
+    },
+    "pattern": [
+      "AAA",
+      "BBB",
+      "AAA"
+    ],
+    "result": {
+      "count": 12,
+      "item": "ae2:quartz_fiber"
+    }
+  }

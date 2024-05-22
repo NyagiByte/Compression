@@ -1,0 +1,21 @@
+{
+    "type": "ae2:transform",
+    "circumstance": {
+      "type": "fluid",
+      "tag": "pneumaticcraft:yeast_culture"
+    },
+    "ingredients": [
+      {
+        "item": "minecraft:glass_bottle"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "create:wheat_flour"
+      }
+    ],
+    "result": {
+      "item": "chemlib:ethanol"
+    }
+  }

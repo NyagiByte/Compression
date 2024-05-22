@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "A": {"item":"botania:mana_glass"},
+        "B": {"item":"botania:mana_diamond"},
+        "C": {"item":"nyagibits_bytes:rune_computational"},
+        "D": {"item":"nyagibits_bytes:steel_stainless"}
+    },
+    "pattern": [
+      "ABA",
+      "BCB",
+      "DDD"
+    ],
+    "result": {
+      "item": "ae2:blank_pattern"
+    }
+  }

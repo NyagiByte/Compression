@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "A": {"item":"ae2:formation_core"},
+        "B": {"item":"immersiveengineering:slab_storage_steel"},
+        "C": {"item":"ae2:cell_component_1k"},
+        "D": {"item":"immersiveengineering:capacitor_lv"}
+    },
+    "pattern": [
+      "AB ",
+      "BC ",
+      "  D"
+    ],
+    "result": {
+      "item": "ae2:color_applicator"
+    }
+  }

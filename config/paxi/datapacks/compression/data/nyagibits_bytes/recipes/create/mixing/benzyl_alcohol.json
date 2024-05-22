@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "chemlib:ethanol"
+      },
+      {
+        "amount": 100,
+        "fluid": "immersivepetroleum:benzene"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:benzyl_alcohol"
+      },
+      {
+        "count": 1,
+        "item": "minecraft:glass_bottle"
+      }
+    ]
+  }

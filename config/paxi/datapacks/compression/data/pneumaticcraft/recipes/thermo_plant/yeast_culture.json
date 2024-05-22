@@ -1,0 +1,30 @@
+{
+    "type": "ae2:transform",
+    "circumstance": {
+      "type": "fluid",
+      "tag": "minecraft:water"
+    },
+    "ingredients": [
+      {
+        "item": "minecraft:bucket"
+      },
+      {
+        "item": "minecraft:apple"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "create:wheat_flour"
+      },
+      {
+        "item": "nyagibits_bytes:soil_sample"
+      }
+    ],
+    "result": {
+      "item": "pneumaticcraft:yeast_culture_bucket"
+    }
+  }

@@ -1,0 +1,22 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "chemlib:ethanol"
+      },
+      {
+        "item": "nyagibits_bytes:ethylene_oxide"
+      },
+      {
+        "amount": 100,
+        "fluid": "immersiveengineering:phenolic_resin"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:2_phenoxyethanol"
+      }
+    ]
+  }

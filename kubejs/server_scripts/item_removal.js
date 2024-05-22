@@ -36,7 +36,6 @@ ServerEvents.recipes(e => {
             e.remove({output: 'ae2:wireless_terminal'});
             e.remove({output: 'ae2:wireless_crafting_terminal'});
             e.remove({output: 'ae2:biometric_card'});
-            e.remove({output: 'ae2:matter_cannon'});
             e.remove({output: 'ae2:wireless_receiver'});
             e.remove({output: 'ae2:wireless_booster'});
             e.remove({output: 'ae2:pattern_encoding_terminal'});
@@ -121,7 +120,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:fel_pumpkin'});
         e.remove({output: 'botania:forest_eye'});
         e.remove({output: 'botania:tiny_planet_block'});
-        e.remove({output: 'botania:mana_pearl'});
         e.remove({output: 'botania:terrasteel_ingot'});
         e.remove({output: 'botania:redstone_root'});
         e.remove({output: 'botania:elementium_ingot'});
@@ -535,7 +533,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'thermal:dynamo_throttle_augment'});
         e.remove({output: 'thermal:area_radius_augment'});
         e.remove({output: 'thermal:wrench'});
-        e.remove({output: 'thermal:rf_potato'});
         e.remove({output: 'thermal:xp_crystal'});
         e.remove({output: 'thermal:lock'});
         e.remove({output: 'thermal:satchel'});

@@ -1,0 +1,28 @@
+{
+  "type": "botania:runic_altar",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:steel_casing"
+    },
+    {
+      "item": "nyagibits_bytes:manasteel_lattice"
+    },
+    {
+      "item": "nyagibits_bytes:manasteel_lattice"
+    },
+    {
+      "item": "pneumaticcraft:plastic"
+    },
+    {
+      "item": "pneumaticcraft:plastic"
+    },
+    {
+      "item": "pneumaticcraft:printed_circuit_board"
+    }
+  ],
+  "mana": 20000,
+  "output": {
+    "count": 1,
+    "item": "nyagibits_bytes:mana_infused_casing"
+  }
+}

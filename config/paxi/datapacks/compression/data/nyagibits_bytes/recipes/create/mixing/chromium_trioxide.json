@@ -1,0 +1,33 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "chemlib:hydrochloric_acid"
+      },
+      {
+        "item": "chemlib:chromium"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:chromium_trioxide"
+      },
+      {
+        "chance": 0.5,
+        "count": 2,
+        "item": "chemlib:hydrogen"
+      },
+      {
+        "chance": 0.5,
+        "count": 2,
+        "item": "chemlib:chlorine"
+      },
+      {
+        "chance": 0.25,
+        "count": 1,
+        "item": "chemlib:hydrochloric_acid"
+      }
+    ]
+  }

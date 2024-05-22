@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "chemlib:ethylene"
+      },
+      {
+        "item": "nyagibits_bytes:chromium_trioxide"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:ethylene_oxide"
+      },
+      {
+        "chance": 0.95,
+        "count": 1,
+        "item": "chemlib:chromium"
+      }
+    ]
+  }
