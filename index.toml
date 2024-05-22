@@ -677,6 +677,106 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/framed_livingwood
 hash = "61c392a5f74f485d57fa154b43670e6f823adaca0ed81c1b0b1c1cd3798bbaf4"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_bounce.json"
+hash = "42e193a17052db06ce1cd6f22544b5d1063ffc825903005aa9663eb435f6c289"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_damage.json"
+hash = "dd40d87e351fde464d4986adbe3668e5c8b772fc46b5533ff4802890a71a737b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_efficiency.json"
+hash = "d23b6bd5d199d49d0219e0bf4a55b789bfa519309c9abc507d3c6eed7bd79cec"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_explosive.json"
+hash = "4a066b9e1193f68709de891ee8c95530eb63a471de29eaac6b9c90420eceeece"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_fire.json"
+hash = "8fec2db850f0bc9dd075063c33eea471700b375740635d3250edb9d5b978722d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_firework.json"
+hash = "7fe96d269fb51a416e477b7d0e4b43d1c1f7cc6ca85ed9969e8721292d3b4c98"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_flare.json"
+hash = "32b94fe53422cfac3683837ecf0be68f1dd65961a245d36f48a9978e427cc9d6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_gravity.json"
+hash = "0fbfddf8672b04f27dcbbfd77c775af2d802ef6f0635dc18068f59303bd5d041"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_influence.json"
+hash = "60e0b59b637ad7c0972b1443905c5979e4cd6205e0ba94aeeb8715b7098fb069"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_light.json"
+hash = "02140749e9533af8cf6908bf2630df004b71e198b22b8a9ece8f5256c5a85685"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_magnet.json"
+hash = "a9d99616663f082952fa0cf7c49ab58d1a88e641a58cfdefee333f27369d4ac8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_messenger.json"
+hash = "fe4f3e936df1283d1cc902118569772218d7d2220ed0f502fdbdb451ba7812b0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_mine.json"
+hash = "8ca5809bdfb632cd35691771f48dc8e5887aa0b0e82364cfb806cf7d016ec54e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_normal.json"
+hash = "1cd08104cbaf41f52a814391c13c058122bc8e09e8358ac10567e0714cf02966"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_paint.json"
+hash = "cb61cddc3f1b3bc9c755108bddaf846556fa2226d3f4bd96dc016aa7b5c3fc30"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_phantom.json"
+hash = "3918e9eac5fe18b4d59f49a893eb8aec73c8de0a750c133f1ec1677df11a7a65"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_phantom_to_normal.json"
+hash = "5fcc865e72418db89e676d2ddc98a98dd76f2aceb27cabc72a5c45e378c6ff81"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_piston.json"
+hash = "3ef4de1143986b41dc1bc2accc3badab143252683fed4f58dda138c4ebe6681d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_power.json"
+hash = "9c5c65fbacf3953edab8ac4500334247c1403b6436d0d6454bbcb8c12035dbec"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_redirect.json"
+hash = "c89270943d4e3106b9c6f84cf466a707b0667debd6a28f953f06ccaa84fbb3a5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_speed.json"
+hash = "9a26bb5dce9edca0a86d2cddfe5c27a0778f43c8a70f7c1fdefbf60f09fa5c83"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_time.json"
+hash = "60694bdbe80a8eba07215c421999b503b58aab29d3be21f189b954248f398851"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_tripwire.json"
+hash = "3f04ee06841b1197cbb5375bb57d0ae2cab36cea8ce3cecce59be2edae0d95a0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_warp.json"
+hash = "4e11e662e7c4844382b23de15c4c8ff66f599a746eb722104503eb56618048b7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/lens_weight.json"
+hash = "759785a7333699db092863125f25c6f3349c0e74a513505c1620ae033f46d573"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/livingrock_stairs.json"
 hash = "91cdb2e820cd3dc14a0b420b8da9bea7659c61b76ea73c123502921ddf87438d"
 
@@ -3110,7 +3210,7 @@ hash = "8cc138cc6fca762bdf76cbe9e88959da0e770f0bb4468c6db0bc790325fc028f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "07bf7e87665c4ccd2aaed632d02284fedc2506b1802e21a38af1a8443f920196"
+hash = "ab2bf9df1457a0bcdeef2337fadabb89b37cfd21cf0e7b08c484a233e559939f"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -3770,7 +3870,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "3f28049d1a6212b4c419c7051fe1074622d943f537f5246ec745f3bd49b8cf42"
+hash = "5b54d0f0ec1f8acb8c96148b58047439bd7feb4e78a90bf5d1a2444bf465e8fe"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
