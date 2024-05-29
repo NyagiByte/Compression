@@ -276,7 +276,7 @@
 			description: [
 				"Crude plastic reinforcing allows for the same quantity of leather to yield a doubling on books"
 				""
-				"&b8 Books per craft"
+				"&b16 Books per craft"
 			]
 			id: "3500F16244BD9D6C"
 			rewards: [{
@@ -284,11 +284,18 @@
 				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
-			tasks: [{
-				id: "4EEED133697A5313"
-				item: "immersiveengineering:plate_duroplast"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "4EEED133697A5313"
+					item: "immersiveengineering:plate_duroplast"
+					type: "item"
+				}
+				{
+					id: "4921F163CAAAEC9D"
+					item: "immersiveengineering:hemp_fabric"
+					type: "item"
+				}
+			]
 			title: "Probably worse for the environment"
 			x: -9.5d
 			y: -9.0d

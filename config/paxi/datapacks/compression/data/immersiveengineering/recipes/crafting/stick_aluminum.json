@@ -1,0 +1,44 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "immersiveengineering:sheetmetal_aluminum"},
+    "loops": 1,
+    "results": [
+      {
+        "count": 8,
+        "item": "immersiveengineering:stick_aluminum"
+    }
+    ],
+    "sequence": [
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "immersiveengineering:sheetmetal_aluminum"
+          }
+        ],
+        "processingTime": 60,
+        "results": [
+          {
+            "item": "immersiveengineering:sheetmetal_aluminum"
+          }  
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "immersiveengineering:sheetmetal_aluminum"
+          },
+          {
+            "item": "nyagibits_bytes:acetylene_tank"
+          }  
+    ],
+        "results": [
+          {
+            "item": "immersiveengineering:sheetmetal_aluminum"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "immersiveengineering:sheetmetal_aluminum"}
+  }

@@ -1,0 +1,18 @@
+{
+    "type":"immersiveengineering:crusher",
+    "energy":1600,
+    "input":{
+        "item":"nyagibits_bytes:low_grade_coke"
+            },
+            "result":{
+                "item":"chemlib:carbon_dust"
+                    },
+                    "secondaries":[
+                        {
+                            "chance":0.05,
+                            "output":{
+                                "item":"immersiveengineering:dust_coke"
+                                }
+                            }
+                        ]
+                    }

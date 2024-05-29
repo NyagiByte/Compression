@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:steel_high_carbon_1080"},
+      "B": {"item":"nyagibits_bytes:steel_damascus"},
+      "C": {"item":"nyagibits_bytes:steel_high_carbon_15n20"},
+      "D": {"item":"nyagibits_bytes:steel_stainless"},
+      "E": {"item":"nyagibits_bytes:blank_blueprint"}
+    },
+    "pattern": [
+      " A ",
+      "BEC",
+      " D "
+    ],
+    "result": {
+        "item":"immersiveengineering:blueprint",
+        "nbt":{"blueprint":"molds"}
+    }
+}

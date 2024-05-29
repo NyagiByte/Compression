@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"minecraft:honeycomb"},
+      "B": {"item":"immersiveengineering:stick_treated"},
+      "C": {"item":"botania:manaweave_cloth"},
+      "D": {"item":"abyssal_decor:paper_stack"}
+    },
+    "pattern": [
+      " AB",
+      "CDC",
+      "BC "
+    ],
+    "result": {
+        "item": "immersiveengineering:hemp_fabric"
+    }
+  }

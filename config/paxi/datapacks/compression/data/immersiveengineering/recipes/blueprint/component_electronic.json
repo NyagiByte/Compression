@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:electron_tube"},
+      "B": {"item":"minecraft:redstone"},
+      "C": {"item":"thermal:electrum_plate"},
+      "D": {"item":"immersiveengineering:circuit_board"}
+    },
+    "pattern": [
+      " A ",
+      "BCB",
+      " D "
+    ],
+    "result": {
+        "item": "immersiveengineering:component_electronic"
+    }
+  }

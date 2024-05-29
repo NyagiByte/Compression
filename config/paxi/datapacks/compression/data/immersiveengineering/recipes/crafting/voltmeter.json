@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:wire_copper"},
+      "B": {"item":"thermal:cured_rubber"},
+      "C": {"item":"nyagibits_bytes:crude_statics_test"},
+      "D": {"item":"immersiveengineering:treated_scaffold"},
+      "E": {"item":"nyagibits_bytes:rubberized_cable"}
+    },
+    "pattern": [
+      "A A",
+      "BCB",
+      "DED"
+    ],
+    "result": {
+        "item": "immersiveengineering:voltmeter"
+    }
+  }

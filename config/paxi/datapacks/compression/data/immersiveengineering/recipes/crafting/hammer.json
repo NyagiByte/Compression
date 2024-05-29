@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"create:brass_block"},
+      "B": {"item":"create:wrench"},
+      "C": {"item":"immersiveengineering:treated_fence"}
+    },
+    "pattern": [
+      " A ",
+      " BA",
+      "C  "
+    ],
+    "result": {
+        "item": "immersiveengineering:hammer"
+    }
+  }

@@ -1,0 +1,28 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {
+        "item": "immersiveengineering:windmill_blade"
+      },
+      "B": {
+        "item": "immersiveengineering:treated_wallmount"
+      },
+      "C": {
+        "item": "immersiveengineering:alu_scaffolding_grate_top"
+      },
+      "D": {
+        "item": "immersiveengineering:treated_post"
+      }
+    },
+    "pattern": [
+      "   A   ",
+      " ABCBA ",
+      "ABCDCBA",
+      " ABCBA ",
+      "   A   "
+    ],
+    "result": {
+      "item": "immersiveengineering:windmill"
+    }
+  }

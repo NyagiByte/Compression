@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:stick_steel"},
+      "B": {"item":"minecraft:leather"},
+      "C": {"item":"immersiveengineering:treated_wood_horizontal"}
+    },
+    "pattern": [
+      "  A",
+      "BC ",
+      "CB "
+    ],
+    "result": {
+        "item": "immersiveengineering:screwdriver"
+    }
+  }

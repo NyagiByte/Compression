@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:electron_tube"},
+      "B": {"item":"immersiveengineering:component_electronic"},
+      "C": {"item":"immersiveengineering:plate_duroplast"},
+      "D": {"item":"immersiveengineering:slab_alu_scaffolding_standard"}
+    },
+    "pattern": [
+      "ABA",
+      "CDC"
+    ],
+    "result": {
+        "item": "immersiveengineering:component_electronic_adv"
+    }
+  }

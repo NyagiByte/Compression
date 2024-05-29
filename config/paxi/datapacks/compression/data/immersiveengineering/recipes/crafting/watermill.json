@@ -1,0 +1,33 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {
+        "item": "immersiveengineering:waterwheel_segment"
+      },
+      "B": {
+        "item": "immersiveengineering:slab_treated_wood_packaged"
+      },
+      "C": {
+        "item": "create:large_water_wheel"
+      },
+      "D": {
+        "item": "immersiveengineering:treated_post"
+      },
+      "E": {
+        "item": "immersiveengineering:steel_scaffolding_grate_top"
+      }
+    },
+    "pattern": [
+      "  AAA  ",
+      " A B A ",
+      "A  E  A",
+      "ABCDCBA",
+      "A  E  A",
+      " A B A ",
+      "  AAA  "
+    ],
+    "result": {
+      "item": "immersiveengineering:watermill"
+    }
+  }

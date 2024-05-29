@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:basic_composite_plate"},
+      "B": {"item":"nyagibits_bytes:skystone_shielding"},
+      "C": {"item":"immersiveengineering:crate"}
+    },
+    "pattern": [
+      " A ",
+      "BCB",
+      " A "
+    ],
+    "result": {
+        "item": "immersiveengineering:reinforced_crate"
+    }
+  }

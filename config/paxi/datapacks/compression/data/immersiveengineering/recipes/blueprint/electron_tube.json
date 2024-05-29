@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"botania:mana_glass_pane"},
+      "B": {"item":"ae2:quartz_fixture"},
+      "C": {"item":"ae2:light_detector"},
+      "D": {"item":"immersiveengineering:plate_steel"},
+      "E": {"item":"immersiveengineering:wire_copper"}
+    },
+    "pattern": [
+      "ABA",
+      "ACA",
+      "DED"
+    ],
+    "result": {
+        "item": "immersiveengineering:electron_tube"
+    }
+  }

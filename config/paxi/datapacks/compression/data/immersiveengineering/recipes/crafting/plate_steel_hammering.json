@@ -1,0 +1,28 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "immersiveengineering:ingot_steel"},
+    "loops": 4,
+    "results": [
+      {
+        "count": 1,
+        "item": "immersiveengineering:plate_steel"
+    }
+    ],
+    "sequence": [
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "immersiveengineering:ingot_steel"
+          }
+        ],
+        "processingTime": 60,
+        "results": [
+          {
+            "item": "immersiveengineering:ingot_steel"
+          }  
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "immersiveengineering:ingot_steel"}
+  }

@@ -62,16 +62,30 @@
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/shovel_steel.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/component_iron.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/component_steel.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/crafting/wire_copper.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/crafting/wire_electrum.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/crafting/wire_aluminum.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/crafting/wire_steel.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/crafting/wire_lead.json"},
 
 		{"namespace": "immersiveengineering", "path": "recipes/metalpress/rod_aluminum.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/metalpress/rod_iron.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/metalpress/rod_steel.json"},
 
+		{"namespace": "immersiveengineering", "path": "recipes/bottling/ersatz_leather.json"},
+
+		{"namespace": "immersiveengineering", "path": "recipes/cokeoven/coke.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/cokeoven/coke_block.json"},
+
+		{"namespace": "immersiveengineering", "path": "recipes/crusher/coke.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/crusher/coke_block.json"},
+
+		{"namespace": "immersiveengineering", "path": "recipes/arcfurnace/steel.json"},
 
 		{"namespace": "immersiveengineering", "path": "recipes/blueprint/component_steel.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/blueprint/component_iron.json"},
 
-
+		{"namespace": "immersivepetroleum", "path": "recipes/ersatz_leather.json"},
 
 
 		{"namespace": "minecraft", "path": "recipes/white_wool_from_string.json"},

@@ -1,0 +1,26 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {
+        "item": "immersiveengineering:stairs_treated_wood_horizontal"
+      },
+      "B": {
+        "item": "nyagibits_bytes:sealant"
+      },
+      "C": {
+        "item": "immersiveengineering:slab_treated_wood_vertical"
+      },
+      "D": {
+        "item": "immersiveengineering:slab_treated_wood_horizontal"
+      }
+    },
+    "pattern": [
+      "A   A",
+      "BCDCB",
+      "A   A"
+    ],
+    "result": {
+      "item": "immersiveengineering:waterwheel_segment"
+    }
+  }

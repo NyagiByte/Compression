@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:treated_scaffold"},
+      "B": {"item":"immersiveengineering:wooden_barrel"},
+      "C": {"item":"minecraft:chest"}
+    },
+    "pattern": [
+      "AAA",
+      "BCB",
+      "AAA"
+    ],
+    "result": {
+        "item": "immersiveengineering:crate"
+    }
+  }

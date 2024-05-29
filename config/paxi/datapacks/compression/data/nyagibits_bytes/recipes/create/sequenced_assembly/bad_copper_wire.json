@@ -1,0 +1,34 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "create:copper_sheet"},
+    "loops": 1,
+    "results": [
+      {
+        "chance": 10.0,
+        "count": 2,
+        "item": "immersiveengineering:wire_copper"
+      },
+      {
+        "chance": 90.0,
+        "count": 4,
+        "item": "create:copper_nugget"
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "create:copper_sheet"
+          }
+        ],
+        "processingTime": 60,
+        "results": [
+          {
+            "item": "create:copper_sheet"
+          }  
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "create:copper_sheet"}
+  }

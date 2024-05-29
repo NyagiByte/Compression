@@ -1,0 +1,33 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {
+        "item": "immersiveengineering:treated_fence"
+      },
+      "B": {
+        "item": "immersiveengineering:treated_scaffold"
+      },
+      "C": {
+        "item": "immersiveengineering:stick_treated"
+      },
+      "D": {
+        "item": "immersiveengineering:slab_treated_wood_packaged"
+      },
+      "E": {
+        "item": "immersiveengineering:slab_treated_wood_vertical"
+      },
+      "F": {
+        "item": "immersiveengineering:slab_treated_wood_horizontal"
+      }
+    },
+    "pattern": [
+      "AABAAAC",
+      "DEFED  ",
+      "DEFED  "
+    ],
+    "result": {
+      "count": 4,
+      "item": "immersiveengineering:windmill_blade"
+    }
+  }

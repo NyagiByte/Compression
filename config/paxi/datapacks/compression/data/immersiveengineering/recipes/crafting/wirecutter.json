@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"minecraft:shears"},
+      "B": {"item":"immersiveengineering:plate_steel"},
+      "C": {"item":"create:wrench"},
+      "D": {"item":"minecraft:leather"}
+    },
+    "pattern": [
+      "AB ",
+      "BCD",
+      " D "
+    ],
+    "result": {
+        "item": "immersiveengineering:wirecutter"
+    }
+  }

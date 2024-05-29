@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:treated_wood_horizontal"},
+      "B": {"item":"minecraft:tripwire_hook"},
+      "C": {"item":"immersiveengineering:wirecoil_structure_rope"},
+      "D": {"item":"create:extendo_grip"},
+      "E": {"item":"minecraft:stone_button"}
+    },
+    "pattern": [
+      "BA ",
+      "CDA",
+      " EA"
+    ],
+    "result": {
+        "item":"immersiveengineering:skyhook"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:stick_aluminum"},
+      "B": {"item":"immersiveengineering:cushion"}
+    },
+    "pattern": [
+      " A ",
+      "B B"
+    ],
+    "result": {
+        "item":"immersiveengineering:earmuffs"
+    }
+}
