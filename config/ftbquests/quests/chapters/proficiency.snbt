@@ -167,7 +167,7 @@
 				}
 				{
 					consume_items: true
-					count: 10L
+					count: 12L
 					id: "042610D256B837C1"
 					item: "nyagibits_bytes:tier_zero_strawberry"
 					title: "Organics"

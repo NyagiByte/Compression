@@ -619,6 +619,22 @@
 			x: -2.5d
 			y: -3.5d
 		}
+		{
+			dependencies: ["672E4CF1853FC9E8"]
+			id: "76E72BB76B2C6C27"
+			rewards: [{
+				id: "5FB49A9BE9917D70"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1082F5CCE87AE2A2"
+				item: "botania:mana_glass"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -2.5d
+		}
 	]
 	subtitle: ["I NEED MORE STUFF"]
 	title: " &aScale Tree I"

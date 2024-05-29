@@ -172,7 +172,11 @@
 			y: -1.5d
 		}
 		{
-			description: ["Horribly annoying to automate early on but absolutely crucial for pens"]
+			description: [
+				"Horribly annoying to automate early on but absolutely crucial for pens"
+				""
+				"&bIf squid farms make you want to cry inside a che-line for making ink sacs is available in Tier 1"
+			]
 			id: "7AA6F59FEA1AF7B2"
 			rewards: [{
 				id: "3893069F9330803E"
@@ -277,6 +281,25 @@
 			title: "Recreational Dolphin Ball"
 			x: -2.0d
 			y: 3.5d
+		}
+		{
+			dependencies: ["63572758F873D9AA"]
+			description: ["Wheat! You know it, you love it. Unless you have Celiac disease, thats no fun. Anyways I'm drunk of all the &bethanol&r you can get from this stuff"]
+			hide: false
+			id: "5BC1E6CFA3CB657D"
+			rewards: [{
+				id: "221DFDCCD40BD357"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "58F85C35739ED10F"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			title: "Thrashin' Hweat and dying of smallpox"
+			x: -6.0d
+			y: -2.5d
 		}
 	]
 	subtitle: ["I've been farming for 100 hours"]
