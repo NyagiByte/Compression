@@ -60,8 +60,18 @@
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/sword_steel.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/hoe_steel.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/shovel_steel.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/crafting/component_iron.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/crafting/component_steel.json"},
+
+		{"namespace": "immersiveengineering", "path": "recipes/metalpress/rod_aluminum.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/metalpress/rod_iron.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/metalpress/rod_steel.json"},
+
+
 		{"namespace": "immersiveengineering", "path": "recipes/blueprint/component_steel.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/blueprint/component_iron.json"},
+
+
 
 
 		{"namespace": "minecraft", "path": "recipes/white_wool_from_string.json"},

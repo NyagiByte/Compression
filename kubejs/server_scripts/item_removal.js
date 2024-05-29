@@ -308,9 +308,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:orechid_ignem'});
         e.remove({output: 'botania:labellia'});
     //Immersive Engineering
-        e.remove({output: 'immersiveengineering:stick_treated'});
-        e.remove({output: 'immersiveengineering:stick_iron'});
-        e.remove({output: 'immersiveengineering:stick_aluminum'});
         e.remove({output: 'immersiveengineering:hemp_fabric'});
         e.remove({output: 'immersiveengineering:component_electronic'});
         e.remove({output: 'immersiveengineering:component_electronic_adv'});
@@ -450,8 +447,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:conveyor_vertical'});
         e.remove({output: 'immersiveengineering:conveyor_splitter'});
         e.remove({output: 'immersiveengineering:conveyor_extract'});
-
-        e.remove([{ type: 'immersiveengineering:metal_press', output: 'immersiveengineering:stick_steel' }])
     //Mekanism
         e.remove({mod: 'mekansim'});
     //Thermal

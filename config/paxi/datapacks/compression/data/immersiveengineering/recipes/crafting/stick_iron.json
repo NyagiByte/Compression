@@ -1,0 +1,44 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "immersiveengineering:sheetmetal_iron"},
+    "loops": 1,
+    "results": [
+      {
+        "count": 8,
+        "item": "immersiveengineering:stick_iron"
+    }
+    ],
+    "sequence": [
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "immersiveengineering:sheetmetal_iron"
+          }
+        ],
+        "processingTime": 60,
+        "results": [
+          {
+            "item": "immersiveengineering:sheetmetal_iron"
+          }  
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "immersiveengineering:sheetmetal_iron"
+          },
+          {
+            "item": "nyagibits_bytes:acetylene_tank"
+          }  
+    ],
+        "results": [
+          {
+            "item": "immersiveengineering:sheetmetal_iron"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "immersiveengineering:sheetmetal_iron"}
+  }

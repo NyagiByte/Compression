@@ -1,7 +1,7 @@
 {
     "type":"immersiveengineering:blueprint",
     "category":"components",
-    
+
     "inputs":[
         {
             "base_ingredient":{
@@ -28,4 +28,4 @@
     "result":{
             "count": 4,
             "item":"immersiveengineering:radiator"
-        }}
+        }} 

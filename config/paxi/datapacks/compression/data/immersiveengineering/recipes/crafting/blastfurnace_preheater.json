@@ -1,7 +1,7 @@
 {
     "type":"immersiveengineering:blueprint",
     "category":"components",
-    
+
     "inputs":[
         {
             "base_ingredient":{

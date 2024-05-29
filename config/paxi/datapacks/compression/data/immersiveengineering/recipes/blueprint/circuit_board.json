@@ -1,7 +1,7 @@
 {
     "type":"immersiveengineering:blueprint",
     "category":"components",
-    
+
     "inputs":[
         {
             "item":"immersiveengineering:plate_duroplast"
@@ -11,4 +11,4 @@
         }],
     "result":{
             "item":"immersiveengineering:circuit_board"
-        }}
+        }} 

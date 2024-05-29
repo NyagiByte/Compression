@@ -1,0 +1,22 @@
+{
+    "type":"immersiveengineering:shaped_fluid",
+    "key":{
+        "b":{
+            "type":"immersiveengineering:fluid",
+            "amount":1000,
+            "tag":"forge:creosote"
+            },
+
+        "w":{
+            "item":"botania:livingwood_planks"
+            }},
+            "pattern":
+                [
+                    "www",
+                    "wbw",
+                    "www"
+                    ],
+                "result":{
+                    "count":8,
+                    "item":"immersiveengineering:treated_wood_horizontal"
+                        }}
