@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"minecraft:glass_bottle"},
+      "B": {"item":"nyagibits_bytes:tungsten_wire"},
+      "C": {"item":"immersiveengineering:connector_lv_relay"}
+    },
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "result": {
+        "item": "immersiveengineering:light_bulb"
+    }
+  }

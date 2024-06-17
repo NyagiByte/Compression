@@ -821,6 +821,10 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/mana_spreader.jso
 hash = "914c7ecacc9c3a615a104b4bd018941079a4f02d42688e352e70cd71a8b5c619"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/manaweave_cloth.json"
+hash = "ed0151fa198e8e0a654b8602f19a44fcfc08268d52b6699dfcc227097652acfb"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/pattern_framed_livingwood.json"
 hash = "cb7f72996014b474ff7feb834500fd501194459a5005258347b930bd23656741"
 
@@ -1115,6 +1119,10 @@ hash = "ae47695ebd169eb29e52991c59e6c897e9be5dfbf552e049beddb11232642c41"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blueprint/electron_tube.json"
 hash = "36d0dd3b39a342b119a246e5cf7e5a1e86396d30df9d6a2bd948761412553ad7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blueprint/light_bulb.json"
+hash = "934a8961514fc2c15ed963280059bfc905182e2d592e279debfd1d592b29c62b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blastfurnace_preheater.json"
@@ -3078,7 +3086,7 @@ hash = "9d69effabcc8baf75cb076e859149711f4a910118987dd763315d01a332a49d2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assembly_components/tough_bag.json"
-hash = "1a141e3bc83f85b5dc8c87cbffe341c017cf8fe3dbb8dada10acff71819bc033"
+hash = "543d99312beb35d587f26b50acbea09f20b25393938df949a2b50731441d785f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/beaker.json"

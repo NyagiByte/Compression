@@ -1,0 +1,10 @@
+{
+    "type": "botania:mana_infusion",
+    "input": {
+      "item": "nyagibits_bytes:woven_cloth"
+    },
+    "mana": 1000,
+    "output": {
+      "item": "botania:manaweave_cloth"
+    }
+  }

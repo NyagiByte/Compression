@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "key": {
-      "A": {"item":"immersiveengineering:hemp_fabric"},
+      "A": {"item":"nyagibits_bytes:woven_cloth"},
       "B": {"item":"immersiveengineering:hemp_fiber"}
     },
     "pattern": [
