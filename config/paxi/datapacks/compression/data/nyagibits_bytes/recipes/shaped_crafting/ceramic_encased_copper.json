@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:rubberized_cable"},
+      "B": {"item":"nyagibits_bytes:ceramic"},
+      "C": {"item":"minecraft:orange_glazed_terracotta"}
+    },
+    "pattern": [
+      "ABC",
+      "BAB",
+      "CBA"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:ceramic_encased_copper"
+    }
+  }

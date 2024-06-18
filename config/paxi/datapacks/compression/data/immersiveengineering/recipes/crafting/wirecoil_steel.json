@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:ceramic_encased_copper"},
+      "B": {"item":"immersiveengineering:wirecoil_structure_steel"},
+      "C": {"item":"immersiveengineering:wirecoil_structure_rope"}
+    },
+    "pattern": [
+      " B ",
+      "ACA",
+      " B "
+    ],
+    "result": {
+        "count": 8,
+        "item": "immersiveengineering:wirecoil_steel"
+    }
+  }

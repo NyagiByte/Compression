@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:treated_wood_horizontal"},
+      "B": {"item":"immersiveengineering:connector_lv"},
+      "C": {"item":"immersiveengineering:sheetmetal_steel"},
+      "D": {"item":"nyagibits_bytes:lead_acid_cell"},
+      "E": {"item":"nyagibits_bytes:steel_casing"}
+    },
+    "pattern": [
+      "ABA",
+      "CDC",
+      "AEA"
+    ],
+    "result": {
+        "item": "immersiveengineering:capacitor_lv"
+    }
+  }

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:etched_redstone_plate"},
+      "B": {"item":"immersiveengineering:wirecoil_structure_rope"}
+    },
+    "pattern": [
+      " A ",
+      "ABA",
+      " A "
+    ],
+    "result": {
+        "count": 16,
+        "item": "immersiveengineering:wirecoil_redstone"
+    }
+  }

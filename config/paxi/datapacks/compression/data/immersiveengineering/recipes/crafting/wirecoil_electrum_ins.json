@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:wirecoil_electrum"},
+      "B": {"item":"immersiveengineering:slag_glass"},
+      "C": {"item":"nyagibits_bytes:rune_binder"}
+    },
+    "pattern": [
+      "ABA",
+      "ACA",
+      "ABA"
+    ],
+    "result": {
+        "count": 6,
+        "item": "immersiveengineering:wirecoil_electrum_ins"
+    }
+  }

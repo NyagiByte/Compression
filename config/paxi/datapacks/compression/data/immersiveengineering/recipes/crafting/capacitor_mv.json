@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:sheetmetal_nickel"},
+      "B": {"item":"immersiveengineering:connector_mv"},
+      "C": {"item":"immersiveengineering:steel_scaffolding_standard"},
+      "D": {"item":"immersiveengineering:capacitor_lv"},
+      "E": {"item":"immersiveengineering:sheetmetal_constantan"}
+    },
+    "pattern": [
+      "ABA",
+      "CDC",
+      "EEE"
+    ],
+    "result": {
+        "item": "immersiveengineering:capacitor_mv"
+    }
+  }

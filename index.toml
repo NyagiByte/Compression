@@ -641,6 +641,10 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/dus
 hash = "bb0898821a692090b96e966b096f2c216a721f4be867e41d38cd4ad5cb254411"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/lead_sulfide_dust.json"
+hash = "379a0a96b2c1e23400c669c085f16139a4b1c42691cda37622bc326c0bd1da13"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/magma_block.json"
 hash = "0ba1d36f9b5b5bcfe6543b51ee9a8c67dfe70989bf1571bcea12c2ce22262f34"
 
@@ -1069,12 +1073,20 @@ file = "config/paxi/datapacks/compression/data/create/recipes/item_application/b
 hash = "8a0aaba4a9c77aa8b5b391eea1a3ed304cf1721e564095699e97d19ee20b6b20"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/item_application/steel_casing_from_brass_casing.json"
+hash = "a9a75008130646e9d428649f04ec2cf8cf7bbbe158a76cf68e71b1fb0fd2ced3"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/sequenced_assembly/precision_mechanism.json"
 hash = "c3dab91039b3fa186949661de230011572aa1a71b787ecf2fff60b8b29e77768"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/farmersdelight/recipes/mixing/straw.json"
 hash = "c697c815e2dd313e2f9f45270da5678056616d678dd71601e84592cceb160643"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/arcfurnace/insulated_glass.txt"
+hash = "90e3369d1e66a94c5789a5f1237a9208a52e1d45381e37a24fc8e019b9ae654e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blastfurnace/1080high_carbon_steel.json"
@@ -1137,6 +1149,42 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/craf
 hash = "8588ad013fc20ce2052c15acb8c963c5cdc2b944dd282a0b2d50d6bceccee66a"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/capacitor_hv.json"
+hash = "28108364feb43cd796a823e581399cefc949f6268914f390e4cc082198c96767"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/capacitor_lv.json"
+hash = "070c18945738fa74af660f6b890e8cbf267976d60b2d9731a3475c17fc52219e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/capacitor_mv.json"
+hash = "05789fe4d98daefe60e433382871e80e3b4f99721ee2a1bc2832a1376fec2e83"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/connector_hv.json"
+hash = "fac6fbde3e0c7ebc28cba332b131df1192799108f9b1318f1fa277f6ac4ebde0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/connector_hv_relay.json"
+hash = "83b08a95cf661ddd0e15977adc7b0fa3162d5eaab0d826f86e381b1389353833"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/connector_lv.json"
+hash = "6e55f040e3742e932bcf95e88d582de4346acc5627a076575fa1b18b3d013d5d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/connector_lv_relay.json"
+hash = "ae01faff5904de66053e3e86c112351463f7006c762c7f5b7a46cda1fa01b3bd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/connector_mv.json"
+hash = "14af4508e44de4f9bc749c7c03767b0621a0a2252db0ee476af841ea2ea1369d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/connector_mv_relay.json"
+hash = "fc0a0bf8295ada92319a3e8592da205c9005bdb02650e3990c66d5238b7d1fb1"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/crate.json"
 hash = "7b4b720438f7e5f918166665706afda2dc3238efa9cb2b9dc2330ed2b8063d52"
 
@@ -1167,6 +1215,10 @@ hash = "bf9ad6d195efbb0b3d389a68605ae7f0d88566931dba64378a8f2c8b5525beac"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/light_engineering.json"
 hash = "96a21b0d2248e0dce99fe6f0cbf2ed19979e5aed14ad02b82372e07dfde41b4c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/logic_circuit.json"
+hash = "4a58e7b8779607fb9fd83ceb126cf4e2fbbf0a7df482bb3f6efe8b35790b7448"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/plate_steel_hammering.json"
@@ -1231,6 +1283,38 @@ hash = "59f68f0fc18600e21bab58fa0d5ed0f8a27911f8d7df7058fe45dbe346e6a113"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/windmill_blade.json"
 hash = "1628a2e2e36139f77bb070ec6dc893016e8e4aa29572c5cfec5c9a56831f6675"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/wirecoil_copper.json"
+hash = "20b8fc91636eba819e20b87589640fba0e14f6aabb371b6f781983d3206dd135"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/wirecoil_copper_ins.json"
+hash = "6caa074dd274f5d2508395f809609dea59dd48eebfee2906c543258cd1b19492"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/wirecoil_electrum.json"
+hash = "87111c5ddf3bba6def6d6931e079cd9c819350ea89939f8ce0e9d409eee0578b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/wirecoil_electrum_ins.json"
+hash = "55ac2dfdb8309d6eae125c9e8db17a48c5d9f58d210886907929a816f818a948"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/wirecoil_redstone.json"
+hash = "12468f5bb49032e7ea66317d91cb252659e7916be1da53fe3aef4db18de0ee1d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/wirecoil_steel.json"
+hash = "c18648acb5061e636afc53b7ef5ca44eab8b3d27b90f46c375d4420e3d0d381d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/wirecoil_structure_rope.json"
+hash = "01f821fc5efec913da9698ab50a1c7e5bf1c6bffaa3493510b65ae543c051063"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/wirecoil_structure_steel.json"
+hash = "88a557d3080ac4daf74010c5279df9b3fbfa72d8f7ba3869e5b0338f75c402d1"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/wirecutter.json"
@@ -3097,6 +3181,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_cr
 hash = "036fbf56973dccfb9c37df821f5cbdbf15e25aaeb764ca6bd89af1e6bede89b2"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/ceramic_encased_copper.json"
+hash = "f723559a012a7106d3199494af3c7fd4949f9d0c13de6e8f70f0aeea3c8a164c"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/crude_kits/tier_zero/crude_acidics_test.json"
 hash = "557b70e5af5dd918c9580ae02e2c17d11409e62722bd2c559e4ff7f3f71bdc04"
 
@@ -3131,6 +3219,14 @@ hash = "82d32f78dcebff531fdb7d1b1329c8e7d6f899119e7b6d71e342efec6cb81b25"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/inlet.json"
 hash = "801df1a8b87a313185ecaa9890bd397327c81bd773d885e853234b13d4f16597"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/lead_acid_cell.json"
+hash = "66bcfbec9cf546062beb322ecb2ee759948bba38487b191aa9f38f8067515a1d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/lead_acid_cell_duroplast.json"
+hash = "e1d52ddda2aece2fafa208e50918cf618101a9097af6af204f1d59a3b5c98cb2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/livisite_alloy_t0.json"

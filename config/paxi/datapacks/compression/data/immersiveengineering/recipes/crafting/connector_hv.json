@@ -1,0 +1,24 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {
+        "item": "immersiveengineering:stick_steel"
+      },
+      "B": {
+        "item": "nyagibits_bytes:ceramic_encased_copper"
+      },
+      "C": {
+        "item": "immersiveengineering:duroplast"
+      }
+    },
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "result": {
+        "count": 4,
+        "item": "immersiveengineering:connector_hv"
+    }
+  }

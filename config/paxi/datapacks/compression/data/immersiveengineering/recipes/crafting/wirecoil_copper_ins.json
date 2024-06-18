@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:wirecoil_copper"},
+      "B": {"item":"botania:manaweave_cloth"},
+      "C": {"item":"nyagibits_bytes:sealant"}
+    },
+    "pattern": [
+      "ABA",
+      "ACA",
+      "ABA"
+    ],
+    "result": {
+        "count": 6,
+        "item": "immersiveengineering:wirecoil_copper_ins"
+    }
+  }

@@ -1,0 +1,10 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {"item": "create:brass_casing"},
+    {"item": "immersiveengineering:ingot_steel"}
+  ],
+  "results": [
+    {"item": "nyagibits_bytes:steel_casing"}
+  ]
+}

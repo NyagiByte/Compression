@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"create:copper_sheet"},
+      "B": {"item":"nyagibits_bytes:ceramic"},
+      "C": {"item":"minecraft:cut_copper"}
+    },
+    "pattern": [
+      " A ",
+      "BCB"
+    ],
+    "result": {
+        "count": 2,
+        "item": "immersiveengineering:connector_lv"
+    }
+  }

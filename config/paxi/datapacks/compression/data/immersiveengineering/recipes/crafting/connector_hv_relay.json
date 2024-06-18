@@ -1,0 +1,21 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {
+        "item": "immersiveengineering:connector_hv"
+      },
+      "B": {
+        "item": "immersiveengineering:insulating_glass"
+      }
+    },
+    "pattern": [
+      "A",
+      "B",
+      "A"
+    ],
+    "result": {
+        "count": 4,
+        "item": "immersiveengineering:connector_hv_relay"
+    }
+  }

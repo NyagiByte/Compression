@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"create:copper_sheet"},
+      "B": {"item":"chemlib:lead_sulfide_dust"},
+      "C": {"item":"chemlib:zinc_plate"},
+      "D": {"item":"nyagibits_bytes:chemically_inert_wood"},
+      "E": {"item":"chemlib:sulfuric_acid"}
+    },
+    "pattern": [
+      "ABC",
+      "DED",
+      "DDD"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:lead_acid_cell"
+    }
+  }

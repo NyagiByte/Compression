@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:low_voltage_capacitor"},
+      "B": {"item":"nyagibits_bytes:solder_wire"},
+      "C": {"item":"immersiveengineering:electron_tube"},
+      "D": {"item":"immersiveengineering:component_electronic_adv"}
+    },
+    "pattern": [
+      "ABA",
+      "CDC"
+    ],
+    "result": {
+        "item": "immersiveengineering:logic_circuit"
+    }
+  }
