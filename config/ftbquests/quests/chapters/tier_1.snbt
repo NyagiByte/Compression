@@ -397,7 +397,7 @@
 			}]
 			tasks: [{
 				id: "5568E2E68DD851AB"
-				item: "ftbquests:missing_item"
+				item: "nyagibits_bytes:bucket_of_hydrocarbon_soup"
 				type: "item"
 			}]
 			title: "Hydrocarbon Soup?"
