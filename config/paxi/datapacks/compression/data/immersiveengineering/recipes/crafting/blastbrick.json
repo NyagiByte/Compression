@@ -1,0 +1,197 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:basic_composite_plate"
+      },
+      {
+        "item": "nyagibits_bytes:immersive_engineering_schematic"
+      },
+      {
+        "item": "create:blaze_burner"
+      }
+    ],
+    "results": [
+      {
+        "count": 27,
+        "item": "immersiveengineering:blastbrick"
+      }
+    ]
+  }

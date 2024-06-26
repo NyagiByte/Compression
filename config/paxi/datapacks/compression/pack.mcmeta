@@ -74,7 +74,6 @@
 
 		{"namespace": "immersiveengineering", "path": "recipes/bottling/ersatz_leather.json"},
 
-		{"namespace": "immersiveengineering", "path": "recipes/cokeoven/coke.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/cokeoven/coke_block.json"},
 
 		{"namespace": "immersiveengineering", "path": "recipes/crusher/coke.json"},

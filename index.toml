@@ -1137,6 +1137,14 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blue
 hash = "934a8961514fc2c15ed963280059bfc905182e2d592e279debfd1d592b29c62b"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/cokeoven/coke.json"
+hash = "3b21f25a4b8e6e738436767bc7237d0744faae08480c04fe89ebb06a7e109326"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blastbrick.json"
+hash = "a4ea5e9917d999498d4cf130e1bce69f50925c4065a6c27becbccd013058273b"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blastfurnace_preheater.json"
 hash = "02a2ce003751ee947aaa385978bab81babbe95c628253df6de7949bfec4f4b6c"
 
@@ -1159,6 +1167,10 @@ hash = "070c18945738fa74af660f6b890e8cbf267976d60b2d9731a3475c17fc52219e"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/capacitor_mv.json"
 hash = "05789fe4d98daefe60e433382871e80e3b4f99721ee2a1bc2832a1376fec2e83"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/cokebrick.json"
+hash = "6e4dbb80e0ec92c717d23ce35254f69a72742b1f965b482ceeb361c5cea1689e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/connector_hv.json"
@@ -3390,7 +3402,7 @@ hash = "8cc138cc6fca762bdf76cbe9e88959da0e770f0bb4468c6db0bc790325fc028f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "d8a2cc3dfd558669492f12e22082d1a4a6dac654511c6414825bed7064f33adc"
+hash = "4c7c3b3035a61cf5fc17e3b4b7edd40c883f1dd670e7ff425857941e89673d5d"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
