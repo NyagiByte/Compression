@@ -12,6 +12,9 @@
 		{"namespace": "thermal", "path": "recipes/rubber_from_vine.json"},
 		{"namespace": "thermal", "path": "recipes/explosive_grenade_4.json"},
 
+		{"namespace": "architects_palette", "path": "recipes/charcoal_block.json"},
+		{"namespace": "architects_palette", "path": "smelting/charcoal_block_from_logs_that_burn_smoking.json"},
+
 		{"namespace": "minecraft", "path": "recipes/wooden_sword.json"},
 		{"namespace": "minecraft", "path": "recipes/wooden_axe.json"},
 		{"namespace": "minecraft", "path": "recipes/wooden_pickaxe.json"},

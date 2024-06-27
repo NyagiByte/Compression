@@ -1,0 +1,11 @@
+{
+    "type":"immersiveengineering:coke_oven",
+        "creosote":100,
+        "input":{
+            "tag":"minecraft:logs"
+            },
+                "result":{
+                    "item":"architects_palette:charcoal_block"
+                    },
+                    "time":40
+                }

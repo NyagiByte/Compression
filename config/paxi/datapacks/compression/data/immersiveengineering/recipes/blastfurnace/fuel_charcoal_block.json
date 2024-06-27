@@ -1,0 +1,11 @@
+{
+    "type":"immersiveengineering:blast_furnace_fuel",
+        "conditions":[{
+            "type":"forge:not",
+                "value":{
+                    "type":"forge:tag_empty",
+                    "tag":"forge:storage_blocks/charcoal"
+                    }}],
+                        "input":{
+                            "tag":"forge:storage_blocks/charcoal"
+                            },"time":0}

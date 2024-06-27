@@ -1,0 +1,7 @@
+{
+    "type":"immersiveengineering:blast_furnace_fuel",
+        "input":{
+            "item":"nyagibits_bytes:industrial_grade_coke"
+            },
+            "time":200
+        }

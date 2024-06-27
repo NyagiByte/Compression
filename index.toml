@@ -1093,6 +1093,26 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blas
 hash = "b42c1b2dc4ebc30f8a1dd837ea48b69b75efc4192ded88f46a4f9207b18f2941"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blastfurnace/fuel_charcoal.json"
+hash = "067f44110b616173395370b4a9f931dd3b6db0ce5bf3f412070e5804a024f1a1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blastfurnace/fuel_charcoal_block.json"
+hash = "6b45899ed1a27a3114d777bb3e54489048253d5d5a8ed3daceb89e287f5b222f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blastfurnace/fuel_coke.json"
+hash = "cbd478579e70d3216c8d5586fbe5cc9dd71437ff16ac295a5ef1969c75bfb411"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blastfurnace/fuel_coke_block.json"
+hash = "55b84243b5d1af7182f867c17efe7bf6870620d88450bc56a07fff539b2ed4ae"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blastfurnace/fuel_industrial_coke.json"
+hash = "efbaa9178ba4cfdb681d733900d37cee3adf3be8f4c517d5d83ea11bf4ef16e4"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blastfurnace/steel.json"
 hash = "55442ee1e9743129ccc30bfb95fd67499119140367c5e3b40196c80f5d3af458"
 
@@ -1137,8 +1157,24 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blue
 hash = "934a8961514fc2c15ed963280059bfc905182e2d592e279debfd1d592b29c62b"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/cokeoven/charcoal.json"
+hash = "bbd3acd5778f465b6dd16fda6ec8aa2945983ee6c474fb13163acf806e1a0eed"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/cokeoven/coke.json"
 hash = "3b21f25a4b8e6e738436767bc7237d0744faae08480c04fe89ebb06a7e109326"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/cokeoven/industrial_coke_from__bituminous.json"
+hash = "2d426fa47ae0c8166cb5567de56214ed188f1afbe3471b2bcff9b007cb111281"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/cokeoven/industrial_coke_from_anthracite.json"
+hash = "6ffb98ffd706918357af307b010e37390d029db13e3c5e7828aa885725b35764"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/cokeoven/industrial_coke_from_sub_bit.json"
+hash = "a81e2a00c3b69514a548dcb9d8092854701d80b69235a1c4d6e5ef44088b0b39"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blastbrick.json"
@@ -1339,6 +1375,14 @@ hash = "1464c511ff52be24d44184f673abe21bd0597051d01e8c6f58317a2db37e81d1"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crusher/low_grade_coke_crushing.json"
 hash = "67e3577cebf78db57bfd280ccb4036c62927eee5b6a6bc307e29c55f04be14c0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/blastfurnace/fuel_petcoke.json"
+hash = "5e2fa76382a5b6c124d4b3a2d983d705926fa148a33f9447a7133db043398399"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/blastfurnace/fuel_petcoke_block.json"
+hash = "b80a949950d84b8ffbfbc92d334a959e8c6a41ac14b06e11b6a8f29e0b382584"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/mekanism/recipes/creatified/charcoal_dust.json"
@@ -3402,7 +3446,7 @@ hash = "8cc138cc6fca762bdf76cbe9e88959da0e770f0bb4468c6db0bc790325fc028f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "4c7c3b3035a61cf5fc17e3b4b7edd40c883f1dd670e7ff425857941e89673d5d"
+hash = "84247d0db8c2d8af4ced7047780ac6fcff9925d23b8e53e03b342147146f43f9"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
