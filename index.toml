@@ -1853,6 +1853,14 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sm
 hash = "43c7309b5e9461cdd8c57f6ec2c9752de9222bce3e50a0cae76cc8ca28fe2e82"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/custom_fluid_processing/hydrocarbon_tar/tar_to_creosote_good.json"
+hash = "956bc589e05ae4bad83c20de516e258f8d174f93827838f8295da22c092a471e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/custom_fluid_processing/hydrocarbon_tar/tar_to_creosote_poor.json"
+hash = "92b10162b3007faf4f5450830954237d153686bef77c21ed135e0cc3488a2fea"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/furnacing/livisite_blasting.json"
 hash = "a61c5cb6a30f5ab7aba57723e8305ce26710fca03b133392bf9ce7fa2af930f0"
 

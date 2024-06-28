@@ -1,0 +1,16 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "amount": 1000,
+        "fluid": "nyagibits_bytes:hydrocarbon_tar_fluid"
+      }
+    ],
+    "results": [
+      {
+        "amount": 100,
+        "fluid": "immersiveengineering:creosote"
+      }
+    ]
+  }
