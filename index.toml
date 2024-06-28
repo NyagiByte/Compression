@@ -1158,23 +1158,23 @@ hash = "934a8961514fc2c15ed963280059bfc905182e2d592e279debfd1d592b29c62b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/cokeoven/charcoal.json"
-hash = "bbd3acd5778f465b6dd16fda6ec8aa2945983ee6c474fb13163acf806e1a0eed"
+hash = "63dbd5bd58465f7b6f04d59159a85878b7d722008de24347a9a700013f38c10b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/cokeoven/coke.json"
-hash = "3b21f25a4b8e6e738436767bc7237d0744faae08480c04fe89ebb06a7e109326"
+hash = "c62a485524b6c1e4077ab0e22c6e87579ed6d178b24003cf9a9c4bb9692c6a9e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/cokeoven/industrial_coke_from__bituminous.json"
-hash = "2d426fa47ae0c8166cb5567de56214ed188f1afbe3471b2bcff9b007cb111281"
+hash = "83d383d042c543089e8c45fdf22f5f63ee1c67e378f9f074574bf7da5492a898"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/cokeoven/industrial_coke_from_anthracite.json"
-hash = "6ffb98ffd706918357af307b010e37390d029db13e3c5e7828aa885725b35764"
+hash = "f06313bd5ca5110334898398995a366c831d79740dd0f61cd8c3fb3ec7c5ac60"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/cokeoven/industrial_coke_from_sub_bit.json"
-hash = "a81e2a00c3b69514a548dcb9d8092854701d80b69235a1c4d6e5ef44088b0b39"
+hash = "0386f5b12c25aa9250b5c49a0a4d20bd6d4956b71d0c651734bca42a8c723b8d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blastbrick.json"

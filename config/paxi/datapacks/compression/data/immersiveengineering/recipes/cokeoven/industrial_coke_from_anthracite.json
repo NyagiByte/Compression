@@ -1,12 +1,13 @@
 {
-    "type":"immersiveengineering:coke_oven",
-        "creosote":50,
-        "input":{
-            "item":"nyagibits_bytes:raw_anthracite"
-            },
-                "result":{
-                    "count": 4,
-                    "item":"nyagibits_bytes:industrial_grade_coke"
-                    },
-                    "time":100
-                }
+    "type": "immersiveengineering:coke_oven",
+        "fluid": {
+            "amount":50,
+            "fluid":"nyagibits_bytes:hydrocarbon_tar_fluid"
+        },
+                "input": {
+                    "item":"nyagibits_bytes:raw_anthracite"},
+                        "result": {
+                            "count": 4,
+                            "item":"nyagibits_bytes:industrial_grade_coke"},
+        "time": 100
+}

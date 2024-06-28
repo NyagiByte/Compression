@@ -1,11 +1,12 @@
 {
-    "type":"immersiveengineering:coke_oven",
-        "creosote":200,
-        "input":{
-            "item":"nyagibits_bytes:raw_subbituminous"
-            },
-                "result":{
-                    "item":"nyagibits_bytes:industrial_grade_coke"
-                    },
-                    "time":100
-                }
+    "type": "immersiveengineering:coke_oven",
+        "fluid": {
+            "amount":200,
+            "fluid":"nyagibits_bytes:hydrocarbon_tar_fluid"
+        },
+                "input": {
+                    "item":"nyagibits_bytes:raw_subbituminous"},
+                        "result": {
+                            "item":"nyagibits_bytes:industrial_grade_coke"},
+        "time": 100
+}

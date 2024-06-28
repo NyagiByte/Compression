@@ -1,11 +1,13 @@
 {
-    "type":"immersiveengineering:coke_oven",
-        "creosote":500,
-        "input":{
-            "item":"minecraft:coal"
-            },
-                "result":{
-                    "item":"nyagibits_bytes:low_grade_coke"
-                    },
-                    "time":100
-                }
+    "type": "immersiveengineering:coke_oven",
+        "fluid": {
+            "amount":500,
+            "fluid":"nyagibits_bytes:hydrocarbon_tar_fluid"
+        },
+                "input": {
+                    "item":"minecraft:coal"},
+                        "result": {
+                            "item":"nyagibits_bytes:low_grade_coke"},
+        "time": 100
+}
+                   
