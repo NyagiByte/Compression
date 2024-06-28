@@ -4275,6 +4275,10 @@ hash = "a840f125eb801e899c969ae883619e0de201ebaf600b372e0ae1bad10ea36edd"
 metafile = true
 
 [[files]]
+file = "mods/compressedengineering-1.0.0.jar"
+hash = "6cf8bf87b691428caaf867c09b9a24c6d4a33cb79de365aee2018ce6c9743624"
+
+[[files]]
 file = "mods/compressiontweaks-1.19.2-1.0.0.jar"
 hash = "ddb2afd50acce0a5362e0b3e95115790bc203ae275b4e9b960450c7cc69fb320"
 
