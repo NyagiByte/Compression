@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:sheetmetal_steel"},
+      "B": {"item":"immersiveengineering:coil_lv"},
+      "C": {"item":"nyagibits_bytes:synthetic_mica"},
+      "D": {"item":"nyagibits_bytes:tpv_cell"}
+    },
+    "pattern": [
+      "ABA",
+      "CDC",
+      "ADA"
+    ],
+    "result": {
+        "item": "immersiveengineering:thermoelectric_generator"
+    }
+  }

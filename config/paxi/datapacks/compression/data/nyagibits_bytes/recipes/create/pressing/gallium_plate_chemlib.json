@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "chemlib:gallium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "chemlib:gallium_plate"
+    }
+  ]
+}

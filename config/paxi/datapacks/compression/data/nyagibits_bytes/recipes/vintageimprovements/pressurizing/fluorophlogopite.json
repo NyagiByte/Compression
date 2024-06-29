@@ -1,0 +1,43 @@
+{
+	"type":"vintageimprovements:pressurizing",
+    "heatRequirement": "superheated",
+	"ingredients": [
+		{
+			"fluid": "chemlib:oxygen_fluid",
+			"amount": 500
+		},
+		{
+			"item": "chemlib:fluorine"
+		},
+		{
+			"item": "chemlib:fluorine"
+		},
+		{
+			"item": "chemlib:potassium"
+		},
+		{
+			"item": "chemlib:aluminum_dust"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "nyagibits_bytes:raw_basaltic_powder"
+		}
+	],
+	"results": [
+		{
+			"item": "nyagibits_bytes:fluorophlogopite"
+		}
+	],
+	"processingTime": 800
+}

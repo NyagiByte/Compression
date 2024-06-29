@@ -1,0 +1,43 @@
+{
+    "type": "alchemistry:dissolver",
+    "group": "alchemistry:dissolver",
+    "input": {
+      "count": 1,
+      "ingredient": {
+        "item": "nyagibits_bytes:raw_bauxite"
+      }
+    },
+    "output": {
+      "groups": [
+        {
+          "probability": 50.0,
+          "results": [
+            {
+              "count": 16,
+              "item": "chemlib:aluminum"
+            }
+          ]
+        },
+        {
+          "probability": 50.0,
+          "results": [
+            {
+              "count": 2,
+              "item": "chemlib:gallium"
+            }
+          ]
+        },
+        {
+          "probability": 30.0,
+          "results": [
+            {
+              "count": 2,
+              "item": "chemlib:silicon_dioxide"
+            }
+          ]
+        }
+      ],
+      "rolls": 6,
+      "weighted": false
+    }
+  }

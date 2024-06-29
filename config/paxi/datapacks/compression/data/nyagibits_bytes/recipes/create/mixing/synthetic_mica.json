@@ -1,0 +1,25 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:fluorophlogopite"
+      },
+      {
+        "item": "chemlib:magnesium_plate"
+      },
+      {
+        "item": "immersiveengineering:plate_aluminum"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "nyagibits_bytes:synthetic_mica"
+      },
+      {
+        "amount": 50,
+        "fluid": "nuclearcraft:magnesium"
+      }
+    ]
+  }

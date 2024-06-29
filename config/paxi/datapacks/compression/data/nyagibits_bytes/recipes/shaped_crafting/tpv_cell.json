@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:wirecoil_copper"},
+      "B": {"item":"nyagibits_bytes:polycrystalline_silicon_carbide"},
+      "C": {"item":"minecraft:copper_block"},
+      "D": {"item":"nyagibits_bytes:zinc_gallium_antimony_alloy"},
+      "E": {"item":"create:brass_block"},
+      "F": {"item":"pneumaticcraft:heat_sink"}
+    },
+    "pattern": [
+      "AB ",
+      "CDC",
+      " EF"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:tpv_cell"
+    }
+  }
