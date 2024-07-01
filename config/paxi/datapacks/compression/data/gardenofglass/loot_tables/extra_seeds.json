@@ -1,0 +1,49 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "name": "main",
+      "rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:melon_seeds"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:alternative",
+          "terms": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "minecraft:grass"
+            },
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "minecraft:tall_grass",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        },
+        {
+          "condition": "minecraft:survives_explosion"
+        },
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.0
+        },
+        {
+          "condition": "minecraft:inverted",
+          "term": {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "tag": "gardenofglass:shears"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
