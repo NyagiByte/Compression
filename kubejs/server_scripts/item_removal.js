@@ -369,10 +369,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:toolupgrade_powerpack_antenna'});
         e.remove({output: 'immersiveengineering:toolupgrade_powerpack_induction'});
         e.remove({output: 'immersiveengineering:toolupgrade_powerpack_tesla'});
-        e.remove({output: 'immersiveengineering:armor_faraday_head'});
-        e.remove({output: 'immersiveengineering:armor_faraday_chest'});
-        e.remove({output: 'immersiveengineering:armor_faraday_legs'});
-        e.remove({output: 'immersiveengineering:armor_faraday_feet'});
         e.remove({output: 'immersiveengineering:blastbrick_reinforced'});
         e.remove({output: 'immersiveengineering:alloybrick'});
         e.remove({output: 'immersiveengineering:craftingtable'});

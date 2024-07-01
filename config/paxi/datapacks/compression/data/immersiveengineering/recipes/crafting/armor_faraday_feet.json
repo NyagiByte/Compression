@@ -1,0 +1,23 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {
+        "item": "immersiveengineering:alu_scaffolding_standard"
+      },
+      "B": {
+        "item": "nyagibits_bytes:synthetic_mica"
+      },
+      "C": {
+        "item": "nyagibits_bytes:woven_cloth"
+      }
+    },
+    "pattern": [
+      "AAAAAA",
+      "ABCCBA",
+      "ABCCBA"
+    ],
+    "result": {
+      "item": "immersiveengineering:armor_faraday_feet"
+    }
+  }

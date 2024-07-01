@@ -637,6 +637,10 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver.jso
 hash = "900dbd92f4ab864095c72bc3128c6dd619b7fab5351a883972953a1470da0932"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/cellulose.json"
+hash = "e55b8199ee8bffe45130b1a41363fd1101584eacf58d4e54edf26aa0fabe85bb"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/dusts/apatite.json"
 hash = "bb0898821a692090b96e966b096f2c216a721f4be867e41d38cd4ad5cb254411"
 
@@ -1179,6 +1183,22 @@ hash = "f06313bd5ca5110334898398995a366c831d79740dd0f61cd8c3fb3ec7c5ac60"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/cokeoven/industrial_coke_from_sub_bit.json"
 hash = "0386f5b12c25aa9250b5c49a0a4d20bd6d4956b71d0c651734bca42a8c723b8d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/armor_faraday_chest.json"
+hash = "650ed4542851adb0d9ee7f8628e833751c9a66fdd180fea48ab24cccdf52816e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/armor_faraday_feet.json"
+hash = "ff3b878cb3b866501f4d6e2684182bd1cadb42aad07a7da1a56685c515ce65d9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/armor_faraday_head.json"
+hash = "eaff1b8665976b113f0131dc514ec02eb5126bfea03ff8a0d1a52cc635bc676c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/armor_faraday_legs.json"
+hash = "0b9ddac524d8bcaa51cba28bce4e782bdbf04fc49dd1e529219ef1cde4b30ae3"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blastbrick.json"
@@ -3401,6 +3421,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_cr
 hash = "6fe6a9ce39abedb890f0408da931cb1978dccc27a20468f7bf5ce2970e8c76df"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/woven_cloth.json"
+hash = "eff877d630eaccb5b2d542ebbc6dc3f10a91440fa2f23575ed85aaa95acc4a78"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/bucket_of_salt_water.json"
 hash = "94732f545d2a2643e36b69c89b940c706a1b0c2d565d19ec6b6215b28e54b3fb"
 
@@ -3498,7 +3522,7 @@ hash = "8cc138cc6fca762bdf76cbe9e88959da0e770f0bb4468c6db0bc790325fc028f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "770c6d81cf48d39205bf1e2c1de5cab07395e21765fc444e271bef21794fc76c"
+hash = "d0f9382375966c539723739ef64070e4b58831bf52f9eae32363e23a5af13268"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -4158,7 +4182,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "f7d4bcf3df512b37a1e3b54576f063973a561c7ba2291b763333c836a750ea7d"
+hash = "f7fedc89e29d446c0c51e1228eb0daaaf113f082d16ff892b8478fd7c47f5e0c"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"

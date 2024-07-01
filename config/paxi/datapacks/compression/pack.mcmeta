@@ -250,7 +250,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/spore_blossom.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/jukebox.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/bamboo.json"},
-		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/mercury_sulfide_dust.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/mercury_sulfide_dust.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/blizz_powder.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/stone_bricks.json"},
