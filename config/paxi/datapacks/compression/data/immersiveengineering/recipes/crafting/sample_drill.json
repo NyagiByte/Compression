@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:steel_scaffolding_standard"},
+      "B": {"item":"pneumaticcraft:drill_pipe"},
+      "C": {"item":"immersiveengineering:heavy_engineering"},
+      "D": {"item":"nyagibits_bytes:hydraulic_hammer"}
+    },
+    "pattern": [
+      "A A",
+      "ABA",
+      "CDC"
+    ],
+    "result": {
+        "item": "immersiveengineering:sample_drill"
+    }
+  }

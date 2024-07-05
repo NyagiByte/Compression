@@ -89,6 +89,7 @@
 
 		{"namespace": "immersiveengineering", "path": "recipes/alloysmelter/insulating_glass.json"},
 
+		{"namespace": "immersivepetroleum", "path": "recipes/toolupgrade_drill_lube.json"},
 		{"namespace": "immersivepetroleum", "path": "recipes/ersatz_leather.json"},
 
 

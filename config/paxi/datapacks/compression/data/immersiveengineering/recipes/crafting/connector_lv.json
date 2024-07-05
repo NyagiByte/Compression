@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "key": {
-      "A": {"item":"create:copper_sheet"},
+      "A": {"item":"chemlib:copper_plate"},
       "B": {"item":"nyagibits_bytes:ceramic"},
       "C": {"item":"minecraft:cut_copper"}
     },

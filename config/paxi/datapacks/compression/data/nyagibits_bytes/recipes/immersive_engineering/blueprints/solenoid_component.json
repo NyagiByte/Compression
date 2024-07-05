@@ -5,7 +5,7 @@
     "inputs":[
         {
             "base_ingredient":{
-                "item":"create:copper_sheet"},
+                "item":"chemlib:copper_plate"},
                 "count":8},
         {
             "base_ingredient":{

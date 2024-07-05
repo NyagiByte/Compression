@@ -5,7 +5,7 @@
         "item": "create:copper_sheet"
       },
       {
-        "item": "create:iron_sheet"
+        "item": "chemlib:iron_plate"
       },
       {
         "item": "nyagibits_bytes:livisite_slate"

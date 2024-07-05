@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:plate_duroplast"},
+      "B": {"item":"nyagibits_bytes:thin_casing"},
+      "C": {"item":"immersivepetroleum:lubricant_bucket"},
+      "D": {"item":"create:smart_fluid_pipe"}
+    },
+    "pattern": [
+      "AB ",
+      "BCA",
+      " AD"
+    ],
+    "result": {
+        "item": "immersiveengineering:toolupgrade_drill_lube"
+    }
+  }

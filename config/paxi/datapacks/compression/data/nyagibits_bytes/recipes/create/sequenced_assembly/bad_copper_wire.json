@@ -1,6 +1,6 @@
 {
     "type": "create:sequenced_assembly",
-    "ingredient": {"item": "create:copper_sheet"},
+    "ingredient": {"item": "chemlib:copper_plate"},
     "loops": 1,
     "results": [
       {
@@ -19,16 +19,16 @@
         "type": "create:cutting",
         "ingredients": [
           {
-            "item": "create:copper_sheet"
+            "item": "chemlib:copper_plate"
           }
         ],
         "processingTime": 60,
         "results": [
           {
-            "item": "create:copper_sheet"
+            "item": "chemlib:copper_plate"
           }  
         ]
       }
     ],
-    "transitionalItem": {"item": "create:copper_sheet"}
+    "transitionalItem": {"item": "chemlib:copper_plate"}
   }

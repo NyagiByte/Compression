@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:toolupgrade_drill_lube"},
+      "B": {"item":"nyagibits_bytes:block_of_1080_high_carbon_steel"},
+      "C": {"item":"nyagibits_bytes:heavy_plating"}
+    },
+    "pattern": [
+      "ABA",
+      "CBC",
+      "C C"
+    ],
+    "result": {
+        "item": "pneumaticcraft:drill_pipe"
+    }
+  }

@@ -352,7 +352,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:powerpack'});
         e.remove({output: 'immersiveengineering:shield'});
         e.remove({output: 'immersiveengineering:toolupgrade_drill_waterproof'});
-        e.remove({output: 'immersiveengineering:toolupgrade_drill_lube'});
         e.remove({output: 'immersiveengineering:toolupgrade_drill_damage'});
         e.remove({output: 'immersiveengineering:toolupgrade_drill_fortune'});
         e.remove({output: 'immersiveengineering:toolupgrade_drill_capacity'});
@@ -378,9 +377,7 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:razor_wire'});
         e.remove({output: 'immersiveengineering:metal_barrel'});
         e.remove({output: 'immersiveengineering:fluid_placer'});
-        e.remove({output: 'immersiveengineering:dynamo'});
         e.remove({output: 'immersiveengineering:charging_station'});
-        e.remove({output: 'immersiveengineering:sample_drill'});
         e.remove({output: 'immersiveengineering:tesla_coil'});
         e.remove({output: 'immersiveengineering:turret_chem'});
         e.remove({output: 'immersiveengineering:turret_gun'});
@@ -668,7 +665,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'pneumaticcraft:pressure_chamber_valve'});
         e.remove({output: 'pneumaticcraft:pressure_chamber_interface'});
         e.remove({output: 'pneumaticcraft:charging_station'});
-        e.remove({output: 'pneumaticcraft:drill_pipe'});
         e.remove({output: 'pneumaticcraft:elevator_base'});
         e.remove({output: 'pneumaticcraft:pneumatic_door'});
         e.remove({output: 'pneumaticcraft:assembly_platform'});

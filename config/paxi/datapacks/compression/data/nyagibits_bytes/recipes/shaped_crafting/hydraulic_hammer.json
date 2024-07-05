@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:biodiesel_bucket"},
+      "B": {"item":"immersiveengineering:logic_circuit"},
+      "C": {"item":"immersiveengineering:sheetmetal_colored_yellow"},
+      "D": {"item":"create:copper_backtank"},
+      "E": {"item":"nyagibits_bytes:block_of_1080_high_carbon_steel"}
+    },
+    "pattern": [
+      "ABC",
+      "CDC",
+      " EC"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:hydraulic_hammer"
+    }
+  }

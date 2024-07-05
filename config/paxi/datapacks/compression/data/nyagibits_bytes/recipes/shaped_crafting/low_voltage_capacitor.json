@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:plate_duroplast"},
+      "B": {"item":"nyagibits_bytes:low_temperature_solder"},
+      "C": {"item":"chemlib:zinc_plate"},
+      "D": {"item":"nyagibits_bytes:polycrystalline_silicon_carbide"},
+      "E": {"item":"chemlib:copper_plate"}
+    },
+    "pattern": [
+      " AB",
+      "CDA",
+      " E "
+    ],
+    "result": {
+        "count": 2,
+        "item": "nyagibits_bytes:low_voltage_capacitor"
+    }
+  }
