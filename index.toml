@@ -1097,6 +1097,10 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/arcf
 hash = "90e3369d1e66a94c5789a5f1237a9208a52e1d45381e37a24fc8e019b9ae654e"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/arcfurnace/insulating_glass.json"
+hash = "d35571481b361b80f74684cfed2d455c4c4ee07e9a0d8ee19cd576f26c31503a"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blastfurnace/1080high_carbon_steel.json"
 hash = "b42c1b2dc4ebc30f8a1dd837ea48b69b75efc4192ded88f46a4f9207b18f2941"
 
@@ -1205,6 +1209,10 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/craf
 hash = "a4ea5e9917d999498d4cf130e1bce69f50925c4065a6c27becbccd013058273b"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blastbrick_reinforced.json"
+hash = "3708f08e96553089f0cb067c3b3cdc1e2400ca614792ea2864fc1fde2d1fe661"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blastfurnace_preheater.json"
 hash = "02a2ce003751ee947aaa385978bab81babbe95c628253df6de7949bfec4f4b6c"
 
@@ -1231,6 +1239,18 @@ hash = "05789fe4d98daefe60e433382871e80e3b4f99721ee2a1bc2832a1376fec2e83"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/cokebrick.json"
 hash = "6e4dbb80e0ec92c717d23ce35254f69a72742b1f965b482ceeb361c5cea1689e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/concrete.json"
+hash = "1a67a96af1e1b8cc7e2a63c37da8b7c2b3f5247dea81830d308bcae50e3ce304"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/concrete_leaded.json"
+hash = "b000673f18c4a371f08ff115b075e5980813ed62b7d20d4e287abd594ef6604e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/concrete_rich.json"
+hash = "6b1196c377085947ed8d02f229152db062401fe175f1eeafde3ba1be9df10df9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/connector_hv.json"
@@ -1269,6 +1289,10 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/craf
 hash = "5303116357a0d69a22923532d6e85f8dfafe29a506d3128414fef2c6bc77ddef"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/furnace_heater.json"
+hash = "6d6cb699d354446f76457d70855792a42cd6587faa0ddf879ae5f47e0919cc66"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/generator.json"
 hash = "8ed77d8a2ed50c0838ac3cbb1ac47c72d5b37632135cba1205c48d741ecba91d"
 
@@ -1285,12 +1309,20 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/craf
 hash = "bf9ad6d195efbb0b3d389a68605ae7f0d88566931dba64378a8f2c8b5525beac"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/hempcrete.json"
+hash = "7d1e2ab4173bc1a19a75e61064fb887f90046e5a7648f2b8169ce1be27474cca"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/light_engineering.json"
 hash = "96a21b0d2248e0dce99fe6f0cbf2ed19979e5aed14ad02b82372e07dfde41b4c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/logic_circuit.json"
 hash = "4a58e7b8779607fb9fd83ceb126cf4e2fbbf0a7df482bb3f6efe8b35790b7448"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/plate_copper_hammering.json"
+hash = "2ce76ed6b766ce90ba42ba8eb6a19db27c25fd8833ba96ea46203a019c0b1ff3"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/plate_steel_hammering.json"
@@ -1395,6 +1427,10 @@ hash = "88a557d3080ac4daf74010c5279df9b3fbfa72d8f7ba3869e5b0338f75c402d1"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/wirecutter.json"
 hash = "27f5087bac630cfe9bfc106e08550d07c3e4546ccdeca5f32c7eeab282b90d77"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/workbench.json"
+hash = "2e1c338d7acf4097ec91e026b44670a8e78e790e7633ac8546ad2e7847505322"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crusher/industrial_coke_crushing.json"
@@ -1911,6 +1947,18 @@ hash = "a61c5cb6a30f5ab7aba57723e8305ce26710fca03b133392bf9ce7fa2af930f0"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/furnacing/livisite_blasting_furnace.json"
 hash = "b8a450da43f833222ad23ed71c223234b66d08db3cb47a19b064088b1ed0f8b3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/arcfurnace/annealed_glass.json"
+hash = "b33e608055f99e8da995363cc63934700d93d31ff040bc0a164ef703d5a72d94"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/arcfurnace/industrial_composite_plate.json"
+hash = "e8b8728e21dd5c1646bd27c49a1e42c666b06e92d2c10ffdce30a7eeb6eb0a4e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/arcfurnace/tempered_glass.json"
+hash = "1fbe326dc9933aa18bb5d61d80665ee7ab274bc80239e2c42d3b90ca69bbef9a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/4s_toolbox.json"
@@ -3325,6 +3373,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_cr
 hash = "82d32f78dcebff531fdb7d1b1329c8e7d6f899119e7b6d71e342efec6cb81b25"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/heavy_plating.json"
+hash = "191f947365a8cd2005e7bd0159acfd643f6ac2a80187cdb93c1784770ccfcc81"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/inlet.json"
 hash = "801df1a8b87a313185ecaa9890bd397327c81bd773d885e853234b13d4f16597"
 
@@ -3522,7 +3574,7 @@ hash = "8cc138cc6fca762bdf76cbe9e88959da0e770f0bb4468c6db0bc790325fc028f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "d0f9382375966c539723739ef64070e4b58831bf52f9eae32363e23a5af13268"
+hash = "c2e4ed47200f8819e3392b3322414cc63ccccc9bab469e419b3c41689dc74855"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -4182,7 +4234,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "f7fedc89e29d446c0c51e1228eb0daaaf113f082d16ff892b8478fd7c47f5e0c"
+hash = "418f00ffbb63c5aef0964d25a7e6062de347f4f3852f0e0e40b26107485e0e8c"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
