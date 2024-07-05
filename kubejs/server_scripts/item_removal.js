@@ -369,10 +369,7 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:toolupgrade_powerpack_antenna'});
         e.remove({output: 'immersiveengineering:toolupgrade_powerpack_induction'});
         e.remove({output: 'immersiveengineering:toolupgrade_powerpack_tesla'});
-        e.remove({output: 'immersiveengineering:blastbrick_reinforced'});
         e.remove({output: 'immersiveengineering:alloybrick'});
-        e.remove({output: 'immersiveengineering:craftingtable'});
-        e.remove({output: 'immersiveengineering:workbench'});
         e.remove({output: 'immersiveengineering:gunpowder_barrel'});
         e.remove({output: 'immersiveengineering:sorter'});
         e.remove({output: 'immersiveengineering:item_batcher'});
@@ -381,7 +378,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:razor_wire'});
         e.remove({output: 'immersiveengineering:metal_barrel'});
         e.remove({output: 'immersiveengineering:fluid_placer'});
-        e.remove({output: 'immersiveengineering:furnace_heater'});
         e.remove({output: 'immersiveengineering:dynamo'});
         e.remove({output: 'immersiveengineering:charging_station'});
         e.remove({output: 'immersiveengineering:sample_drill'});

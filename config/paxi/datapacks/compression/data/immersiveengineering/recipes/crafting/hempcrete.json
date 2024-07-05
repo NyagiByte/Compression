@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:concrete"},
+      "B": {"item":"nyagibits_bytes:compacted_soil"},
+      "C": {"item":"immersiveengineering:wirecoil_structure_rope"}
+    },
+    "pattern": [
+      "AAA",
+      "BCB",
+      "AAA"
+    ],
+    "result": {
+        "count": 6,
+        "item": "immersiveengineering:hempcrete"
+    }
+  }

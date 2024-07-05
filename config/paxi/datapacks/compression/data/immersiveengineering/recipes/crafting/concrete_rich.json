@@ -1,0 +1,39 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"ingredients": [
+		{
+			"fluid": "minecraft:water",
+			"amount": 500
+		},
+		{
+			"item": "thermal:rich_slag"
+		},
+		{
+			"item": "thermal:rich_slag"
+		},
+		{
+			"item": "thermal:rich_slag"
+		},
+		{
+			"item": "thermal:rich_slag"
+		},
+		{
+			"item": "nyagibits_bytes:high_strength_concrete"
+		},
+		{
+			"item": "nyagibits_bytes:high_strength_concrete"
+		}
+	],
+	"results": [
+		{
+            "count": 4,
+			"item": "immersiveengineering:concrete"
+		},
+        {
+            "chance": 0.5,
+            "count": 8,
+            "item": "immersiveengineering:concrete"
+        }
+	],
+	"processingTime": 800
+}

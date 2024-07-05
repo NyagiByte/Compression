@@ -1,0 +1,17 @@
+{"type":"immersiveengineering:arc_furnace",
+    "additives":[
+        {
+            "item":"ae2:quartz_glass"
+        }
+    ],
+            "energy":102400,
+            "input":{
+                "base_ingredient":{
+                    "item":"nyagibits_bytes:flux_mixture"
+                    },"count":12},
+                    "results":[
+                        {
+                        "count":1,
+                        "item":"nyagibits_bytes:annealed_glass"
+                        }],
+                            "time":100}

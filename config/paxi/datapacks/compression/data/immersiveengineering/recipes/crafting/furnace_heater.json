@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:sheetmetal_steel"},
+      "B": {"item":"minecraft:iron_bars"},
+      "C": {"item":"nyagibits_bytes:high_temperature_heat_exchanger"},
+      "D": {"item":"nyagibits_bytes:steel_casing"},
+      "E": {"item":"immersiveengineering:wirecoil_copper"}
+    },
+    "pattern": [
+      "ABA",
+      "CDE",
+      "ABA"
+    ],
+    "result": {
+        "item": "immersiveengineering:furnace_heater"
+    }
+  }

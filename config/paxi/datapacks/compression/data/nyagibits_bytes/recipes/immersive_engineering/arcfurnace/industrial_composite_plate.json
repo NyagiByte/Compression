@@ -1,0 +1,26 @@
+{"type":"immersiveengineering:arc_furnace",
+    "additives":[
+        {
+            "item":"botania:manasteel_ingot"
+        },
+        {
+            "item":"nyagibits_bytes:basic_composite_plate"
+        },
+        {
+            "item":"nyagibits_bytes:steel_high_carbon_1080"
+        },
+        {
+            "item":"nyagibits_bytes:steel_high_carbon_15n20"
+        }
+    ],
+            "energy":51200,
+            "input":{
+                "base_ingredient":{
+                    "item":"nyagibits_bytes:flux_mixture"
+                    },"count":16},
+                    "results":[
+                        {
+                        "count":1,
+                        "item":"nyagibits_bytes:industrial_composite_plate"
+                        }],
+                            "time":100}

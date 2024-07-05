@@ -1,0 +1,28 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "minecraft:copper_ingot"},
+    "loops": 4,
+    "results": [
+      {
+        "count": 1,
+        "item": "immersiveengineering:plate_copper"
+    }
+    ],
+    "sequence": [
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "minecraft:copper_ingot"
+          }
+        ],
+        "processingTime": 60,
+        "results": [
+          {
+            "item": "immersiveengineering:plate_copper"
+          }  
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "minecraft:copper_ingot"}
+  }

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:storage_steel"},
+      "B": {"item":"immersiveengineering:slab_treated_wood_horizontal"},
+      "C": {"item":"immersiveengineering:craftingtable"},
+      "D": {"item":"immersiveengineering:treated_fence"}
+    },
+    "pattern": [
+      "ABB",
+      "C D"
+    ],
+    "result": {
+        "item": "immersiveengineering:workbench"
+    }
+  }

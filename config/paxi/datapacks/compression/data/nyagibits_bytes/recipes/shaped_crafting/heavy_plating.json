@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:steel_damascus"},
+      "B": {"item":"nyagibits_bytes:ceramic"},
+      "C": {"item":"nyagibits_bytes:tempered_glass"},
+      "D": {"item":"nyagibits_bytes:industrial_composite_plate"}
+    },
+    "pattern": [
+      "AB ",
+      "CDC",
+      " BA"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:heavy_plating"
+    }
+  }

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:hempcrete"},
+      "B": {"item":"immersiveengineering:steel_scaffolding_standard"},
+      "C": {"item":"immersiveengineering:blastbrick"}
+    },
+    "pattern": [
+      "ABA",
+      "BCB",
+      "ABA"
+    ],
+    "result": {
+        "item": "immersiveengineering:blastbrick_reinforced"
+    }
+  }

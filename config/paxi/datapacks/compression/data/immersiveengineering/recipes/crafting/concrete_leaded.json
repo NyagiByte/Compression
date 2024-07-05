@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:heavy_plating"},
+      "B": {"item":"immersiveengineering:sheetmetal_lead"},
+      "C": {"item":"immersiveengineering:slab_sheetmetal_lead"},
+      "D": {"item":"immersiveengineering:concrete"}
+    },
+    "pattern": [
+      "ABC",
+      "BDB",
+      "CBA"
+    ],
+    "result": {
+        "item": "immersiveengineering:concrete_leaded"
+    }
+  }
