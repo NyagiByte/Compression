@@ -1558,7 +1558,7 @@
 			}]
 			title: "Oh wow that gets so bright- *bang*"
 			x: 10.5d
-			y: 7.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["004C5BBDCDBA33BA"]
@@ -1917,7 +1917,10 @@
 			y: 11.0d
 		}
 		{
-			dependencies: ["57C915CC52E428B6"]
+			dependencies: [
+				"66B145565EE4836D"
+				"4A385D5A92592D0A"
+			]
 			description: ["Taking a sample of ground lets you determin which harder to access materials are present, allowing for less guesswork in excavator installations"]
 			id: "76CD51F5EE2F47AC"
 			rewards: [{
@@ -2074,6 +2077,7 @@
 			dependencies: [
 				"76CD51F5EE2F47AC"
 				"0096F28CB0BC9933"
+				"66B145565EE4836D"
 			]
 			id: "7175C712B2A94D90"
 			rewards: [{
@@ -2388,6 +2392,41 @@
 			title: "Do not bring this into a shower"
 			x: -1.5d
 			y: -4.5d
+		}
+		{
+			dependencies: ["57C915CC52E428B6"]
+			description: ["With that new fuel hungry generator, you may want to consider cracking &bcrude oil&r into new products. You will also get some &elubricant&r as a side product which will prove to be very useful"]
+			id: "66B145565EE4836D"
+			rewards: [{
+				id: "29CE36491BDE7CB1"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "426B8E9C67057A99"
+					item: "immersivepetroleum:lubricant_bucket"
+					type: "item"
+				}
+				{
+					id: "04E7DAB8AC9AB9CC"
+					item: "immersivepetroleum:naphtha_bucket"
+					type: "item"
+				}
+				{
+					id: "4B0538C0E5850A5D"
+					item: "immersivepetroleum:kerosene_bucket"
+					type: "item"
+				}
+				{
+					id: "24747C06FEEE7317"
+					item: "immersivepetroleum:diesel_sulfur_bucket"
+					type: "item"
+				}
+			]
+			title: "Lube! Hey where did your pants go"
+			x: 10.5d
+			y: 7.0d
 		}
 	]
 	subtitle: ["Machines greased with mana"]
