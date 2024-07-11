@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:connector_lv"},
+      "B": {"item":"immersiveengineering:connector_mv"},
+      "C": {"item":"immersiveengineering:component_electronic"},
+      "D": {"item":"immersiveengineering:coil_mv"},
+      "E": {"item":"immersiveengineering:sheetmetal_steel"}
+    },
+    "pattern": [
+      "AB ",
+      "CD ",
+      "EE "
+    ],
+    "result": {
+        "item": "immersiveengineering:transformer"
+    }
+  }

@@ -382,10 +382,7 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:turret_chem'});
         e.remove({output: 'immersiveengineering:turret_gun'});
         e.remove({output: 'immersiveengineering:cloche'});
-        e.remove({output: 'immersiveengineering:steel_fence'});
         e.remove({output: 'immersiveengineering:alu_fence'});
-        e.remove({output: 'immersiveengineering:transformer'});
-        e.remove({output: 'immersiveengineering:transformer_hv'});
         e.remove({output: 'immersiveengineering:conveyor_basic'});
         e.remove({output: 'immersiveengineering:conveyor_redstone'});
         e.remove({output: 'immersiveengineering:conveyor_dropper'});

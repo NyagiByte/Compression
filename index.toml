@@ -1373,6 +1373,10 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/craf
 hash = "802b281651554a619957acc09b3e54e393e5b47e458ad785b2c38d4e640fe6d3"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/steel_fence.json"
+hash = "823bfec776928c663ffd48776f5da238a0092a291de50d8b391ffc9e446895b7"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/steel_scaffolding_standard.json"
 hash = "ac53dc377c64574d9797e2c2e5ac6e30a9985f843c787b78b9c25c35465865e8"
 
@@ -1395,6 +1399,14 @@ hash = "4bcfc9dc838a62f8e75dcbb4bc634032fae4b38d4a1e4e300873aea4e872b36a"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/toolupgrade_drill_lube.json"
 hash = "b6617a3b68e8ff7a787bf4ca2619a238a7e7fa00ae7db22200e632c0a98eba0e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/transformer.json"
+hash = "61177f199eebd9f34c3934d995b762c4e266288457fdd158946e5d1b2a1598a0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/transformer_hv.json"
+hash = "1c1db75ed769a9b4558d824d015831e07295fe5925df6c05a2c31dbaaf0ed3dc"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/treated_wood_horizontal.json"
@@ -4290,7 +4302,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "5aff00ac99108179693b0a6be6e2a5437e327ee658af9e4f66d3ebf2450107c5"
+hash = "b907d40d8cb0cf6f91bc4ebbc9e7af279fc5632aa86e4c578f1ec1bcf4a40996"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
