@@ -2428,6 +2428,24 @@
 			x: 10.5d
 			y: 7.0d
 		}
+		{
+			dependencies: ["66B145565EE4836D"]
+			description: ["&bPumpjacks, Excavators,&r and &b"]
+			id: "568F5209A858B9A6"
+			rewards: [{
+				id: "6469156773AC2C5B"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2B860BA335EDAD7B"
+				item: "immersivepetroleum:auto_lubricator"
+				type: "item"
+			}]
+			title: "Replace Oil Every 5000 Recipes"
+			x: 10.0d
+			y: 8.0d
+		}
 	]
 	subtitle: ["Machines greased with mana"]
 	title: " &6Tier 1&b - Magitech Revolution"
