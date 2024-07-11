@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:slab_sheetmetal_colored_red"},
+      "B": {"item":"create:fluid_pipe"},
+      "C": {"item":"pneumaticcraft:heat_sink"},
+      "D": {"item":"immersiveengineering:generator"},
+      "E": {"item":"immersiveengineering:capacitor_lv"},
+      "F": {"item":"immersiveengineering:steel_scaffolding_standard"},
+      "G": {"item":"immersiveengineering:sheetmetal_steel"}
+    },
+    "pattern": [
+      "ABA",
+      "CDE",
+      "FGF"
+    ],
+    "result": {
+        "item": "immersivepetroleum:gas_generator"
+    }
+  }

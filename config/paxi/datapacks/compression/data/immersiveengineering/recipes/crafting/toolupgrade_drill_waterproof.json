@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"create:smart_fluid_pipe"},
+      "B": {"item":"immersiveengineering:slab_sheetmetal_colored_blue"},
+      "C": {"item":"nyagibits_bytes:steel_damascus"},
+      "D": {"item":"immersiveengineering:fluid_placer"}
+    },
+    "pattern": [
+      "AB ",
+      "BCB",
+      " BD"
+    ],
+    "result": {
+        "item": "immersiveengineering:toolupgrade_drill_waterproof"
+    }
+  }

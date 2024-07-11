@@ -309,14 +309,12 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:labellia'});
     //Immersive Engineering
         e.remove({output: 'immersiveengineering:gunpart_barrel'});
-        e.remove({output: 'immersiveengineering:wooden_grip'});
         e.remove({output: 'immersiveengineering:gunpart_drum'});
         e.remove({output: 'immersiveengineering:gunpart_hammer'});
         e.remove({output: 'immersiveengineering:circuit_backplate'});
         e.remove({output: 'immersiveengineering:plate_duroplast'});
         e.remove({output: 'immersiveengineering:empty_casing'});
         e.remove({output: 'immersiveengineering:empty_shell'});
-        e.remove({output: 'immersiveengineering:toolbox'});
         e.remove({output: 'immersiveengineering:drill'});
         e.remove({output: 'immersiveengineering:drillhead_steel'});
         e.remove({output: 'immersiveengineering:drillhead_iron'});
@@ -324,7 +322,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:sawblade'});
         e.remove({output: 'immersiveengineering:rockcutter'});
         e.remove({output: 'immersiveengineering:grindingdisk'});
-        e.remove({output: 'immersiveengineering:survey_tools'});
         e.remove({output: 'immersiveengineering:glider'});
         e.remove({output: 'immersiveengineering:armor_steel_head'});
         e.remove({output: 'immersiveengineering:armor_steel_chest'});
@@ -332,7 +329,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:armor_steel_feet'});
         e.remove({output: 'immersiveengineering:revolver'});
         e.remove({output: 'immersiveengineering:speedloader'});
-        e.remove({output: 'immersiveengineering:chemthrower'});
         e.remove({output: 'immersiveengineering:railgun'});
         e.remove({output: 'immersiveengineering:casull'});
         e.remove({output: 'immersiveengineering:armor_piercing'});
@@ -351,7 +347,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:fluorescent_tube'});
         e.remove({output: 'immersiveengineering:powerpack'});
         e.remove({output: 'immersiveengineering:shield'});
-        e.remove({output: 'immersiveengineering:toolupgrade_drill_waterproof'});
         e.remove({output: 'immersiveengineering:toolupgrade_drill_damage'});
         e.remove({output: 'immersiveengineering:toolupgrade_drill_fortune'});
         e.remove({output: 'immersiveengineering:toolupgrade_drill_capacity'});
@@ -376,7 +371,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:logic_unit'});
         e.remove({output: 'immersiveengineering:razor_wire'});
         e.remove({output: 'immersiveengineering:metal_barrel'});
-        e.remove({output: 'immersiveengineering:fluid_placer'});
         e.remove({output: 'immersiveengineering:charging_station'});
         e.remove({output: 'immersiveengineering:tesla_coil'});
         e.remove({output: 'immersiveengineering:turret_chem'});

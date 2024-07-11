@@ -1313,6 +1313,10 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/craf
 hash = "efe52f34968ff96c1a132c69e4ca60e3c53a99a82051241eb39acf1d32180f14"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/fluid_placer.json"
+hash = "30cd724403bed23f37e6350856212ae64507075d0e472304c248b5b0fb738634"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/furnace_heater.json"
 hash = "6d6cb699d354446f76457d70855792a42cd6587faa0ddf879ae5f47e0919cc66"
 
@@ -1401,8 +1405,16 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/craf
 hash = "4bcfc9dc838a62f8e75dcbb4bc634032fae4b38d4a1e4e300873aea4e872b36a"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/toolbox.json"
+hash = "79dc13790406a6912e5f6c14756d4f0900c7102c5c39a089ba9fbf48dfbdb593"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/toolupgrade_drill_lube.json"
 hash = "b6617a3b68e8ff7a787bf4ca2619a238a7e7fa00ae7db22200e632c0a98eba0e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/toolupgrade_drill_waterproof.json"
+hash = "2dd871efcb6478cc1112d35c5a28750ac220bcb2c7f84363e2b347320e7a9b8a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/transformer.json"
@@ -1473,6 +1485,10 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/craf
 hash = "27f5087bac630cfe9bfc106e08550d07c3e4546ccdeca5f32c7eeab282b90d77"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/wooden_grip.json"
+hash = "7bfbd4c38805b035e824beb38aba642a26b8a51c3d4f7efd2e6906cad6127ae9"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/workbench.json"
 hash = "2e1c338d7acf4097ec91e026b44670a8e78e790e7633ac8546ad2e7847505322"
 
@@ -1485,12 +1501,24 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crus
 hash = "67e3577cebf78db57bfd280ccb4036c62927eee5b6a6bc307e29c55f04be14c0"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/auto_lubricator.json"
+hash = "30b5e2fe5304f5259c1b81d62af40c8b9ded9edd7f1656e43b69f5e7acfc7b85"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/blastfurnace/fuel_petcoke.json"
 hash = "5e2fa76382a5b6c124d4b3a2d983d705926fa148a33f9447a7133db043398399"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/blastfurnace/fuel_petcoke_block.json"
 hash = "b80a949950d84b8ffbfbc92d334a959e8c6a41ac14b06e11b6a8f29e0b382584"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/gas_generator.json"
+hash = "08d28a0f25b6fff6bf2fe948da52cd9963322af218807bd945a43f1efdde4a09"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/seismic_survey_tool.json"
+hash = "949458015e1503dc5c2788e5947fcca217153d81e1c805cc18d2819cf4ace480"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/mekanism/recipes/creatified/charcoal_dust.json"
@@ -4306,7 +4334,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "a1ada5b8167558e57fc4dbe86225cf6a9ac1c05fbf9a7b0723a889983807eadc"
+hash = "c90a27d20527e4e9340ad2ddea4f2986a3640ed406ee75aa9251b5a8c3f1c43a"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"

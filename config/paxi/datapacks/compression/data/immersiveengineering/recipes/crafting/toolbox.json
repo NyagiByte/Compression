@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:treated_wood_packaged"},
+      "B": {"item":"immersiveengineering:stick_steel"},
+      "C": {"item":"create:brass_bars"},
+      "D": {"item":"quark:bonded_leather"}
+    },
+    "pattern": [
+      "ABA",
+      "CDC",
+      "AAA"
+    ],
+    "result": {
+        "item": "immersiveengineering:toolbox"
+    }
+  }

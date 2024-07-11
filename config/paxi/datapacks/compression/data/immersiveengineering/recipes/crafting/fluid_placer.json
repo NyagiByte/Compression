@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:sheetmetal_iron"},
+      "B": {"item":"immersiveengineering:alu_scaffolding_standard"},
+      "C": {"item":"create:smart_fluid_pipe"}
+    },
+    "pattern": [
+      "ABA",
+      "BCB",
+      "ABA"
+    ],
+    "result": {
+        "item": "immersiveengineering:fluid_placer"
+    }
+  }

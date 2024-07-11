@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"ae2:quartz_glass"},
+      "B": {"item":"immersiveengineering:fluid_pump"},
+      "C": {"item":"ae2:sky_stone_tank"},
+      "D": {"item":"immersiveengineering:chemthrower"},
+      "E": {"item":"immersiveengineering:treated_scaffold"}
+    },
+    "pattern": [
+      "ABA",
+      "ACA",
+      "DEE"
+    ],
+    "result": {
+        "item": "immersivepetroleum:auto_lubricator"
+    }
+  }
