@@ -1693,6 +1693,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/co
 hash = "ab3cde9e2bb13efee17f247a975bcec7ef9a4cf49077f7fe2c623438952c3151"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/crushing/raw_basalt_renewable.json"
+hash = "665f74183d91d0248114ef761360da5f0d9c17911a2a2675c4637dd3708c73e7"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mechanical_crafting/burette.json"
 hash = "f308d21eeed160912fd520f604f151c0cf9baec94ead3e75c1803e3a1bc5610a"
 
