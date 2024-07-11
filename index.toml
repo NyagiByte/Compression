@@ -1237,6 +1237,18 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/craf
 hash = "05789fe4d98daefe60e433382871e80e3b4f99721ee2a1bc2832a1376fec2e83"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/coil_hv.json"
+hash = "38d588e6786f6cbe08e7b94b46059baaddd8bcbd481c66e323fdf6d8c7065316"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/coil_lv.json"
+hash = "9f08e65efb0ba4e8c0f068bec2d151a5818dceb45542381dd721cd5af29ca043"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/coil_mv.json"
+hash = "b27a5fc4ef290267dec021964cfa37205227cff6dbaf03810273f93d7247b2a9"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/cokebrick.json"
 hash = "6e4dbb80e0ec92c717d23ce35254f69a72742b1f965b482ceeb361c5cea1689e"
 
@@ -1291,6 +1303,10 @@ hash = "3917f2b6a58ee9d7210620a302bcdb5bd1d21a194342c13ac9dda2509418f819"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/ersatz_leather.json"
 hash = "5303116357a0d69a22923532d6e85f8dfafe29a506d3128414fef2c6bc77ddef"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/floodlight.json"
+hash = "efe52f34968ff96c1a132c69e4ca60e3c53a99a82051241eb39acf1d32180f14"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/furnace_heater.json"
@@ -4274,7 +4290,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "9ec3a06f758e9ffaff87bbb7a41c0d0bef85d12ef121d2c8e5644dbca6929ef8"
+hash = "5aff00ac99108179693b0a6be6e2a5437e327ee658af9e4f66d3ebf2450107c5"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"

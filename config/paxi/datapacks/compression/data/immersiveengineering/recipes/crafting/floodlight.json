@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:sheetmetal_steel"},
+      "B": {"item":"botania:lens_light"},
+      "C": {"item":"immersiveengineering:light_bulb"},
+      "D": {"item":"nyagibits_bytes:low_voltage_capacitor"},
+      "E": {"item":"create:turntable"}
+    },
+    "pattern": [
+      "AAA",
+      "BCD",
+      "AEA"
+    ],
+    "result": {
+        "item": "immersiveengineering:floodlight"
+    }
+  }

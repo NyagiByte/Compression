@@ -1,0 +1,22 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {
+        "item": "immersiveengineering:wirecoil_copper"
+      },
+      "B": {
+        "item": "create:shaft"
+      }
+    },
+    "pattern": [
+      "AAAAAAA",
+      "AAABAAA",
+      "AAABAAA",
+      "AAABAAA",
+      "AAAAAAA"
+    ],
+    "result": {
+      "item": "immersiveengineering:coil_lv"
+    }
+  }
