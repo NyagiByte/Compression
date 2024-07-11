@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:stick_steel"},
+      "B": {"item":"farmersdelight:canvas_rug"},
+      "C": {"item":"immersiveengineering:component_iron"},
+      "D": {"item":"nyagibits_bytes:v_belt"}
+    },
+    "pattern": [
+      "ABA",
+      "CDC"
+    ],
+    "result": {
+        "count": 2,
+        "item": "immersiveengineering:conveyor_basic"
+    }
+  }

@@ -1289,6 +1289,10 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/craf
 hash = "fc0a0bf8295ada92319a3e8592da205c9005bdb02650e3990c66d5238b7d1fb1"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/conveyor_basic.json"
+hash = "0e1a787d35c506c3adea2b401938be69e692c87cada0c71e982bf9b65d1c2064"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/crate.json"
 hash = "7b4b720438f7e5f918166665706afda2dc3238efa9cb2b9dc2330ed2b8063d52"
 
@@ -4302,7 +4306,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "b907d40d8cb0cf6f91bc4ebbc9e7af279fc5632aa86e4c578f1ec1bcf4a40996"
+hash = "a1ada5b8167558e57fc4dbe86225cf6a9ac1c05fbf9a7b0723a889983807eadc"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
