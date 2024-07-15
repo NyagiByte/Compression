@@ -97,6 +97,22 @@ file = "config/ae2/common.json"
 hash = "c6feb69f61dc6288748d3d5e4fea334558a5db4b4f2d78a3bbdbd07e52cdeb9c"
 
 [[files]]
+file = "config/almostunified/debug.json"
+hash = "4f1808d3941300cf6e2c53b5a37f2808a4d904e63597cd4e03a03d19e4762fef"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "153d252f0802b79517673c25c891c72b1e52566d7dac172832c6a83cfc224a90"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
+
+[[files]]
+file = "config/almostunified/unify.json"
+hash = "f4bcfa56a3f8eb3804962d8aa9bbe71b0eafc17028aca07aa034ea0cdd55cb55"
+
+[[files]]
 file = "config/botania-client.toml"
 hash = "b30e5c177cec07cda8f332ca645d40d3917fb3e13e0b2f51bf0fc393bf933d92"
 
@@ -1349,8 +1365,8 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/craf
 hash = "4a58e7b8779607fb9fd83ceb126cf4e2fbbf0a7df482bb3f6efe8b35790b7448"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/plate_copper_hammering.json"
-hash = "2ce76ed6b766ce90ba42ba8eb6a19db27c25fd8833ba96ea46203a019c0b1ff3"
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/plate_aluminum_hammering.json"
+hash = "34e0b9fc06717bad6c15809ca9844d989795b6f7a54b91d4213ac603c3dc9615"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/plate_steel_hammering.json"
@@ -2119,6 +2135,10 @@ hash = "d01755eb9b068da3d4552d28f3f045c0cb41acc039ec0c7e31f13d4ace6344dc"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/metal_press/manasteel_lattice.json"
 hash = "b9d06ac933cb6aefaecd654993440c57b12147691980bd6a776a1fb0345a9fe2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/metal_press/tungsten_wire.json"
+hash = "9dc9b2675103264b1af997c8122045244e6bc3ce572b0b4ea939c0496045967b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier0/bauxite_processing/bauxite_blasting_zero.json"
@@ -3678,7 +3698,7 @@ hash = "8cc138cc6fca762bdf76cbe9e88959da0e770f0bb4468c6db0bc790325fc028f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "a0fd3cbae87a17bac9d4ee68a767cbe34a78ae1275ed4b2b38f3a7a0bd8d6a75"
+hash = "83c9ff1401c352f4339104cb39645bd122bebc2887a392fb70958f7fc0fd14e5"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -4338,7 +4358,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "c90a27d20527e4e9340ad2ddea4f2986a3640ed406ee75aa9251b5a8c3f1c43a"
+hash = "427866c706fc7d2bd15e566f32dd85b64552699fc900b59997d2746dda591227"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
@@ -4347,6 +4367,10 @@ hash = "fb521c9f286201a786ded3f3a373cfa926b5ef010865bd04c6c0d8faf69bbe9f"
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes_ores.js"
 hash = "1b138d54d15800ccd1d160a2ac2c99951e8939bb7d234742a20be70b19fb8b03"
+
+[[files]]
+file = "kubejs/server_scripts/vintageimprovement_removals.js"
+hash = "f85c41ab7ee100ada7b37c1aca83686d442dda66046274c6efb5d3b8ad6e98ee"
 
 [[files]]
 file = "kubejs/startup_scripts/block_modify.js"
