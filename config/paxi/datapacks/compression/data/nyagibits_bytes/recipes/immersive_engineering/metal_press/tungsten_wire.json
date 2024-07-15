@@ -1,0 +1,10 @@
+{"type":"immersiveengineering:metal_press",
+
+"energy":2400,"input":{"item":"chemlib:tungsten_plate"},
+
+"mold":"immersiveengineering:mold_wire",
+
+"result":{
+    "count": 2,
+    "item":"nyagibits_bytes:tungsten_wire"
+    }}
