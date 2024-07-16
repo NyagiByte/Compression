@@ -94,7 +94,34 @@ Ponder.registry((e) => {
                 scene.world.setBlock([2,1,3], "minecraft:stone",true);
                 scene.world.showSection([2,1,3], Facing.down);
                 scene.idle(5);
+                scene.text(60, "Now we wait for a short period of time and the stone should be changed into livingrock", [2,1.5,2]);
+                scene.idle(70);
+                scene.particles.block(5, "botania:livingrock", [2.5,1.5,2.5]).density(5);
+                scene.world.modifyBlock([2,1,2], () => Block.id("botania:livingrock"), true);
+                scene.idle(5);
+                scene.particles.block(5, "botania:livingrock", [3.5,1.5,2.5]).density(5);
+                scene.world.modifyBlock([3,1,2], () => Block.id("botania:livingrock"), true);
+                scene.idle(5);
+                scene.particles.block(5, "botania:livingrock", [4.5,1.5,2.5]).density(5);
+                scene.world.modifyBlock([4,1,2], () => Block.id("botania:livingrock"), true);
+                scene.idle(5);
+                scene.particles.block(5, "botania:livingrock", [4.5,1.5,3.5]).density(5);
+                scene.world.modifyBlock([4,1,3], () => Block.id("botania:livingrock"), true);
+                scene.idle(5);
+                scene.particles.block(5, "botania:livingrock", [4.5,1.5,4.5]).density(5);
+                scene.world.modifyBlock([4,1,4], () => Block.id("botania:livingrock"), true);
+                scene.idle(5);
+                scene.particles.block(5, "botania:livingrock", [3.5,1.5,4.5]).density(5);
+                scene.world.modifyBlock([3,1,4], () => Block.id("botania:livingrock"), true);
+                scene.idle(5);
+                scene.particles.block(5, "botania:livingrock", [2.5,1.5,4.5]).density(5);
+                scene.world.modifyBlock([2,1,4], () => Block.id("botania:livingrock"), true);
+                scene.idle(5);
+                scene.particles.block(5, "botania:livingrock", [2.5,1.5,3.5]).density(5);
+                scene.world.modifyBlock([2,1,3], () => Block.id("botania:livingrock"), true);
+                scene.idle(5);
                 scene.markAsFinished()
             });
+    //Endoflame
 });
 //------------------------------------------------------------------
