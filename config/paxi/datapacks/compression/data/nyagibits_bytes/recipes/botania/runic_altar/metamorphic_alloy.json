@@ -1,0 +1,40 @@
+{
+  "type": "botania:runic_altar",
+  "ingredients": [
+    {
+      "item": "create:andesite_alloy_block"
+    },
+    {
+      "item": "nyagibits_bytes:livisite_alloy"
+    },
+    {
+      "item": "botania:metamorphic_forest_stone"
+    },
+    {
+      "item": "botania:metamorphic_plains_stone"
+    },
+    {
+      "item": "botania:metamorphic_mountain_stone"
+    },
+    {
+      "item": "botania:metamorphic_fungal_stone"
+    },
+    {
+      "item": "botania:metamorphic_swamp_stone"
+    },
+    {
+      "item": "botania:metamorphic_desert_stone"
+    },
+    {
+      "item": "botania:metamorphic_taiga_stone"
+    },
+    {
+      "item": "botania:metamorphic_mesa_stone"
+    }
+  ],
+  "mana": 1000,
+  "output": {
+    "count": 2,
+    "item": "nyagibits_bytes:metamorphic_alloy"
+  }
+}

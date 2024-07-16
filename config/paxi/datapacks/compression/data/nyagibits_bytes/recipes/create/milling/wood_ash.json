@@ -1,0 +1,19 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "architects_palette:charcoal_block"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "count": 4,
+        "item": "minecraft:charcoal"
+      },
+      {
+        "count": 8,
+        "item": "nyagibits_bytes:wood_ash"
+      }
+    ]
+  }

@@ -1,0 +1,34 @@
+{
+    "type": "alchemistry:dissolver",
+    "group": "alchemistry:dissolver",
+    "input": {
+      "count": 1,
+      "ingredient": {
+        "item": "botania:metamorphic_plains_stone"
+      }
+    },
+    "output": {
+      "groups": [
+        {
+          "probability": 80.0,
+          "results": [
+            {
+              "count": 2,
+              "item": "chemlib:silicon_dioxide"
+            }
+          ]
+        },
+        {
+          "probability": 20.0,
+          "results": [
+            {
+              "count": 1,
+              "item": "chemlib:magnesium"
+            }
+          ]
+        }
+      ],
+      "rolls": 1,
+      "weighted": false
+    }
+  }

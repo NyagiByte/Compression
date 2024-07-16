@@ -1,0 +1,33 @@
+{
+    "type": "alchemistry:dissolver",
+    "group": "alchemistry:dissolver",
+    "input": {
+      "count": 1,
+      "ingredient": {
+        "item": "nyagibits_bytes:raw_electrum"
+      }
+    },
+    "output": {
+      "groups": [
+        {
+          "probability": 100.0,
+          "results": [
+            {
+              "count": 24,
+              "item": "chemlib:gold"
+            },
+            {
+              "count": 24,
+              "item": "chemlib:silver"
+            },
+            {
+              "count": 1,
+              "item": "chemlib:palladium"
+            }
+          ]
+        }
+      ],
+      "rolls": 1,
+      "weighted": false
+    }
+  }

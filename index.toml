@@ -653,6 +653,38 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver.jso
 hash = "900dbd92f4ab864095c72bc3128c6dd619b7fab5351a883972953a1470da0932"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/botania_stones/cataclasite.json"
+hash = "b89c11e5e855d6b5e97d7c5332ea12b8d50c843fd69775c21d48e402d4effa73"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/botania_stones/fuchsite.json"
+hash = "0e9c4bb43fddd9f35f4ad81c2594c200ff71f8de74b90288e3303d87825964c9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/botania_stones/gneiss.json"
+hash = "15a862c6ea5a1268b117817739fc16ae23f860bb48b30d1bf12bb571a6522109"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/botania_stones/lunite.json"
+hash = "bcb13a249e697a4cc140bf142b21fe28a598b5098549fc59cb059e17d4cbd52f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/botania_stones/mycelite.json"
+hash = "96a63040c2313214962e8f46d309e4b5971f8a4e32577e40f8d6d0269064fb48"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/botania_stones/rosy_talc.json"
+hash = "1cf54e51e357153294227d84637c25fa31318b97d86399efdfc282fcfafa98fb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/botania_stones/solite.json"
+hash = "abf1ceb49c59bd3087c283a900aa0ab36a380b321bbd515aaac82db6a76e4ce2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/botania_stones/talc.json"
+hash = "b45d601a518e7cd2290da104cc87652d94b4e1fcb279c35b1541ca7d879b8b63"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/cellulose.json"
 hash = "e55b8199ee8bffe45130b1a41363fd1101584eacf58d4e54edf26aa0fabe85bb"
 
@@ -677,8 +709,24 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/oxi
 hash = "9381ae3a43f1f19ab72b3f1194b87ce2afd132d0eef8b11861b7e2c6d3798a99"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/palladium_from_raw_electrum.json"
+hash = "8dd2dbeafb75381a1c45ee94a4208948a7c52e1831c85e6b378f317481c16c7a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/palladium_from_raw_kustelite_electrum.json"
+hash = "ddd2af068358a40ec1fb45bc9958ff03f173ee05182999cababe38c538dddd1f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/platinum_from_native_gold.json"
+hash = "faebd642153c14f387cbf540a1286719a4b9f2540385a7b96a2474fc9d8b1974"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/salt.json"
 hash = "2ba1a78f4cf4ff367069fd39882f114c0799597a326ea83e0b4ad1744cd741d3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sodium_hydroxide.json"
+hash = "e5e39caa2f2475b3dd1429b89c0bf8b65bacdaef8b2f48fe9c8c52ada6f1b7b9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sulfur_trioxide.json"
@@ -1653,6 +1701,14 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/r
 hash = "e7bea22f22a6bbcc37ab2690e3e15a90964fee78a18230538c97e18af9589251"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/runic_altar/metamorphic_alloy.json"
+hash = "c1b6263e86a67a519508be9e7bc59448142ef81e61d9f4b79a21d8bb617a31d5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/runic_altar/ore_extraction_plate.json"
+hash = "9a0b6cdb559f5d4b6a3c0fffe5f03e5d41adaeb54ac18d86d3cb8a4c92102dc7"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/agar_gel.json"
 hash = "6b2098486bc41347820b99b029af86b09635ac6b42fb88a32ae11bc6280010ad"
 
@@ -1691,6 +1747,10 @@ hash = "424190faed8cdb6e8fa09c5f1726ff7d91af3d1ac042b1bd6149588b9a76b538"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/flux_mixture.json"
 hash = "2ef5954bf09c88145dc8c73dd0842adcc17005c05771e945c3eef126c507e64d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/flux_mixture_talc.json"
+hash = "c80d0f168302dcb683a62d94261602078d24a6340da303af11757a5611ab4067"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/immitation_ink.json"
@@ -1767,6 +1827,10 @@ hash = "030a45f1306b0d035f16fc38eb8558753f992bff09f66a68680e43cd25c7efaf"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/torn_wool_ball.json"
 hash = "d58fde63485e3c92c4775130b7d64edeb40c18ff16325fed033ba4a40b94f408"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/wood_ash.json"
+hash = "b0b81c722ef1da2226d36728128978a918c4edd9a23ee6acc92f45f0fd340e3f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/15n20_high_carbon_steel.json"
@@ -3702,7 +3766,7 @@ hash = "8cc138cc6fca762bdf76cbe9e88959da0e770f0bb4468c6db0bc790325fc028f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "83c9ff1401c352f4339104cb39645bd122bebc2887a392fb70958f7fc0fd14e5"
+hash = "7a60559b46a0573dd96cbf9aa18a403b744e42f64402b492ea91598102413859"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
