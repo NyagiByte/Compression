@@ -29,7 +29,7 @@
 				item: "nyagibits_bytes:ae2_schematic"
 				type: "item"
 			}]
-			title: "Applied Energistics 2"
+			title: "&bApplied Energistics 2"
 			x: 0.5d
 			y: 13.0d
 		}
@@ -263,7 +263,7 @@
 				item: "nyagibits_bytes:alchemistry_schematic"
 				type: "item"
 			}]
-			title: "Alchemistry"
+			title: "&bAlchemistry"
 			x: -2.0d
 			y: 13.0d
 		}
@@ -287,7 +287,7 @@
 				item: "nyagibits_bytes:botania_schematic"
 				type: "item"
 			}]
-			title: "Botania"
+			title: "&bBotania"
 			x: 3.0d
 			y: 13.0d
 		}
@@ -317,7 +317,7 @@
 				item: "nyagibits_bytes:immersive_engineering_schematic"
 				type: "item"
 			}]
-			title: "Immersive Engineering"
+			title: "&bImmersive Engineering"
 			x: 0.5d
 			y: 15.5d
 		}
@@ -623,7 +623,7 @@
 				item: "create:deployer"
 				type: "item"
 			}]
-			title: "Look what I can do! *Points*"
+			title: "&bLook what I can do! *Points*"
 			x: 0.5006802721088732d
 			y: 4.592006802721102d
 		}
@@ -1143,7 +1143,7 @@
 				item: "botania:apothecary_default"
 				type: "item"
 			}]
-			title: "The Start"
+			title: "&dThe Start"
 			x: 0.5051020408163183d
 			y: -9.1812925170068d
 		}

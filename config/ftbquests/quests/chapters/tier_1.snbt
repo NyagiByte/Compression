@@ -34,7 +34,7 @@
 				id: "673D2F83CF8DC78B"
 				type: "checkmark"
 			}]
-			title: "The End of the Tutorial"
+			title: "&6The End of the Tutorial"
 			x: 0.0d
 			y: 0.0d
 		}
@@ -53,7 +53,7 @@
 				item: "nyagibits_bytes:ae2_assembly"
 				type: "item"
 			}]
-			title: "Some Assembly Required"
+			title: "&dSome Assembly Required"
 			x: 0.0d
 			y: -1.5d
 		}
@@ -91,7 +91,7 @@
 					type: "item"
 				}
 			]
-			title: "Every Tech Mod has a Pile of Wood"
+			title: "&dEvery Tech Mod has a Pile of Wood"
 			x: -1.5d
 			y: 1.0d
 		}
@@ -109,7 +109,7 @@
 				item: "nyagibits_bytes:alchemistry_assembly"
 				type: "item"
 			}]
-			title: "Yeah You're On a List Now"
+			title: "&dYeah You're On a List Now"
 			x: 0.0d
 			y: 1.5d
 		}
@@ -131,7 +131,7 @@
 				item: "nyagibits_bytes:immersive_assembly"
 				type: "item"
 			}]
-			title: "Oh F- Thats so many items"
+			title: "&dOh F- Thats so many items"
 			x: 6.5d
 			y: 1.0d
 		}
@@ -209,7 +209,7 @@
 				item: "botania:manasteel_ingot"
 				type: "item"
 			}]
-			title: "Will This Stain My Hands?"
+			title: "&bWill This Stain My Hands?"
 			x: -4.5d
 			y: 2.5d
 		}
@@ -727,11 +727,11 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "022176A88BD2E3E2"
-				item: "ftbquests:missing_item"
+				id: "1868099A55549295"
+				item: "nyagibits_bytes:metamorphic_alloy"
 				type: "item"
 			}]
-			title: "Placeholder - Metamorphic Alloy"
+			title: "This isn't even my final form!"
 			x: -6.0d
 			y: 5.0d
 		}
@@ -1184,7 +1184,7 @@
 				item: "ae2:controller"
 				type: "item"
 			}]
-			title: "The heart and the brain"
+			title: "&bThe heart and the brain"
 			x: 0.0d
 			y: -6.0d
 		}
@@ -1316,11 +1316,11 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "79C9D28E4676942E"
-				item: "ftbquests:missing_item"
+				id: "583CFA084AB943FE"
+				item: "nyagibits_bytes:ore_extraction_plate"
 				type: "item"
 			}]
-			title: "Ore Extraction Plate"
+			title: "&dQuadrupling Ores Again"
 			x: 9.0d
 			y: 7.0d
 		}
