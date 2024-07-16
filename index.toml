@@ -965,6 +965,10 @@ file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/
 hash = "0b20e7759f3825951e161b457d22c30208461aa841e8ca53b015df7f34830fe2"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/basin_t1.json"
+hash = "bc774e03f55a0c80615b52f4c6ec216b91ec014e29149669de140f35e2bafe65"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/belt_connector.json"
 hash = "eec7243521ec08d769f9008880c3d85d2de5e7707fc6eab8486c8d9c16929db9"
 
@@ -1107,6 +1111,10 @@ hash = "65dc85d8ce37d622f7449f9439d9ac1140c09de30fa95141f8fcc4c9cb4964ab"
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/shaft.json"
 hash = "7ae534bb3a014199123cceddde85f43f1d03e8e81fde1e290ec5b6d4f5b4d90d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/shaft_t1.json"
+hash = "a5c69212aaaf6b69485cc2dca790463e1ff0e4a47246fd9ec26a0c3ab9916b2b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/steam_engine.json"
@@ -3545,6 +3553,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_cr
 hash = "82d32f78dcebff531fdb7d1b1329c8e7d6f899119e7b6d71e342efec6cb81b25"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/etched_living_wood_t1.json"
+hash = "10dde417251c2ed5a5d6428dbecf7c3ae4bc56f914d7e43e7a617a2981e1f3b4"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/heavy_plating.json"
 hash = "191f947365a8cd2005e7bd0159acfd643f6ac2a80187cdb93c1784770ccfcc81"
 
@@ -3763,6 +3775,50 @@ hash = "b70a08e3f756011b4580f4763468fe69d4cb1bfbc35623a5ba015cf8cc6c4260"
 [[files]]
 file = "config/paxi/datapacks/compression/data/thermal/recipes/saw_blade.json"
 hash = "8cc138cc6fca762bdf76cbe9e88959da0e770f0bb4468c6db0bc790325fc028f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/belt_grinder.json"
+hash = "ffe370adcfe660cdf5ab644ee0380c46981c8c1b30fd2e4f4e63de4152c388f7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/belt_grinder_t1.json"
+hash = "3b96570d08dd00da066520b14ef2668cd1d8df9b4801aa9ef3f220e8a39a0790"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/centrifuge.json"
+hash = "ec1834222e1b5822568aebee5f43b835f068e0c97d515c782a694f5ab80ff4d1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/curving_press.json"
+hash = "1ba0a5fdcc30b4d83be1e72ce9a5862dd0486870847fce07adefd3cae58492a0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/curving_press_t1.json"
+hash = "ff3ef587c7bd3e293bc2ee5144478606b9309a1696229f2816fc07f5ce63a8a3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/spring_coiling_machine.json"
+hash = "4cfad7fe696878245b9df7d129ae9ef5cbc32a711eca948a47cb3f65f6a580f1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/spring_coiling_machine_t1.json"
+hash = "7dce496a18dee64ad47f68766545056efc4910c3bae513c6fd26f42a7f820935"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/spring_coiling_machine_wheel.json"
+hash = "2d9a2b938676a7b98acc775f84161083ca5d0ec82ee8a50d934f3a763d844a47"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/vacuum_chamber.json"
+hash = "5db7391029b69d2e17074febad4378698c34b4dbb31ea48c71a802bf3ab2d3ab"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/mechanical_crafting/helve_hammer.json"
+hash = "118b7c8f8d6d41365cfb81f4dca9d7ebccb6aa0d72371d51b2d1552123c08a1e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/mechanical_crafting/lathe.json"
+hash = "36c7937a5b621a5623dbf6665b19d3a37f5a136b822d8d8c21a9f6123725df4a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"

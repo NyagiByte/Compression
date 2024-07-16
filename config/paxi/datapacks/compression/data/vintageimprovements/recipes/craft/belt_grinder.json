@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"vintageimprovements:grinder_belt"},
+      "B": {"item":"create:brass_casing"},
+      "C": {"item":"create:gearbox"}
+    },
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "result": {
+        "item": "vintageimprovements:belt_grinder"
+    }
+  }

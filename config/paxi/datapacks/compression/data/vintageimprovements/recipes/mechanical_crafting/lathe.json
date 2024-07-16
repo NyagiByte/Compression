@@ -1,0 +1,32 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {
+        "item": "create:precision_mechanism"
+      },
+      "B": {
+        "item": "vintageimprovements:steel_spring"
+      },
+      "C": {
+        "item": "nyagibits_bytes:metamorphic_alloy"
+      },
+      "D": {
+        "item": "create:shaft"
+      },
+      "E": {
+        "item": "nyagibits_bytes:steel_casing"
+      },
+      "F": {
+        "item": "nyagibits_bytes:block_of_15n20_high_carbon_steel"
+      }
+    },
+    "pattern": [
+      " ABC ",
+      "DEEFD",
+      "  BC "
+    ],
+    "result": {
+      "item": "vintageimprovements:lathe"
+    }
+  }

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"vintageimprovements:steel_spring"},
+      "B": {"item":"nyagibits_bytes:steel_casing"},
+      "C": {"item":"nyagibits_bytes:metamorphic_alloy"},
+      "D": {"item":"create:mechanical_pump"}
+    },
+    "pattern": [
+      "ABA",
+      "CDC"
+    ],
+    "result": {
+        "item": "vintageimprovements:vacuum_chamber"
+    }
+  }

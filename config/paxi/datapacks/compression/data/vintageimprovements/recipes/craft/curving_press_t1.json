@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"create:gearbox"},
+      "B": {"item":"vintageimprovements:steel_spring"},
+      "C": {"item":"nyagibits_bytes:steel_casing"}
+    },
+    "pattern": [
+      " A ",
+      "BCB"
+    ],
+    "result": {
+        "count": 2,
+        "item": "vintageimprovements:curving_press"
+    }
+  }

@@ -1,0 +1,29 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {
+        "item": "nyagibits_bytes:block_of_1080_high_carbon_steel"
+      },
+      "B": {
+        "item": "vintageimprovements:steel_spring"
+      },
+      "C": {
+        "item": "immersiveengineering:treated_wood_horizontal"
+      },
+      "D": {
+        "item": "nyagibits_bytes:steel_casing"
+      },
+      "E": {
+        "item": "create:gearbox"
+      }
+    },
+    "pattern": [
+      " A BB",
+      "ACCCD",
+      "AA  E"
+    ],
+    "result": {
+      "item": "vintageimprovements:helve_hammer"
+    }
+  }

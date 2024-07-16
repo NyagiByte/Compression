@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"nyagibits_bytes:metamorphic_alloy"}
+  },
+  "pattern": [
+    " A ",
+    " A "
+  ],
+  "result": {"count":64,"item": "create:shaft"}
+}

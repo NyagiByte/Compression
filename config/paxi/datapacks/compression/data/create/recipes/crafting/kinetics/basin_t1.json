@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"nyagibits_bytes:metamorphic_alloy"},
+    "B": {"item":"botania:livingrock_bricks"}
+  },
+  "pattern": [
+    "A A",
+    "ABA"
+  ],
+  "result": {"count":8, "item": "create:basin"}
+}
