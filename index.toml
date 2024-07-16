@@ -1109,6 +1109,10 @@ file = "config/paxi/datapacks/compression/data/farmersdelight/recipes/mixing/str
 hash = "c697c815e2dd313e2f9f45270da5678056616d678dd71601e84592cceb160643"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/fluids/ethanol.json"
+hash = "71923bdeb00b0539d230f0e3b31387c186fe94cdbb23ee52a65f29cb2d821280"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/arcfurnace/insulated_glass.txt"
 hash = "90e3369d1e66a94c5789a5f1237a9208a52e1d45381e37a24fc8e019b9ae654e"
 
@@ -3873,6 +3877,146 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/material/plate/extreme.png"
+hash = "bf3001889536b828f55fb815d1bcb05ccef54723c1e20d2ccbc73fbfd3986ed5"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/material/plate/thermoconducting.png"
+hash = "5a6339d88bd7fbc00840f52430584b7410188c851b1d4fb219c73e708617ddf1"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/bronze_plate_0.png"
+hash = "84ecf289520b6a0d2f7b4c9df2ef86c3cccbd57fb4e54d4c2375848c970f56f5"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/bronze_plate_1.png"
+hash = "84ecf289520b6a0d2f7b4c9df2ef86c3cccbd57fb4e54d4c2375848c970f56f5"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/bronze_plate_2.png"
+hash = "84ecf289520b6a0d2f7b4c9df2ef86c3cccbd57fb4e54d4c2375848c970f56f5"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/bronze_plate_3.png"
+hash = "84ecf289520b6a0d2f7b4c9df2ef86c3cccbd57fb4e54d4c2375848c970f56f5"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/constantan_plate_0.png"
+hash = "e3ee68f96463c0687a39d7031846ad56b1e155d1238a240e420dc793183427ba"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/constantan_plate_1.png"
+hash = "e3ee68f96463c0687a39d7031846ad56b1e155d1238a240e420dc793183427ba"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/constantan_plate_2.png"
+hash = "e3ee68f96463c0687a39d7031846ad56b1e155d1238a240e420dc793183427ba"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/constantan_plate_3.png"
+hash = "e3ee68f96463c0687a39d7031846ad56b1e155d1238a240e420dc793183427ba"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/electrum_plate_0.png"
+hash = "4c7e86b23a98e4971db2b0a98b89bd900e93b98bd9047c9aa1b86b9321c8bbef"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/electrum_plate_1.png"
+hash = "4c7e86b23a98e4971db2b0a98b89bd900e93b98bd9047c9aa1b86b9321c8bbef"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/electrum_plate_2.png"
+hash = "4c7e86b23a98e4971db2b0a98b89bd900e93b98bd9047c9aa1b86b9321c8bbef"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/electrum_plate_3.png"
+hash = "4c7e86b23a98e4971db2b0a98b89bd900e93b98bd9047c9aa1b86b9321c8bbef"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/enderium_plate_0.png"
+hash = "b2d31504f09edf3cc94e2e8d4cdb445a65dfef7ba50ba0428be0cc34eea558bc"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/enderium_plate_1.png"
+hash = "b2d31504f09edf3cc94e2e8d4cdb445a65dfef7ba50ba0428be0cc34eea558bc"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/enderium_plate_2.png"
+hash = "b2d31504f09edf3cc94e2e8d4cdb445a65dfef7ba50ba0428be0cc34eea558bc"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/enderium_plate_3.png"
+hash = "b2d31504f09edf3cc94e2e8d4cdb445a65dfef7ba50ba0428be0cc34eea558bc"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/invar_plate_0.png"
+hash = "6e3d0ca7d97095ef7d2a87d7aee31eb3df3e38dcc808e6841f88ea4d3c2aa9e8"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/invar_plate_1.png"
+hash = "6e3d0ca7d97095ef7d2a87d7aee31eb3df3e38dcc808e6841f88ea4d3c2aa9e8"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/invar_plate_2.png"
+hash = "6e3d0ca7d97095ef7d2a87d7aee31eb3df3e38dcc808e6841f88ea4d3c2aa9e8"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/invar_plate_3.png"
+hash = "6e3d0ca7d97095ef7d2a87d7aee31eb3df3e38dcc808e6841f88ea4d3c2aa9e8"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/lumium_plate_0.png"
+hash = "bd773d7ec662c842b3e220d2674ef980824cf6b1103273b0ccab6f5da4a76aaa"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/lumium_plate_1.png"
+hash = "bd773d7ec662c842b3e220d2674ef980824cf6b1103273b0ccab6f5da4a76aaa"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/lumium_plate_2.png"
+hash = "bd773d7ec662c842b3e220d2674ef980824cf6b1103273b0ccab6f5da4a76aaa"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/lumium_plate_3.png"
+hash = "bd773d7ec662c842b3e220d2674ef980824cf6b1103273b0ccab6f5da4a76aaa"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/netherite_plate_0.png"
+hash = "db3cb85659be6f155f3dca9cec696ccd0403fdb6fb4feaf927c90415735d3752"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/netherite_plate_1.png"
+hash = "db3cb85659be6f155f3dca9cec696ccd0403fdb6fb4feaf927c90415735d3752"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/netherite_plate_2.png"
+hash = "db3cb85659be6f155f3dca9cec696ccd0403fdb6fb4feaf927c90415735d3752"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/netherite_plate_3.png"
+hash = "db3cb85659be6f155f3dca9cec696ccd0403fdb6fb4feaf927c90415735d3752"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/signalum_plate_0.png"
+hash = "ca957c46806b3e972fc46576fbe791d7d440992713123ba2eb28ebe92bae7b0d"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/signalum_plate_1.png"
+hash = "ca957c46806b3e972fc46576fbe791d7d440992713123ba2eb28ebe92bae7b0d"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/signalum_plate_2.png"
+hash = "ca957c46806b3e972fc46576fbe791d7d440992713123ba2eb28ebe92bae7b0d"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/thermal/textures/item/signalum_plate_3.png"
+hash = "ca957c46806b3e972fc46576fbe791d7d440992713123ba2eb28ebe92bae7b0d"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/pack.mcmeta"
+hash = "682825d93e6980154a6b72c9926763915b96d2926aad0a6ad7683a49e973fb7e"
+
+[[files]]
 file = "config/phantomsandnightmares-common.toml"
 hash = "a0458c2f37a07e6b49327894db860899700bc7c4bea4f5f1267156d3020264f3"
 
@@ -3950,7 +4094,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
-hash = "6aba4f7ca577078e1d96f9cb9e617079c20771744cb7f762c31b4fbb66ed1035"
+hash = "823ef2149d4be018a0603d3fb768ab4fa6f87b656f23317fb40bfa6281ad61d4"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/compactcrafting.js"
