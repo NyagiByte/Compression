@@ -1,6 +1,5 @@
 {
     "type": "create:mixing",
-    "heatRequirement": "heated",
     "ingredients": [
       {
         "item": "minecraft:ink_sac"
