@@ -1913,6 +1913,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "6fd592b16c1eace8abd5c3adf45314384316891f6f1ef8c0bf817f99456e8ddf"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/ink_t1.json"
+hash = "5bc85d35756e1355b3b14c59a2cbdaaf5247f904a116b94e6a7daf7f4ab540ee"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/livisite_alloy_t0_mixing.json"
 hash = "38e923e1f7b91305f2f47e50ce62abdbffba9cb63327aaf8619f8e74655e2f6d"
 
@@ -3822,7 +3826,7 @@ hash = "36c7937a5b621a5623dbf6665b19d3a37f5a136b822d8d8c21a9f6123725df4a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "c37e27353a7ef0b90f21054cc3aa1e5dede17561a9925067e750fe23e7ac74f7"
+hash = "f4dc23bd36342b1f96cdb669c6abf1e1e53e45377b2770c19df8a31202644e79"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
