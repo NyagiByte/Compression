@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "minecraft:ink_sac"
+      },
+      {
+        "amount": 500,
+        "fluid": "nyagibits_bytes:acetone_fluid"
+      }
+    ],
+    "results": [
+      {
+        "count": 8,
+        "item": "nyagibits_bytes:ink"
+      }
+    ]
+  }
