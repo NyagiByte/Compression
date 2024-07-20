@@ -4883,6 +4883,10 @@ hash = "53d2af852bfd91938b19c1c25a9678ce2cb34f09494514f44fa0e59313e8eab6"
 metafile = true
 
 [[files]]
+file = "mods/compressedbotanics-1.0.0.jar"
+hash = "4bd6758f46a0b1baf2de8c77f440a6686aece483b43df0fed86877ff9298a025"
+
+[[files]]
 file = "mods/compressedcreativity.pw.toml"
 hash = "a840f125eb801e899c969ae883619e0de201ebaf600b372e0ae1bad10ea36edd"
 metafile = true
