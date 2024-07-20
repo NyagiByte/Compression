@@ -1677,16 +1677,8 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/p
 hash = "3ce58a594344fb287f4358423bd029b58543eded7d9d9d0cf40b4efafe0e9011"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/petal_apothecary/organic_pseudo_logic.json"
-hash = "8a58c4ce1f02f9514955420d9f822a7b7d7a01fa72cee9028bed4cb1e385d9c1"
-
-[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/petal_apothecary/pulp.json"
 hash = "9cddca6cc3e21c6f34dc0b6f82972b4590c8de7dac2f81d1d3757d3429a027af"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/petal_apothecary/used_crude_natural_arcana_test.json"
-hash = "3ce58a594344fb287f4358423bd029b58543eded7d9d9d0cf40b4efafe0e9011"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/pure_daisy/livisite_stone.json"
@@ -1773,12 +1765,12 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/co
 hash = "2a79c82cd3049f6c479cdce7d35b0b0e66bb4c49285260b4aa45b57fd44712cb"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/used_crude_compression_test.json"
-hash = "cb34aea80ec033de0cc00f13e88503b790811edcbc38af7a61b130cc35ef2ddc"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/rubber.json"
+hash = "bb0c6d0e10f696c489c71a731fda7c0678596368bc6cd5848950eb1f5c2166a9"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/zga_alloy.json"
-hash = "ab3cde9e2bb13efee17f247a975bcec7ef9a4cf49077f7fe2c623438952c3151"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/used_crude_compression_test.json"
+hash = "cb34aea80ec033de0cc00f13e88503b790811edcbc38af7a61b130cc35ef2ddc"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/crushing/raw_basalt_renewable.json"
@@ -3665,10 +3657,6 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_cr
 hash = "21403065d03ebda72a35a3cd7f7ac1204cb7e76bb6d8207259dcb5d3e30d916e"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/tough_bag.json"
-hash = "1a141e3bc83f85b5dc8c87cbffe341c017cf8fe3dbb8dada10acff71819bc033"
-
-[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/tpv_cell.json"
 hash = "6fe6a9ce39abedb890f0408da931cb1978dccc27a20468f7bf5ce2970e8c76df"
 
@@ -3731,10 +3719,6 @@ hash = "611d86c82d381376c49a0cd3cffcc0e5596a655360bb940069b7b8dbcd6128a9"
 [[files]]
 file = "config/paxi/datapacks/compression/data/packages/recipes/package_maker.json"
 hash = "8ba543a3cfa114c1595792b619cc7a56130a55b0bceec9df7bd99a29003678e6"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/capacitor_hv.json"
-hash = "28108364feb43cd796a823e581399cefc949f6268914f390e4cc082198c96767"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/drill_pipe.json"
