@@ -106,6 +106,23 @@
 		{"namespace": "mekanism", "path": "recipes/injecting/concrete/black.json"},
 		{"namespace": "thermal", "path": "recipes/machines/bottler/bottler_black_concrete.json"},
 
+		{"namespace": "thermal", "path": "recipes/white_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/orange_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/magenta_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/light_blue_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/yellow_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/lime_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/pink_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/gray_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/light_gray_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/cyan_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/purple_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/blue_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/brown_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/green_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/red_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/black_concrete_powder_with_slag.json"},
+
 
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/pickaxe_steel.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/axe_steel.json"},

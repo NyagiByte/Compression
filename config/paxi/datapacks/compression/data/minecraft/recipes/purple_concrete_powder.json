@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:white_concrete_powder"
+        },
+        {
+            "item": "minecraft:white_concrete_powder"
+        },
+        {
+            "item": "minecraft:white_concrete_powder"
+        },
+        {
+            "item": "minecraft:white_concrete_powder"
+        },
+        {
+            "item": "minecraft:white_concrete_powder"
+        },
+        {
+            "item": "minecraft:white_concrete_powder"
+        },
+        {
+            "item": "minecraft:white_concrete_powder"
+        },
+        {
+            "item": "minecraft:white_concrete_powder"
+        },
+        {
+            "item": "minecraft:purple_dye"
+        }
+    ],
+    "result": {
+        "count": 8,
+        "item": "minecraft:purple_concrete_powder"
+    }
+}

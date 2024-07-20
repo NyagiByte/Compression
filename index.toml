@@ -1577,6 +1577,14 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crus
 hash = "67e3577cebf78db57bfd280ccb4036c62927eee5b6a6bc307e29c55f04be14c0"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crusher/slag.json"
+hash = "b5439c85861e22717078373d509f0b50fa84d8d986153c34b1193d5fb7bfc47d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crusher/slag_rich.json"
+hash = "e3211a5a568cbafbe01fc30772452f103b7cc89d1f65109d6a6be5e3eb26edfa"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/auto_lubricator.json"
 hash = "30b5e2fe5304f5259c1b81d62af40c8b9ded9edd7f1656e43b69f5e7acfc7b85"
 
@@ -1617,8 +1625,16 @@ file = "config/paxi/datapacks/compression/data/minecraft/loot_tables/tall_grass.
 hash = "8bdb9771b00c1fd01a00c0f2c790ebbbaecbd7f3efd4e41425f56c14bf0e2303"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/black_concrete_powder.json"
+hash = "06e99cc03b2e87cfe92503c6aa569057ca555c9d1be497c3e46d3607f0bacca8"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/blast_furnace.json"
 hash = "cd8b095f26b5cac506fb3a6f77d4895bb7bf9c63d8f295e6df637d88b5aab803"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/blue_concrete_powder.json"
+hash = "f45e135d455950d1e2e03d3e8591817c8e5020eeae280726af129760d9f9058c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/book.json"
@@ -1627,6 +1643,10 @@ hash = "5f36b50233bb71e4a6ffbbcfad8a8175d457a5057267e52d7118a7c9ea5fc9bb"
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/book_one.json"
 hash = "68cb05b23404309e6b3f4a49796b129c0a5a87b6266f1cceaba8ff98263d3a69"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/brown_concrete_powder.json"
+hash = "41a4a864357ce9375abb31d27403906c52190a9f3557e673f917f52b4c1bc165"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/bucket.json"
@@ -1645,6 +1665,10 @@ file = "config/paxi/datapacks/compression/data/minecraft/recipes/crafting_table.
 hash = "ab70cd2d04dfd983a4a484d51680f5e182ca710a42ec20c697d0a57ff46b2adf"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/cyan_concrete_powder.json"
+hash = "da518aa51bb6044d8407db91c7c6ee204d6ae45ac6c775006450c0e25dba365a"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/furnace.json"
 hash = "82a7fcaa21ca59b2c85b32642650920b92cc263ca5a06a6ba32c0ef7d4c980f0"
 
@@ -1653,12 +1677,52 @@ file = "config/paxi/datapacks/compression/data/minecraft/recipes/glass.json"
 hash = "29659f5fdebcdf74a0c9c7b1c6f9406b21cb5cf4c2e29b1d72449849d365d22c"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/gray_concrete_powder.json"
+hash = "79f5b2f6c363a303f3224548b6af649f9467ecbfbd6a49f91090816e2dbb5785"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/green_concrete_powder.json"
+hash = "d2a315adf0a55915faaeda935a31ab3e7e60e90b6397c76c4bcb4a0a6f60838d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/light_blue_concrete_powder.json"
+hash = "fc2e501252c200aaed75107d98042c17be91593b2e27364b4d9a7ee75c849176"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/light_gray_concrete_powder.json"
+hash = "3bf2311b479db370210ac9f29eed9482bd52ce3b9b20d83b711b585661f72568"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/lime_concrete_powder.json"
+hash = "8b11130389441adec13e18926b94ecff87e023041ab4674baf54e22973fefad8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/magenta_concrete_powder.json"
+hash = "b6584185af36d80f5e63f4462da36a555f4c4acceacba58af96fc50027300243"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/orange_concrete_powder.json"
+hash = "f0ab76395ad56bb5f4bc532ca3d92560c037d9b8f9700940e8ef47b1fb3d75ae"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/paper.json"
 hash = "d4b6a61e982c8c255d4d296f1a4bd1d3a7af2ff400cd04270e6eaf501f8a92f8"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/pink_concrete_powder.json"
+hash = "10ce16bffd94e5a44c98245eb2585752532075efd21ff8197f957036844a6aec"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/piston.json"
 hash = "19d0d982981bf754fdb24671b45121e642bdacc5080c109df9317e68824f257b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/purple_concrete_powder.json"
+hash = "88d79535d399d166a2c031bff6373dfa0ce9bb410d6a8bf08dae941536dea189"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/red_concrete_powder.json"
+hash = "46db191cab74f677ada0683da94b73bf36f6b8eceb53ec1595fa17ee71f55793"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/stonecutter.json"
@@ -1667,6 +1731,14 @@ hash = "7fa33e68ebe01d4efcd6814cc84d8d9f1c62bd73fe67f00bb22ac0c69aee96c8"
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/tnt.json"
 hash = "f32833e90069dc4c9524ae83ce191a72908e513fbda26db7024053f4b8bab9ad"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/white_concrete_powder.json"
+hash = "a5ca61f77db030ad0e5b0fab479cf72a846952ae52e2b256b9e40ea4e61204fe"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/yellow_concrete_powder.json"
+hash = "1ed80e30a06146320669258325d27f8d14a4828e836000496ae67caf2e380bc5"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/petal_apothecary/components/organic_pseudo_logic.json"
@@ -1771,6 +1843,10 @@ hash = "bb0c6d0e10f696c489c71a731fda7c0678596368bc6cd5848950eb1f5c2166a9"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/used_crude_compression_test.json"
 hash = "cb34aea80ec033de0cc00f13e88503b790811edcbc38af7a61b130cc35ef2ddc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/zga_alloy.json"
+hash = "ab3cde9e2bb13efee17f247a975bcec7ef9a4cf49077f7fe2c623438952c3151"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/crushing/raw_basalt_renewable.json"
@@ -3810,7 +3886,7 @@ hash = "36c7937a5b621a5623dbf6665b19d3a37f5a136b822d8d8c21a9f6123725df4a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "f4dc23bd36342b1f96cdb669c6abf1e1e53e45377b2770c19df8a31202644e79"
+hash = "d0710be3f1be1e3b59ffcae99b8b4272b171cffdffac01d07b5b5c62f4aba719"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"

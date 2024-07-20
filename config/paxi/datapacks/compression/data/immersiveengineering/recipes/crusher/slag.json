@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "thermal:slag"
+      }
+    ],
+    "processingTime": 200,
+    "results": [
+      {
+        "item": "immersiveengineering:slag_gravel"
+      }
+    ]
+  }
