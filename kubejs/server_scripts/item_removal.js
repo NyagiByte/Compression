@@ -120,7 +120,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:fel_pumpkin'});
         e.remove({output: 'botania:forest_eye'});
         e.remove({output: 'botania:tiny_planet_block'});
-        e.remove({output: 'botania:terrasteel_ingot'});
         e.remove({output: 'botania:redstone_root'});
         e.remove({output: 'botania:elementium_ingot'});
         e.remove({output: 'botania:pixie_dust'});
@@ -152,7 +151,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:water_rod'});
         e.remove({output: 'botania:tornado_rod'});
         e.remove({output: 'botania:fire_rod'});
-        e.remove({output: 'botania:divining_rod'});
         e.remove({output: 'botania:smelt_rod'});
         e.remove({output: 'botania:exchange_rod'});
         e.remove({output: 'botania:rainbow_rod'});
@@ -269,14 +267,7 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:pattern_donut'});
         e.remove({output: 'botania:blood_pendant'});
         e.remove({output: 'botania:incense_stick'});
-        e.remove({output: 'botania:hydroangeas'});
-        e.remove({output: 'botania:thermalily'});
-        e.remove({output: 'botania:rosa_arcana'});
-        e.remove({output: 'botania:munchdew'});
-        e.remove({output: 'botania:entropinnyum'});
         e.remove({output: 'botania:kekimurus'});
-        e.remove({output: 'botania:gourmaryllis'});
-        e.remove({output: 'botania:narslimmus'});
         e.remove({output: 'botania:spectrolus'});
         e.remove({output: 'botania:dandelifeon'});
         e.remove({output: 'botania:rafflowsia'});
@@ -289,7 +280,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:jaded_amaranthus'});
         e.remove({output: 'botania:orechid'});
         e.remove({output: 'botania:fallen_kanade'});
-        e.remove({output: 'botania:exoflame'});
         e.remove({output: 'botania:agricarnation'});
         e.remove({output: 'botania:hopperhock'});
         e.remove({output: 'botania:tangleberrie'});

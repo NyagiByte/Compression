@@ -200,12 +200,14 @@
 
 
 		{"namespace": "minecraft", "path": "recipes/white_wool_from_string.json"},
+
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/cobblestone_furnace.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/mixed_furnace.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/blackstone_furnace.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/deepslate_furnace.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/blackstone_blast_furnace.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/deepslate_blast_furnace.json"},
+
 		{"namespace": "byg", "path": "recipes/aspen_crafting_table.json"},
 		{"namespace": "byg", "path": "recipes/baobab_crafting_table.json"},
 		{"namespace": "byg", "path": "recipes/blue_enchanted_crafting_table.json"},
@@ -235,6 +237,7 @@
 		{"namespace": "byg", "path": "recipes/zelkova_crafting_table.json"},
 		{"namespace": "byg", "path": "recipes/sythian_crafting_table.json"},
 		{"namespace": "byg", "path": "recipes/embur_crafting_table.json"},
+
 		{"namespace": "create", "path": "recipes/crafting/deploying/large_cogwheel.json"},
 		{"namespace": "create", "path": "recipes/crafting/deploying/cogwheel.json"},
 		{"namespace": "create", "path": "recipes/crafting/kinetics/mechanical_arm.json"},
@@ -244,7 +247,12 @@
 		{"namespace": "create", "path": "recipes/milling/charcoal.json"},
 		{"namespace": "create", "path": "recipes/milling/wool.json"},
 		{"namespace": "create", "path": "recipes/pressing/sugar_cane.json"},
+
 		{"namespace": "ae2", "path": "recipes/network/cables/dense_smart_from_smart"},
+
+		{"namespace": "botania", "path": "recipes/divining_rod.json"},
+		{"namespace": "botania", "path": "recipes/petal_apothecary/exoflame.json"},
+		{"namespace": "botania", "path": "recipes/floating_exoflame.json"},
 
 		{"namespace": "botania", "path": "recipes/mana_infusion/mana_powder_dye.json"},
 
