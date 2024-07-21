@@ -1,0 +1,28 @@
+{
+    "type": "compressedbotanics:floral_entropy",
+    "flower": "botania:munchdew",
+    "block" : "minecraft:mangrove_propagule", 
+    "result": [
+      {
+        "item": "nyagibits_bytes:munchdew_mush",
+        "count": 1,
+        "chance": 1, 
+        "enchanted": false 
+      },
+      {
+        "item": "byg:leaf_pile",
+        "count": 64,
+        "chance": 0.99,
+        "allOrNothing": true 
+      },
+      {
+        "item": "nyagibits_bytes:raw_petrified_wood",
+        "count": 1,
+        "chance": 0.01,
+        "allOrNothing": true 
+      }
+    ],
+    "minTalliedMana": 150000, 
+    "minDecayTicks": 60000, 
+    "maxDecayTicks": 100000 
+  }

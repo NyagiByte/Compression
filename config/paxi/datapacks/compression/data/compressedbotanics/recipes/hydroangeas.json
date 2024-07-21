@@ -1,0 +1,28 @@
+{
+    "type": "compressedbotanics:floral_entropy",
+    "flower": "botania:hydroangeas",
+    "block" : "minecraft:tube_coral_block", 
+    "result": [
+      {
+        "item": "nyagibits_bytes:hydroangeas_mush",
+        "count": 1,
+        "chance": 1, 
+        "enchanted": false 
+      },
+      {
+        "item": "minecraft:pufferfish",
+        "count": 1,
+        "chance": 0.2,
+        "allOrNothing": true 
+      },
+      {
+        "item": "minecraft:seagrass",
+        "count": 8,
+        "chance": 0.5,
+        "allOrNothing": true 
+      }
+    ],
+    "minTalliedMana": 10000, 
+    "minDecayTicks": 60000, 
+    "maxDecayTicks": 100000 
+  }

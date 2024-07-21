@@ -1,0 +1,28 @@
+{
+    "type": "compressedbotanics:floral_entropy",
+    "flower": "botania:endoflame",
+    "block" : "minecraft:campfire", 
+    "result": [
+      {
+        "item": "nyagibits_bytes:endoflame_mush",
+        "count": 1,
+        "chance": 1, 
+        "enchanted": false 
+      },
+      {
+        "item": "create:empty_blaze_burner",
+        "count": 1,
+        "chance": 0.2,
+        "allOrNothing": true 
+      },
+      {
+        "item": "nyagibits_bytes:ash",
+        "count": 4,
+        "chance": 0.5,
+        "allOrNothing": true 
+      }
+    ],
+    "minTalliedMana": 50000, 
+    "minDecayTicks": 60000, 
+    "maxDecayTicks": 100000 
+  }
