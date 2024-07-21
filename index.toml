@@ -282,7 +282,7 @@ hash = "929962cd3f0c523daa975e49076e926622355a4e60c47d0593d1ac2225885141"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/proficiency.snbt"
-hash = "d860972b657f6ac658f91ffbc3d5cf72f2e479427b1db265d86556a1842b3a40"
+hash = "f39de46ea23e511d0c20234dc2b6dee419dad25952256898b6e60b70138e171b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
@@ -294,7 +294,7 @@ hash = "5eaa01737c46ffc31178fbfacbaaf71d9b0492e8a34838f1973905af60636bd4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "83e2e310f0145af39dd88a50a560af69fcd8f48a1167dab90d413e98eecaaa80"
+hash = "c63f62f74930b08f2366233b63971eb36f8c5f79a6690446b0f9206f98e5024c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -991,6 +991,38 @@ hash = "c90593ee84caef0f0128cc15fcf168e13f1cca0a017d58723b99a09c21c1492c"
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar_alt.json"
 hash = "e40c53007dcfd0c22f45676c6bcc76a5d0df948de6f43bb512aa9d3e45fedb09"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressedbotanics/recipes/endoflame.json"
+hash = "821fc44ac93294976017445d86e10a1b358b4929bc8a6a403911a5a579a689db"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressedbotanics/recipes/entropinnyum.json"
+hash = "43630ee76efcf0414a4954c74b34a9e12566b3013037131b5eeffe1878d71023"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressedbotanics/recipes/gourmaryllis.json"
+hash = "4e6715c42b33c855dc12557db9f075f2693e38cae569f39c916dd9ede9bd00cc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressedbotanics/recipes/hydroangeas.json"
+hash = "871ee97ad9b01ce9502f2d4c44b14ed7a5f93c26abc418d50bdad0f60cb0dfe9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressedbotanics/recipes/muchdew.json"
+hash = "fc855320302576912ce6a13fe72d6345fa2466e04050884195e377cd10755d05"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressedbotanics/recipes/narslimmus.json"
+hash = "fcd2e5eb2ab419be110cf1eee0cdec87a1d9dcbff1f551604fde4071389b3e9d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressedbotanics/recipes/rosa_arcana.json"
+hash = "93540e20f45e38ca6f8e5186835d4aed10cc80a3ae5c3c694adb973cf7d45750"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressedbotanics/recipes/thermalily.json"
+hash = "ff0243e2545727e840833395f12fd20d92b750486ff92243c3840d641ebe1d41"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/basin.json"

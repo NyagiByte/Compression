@@ -500,19 +500,50 @@
 		}
 		{
 			dependencies: ["3DEB55D883E126E6"]
+			description: ["Agony and suffering is a mod by Vazkii"]
 			id: "7F551DACA7479075"
 			rewards: [{
 				id: "186E12C191A97206"
 				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
-			tasks: [{
-				consume_items: true
-				count: 64L
-				id: "3FB6D1C59C527C4D"
-				item: "nyagibits_bytes:endoflame_mush"
-				type: "item"
-			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 64L
+					id: "3FB6D1C59C527C4D"
+					item: "nyagibits_bytes:endoflame_mush"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 64L
+					id: "5FCDFABF3409AA17"
+					item: "nyagibits_bytes:hydroangeas_mush"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 32L
+					id: "13E9E9FB734D748C"
+					item: "nyagibits_bytes:entropinnyum_mush"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 32L
+					id: "0DBF08F217BA7573"
+					item: "nyagibits_bytes:thermalily_mush"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 32L
+					id: "1E47CECF58D69987"
+					item: "nyagibits_bytes:munchdew_mush"
+					type: "item"
+				}
+			]
 			title: "Expensive Mush"
 			x: 1.0d
 			y: -3.0d
