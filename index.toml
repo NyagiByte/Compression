@@ -2,27 +2,31 @@ hash-format = "sha256"
 
 [[files]]
 file = ".idea/Compression.iml"
-hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
+hash = "0ff94b49c61885dd797e3da61dc3444c7ab48f317373ca42681910f1f8413752"
 
 [[files]]
 file = ".idea/libraries/mods.xml"
-hash = "9b517bd76cbb9634d817fcbac7d9762ad0951cbbcd2ea009c1450c77732aefe9"
+hash = "88dfac35d2e4aaf56b3b9c5c32e436b7e25043ca012f76c1c00112b41f8b3ac2"
 
 [[files]]
 file = ".idea/misc.xml"
-hash = "7c407574ffa3b8b662ddfe44b51a2bd7dff033acc7b6ef94793a0b3255ba919c"
+hash = "3dcf31a023f676ba0dbce9e9944a032ae6d20b96324b3af3d84e80346cef5484"
 
 [[files]]
 file = ".idea/modules.xml"
-hash = "17f0fa8a2abdba406937e755d5517518fba8d968511db15a1b821128929c8dea"
+hash = "500b9ea398b22a70a318aee6fd8e801aadddf99de0cd08860482dfc079a4839b"
 
 [[files]]
 file = ".idea/vcs.xml"
-hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
+hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "7b36b13202925f2eff9ea58b947ef35e16084d790b05b3e768735d0d5b985a2c"
 
 [[files]]
 file = "README.md"
-hash = "615921c08e8e7b4b74245ac1fc5fd24918a34e74e39ae62ce8ade21b8a0e03de"
+hash = "16cae6a24e8f1cebae71a75dab1bf2a6c8da4e161061fbfe359061a62e0abcf4"
 
 [[files]]
 file = "config/Mekanism/world.toml"
@@ -5421,6 +5425,18 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "8fe58cbf1d128af0e210ee74dd21883a6c35ac0023c9605ae9646a29c03efd8a"
 metafile = true
+
+[[files]]
+file = "readme-src/compression.png"
+hash = "8d1a6ffb232ecdb8f5d4ced05359c5d5147f17b3889edb0b7ebe5edf650b76b9"
+
+[[files]]
+file = "readme-src/hex_eye_dark.png"
+hash = "5e318eab2ccf343df610f2faec5f67983b6a1db06d74844fd824928de228cd03"
+
+[[files]]
+file = "readme-src/hex_eye_light.png"
+hash = "14472bbeffd3721f81e77de141efdeea6b8a1e76ab780f1fbce1285512daa8f2"
 
 [[files]]
 file = "resourcepacks/darkmode.pw.toml"
