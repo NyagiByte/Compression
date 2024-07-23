@@ -1,30 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/Compression.iml"
-hash = "0ff94b49c61885dd797e3da61dc3444c7ab48f317373ca42681910f1f8413752"
-
-[[files]]
-file = ".idea/libraries/mods.xml"
-hash = "88dfac35d2e4aaf56b3b9c5c32e436b7e25043ca012f76c1c00112b41f8b3ac2"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "3dcf31a023f676ba0dbce9e9944a032ae6d20b96324b3af3d84e80346cef5484"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "500b9ea398b22a70a318aee6fd8e801aadddf99de0cd08860482dfc079a4839b"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "7b36b13202925f2eff9ea58b947ef35e16084d790b05b3e768735d0d5b985a2c"
-
-[[files]]
 file = "README.md"
 hash = "16cae6a24e8f1cebae71a75dab1bf2a6c8da4e161061fbfe359061a62e0abcf4"
 
@@ -4919,17 +4895,19 @@ hash = "53d2af852bfd91938b19c1c25a9678ce2cb34f09494514f44fa0e59313e8eab6"
 metafile = true
 
 [[files]]
-file = "mods/compressedbotanics-1.0.0.jar"
-hash = "4bd6758f46a0b1baf2de8c77f440a6686aece483b43df0fed86877ff9298a025"
+file = "mods/compressed-botanics.pw.toml"
+hash = "7bbd7d149c3da41ac01f58a1ef80c82972ae4395c7bec6c4ab4e6b9b832432b8"
+metafile = true
+
+[[files]]
+file = "mods/compressed-engineering.pw.toml"
+hash = "744e5e4e22ae6ed5c3c3147ec9380d4360fb72a217db5df740d8adcfa9fc9813"
+metafile = true
 
 [[files]]
 file = "mods/compressedcreativity.pw.toml"
 hash = "a840f125eb801e899c969ae883619e0de201ebaf600b372e0ae1bad10ea36edd"
 metafile = true
-
-[[files]]
-file = "mods/compressedengineering-1.0.0.jar"
-hash = "6cf8bf87b691428caaf867c09b9a24c6d4a33cb79de365aee2018ce6c9743624"
 
 [[files]]
 file = "mods/compressiontweaks-1.19.2-1.0.0.jar"

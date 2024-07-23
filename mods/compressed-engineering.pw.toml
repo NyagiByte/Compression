@@ -1,0 +1,13 @@
+name = "Compressed Engineering"
+filename = "compressedengineering-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a265ff7a45c23d414a828187e871ef77ff93c235"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5503954
+project-id = 1052457
