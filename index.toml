@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "16cae6a24e8f1cebae71a75dab1bf2a6c8da4e161061fbfe359061a62e0abcf4"
+hash = "f0032bb2e3774c212f26a981dfa4eb82ccdd44e2acc82ba65a5800bbd38f2a2e"
 
 [[files]]
 file = "config/Mekanism/world.toml"
@@ -130,7 +130,7 @@ hash = "eb50feedcc314603346611107a72f404402e552eca858b4223eee1d6a1666233"
 
 [[files]]
 file = "config/fancymenu/assets/compressioneyeloading.png"
-hash = "14472bbeffd3721f81e77de141efdeea6b8a1e76ab780f1fbce1285512daa8f2"
+hash = "6ffee7e8b9cc3e741db1914d6688d980d399bce3b5f9834af896062c9f8654c5"
 
 [[files]]
 file = "config/fancymenu/assets/compressionicon.icns"
@@ -169,8 +169,8 @@ file = "config/fancymenu/assets/menu.ogg"
 hash = "b0ad3d8aacb1d86cc10f81607a2b305ee741c18daf77114c1b086540cbaaf0a8"
 
 [[files]]
-file = "config/fancymenu/assets/oblivionawaits.png"
-hash = "e3538044cf2611a5c19bb7bd0ed76bb5885136adcfba5f27b13d41312f995841"
+file = "config/fancymenu/assets/oblivion_awaits.png"
+hash = "e4b09677d604defe72428a6ee3b75ed94d4d396cfaeabf5574ba453f6e22d6b2"
 
 [[files]]
 file = "config/fancymenu/assets/transparent_picture.png"
@@ -186,7 +186,7 @@ hash = "8e15b8fdd11e054e25d49c37ce6a448807a7e6e34f9c3b46dc4d222aa0aca44b"
 
 [[files]]
 file = "config/fancymenu/customization/compressionloading.txt"
-hash = "9f39adae62acf73740efe64bdb13e7f14ba3199ed7e1f2531421ac753815f15e"
+hash = "1e795bc3ba7fd0b801dabcecc7a8dd4c7a7bfd7b47c5c4f9dbb3f31ffb23d97b"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
@@ -1371,6 +1371,10 @@ hash = "b27a5fc4ef290267dec021964cfa37205227cff6dbaf03810273f93d7247b2a9"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/cokebrick.json"
 hash = "6e4dbb80e0ec92c717d23ce35254f69a72742b1f965b482ceeb361c5cea1689e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/component_steel.json"
+hash = "b54f1d2d9aaa71b03b9783dfea95b005fc814102976c2e3f2d06f1c698ec8d3b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/concrete.json"
@@ -5406,15 +5410,19 @@ metafile = true
 
 [[files]]
 file = "readme-src/compression.png"
-hash = "8d1a6ffb232ecdb8f5d4ced05359c5d5147f17b3889edb0b7ebe5edf650b76b9"
+hash = "1937f0cc68fb4f80ef0475bd89ae2d9376c2d94d742c5bcc6e6b76dc478bd16f"
 
 [[files]]
-file = "readme-src/hex_eye_dark.png"
-hash = "5e318eab2ccf343df610f2faec5f67983b6a1db06d74844fd824928de228cd03"
+file = "readme-src/compression_inverted.png"
+hash = "dbb4ea14292ee9d7d79041c8cdc5cd188e55453352423537735d6a559e63672b"
 
 [[files]]
-file = "readme-src/hex_eye_light.png"
-hash = "14472bbeffd3721f81e77de141efdeea6b8a1e76ab780f1fbce1285512daa8f2"
+file = "readme-src/eye.png"
+hash = "6ffee7e8b9cc3e741db1914d6688d980d399bce3b5f9834af896062c9f8654c5"
+
+[[files]]
+file = "readme-src/eye_inverted.png"
+hash = "b17b02c3985100566708de394f63141b24af32f1950ebc5b940d1002b3220678"
 
 [[files]]
 file = "resourcepacks/darkmode.pw.toml"
