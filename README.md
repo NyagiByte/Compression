@@ -1,4 +1,9 @@
-<div style="text-align: center;"> <img src="/readme-src/compression.png"> </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/readme-src/compression.png">
+  <source media="(prefers-color-scheme: light)" srcset="/readme-src/compression_inverted.png">
+  <img alt="Compression: Oblivion Awaits." src="/readme-src/compression.png">
+</picture>
+
 This is <b>Compression</b>, an expert modpack for 1.19.2.  
 You play as the God of Entropy who has been trapped by the God of Space and the God of Time in a Dimensional Prison where they thought you would spend the rest of eternity, cursed to be unable to truly die and decay. Ironic.  
 However, if you're clever and automate processes, research advanced technology and harvest all the resources you can find you might get lucky and escape.  
@@ -38,10 +43,8 @@ The ore line is also subjected to an extreme degree of recipe scaling. Each tier
 ## Currently: Tier 0 is available to play. Tier 1 is actively being worked on.
 ### [Compression on Curseforge](https://www.curseforge.com/minecraft/modpacks/compression)
 
-<div style="text-align: center;"> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/readme-src/hex_eye_light.png">
-  <source media="(prefers-color-scheme: dark)" srcset="/readme-src/hex_eye_dark.png">
-  <img alt="Oblivion Awaits." src="/readme-src/hex_eye_light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/readme-src/eye.png">
+  <source media="(prefers-color-scheme: light)" srcset="/readme-src/eye_inverted.png">
+  <img alt="The Void" src="/readme-src/eye.png">
 </picture>
-</div>
