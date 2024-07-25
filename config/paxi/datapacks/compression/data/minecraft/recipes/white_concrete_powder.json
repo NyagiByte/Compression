@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "immersiveengineering:slag_gravel"
+        },
+        {
+            "item": "immersiveengineering:slag_gravel"
+        },
+        {
+            "item": "immersiveengineering:slag_gravel"
+        },
+        {
+            "item": "immersiveengineering:slag_gravel"
+        },
+        {
+            "item": "minecraft:sand"
+        },
+        {
+            "item": "minecraft:sand"
+        },
+        {
+            "item": "minecraft:sand"
+        },
+        {
+            "item": "minecraft:sand"
+        },
+        {
+            "item": "minecraft:white_dye"
+        }
+    ],
+    "result": {
+        "count": 8,
+        "item": "minecraft:white_concrete_powder"
+    }
+}

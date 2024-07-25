@@ -1,0 +1,29 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "nyagibits_bytes:botania_assembly"
+      },
+      {
+        "item": "nyagibits_bytes:raw_peat"
+      },
+      {
+        "item": "minecraft:composter"
+      },
+      {
+        "item": "chemlib:hydrochloric_acid_bucket"
+      },
+      {
+        "item": "botania:rune_earth"
+      }
+    ],
+    "output": {
+      "item": "botania:gourmaryllis"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

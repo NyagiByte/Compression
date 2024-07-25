@@ -1,0 +1,41 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "nyagibits_bytes:botania_assembly"
+      },
+      {
+        "item": "farmersdelight:rich_soil"
+      },
+      {
+        "item": "farmersdelight:rich_soil"
+      },
+      {
+        "item": "farmersdelight:rich_soil"
+      },
+      {
+        "item": "farmersdelight:rich_soil"
+      },
+      {
+        "item": "farmersdelight:rich_soil"
+      },
+      {
+        "item": "farmersdelight:rich_soil"
+      },
+      {
+        "item": "botania:rune_earth"
+      },
+      {
+        "item": "botania:rune_air"
+      }
+    ],
+    "output": {
+      "item": "botania:munchdew"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

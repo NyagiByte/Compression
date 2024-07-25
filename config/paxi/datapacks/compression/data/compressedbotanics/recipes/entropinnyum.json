@@ -1,0 +1,28 @@
+{
+    "type": "compressedbotanics:floral_entropy",
+    "flower": "botania:entropinnyum",
+    "block" : "minecraft:tnt", 
+    "result": [
+      {
+        "item": "nyagibits_bytes:entropinnyum_mush",
+        "count": 1,
+        "chance": 1, 
+        "enchanted": false 
+      },
+      {
+        "item": "immersiveengineering:blastbrick",
+        "count": 1,
+        "chance": 0.5,
+        "allOrNothing": true 
+      },
+      {
+        "item": "minecraft:gunpowder",
+        "count": 4,
+        "chance": 0.5,
+        "allOrNothing": true 
+      }
+    ],
+    "minTalliedMana": 200000, 
+    "minDecayTicks": 60000, 
+    "maxDecayTicks": 100000 
+  }

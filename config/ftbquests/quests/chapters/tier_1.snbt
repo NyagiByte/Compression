@@ -1625,10 +1625,28 @@
 				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
-			tasks: [{
-				id: "093BF07C522D552D"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "651C8D6A02FDB958"
+					item: "nyagibits_bytes:hydroangeas_mush"
+					type: "item"
+				}
+				{
+					id: "5708D8F26ABAFEA7"
+					item: "nyagibits_bytes:thermalily_mush"
+					type: "item"
+				}
+				{
+					id: "11FDE5B96C643EEE"
+					item: "nyagibits_bytes:entropinnyum_mush"
+					type: "item"
+				}
+				{
+					id: "5D9CE5DB056503DD"
+					item: "nyagibits_bytes:munchdew_mush"
+					type: "item"
+				}
+			]
 			title: "Floral Burning"
 			x: -1.0d
 			y: 10.0d

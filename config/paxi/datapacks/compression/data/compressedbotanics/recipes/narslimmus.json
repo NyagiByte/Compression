@@ -1,0 +1,28 @@
+{
+    "type": "compressedbotanics:floral_entropy",
+    "flower": "botania:narslimmus",
+    "block" : "minecraft:slime_block", 
+    "result": [
+      {
+        "item": "nyagibits_bytes:narslimmus_mush",
+        "count": 1,
+        "chance": 1, 
+        "enchanted": false 
+      },
+      {
+        "item": "minecraft:slime_ball",
+        "count": 64,
+        "chance": 0.5,
+        "allOrNothing": true 
+      },
+      {
+        "item": "botania:rune_wrath",
+        "count": 1,
+        "chance": 0.01,
+        "allOrNothing": true 
+      }
+    ],
+    "minTalliedMana": 100000, 
+    "minDecayTicks": 60000, 
+    "maxDecayTicks": 100000 
+  }

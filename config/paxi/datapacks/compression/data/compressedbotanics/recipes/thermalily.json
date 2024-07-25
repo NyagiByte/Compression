@@ -1,0 +1,28 @@
+{
+    "type": "compressedbotanics:floral_entropy",
+    "flower": "botania:thermalily",
+    "block" : "minecraft:obsidian", 
+    "result": [
+      {
+        "item": "nyagibits_bytes:thermalily_mush",
+        "count": 1,
+        "chance": 1, 
+        "enchanted": false 
+      },
+      {
+        "item": "botania:rune_fire",
+        "count": 1,
+        "chance": 0.1,
+        "allOrNothing": true 
+      },
+      {
+        "item": "nyagibits_bytes:raw_volcanic_sulfur",
+        "count": 1,
+        "chance": 0.1,
+        "allOrNothing": true 
+      }
+    ],
+    "minTalliedMana": 100000, 
+    "minDecayTicks": 60000, 
+    "maxDecayTicks": 100000 
+  }

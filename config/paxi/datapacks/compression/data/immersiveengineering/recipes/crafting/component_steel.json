@@ -1,0 +1,10 @@
+{
+    "type":"immersiveengineering:blast_furnace",
+    "input":{
+        "item":"immersiveengineering:component_iron"
+            },
+        "result":{
+            "item":"immersiveengineering:component_steel"
+                 },"slag":{
+                        "item":"thermal:rich_slag"
+                          },"time":100}

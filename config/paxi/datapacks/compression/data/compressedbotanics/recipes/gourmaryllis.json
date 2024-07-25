@@ -1,0 +1,28 @@
+{
+    "type": "compressedbotanics:floral_entropy",
+    "flower": "botania:gourmaryllis",
+    "block" : "architects_palette:bread_slab", 
+    "result": [
+      {
+        "item": "nyagibits_bytes:gourmaryllis_mush",
+        "count": 1,
+        "chance": 1, 
+        "enchanted": false 
+      },
+      {
+        "item": "nyagibits_bytes:mixed_seeds",
+        "count": 1,
+        "chance": 0.2,
+        "allOrNothing": true 
+      },
+      {
+        "item": "farmersdelight:rotten_tomato",
+        "count": 2,
+        "chance": 0.5,
+        "allOrNothing": true 
+      }
+    ],
+    "minTalliedMana": 100000, 
+    "minDecayTicks": 60000, 
+    "maxDecayTicks": 100000 
+  }

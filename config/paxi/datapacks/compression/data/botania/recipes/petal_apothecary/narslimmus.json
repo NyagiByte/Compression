@@ -1,0 +1,26 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "nyagibits_bytes:botania_assembly"
+      },
+      {
+        "item": "botania:slime_bottle"
+      },
+      {
+        "item": "botania:rune_earth"
+      },
+      {
+        "item": "botania:rune_water"
+      }
+    ],
+    "output": {
+      "item": "botania:narslimmus"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

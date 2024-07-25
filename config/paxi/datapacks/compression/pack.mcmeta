@@ -57,6 +57,72 @@
 		{"namespace": "byg", "path": "recipes/pendorite_hoe.json"},
 		{"namespace": "byg", "path": "recipes/pendorite_battleaxe.json"},
 
+		{"namespace": "create", "path": "recipes/splashing/white_concrete_powder.json"},
+		{"namespace": "mekanism", "path": "recipes/injecting/concrete/white.json"},
+		{"namespace": "thermal", "path": "recipes/machines/bottler/bottler_white_concrete.json"},
+		{"namespace": "create", "path": "recipes/splashing/orange_concrete_powder.json"},
+		{"namespace": "mekanism", "path": "recipes/injecting/concrete/orange.json"},
+		{"namespace": "thermal", "path": "recipes/machines/bottler/bottler_orange_concrete.json"},
+		{"namespace": "create", "path": "recipes/splashing/magenta_concrete_powder.json"},
+		{"namespace": "mekanism", "path": "recipes/injecting/concrete/magenta.json"},
+		{"namespace": "thermal", "path": "recipes/machines/bottler/bottler_magenta_concrete.json"},
+		{"namespace": "create", "path": "recipes/splashing/light_blue_concrete_powder.json"},
+		{"namespace": "mekanism", "path": "recipes/injecting/concrete/light_blue.json"},
+		{"namespace": "thermal", "path": "recipes/machines/bottler/bottler_light_blue_concrete.json"},
+		{"namespace": "create", "path": "recipes/splashing/yellow_concrete_powder.json"},
+		{"namespace": "mekanism", "path": "recipes/injecting/concrete/yellow.json"},
+		{"namespace": "thermal", "path": "recipes/machines/bottler/bottler_yellow_concrete.json"},
+		{"namespace": "create", "path": "recipes/splashing/lime_concrete_powder.json"},
+		{"namespace": "mekanism", "path": "recipes/injecting/concrete/lime.json"},
+		{"namespace": "thermal", "path": "recipes/machines/bottler/bottler_lime_concrete.json"},
+		{"namespace": "create", "path": "recipes/splashing/pink_concrete_powder.json"},
+		{"namespace": "mekanism", "path": "recipes/injecting/concrete/pink.json"},
+		{"namespace": "thermal", "path": "recipes/machines/bottler/bottler_pink_concrete.json"},
+		{"namespace": "create", "path": "recipes/splashing/gray_concrete_powder.json"},
+		{"namespace": "mekanism", "path": "recipes/injecting/concrete/gray.json"},
+		{"namespace": "thermal", "path": "recipes/machines/bottler/bottler_gray_concrete.json"},
+		{"namespace": "create", "path": "recipes/splashing/light_gray_concrete_powder.json"},
+		{"namespace": "mekanism", "path": "recipes/injecting/concrete/light_gray.json"},
+		{"namespace": "thermal", "path": "recipes/machines/bottler/bottler_light_gray_concrete.json"},
+		{"namespace": "create", "path": "recipes/splashing/cyan_concrete_powder.json"},
+		{"namespace": "mekanism", "path": "recipes/injecting/concrete/cyan.json"},
+		{"namespace": "thermal", "path": "recipes/machines/bottler/bottler_cyan_concrete.json"},
+		{"namespace": "create", "path": "recipes/splashing/purple_concrete_powder.json"},
+		{"namespace": "mekanism", "path": "recipes/injecting/concrete/purple.json"},
+		{"namespace": "thermal", "path": "recipes/machines/bottler/bottler_purple_concrete.json"},
+		{"namespace": "create", "path": "recipes/splashing/blue_concrete_powder.json"},
+		{"namespace": "mekanism", "path": "recipes/injecting/concrete/blue.json"},
+		{"namespace": "thermal", "path": "recipes/machines/bottler/bottler_blue_concrete.json"},
+		{"namespace": "create", "path": "recipes/splashing/brown_concrete_powder.json"},
+		{"namespace": "mekanism", "path": "recipes/injecting/concrete/brown.json"},
+		{"namespace": "thermal", "path": "recipes/machines/bottler/bottler_brown_concrete.json"},
+		{"namespace": "create", "path": "recipes/splashing/green_concrete_powder.json"},
+		{"namespace": "mekanism", "path": "recipes/injecting/concrete/green.json"},
+		{"namespace": "thermal", "path": "recipes/machines/bottler/bottler_green_concrete.json"},
+		{"namespace": "create", "path": "recipes/splashing/red_concrete_powder.json"},
+		{"namespace": "mekanism", "path": "recipes/injecting/concrete/red.json"},
+		{"namespace": "thermal", "path": "recipes/machines/bottler/bottler_red_concrete.json"},
+		{"namespace": "create", "path": "recipes/splashing/black_concrete_powder.json"},
+		{"namespace": "mekanism", "path": "recipes/injecting/concrete/black.json"},
+		{"namespace": "thermal", "path": "recipes/machines/bottler/bottler_black_concrete.json"},
+
+		{"namespace": "thermal", "path": "recipes/white_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/orange_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/magenta_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/light_blue_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/yellow_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/lime_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/pink_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/gray_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/light_gray_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/cyan_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/purple_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/blue_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/brown_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/green_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/red_concrete_powder_with_slag.json"},
+		{"namespace": "thermal", "path": "recipes/black_concrete_powder_with_slag.json"},
+
 
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/pickaxe_steel.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/axe_steel.json"},
@@ -134,12 +200,14 @@
 
 
 		{"namespace": "minecraft", "path": "recipes/white_wool_from_string.json"},
+
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/cobblestone_furnace.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/mixed_furnace.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/blackstone_furnace.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/deepslate_furnace.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/blackstone_blast_furnace.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/deepslate_blast_furnace.json"},
+
 		{"namespace": "byg", "path": "recipes/aspen_crafting_table.json"},
 		{"namespace": "byg", "path": "recipes/baobab_crafting_table.json"},
 		{"namespace": "byg", "path": "recipes/blue_enchanted_crafting_table.json"},
@@ -169,6 +237,7 @@
 		{"namespace": "byg", "path": "recipes/zelkova_crafting_table.json"},
 		{"namespace": "byg", "path": "recipes/sythian_crafting_table.json"},
 		{"namespace": "byg", "path": "recipes/embur_crafting_table.json"},
+
 		{"namespace": "create", "path": "recipes/crafting/deploying/large_cogwheel.json"},
 		{"namespace": "create", "path": "recipes/crafting/deploying/cogwheel.json"},
 		{"namespace": "create", "path": "recipes/crafting/kinetics/mechanical_arm.json"},
@@ -178,7 +247,12 @@
 		{"namespace": "create", "path": "recipes/milling/charcoal.json"},
 		{"namespace": "create", "path": "recipes/milling/wool.json"},
 		{"namespace": "create", "path": "recipes/pressing/sugar_cane.json"},
+
 		{"namespace": "ae2", "path": "recipes/network/cables/dense_smart_from_smart"},
+
+		{"namespace": "botania", "path": "recipes/divining_rod.json"},
+		{"namespace": "botania", "path": "recipes/petal_apothecary/exoflame.json"},
+		{"namespace": "botania", "path": "recipes/floating_exoflame.json"},
 
 		{"namespace": "botania", "path": "recipes/mana_infusion/mana_powder_dye.json"},
 
@@ -532,5 +606,8 @@
 		{"namespace": "immersiveengineering", "path": "loot_modifiers/hemp_from_grass.json"},
 		{"namespace": "immersiveengineering", "path": "loot_modifiers/hemp_from_tall_grass.json"}
 
+		
+
 	]}
+	
 }

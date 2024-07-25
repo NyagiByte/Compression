@@ -1,0 +1,28 @@
+{
+    "type": "compressedbotanics:floral_entropy",
+    "flower": "botania:rosa_arcana",
+    "block" : "botania:enchanter", 
+    "result": [
+      {
+        "item": "nyagibits_bytes:rosa_arcana_mush",
+        "count": 1,
+        "chance": 1, 
+        "enchanted": false 
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 1,
+        "chance": 0.5,
+        "allOrNothing": true 
+      },
+      {
+        "item": "minecraft:glass_bottle",
+        "count": 8,
+        "chance": 0.5,
+        "allOrNothing": true 
+      }
+    ],
+    "minTalliedMana": 10000, 
+    "minDecayTicks": 60000, 
+    "maxDecayTicks": 100000 
+  }
