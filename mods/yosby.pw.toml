@@ -1,0 +1,13 @@
+name = "Your Options Shall Be Yours (YOSBY)"
+filename = "YOSBY-Forge-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7765999fd4bfacf569a085450e3fc0d947bfc6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4803559
+project-id = 569868
