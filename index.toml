@@ -5,6 +5,10 @@ file = "README.md"
 hash = "f0032bb2e3774c212f26a981dfa4eb82ccdd44e2acc82ba65a5800bbd38f2a2e"
 
 [[files]]
+file = "config/LunaPixelStudios"
+hash = "a672c3b7c4cebcf67250197d20679885e0beb0b5b9ffad170e684fda9ee58f3c"
+
+[[files]]
 file = "config/Mekanism/world.toml"
 hash = "4afe6819aa4da9a2317c4f8578c4fbb74b941a90875d142cc8b699531f898267"
 
@@ -5182,6 +5186,11 @@ metafile = true
 [[files]]
 file = "mods/lootjs.pw.toml"
 hash = "b395baefd33af6da9f29feb5cf50eac5aeb13f3f31e22004d943964c222156ea"
+metafile = true
+
+[[files]]
+file = "mods/luna.pw.toml"
+hash = "03f7fc5231588cbeaf18e5f1a5cc5f6b5473d5b2b99f2b26ff01adaa7508efb0"
 metafile = true
 
 [[files]]
