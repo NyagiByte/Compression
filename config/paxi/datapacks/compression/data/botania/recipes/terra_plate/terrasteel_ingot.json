@@ -1,0 +1,21 @@
+{
+    "type": "botania:terra_plate",
+    "ingredients": [
+      {
+        "item": "botania:elementium_ingot"
+      },
+      {
+        "item": "botania:pixie_dust"
+      },
+      {
+        "item": "botania:dragonstone"
+      },
+      {
+        "item": "nuclearcraft:depleted_fuel_californium_hecf_249"
+      }
+    ],
+    "mana": 500000,
+    "result": {
+      "item": "botania:terrasteel_ingot"
+    }
+  }
