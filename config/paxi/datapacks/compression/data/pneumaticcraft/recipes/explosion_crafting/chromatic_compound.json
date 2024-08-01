@@ -1,0 +1,12 @@
+{
+    "type": "pneumaticcraft:explosion_crafting",
+    "input": {
+      "item": "nyagibits_bytes:metamorphic_alloy"
+    },
+    "loss_rate": 20,
+    "results": [
+      {
+        "item": "createchromaticreturn:chromatic_compound"
+      }
+    ]
+  }

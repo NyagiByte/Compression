@@ -131,18 +131,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:quartz_elven'});
         e.remove({output: 'botania:quartz_sunny'});
         e.remove({output: 'botania:tripwire'});
-        e.remove({output: 'botania:dirt_rod'});
-        e.remove({output: 'botania:skydirt_rod'});
-        e.remove({output: 'botania:terraform_rod'});
-        e.remove({output: 'botania:cobble_rod'});
-        e.remove({output: 'botania:water_rod'});
-        e.remove({output: 'botania:tornado_rod'});
-        e.remove({output: 'botania:fire_rod'});
-        e.remove({output: 'botania:smelt_rod'});
-        e.remove({output: 'botania:exchange_rod'});
-        e.remove({output: 'botania:rainbow_rod'});
-        e.remove({output: 'botania:gravity_rod'});
-        e.remove({output: 'botania:missile_rod'});
         e.remove({output: 'botania:manasteel_helmet'});
         e.remove({output: 'botania:manasteel_chestplate'});
         e.remove({output: 'botania:manasteel_leggings'});
@@ -483,8 +471,6 @@ ServerEvents.recipes(e => {
         e.remove({mod: 'nuclearcraft'})
     //Compact Machines
         e.remove({mod: 'compactmachines'})
-    //Chromatic Return
-        e.remove({mod: 'createchromaticreturn'})
     //PneumaticCraft
         e.remove({output: 'pneumaticcraft:pressure_gauge'});
         e.remove({output: 'pneumaticcraft:stone_base'});
