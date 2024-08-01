@@ -4901,6 +4901,11 @@ hash = "8bbefdc705e24ebd5d8c2d39de530d3767def3153d8d364d49a93cdc930bddbc"
 metafile = true
 
 [[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "3453884118418e6544387a3e4b8dc4e648896f571d895ccfaf3b7655d8c2f7bd"
+metafile = true
+
+[[files]]
 file = "mods/chemlib.pw.toml"
 hash = "0b9c7d96f3c8f7684abdc497af19b5ec0cc11e43b382d8179e5f24ba1f2e953e"
 metafile = true
@@ -4913,6 +4918,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2c3ddac643593c3dec5bdad4a4ee6d10b62430409ee1c558ce3c5cbed9f40700"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "f0137997b6406301bf2abf9c60394c9ce77243e15e6264fb8193281f54b1c239"
 metafile = true
 
 [[files]]
@@ -5313,6 +5323,11 @@ metafile = true
 [[files]]
 file = "mods/ponder.pw.toml"
 hash = "4b958c3511f8836988f0603a38dc90305ed2adb30dadb89e9caa69dfc0d704a3"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "4f613f5eb20a3095e3ca3d5d05814f1cbe595eba9c7a3bae1ffd3d593393c8f8"
 metafile = true
 
 [[files]]
