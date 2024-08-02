@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/Compression.iml"
+hash = "0ff94b49c61885dd797e3da61dc3444c7ab48f317373ca42681910f1f8413752"
+
+[[files]]
+file = ".idea/libraries/mods.xml"
+hash = "cfa0d9b0f7294b8cfb9f4210f652750e1ee5f3548c08baa511bf0a1b0540d9d5"
+
+[[files]]
+file = ".idea/misc.xml"
+hash = "e21bfae2d007aa04a518cbd06bee69ffe072ffc1ccaf9e0bbd60380b776412dc"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "500b9ea398b22a70a318aee6fd8e801aadddf99de0cd08860482dfc079a4839b"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "07256a05f3287042c71477df4e6e6962bcee82c5b16a0053a0c8d91b9a03d00d"
+
+[[files]]
 file = "README.md"
 hash = "f0032bb2e3774c212f26a981dfa4eb82ccdd44e2acc82ba65a5800bbd38f2a2e"
 
@@ -4341,12 +4365,20 @@ file = "kubejs/assets/gardenofglass/lang/zh_tw.json"
 hash = "1d2fdca5df457ff19db6b21ea1a0904cd69b46a84e02d2a285948febc6889ad1"
 
 [[files]]
+file = "kubejs/assets/kubejs/ponder/arc_furnace_ponder.nbt"
+hash = "1be78102b3db3d1c03d47788bb8e9ccbb76f18e665abb3c31b1845287e34111f"
+
+[[files]]
 file = "kubejs/assets/kubejs/ponder/botania_5x5.nbt"
 hash = "c6b4751c5c2cb5e3e552ff0c0ad203183ced1bbed233b9f3dcc9ca065a07c3d3"
 
 [[files]]
 file = "kubejs/assets/kubejs/ponder/botania_7x7.nbt"
 hash = "08ae87d3aedd15ae36bc5804786057fa8c9b88177274ad00b4e89ed6cd09e3ce"
+
+[[files]]
+file = "kubejs/assets/kubejs/ponder/ie_base_5x5.nbt"
+hash = "69995101d3e20f9225145ad4284c61a44d864122cb117efdf70349aa22401453"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
@@ -4363,6 +4395,10 @@ hash = "823ef2149d4be018a0603d3fb768ab4fa6f87b656f23317fb40bfa6281ad61d4"
 [[files]]
 file = "kubejs/client_scripts/Ponder/compactcrafting.js"
 hash = "cf280fbaa0ebc5bf98d66cf7d153c3bd0e0ae4818ca1d4a0b90a2b09f9cd0191"
+
+[[files]]
+file = "kubejs/client_scripts/Ponder/immersiveengineering.js"
+hash = "8931e777d682e43fb13e2d0a8140bbc3e79288d5acc73bfe60097f519e7551f4"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/minecraft.js"
