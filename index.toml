@@ -869,6 +869,10 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/mana_infusion/man
 hash = "5f8f2c9bef858605164952596d6a831e26519aff61d1e11a9d969909756aeb02"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/mana_infusion/mana_quartz.json"
+hash = "1d932a86e9fab7e3feccfef91a67c7e93e0fae6ea9e028ca3bd6721095e8c570"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_infusion/manasteel.json"
 hash = "45041fc585b90b3f05ba22cad89344e302c474582a5293f48a8f6c1b760cb5ee"
 
@@ -962,7 +966,7 @@ hash = "671478b9b96da0d3b1ae8d35a97c0bb53fd231712f812f69bab95cfcaeb0f1f3"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/magnetic.json"
-hash = "79e35a5a842e69c82ca0d36be882858ae1118713a15a8d58f5343ab44fb875c4"
+hash = "f43f11c50df5654d97f91d5036f38fd21a52422f7b529c38e26346c9ba3daba9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/mana.json"
@@ -975,6 +979,10 @@ hash = "c90593ee84caef0f0128cc15fcf168e13f1cca0a017d58723b99a09c21c1492c"
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar_alt.json"
 hash = "e40c53007dcfd0c22f45676c6bcc76a5d0df948de6f43bb512aa9d3e45fedb09"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/terra_plate/terrasteel_ingot.json"
+hash = "aa2e5f8f2652b3bfad8e5151001218e8930dc8e410e6d281bd84ae1f10d7aaf7"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/compressedbotanics/recipes/endoflame.json"
@@ -1791,6 +1799,14 @@ hash = "a5ca61f77db030ad0e5b0fab479cf72a846952ae52e2b256b9e40ea4e61204fe"
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/yellow_concrete_powder.json"
 hash = "1ed80e30a06146320669258325d27f8d14a4828e836000496ae67caf2e380bc5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/mythicbotany/recipes/mythicbotany_infusion/alfsteel_ingot.json"
+hash = "36b65a83158283a35886a4ebe598a4bc911ccc3ff4f3a2fb4c75aa8d25ff5d11"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/mythicbotany/recipes/mythicbotany_infusion/terrasteel_ingot.json"
+hash = "5592861aff28faeed73eb58f71645fd72239ef9b3ee12d1ffcc09e16fcc1b929"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/petal_apothecary/components/organic_pseudo_logic.json"
@@ -3853,6 +3869,10 @@ file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/drill_pipe
 hash = "fb84726a5d0b904c5339c40f098272b0137a37c7a42cd4a96e5a77a00fd4980f"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/explosion_crafting/chromatic_compound.json"
+hash = "19f7ae50a395083b0fc5584eb13fb259c9b37ba72eec9e5132ce50adfac1c425"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/heat_sink.json"
 hash = "0d9b86f64f5768f49a28937f03a35dbef87a98d46c2679dc28a2e068c46e4bcf"
 
@@ -3937,8 +3957,12 @@ file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/mecha
 hash = "36c7937a5b621a5623dbf6665b19d3a37f5a136b822d8d8c21a9f6123725df4a"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/sequenced_assembly/redstone_module.json"
+hash = "676f74acebeedab7174a16ecc9081d256e406c306bc4403416a697cb20b3f24f"
+
+[[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "857423ef8d29a04ced8996482b9340658f4ae560e802496782e141ca643af525"
+hash = "86b9a7d4d80654aac77414463aaf60000d0df79128587b703486822c266f5061"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -4742,7 +4766,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "1ed7407794cd79c046049ef41b59aec299f91693aa1ae25f0edf1f6a79518641"
+hash = "5e6f76e643057c72afaea31bbf5d3c2f140e27f7ec409c0b3037fb215d2b5bf9"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
@@ -4754,7 +4778,7 @@ hash = "1b138d54d15800ccd1d160a2ac2c99951e8939bb7d234742a20be70b19fb8b03"
 
 [[files]]
 file = "kubejs/server_scripts/vintageimprovement_removals.js"
-hash = "f85c41ab7ee100ada7b37c1aca83686d442dda66046274c6efb5d3b8ad6e98ee"
+hash = "a9dd552d430d12e9ce52f2a356af1600df8dfa1003bd61a1427590a61d09b7ea"
 
 [[files]]
 file = "kubejs/startup_scripts/block_modify.js"
@@ -4877,6 +4901,11 @@ hash = "8bbefdc705e24ebd5d8c2d39de530d3767def3153d8d364d49a93cdc930bddbc"
 metafile = true
 
 [[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "3453884118418e6544387a3e4b8dc4e648896f571d895ccfaf3b7655d8c2f7bd"
+metafile = true
+
+[[files]]
 file = "mods/chemlib.pw.toml"
 hash = "0b9c7d96f3c8f7684abdc497af19b5ec0cc11e43b382d8179e5f24ba1f2e953e"
 metafile = true
@@ -4889,6 +4918,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2c3ddac643593c3dec5bdad4a4ee6d10b62430409ee1c558ce3c5cbed9f40700"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "f0137997b6406301bf2abf9c60394c9ce77243e15e6264fb8193281f54b1c239"
 metafile = true
 
 [[files]]
@@ -4953,11 +4987,6 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "c98b92c96eb546872a0d203969ddba29a17f6ab0e57ff93081d81a138562e8b7"
-metafile = true
-
-[[files]]
-file = "mods/create-chromaticreturn.pw.toml"
-hash = "f52ecab82a94b7fa88c7b443837ad44c4695040df373055f101ebaf561095d99"
 metafile = true
 
 [[files]]
@@ -5294,6 +5323,21 @@ metafile = true
 [[files]]
 file = "mods/ponder.pw.toml"
 hash = "4b958c3511f8836988f0603a38dc90305ed2adb30dadb89e9caa69dfc0d704a3"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "4f613f5eb20a3095e3ca3d5d05814f1cbe595eba9c7a3bae1ffd3d593393c8f8"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.pw.toml"
+hash = "fc6df185faebf2cd7bd16e937539932f6401b04ff33cd6b4d066c3e17072af06"
+metafile = true
+
+[[files]]
+file = "mods/project-red-transmission.pw.toml"
+hash = "29e6b478f6cd43867e9e3b5bd1f79fba7cc56005aeddd673ecaa6b4ac68f9fb4"
 metafile = true
 
 [[files]]

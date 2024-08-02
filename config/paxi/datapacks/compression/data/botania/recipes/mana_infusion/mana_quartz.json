@@ -1,0 +1,10 @@
+{
+    "type": "botania:mana_infusion",
+    "input": {
+      "item": "ae2:fluix_block"
+    },
+    "mana": 3000,
+    "output": {
+      "item": "botania:quartz_mana"
+    }
+  }

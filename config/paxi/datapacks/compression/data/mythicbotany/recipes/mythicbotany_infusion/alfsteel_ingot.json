@@ -1,0 +1,22 @@
+{
+    "type": "mythicbotany:infuser",
+    "fromColor": 16711821,
+    "group": "infuser",
+    "ingredients": [
+      {
+        "item": "botania:terrasteel_ingot"
+      },
+      {
+        "item": "chemlib:oganesson"
+      },
+      {
+        "item": "minecraft:nether_star"
+      }
+    ],
+    "mana": 1500000,
+    "output": {
+      "count": 1,
+      "item": "mythicbotany:alfsteel_ingot"
+    },
+    "toColor": 16750080
+  }
