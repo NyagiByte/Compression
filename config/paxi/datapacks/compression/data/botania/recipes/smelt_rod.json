@@ -1,0 +1,20 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "create:blaze_burner"
+    },
+    {
+      "item": "botania:fire_rod"
+    }
+  ],
+  "output": {
+    "item": "botania:smelt_rod"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}
