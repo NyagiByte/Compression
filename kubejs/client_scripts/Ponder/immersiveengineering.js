@@ -54,18 +54,19 @@ Ponder.registry((e) => {
             scene.text(60, "The hammer can be also used to configure certain blocks.", [2.5,1,2.5]);
             scene.idle(60);
             scene.text(80, "For example, right-clicking a side of an accumulator, will set whether it's an input, an output, or neither.", [2.5,1,2.5]);
+            scene.text(80, "Tip: Shift-Right clicking will set the opposite side, if available!");
             scene.idle(20);
-            scene.world.modifyTileNBT([2,1,2], (nbt) => {
+            scene.world.modifyBlockEntityNBT([2,1,2], true, (nbt) => {
                 nbt.sideConfig_1 = 2;
-            }, true)
+            })
             scene.idle(20)
-            scene.world.modifyTileNBT([2,1,2], (nbt) => {
+            scene.world.modifyBlockEntityNBT([2,1,2], true, (nbt) => {
                 nbt.sideConfig_1 = 0;
-            }, true)
+            })
             scene.idle(20)
-            scene.world.modifyTileNBT([2,1,2], (nbt) => {
+            scene.world.modifyBlockEntityNBT([2,1,2], true, (nbt) => {
                 nbt.sideConfig_1 = 1;
-            }, true)
+            })
             scene.idle(20)
 
 
