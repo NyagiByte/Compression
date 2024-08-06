@@ -1,0 +1,26 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "nyagibits_bytes:botania_assembly"
+      },
+      {
+        "item": "botania:redstone_root"
+      },
+      {
+        "item": "botania:tangleberrie"
+      },
+      {
+        "item": "botania:mana_pearl"
+      }
+    ],
+    "output": {
+      "item": "botania:vinculotus"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

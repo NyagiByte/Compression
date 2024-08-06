@@ -1,0 +1,31 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
+  "loops": 1,
+  "results": [
+    {"item": "ae2:quartz_growth_accelerator"}
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:flawed_budding_quartz"},
+        {"item": "ae2:flawed_budding_quartz"}  
+      ],
+      "results": [
+        {"item": "ae2:flawed_budding_quartz"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "ae2:flawed_budding_quartz"},
+        {"item": "nyagibits_bytes:ae2_schematic"}
+      ],
+      "results": [
+        {"item": "ae2:flawed_budding_quartz"}
+      ]
+    }
+  ],
+  "transitionalItem": {"item": "ae2:flawed_budding_quartz"}
+}

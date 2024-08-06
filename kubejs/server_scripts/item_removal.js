@@ -10,7 +10,6 @@ ServerEvents.recipes(e => {
             e.remove({output: 'ae2:spatial_pylon'});
             e.remove({output: 'ae2:spatial_io_port'});
             e.remove({output: 'ae2:condenser'});
-            e.remove({output: 'ae2:quartz_growth_accelerator'});
             e.remove({output: 'ae2:energy_cell'});
             e.remove({output: 'ae2:dense_energy_cell'});
             e.remove({output: 'ae2:crafting_unit'});
@@ -117,9 +116,7 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:shimmerrock'});
         e.remove({output: 'botania:shimmerwood_planks'});
         e.remove({output: 'botania:fel_pumpkin'});
-        e.remove({output: 'botania:forest_eye'});
         e.remove({output: 'botania:tiny_planet_block'});
-        e.remove({output: 'botania:redstone_root'});
         e.remove({output: 'botania:elementium_ingot'});
         e.remove({output: 'botania:pixie_dust'});
         e.remove({output: 'botania:dragonstone'});
@@ -152,7 +149,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:manaweave_chestplate'});
         e.remove({output: 'botania:manaweave_leggings'});
         e.remove({output: 'botania:manaweave_boots'});
-        e.remove({output: 'botania:ender_dagger'});
         e.remove({output: 'botania:glass_pickaxe'});
         e.remove({output: 'botania:crystal_bow'});
         e.remove({output: 'botania:thorn_chakram'});
@@ -247,31 +243,10 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:dandelifeon'});
         e.remove({output: 'botania:rafflowsia'});
         e.remove({output: 'botania:shulk_me_not'});
-        e.remove({output: 'botania:bellethorn'});
-        e.remove({output: 'botania:bergamute'});
-        e.remove({output: 'botania:dreadthorn'});
-        e.remove({output: 'botania:heisei_dream'});
-        e.remove({output: 'botania:tigerseye'});
-        e.remove({output: 'botania:jaded_amaranthus'});
         e.remove({output: 'botania:orechid'});
         e.remove({output: 'botania:fallen_kanade'});
-        e.remove({output: 'botania:agricarnation'});
-        e.remove({output: 'botania:hopperhock'});
-        e.remove({output: 'botania:tangleberrie'});
-        e.remove({output: 'botania:jiyuulia'});
-        e.remove({output: 'botania:rannuncarpus'});
-        e.remove({output: 'botania:hyacidus'});
-        e.remove({output: 'botania:pollidisiac'});
         e.remove({output: 'botania:loonium'});
-        e.remove({output: 'botania:daffomill'});
-        e.remove({output: 'botania:vinculotus'});
-        e.remove({output: 'botania:spectranthemum'});
-        e.remove({output: 'botania:medumone'});
-        e.remove({output: 'botania:marimorphosis'});
-        e.remove({output: 'botania:bubbell'});
-        e.remove({output: 'botania:solegnolia'});
         e.remove({output: 'botania:orechid_ignem'});
-        e.remove({output: 'botania:labellia'});
     //Immersive Engineering
         e.remove({output: 'immersiveengineering:gunpart_barrel'});
         e.remove({output: 'immersiveengineering:gunpart_drum'});

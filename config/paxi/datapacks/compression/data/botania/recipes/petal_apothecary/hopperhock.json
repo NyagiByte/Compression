@@ -1,0 +1,27 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "nyagibits_bytes:botania_assembly"
+      },
+      {
+        "item": "botania:redstone_root"
+      },
+      {
+        "item": "minecraft:hopper"
+      },
+      {
+        "item": "immersiveengineering:electron_tube"
+      }
+    ],
+    "output": {
+      "count": 2,
+      "item": "botania:hopperhock"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

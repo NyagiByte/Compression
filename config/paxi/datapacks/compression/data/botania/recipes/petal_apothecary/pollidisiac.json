@@ -1,0 +1,29 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "nyagibits_bytes:botania_assembly"
+      },
+      {
+        "item": "minecraft:activator_rail"
+      },
+      {
+        "item": "nyagibits_bytes:mixed_seeds"
+      },
+      {
+        "item": "minecraft:hay_block"
+      },
+      {
+        "item": "farmersdelight:carrot_crate"
+      }
+    ],
+    "output": {
+      "item": "botania:pollidisiac"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

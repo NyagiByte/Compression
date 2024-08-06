@@ -1,0 +1,32 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "nyagibits_bytes:botania_assembly"
+      },
+      {
+        "item": "botania:rune_wrath"
+      },
+      {
+        "item": "ae2:fluix_dust"
+      },
+      {
+        "item": "ae2:fluix_dust"
+      },
+      {
+        "item": "ae2:fluix_dust"
+      },
+      {
+        "item": "ae2:fluix_dust"
+      }
+    ],
+    "output": {
+      "item": "botania:heisei_dream"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

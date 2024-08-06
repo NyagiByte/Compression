@@ -1,0 +1,20 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "botania:bellethorn"
+      },
+      {
+        "item": "botania:forest_eye"
+      }
+    ],
+    "output": {
+      "item": "botania:dreadthorn"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }
