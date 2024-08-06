@@ -1,0 +1,28 @@
+{
+	"type":"vintageimprovements:pressurizing",
+    "heatRequirement": "heated",
+	"ingredients": [
+		{
+			"item": "thermal:bitumen"
+		},
+		{
+			"item": "immersiveengineering:concrete"
+		},
+		{
+			"item": "immersiveengineering:concrete"
+		},
+		{
+			"item": "immersiveengineering:concrete"
+		},
+		{
+			"item": "immersiveengineering:concrete"
+		}
+	],
+	"results": [
+		{
+            "count": 4,
+			"item": "immersivepetroleum:asphalt"
+		}
+	],
+	"processingTime": 800
+}
