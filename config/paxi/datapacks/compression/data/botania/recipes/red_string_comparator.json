@@ -1,0 +1,45 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "nyagibits_bytes:botania_assembly"
+      },
+      {
+        "item": "botania:livingrock_bricks"
+      },
+      {
+        "item": "botania:livingrock_bricks"
+      },
+      {
+        "item": "botania:livingrock_bricks"
+      },
+      {
+        "item": "botania:livingrock_bricks"
+      },
+      {
+        "item": "botania:red_string"
+      },
+      {
+        "item": "botania:red_string"
+      },
+      {
+        "item": "botania:red_string"
+      },
+      {
+        "item": "botania:red_string"
+      },
+      {
+        "item": "minecraft:comparator"
+      }
+    ],
+    "output": {
+      "count": 2,
+      "item": "botania:red_string_comparator"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

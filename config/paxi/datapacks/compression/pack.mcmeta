@@ -265,6 +265,8 @@
 
 		{"namespace": "ae2", "path": "recipes/network/cables/dense_smart_from_smart"},
 
+		{"namespace": "botania", "path": "recipes/red_string_alt.json"},
+
 		{"namespace": "botania", "path": "recipes/runic_altar/spring.json"},
 		{"namespace": "botania", "path": "recipes/runic_altar/summer.json"},
 		{"namespace": "botania", "path": "recipes/runic_altar/fall.json"},

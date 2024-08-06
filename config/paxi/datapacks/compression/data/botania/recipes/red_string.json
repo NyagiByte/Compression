@@ -1,0 +1,36 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "nyagibits_bytes:rune_binder"
+      },
+      {
+        "item": "botania:ender_air_bottle"
+      },
+      {
+        "item": "vintageimprovements:redstone_module"
+      },
+      {
+        "item": "botania:mana_string"
+      },
+      {
+        "item": "botania:mana_string"
+      },
+      {
+        "item": "botania:mana_string"
+      },
+      {
+        "item": "botania:mana_string"
+      }
+    ],
+    "output": {
+      "count": 4,
+      "item": "botania:red_string"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }
