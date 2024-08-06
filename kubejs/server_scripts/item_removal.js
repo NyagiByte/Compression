@@ -89,16 +89,12 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:gaia_pylon'});
         e.remove({output: 'botania:elven_spreader'});
         e.remove({output: 'botania:gaia_spreader'});
-        e.remove({output: 'botania:mana_distributor'});
-        e.remove({output: 'botania:mana_void'});
-        e.remove({output: 'botania:mana_detector'});
         e.remove({output: 'botania:piston_relay'});
         e.remove({output: 'botania:turntable'});
         e.remove({output: 'botania:drum_wild'});
         e.remove({output: 'botania:drum_gathering'});
         e.remove({output: 'botania:drum_canopy'});
         e.remove({output: 'botania:spawner_claw'});
-        e.remove({output: 'botania:prism'});
         e.remove({output: 'botania:pump'});
         e.remove({output: 'botania:spark_charger'});
         e.remove({output: 'botania:mana_bomb'});
