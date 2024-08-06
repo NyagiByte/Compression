@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shaped",
     "key": {
       "A": {"item":"immersiveengineering:treated_wood_packaged"},
-      "B": {"item":"immersiveengineering:stick_steel"},
+      "B": {"item":"vintageimprovements:steel_rod"},
       "C": {"item":"create:brass_bars"},
       "D": {"item":"quark:bonded_leather"}
     },
