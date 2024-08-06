@@ -880,6 +880,7 @@
 		}
 		{
 			dependencies: ["2B1226794C380C3A"]
+			description: ["Only took like 200 hours to have the bare minimum. &bI am going to kill the pack devs with my own hands"]
 			id: "0CA06BC53DA3167B"
 			rewards: [{
 				id: "5E57B688F3CC94B8"
@@ -1190,7 +1191,7 @@
 		}
 		{
 			dependencies: ["46FF0B8D87309F93"]
-			description: ["On demand crafting using requesting will &cNOT&r be able to be done for a large slice of this pack. Instead components that allow shuttling of items have been made cheap to encourage passive and continuous production"]
+			description: ["On demand crafting using requesting will &cNOT&r be available until &6Tier 3&r. Instead components that allow shuttling of items have been made cheap to encourage passive and continuous production"]
 			id: "09F509541A68BB2B"
 			rewards: [{
 				id: "0076016A4AC64464"
