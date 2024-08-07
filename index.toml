@@ -1361,6 +1361,14 @@ file = "config/paxi/datapacks/compression/data/forge/tags/fluids/ethanol.json"
 hash = "71923bdeb00b0539d230f0e3b31387c186fe94cdbb23ee52a65f29cb2d821280"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/gardenofglass/loot_tables/extra_seeds.json"
+hash = "d270d75f52b80bb75f24e1d4e88cd54cc886951c01dd6a27a4959754cff7e725"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/gardenofglass/loot_tables/pebbles.json"
+hash = "9c213a631283125d1123361e069eca8ad2b2e26d3577fba4a917a00883439b6c"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/arcfurnace/insulated_glass.txt"
 hash = "90e3369d1e66a94c5789a5f1237a9208a52e1d45381e37a24fc8e019b9ae654e"
 
@@ -1811,14 +1819,6 @@ hash = "4def6a9610c5050a441bf990897cf0d43e9555e1f8f958103b1a0297d115f9be"
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/loot_tables/blocks/tall_grass.json"
 hash = "f5e3ae755ec2ed2f5615a45b6368164d22de837b23a22ba26fd1b77177110172"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/minecraft/loot_tables/grass.json"
-hash = "8a30465ee55aa4a07a4837647b0596e6ae184f839f00e22824561e994fc8f8d8"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/minecraft/loot_tables/tall_grass.json"
-hash = "8bdb9771b00c1fd01a00c0f2c790ebbbaecbd7f3efd4e41425f56c14bf0e2303"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/black_concrete_powder.json"
