@@ -5179,6 +5179,11 @@ hash = "744e5e4e22ae6ed5c3c3147ec9380d4360fb72a217db5df740d8adcfa9fc9813"
 metafile = true
 
 [[files]]
+file = "mods/compressed-mysterious-conversions.pw.toml"
+hash = "ab97bea5b930740949cbfdbae830bf76fae6c20a1f9140b7c54c595af1e32075"
+metafile = true
+
+[[files]]
 file = "mods/compressedcreativity.pw.toml"
 hash = "a840f125eb801e899c969ae883619e0de201ebaf600b372e0ae1bad10ea36edd"
 metafile = true
