@@ -1,0 +1,32 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "botania:redstone_root"
+      },
+      {
+        "item": "botania:bubbell_chibi"
+      },
+      {
+        "item": "immersiveengineering:hemp_fabric"
+      },
+      {
+        "item": "immersiveengineering:hemp_fabric"
+      },
+      {
+        "item": "immersiveengineering:hemp_fabric"
+      },
+      {
+        "item": "immersiveengineering:hemp_fabric"
+      }
+    ],
+    "output": {
+      "item": "botania:teru_teru_bozu"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

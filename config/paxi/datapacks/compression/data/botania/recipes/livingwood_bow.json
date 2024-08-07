@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"botania:livingwood_fence"},
+    "B": {"item":"immersiveengineering:treated_scaffold"},
+    "C": {"item":"botania:mana_string"}
+  },
+  "pattern": [
+    " AB",
+    "A C",
+    "BC "
+  ],
+  "result": {
+        "item": "botania:livingwood_bow"}
+}

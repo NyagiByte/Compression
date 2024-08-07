@@ -1,0 +1,36 @@
+{
+    "type": "botania:runic_altar",
+    "ingredients": [
+      {
+        "item": "botania:spectranthemum"
+      },
+      {
+        "item": "minecraft:obsidian"
+      },
+      {
+        "item": "minecraft:obsidian"
+      },
+      {
+        "item": "minecraft:obsidian"
+      },
+      {
+        "item": "minecraft:obsidian"
+      },
+      {
+        "item": "minecraft:obsidian"
+      },
+      {
+        "item": "minecraft:obsidian"
+      },
+      {
+        "item": "minecraft:obsidian"
+      },
+      {
+        "item": "minecraft:obsidian"
+      }
+    ],
+    "mana": 100000,
+    "output": {
+      "item": "minecraft:ender_chest"
+    }
+  }
