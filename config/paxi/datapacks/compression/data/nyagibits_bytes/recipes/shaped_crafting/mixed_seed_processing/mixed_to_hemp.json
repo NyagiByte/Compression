@@ -4,9 +4,7 @@
       "A": {"item":"nyagibits_bytes:mixed_seeds"}
     },
     "pattern": [
-      " A ",
-      "A  ",
-      "   "
+      "A A"
     ],
     "result": {
         "count": 4,
