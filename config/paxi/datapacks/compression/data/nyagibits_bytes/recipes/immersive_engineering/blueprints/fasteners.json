@@ -5,7 +5,7 @@
     "inputs":[
         {
             "base_ingredient":{
-                "item":"create:iron_sheet"},
+                "item":"chemlib:iron_plate"},
                 "count":4},
         {
             "base_ingredient":{

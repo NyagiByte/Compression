@@ -2418,7 +2418,7 @@ hash = "cc118078e5c102aad8a0deaf989a7ab7e37e3fca97038a1abd1b20efdf6527fd"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/pen.json"
-hash = "dec9f236c1683e74820b99ed59d8f6bf7a4d3c5facdf02a6ee3d7dc729ea7ac9"
+hash = "4d674bdb1d2175c83ee028985a3e5c0523d43cb19f97a1ea87c03069c69399ab"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/petri_dish_empty.json"
@@ -2430,7 +2430,7 @@ hash = "0ce3fb4a07e89142027cd1ce404abe55a4a194a7686101b5a63bee58a86dab2f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/skystone_shielding.json"
-hash = "cccf413f110fd2f3cb42b08380050c7cb0a335b511328f2ec5b93b53bf5bb1cc"
+hash = "53bd4eeecf75e206e21e847b70130ca5a69321ba4bc3ebb1722bc3823f95a2a8"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/soil_conditioner.json"
@@ -2506,7 +2506,7 @@ hash = "3f7701ee71d15eb315ed4d70ef00281a9f870da38a75086138b1cf1b6dfb18df"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/fasteners.json"
-hash = "1735c94361278f2df740ce8689b0f13471bc0f292a1482cabdf0fc6bb862fcc0"
+hash = "0d835ca0752073297e43356285a6e3570975f86a32ffa87687d0d81d8a346027"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/fire_extinguisher.json"

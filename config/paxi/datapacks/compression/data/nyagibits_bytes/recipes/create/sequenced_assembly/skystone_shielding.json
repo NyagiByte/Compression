@@ -47,7 +47,7 @@
             "item": "create:sturdy_sheet"
           },
           {
-            "item": "create:iron_sheet"
+            "item": "chemlib:iron_plate"
           }
         ],
         "results": [
