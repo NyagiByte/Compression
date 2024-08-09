@@ -1,0 +1,11 @@
+{
+  "type": "compressedmystconv:radiant_conversion",
+  "input": {
+    "item": "nyagibits_bytes:chromatic_compound",
+    "count": 1
+  },
+  "output": {
+    "item": "nyagibits_bytes:refined_radiance",
+    "count": 1
+  }
+}

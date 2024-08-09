@@ -1,3 +1,6 @@
 {
-  "loadOrder": []
+  "loadOrder": [
+    "compstruct",
+    "compression"
+  ]
 }

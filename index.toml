@@ -354,7 +354,7 @@ hash = "2f9032b38c0d562bcbf977a75b8d77e31de701871c8e96c2e3421e57979b8a96"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+hash = "54e1940f6a7748855dbe5d69ac348b0256ccb4633058b4c49aa80803499c3f5c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/decorative/light_detector.json"
@@ -1219,6 +1219,14 @@ hash = "93540e20f45e38ca6f8e5186835d4aed10cc80a3ae5c3c694adb973cf7d45750"
 [[files]]
 file = "config/paxi/datapacks/compression/data/compressedbotanics/recipes/thermalily.json"
 hash = "ff0243e2545727e840833395f12fd20d92b750486ff92243c3840d641ebe1d41"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressedmystconv/recipes/radiant_conversion/refined_radiance.json"
+hash = "b1e131c7ccc89888457d5c29ee1aee4c3c4bee9085f9197523a85dc976df6f3c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressedmystconv/recipes/void_conversion/shadow_steel.json"
+hash = "a1798eba6497ffe196aee0cb8c783a89bbb03c10aaa5202d65d17d0294781062"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/basin.json"

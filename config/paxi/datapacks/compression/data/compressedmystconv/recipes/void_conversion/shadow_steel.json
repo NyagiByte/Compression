@@ -1,0 +1,11 @@
+{
+  "type": "compressedmystconv:void_conversion",
+  "input": {
+    "item": "nyagibits_bytes:chromatic_compound",
+    "count": 1
+  },
+  "output": {
+    "item": "nyagibits_bytes:shadow_steel",
+    "count": 1
+  }
+}
