@@ -1,7 +1,7 @@
 {
 	"pack":
 	{
-		"pack_format": 9,
+		"pack_format": 1,
 		"description": "Compression's Recipes etc."
 	},
 	"filter": { "block": [
@@ -261,7 +261,11 @@
 		{"namespace": "create", "path": "recipes/haunting/infested_chiseled_stone_bricks.json"},
 		{"namespace": "create", "path": "recipes/haunting/lapis_recycling.json"},
 		{"namespace": "create", "path": "recipes/compat/farmersdelight/haunting/rotten_tomato.json"},
+
 		{"namespace": "create", "path": "recipes/haunting/poisonous_potato.json"},
+
+		{"namespace": "create", "path": "recipes/deploying/cogwheel.json"},
+		{"namespace": "create", "path": "recipes/deploying/large_cogwheel.json"},
 
 		{"namespace": "ae2", "path": "recipes/network/cables/dense_smart_from_smart"},
 
@@ -650,6 +654,8 @@
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
 
 		{"namespace": "architects_palette", "path": "recipes/charcoal_from_charcoal_blocks.json"},
+
+		{"namespace": "projectred_core", "path": "recipes/plate.json"},
 
 		{"namespace": "vintageimprovements", "path": "recipes/pressurizing/sulfuric_acid.json"},
 		{"namespace": "vintageimprovements", "path": "recipes/pressurizing/sulfur_dioxide.json"},
