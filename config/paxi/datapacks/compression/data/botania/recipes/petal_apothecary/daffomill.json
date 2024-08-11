@@ -1,0 +1,24 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "nyagibits_bytes:botania_assembly"
+      },
+      {
+        "item": "botania:redstone_root"
+      },
+      {
+        "item": "nyagibits_bytes:fume_fan"
+      }
+    ],
+    "output": {
+      "count": 4,
+      "item": "botania:daffomill"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

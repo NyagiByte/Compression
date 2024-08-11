@@ -158,6 +158,7 @@
 				title: "Prison"
 				type: "checkmark"
 			}]
+			title: "&cPrison"
 			x: 1.0d
 			y: 0.0d
 		}
@@ -206,7 +207,7 @@
 				title: "Holy bingle Celeste:tm: refrence"
 				type: "checkmark"
 			}]
-			title: "&cStrawberries?"
+			title: "&dStrawberries?"
 			x: 0.0d
 			y: 2.0d
 		}

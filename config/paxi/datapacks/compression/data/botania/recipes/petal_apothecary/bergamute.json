@@ -1,0 +1,39 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "nyagibits_bytes:botania_assembly"
+      },
+      {
+        "item": "botania:redstone_root"
+      },
+      {
+        "item": "nyagibits_bytes:woven_cloth"
+      },
+      {
+        "item": "nyagibits_bytes:woven_cloth"
+      },
+      {
+        "item": "nyagibits_bytes:woven_cloth"
+      },
+      {
+        "item": "nyagibits_bytes:woven_cloth"
+      },
+      {
+        "item": "nyagibits_bytes:woven_cloth"
+      },
+      {
+        "item": "nyagibits_bytes:woven_cloth"
+      }
+    ],
+    "output": {
+      "count": 16,
+      "item": "botania:bergamute"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

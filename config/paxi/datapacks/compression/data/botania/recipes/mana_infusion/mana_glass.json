@@ -1,0 +1,10 @@
+{
+    "type": "botania:mana_infusion",
+    "input": {
+      "item": "quark:framed_glass"
+    },
+    "mana": 1500,
+    "output": {
+      "item": "botania:mana_glass"
+    }
+  }

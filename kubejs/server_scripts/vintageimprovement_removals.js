@@ -1,4 +1,6 @@
 ServerEvents.recipes(e => {
+    //I dont know why vintage improvement recipes refuse to be removed through the pack.mcmeta, forgive me elocin
+
     //Plates
     e.remove({ output: 'chemlib:aluminum_plate', type: 'create:pressing' })
     e.remove({ output: 'chemlib:lead_plate', type: 'create:pressing' })
@@ -27,6 +29,8 @@ ServerEvents.recipes(e => {
     e.remove({output: 'vintageimprovements:steel_rod', type: 'minecraft:crafting_shaped'})
     e.remove({output: 'vintageimprovements:tin_rod', type: 'minecraft:crafting_shaped'})
     e.remove({output: 'vintageimprovements:uranium_rod', type: 'minecraft:crafting_shaped'})
+    e.remove({output: 'vintageimprovements:andesite_rod', type: 'minecraft:crafting_shaped'})
+    e.remove({output: 'vintageimprovements:vanadium_rod', type: 'minecraft:crafting_shaped'})
 
     //Wires
     e.remove({output: 'vintageimprovements:aluminum_wire', type: 'minecraft:crafting_shaped'})
@@ -49,4 +53,7 @@ ServerEvents.recipes(e => {
     e.remove({output: 'vintageimprovements:steel_wire', type: 'minecraft:crafting_shaped'})
     e.remove({output: 'vintageimprovements:tin_wire', type: 'minecraft:crafting_shaped'})
     e.remove({output: 'vintageimprovements:uranium_wire', type: 'minecraft:crafting_shaped'})
+
+    //Helve Hammer
+    e.remove({output: 'thermal:netherite_plate', type: 'vintageimprovements:hammering'})
 })

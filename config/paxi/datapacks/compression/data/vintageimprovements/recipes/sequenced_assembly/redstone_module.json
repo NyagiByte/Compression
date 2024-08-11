@@ -1,0 +1,92 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "immersiveengineering:rs_engineering"
+    },
+    "loops": 3,
+    "results": [
+      {
+        "count": 2,
+        "item": "vintageimprovements:redstone_module"
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "vintageimprovements:incomplete_redstone_module"
+          },
+          {
+            "item": "create:precision_mechanism"
+          }
+        ],
+        "results": [
+          {
+            "item": "vintageimprovements:incomplete_redstone_module"
+          }
+        ]
+      },
+      {
+        "type": "vintageimprovements:vibrating",
+        "ingredients": [
+          {
+            "item": "vintageimprovements:incomplete_redstone_module"
+          }
+        ],
+        "results": [
+          {
+            "item": "vintageimprovements:incomplete_redstone_module"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "vintageimprovements:incomplete_redstone_module"
+          },
+          {
+            "item": "nyagibits_bytes:crystal_harmonizer"
+          }
+        ],
+        "results": [
+          {
+            "item": "vintageimprovements:incomplete_redstone_module"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "vintageimprovements:incomplete_redstone_module"
+          }
+        ],
+        "results": [
+          {
+            "item": "vintageimprovements:incomplete_redstone_module"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "vintageimprovements:incomplete_redstone_module"
+          },
+          {
+            "item": "nyagibits_bytes:industrial_gear"
+          }
+        ],
+        "results": [
+          {
+            "item": "vintageimprovements:incomplete_redstone_module"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "vintageimprovements:incomplete_redstone_module"
+    }
+  }

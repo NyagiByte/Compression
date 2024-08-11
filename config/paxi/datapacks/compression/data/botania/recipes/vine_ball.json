@@ -1,0 +1,59 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "minecraft:vine"
+      },
+      {
+        "item": "minecraft:vine"
+      },
+      {
+        "item": "minecraft:vine"
+      },
+      {
+        "item": "minecraft:vine"
+      },
+      {
+        "item": "minecraft:vine"
+      },
+      {
+        "item": "minecraft:vine"
+      },
+      {
+        "item": "minecraft:vine"
+      },
+      {
+        "item": "minecraft:vine"
+      },
+      {
+        "item": "minecraft:vine"
+      },
+      {
+        "item": "minecraft:vine"
+      },
+      {
+        "item": "minecraft:vine"
+      },
+      {
+        "item": "minecraft:vine"
+      },
+      {
+        "item": "minecraft:vine"
+      },
+      {
+        "item": "minecraft:vine"
+      },
+      {
+        "item": "minecraft:vine"
+      }
+    ],
+    "output": {
+      "item": "botania:vine_ball"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

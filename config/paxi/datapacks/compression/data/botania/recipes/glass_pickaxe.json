@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"botania:mana_glass"},
+    "B": {"item":"nyagibits_bytes:etched_living_wood"},
+    "C": {"item":"immersiveengineering:stick_treated"}
+  },
+  "pattern": [
+    " AB",
+    " CA",
+    "C  "
+  ],
+  "result": {
+        "item": "botania:glass_pickaxe"}
+}

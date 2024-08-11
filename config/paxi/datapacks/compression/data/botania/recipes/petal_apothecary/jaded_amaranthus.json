@@ -1,0 +1,35 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "nyagibits_bytes:botania_assembly"
+      },
+      {
+        "item": "botania:redstone_root"
+      },
+      {
+        "item": "nyagibits_bytes:mystic_fertilizer"
+      },
+      {
+        "item": "botania:root"
+      },
+      {
+        "item": "botania:root"
+      },
+      {
+        "item": "botania:root"
+      },
+      {
+        "item": "botania:root"
+      }
+    ],
+    "output": {
+      "item": "botania:jaded_amaranthus"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

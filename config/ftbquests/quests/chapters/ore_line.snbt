@@ -923,8 +923,8 @@
 			description: [
 				"Volcanic glass! Or well I suppose it's more like glass powder in this state. Contrary to minecraft obsidian is rather fragile but can form blades sharper than most surgical scalples."
 				""
-				"&6Tier 0 Yield:&r"
-				"&6Tier 1 Yield:&r "
+				"&6Tier 0 Yield:&r Powdered Obsidian"
+				"&6Tier 1 Yield:&r Silicon"
 			]
 			id: "435B8B460BE5AF93"
 			rewards: [{

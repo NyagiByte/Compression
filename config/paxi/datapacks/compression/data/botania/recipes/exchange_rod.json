@@ -1,0 +1,20 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "create:deployer"
+      },
+      {
+        "item": "immersiveengineering:stick_treated"
+      }
+    ],
+    "output": {
+      "item": "botania:exchange_rod"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

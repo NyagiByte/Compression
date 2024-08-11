@@ -1,0 +1,38 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "nyagibits_bytes:botania_assembly"
+      },
+      {
+        "item": "botania:redstone_root"
+      },
+      {
+        "item": "nyagibits_bytes:raw_petrified_wood"
+      },
+      {
+        "item": "nyagibits_bytes:raw_rutilated_quartz"
+      },
+      {
+        "item": "nyagibits_bytes:raw_saprolite"
+      },
+      {
+        "item": "nyagibits_bytes:raw_vanadinite"
+      },
+      {
+        "item": "nyagibits_bytes:raw_feldspar"
+      },
+      {
+        "item": "nyagibits_bytes:raw_magnetite"
+      }
+    ],
+    "output": {
+      "item": "botania:marimorphosis"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

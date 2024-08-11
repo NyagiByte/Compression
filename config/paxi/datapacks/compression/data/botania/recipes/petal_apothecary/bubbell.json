@@ -1,0 +1,23 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "nyagibits_bytes:botania_assembly"
+      },
+      {
+        "item": "minecraft:sponge"
+      },
+      {
+        "item": "botania:rune_water"
+      }
+    ],
+    "output": {
+      "item": "botania:bubbell"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

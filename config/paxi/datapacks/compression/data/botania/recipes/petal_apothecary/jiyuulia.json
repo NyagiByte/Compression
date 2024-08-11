@@ -1,0 +1,20 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "botania:tangleberrie"
+      },
+      {
+        "item": "ae2:inverter_card"
+      }
+    ],
+    "output": {
+      "item": "botania:jiyuulia"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

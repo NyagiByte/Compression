@@ -1,0 +1,45 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "nyagibits_bytes:botania_assembly"
+      },
+      {
+        "item": "nyagibits_bytes:annealed_glass"
+      },
+      {
+        "item": "nyagibits_bytes:annealed_glass"
+      },
+      {
+        "item": "botania:lens_normal"
+      },
+      {
+        "item": "botania:mana_glass"
+      },
+      {
+        "item": "botania:mana_glass"
+      },
+      {
+        "item": "botania:mana_glass"
+      },
+      {
+        "item": "botania:mana_glass"
+      },
+      {
+        "item": "botania:mana_glass"
+      },
+      {
+        "item": "botania:mana_glass"
+      }
+    ],
+    "output": {
+      "count": 8,
+      "item": "botania:prism"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

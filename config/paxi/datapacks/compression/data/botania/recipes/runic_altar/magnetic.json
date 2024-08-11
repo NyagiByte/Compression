@@ -33,6 +33,9 @@
     },
     {
       "item": "nyagibits_bytes:solenoid_component"
+    },
+    {
+      "item": "ae2:orange_lumen_paint_ball"
     }
   ],
   "mana": 30000,

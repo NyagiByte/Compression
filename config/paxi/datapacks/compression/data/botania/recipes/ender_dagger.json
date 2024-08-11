@@ -1,0 +1,29 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "botania:manaweave_cloth"
+    },
+    {
+      "item": "nyagibits_bytes:rune_blank"
+    },
+    {
+      "item": "immersiveengineering:stick_treated"
+    },
+    {
+      "item": "botania:manasteel_ingot"
+    },
+    {
+      "item": "botania:manasteel_ingot"
+    }
+  ],
+  "output": {
+    "item": "botania:ender_dagger"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}
