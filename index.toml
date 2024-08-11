@@ -1437,6 +1437,10 @@ file = "config/paxi/datapacks/compression/data/forge/tags/fluids/ethanol.json"
 hash = "71923bdeb00b0539d230f0e3b31387c186fe94cdbb23ee52a65f29cb2d821280"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/petal_apothecary.json"
+hash = "d3ff8c1dd93f89e025421e02b970e9c48f5bf13faadb3b0c7febd4b222b9d9a8"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/gardenofglass/loot_tables/extra_seeds.json"
 hash = "d270d75f52b80bb75f24e1d4e88cd54cc886951c01dd6a27a4959754cff7e725"
 
@@ -4105,6 +4109,434 @@ file = "config/paxi/datapacks/compression/data/projectred_core/recipes/plate.jso
 hash = "c0a7fec154600301c0ef09a96fd5b2916fcf1bcde246176c08833ca3d0535926"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/projectred_core/recipes/plate.txt"
+hash = "c0a7fec154600301c0ef09a96fd5b2916fcf1bcde246176c08833ca3d0535926"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/and_cell_gate.json"
+hash = "b071dcfe95d2cd80712b75a88bcb0f169feb8b6ac876c5bd81e8134a0beccc7a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/and_gate.json"
+hash = "4a701cb286e16e6e3c7578edb3415452dd921028740c51f7c935ca359e1c38b3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/buffer_cell_gate.json"
+hash = "2cdca29118dde9056ef84bd3febeb519ee6590ea52a9aba5cd4cc1d549e16a64"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/buffer_gate.json"
+hash = "fca46a77936c3eb09ec32d96c4b258ba5e5f9354c6cc5dee449070235c260d48"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/bus_converter_gate.json"
+hash = "25eb59870b0b8dedea655bd6009904020646c590e00fad872de3f678c4d74106"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/bus_input_panel_gate.json"
+hash = "f4dce1409ec7142c4f2a1e3b3031e43df3d48cde41734bc425a9f68fb14954cf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/bus_randomizer_gate.json"
+hash = "81504a4415323f207ecf0b854b224bbe11298f56b543bf5b3e2348a866c59a38"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/bus_transceiver_gate.json"
+hash = "872f137ccb4460705333598962d30cde2a3fdd2417cd61a1ca8cf4ab2b9eff27"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/comparator_gate.json"
+hash = "95ed472cb1e8c794969ccde6fe041d3fe0ddb8e0c6764d2aeccc24f23125fb05"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/counter_gate.json"
+hash = "591a0389b6440edade43157cb3563723bce1e0c1edad40c5c99422c5b55722a5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/dec_randomizer_gate.json"
+hash = "41d975bbf130fabb4460674bfd95a71a9ffeab16e06a48958e1fbfa7896fbf44"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/invert_cell_gate.json"
+hash = "6a8bac624fa88f43e47e1f785031097140ad2abad3e47feb3b6000a718230c13"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/light_sensor_gate.json"
+hash = "9c6eff068d14f33b35eaaf9fe1b980c0fdadd4729a5cfdffe3a3bb3877f34327"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/multiplexer_gate.json"
+hash = "d2eaca75389bd13684a7822d89cab311063a1fcf4e1499bbd88b6c687b8674c2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/nand_gate.json"
+hash = "17917f9086affd93fd2717f05b9a8955200216126594ae4620e664a02b7817a2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/nor_gate.json"
+hash = "0e6c268b93d517a88aa9cf198306263afd1f1a6ef1f5705fe3e543e29961062c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/not_gate.json"
+hash = "4046e836a6b67e627db4552cdcf69c28cbc4238af36c4a2b4de458fd560dd6b5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/null_cell_gate.json"
+hash = "cd212d42ddf11ede8e8e19fab4e149183fd7844ffcc5e559bd8239c2f560a64a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/or_gate.json"
+hash = "31582e61e5ec669feb86a2f3365083c634edd1cfe78723ac6fcab0870ea6fc3a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/pulse_gate.json"
+hash = "bd2847aa98c7163677baa3939f849c0cfcb6351b55e85fd88bb9432f3eda3a7e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/rain_sensor_gate.json"
+hash = "91e0d3b3366c4cf7c5a45dd101ca7bac407195d583b9188c03e17bb6b8249756"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/randomizer_gate.json"
+hash = "9d93796724e9020f1df8d077800aef04cb5f51d1738bb60577df1b7c9aa62638"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/repeater_gate.json"
+hash = "b1f5804d8d2bc678dd6a73d11823a0f64fcd172990488471b3ae9096d3ec03c4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/segment_display_gate.json"
+hash = "0f81d6a6b7057712f8b1ebc3e94ad011dc5c1d745d750bd5379ba2aa59514f00"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/sequencer_gate.json"
+hash = "d9b7ba9d929ab670723c59141244745d5eadfaa9cc6a63853fd4bf76fd5629b1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/sr_latch_gate.json"
+hash = "d340dcc33003145e56c9d5e05e8a100a4db2fee4f6b30b1f19e9b6f925e24f52"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/stacking_latch_gate.json"
+hash = "d41e864ee02a44fde57c4f411bbc104b92928b7ffcf11a4b285547e742c8ca4d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/state_cell_gate.json"
+hash = "88f3108b9637f0c1bac8ef23fc453856aa5da2eb3e7ab3c1b113e1313bc18d52"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/synchronizer_gate.json"
+hash = "1f73c756803e60b0301ae8653bc656768ef69e7a273c412006de65fd3a2e9092"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/timer_gate.json"
+hash = "82f35f7fbe06a8468ebe4de9942085fdffa32fdd543c54c94ac4770da98ec7e5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/toggle_latch_gate.json"
+hash = "c45193c5261a58f4457a7982fecac23464bb831ee904c5940b4b103136d5664d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/transparent_latch_gate.json"
+hash = "c6ad6cdcb4ee06cbda2fed5a804c344c4d03849526a1a57804f625fac0067e08"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/xnor_gate.json"
+hash = "1ceb083b3ae4d9b015bb2099ea04de1b8a239a2293480ca12a86ff4bbd57d6d1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/xor_gate.json"
+hash = "43f6452dafa137093869769cfa5b7f1e0e0d88050adcd61096409f852b75aa64"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/black_bundled_wire_re_color.json"
+hash = "03a9c1e677d48e01b9ae84b2780ae6de7b63b3934a4f5f4a8311ce1740b80450"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/black_framed_bundled_wire_re_color.json"
+hash = "ff21408fa16c9e8d860ea5d8a822e70e26aa554a4903262161f20443218d076a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/black_framed_insulated_to_neutral_framed.json"
+hash = "d930c162107efbef7b96f4447e2bb9f92070ecbf9c321d1b9ce0d548d34caac9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/black_framed_insulated_wire_re_color.json"
+hash = "46fc17b0ee7515acc9511da2d10ac7a60f4f18cffa8b74cf7b87500b8f703150"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/black_framed_to_neutral.json"
+hash = "36200e77aad2199f7c4ae39ad29afa236b35962e654f8ae0b9e19ac668fd7a02"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/black_insulated_to_neutral_wire.json"
+hash = "f41ed05ed32004b8af91a4d767b3bde2f20849b95d0edff8a82bea34d3dbc6bf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/black_insulated_wire_re_color.json"
+hash = "6d9ba442fe6fd0ed742ab1c927256cdd2065f66de5f28dfb85afffc8c9cdd580"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/black_to_neutral_bundled.json"
+hash = "4c6055e5ae71e0f0f19ab213626c0fe6cdd2a46519f2c53b21d6158cfadbb359"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/blue_bundled_wire_re_color.json"
+hash = "498771ad262d2a6914290689422f04d5d79e247903ceb0f1c84873c61935cc5c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/blue_framed_bundled_wire_re_color.json"
+hash = "e8bdbcedb0c9dc3a025d002926565b7bbe359b37b5c034a33b0a971048cb488d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/blue_framed_insulated_wire_re_color.json"
+hash = "d9a0c3830769cdc4c3ccf6c25a912c86a20ec6bf870d3b4c4ceae6321aece43f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/blue_insulated_wire_re_color.json"
+hash = "1ac42fd034ef20cc98b6ba5d99c36be3f255e6dae68549fb46e1824e4f8e88ef"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/brown_bundled_wire_re_color.json"
+hash = "e8cc4174ac4cf287d8d39b4a6ba8fd9118e4372d9476a6797c45e223c1a6f031"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/brown_framed_bundled_wire_re_color.json"
+hash = "47dfea2dad1d46d717e684c4686bede745b46cd7e91ecf5503096a3455e6140f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/brown_framed_insulated_wire_re_color.json"
+hash = "ec7fd34cb63806d558f2a16fa5c311d0f165e049c48c4f120c8236733f4ca457"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/brown_insulated_wire_re_color.json"
+hash = "9b0cff64930a8f3d332b63831108e50e7bea263ef7513addc95eb315348b543d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/cyan_bundled_wire_re_color.json"
+hash = "cfa650f2ac79281a9844c48b96e66c565b70773962ae986d8a5092059afffdab"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/cyan_framed_bundled_wire_re_color.json"
+hash = "e1725c1adb16b506f850a659beb1b581ecef53b543e6421db62ac042cc1f9136"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/cyan_framed_insulated_wire_re_color.json"
+hash = "aaba445f7db18f966a31043c6b506b3fc6a1f6520df9769d685ebb6f5aa3327b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/cyan_insulated_wire_re_color.json"
+hash = "7f080124c93f796ee8eca2e1d3987edd1c0fe3e2e52afc9861e19935d8f47612"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/framed_red_alloy_wire.json"
+hash = "dec30cb6e987d5032ac7ac53d0669d70a6023c9af5d85ccad8ae19e29e27f74c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/gray_bundled_wire_re_color.json"
+hash = "1db6119a178644ff114fde7ffda088610374d7c7e1411803467c4067d279bb08"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/gray_framed_bundled_wire_re_color.json"
+hash = "14a0a0acda4cf7ad05fd8156b330497e4a182b57094d2252878fed044a5cb07d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/gray_framed_insulated_wire_re_color.json"
+hash = "157181a61cb365c51b1630885f05c0b69de7dc6b89cbd0c1d8420651ca4ad5e3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/gray_insulated_wire_re_color.json"
+hash = "6f96013cdfc30d63cc44900fc5ecf9326f54fe1e2057f0962caf16236b749903"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/green_bundled_wire_re_color.json"
+hash = "de6cd0216192946786c4f4206ebcf7fbf9efb9271cdbfc676aef6052aacdcaeb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/green_framed_bundled_wire_re_color.json"
+hash = "d2438833e1b4e7e99ea6e580301f527170afa9b96d95586a3b4612aafc315fc0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/green_framed_insulated_wire_re_color.json"
+hash = "81aee3f8dfa0c1bd7aa4f36c4f43899f5124d959af5e613451164a7a9c107ead"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/green_insulated_wire_re_color.json"
+hash = "244d9deaea2d86bdfe24ad7a73ae109851ca41857f7444c152f824594f3c8ae5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/light_blue_bundled_wire_re_color.json"
+hash = "98bfe502f936fec87caff41fd1cd8ecbc3fa5cb3fbc119deac261c0dd758e57f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/light_blue_framed_bundled_wire_re_color.json"
+hash = "8540589480450d6b4b57b8e5b178cea6804676ccb4b72bf9e9b9d65da3ba9bc5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/light_blue_framed_insulated_wire_re_color.json"
+hash = "52ad59eac17a36a73a8b98cff74e46e035f4da666630e4e427b5382e3a19aad2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/light_blue_insulated_wire_re_color.json"
+hash = "e212a562cea1ca37a90867105db69b5a0d00835bb9881bec97b37a3624d6ddc1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/light_gray_bundled_wire_re_color.json"
+hash = "df22c7156dd1c6576916359e74d44cd68a12d337144e79263accf838fe74a163"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/light_gray_framed_bundled_wire_re_color.json"
+hash = "e6aa8533bbedf61164e82f691d7d7b8f2c67b11ef9f5daffabc7c264b9495a17"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/light_gray_framed_insulated_wire_re_color.json"
+hash = "3781113178dc2903edd2ef66e52f18bfefa626f16636ae0ca799cc2573a4d99f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/light_gray_insulated_wire_re_color.json"
+hash = "a54d978116180512787f39cd930bbe9f2439f7500d404b760b4d9df8b9522e72"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/lime_bundled_wire_re_color.json"
+hash = "42008af2d268d51108e85f9f2d1a966abbbb0c885e2e97fdc1bb9a4f53487b09"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/lime_framed_bundled_wire_re_color.json"
+hash = "2df1eafa59efc49a89eb16a71b4fa228c1180bbeba578a75b5327ea12921ccc8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/lime_framed_insulated_wire_re_color.json"
+hash = "fce618c502eb88be878e3ab95cf111234905aa5917666cfc5f5c2ba211e8e6c9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/lime_insulated_wire_re_color.json"
+hash = "7c768aa0118fac649071e5da734584c1afe64c0f971bd3c5650e09a43f077954"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/magenta_bundled_wire_re_color.json"
+hash = "669331f7c8aff21e9ef9a50b971eaf20ef877e1eba1f32a457fe95b06d056feb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/magenta_framed_bundled_wire_re_color.json"
+hash = "f06681ff4e7d278a042e7d168c02c7715e2b57bc0ca5f0da23a3d3541ad6e81d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/magenta_framed_insulated_wire_re_color.json"
+hash = "99ecfe4deb9a34e9da6728d1b4f0aff7a968a56d76d2492a317881c6fad08765"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/magenta_insulated_wire_re_color.json"
+hash = "3c5cf69e90f7ea01b0b40aa587e684954b1b6bcf4638e170a1787d7d0da18aad"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/neutral_bundled_wire.json"
+hash = "9e03af21434431efd341c7784627239cb51c6c735bb31d8aa9b930129d3373b3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/neutral_framed_bundled_wire.json"
+hash = "9d2f2752f9040ae065a66c445139b356c4ca8d5b75b2797eec2f0e0147e09b7c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/orange_bundled_wire_re_color.json"
+hash = "b949fc59f1e3a3e48ef1facaf76fbebeca9f6f91608cefae6469d65f1b33773c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/orange_framed_bundled_wire_re_color.json"
+hash = "f29b9716935faf8464f02d7f82c3194e56c4cbb828a512244797457164cadadf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/orange_framed_insulated_wire_re_color.json"
+hash = "dd28c3a657a2a038d6a878f7e8f1e132cd5ce1d3c04146926af55a19bb8a7408"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/orange_insulated_wire_re_color.json"
+hash = "9a1642f881e50d9c435638699739058770681fb853fe8f551c6feca78075e26f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/pink_bundled_wire_re_color.json"
+hash = "145b1243f235340eebb631481508564daf48046f84e4a7eb0affcc71db300d26"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/pink_framed_bundled_wire_re_color.json"
+hash = "a8e98b4f76471962e0ee46f815b033a677b8fb381153b18aed1f299452a2a5b0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/pink_framed_insulated_wire_re_color.json"
+hash = "a00329f8a1437e705ca5851cd6e16ef0836beda6a7d8b1570d41fa33c1cc5f0f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/pink_insulated_wire_re_color.json"
+hash = "0cb59928f66b4b63b4a9f9950c0fff36221d22e6c4c151c6b3aa590ea9201e01"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/purple_bundled_wire_re_color.json"
+hash = "5b0caf76ca883e8d8c9676471bd821eadc78516c052e202d6135b448bed90c6b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/purple_framed_bundled_wire_re_color.json"
+hash = "356ac157d28ffbdd9ba68e86e857051176622a87aba326d4e51c9b0df7529af3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/purple_framed_insulated_wire_re_color.json"
+hash = "86eb6a1ab29c123cb7509954948f74f30ed1c29037b0168d65d0da305e293b28"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/purple_insulated_wire_re_color.json"
+hash = "61266c2ee6559813507c6e1f4f6acb893f729e2a26ea517cea166db066fa626b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/red_alloy_wire.json"
+hash = "84dd8972f64a9779f2375117884163a0ae826f042cd2d6448db724dd27e1d60a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/red_bundled_wire_re_color.json"
+hash = "8d3bdc7de0119ce26fc8bd4d3e30f1c986b6e32d5146ce2490bf585cbd8eaf7a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/red_framed_bundled_wire_re_color.json"
+hash = "ecb6416b7f48bd6ef423887418e81b6df8656ddcc972e43dc9fbcb901a624c8e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/red_framed_insulated_wire_re_color.json"
+hash = "30ac02135b45f0f008f5dadc538766f9b18430ee1c13cbc9abc35490159e6b0a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/red_insulated_wire_re_color.json"
+hash = "e49c51e9328110d38e2eaa3783838f5d6de8e01038014a1e4f6db532c08ddee6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/white_bundled_wire_re_color.json"
+hash = "3cf2b91a78eaee110898a714c61e06f297b90b6153f686f00db779c3414e126f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/white_framed_bundled_wire_re_color.json"
+hash = "58b5c0e987ef24100b364fdba6f87a19f93f09ef0392056fde528c6e5be4cae5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/white_framed_insulated_wire_re_color.json"
+hash = "ff9a930b3cb10c91243fa939403a1d250588df8dae8b5e32466489813471557d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/white_insulated_wire_re_color.json"
+hash = "423fa089a35d42c059d2e6bf22fc4728e8edfd420ab12f7e4d86c96a1277321f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/yellow_bundled_wire_re_color.json"
+hash = "d216530baa6a26d9f09c7d6b8a74a0784d352f08c9433031fa8464ee4bb636b1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/yellow_framed_bundled_wire_re_color.json"
+hash = "b7484a68a5e66a57c30bcf81514244a63950d3af57870d821f604d6ada03746b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/yellow_framed_insulated_wire_re_color.json"
+hash = "bab49827dcffe81308dc523c935d806555f8f825543942f0a4c5ddd21d3404f1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/yellow_insulated_wire_re_color.json"
+hash = "86744e9bf2d9672b030ed1f633728dab2fbc1f27341282507d44c7e17ebc74e6"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/quark/recipes/building/crafting/iron_plate.json"
 hash = "28470b9f482265d22cff060920c5c0b854ad89f2abd877a8420329ab3df40eac"
 
@@ -4186,7 +4618,7 @@ hash = "676f74acebeedab7174a16ecc9081d256e406c306bc4403416a697cb20b3f24f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "7e5b47067db9422a8c576caf4ddc0c788c583dd3666d0da92691b6bcfe755229"
+hash = "781a639981630d2ca1e80f90f87808241e80288d6425aadcee8b6a4e2eb8677f"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -4590,7 +5022,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
-hash = "823ef2149d4be018a0603d3fb768ab4fa6f87b656f23317fb40bfa6281ad61d4"
+hash = "2bbf12158004ad623045c775ec44200e8ceeb19309e067385264df1f3297dffc"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/compactcrafting.js"
