@@ -1,9 +1,9 @@
-Ponder.tags((e) => {e.createTag("compression:botania", "botania:lexicon", "Botania", "For all your floral needs", ["botania:apothecary_default", "botania:pure_daisy"])})
+Ponder.tags((e) => {e.createTag("compression:botania", "botania:lexicon", "Botania", "For all your floral needs", ["#forge:petal_apothecary", "botania:pure_daisy"])})
 //------------------------------------------------------------------
 Ponder.registry((e) => {
 //------------------------------------------------------------------
     //Petal Apothecary
-        e.create("botania:apothecary_default")
+        e.create("#forge:petal_apothecary")
             .scene("Apothecary", "Crafting Using Apothecary", "kubejs:botania_5x5", (scene, util) => {
                 scene.showBasePlate();
                 scene.idle(10);
@@ -11,9 +11,9 @@ Ponder.registry((e) => {
                 scene.world.showSection([2,1,2], Facing.down);
                 scene.idle(20);
                 scene.overlay.showOutline(PonderPalette.GREEN, "airgap", [2,1,2], 60);
-                scene.text(60, "This Is A Petal Apothecary, It Is Heavily Used In Botania For Creating Flowers", [2,1.5,2]);
+                scene.text(60, "This is a Petal Apothecary, it is heavily used in Botania for creating flowers", [2,1.5,2]);
                 scene.idle(70);
-                scene.text(60, "As An Example Let's Make A Pure Daisy", [2,1.5,2])
+                scene.text(60, "As an example let's make a pure daisy", [2,1.5,2])
                     .attachKeyFrame();
                 scene.idle(70);
                 scene.showControls(40, [2.5, 2.5, 2.5], "down")
@@ -47,7 +47,7 @@ Ponder.registry((e) => {
                 scene.idle(5);
                 scene.world.modifyEntity(petal4, (r) => { r.discard()});
                 scene.idle(10);
-                scene.text(60, "With All The Resources Added We Then Need To Add Our Catalyst To Combine Them", [2,1.5,2])
+                scene.text(60, "With all the resources added we then need to add our catalyst to combine them", [2,1.5,2])
                     .attachKeyFrame();
                 scene.idle(70);
                 const seed = scene.world.createItemEntity([2.5, 5, 2.5], [0, 0, 0], "minecraft:wheat_seeds");
@@ -68,7 +68,7 @@ Ponder.registry((e) => {
                 scene.world.showSection([3,1,3], Facing.down);
                 scene.idle(20);
                 scene.overlay.showOutline(PonderPalette.WHITE, "airgap", [3,1,3], 60);
-                scene.text(60, "This Is A Pure Daisy It Is A Functional Flower That Changes Blocks Placed Around It", [3,1.5,3]);
+                scene.text(60, "This is a Pure Daisy it is a Functional Flower that changes blocks or fluids placed around it", [3,1.5,3]);
                 scene.idle(70);
                 scene.world.setBlock([2,1,2], "minecraft:stone",true);
                 scene.world.showSection([2,1,2], Facing.down);
@@ -94,7 +94,7 @@ Ponder.registry((e) => {
                 scene.world.setBlock([2,1,3], "minecraft:stone",true);
                 scene.world.showSection([2,1,3], Facing.down);
                 scene.idle(5);
-                scene.text(60, "Now we wait for a short period of time and the stone should be changed into livingrock", [2,1.5,2]);
+                scene.text(60, "Now we wait for a short period of time and the stone should be changed into livingrock", [3,1.5,3]);
                 scene.idle(70);
                 scene.particles.block(5, "botania:livingrock", [2.5,1.5,2.5]).density(5);
                 scene.world.modifyBlock([2,1,2], () => Block.id("botania:livingrock"), true);
@@ -123,5 +123,10 @@ Ponder.registry((e) => {
                 scene.markAsFinished()
             });
     //Endoflame
+        e.create("botania:endoflame")
+            .scene("Endoflame", "Generating Mana", "kubejs:botania_5x5", (scene, util) => {
+                scene.
+                scene.markAsFinished()
+            });
 });
 //------------------------------------------------------------------
