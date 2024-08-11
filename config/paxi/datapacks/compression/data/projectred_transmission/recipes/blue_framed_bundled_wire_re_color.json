@@ -1,0 +1,14 @@
+{
+    "type": "botania:mana_infusion",
+    "catalyst": {
+      "type": "block",
+      "block": "botania:alchemy_catalyst"
+    },
+    "input": {
+      "item": "projectred_transmission:purple_framed_bundled_wire"
+    },
+    "mana": 800,
+    "output": {
+      "item": "projectred_transmission:blue_framed_bundled_wire"
+    }
+  }

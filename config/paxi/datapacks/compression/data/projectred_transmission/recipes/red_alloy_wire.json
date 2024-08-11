@@ -1,0 +1,10 @@
+{"type":"immersiveengineering:metal_press",
+
+"energy":2400,"input":{"item":"projectred_transmission:neutral_bundled_wire"},
+
+"mold":"immersiveengineering:mold_wire",
+
+"result":{
+    "count": 8,
+    "item":"projectred_transmission:red_alloy_wire"
+    }}

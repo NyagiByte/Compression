@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"projectred_transmission:neutral_bundled_wire"},
+      "B": {"item":"immersiveengineering:alu_scaffolding_standard"}
+    },
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "result": {
+            "count": 8,
+            "item": "projectred_transmission:neutral_framed_bundled_wire"
+        }
+  }

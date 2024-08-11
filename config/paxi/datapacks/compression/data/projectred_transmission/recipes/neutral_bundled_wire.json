@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "count": 32,
+    "ingredient": {
+      "item": "vintageimprovements:redstone_module"
+    },
+    "result": "projectred_transmission:neutral_bundled_wire"
+  }

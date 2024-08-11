@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"projectred_transmission:red_alloy_wire"},
+      "B": {"item":"vintageimprovements:aluminum_rod"}
+    },
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "result": {
+            "count": 8,
+            "item": "projectred_transmission:framed_red_alloy_wire"
+        }
+  }
