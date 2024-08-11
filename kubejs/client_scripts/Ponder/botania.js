@@ -124,9 +124,41 @@ Ponder.registry((e) => {
             });
     //Endoflame
         e.create("botania:endoflame")
-            .scene("Endoflame", "Generating Mana", "kubejs:botania_5x5", (scene, util) => {
-                scene.
+            .scene("Endoflame", "Generating Mana", "kubejs:botania_7x7", (scene, util) => {
+                scene.showBasePlate();
+                scene.idle(10);
+                scene.world.setBlock([3,1,3], "botania:endoflame", false);
+                scene.world.showSection([3,1,3], Facing.down);
+                scene.idle(20);
+                scene.overlay.showOutline(PonderPalette.WHITE, "airgap", [3,1,3], 60);
+                scene.text(60, "This is an Endoflame it is a Mana Generating Flower that changes blocks or fluids placed around it", [3,1.5,3]);
+                scene.idle(70);
+                const coal = scene.world.createItemEntity([3.5, 3, 3.5], [0, 0, 0], "minecraft:coal");
+                scene.idle(10);
+                scene.world.modifyEntity(coal, (r) => { r.discard()});
+                scene.particles.simple(40, "flame", [3.5,2.5,3.5]).density(2);
+                scene.text(60, "Dropping fuel such as coal infront of the Endoflame will cause it to be consumed by the flower and generate mana", [3,1.5,3]);
+                scene.idle(70);
+                scene.addKeyframe();
+                scene.world.modifyBlock([3,1,3], () => Block.id("minecraft:air"), true)
+                scene.world.setBlock([5,1,3], "botania:endoflame", false);
+                scene.world.showSection([5,1,3], Facing.down);
+                scene.idle(10);
+                scene.world.setBlock([3,1,3], "botania:mana_spreader", false);
+                scene.world.showSection([3,1,3], Facing.east);
+                scene.idle(10);
+                scene.world.setBlock([1,1,3], "botania:mana_pool", false);
+                scene.world.showSection([1,1,3], Facing.down);
+                scene.idle(10);
+                //scene.particles.dust(10, "#5fcf14", [3.5,1.5,3.5]).density(10).physics(false).motion([0,0,-1]).area([3,1,3], [1,1,3]).roll(10);
+                scene.particles.simple(20, "glow", [3, 1.5, 3]).physics(false).area([1,1.5,3])
+                });
                 scene.markAsFinished()
-            });
+            })
+            //.scene("Endoflame Decay","Decaying Flowers", "kubejs:botania_7x7", (scene, util) => {
+
+
+
+            //})
 });
 //------------------------------------------------------------------
