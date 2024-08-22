@@ -3,9 +3,34 @@
 # for any specific questions you might have regarding the main config file
 
 [triggers]
+	[triggers.time]
+		start_hour = "16"
+		priority = "10"
+		time_bundle = "night"
+		identifier = "Night"
+		fade_in = "40"
+		fade_out = "40"
+		end_hour = "0"
 	[triggers.generic]
-	[triggers.menu]
+		fade_in = "40"
+		fade_out = "40"
 [songs]
+	[songs.relic9]
+		triggers = [ "time-Night" ]
+	[songs.relic6]
+		triggers = [ "time-Night" ]
+	[songs.relic4_2]
+		triggers = [ "time-Night" ]
+	[songs.relic4_1]
+		triggers = [ "time-Night" ]
+	[songs.relic2]
+		triggers = [ "time-Night" ]
+	[songs.universal]
+	[songs.silicontransmitterdecay]
+		triggers = [ "generic" ]
+	[songs.silicontransmitterruin]
+		triggers = [ "time-Night" ]
+	[songs.silicontransmittercompress]
 	[songs.godseyesarelikemymotherseyes]
 		triggers = [ "menu" ]
 	[songs.heavenexistsandisfullofpoorpeople]

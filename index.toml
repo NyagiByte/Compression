@@ -14,7 +14,7 @@ hash = "4afe6819aa4da9a2317c4f8578c4fbb74b941a90875d142cc8b699531f898267"
 
 [[files]]
 file = "config/MusicTriggers/channels.toml"
-hash = "bbfdd75ff01c871f3b1baae911950e561518bd80b18ad7c2602756af9d332117"
+hash = "b0bfa68362bfaa6dd8decbf757009c5e6ed87b3faa3a8477fba23e7ee8850b02"
 
 [[files]]
 file = "config/MusicTriggers/debug.toml"
@@ -30,7 +30,7 @@ hash = "a1a5822f28ad5c597498ee532838cef17a747f020f21c72fcc8a419f5134d53b"
 
 [[files]]
 file = "config/MusicTriggers/example/main.toml"
-hash = "88f13f2caf80509bd7f3903eb6ab1ae5b5ef2b5335bb34450318d15042d7f9e4"
+hash = "096ac4a4d4a4d0d8f1311bf5248756ea5e95c389d86d0fcf163042079fe2d365"
 
 [[files]]
 file = "config/MusicTriggers/example/redirect.txt"
@@ -59,6 +59,38 @@ hash = "c33951a5e91a566d8b6590b44cc1c8190c1f58d39257607726bda9a8057fbff1"
 [[files]]
 file = "config/MusicTriggers/songs/mainmenu.mp3"
 hash = "b81df3feabafe86791ccbcc422e8ba26a82b8823b9999a2a202bb3c6fcbd2d79"
+
+[[files]]
+file = "config/MusicTriggers/songs/relic2.mp3"
+hash = "4be532f5e201b09032ccf9da5330104f3da9659bd95bf04cf95f6c23457cf6e7"
+
+[[files]]
+file = "config/MusicTriggers/songs/relic4_1.mp3"
+hash = "aad833392335857b48b8a26deef8dc1cbf00a52ae88045dba7918036a01f78c6"
+
+[[files]]
+file = "config/MusicTriggers/songs/relic4_2.mp3"
+hash = "c1a63c352906c87dab06cff12e67767148195d070108ce2f654631de114865d3"
+
+[[files]]
+file = "config/MusicTriggers/songs/relic6.mp3"
+hash = "3d7054bdd7c890292ce00ba9134bc86a7f36f556631b40856df8270f78bf29de"
+
+[[files]]
+file = "config/MusicTriggers/songs/relic9.mp3"
+hash = "49d374542a3cec6a6a898f7cb7b709c1d1f93d5b8e26befada28013bd3be87ca"
+
+[[files]]
+file = "config/MusicTriggers/songs/silicontransmittercompress.mp3"
+hash = "66d3526fdfc2819dba56f9b06477ebfe42448d759bc8f1b374791923b0af3e0a"
+
+[[files]]
+file = "config/MusicTriggers/songs/silicontransmitterdecay.mp3"
+hash = "1a508540cab72e9b816590ae71195fe945920cfba27a57558c378d4309bde65b"
+
+[[files]]
+file = "config/MusicTriggers/songs/silicontransmitterruin.mp3"
+hash = "d40ef5566a597a2edd3a744fac6762303addc4f9a39d20fa45ca51abdb0fc897"
 
 [[files]]
 file = "config/MusicTriggers/songs/thankyouforgivingsomuch.mp3"
@@ -130,11 +162,15 @@ hash = "f7e42fc5e1e919151c65a0a36aed777d4e592cf97a1292b2ecf816b611c81a68"
 
 [[files]]
 file = "config/fancymenu/assets/compressionexit.png"
-hash = "eb50feedcc314603346611107a72f404402e552eca858b4223eee1d6a1666233"
+hash = "28438fa95acebd1df0730b2060828c22bfbd4304d4a7688aa9890e29dd76e1d8"
+
+[[files]]
+file = "config/fancymenu/assets/compressionexitarrow.png"
+hash = "bcd37766896061df55c4d72736847348b8f78dbc5415f5bb1b765a1aa5f0d07d"
 
 [[files]]
 file = "config/fancymenu/assets/compressioneyeloading.png"
-hash = "6ffee7e8b9cc3e741db1914d6688d980d399bce3b5f9834af896062c9f8654c5"
+hash = "4be72fa7606c527ed10b63d0bf29aa30f6da820d03860a4bb97c5dd6ccfe5c6c"
 
 [[files]]
 file = "config/fancymenu/assets/compressionicon.icns"
@@ -142,39 +178,107 @@ hash = "803f04994339c9b15cca17b91a260006f1d3811c7ae29a9a93560d83511fff35"
 
 [[files]]
 file = "config/fancymenu/assets/compressionicon.png"
+hash = "4335a99613ea88d722ac5468ce22c2a1a8f2f915b4ebfddfb659e2ee357ad044"
+
+[[files]]
+file = "config/fancymenu/assets/compressioniconblackbackground.png"
 hash = "27b9d0879c856f660f92c153a85f48025c2b5b044bbc994956dadc079932cf86"
 
 [[files]]
 file = "config/fancymenu/assets/compressionlogo.png"
-hash = "56a2fcc6f6f2aa0daf862a45522a186d9714f913e39b57ebb5bab096dcbaf4bd"
+hash = "611f848472a2816860eb61ea26343a50c470930ba8d54ba2ed594f0b5c59c540"
+
+[[files]]
+file = "config/fancymenu/assets/compressionlogoinverted.png"
+hash = "d6731a4fb234a36765f55a517daa9c47e4c0cb6d35be72edd34d21b5d72f7f4b"
 
 [[files]]
 file = "config/fancymenu/assets/compressionmultiplayer.png"
-hash = "83275205f064e195336b0c7d7fac4e4135bc2a203af201b31c783ad8e9b73ea4"
+hash = "12cf067131ef307aaa79e19b6f79d9b875eaf850688ecb48943bbcd096ae615b"
+
+[[files]]
+file = "config/fancymenu/assets/compressionmultiplayerarrow.png"
+hash = "11d5ff4fdb905353e6458ed9e94d2632646717e5475b7300d1ccd906ec5256e3"
 
 [[files]]
 file = "config/fancymenu/assets/compressionplay.png"
-hash = "e556ae3065850cecc1af78852ad2bc07f91a950bbb606a5db708af8a6750d251"
+hash = "954d11ce4bf88101da7a2b16aee3622855bc88a84dc7cd283c607574bf9f4021"
+
+[[files]]
+file = "config/fancymenu/assets/compressionplayarrow.png"
+hash = "c94798440cb19f62858bd095434691938b0ab8e39b58a7cce1ee454df11317ad"
 
 [[files]]
 file = "config/fancymenu/assets/compressionplayreal.png"
-hash = "937eb99cf27bff021888162c635b6ba04af13fe5524d175741a36c867937ec9c"
+hash = "807ab87470fe51823e4d4fb2f985c342321dce9e1ab4f0fc8374cc0c1e01f289"
 
 [[files]]
 file = "config/fancymenu/assets/compressionsettings.png"
-hash = "a290d28ae63fb4b1cbe63e0a128478830c959361277151a3e23962a9aec3407c"
+hash = "fe94258795fc94fc50fffb067d065c1a3d853a1d00848497272749bec8fcff36"
+
+[[files]]
+file = "config/fancymenu/assets/compressionsettingsarrow.png"
+hash = "ba7e3fd3242994a73a61ea283179b2f97f16ceb8298a74ab88a66959f8df462c"
 
 [[files]]
 file = "config/fancymenu/assets/compressionsettingsreal.png"
-hash = "df4d6ae7a3b8b00022cafb6f80b43c514ac0dbd34d88dccfb85ab215fb9b90f6"
+hash = "a30069031953d5b3c489465ed294d6918d2030dcb97cc4618cf6bddb573be55d"
+
+[[files]]
+file = "config/fancymenu/assets/cursor.png"
+hash = "b17bf9560eebf602b917d2d48d54f02d827d5e0e26d3f6a69bd07ff9e057e285"
+
+[[files]]
+file = "config/fancymenu/assets/exit.png"
+hash = "a9ce280f0da2a525ae7da5010c93bb8d6f9793fcdcc55f38b57d9f7552ef3c0b"
+
+[[files]]
+file = "config/fancymenu/assets/ffffff.png"
+hash = "1b1236b3223b61a821d16d1d8da2fa644ee15602d52d87f3649684bc4e395806"
+
+[[files]]
+file = "config/fancymenu/assets/gear.png"
+hash = "105da3fea50221bedc9dacd4ee58482eab29326fdce03951408b8c1b9b639b8a"
+
+[[files]]
+file = "config/fancymenu/assets/godseyesarelikemymotherseyes.ogg"
+hash = "c0bd776369e889c9c7397fc6a48af4b53de9e557ef7eb3a2a1754319974e756f"
+
+[[files]]
+file = "config/fancymenu/assets/gradient.png"
+hash = "f2ffe56688733534c6b97fe555dc0c90dcfd0641a5dddb2770384593e6241c5a"
+
+[[files]]
+file = "config/fancymenu/assets/gradient2.png"
+hash = "8cd1c08f344089c2e85553175ea7f9ea3e7045658fc0520cafd385e54bbe3a1a"
 
 [[files]]
 file = "config/fancymenu/assets/menu.ogg"
 hash = "b0ad3d8aacb1d86cc10f81607a2b305ee741c18daf77114c1b086540cbaaf0a8"
 
 [[files]]
+file = "config/fancymenu/assets/multiplayer.png"
+hash = "a1192da849399e96091d33abc85ac87ef3669f275f422af4aef6742d25cad9d7"
+
+[[files]]
+file = "config/fancymenu/assets/oblivion_arrives.png"
+hash = "faa31de036c8ff4605d6a5a02d8e8efe25be5657f9a5170ef4a0a3f5d84a0ea9"
+
+[[files]]
 file = "config/fancymenu/assets/oblivion_awaits.png"
-hash = "e4b09677d604defe72428a6ee3b75ed94d4d396cfaeabf5574ba453f6e22d6b2"
+hash = "d88e9351ab906f8a99bc83e84a72279ad1f01504df65f642b4d734ac42f8fd8d"
+
+[[files]]
+file = "config/fancymenu/assets/pillar.png"
+hash = "c3538d962218b19ff9ac1ed65133a55328b27b08324ee9272e92fdbb73e72d44"
+
+[[files]]
+file = "config/fancymenu/assets/silicontransmittercompress.ogg"
+hash = "f0c8a55124befbbe681f9ef64ddac2f916150f1b2502e5847e800679cf3505fe"
+
+[[files]]
+file = "config/fancymenu/assets/singleplayer.png"
+hash = "a7655304826e3dafe43836289f45ccfa781876b2b3892a1cfe9e6aff6c7f4346"
 
 [[files]]
 file = "config/fancymenu/assets/transparent_picture.png"
@@ -186,19 +290,35 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "8e15b8fdd11e054e25d49c37ce6a448807a7e6e34f9c3b46dc4d222aa0aca44b"
+hash = "9100b5f1472edc96bd26974d5d3859720d5b1a5c03f48e92b872cb7404203b92"
 
 [[files]]
 file = "config/fancymenu/customization/compressionloading.txt"
-hash = "1e795bc3ba7fd0b801dabcecc7a8dd4c7a7bfd7b47c5c4f9dbb3f31ffb23d97b"
+hash = "6431a46ac964a3237c7f4da3be0d43ce0e7f7dce1fd7eb4cc275bcd2a5f28d5e"
+
+[[files]]
+file = "config/fancymenu/customization/compressionloading_2.txt"
+hash = "97e67b8f2f9a3474d9302f0d1aa1fee4b6115e217768ee15b1f289ae47483e67"
+
+[[files]]
+file = "config/fancymenu/customization/menu_music.txt"
+hash = "88a0cdfdf7e0b526067a4db0298f50a6f6fb6e249ae77ebbe82db9d6fd960134"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "caf237bdcdce2067ccd0aef1f9ba72847c61c608791cbe66004fd1f9babbc27e"
+hash = "7d4a1673e0cadb8279ece2ac5259f5a4a64568d7eef2fa83cac1de15ada500db"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_1.txt"
 hash = "9d3d03585013de3b2cf1b67c9343d0300fecb9321eaec7d48fe0cd73796a83ac"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout_2.txt"
+hash = "c52fecc7538f267f713c7da3c6d9e1b43b1b064a67613fce66df03d9603ad87c"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout_old.txt"
+hash = "ced1e1cb096e805f2197b4d936b119aff7528aba1f22568cc5be20d3760b1346"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -222,7 +342,7 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+hash = "753817219fcd342292b0ffb7e6a5f448993d5a11530a0a626ba0a0d9876a938e"
 
 [[files]]
 file = "config/flywheel-client.toml"

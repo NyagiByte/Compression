@@ -1,2 +1,20 @@
 type = user_variables
 
+variable {
+  name = secret_bar_text
+  value = 
+  reset_on_launch = false
+}
+
+variable {
+  name = secret_text_bar
+  value = false
+  reset_on_launch = false
+}
+
+variable {
+  name = menu_music
+  value = main
+  reset_on_launch = false
+}
+
