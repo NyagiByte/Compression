@@ -110,6 +110,10 @@ hash = "d3e7030c1e712e1d10f07716ac18e6499a6963507e68fd1a74ccdee8fd7c823d"
 
 [[files]]
 file = "config/ae2/common.json"
+hash = "a6e17f32066945fc78ff7f78bcc67b4c80ee3f0cc0282a83670b5188c7b77297"
+
+[[files]]
+file = "config/ae2/common.json.bak"
 hash = "c6feb69f61dc6288748d3d5e4fea334558a5db4b4f2d78a3bbdbd07e52cdeb9c"
 
 [[files]]
@@ -310,7 +314,7 @@ hash = "ead53212d56aaa15271feb92dd8142bb66573621e177ac911cc2e2efbd06a44b"
 
 [[files]]
 file = "config/fancymenu/customization/credits_layout.txt"
-hash = "33569440447483e2ee1507052e838ee987b07578b711c01e50cfeeb8bb77b29a"
+hash = "9528a113de3391b9d59421351ad68f754298626f8a2742bda67c72b7ec04e8ed"
 
 [[files]]
 file = "config/fancymenu/customization/menu_music.txt"
@@ -318,7 +322,7 @@ hash = "963512e630bc6d3071318ad677722f418fdf43b1c5dcbc6b2f2d988b0ec252c7"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "5e2c77a517ff1a80faade9851b4054ce717b6dca65aaaaca58a05e53c8f6d9a7"
+hash = "9044618db0ddc08e79ef7fec74140999e99fd198eb4e326233b49a5fd216ff13"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_1.txt"
@@ -390,15 +394,15 @@ hash = "6dee5a071304fc1ed4480b0f1dba296099a49094bc88dedf406a652d35258135"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "0d38cf94c4d604b2c772b7445c913461a80c458410d597f3f55ed6567236f8f3"
+hash = "1674d7cb392e6dce4dbb4e53e5adba9881c4b51a3724776558a6f065c665ec38"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"
-hash = "6327daa405b5360decbad673c54c8956083e79e91a807d7ef678f0273924a6a7"
+hash = "a5b036d389be8e87052ccee9936079cb6d1663c09af83822db409b37f0920f74"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/proficiency.snbt"
-hash = "f39de46ea23e511d0c20234dc2b6dee419dad25952256898b6e60b70138e171b"
+hash = "0b5df6439a69959fc3d237b8bf668007be6a96a6bb81f31c5cabb5cdd0b5cc0d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
@@ -685,6 +689,10 @@ file = "config/paxi/datapacks/compression/data/ae2/recipes/network/parts/panels_
 hash = "0abf2be06849fb95b367c6912f0a916af3b9c723a5489958b04634ae4155fc73"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/network/parts/quartz_fiber_part.json"
+hash = "3edcd84e416dcb226aae66f3fcdbd546d1837ab136ca3b9467fe82b72c8b2bc6"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/parts/storage_bus.json"
 hash = "5e4115639684f9cd8fb52ce431764035e8d74a6fa3303c70b863f55f81ab90f5"
 
@@ -695,6 +703,10 @@ hash = "2632d388a527fa6e85f46204d70e47d2b968c51a9c5aa1a80fb7e03f35231831"
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/parts/quartz_cable_t1.json"
 hash = "5dd2dd49d1362ac5a23501db546ffe1ddcb55b1ee1dfac33fd400a1460036b8c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/parts/quartz_cable_t2.json"
+hash = "4d9eb79eb73b9f00bfa2dffb948ee9b7f85f065e2ec32bbddc6a3248a4e319e0"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/tools/matter_cannon.json"
@@ -714,7 +726,7 @@ hash = "0cc73d080edf91fa625d5b958b613ec57c3c14018c269fd0ac7fcef8fd5b106e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer.json"
-hash = "f6c972e122a03498fec69c6f46a7acd22bdbcc68c4558d19a58835d6b28cf0a5"
+hash = "69729e1f3ee5ae146ed7e906281b8d04be6364ffa92178ebdda66b6bb56c4409"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/combiner/acetylene.json"
@@ -854,7 +866,7 @@ hash = "1b7a957ff89c0d2c9b95453af3f0cf8358613e40c425c001ef5c3bf032c37c3f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier.json"
-hash = "ac7528514093529fa59b0436353d0f8d8ada86b157ef89adc0a2390384bb54ff"
+hash = "d1c478dba6938ed37ebf71f7cda51c23d32dc1a3b402956b4c385997d8366847"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/alchemy_catalyst.json"
@@ -2382,7 +2394,7 @@ hash = "b139cf3867c62bd02c017178960c1b8428ac907d02f6a4bbcea1931fc60632b8"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/bottle_of_vinegar.json"
-hash = "68baa988d5ef55f72f8f84a061eeec8cf7e6d766596f1a75af61f930e679c7b5"
+hash = "184470c0ed3c74af2b02382377ec4bea4892f7cbbd9eee3272efeecf5c5be9d6"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/chromium_trioxide.json"
@@ -4234,7 +4246,7 @@ hash = "0d9b86f64f5768f49a28937f03a35dbef87a98d46c2679dc28a2e068c46e4bcf"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/thermo_plant/yeast_culture.json"
-hash = "2c7f374cdd5e37c7ea4c30180530db356a49388cd8982673158d6844a2d8e1e2"
+hash = "b098ddb80a6ee59b0f6b1b1185c8c6dc2ce2f4794b49c386534fef7e299391f2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/projectred_core/recipes/plate.json"
