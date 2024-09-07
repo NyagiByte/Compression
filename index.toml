@@ -869,16 +869,56 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier.jso
 hash = "d1c478dba6938ed37ebf71f7cda51c23d32dc1a3b402956b4c385997d8366847"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/abstruse_platform.json"
+hash = "bc5c8003872e24d85219cdef5f0a0a00c2d908bb0f2a3b003e3378fefca7551c"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/alchemy_catalyst.json"
 hash = "3e5ad14ffc91fb226bfbf7101007014c0ad4559fe4b6f62456575108021fc62c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/animated_torch.json"
+hash = "c57cfffb3e627c5c5b6f07c3d01ac4cc5a87cc5b4a67b12d58297b410db673fd"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/apothecary_default.json"
 hash = "09d3a44a90b6f15fd4d7d7a68be588ac4ab437fe126188115d7ea3f8425ad52a"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/auto_crafting_halo.json"
+hash = "2300458d06a93392e3f556930e3ea2d339bf2f5a621ed62b94facafb0db0f7ac"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/avatar.json"
+hash = "495015b0b0d2b22591481fe6720d1930c162ef602462e4ee05e488db9f7f61d1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/brewery.json"
+hash = "d98a4a8e2419d82316fd08798ff976f66d73b7dfc0a7e7fcd1ee10d24d0b34d6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/cacophonium.json"
+hash = "1a4ddbbe3eda5ac08617d04fe1e6aecf449c5c40b2e0cb73260b63bbb52b36aa"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/cacophonium_block.json"
+hash = "3f5298324583096529df5b5786809cccd442b7f251784f2489262adba0d8d472"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/cobble_rod.json"
 hash = "8e8c0272f9624a9e5908d0dac21b8be1ed8b43dc3d7b36d56a955a761e6d5e4d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/cocoon.json"
+hash = "9f0d2f4e4209a45b62d90b1051e5048ac5480a47fde5c84d121772af844b8bb8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/crafting_halo.json"
+hash = "4e19fe9a1992a0437b2b6347f7c1af18413da14a0ce4235860c9092ba42e9cef"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/detector_light_relay.json"
+hash = "d3e8166ebbba0e0b8395f8b1d700bad9d205649a1342839984b8f3d699baf29f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/diluted_pool.json"
@@ -889,12 +929,36 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/dirt_rod.json"
 hash = "e04618e95cedcf8aaae07df3d7ca894576544a4645953afde67d1aceae822047"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/drum_canopy.json"
+hash = "e89c1b9579fb723d4b62b266c77f3e1456ceb6c6996a7b4ee805329e6a4ce1e8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/drum_canopy_to_wild.json"
+hash = "48772a0ddbb9fd4720fec9428715c1e4d48dfde15fa4fb0342aaee0eb37a2fd0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/drum_gathering.json"
+hash = "df3a10011949b31c1e2281d6b314eaaeb12efce830607f1c6bdb2af7c1c2f12a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/drum_wild.json"
+hash = "6878577dc3e8f5b1259d633229439b5bddfe2f8be8da4cad53d6ee36717b4016"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/ender_dagger.json"
 hash = "3edfe11f9f6dc43d4551134aa80e60ab8afd7346a2af27d33ce603e290130f05"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/ender_hand.json"
+hash = "6af6bdec264625d590475dfcc0c4e3e3b94780bf1bc164d9ef14cbfbb052d2e2"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/exchange_rod.json"
 hash = "cc405723a71e3ee54071440883a0e58c75840830f26f1aca6f629317508b7274"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/fel_pumpkin.json"
+hash = "e015aff2f30e503d26d32ef9224949a1fac7cd77a5bb44f39384a364df024db2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/fire_rod.json"
@@ -903,6 +967,10 @@ hash = "5a4de320e98a7aebdbf23c812b72e24764825b7c693e64bf9bb44b2b3dda6730"
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/forest_eye.json"
 hash = "fcf9f827dd71cf0a517065940c4914ce0cee5cad316546a2439c511ace8a49cf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/fork_light_relay.json"
+hash = "da2078b0446e5d3a2a1addcd572d4e1f47d14a9a39722290a1cda6a38ba2be53"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/framed_livingwood.json"
@@ -915,6 +983,30 @@ hash = "fe08807f243341ac308025dca995cbf13292989f6643d9109f084f4eb99d853a"
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/gravity_rod.json"
 hash = "d2324cf4bd93102e43245321a01875b6bf2ad88e09edb806a16cce293e04d316"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/horn_grass.json"
+hash = "c54570cc66a7576de15220ec4b7e53e91f32622a20ad0a1c058056cdc3d0712c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/horn_leaves.json"
+hash = "74aef0ecad91f3d7ecf53bec6eb0157fc8bb60ebdc0cc4082fbc17e326a24e62"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/horn_leaves_to_grass.json"
+hash = "a9dc080bfe6f2a7506acdfa0425f0b23b48cc4cd9b2bd9dc1388e82799736112"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/horn_snow.json"
+hash = "ea4207073463ecfd50fda20051ef07286adb6a9f3c9919a7b23b75c572855d38"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/hourglass.json"
+hash = "63372afbc73d667e27d4570effcc72f6650bd1da427b8dc301b6986b6a0f2bde"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/incense_plate.json"
+hash = "37f784fbd48c8d52c355d65105472c8ae874e9432abab38b143ca69597652f1c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/lens_bounce.json"
@@ -1017,6 +1109,14 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/lens_weight.json"
 hash = "759785a7333699db092863125f25c6f3349c0e74a513505c1620ae033f46d573"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/light_launcher.json"
+hash = "e40bb64a65601d00f34925d42fa6cf47321e5745e7fb586c6fe3302307e93e6e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/light_relay.json"
+hash = "6541cec87447f80e51286d349863499612b3b54e995042c26c02e55f7ab0d013"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/livingrock_stairs.json"
 hash = "91cdb2e820cd3dc14a0b420b8da9bea7659c61b76ea73c123502921ddf87438d"
 
@@ -1077,12 +1177,28 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/mana_infusion/man
 hash = "45041fc585b90b3f05ba22cad89344e302c474582a5293f48a8f6c1b760cb5ee"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/mana_infusion/piston_relay.json"
+hash = "8957f73e3415cd96b1165237a5fa7a29457b80780b66c0c27361514340db1f12"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/mana_infusion/tiny_potato.json"
+hash = "086bd376bbe640290f20015361aca8a01a5070760b2ea10b9c1d5e2b4a10e3df"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/mana_mirror.json"
+hash = "421126df7f08c631736e20d05f5c678ad9e0c58d33456b042bc14add2b70c6be"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_pool.json"
 hash = "f5b360a1916ceb76e946582ee3a28583d2317e21020304b03a954f5ae9cd8caf"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_spreader.json"
 hash = "914c7ecacc9c3a615a104b4bd018941079a4f02d42688e352e70cd71a8b5c619"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/mana_tablet.json"
+hash = "f2d33740e037a80e9c4b0ab02fc162fe523d883284a743d678247a542efc810a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_void.json"
@@ -1229,6 +1345,10 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/prism.json"
 hash = "7b20b616d3499c22cfdc0e1c010488f2381ed7d609887dfa6273156d6fe089e1"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/pump.json"
+hash = "ab6a3db257bb2095a672a61b07c9b2fe6accba8ea44131d4f681768787d58924"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/pure_daisy/livingrock.json"
 hash = "c0890103bdc8e89367d5958ec6a7e432af739b5e832580c6735d508c93da0cd9"
 
@@ -1309,6 +1429,14 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/skydirt_rod.json"
 hash = "e0a19cd4e35d598a7030ed785834abbdd5f1fdc2db1a54fa9388f833a42ac6ba"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/slime_bottle.json"
+hash = "62ec1934997c8492109e21bbf40912a4689ed41b0f808b3897d7bc3b55ebe7c3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/slingshot.json"
+hash = "09f7e37ed6fa2a0f06224e3ec4e27fb626766a80db95d07e4180c674ef03a4fe"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/smelt_rod.json"
 hash = "e6260356d32640db16d34dbf531e7d462af198dc9cc6d56b5d7ec7e8685de796"
 
@@ -1321,8 +1449,24 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/teru_teru_bozu.js
 hash = "6cd44dc9285134db997c1632b6ff6d9d5a1f1548c8cd983a8a3992c434abc02d"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/toggle_light_relay.json"
+hash = "62bb55dc607f977930a506dfafffc8ba9403d186c9e7f30545858a84f529d2c1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/toggle_to_default_light_relay.json"
+hash = "8ec9e382a6f062a48046baefb9de262c2680b323a20b10844e6c54201ac36664"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/tornado_rod.json"
 hash = "91925fd7a68407140b723a88ab11694f7839dd199e63481e7ea99d6fb51f3218"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/turntable.json"
+hash = "91d18f2fbc57a16dbf03bc767d35c85c0149b9717a4f330a51936547c1ab74ce"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/vial.json"
+hash = "f41a5e377121b3c15558a84ee480437f2ca49da9a36b9b18b5976717362e53de"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/vine_ball.json"
@@ -1819,6 +1963,10 @@ hash = "efe52f34968ff96c1a132c69e4ca60e3c53a99a82051241eb39acf1d32180f14"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/fluid_placer.json"
 hash = "30cd724403bed23f37e6350856212ae64507075d0e472304c248b5b0fb738634"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/fluid_pump.json"
+hash = "30e28dbf376cf6eb4f14544b103d421df64d42012bd2cc6583aeea4f55647924"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/furnace_heater.json"
@@ -4762,7 +4910,7 @@ hash = "676f74acebeedab7174a16ecc9081d256e406c306bc4403416a697cb20b3f24f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "781a639981630d2ca1e80f90f87808241e80288d6425aadcee8b6a4e2eb8677f"
+hash = "a6b7a3953addaf2a2bb0f1d559e4e31d296a689552ae260a63a82734f2c7f81d"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
