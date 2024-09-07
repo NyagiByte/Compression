@@ -281,32 +281,44 @@ file = "config/fancymenu/assets/singleplayer.png"
 hash = "a7655304826e3dafe43836289f45ccfa781876b2b3892a1cfe9e6aff6c7f4346"
 
 [[files]]
+file = "config/fancymenu/assets/test.apng"
+hash = "53942aa5de56ad7e5766c95777ee632b8c2c1dd532a9b846d60a40449a88ade0"
+
+[[files]]
+file = "config/fancymenu/assets/thehandthatmockedthem.apng"
+hash = "cf18916b3eda22e08faf4095ece2681aadefb183dc690957214e67dce4ffccbf"
+
+[[files]]
 file = "config/fancymenu/assets/transparent_picture.png"
 hash = "b144377c58b90f9503cbaedb07f2749be28752ee327165ef29a8e6a2f34d4812"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+hash = "65a398463a5358b14798fb9b022d0b0c7ec903b589dc372b26906ef18ad73370"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "9100b5f1472edc96bd26974d5d3859720d5b1a5c03f48e92b872cb7404203b92"
+hash = "dfd6d3496ec3b05e02eb5e399e2c70797d5f099923edb9e1dae2f31cc201b032"
 
 [[files]]
 file = "config/fancymenu/customization/compressionloading.txt"
-hash = "6431a46ac964a3237c7f4da3be0d43ce0e7f7dce1fd7eb4cc275bcd2a5f28d5e"
+hash = "333d7f8b5d27f8af2dbec87f2442c5660155280409fee05dc4d18e8ae00ce989"
 
 [[files]]
 file = "config/fancymenu/customization/compressionloading_2.txt"
-hash = "97e67b8f2f9a3474d9302f0d1aa1fee4b6115e217768ee15b1f289ae47483e67"
+hash = "ead53212d56aaa15271feb92dd8142bb66573621e177ac911cc2e2efbd06a44b"
+
+[[files]]
+file = "config/fancymenu/customization/credits_layout.txt"
+hash = "33569440447483e2ee1507052e838ee987b07578b711c01e50cfeeb8bb77b29a"
 
 [[files]]
 file = "config/fancymenu/customization/menu_music.txt"
-hash = "88a0cdfdf7e0b526067a4db0298f50a6f6fb6e249ae77ebbe82db9d6fd960134"
+hash = "963512e630bc6d3071318ad677722f418fdf43b1c5dcbc6b2f2d988b0ec252c7"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "7d4a1673e0cadb8279ece2ac5259f5a4a64568d7eef2fa83cac1de15ada500db"
+hash = "5e2c77a517ff1a80faade9851b4054ce717b6dca65aaaaca58a05e53c8f6d9a7"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_1.txt"
@@ -314,7 +326,7 @@ hash = "9d3d03585013de3b2cf1b67c9343d0300fecb9321eaec7d48fe0cd73796a83ac"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_2.txt"
-hash = "c52fecc7538f267f713c7da3c6d9e1b43b1b064a67613fce66df03d9603ad87c"
+hash = "3763b301454f853ec42836fb81659a6bc83afdcccd4ecd3c581423b87259fac4"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_old.txt"
