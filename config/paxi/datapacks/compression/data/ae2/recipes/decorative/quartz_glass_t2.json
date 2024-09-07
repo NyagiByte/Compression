@@ -1,0 +1,29 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "botania:mana_glass"
+    },
+    {
+      "item": "ae2:certus_quartz_dust"
+    },
+    {
+        "amount": 100,
+        "fluid": "minecraft:water"
+    }
+  ],
+  "results": [
+    {
+      "item": "ae2:quartz_glass"
+    },
+    {
+      "chance": 0.1,
+      "item": "ae2:quartz_glass"
+    },
+    {
+        "chance": 0.75,
+        "item": "ae2:certus_quartz_dust"
+    }
+  ]
+}

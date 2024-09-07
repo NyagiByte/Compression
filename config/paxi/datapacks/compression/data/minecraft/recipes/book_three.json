@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"book",
+  "key": {
+    "A": {"item":"immersiveengineering:hemp_fabric"},
+    "B": {"item":"farmersdelight:canvas"},
+    "C": {"item":"immersiveengineering:ersatz_leather"}
+  },
+  "pattern": [
+    "AA ",
+    "AB ",
+    "  C"
+  ],
+  "result": {
+    "count": 24,
+    "item": "minecraft:book"
+  }
+}
