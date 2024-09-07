@@ -69,3 +69,6 @@ net.coderbot.iris.gui.screen.ShaderPackScreen {
 com.blamejared.controlling.client.NewKeyBindsScreen {
 }
 
+me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
+}
+

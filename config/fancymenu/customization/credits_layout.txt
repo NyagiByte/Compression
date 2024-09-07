@@ -1,0 +1,147 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = credits
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1724312299862
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:206cade5-8125-4cec-bc8b-4df35952b591-1724312288899] = [groups:][instances:]
+}
+
+customization {
+  action = setscale
+  scale = 2.0
+}
+
+customization {
+  action = autoscale
+  basewidth = 2560
+  baseheight = 1440
+}
+
+menu_background {
+  image_path = [source:local]/config/fancymenu/assets/blackbackground.png
+  slide = false
+  repeat_texture = false
+  background_type = image
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/compressionlogo.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 67af8d9d-bd1d-42de-b945-332d0716698a-1724308739243
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = top-centered
+  advanced_width = 512
+  advanced_height = 128
+  x = -257
+  y = 32
+  width = 50
+  height = 50
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = be8907a4-b836-48c5-ba14-ec3ff1450718-1724308739243
+  [loading_requirement_container_meta:be8907a4-b836-48c5-ba14-ec3ff1450718-1724308739243] = [groups:][instances:]
+}
+
+element {
+  interactable = true
+  source = ^^^%n%# Credits%n%%n%### **Custom Music**%n%%n%*Modest By Default:*%n%%n%[Thank You For Giving So Much](https://modestbydefault.bandcamp.com/track/--238)%n%[Where Do You Hide In The Bright Light](https://modestbydefault.bandcamp.com/track/--239)%n%[The Glorious Experience Of Dying Peacefully](https://modestbydefault.bandcamp.com/track/--240)%n%[Heaven Exists And Is Full Of Poor People](https://modestbydefault.bandcamp.com/track/--243)%n%[Gods Eyes Are Like My Mothers Eyes](https://modestbydefault.bandcamp.com/track/--247)%n%%n%Licensed Under %n%[https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/)%n%%n%*Silicon Transmitter:*%n%%n%[Decay](https://freemusicarchive.org/music/Silicon_Transmitter/decay/decay/)%n%[Compress](https://freemusicarchive.org/music/Silicon_Transmitter/decay/compress/)%n%[Ruin](https://freemusicarchive.org/music/Silicon_Transmitter/decay/ruin/)%n%[Relic #2](https://freemusicarchive.org/music/Silicon_Transmitter/relics/relic-2/)%n%[Relic #4 (version 1)](https://freemusicarchive.org/music/Silicon_Transmitter/relics/relic-4-version-1/)%n%[Relic #4 (version 2)](https://freemusicarchive.org/music/Silicon_Transmitter/relics/relic-4-version-2/)%n%[Relic #6](https://freemusicarchive.org/music/Silicon_Transmitter/relics/relic-6/)%n%[Relic #9](https://freemusicarchive.org/music/Silicon_Transmitter/relics/relic-9/)%n%%n%Licensed Under %n%[https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)%n%%n%### **Development**%n%%n%**Lead Dev**%n%%n%Nyagi%n%%n%**Custom Modder Devs**%n%%n%Killerq%n%Barza%n%Roxxane%n%%n%**Supporting Devs**%n%%n%JJFire%n%Flooter%n%%n%**Assistant Devs**%n%%n%Metamourtyline%n%Robusttadpole66%n%Ozymandias%n%SoulRacer85%n%%n%**Language Helpers**%n%%n%Dannymike - Spanish%n%Tralomine - French%n%%n%**Main Menu**%n%%n%Ozymandias%n%%n%**Special Thanks**%n%%n%Chorb & Elocin from the LPS Team%n%Qwek for providing public server access in duckpond%n%Early Access playtesters for finding all the weird bugs%n%^^^
+  source_mode = direct
+  shadow = false
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 458905ef-d1dd-483c-96b5-8b5cd883b17b-1724308831688
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = element
+  anchor_point_element = 67af8d9d-bd1d-42de-b945-332d0716698a-1724308739243
+  x = 94
+  y = 124
+  width = 327
+  height = 499
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 44e8f066-2cdf-4813-9e72-dbd000b3ecca-1724308831688
+  [loading_requirement_container_meta:44e8f066-2cdf-4813-9e72-dbd000b3ecca-1724308831688] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = c7057897-7f5e-4a8f-9414-9c73c331576c-1724310817460
+  [executable_action_instance:87f0104b-8597-495d-b549-8ea496b2ecdb-1724310828132][action_type:closegui] = 
+  [executable_block:c7057897-7f5e-4a8f-9414-9c73c331576c-1724310817460][type:generic] = [executables:87f0104b-8597-495d-b549-8ea496b2ecdb-1724310828132;]
+  backgroundnormal = [source:local]/config/fancymenu/assets/transparent_picture.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/transparent_picture.png
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Exit
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 49674884-ea86-46a9-ae58-c68efb80db4f-1724310817460
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = element
+  anchor_point_element = 458905ef-d1dd-483c-96b5-8b5cd883b17b-1724308831688
+  x = 63
+  y = 529
+  width = 200
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 1d3f5763-306f-4566-b120-e1d55160cfc0-1724310817460
+  [loading_requirement_container_meta:1d3f5763-306f-4566-b120-e1d55160cfc0-1724310817460] = [groups:][instances:]
+}
+
