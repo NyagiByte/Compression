@@ -577,6 +577,8 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/honeycomb_block.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/sugar_cane.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/sugar.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/wool.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/carpets.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/sucrose.json"},
