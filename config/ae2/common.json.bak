@@ -32,7 +32,7 @@
   },
   "spatialio": {
     "spatialPowerMultiplier": 125000.0,
-    "spatialPowerExponent": 3.0
+    "spatialPowerExponent": 3
   },
   "logging": {
     "securityAuditLog": false,
@@ -72,7 +72,7 @@
     "allowDisassembly": true
   },
   "PowerRatios": {
-    "ForgeEnergy": 50.0,
+    "ForgeEnergy": 50,
     "UsageMultiplier": 1.0
   },
   "Condenser": {
@@ -111,8 +111,8 @@
     "energyPerFuelTick_comment": "AE energy produced per fuel burn tick (reminder: coal \u003d 1600, block of coal \u003d 16000, lava bucket \u003d 20000 burn ticks)",
     "energyPerFuelTick": 500.0,
     "minEnergyPerGameTick_comment": "Minimum amount of AE/t the vibration chamber can slow down to when energy is being wasted.",
-    "minEnergyPerGameTick": 40,
+    "minEnergyPerGameTick": 400,
     "maxEnergyPerGameTick_comment": "Maximum amount of AE/t the vibration chamber can speed up to when generated energy is being fully consumed.",
-    "maxEnergyPerGameTick": 400
+    "maxEnergyPerGameTick": 4000
   }
 }
