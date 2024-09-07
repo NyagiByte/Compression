@@ -536,11 +536,6 @@
 					type: "item"
 				}
 				{
-					id: "393B9BE08556757A"
-					item: "immersiveengineering:raw_silver"
-					type: "item"
-				}
-				{
 					id: "53FCC356B6B7D14B"
 					item: "thermal:raw_silver"
 					type: "item"
@@ -2124,18 +2119,11 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			tasks: [
-				{
-					id: "36DC21C14579A482"
-					item: "immersiveengineering:raw_lead"
-					type: "item"
-				}
-				{
-					id: "0F2021918C57D742"
-					item: "thermal:raw_lead"
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "0F2021918C57D742"
+				item: "thermal:raw_lead"
+				type: "item"
+			}]
 			title: "Raw Lead"
 			x: -3.5d
 			y: 7.5d
