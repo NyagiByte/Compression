@@ -135,7 +135,7 @@
 			tasks: [
 				{
 					consume_items: true
-					count: 48L
+					count: 47L
 					id: "26ACB9F661CEB993"
 					item: "nyagibits_bytes:tier_zero_strawberry"
 					title: "Main Tier 0 Quests"
