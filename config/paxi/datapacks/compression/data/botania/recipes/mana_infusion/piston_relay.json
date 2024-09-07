@@ -1,0 +1,14 @@
+{
+    "type": "botania:mana_infusion",
+    "catalyst": {
+      "type": "block",
+      "block": "botania:alchemy_catalyst"
+    },
+    "input": {
+      "item": "create:mechanical_piston"
+    },
+    "mana": 2000,
+    "output": {
+      "item": "botania:piston_relay"
+    }
+  }

@@ -1,0 +1,36 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "botania:daffomill"
+    },
+    {
+      "item": "minecraft:glowstone"
+    },
+    {
+      "item": "botania:mana_diamond"
+    },
+    {
+      "item": "botania:mana_string"
+    },
+    {
+      "item": "botania:mana_string"
+    },
+    {
+      "item": "botania:mana_string"
+    },
+    {
+      "item": "botania:mana_string"
+    }
+  ],
+  "output": {
+    "count": 16,
+    "item": "botania:light_relay"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

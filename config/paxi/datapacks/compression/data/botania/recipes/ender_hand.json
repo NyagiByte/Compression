@@ -1,0 +1,32 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "quark:bonded_leather"
+    },
+    {
+      "item": "botania:mana_pearl"
+    },
+    {
+      "item": "botania:mana_pearl"
+    },
+    {
+      "item": "botania:mana_pearl"
+    },
+    {
+      "item": "botania:mana_pearl"
+    },
+    {
+      "item": "minecraft:ender_chest"
+    }
+  ],
+  "output": {
+    "item": "botania:ender_hand"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

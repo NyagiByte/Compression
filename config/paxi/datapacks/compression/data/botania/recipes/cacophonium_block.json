@@ -1,0 +1,20 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "botania:cacophonium"
+    },
+    {
+      "item": "minecraft:note_block"
+    }
+  ],
+  "output": {
+    "item": "botania:cacophonium_block"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

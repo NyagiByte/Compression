@@ -1,0 +1,36 @@
+{
+    "type": "botania:runic_altar",
+    "ingredients": [
+      {
+        "item": "botania:cosmetic_googly_eyes"
+      },
+      {
+        "item": "farmersdelight:potato_crate"
+      },
+      {
+        "item": "biomancy:living_flesh"
+      },
+      {
+        "item": "botania:rune_mana"
+      },
+      {
+        "item": "mythicbotany:alfsteel_block"
+      },
+      {
+        "item": "botania:life_essence"
+      },
+      {
+        "item": "nuclearcraft:californium_rtg"
+      },
+      {
+        "item": "ae2:singularity"
+      },
+      {
+        "item": "minecraft:rabbit_foot"
+      }
+    ],
+    "mana": 100000000,
+    "output": {
+      "item": "botania:tiny_potato"
+    }
+  }

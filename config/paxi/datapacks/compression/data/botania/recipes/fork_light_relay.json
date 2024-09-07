@@ -1,0 +1,14 @@
+{
+    "type": "botania:mana_infusion",
+    "catalyst": {
+      "type": "block",
+      "block": "botania:alchemy_catalyst"
+    },
+    "input": {
+      "item": "botania:light_relay"
+    },
+    "mana": 2500,
+    "output": {
+      "item": "botania:fork_light_relay"
+    }
+  }

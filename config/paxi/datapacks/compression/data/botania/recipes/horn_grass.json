@@ -1,0 +1,32 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "nyagibits_bytes:etched_living_wood"
+    },
+    {
+      "item": "nyagibits_bytes:etched_living_wood"
+    },
+    {
+      "item": "nyagibits_bytes:etched_living_wood"
+    },
+    {
+      "item": "nyagibits_bytes:etched_living_wood"
+    },
+    {
+      "item": "create:mechanical_plough"
+    },
+    {
+      "item": "create:mechanical_harvester"
+    }
+  ],
+  "output": {
+    "item": "botania:horn_grass"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

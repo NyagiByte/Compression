@@ -1,0 +1,23 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "botania:cosmetic_pink_flower_bud"
+    },
+    {
+      "item": "botania:mana_glass"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    }
+  ],
+  "output": {
+    "item": "botania:slime_bottle"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

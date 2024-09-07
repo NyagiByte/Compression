@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:sheetmetal_colored_blue"},
+      "B": {"item":"immersiveengineering:connector_lv_relay"},
+      "C": {"item":"immersiveengineering:sheetmetal_iron"},
+      "D": {"item":"create:mechanical_pump"}
+    },
+    "pattern": [
+      "ABA",
+      "CDC",
+      "CAC"
+    ],
+    "result": {
+        "item": "immersiveengineering:fluid_pump"
+    }
+  }

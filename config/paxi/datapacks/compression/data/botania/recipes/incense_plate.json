@@ -1,0 +1,14 @@
+{
+	"type":"vintageimprovements:turning",
+	"ingredients": [
+		{
+			"item": "botania:livingwood"
+		}
+	],
+	"results": [
+		{
+			"item": "botania:incense_plate",
+			"count": 8
+		}
+	]
+}

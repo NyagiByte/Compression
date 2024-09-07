@@ -1,0 +1,26 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "botania:mana_spreader"
+    },
+    {
+      "item": "nyagibits_bytes:tempered_glass"
+    },
+    {
+      "item": "immersiveengineering:stick_treated"
+    },
+    {
+      "item": "botania:chiseled_livingrock_bricks"
+    }
+  ],
+  "output": {
+    "item": "botania:mana_mirror"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

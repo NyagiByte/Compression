@@ -1,0 +1,14 @@
+{
+    "type": "botania:mana_infusion",
+    "catalyst": {
+      "type": "block",
+      "block": "botania:alchemy_catalyst"
+    },
+    "input": {
+      "item": "botania:drum_wild"
+    },
+    "mana": 5000,
+    "output": {
+      "item": "botania:drum_canopy"
+    }
+  }

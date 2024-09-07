@@ -1,0 +1,27 @@
+{"type":"immersiveengineering:arc_furnace",
+    "additives":[
+        {
+            "item":"nyagibits_bytes:sterilized_quartz_glass"
+        },
+        {
+            "item":"nyagibits_bytes:sterilized_quartz_glass"
+        },
+        {
+            "item":"botania:mana_glass"
+        },
+        {
+            "item":"nyagibits_bytes:sealant"
+        }
+      
+    ],
+            "energy":102400,
+            "input":{
+                "base_ingredient":{
+                    "item":"nyagibits_bytes:flux_mixture"
+                    },"count":32},
+                    "results":[
+                        {
+                        "count":1,
+                        "item":"botania:vial"
+                        }],
+                            "time":100}

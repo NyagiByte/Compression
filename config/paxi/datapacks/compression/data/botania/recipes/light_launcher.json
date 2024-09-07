@@ -1,0 +1,29 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "create:white_seat"
+    },
+    {
+      "item": "immersiveengineering:skyhook"
+    },
+    {
+      "item": "botania:light_relay"
+    },
+    {
+      "item": "botania:mana_diamond"
+    },
+    {
+      "item": "botania:mana_diamond"
+    }
+  ],
+  "output": {
+    "item": "botania:light_launcher"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

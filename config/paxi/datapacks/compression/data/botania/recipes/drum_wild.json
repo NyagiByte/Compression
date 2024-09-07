@@ -1,0 +1,26 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "botania:horn_grass"
+    },
+    {
+      "item": "botania:pattern_framed_livingwood"
+    },
+    {
+      "item": "nyagibits_bytes:threaded_composite_leather"
+    },
+    {
+      "item": "nyagibits_bytes:threaded_composite_leather"
+    }
+  ],
+  "output": {
+    "item": "botania:drum_wild"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

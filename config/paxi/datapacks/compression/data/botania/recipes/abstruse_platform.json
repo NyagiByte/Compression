@@ -1,0 +1,42 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "botania:lens_phantom"
+    },
+    {
+      "item": "nyagibits_bytes:etched_living_wood"
+    },
+    {
+      "item": "nyagibits_bytes:etched_living_wood"
+    },
+    {
+      "item": "nyagibits_bytes:etched_living_wood"
+    },
+    {
+      "item": "nyagibits_bytes:etched_living_wood"
+    },
+    {
+      "item": "nyagibits_bytes:etched_living_wood"
+    },
+    {
+      "item": "nyagibits_bytes:etched_living_wood"
+    },
+    {
+      "item": "nyagibits_bytes:etched_living_wood"
+    },
+    {
+      "item": "nyagibits_bytes:etched_living_wood"
+    }
+  ],
+  "output": {
+    "count": 64,
+    "item": "botania:abstruse_platform"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "botania:mana_infusion",
+    "catalyst": {
+      "type": "block",
+      "block": "botania:alchemy_catalyst"
+    },
+    "input": {
+      "item": "botania:horn_snow"
+    },
+    "mana": 1000,
+    "output": {
+      "item": "botania:horn_leaves"
+    }
+  }

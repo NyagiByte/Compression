@@ -1,0 +1,44 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "botania:mana_diamond_block"
+    },
+    {
+      "item": "botania:crafting_halo"
+    },
+    {
+      "item": "create:mechanical_crafter"
+    },
+    {
+      "item": "create:mechanical_crafter"
+    },
+    {
+      "item": "create:mechanical_crafter"
+    },
+    {
+      "item": "create:mechanical_crafter"
+    },
+    {
+      "item": "create:mechanical_crafter"
+    },
+    {
+      "item": "create:mechanical_crafter"
+    },
+    {
+      "item": "create:mechanical_crafter"
+    },
+    {
+      "item": "create:mechanical_crafter"
+    }
+  ],
+  "output": {
+    "item": "botania:auto_crafting_halo"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

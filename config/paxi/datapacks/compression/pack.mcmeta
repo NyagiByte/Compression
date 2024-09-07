@@ -272,6 +272,8 @@
 		{"namespace": "ae2", "path": "recipes/network/cables/dense_smart_from_smart"},
 
 		{"namespace": "botania", "path": "recipes/red_string_alt.json"},
+		{"namespace": "botania", "path": "recipes/tiny_planet_block.json"},
+		{"namespace": "botania", "path": "recipes/tiny_planet.json"},
 
 		{"namespace": "botania", "path": "recipes/runic_altar/spring.json"},
 		{"namespace": "botania", "path": "recipes/runic_altar/summer.json"},
@@ -303,6 +305,7 @@
 		{"namespace": "mythicbotany", "path": "recipes/petrunia_petal_apothecary.json"},
 		{"namespace": "mythicbotany", "path": "recipes/aquapanthus_petal_apothecary.json"},
 		{"namespace": "mythicbotany", "path": "recipes/wither_aconite_petal_apothecary.json"},
+		{"namespace": "mythicbotany", "path": "recipes/gjallar_horn_empty_mana_infusion.json"},
 
 		{"namespace": "botania", "path": "recipes/mana_infusion/mana_powder_dye.json"},
 
@@ -319,6 +322,7 @@
 		{"namespace": "botania", "path": "recipes/lens_light_alt.json"},
 		{"namespace": "botania", "path": "recipes/floating_exoflame.json"},
 		{"namespace": "botania", "path": "recipes/divining_rod.json"},
+		{"namespace": "botania", "path": "recipes/mana_tablet_alt.json"},
 		{"namespace": "mythicbotany", "path": "recipes/rune_holder.json"},
 		{"namespace": "mythicbotany", "path": "recipes/central_rune_holder.json"},
 

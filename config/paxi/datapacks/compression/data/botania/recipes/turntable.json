@@ -1,0 +1,29 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "create:mechanical_bearing"
+    },
+    {
+      "item": "nyagibits_bytes:etched_living_wood"
+    },
+    {
+      "item": "nyagibits_bytes:etched_living_wood"
+    },
+    {
+      "item": "nyagibits_bytes:etched_living_wood"
+    },
+    {
+      "item": "nyagibits_bytes:etched_living_wood"
+    }
+  ],
+  "output": {
+    "item": "botania:turntable"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "nyagibits_bytes:etched_living_wood"
+    },
+    {
+      "item": "nyagibits_bytes:etched_living_wood"
+    },
+    {
+      "item": "botania:mana_diamond"
+    },
+    {
+      "item": "create:deployer"
+    }
+  ],
+  "output": {
+    "count": 2,
+    "item": "botania:avatar"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

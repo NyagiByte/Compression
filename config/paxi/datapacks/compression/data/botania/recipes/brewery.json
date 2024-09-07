@@ -1,0 +1,42 @@
+{
+    "type": "botania:runic_altar",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_assembly"
+      },
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "minecraft:brewing_stand"
+      },
+      {
+        "item": "botania:rune_mana"
+      },
+      {
+        "item": "vintageimprovements:aluminum_rod"
+      },
+      {
+        "item": "nyagibits_bytes:livisite_slate"
+      },
+      {
+        "item": "nyagibits_bytes:livisite_slate"
+      },
+      {
+        "item": "nyagibits_bytes:livisite_slate"
+      },
+      {
+        "item": "nyagibits_bytes:livisite_slate"
+      },
+      {
+        "item": "nyagibits_bytes:livisite_slate"
+      },
+      {
+        "item": "nyagibits_bytes:livisite_slate"
+      }
+    ],
+    "mana": 100000,
+    "output": {
+      "item": "botania:brewery"
+    }
+  }
