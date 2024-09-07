@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": "abyssal_decor:cinnamon_wood"
+      }
+    ],
+    "result": [
+      {
+        "item": "abyssal_decor:stripped_cinnamon_wood"
+      },
+      {
+        "item": "farmersdelight:tree_bark"
+      }
+    ],
+    "sound": "minecraft:item.axe.strip",
+    "tool": {
+      "type": "farmersdelight:tool_action",
+      "action": "axe_strip"
+    }
+  }

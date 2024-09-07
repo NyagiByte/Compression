@@ -1,0 +1,26 @@
+{
+    "values": [
+      "minecraft:bee_nest",
+      "minecraft:cocoa",
+      "minecraft:mangrove_propagule",
+      "minecraft:moss_carpet",
+      "minecraft:shroomlight",
+      "minecraft:vine",
+      "byg:purple_shroomlight",
+      "byg:imparius_mushroom_branch",
+      "byg:bulbis_shell",
+      "byg:purple_bulbis_shell",
+      "byg:hanging_sythian_roots",
+      "byg:imparius_mushroom_block",
+      "byg:fungal_imparius_filament_block",
+      "byg:fungal_imparius_block",
+      "byg:imparius_vine",
+      "byg:imparius_vine_plant",
+      "byg:witch_hazel_branch",
+      "byg:witch_hazel_blossom",
+      "byg:embur_gel_branch",
+      "byg:embur_gel_block",
+      "byg:pollen_block",
+      "byg:arisian_bloom_branch"
+    ]
+  }

@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": "architects_palette:twisted_wood"
+      }
+    ],
+    "result": [
+      {
+        "item": "architects_palette:stripped_twisted_wood"
+      },
+      {
+        "item": "farmersdelight:tree_bark"
+      }
+    ],
+    "sound": "minecraft:item.axe.strip",
+    "tool": {
+      "type": "farmersdelight:tool_action",
+      "action": "axe_strip"
+    }
+  }
