@@ -342,8 +342,8 @@
 			description: ["With the addition of some rarer molybdenum the quantities of the other elements can be reduced rather dramatically"]
 			id: "6010CF0C03A9D607"
 			rewards: [{
-				id: "7B6C99AE21B30D71"
-				item: "ftbquests:missing_item"
+				id: "312A95EDB4A7B298"
+				item: "nyagibits_bytes:tier_two_strawberry"
 				type: "item"
 			}]
 			tasks: [{
@@ -628,10 +628,15 @@
 		}
 		{
 			dependencies: ["672E4CF1853FC9E8"]
+			description: [
+				"&b1 Quartz Glass per craft"
+				"&c25% chance to consume certus quartz"
+				"&e10% chance for secondary glass yield"
+			]
 			id: "76E72BB76B2C6C27"
 			rewards: [{
-				id: "5FB49A9BE9917D70"
-				item: "nyagibits_bytes:tier_zero_strawberry"
+				id: "1C837E6416DCCA72"
+				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
 			tasks: [{
@@ -639,8 +644,53 @@
 				item: "botania:mana_glass"
 				type: "item"
 			}]
+			title: "Dripping in that goodness"
 			x: -7.0d
 			y: -2.5d
+		}
+		{
+			dependencies: ["3500F16244BD9D6C"]
+			description: [
+				"Normally this stuff is a replacement for animal products, however putting some leather in seems to make it significantly better so... dont tell anyone"
+				""
+				"&b24 Books per craft"
+			]
+			id: "2B20D94B8A64EBBC"
+			rewards: [{
+				id: "43795FF6F7FA4A0E"
+				item: "nyagibits_bytes:tier_two_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0287E933FF0E55D5"
+				item: "immersiveengineering:ersatz_leather"
+				type: "item"
+			}]
+			title: "\"Vegan\" Leather"
+			x: -9.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["1454C26B845826FE"]
+			description: [
+				"Yet another doubling? This is absurd"
+				""
+				"&bMost Create Machine Blocks: x8"
+			]
+			id: "363457859440AC27"
+			rewards: [{
+				id: "1885910A6B08DD38"
+				item: "nyagibits_bytes:tier_two_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2D086F46431D660B"
+				item: "nyagibits_bytes:mana_infused_casing"
+				type: "item"
+			}]
+			title: "Magically Magnificent! "
+			x: -11.5d
+			y: -5.0d
 		}
 	]
 	subtitle: ["I NEED MORE STUFF"]
