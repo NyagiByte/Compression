@@ -12,7 +12,7 @@
         "item": "minecraft:apple"
       },
       {
-        "item": "minecraft:sugar"
+        "item": "farmersdelight:milk_bottle"
       },
       {
         "item": "minecraft:sugar"
@@ -24,7 +24,8 @@
         "item": "nyagibits_bytes:soil_sample"
       }
     ],
-    "result": {
+    "results": {
       "item": "pneumaticcraft:yeast_culture_bucket"
+      
     }
   }

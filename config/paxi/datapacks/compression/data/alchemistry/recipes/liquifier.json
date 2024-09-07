@@ -13,7 +13,7 @@
         "type": "create:deploying",
         "ingredients": [
           {
-            "item": "nyagibits_bytes:alchemistry_assembly"
+            "item": "nyagibits_bytes:desiccation_powder"
           },
           {
             "item": "immersiveengineering:furnace_heater"
@@ -21,7 +21,7 @@
         ],
         "results": [
           {
-            "item": "nyagibits_bytes:alchemistry_assembly"
+            "item": "nyagibits_bytes:desiccation_powder"
         }
         ]
       },
@@ -29,7 +29,7 @@
         "type": "create:deploying",
         "ingredients": [
           {
-            "item": "nyagibits_bytes:alchemistry_assembly"
+            "item": "nyagibits_bytes:desiccation_powder"
           },
           {
             "item": "nyagibits_bytes:alchemistry_schematic"
@@ -37,10 +37,10 @@
         ],
         "results": [
           {
-            "item": "nyagibits_bytes:alchemistry_assembly"
+            "item": "nyagibits_bytes:desiccation_powder"
         }
         ]
       }
     ],
-    "transitionalItem": {"item": "nyagibits_bytes:alchemistry_assembly"}
+    "transitionalItem": {"item": "nyagibits_bytes:desiccation_powder"}
   }
