@@ -5907,7 +5907,7 @@ metafile = true
 
 [[files]]
 file = "mods/compressed-engineering.pw.toml"
-hash = "744e5e4e22ae6ed5c3c3147ec9380d4360fb72a217db5df740d8adcfa9fc9813"
+hash = "82bf7cf17436ac1d26e46157044111a0a0ba13bbd0f1a63ddb89c28d2292a92c"
 metafile = true
 
 [[files]]
