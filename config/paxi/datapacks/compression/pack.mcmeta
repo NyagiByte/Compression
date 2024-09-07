@@ -581,6 +581,12 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/carpets.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/string.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/rabbit_foot.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/cobweb.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/scute.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/turtle_egg.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/rotten_flesh.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/rabbit_hide.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/leather.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/sucrose.json"},
@@ -629,6 +635,8 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nitrate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/kaolinite.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/mullite.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/keratin.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/calcium_carbonate.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/netherite.json"},
 
