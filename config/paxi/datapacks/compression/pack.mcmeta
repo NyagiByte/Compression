@@ -197,6 +197,9 @@
 		{"namespace": "immersivepetroleum", "path": "recipes/toolupgrade_drill_lube.json"},
 		{"namespace": "immersivepetroleum", "path": "recipes/ersatz_leather.json"},
 
+		{"namespace": "immersivepetroleum", "path": "recipes/refinery/phenol.json"},
+		{"namespace": "immersivepetroleum", "path": "recipes/refinery/acetaldehyde.json"},
+
 
 		{"namespace": "minecraft", "path": "recipes/white_wool_from_string.json"},
 
