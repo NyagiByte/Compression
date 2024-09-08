@@ -1,0 +1,25 @@
+{
+    "type": "botania:runic_altar",
+    "ingredients": [
+      {
+        "item": "botania:redstone_spreader"
+      },
+      {
+        "item": "botania:rune_mana"
+      },
+      {
+        "item": "nyagibits_bytes:mana_infused_casing"
+      },
+      {
+        "item": "botania:prism"
+      },
+      {
+        "item": "ae2:matter_cannon"
+      }
+    ],
+    "mana": 25000,
+    "output": {
+      "count": 2,
+      "item": "botania:mana_gun"
+    }
+  }

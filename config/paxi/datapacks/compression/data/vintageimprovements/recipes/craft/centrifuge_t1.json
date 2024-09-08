@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"vintageimprovements:steel_spring"},
+      "B": {"item":"immersiveengineering:treated_wood_horizontal"},
+      "C": {"item":"nyagibits_bytes:industrial_gear"},
+      "D": {"item":"nyagibits_bytes:mana_infused_casing"}
+    },
+    "pattern": [
+      "A A",
+      "BCB",
+      "ADA"
+    ],
+    "result": {
+        "count": 2,
+        "item": "vintageimprovements:centrifuge"
+    }
+  }

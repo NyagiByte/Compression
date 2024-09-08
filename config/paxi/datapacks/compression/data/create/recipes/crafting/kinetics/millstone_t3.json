@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"nyagibits_bytes:mana_infused_casing"},
+    "B": {"item":"nyagibits_bytes:livisite_alloy"},
+    "C": {"item":"create:chute"},
+    "D": {"item":"nyagibits_bytes:pile_of_cogs"},
+    "E": {"item":"nyagibits_bytes:polished_livisite"}
+  },
+  "pattern": [
+    " C ",
+    "BDB",
+    "EAE"
+  ],
+  "result": {
+    "count": 8,
+    "item":"create:millstone"
+  }
+}

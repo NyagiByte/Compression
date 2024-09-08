@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:treated_wood_horizontal"},
+      "B": {"item":"immersiveengineering:sheetmetal_steel"},
+      "C": {"item":"immersiveengineering:wirecoil_copper"},
+      "D": {"item":"nyagibits_bytes:reinforced_gearbox"},
+      "E": {"item":"nyagibits_bytes:synchronous_electric_motor"},
+      "F": {"item":"nyagibits_bytes:mana_infused_casing"}
+    },
+    "pattern": [
+      "ABC",
+      "DEF",
+      "ABA"
+    ],
+    "result": {
+        "count": 2,
+        "item": "immersiveengineering:dynamo"
+    }
+  }

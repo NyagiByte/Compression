@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"create:cogwheel"},
+    "B": {"item":"nyagibits_bytes:mana_infused_casing"},
+    "C": {"item":"create:whisk"}
+  },
+  "pattern": [
+    "A",
+    "B",
+    "C"
+  ],
+  "result": {
+    "count": 8,
+    "item":"create:mechanical_mixer"
+}
+}

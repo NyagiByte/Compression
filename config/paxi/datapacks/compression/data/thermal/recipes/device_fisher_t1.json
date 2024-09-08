@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"immersiveengineering:treated_wood_vertical"},
+    "B": {"item":"create:precision_mechanism"},
+    "C": {"item":"minecraft:fishing_rod"},
+    "D": {"item":"nyagibits_bytes:sealant"},
+    "E": {"item":"nyagibits_bytes:mana_infused_casing"}
+  },
+  "pattern": [
+    "ABC",
+    "DEA",
+    "AAA"
+  ],
+  "result": {
+    "count": 2,
+    "item": "thermal:device_fisher"
+}
+}

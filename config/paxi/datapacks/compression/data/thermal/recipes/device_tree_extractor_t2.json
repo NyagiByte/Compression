@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"botania:mossy_livingwood_planks"},
+    "B": {"item":"nyagibits_bytes:mana_infused_casing"},
+    "C": {"item":"immersiveengineering:fluid_pump"}
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "ACA"
+  ],
+  "result": {
+    "count": 4,
+    "item": "thermal:device_tree_extractor"
+}
+}
