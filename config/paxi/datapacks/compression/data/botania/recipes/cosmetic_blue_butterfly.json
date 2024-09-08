@@ -1,0 +1,14 @@
+{
+    "type": "botania:mana_infusion",
+    "catalyst": {
+      "type": "block",
+      "block": "botania:alchemy_catalyst"
+    },
+    "input": {
+      "item": "botania:cosmetic_polka_dotted_bows"
+    },
+    "mana": 500,
+    "output": {
+      "item": "botania:cosmetic_blue_butterfly"
+    }
+  }

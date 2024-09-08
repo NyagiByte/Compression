@@ -1,0 +1,47 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "immersiveengineering:hemp_fiber"
+    },
+    {
+      "item": "botania:manaweave_cloth"
+    },
+    {
+      "item": "botania:manaweave_cloth"
+    },
+    {
+      "item": "botania:pink_petal"
+    },
+    {
+      "item": "botania:pink_petal"
+    },
+    {
+      "item": "botania:pink_petal"
+    },
+    {
+      "item": "botania:pink_petal"
+    },
+    {
+      "item": "botania:pink_petal"
+    },
+    {
+      "item": "botania:pink_petal"
+    },
+    {
+      "item": "botania:pink_petal"
+    },
+    {
+      "item": "botania:pink_petal"
+    }
+  ],
+  "output": {
+    "item": "botania:cosmetic_pink_flower_bud"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

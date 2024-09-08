@@ -1,0 +1,14 @@
+{
+    "type": "botania:mana_infusion",
+    "catalyst": {
+      "type": "block",
+      "block": "botania:alchemy_catalyst"
+    },
+    "input": {
+      "item": "botania:cosmetic_googly_eyes"
+    },
+    "mana": 500,
+    "output": {
+      "item": "botania:cosmetic_engineer_goggles"
+    }
+  }

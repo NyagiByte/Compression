@@ -1,0 +1,14 @@
+{
+    "type": "botania:mana_infusion",
+    "catalyst": {
+      "type": "block",
+      "block": "botania:alchemy_catalyst"
+    },
+    "input": {
+      "item": "botania:cosmetic_eerie_mask"
+    },
+    "mana": 500,
+    "output": {
+      "item": "botania:cosmetic_ancient_mask"
+    }
+  }
