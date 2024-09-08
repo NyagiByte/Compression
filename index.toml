@@ -4689,6 +4689,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_cr
 hash = "21403065d03ebda72a35a3cd7f7ac1204cb7e76bb6d8207259dcb5d3e30d916e"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/threaded_composite_leather.json"
+hash = "2165025f555ac28c7d869be98c2c7c10ae0985cd92eaacbb4cc23f964726dcf1"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/tpv_cell.json"
 hash = "6fe6a9ce39abedb890f0408da931cb1978dccc27a20468f7bf5ce2970e8c76df"
 
