@@ -1,0 +1,14 @@
+{
+    "type": "botania:mana_infusion",
+    "catalyst": {
+      "type": "block",
+      "block": "botania:alchemy_catalyst"
+    },
+    "input": {
+      "item": "botania:mana_ring"
+    },
+    "mana": 50000,
+    "output": {
+      "item": "botania:aura_ring"
+    }
+  }

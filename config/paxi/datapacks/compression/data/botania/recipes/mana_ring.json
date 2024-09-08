@@ -1,0 +1,54 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "nyagibits_bytes:botania_assembly"
+    },
+    {
+      "item": "nyagibits_bytes:manasteel_lattice"
+    },
+    {
+      "item": "nyagibits_bytes:manasteel_lattice"
+    },
+    {
+      "item": "nyagibits_bytes:manasteel_lattice"
+    },
+    {
+      "item": "nyagibits_bytes:manasteel_lattice"
+    },
+    {
+      "item": "botania:rune_mana"
+    },
+    {
+      "item": "botania:rune_mana"
+    },
+    {
+      "item": "botania:rune_mana"
+    },
+    {
+      "item": "botania:rune_mana"
+    },
+    {
+      "item": "botania:mana_tablet"
+    },
+    {
+      "item": "botania:mana_tablet"
+    },
+    {
+      "item": "botania:mana_tablet"
+    },
+    {
+      "item": "botania:mana_tablet"
+    }
+  ],
+  "output": {
+    "count": 4,
+    "item": "botania:mana_ring"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}
