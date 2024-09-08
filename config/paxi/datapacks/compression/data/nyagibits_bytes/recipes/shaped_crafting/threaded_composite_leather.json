@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:hemp_fiber"},
+      "B": {"item":"immersiveengineering:plate_duroplast"},
+      "C": {"item":"minecraft:leather"}
+    },
+    "pattern": [
+      " AB",
+      "ACA",
+      "BA "
+    ],
+    "result": {
+        "item": "nyagibits_bytes:threaded_composite_leather"
+    }
+  }
