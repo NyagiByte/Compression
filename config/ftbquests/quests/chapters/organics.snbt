@@ -319,6 +319,24 @@
 			x: -5.0d
 			y: -2.5d
 		}
+		{
+			dependencies: ["6C86D86CCAEED256"]
+			description: ["Wax has some fantastic properties involving water proofing and flamability, while not technically required at &dTier 1&r it will prove to dramatically ease certain crafts and will be required later on. Just be glad it isnt Forestry Bees"]
+			id: "24728B2A4B6B4582"
+			rewards: [{
+				id: "3FB33EFB162F55E5"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "19FD10EE1105045E"
+				item: "minecraft:honeycomb"
+				type: "item"
+			}]
+			title: "Do I have to do the Karate Kid Refrence here?"
+			x: -1.0d
+			y: 3.5d
+		}
 	]
 	subtitle: ["I've been farming for 100 hours"]
 	title: " &aOrganics"

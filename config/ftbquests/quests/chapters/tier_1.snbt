@@ -2465,6 +2465,24 @@
 			x: 10.0d
 			y: 8.0d
 		}
+		{
+			dependencies: ["247A2F1774D0E89F"]
+			description: ["Oh yeah with these plates you can finally make some duroplast. The chain is rather long but should be trivial to set up this deep in what with those &bassemblies&r you have fully automated by now.... You... You have done that right?"]
+			id: "5CBD2601022F5420"
+			rewards: [{
+				id: "4DAE99788D46F765"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "34C3F829C9DD170C"
+				item: "immersiveengineering:plate_duroplast"
+				type: "item"
+			}]
+			title: "Kinda Terrible Plastic"
+			x: 9.0d
+			y: 6.0d
+		}
 	]
 	subtitle: ["Machines greased with mana"]
 	title: " &6Tier 1&b - Magitech Revolution"

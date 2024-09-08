@@ -272,7 +272,10 @@
 			y: -5.0d
 		}
 		{
-			dependencies: ["63EDC0EBBEFA483E"]
+			dependencies: [
+				"63EDC0EBBEFA483E"
+				"5CBD2601022F5420"
+			]
 			description: [
 				"Crude plastic reinforcing allows for the same quantity of leather to yield a doubling on books"
 				""
