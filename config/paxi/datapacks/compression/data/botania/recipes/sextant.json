@@ -1,0 +1,35 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "botania:manasteel_ingot"
+    },
+    {
+      "item": "nyagibits_bytes:pen"
+    },
+    {
+      "item": "nyagibits_bytes:duct_tape"
+    },
+    {
+      "item": "immersiveengineering:stick_treated"
+    },
+    {
+      "item": "immersiveengineering:stick_treated"
+    },
+    {
+      "item": "immersiveengineering:stick_treated"
+    },
+    {
+      "item": "immersiveengineering:stick_treated"
+    }
+  ],
+  "output": {
+    "item": "botania:sextant"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

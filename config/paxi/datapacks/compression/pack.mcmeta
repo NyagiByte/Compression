@@ -277,6 +277,8 @@
 		{"namespace": "botania", "path": "recipes/red_string_alt.json"},
 		{"namespace": "botania", "path": "recipes/tiny_planet_block.json"},
 		{"namespace": "botania", "path": "recipes/tiny_planet.json"},
+		{"namespace": "botania", "path": "recipes/virus_necrodermal.json"},
+		{"namespace": "botania", "path": "recipes/virus_nullodermal.json"},
 
 		{"namespace": "botania", "path": "recipes/runic_altar/spring.json"},
 		{"namespace": "botania", "path": "recipes/runic_altar/summer.json"},

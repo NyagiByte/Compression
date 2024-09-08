@@ -1,0 +1,29 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "nyagibits_bytes:botania_assembly"
+    },
+    {
+      "item": "botania:pink_shiny_flower"
+    },
+    {
+      "item": "botania:reach_ring"
+    },
+    {
+      "item": "botania:sextant"
+    },
+    {
+      "item": "botania:rannuncarpus"
+    }
+  ],
+  "output": {
+    "item": "botania:astrolabe"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

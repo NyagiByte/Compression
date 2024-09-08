@@ -1,0 +1,23 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "botania:mana_diamond"
+    },
+    {
+      "item": "botania:pink_shiny_flower"
+    },
+    {
+      "item": "nyagibits_bytes:entropinnyum_mush"
+    }
+  ],
+  "output": {
+    "item": "botania:goddess_charm"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}
