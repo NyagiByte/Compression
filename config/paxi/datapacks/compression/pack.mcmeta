@@ -726,6 +726,8 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/fluorine.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/sodium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/neon.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/magnesium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/aluminum.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/fusion/1hydrogen_and_1hydrogen_to_2helium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fusion/1hydrogen_and_2helium_to_3lithium.json"},
@@ -733,6 +735,9 @@
 		{"namespace": "alchemistry", "path": "recipes/fusion/2helium_and_2helium_to_4beryllium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fusion/2helium_and_3lithium_to_5boron.json"},
 		{"namespace": "alchemistry", "path": "recipes/fusion/1hydrogen_and_4beryllium_to_5boron.json"},
+		{"namespace": "alchemistry", "path": "recipes/fusion/1hydrogen_and_5boron_to_6carbon.json"},
+		{"namespace": "alchemistry", "path": "recipes/fusion/2helium_and_4beryllium_to_6carbon.json"},
+		{"namespace": "alchemistry", "path": "recipes/fusion/3lithium_and_3lithium_to_6carbon.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
