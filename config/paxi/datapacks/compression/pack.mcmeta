@@ -780,6 +780,8 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/chromium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/cobalt.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/iron.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/copper.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/nickel.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
