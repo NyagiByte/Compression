@@ -17,5 +17,6 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:phosphorus', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:sulfur', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:chlorine', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:argon', type: 'alchemistry:fusion' })
 
 })
