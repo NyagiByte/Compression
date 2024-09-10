@@ -725,6 +725,8 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/arsenic_sulfide.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/lead_sulfide.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/antimony_trisulfide.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/calcium_nitrate.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/calcium_hydroxide.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/lumium.json"},
 
@@ -823,6 +825,8 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/rubidium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/yttrium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/strontium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/zirconium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/niobium.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
