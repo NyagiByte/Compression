@@ -677,6 +677,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/netherite.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/netherite.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/boron.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/quartz.json"},
 
@@ -688,6 +689,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/emerald.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/cobalt.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/quartz.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/boron.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/combiner/potassium_cyanide.json"},
 		{"namespace": "alchemistry", "path": "recipes/combiner/protein.json"},
@@ -722,11 +724,15 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/carbon.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/oxygen.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/fluorine.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/sodium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/neon.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/fusion/1hydrogen_and_1hydrogen_to_2helium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fusion/1hydrogen_and_2helium_to_3lithium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fusion/1hydrogen_and_3lithium_to_4beryllium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fusion/2helium_and_2helium_to_4beryllium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fusion/2helium_and_3lithium_to_5boron.json"},
+		{"namespace": "alchemistry", "path": "recipes/fusion/1hydrogen_and_4beryllium_to_5boron.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
