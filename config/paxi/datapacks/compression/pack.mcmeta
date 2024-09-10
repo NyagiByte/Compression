@@ -796,7 +796,241 @@
 		{"namespace": "vintageimprovements", "path": "recipes/pressurizing/copper_sulfate.json"},
 
 		{"namespace": "immersiveengineering", "path": "loot_modifiers/hemp_from_grass.json"},
-		{"namespace": "immersiveengineering", "path": "loot_modifiers/hemp_from_tall_grass.json"}
+		{"namespace": "immersiveengineering", "path": "loot_modifiers/hemp_from_tall_grass.json"},
+
+
+
+
+
+
+
+
+		{"namespace": "minecraft", "path": "recipes/bread.json"},
+		{"namespace": "farmersdelight", "path": "recipes/bread_from_smelting.json"},
+		{"namespace": "farmersdelight", "path": "recipes/bread_from_smoking.json"},
+		{"namespace": "create", "path": "recipes/smelting/bread.json"},
+		{"namespace": "create", "path": "recipes/smoking/bread.json"},
+		{"namespace": "create", "path": "recipes/campfire_cooking/bread.json"},
+
+		{"namespace": "minecraft", "path": "recipes/mushroom_stew.json"},
+		{"namespace": "botania", "path": "recipes/mushroom_stew.json"},
+		{"namespace": "farmersdelight", "path": "recipes/cooking/mushroom_stew.json"},
+
+		{"namespace": "minecraft", "path": "recipes/cookie.json"},
+
+		{"namespace": "minecraft", "path": "recipes/pumpkin_pie.json"},
+
+		{"namespace": "minecraft", "path": "recipes/golden_carrot.json"},
+		{"namespace": "quark", "path": "recipes/building/crafting/compressed/golden_carrot_crate_uncompress.json"},
+
+		{"namespace": "minecraft", "path": "recipes/rabbit_stew_from_brown_mushroom.json"},
+		{"namespace": "minecraft", "path": "recipes/rabbit_stew_from_red_mushroom.json"},
+		{"namespace": "farmersdelight", "path": "recipes/cooking/rabbit_stew.json"},
+
+		{"namespace": "minecraft", "path": "recipes/beetroot_soup.json"},
+		{"namespace": "farmersdelight", "path": "recipes/cooking/beetroot_soup.json"},
+
+		{"namespace": "minecraft", "path": "recipes/golden_apple.json"},
+
+		{"namespace": "minecraft", "path": "recipes/cake.json"},
+		{"namespace": "farmersdelight", "path": "recipes/cake_from_milk_bottle.json"},
+		{"namespace": "farmersdelight", "path": "recipes/cake_from_slices.json"},
+		{"namespace": "create", "path": "recipes/crafting/curiosities/cake.json"},
+
+		{"namespace": "minecraft", "path": "recipes/popped_chorus_fruit.json"},
+
+		
+
+		{"namespace": "pneumaticcraft", "path": "recipes/explosion_crafting/wheat_flour.json"},
+		{"namespace": "pneumaticcraft", "path": "recipes/pressure_chamber/wheat_flour.json"},
+
+		{"namespace": "pneumaticcraft", "path": "recipes/sourdough.json"},
+
+		{"namespace": "pneumaticcraft", "path": "recipes/raw_salmon_tempura.json"},
+
+		{"namespace": "pneumaticcraft", "path": "recipes/sourdough_bread.json"},
+
+		{"namespace": "pneumaticcraft", "path": "recipes/thermo_plant/chips.json"},
+
+		{"namespace": "pneumaticcraft", "path": "recipes/cod_n_chips.json"},
+
+		{"namespace": "pneumaticcraft", "path": "recipes/thermo_plant/salmon_tempura.json"},
+
+
+
+		{"namespace": "abyssal_decor", "path": "recipes/bog_apple_pie_recipe.json"},
+
+		{"namespace": "abyssal_decor", "path": "recipes/cinnamon_tea_recipe.json"},
+
+		{"namespace": "abyssal_decor", "path": "recipes/cinnamon_roll_recipe.json"},
+
+		{"namespace": "abyssal_decor", "path": "recipes/cinnamon_apple_recipe.json"},
+
+		{"namespace": "abyssal_decor", "path": "recipes/fever_blossom_tea_recipe.json"},
+
+		{"namespace": "abyssal_decor", "path": "recipes/muckroot_soup_recipe.json"},
+
+
+
+		{"namespace": "byg", "path": "recipes/white_puffball_stew.json"},
+
+		{"namespace": "byg", "path": "recipes/blueberry_pie.json"},
+
+		{"namespace": "byg", "path": "recipes/crimson_berry_pie.json"},
+
+
+
+		{"namespace": "create", "path": "recipes/filling/builders_tea.json"},
+		{"namespace": "create", "path": "recipes/mixing/tea.json"},
+
+		{"namespace": "create", "path": "recipes/filling/honeyed_apple.json"},
+
+		{"namespace": "create", "path": "recipes/filling/chocolate_glazed_berries.json"},
+
+		{"namespace": "create", "path": "recipes/filling/sweet_roll.json"},
+
+		{"namespace": "create", "path": "recipes/mixing/chocolate.json"},
+		{"namespace": "create", "path": "recipes/mixing/chocolate_melting.json"},
+		{"namespace": "create", "path": "recipes/compacting/chocolate.json"},
+
+
+
+		{"namespace": "farmersdelight", "path": "recipes/horse_feed.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/dog_food.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/rice_roll_medley_block.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/shepherds_pie_block.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/honey_glazed_ham_block.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/stuffed_pumpkin_block.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/roast_chicken_block.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/grilled_salmon.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/squid_ink_pasta.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/ratatouille.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/steak_and_potatoes.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/steak_and_potatoes.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/vegetable_noodles.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/roasted_mutton_chops.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/mushroom_rice.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/pasta_with_mutton_chop.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/pasta_with_meatballs.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/bacon_and_eggs.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/noodle_soup.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/baked_cod_stew.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/pumpkin_soup.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/fried_rice.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/fish_stew.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/vegetable_soup.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/chicken_soup.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/beef_stew.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/bone_broth.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/cooked_rice.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cutting/kelp_roll.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/kelp_roll.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cod_roll.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/salmon_roll.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/cabbage_rolls.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/stuffed_potato.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/dumplings.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/mutton_wrap.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/bacon_sandwich.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/hamburger.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/chicken_sandwich.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/egg_sandwich.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/barbecue_stick.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/nether_salad.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/mixed_salad.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/fruit_salad.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/glow_berry_custard.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/melon_popsicle.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/honey_cookie.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/sweet_berry_cookie.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/chocolate_pie.json"},
+		{"namespace": "farmersdelight", "path": "recipes/chocolate_pie_from_slices.json"},
+		{"namespace": "farmersdelight", "path": "recipes/integration/create/filling/chocolate_pie.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/sweet_berry_cheesecake.json"},
+		{"namespace": "farmersdelight", "path": "recipes/sweet_berry_cheesecake_from_slices.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/apple_pie.json"},
+		{"namespace": "farmersdelight", "path": "recipes/apple_pie_from_slices.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/pie_crust.json"},
+		{"namespace": "farmersdelight", "path": "recipes/integration/create/mixing/pie_crust_from_mixing.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/beef_patty.json"},
+		{"namespace": "farmersdelight", "path": "recipes/beef_patty_from_smoking.json"},
+		{"namespace": "farmersdelight", "path": "recipes/beef_patty_from_campfire_cooking.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cutting/beef.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cutting/tag_dough.json"},
+		{"namespace": "tmted", "path": "recipes/metalpress/raw_pasta.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/wheat_dough_from_water.json"},
+		{"namespace": "farmersdelight", "path": "recipes/wheat_dough_from_eggs.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/hot_cocoa.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/cooking/apple_cider.json"},
+		{"namespace": "tmted", "path": "recipes/bottling/apple_cider.json"},
+		{"namespace": "tmted", "path": "recipes/mixer/apple_cider.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/melon_juice.json"},
+		{"namespace": "tmted", "path": "recipes/bottling/melon_juice.json"},
+		{"namespace": "tmted", "path": "recipes/squeezer/melon_juice_from_slice.json"},
+		{"namespace": "tmted", "path": "recipes/squeezer/melon_juice_from_block.json"},
+
+		{"namespace": "farmersdelight", "path": "recipes/integration/create/mixing/tomato_sauce_from_mixing.json"},
+		{"namespace": "farmersdelight", "path": "recipes/cooking/tomato_sauce.json"},
+		{"namespace": "tmted", "path": "recipes/bottling/tomato_sauce.json"},
+		{"namespace": "tmted", "path": "recipes/squeezer/tomato.json"}
 
 		
 
