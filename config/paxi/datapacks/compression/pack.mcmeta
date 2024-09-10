@@ -613,6 +613,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/glowstone.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/blaze_powder.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/gunpowder.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/baked_potato.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/sucrose.json"},
@@ -820,6 +821,8 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/selenium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/krypton.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/rubidium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/yttrium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/strontium.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
