@@ -609,6 +609,8 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/rotten_flesh.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/rabbit_hide.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/leather.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/glowstone_dust.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/glowstone.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/sucrose.json"},
@@ -710,13 +712,20 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/aluminum_nitrate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/aluminum_hydroxide.json"},
 
+		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/lumium.json"},
+
+		{"namespace": "alchemistry", "path": "recipes/dissolver/ingots/lumium.json"},
+
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/netherite.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/lumium.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/netherite.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/boron.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/aluminum.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/lumium.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/quartz.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/lumium.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dyes/black.json"},
 
@@ -782,6 +791,8 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/iron.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/copper.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/nickel.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/zinc.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/gallium.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},

@@ -14,5 +14,6 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:magnesium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:aluminum', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:silicon', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:phosphorus', type: 'alchemistry:fusion' })
 
 })
