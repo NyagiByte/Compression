@@ -816,6 +816,8 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/gallium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/arsenic.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/germanium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/bromine.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/selenium.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
