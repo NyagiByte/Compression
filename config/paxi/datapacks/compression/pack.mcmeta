@@ -769,6 +769,8 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/argon.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/scandium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/calcium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/vanadium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/titanium.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/fusion/1hydrogen_and_1hydrogen_to_2helium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fusion/1hydrogen_and_2helium_to_3lithium.json"},
