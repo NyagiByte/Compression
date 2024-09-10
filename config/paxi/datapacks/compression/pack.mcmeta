@@ -707,11 +707,14 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/calcium_sulfate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/barium_sulfate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/magnesium_carbonate.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/aluminum_nitrate.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/aluminum_hydroxide.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/netherite.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/netherite.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/boron.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/aluminum.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/quartz.json"},
 
@@ -724,6 +727,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/cobalt.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/quartz.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/boron.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/aluminum.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/combiner/potassium_cyanide.json"},
 		{"namespace": "alchemistry", "path": "recipes/combiner/protein.json"},
@@ -774,6 +778,8 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/titanium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/manganese.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/chromium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/cobalt.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/iron.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},

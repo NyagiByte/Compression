@@ -11,5 +11,6 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:fluorine', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:neon', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:sodium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:aluminum', type: 'alchemistry:fusion' })
 
 })
