@@ -713,8 +713,11 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/lithium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/boron.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/beryllium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/nitrogen.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/carbon.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/fusion/1hydrogen_and_1hydrogen_to_2helium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fusion/1hydrogen_and_2helium_to_3lithium.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
