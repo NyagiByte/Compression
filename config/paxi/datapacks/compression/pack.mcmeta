@@ -659,6 +659,15 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/mullite.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/keratin.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/calcium_carbonate.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/ammonia.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/ammonium.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/amide.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/water.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/nitric_acid.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/phosphoric_acid.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/sulfuric_acid.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/hydrogen_sulfide.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/hydroxide.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/netherite.json"},
 
@@ -699,6 +708,9 @@
 		{"namespace": "alchemistry", "path": "recipes/combiner/sodium_nitrate.json"},
 		{"namespace": "alchemistry", "path": "recipes/combiner/cellulose.json"},
 		{"namespace": "alchemistry", "path": "recipes/combiner/sodium_hydroxide.json"},
+
+		{"namespace": "alchemistry", "path": "recipes/fission/helium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/lithium.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
