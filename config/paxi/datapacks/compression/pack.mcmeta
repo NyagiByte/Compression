@@ -673,6 +673,8 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/beryllium_oxide.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/beryllium_nitrate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/beryllium_hydroxide.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/nitrogen_dioxide.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/nitric_oxide.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/netherite.json"},
 
@@ -728,6 +730,8 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/neon.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/magnesium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/aluminum.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/silicon.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/phosphorus.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/fusion/1hydrogen_and_1hydrogen_to_2helium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fusion/1hydrogen_and_2helium_to_3lithium.json"},
@@ -738,6 +742,9 @@
 		{"namespace": "alchemistry", "path": "recipes/fusion/1hydrogen_and_5boron_to_6carbon.json"},
 		{"namespace": "alchemistry", "path": "recipes/fusion/2helium_and_4beryllium_to_6carbon.json"},
 		{"namespace": "alchemistry", "path": "recipes/fusion/3lithium_and_3lithium_to_6carbon.json"},
+		{"namespace": "alchemistry", "path": "recipes/fusion/2helium_and_5boron_to_7nitrogen.json"},
+		{"namespace": "alchemistry", "path": "recipes/fusion/3lithium_and_4beryllium_to_7nitrogen.json"},
+		{"namespace": "alchemistry", "path": "recipes/fusion/1hydrogen_and_6carbon_to_7nitrogen.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
