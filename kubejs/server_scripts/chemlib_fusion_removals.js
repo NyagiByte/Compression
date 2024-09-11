@@ -56,5 +56,8 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:xenon', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:cesium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:barium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:lanthanum', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:cerium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:praseodymium', type: 'alchemistry:fusion' })
 
 })

@@ -643,6 +643,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/prismarine_shard.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/music_discs.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dragon_breath.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/phantom_membrane.json"},
 
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},
@@ -1010,6 +1011,11 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/hassium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/nihonium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/copernicium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/flerovium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/moscovium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/tennessine.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/livermorium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/oganesson.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
