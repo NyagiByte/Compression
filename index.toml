@@ -5562,7 +5562,7 @@ hash = "676f74acebeedab7174a16ecc9081d256e406c306bc4403416a697cb20b3f24f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "b5724a8f9129f4fdf6a369acbd02718eb8cf7b19a3ba43d42b409208178106be"
+hash = "6a85ff7f686a83ff5ff63ade2a518079a4e4f8df8df96523cef27ea468bc9592"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -6382,7 +6382,7 @@ hash = "785b5cc0d8f1e68fe4224df8ad6c06939086619cfe1cc734e02a6e936f625013"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "79cad97f9e17b79e0688652119bcd016fc9094e290f7bfbd53df19ee3aa5990d"
+hash = "5d2c17197d3cc7472773ba7de6b4ce776c994a81b187642f9206531ee72a8963"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
