@@ -950,6 +950,12 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/tungsten.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/iridium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/osmium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/gold.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/platinum.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/thallium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/mercury.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/bismuth.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/lead.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
