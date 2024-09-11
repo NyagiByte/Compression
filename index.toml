@@ -841,6 +841,22 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/mag
 hash = "0ba1d36f9b5b5bcfe6543b51ee9a8c67dfe70989bf1571bcea12c2ce22262f34"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/meteoric_certus_chromium_jumpstart.json"
+hash = "ef71740ecb4e856d97d785f695eee12dc90ad85a8299e48633114b9d184d4cab"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/meteoric_iron_chromium_jumpstart.json"
+hash = "75f1278e1c64db9cea0d256faaa14bdf981e750e5d2f300490eae0bcbdd0dbf5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/meteoric_kamacite_chromium_jumpstart.json"
+hash = "cfce343d14b7e32dce0f98e5b153ef69ed7340d3ea0f7f227a5c8adad4399b33"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/meteoric_taenite_chromium_jumpstart.json"
+hash = "4c41cf12318d78be88189103ebec0b815875a7fbf7128ceb72c5fdde9357ac87"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/oxidiezed_copper.json"
 hash = "9381ae3a43f1f19ab72b3f1194b87ce2afd132d0eef8b11861b7e2c6d3798a99"
 
@@ -5546,7 +5562,7 @@ hash = "676f74acebeedab7174a16ecc9081d256e406c306bc4403416a697cb20b3f24f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "488d4f9465234325b859806af385babc06b309c5ba5feb3784ab51748e92c465"
+hash = "cd9c13227125094697cccb320d34d5479e0391158e980e88947e13bd6791196f"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -6362,7 +6378,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/chemlib_fusion_removals.js"
-hash = "a54be3e3fed765402eba630406477125883c9cd3f1fe6a035d1ff209755105ee"
+hash = "d577693197dd4b6874115c0187a28edc607559d3ea6e8a1232f9de82d5ff13cf"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
