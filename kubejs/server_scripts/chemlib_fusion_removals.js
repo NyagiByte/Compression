@@ -59,5 +59,8 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:lanthanum', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:cerium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:praseodymium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:neodymium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:promethium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:samarium', type: 'alchemistry:fusion' })
 
 })

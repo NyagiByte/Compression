@@ -799,6 +799,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/signalum.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/electrum.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/silver.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/enderium.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ingots/lumium.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ingots/invar.json"},
@@ -810,6 +811,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ingots/signalum.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ingots/electrum.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ingots/silver.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/ingots/enderium.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/gems/sulfur.json"},
 
@@ -825,6 +827,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/bronze.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/electrum.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/silver.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/enderium.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/netherite.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/boron.json"},
@@ -839,6 +842,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/bronze.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/electrum.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/silver.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/enderium.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/quartz.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/lumium.json"},
@@ -853,6 +857,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/signalum.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/silver.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/electrum.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/enderium.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dyes/black.json"},
 
