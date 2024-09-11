@@ -929,6 +929,8 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/europium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/terbium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/gadolinium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/holmium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/dysprosium.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
