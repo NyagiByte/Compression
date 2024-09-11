@@ -77,5 +77,8 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:rhenium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:osmium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:iridium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:platinum', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:gold', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:mercury', type: 'alchemistry:fusion' })
 
 })

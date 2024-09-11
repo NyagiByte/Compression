@@ -645,6 +645,13 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dragon_breath.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/phantom_membrane.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/shulker_shell.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/raw_gold_block.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/bell.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/golden_horse_armor.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/raw_gold.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/gold_nugget.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/gold_ingot.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/gold_block.json"},
 
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},
@@ -880,6 +887,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/silver.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/tin.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/osmium.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/gold.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/combiner/potassium_cyanide.json"},
 		{"namespace": "alchemistry", "path": "recipes/combiner/protein.json"},
