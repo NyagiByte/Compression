@@ -1334,6 +1334,10 @@
 
 
 		{"namespace": "ftbquests", "path": "recipes/loot_crate_opener.json"},
+
+
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/backpack.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/upgrade_base.json"},
 		
 
 		{"namespace": "immersiveengineering", "path": "loot_modifiers/hemp_from_grass.json"},
