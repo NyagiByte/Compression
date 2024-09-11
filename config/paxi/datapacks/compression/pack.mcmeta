@@ -771,6 +771,8 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/skeleton_skull.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/bone_meal.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/basalz_powder.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/carved_pumpkin.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/pumpkin.json"},
 
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},
