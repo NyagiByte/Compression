@@ -925,6 +925,8 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/praseodymium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/neodymium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/promethium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/samarium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/europium.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},

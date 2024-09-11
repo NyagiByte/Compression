@@ -30,5 +30,6 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:nickel', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:copper', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:zinc', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:gallium', type: 'alchemistry:fusion' })
 
 })
