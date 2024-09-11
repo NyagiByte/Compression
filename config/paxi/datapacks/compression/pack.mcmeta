@@ -773,6 +773,13 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/basalz_powder.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/carved_pumpkin.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/pumpkin.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/coal_coke.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/coal.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/diamond.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/diamond_horse_armor.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/diamond_block.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/charcoal.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/coal_block.json"},
 
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},
@@ -995,6 +1002,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/enderium.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/niter.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/apatite.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/charcoal.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dyes/white.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dyes/orange.json"},
@@ -1037,6 +1045,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/uranium.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/redstone.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/apatite.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/diamond.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/combiner/potassium_cyanide.json"},
 		{"namespace": "alchemistry", "path": "recipes/combiner/protein.json"},
