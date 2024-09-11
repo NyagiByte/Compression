@@ -644,6 +644,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/music_discs.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dragon_breath.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/phantom_membrane.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/shulker_shell.json"},
 
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},

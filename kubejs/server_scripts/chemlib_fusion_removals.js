@@ -68,5 +68,8 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:dysprosium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:holmium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:erbium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:thulium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:ytterbium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:lutetium', type: 'alchemistry:fusion' })
 
 })
