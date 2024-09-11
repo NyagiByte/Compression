@@ -1332,6 +1332,10 @@
 		{"namespace": "vintageimprovements", "path": "recipes/pressurizing/sulfur_trioxide_alt.json"},
 		{"namespace": "vintageimprovements", "path": "recipes/pressurizing/copper_sulfate.json"},
 
+
+		{"namespace": "ftbquests", "path": "recipes/loot_crate_opener.json"},
+		
+
 		{"namespace": "immersiveengineering", "path": "loot_modifiers/hemp_from_grass.json"},
 		{"namespace": "immersiveengineering", "path": "loot_modifiers/hemp_from_tall_grass.json"},
 
