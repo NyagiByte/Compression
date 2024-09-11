@@ -956,6 +956,12 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/mercury.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/bismuth.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/lead.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/astatine.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/polonium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/radon.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/francium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/radium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/actinium.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},

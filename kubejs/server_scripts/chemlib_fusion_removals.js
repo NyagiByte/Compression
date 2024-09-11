@@ -41,5 +41,8 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:yttrium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:zirconium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:niobium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:molybdenum', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:technetium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:ruthenium', type: 'alchemistry:fusion' })
 
 })
