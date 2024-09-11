@@ -779,6 +779,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/cadmium_hydroxide.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/cadmium_nitrate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/cadmium_carbonate.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/lead_iodide.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/lumium.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/invar.json"},
@@ -990,6 +991,12 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/einsteinium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/mendelevium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/fermium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/lawrencium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/nobelium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/dubnium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/rutherfordium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/seaborgium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/bohrium.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
