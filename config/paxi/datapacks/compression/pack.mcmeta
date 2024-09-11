@@ -1338,6 +1338,10 @@
 
 		{"namespace": "sophisticatedbackpacks", "path": "recipes/backpack.json"},
 		{"namespace": "sophisticatedbackpacks", "path": "recipes/upgrade_base.json"},
+
+
+		{"namespace": "phantomsandnightmares", "path": "recipes/insanity_pill.json"},
+		{"namespace": "phantomsandnightmares", "path": "recipes/sanity_pill.json"},
 		
 
 		{"namespace": "immersiveengineering", "path": "loot_modifiers/hemp_from_grass.json"},
