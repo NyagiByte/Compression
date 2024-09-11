@@ -1,0 +1,33 @@
+{
+    "type": "alchemistry:dissolver",
+    "group": "alchemistry:dissolver",
+    "input": {
+      "count": 1,
+      "ingredient": {
+        "item": "nyagibits_bytes:raw_meteoric_certus"
+      }
+    },
+    "output": {
+      "groups": [
+        {
+          "probability": 100.0,
+          "results": [
+            {
+              "count": 4,
+              "item": "chemlib:chromium"
+            },
+            {
+              "count": 16,
+              "item": "chemlib:carbon"
+            },
+            {
+              "count": 8,
+              "item": "chemlib:silicon_dioxide"
+            }
+          ]
+        }
+      ],
+      "rolls": 1,
+      "weighted": false
+    }
+  }

@@ -21,5 +21,8 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:potassium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:calcium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:scandium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:titanium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:vanadium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:chromium', type: 'alchemistry:fusion' })
 
 })

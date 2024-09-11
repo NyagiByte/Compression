@@ -1,0 +1,33 @@
+{
+    "type": "alchemistry:dissolver",
+    "group": "alchemistry:dissolver",
+    "input": {
+      "count": 1,
+      "ingredient": {
+        "item": "nyagibits_bytes:raw_meteoric_kamacite"
+      }
+    },
+    "output": {
+      "groups": [
+        {
+          "probability": 100.0,
+          "results": [
+            {
+              "count": 2,
+              "item": "chemlib:chromium"
+            },
+            {
+              "count": 4,
+              "item": "chemlib:cobalt"
+            },
+            {
+              "count": 32,
+              "item": "chemlib:nickel"
+            }
+          ]
+        }
+      ],
+      "rolls": 1,
+      "weighted": false
+    }
+  }
