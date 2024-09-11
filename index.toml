@@ -1177,8 +1177,16 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/incense_plate.jso
 hash = "37f784fbd48c8d52c355d65105472c8ae874e9432abab38b143ca69597652f1c"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/incense_stick.json"
+hash = "3e372d5c4720b300fcf26b0b34e15e2dd20f4ca3dec213b934d2926b4a874b39"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/itemfinder.json"
 hash = "afa64b8606f140b87543b954d47eaea4179ec908648a77bcd9fe7d76d1ebfd83"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/keep_ivy.json"
+hash = "7c2d0aa7be46771f2154d516584e4170a58aaaedcdf3da565f1b1c9706882352"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/lava_pendant.json"
@@ -5538,7 +5546,7 @@ hash = "676f74acebeedab7174a16ecc9081d256e406c306bc4403416a697cb20b3f24f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "9716238ca75ac053049de8ad65a1b1818e047b69a9b032bffb9a843cc36f546b"
+hash = "488d4f9465234325b859806af385babc06b309c5ba5feb3784ab51748e92c465"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -6354,7 +6362,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/chemlib_fusion_removals.js"
-hash = "36ad7f9f3ec0aa8fd6368df925a6547c71864250a091ad98135d5c56c6545a31"
+hash = "a54be3e3fed765402eba630406477125883c9cd3f1fe6a035d1ff209755105ee"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
