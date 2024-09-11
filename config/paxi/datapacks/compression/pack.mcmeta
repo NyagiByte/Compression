@@ -1583,7 +1583,11 @@
 		{"namespace": "farmersdelight", "path": "recipes/integration/create/mixing/tomato_sauce_from_mixing.json"},
 		{"namespace": "farmersdelight", "path": "recipes/cooking/tomato_sauce.json"},
 		{"namespace": "tmted", "path": "recipes/bottling/tomato_sauce.json"},
-		{"namespace": "tmted", "path": "recipes/squeezer/tomato.json"}
+		{"namespace": "tmted", "path": "recipes/squeezer/tomato.json"},
+
+
+		{"namespace": "immersiveengineering", "path": "recipes/crafting/survey_tools.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/crafting/sample_drill.json"}
 
 		
 
