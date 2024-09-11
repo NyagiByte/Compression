@@ -5562,7 +5562,7 @@ hash = "676f74acebeedab7174a16ecc9081d256e406c306bc4403416a697cb20b3f24f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "9676163e81a01261a574654f4cdc5815704a38b870b13e1b6f5ce91d2b2b8c31"
+hash = "32b2086590f320884b8984a27c6d3165b76dc5a74b6e1675201f65bee467fd71"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
