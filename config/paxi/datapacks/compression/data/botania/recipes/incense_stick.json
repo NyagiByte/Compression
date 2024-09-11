@@ -1,0 +1,131 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "immersiveengineering:stick_treated"
+      },
+      {
+        "item": "minecraft:honeycomb"
+      },
+      {
+        "item": "mekanism:dust_charcoal"
+      },
+      {
+        "item": "mekanism:dust_charcoal"
+      },
+      {
+        "item": "mekanism:dust_charcoal"
+      },
+      {
+        "item": "mekanism:dust_charcoal"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "item": "nyagibits_bytes:wood_ash"
+      },
+      {
+        "amount": 250,
+        "fluid": "thermal:resin"
+      }
+    ],
+    "results": [
+      {
+        "item": "botania:incense_stick"
+      }
+    ]
+  }

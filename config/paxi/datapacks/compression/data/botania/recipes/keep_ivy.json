@@ -1,0 +1,32 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "botania:vine_ball"
+    },
+    {
+      "item": "botania:vine_ball"
+    },
+    {
+      "item": "botania:vine_ball"
+    },
+    {
+      "item": "botania:vine_ball"
+    },
+    {
+      "item": "nyagibits_bytes:rune_binder"
+    },
+    {
+      "item": "minecraft:soul_lantern"
+    }
+  ],
+  "output": {
+    "item": "botania:keep_ivy"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}
