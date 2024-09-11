@@ -1255,6 +1255,25 @@
 		{"namespace": "projectred_core", "path": "recipes/sail.json"},
 		{"namespace": "projectred_core", "path": "recipes/draw_plate.json"},
 		{"namespace": "projectred_core", "path": "recipes/multimeter.json"},
+		{"namespace": "projectred_core", "path": "recipes/white_illumar.json"},
+		{"namespace": "projectred_core", "path": "recipes/orange_illumar.json"},
+		{"namespace": "projectred_core", "path": "recipes/magenta_illumar.json"},
+		{"namespace": "projectred_core", "path": "recipes/light_blue_illumar.json"},
+		{"namespace": "projectred_core", "path": "recipes/yellow_illumar.json"},
+		{"namespace": "projectred_core", "path": "recipes/lime_illumar.json"},
+		{"namespace": "projectred_core", "path": "recipes/pink_illumar.json"},
+		{"namespace": "projectred_core", "path": "recipes/gray_illumar.json"},
+		{"namespace": "projectred_core", "path": "recipes/light_gray_illumar.json"},
+		{"namespace": "projectred_core", "path": "recipes/cyan_illumar.json"},
+		{"namespace": "projectred_core", "path": "recipes/purple_illumar.json"},
+		{"namespace": "projectred_core", "path": "recipes/blue_illumar.json"},
+		{"namespace": "projectred_core", "path": "recipes/brown_illumar.json"},
+		{"namespace": "projectred_core", "path": "recipes/green_illumar.json"},
+		{"namespace": "projectred_core", "path": "recipes/red_illumar.json"},
+		{"namespace": "projectred_core", "path": "recipes/black_illumar.json"},
+
+
+
 		{"namespace": "projectred_transmission", "path": "recipes/low_load_power_wire.json"},
 		{"namespace": "projectred_transmission", "path": "recipes/low_load_framed_power_wire.json"},
 
