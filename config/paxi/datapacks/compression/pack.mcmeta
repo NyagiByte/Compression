@@ -14,6 +14,7 @@
 		{"namespace": "mekanism", "path": "recipes/structural_glass.json"},
 		{"namespace": "mekanism", "path": "recipes/thermal_evaporation/block.json"},
 		{"namespace": "mekanism", "path": "recipes/radioactive_waste_barrel.json"},
+		{"namespace": "mekanism", "path": "recipes/cardboard_box.json"},
 
 		{"namespace": "farmersdelight", "path": "recipes/book_from_canvas.json"},
 		{"namespace": "farmersdelight", "path": "recipes/paper_from_tree_bark.json"},
