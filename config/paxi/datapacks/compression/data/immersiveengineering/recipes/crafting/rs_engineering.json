@@ -9,8 +9,8 @@
                 "count":2},
         {
             "base_ingredient":{
-                "item":"quark:redstone_randomizer"},
-                "count":4},
+                "item":"ae2:redstone_card"},
+                "count":1},
         {
             "base_ingredient":{
                 "item":"create:pulse_repeater"},
