@@ -116,5 +116,7 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:flerovium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:moscovium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:livermorium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:tennessine', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:oganesson', type: 'alchemistry:fusion' })
 
 })
