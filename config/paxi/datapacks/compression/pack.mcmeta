@@ -653,6 +653,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/gold_ingot.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/gold_block.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ghast_tear.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/wither_skeleton_skull.json"},
 
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},

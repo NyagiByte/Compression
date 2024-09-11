@@ -98,5 +98,8 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:curium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:berkelium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:californium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:einsteinium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:fermium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:mendelevium', type: 'alchemistry:fusion' })
 
 })
