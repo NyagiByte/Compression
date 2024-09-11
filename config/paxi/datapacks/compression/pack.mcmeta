@@ -641,6 +641,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/prismarine_bricks.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/prismarine.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/prismarine_shard.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/music_discs.json"},
 
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},
@@ -775,6 +776,9 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/strontium_carbonate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/strontium_nitrate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/strontium_hydroxide.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/cadmium_hydroxide.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/cadmium_nitrate.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/cadmium_carbonate.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/lumium.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/invar.json"},
@@ -859,6 +863,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/copper.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/zinc.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/silver.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/tin.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/combiner/potassium_cyanide.json"},
 		{"namespace": "alchemistry", "path": "recipes/combiner/protein.json"},
@@ -979,6 +984,12 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/neptunium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/americium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/plutonium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/berkelium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/curium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/californium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/einsteinium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/mendelevium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/fermium.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},

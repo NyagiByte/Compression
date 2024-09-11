@@ -47,5 +47,8 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:rhodium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:palladium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:silver', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:cadmium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:indium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:tin', type: 'alchemistry:fusion' })
 
 })
