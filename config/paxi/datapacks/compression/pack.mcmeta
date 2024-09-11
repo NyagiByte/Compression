@@ -1396,6 +1396,10 @@
 
 		{"namespace": "byg", "path": "recipes/crimson_berry_pie.json"},
 
+		{"namespace": "byg", "path": "recipes/green_apple_pie.json"},
+
+		{"namespace": "byg", "path": "recipes/nightshade_berry_pie.json"},
+
 
 
 		{"namespace": "create", "path": "recipes/filling/builders_tea.json"},
