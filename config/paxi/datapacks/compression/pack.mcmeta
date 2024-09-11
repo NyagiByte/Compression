@@ -781,6 +781,8 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/charcoal.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/coal_block.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/carrot.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/dried_kelp.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/dried_kelp_block.json"},
 
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},
