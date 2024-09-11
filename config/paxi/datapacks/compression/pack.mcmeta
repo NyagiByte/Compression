@@ -642,6 +642,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/prismarine.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/prismarine_shard.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/music_discs.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/dragon_breath.json"},
 
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},
@@ -780,6 +781,12 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/cadmium_nitrate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/cadmium_carbonate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/lead_iodide.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/cesium_hydroxide.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/cesium_carbonate.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/cesium_nitrate.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/barium_carbonate.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/barium_hydroxide.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/barium_nitrate.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/lumium.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/invar.json"},
@@ -997,6 +1004,12 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/rutherfordium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/seaborgium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/bohrium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/roentgenium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/meitnerium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/darmstadtium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/hassium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/nihonium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/copernicium.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
