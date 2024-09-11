@@ -868,6 +868,8 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/tin.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/tellurium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/iodine.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/xenon.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/cesium.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
