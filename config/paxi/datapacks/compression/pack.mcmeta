@@ -685,6 +685,13 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/gold_block.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ghast_tear.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/wither_skeleton_skull.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/snow_block.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/ice.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/packed_ice.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/blue_ice.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/wet_sponge.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/snow.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/snowball.json"},
 
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},
