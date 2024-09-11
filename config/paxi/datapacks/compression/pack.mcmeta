@@ -857,6 +857,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ingots/enderium.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/gems/sulfur.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/gems/niter.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/netherite.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/lumium.json"},
@@ -871,6 +872,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/electrum.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/silver.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/enderium.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/niter.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/netherite.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/boron.json"},
@@ -901,6 +903,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/silver.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/electrum.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/enderium.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/niter.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dyes/white.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dyes/orange.json"},
