@@ -81,7 +81,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:apothecary_deepslate'});
         e.remove({output: 'botania:fabulous_pool'});
         e.remove({output: 'botania:conjuration_catalyst'});
-        e.remove({output: 'botania:brewery'});
         e.remove({output: 'botania:terra_plate'});
         e.remove({output: 'botania:alfheim_portal'});
         e.remove({output: 'botania:mana_pylon'});
@@ -89,23 +88,11 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:gaia_pylon'});
         e.remove({output: 'botania:elven_spreader'});
         e.remove({output: 'botania:gaia_spreader'});
-        e.remove({output: 'botania:piston_relay'});
-        e.remove({output: 'botania:turntable'});
-        e.remove({output: 'botania:drum_wild'});
-        e.remove({output: 'botania:drum_gathering'});
-        e.remove({output: 'botania:drum_canopy'});
         e.remove({output: 'botania:spawner_claw'});
         e.remove({output: 'botania:spark_charger'});
         e.remove({output: 'botania:mana_bomb'});
-        e.remove({output: 'botania:hourglass'});
-        e.remove({output: 'botania:tiny_potato'});
-        e.remove({output: 'botania:cacophonium_block'});
-        e.remove({output: 'botania:cocoon'});
-        e.remove({output: 'botania:animated_torch'});
         e.remove({output: 'botania:shimmerrock'});
         e.remove({output: 'botania:shimmerwood_planks'});
-        e.remove({output: 'botania:fel_pumpkin'});
-        e.remove({output: 'botania:tiny_planet_block'});
         e.remove({output: 'botania:elementium_ingot'});
         e.remove({output: 'botania:pixie_dust'});
         e.remove({output: 'botania:dragonstone'});
@@ -140,41 +127,18 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:crystal_bow'});
         e.remove({output: 'botania:thorn_chakram'});
         e.remove({output: 'botania:flare_chakram'});
-        e.remove({output: 'botania:mana_tablet'});
-        e.remove({output: 'botania:mana_mirror'});
         e.remove({output: 'botania:clip'});
-        e.remove({output: 'botania:horn_grass'});
-        e.remove({output: 'botania:horn_leaves'});
-        e.remove({output: 'botania:horn_snow'});
-        e.remove({output: 'botania:slingshot'});
         e.remove({output: 'botania:open_bucket'});
         e.remove({output: 'botania:spawner_mover'});
-        e.remove({output: 'botania:crafting_halo'});
-        e.remove({output: 'botania:auto_crafting_halo'});
         e.remove({output: 'botania:spell_cloth'});
         e.remove({output: 'botania:black_hole_talisman'});
         e.remove({output: 'botania:temperance_stone'});
-        e.remove({output: 'botania:sextant'});
-        e.remove({output: 'botania:astrolabe'});
-        e.remove({output: 'botania:bauble_box'});
-        e.remove({output: 'botania:mana_ring'});
         e.remove({output: 'botania:mana_ring_greater'});
-        e.remove({output: 'botania:aura_ring'});
         e.remove({output: 'botania:aura_ring_greater'});
-        e.remove({output: 'botania:magnet_ring'});
         e.remove({output: 'botania:magnet_ring_greater'});
-        e.remove({output: 'botania:water_ring'});
-        e.remove({output: 'botania:swap_ring'});
-        e.remove({output: 'botania:dodge_ring'});
-        e.remove({output: 'botania:mining_ring'});
-        e.remove({output: 'botania:pixie_ring'});
-        e.remove({output: 'botania:reach_ring'});
-        e.remove({output: 'botania:travel_belt'});
         e.remove({output: 'botania:super_travel_belt'});
         e.remove({output: 'botania:speed_up_belt'});
         e.remove({output: 'botania:knockback_belt'});
-        e.remove({output: 'botania:ice_pendant'});
-        e.remove({output: 'botania:lava_pendent'});
         e.remove({output: 'botania:super_lava_pendant'});
         e.remove({output: 'botania:cloud_pendant'});
         e.remove({output: 'botania:super_cloud_pendant'});
@@ -183,17 +147,9 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:balance_cloak'});
         e.remove({output: 'botania:invisibility_cloak'});
         e.remove({output: 'botania:third_eye'});
-        e.remove({output: 'botania:monocle'});
-        e.remove({output: 'botania:tiny_planet'});
-        e.remove({output: 'botania:goddess_charm'});
         e.remove({output: 'botania:diva_charm'});
-        e.remove({output: 'botania:itemfinder'});
         e.remove({output: 'botania:flight_tiara'});
-        e.remove({output: 'botania:mana_cookie'});
-        e.remove({output: 'botania:mana_bottle'});
         e.remove({output: 'botania:laputa_shard'});
-        e.remove({output: 'botania:virus_necrodermal'});
-        e.remove({output: 'botania:virus_nullodermal'});
         e.remove({output: 'botania:spark'});
         e.remove({output: 'botania:spark_upgrade_dispersive'});
         e.remove({output: 'botania:spark_upgrade_dominant'});
@@ -204,10 +160,7 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:corporea_spark_creative'});
         e.remove({output: 'botania:black_lotus'});
         e.remove({output: 'botania:blacker_lotus'});
-        e.remove({output: 'botania:world_seed'});
         e.remove({output: 'botania:overgrowth_seed'});
-        e.remove({output: 'botania:phantom_ink'});
-        e.remove({output: 'botania:keep_ivy'});
         e.remove({output: 'botania:placeholder'});
         e.remove({output: 'botania:pattern_1_1'});
         e.remove({output: 'botania:pattern_2_2'});
@@ -219,7 +172,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:pattern_3_2'});
         e.remove({output: 'botania:pattern_donut'});
         e.remove({output: 'botania:blood_pendant'});
-        e.remove({output: 'botania:incense_stick'});
         e.remove({output: 'botania:kekimurus'});
         e.remove({output: 'botania:spectrolus'});
         e.remove({output: 'botania:dandelifeon'});
@@ -234,7 +186,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:gunpart_drum'});
         e.remove({output: 'immersiveengineering:gunpart_hammer'});
         e.remove({output: 'immersiveengineering:circuit_backplate'});
-        e.remove({output: 'immersiveengineering:plate_duroplast'});
         e.remove({output: 'immersiveengineering:empty_casing'});
         e.remove({output: 'immersiveengineering:empty_shell'});
         e.remove({output: 'immersiveengineering:drill'});
@@ -428,6 +379,8 @@ ServerEvents.recipes(e => {
         e.remove({mod: 'nuclearcraft'})
     //Compact Machines
         e.remove({mod: 'compactmachines'})
+    //Biomancy
+        e.remove({mod: 'biomancy'})
     //PneumaticCraft
         e.remove({output: 'pneumaticcraft:pressure_gauge'});
         e.remove({output: 'pneumaticcraft:stone_base'});
