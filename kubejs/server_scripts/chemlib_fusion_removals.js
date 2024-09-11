@@ -33,5 +33,6 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:gallium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:germanium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:arsenic', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:selenium', type: 'alchemistry:fusion' })
 
 })

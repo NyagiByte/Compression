@@ -638,6 +638,9 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/raw_copper.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/oxidized_cut_copper_slab.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/exposed_cut_copper.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/prismarine_bricks.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/prismarine.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/prismarine_shard.json"},
 
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},
@@ -931,6 +934,8 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/gadolinium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/holmium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/dysprosium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/thulium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/erbium.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
