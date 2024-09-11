@@ -731,6 +731,8 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/brick.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/bricks.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/brick_slab.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/redstone_block.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/redstone.json"},
 
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},
@@ -990,6 +992,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/lead.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/thorium.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/uranium.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/redstone.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/combiner/potassium_cyanide.json"},
 		{"namespace": "alchemistry", "path": "recipes/combiner/protein.json"},
