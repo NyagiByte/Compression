@@ -21,6 +21,8 @@
 		{"namespace": "compressedcreativity", "path": "recipes/item_application/compressed_iron_casing_from_wood.json"},
 		{"namespace": "compressedcreativity", "path": "recipes/item_application/compressed_iron_casing_from_log.json"},
 
+		{"namespace": "ironchests", "path": "recipes/diamond_dolly.json"},
+
 		{"namespace": "farmersdelight", "path": "recipes/book_from_canvas.json"},
 		{"namespace": "farmersdelight", "path": "recipes/paper_from_tree_bark.json"},
 		{"namespace": "thermal", "path": "recipes/rubber_from_dandalion.json"},
