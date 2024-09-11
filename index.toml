@@ -5562,7 +5562,7 @@ hash = "676f74acebeedab7174a16ecc9081d256e406c306bc4403416a697cb20b3f24f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "cd9c13227125094697cccb320d34d5479e0391158e980e88947e13bd6791196f"
+hash = "6d26a6aa7d6bb15bf12b75d0d54c3c8dfbb27a4182938e297caf20452d9c048c"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -6378,7 +6378,7 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 
 [[files]]
 file = "kubejs/server_scripts/chemlib_fusion_removals.js"
-hash = "d577693197dd4b6874115c0187a28edc607559d3ea6e8a1232f9de82d5ff13cf"
+hash = "1393bdfea31d9fe2bdfe4fafa4a227e1771b759137d2681f9bc7250f09215fd6"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
