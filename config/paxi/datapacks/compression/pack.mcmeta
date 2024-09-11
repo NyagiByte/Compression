@@ -766,6 +766,10 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dead_brain_coral.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/bubble_coral_fan.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dead_bubble_coral_fan.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/bone.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/bone_block.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/skeleton_skull.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/bone_meal.json"},
 
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},
@@ -940,6 +944,7 @@
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/gems/sulfur.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/gems/niter.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/gems/apatite.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/netherite.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/lumium.json"},
@@ -986,6 +991,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/electrum.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/enderium.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/niter.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/apatite.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dyes/white.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dyes/orange.json"},
@@ -1027,6 +1033,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/thorium.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/uranium.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/redstone.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/apatite.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/combiner/potassium_cyanide.json"},
 		{"namespace": "alchemistry", "path": "recipes/combiner/protein.json"},
