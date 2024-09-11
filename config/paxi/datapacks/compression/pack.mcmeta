@@ -796,6 +796,8 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/barium_carbonate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/barium_hydroxide.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/barium_nitrate.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/lead_carbonate.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/lead_nitrate.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/lumium.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/invar.json"},
@@ -888,6 +890,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/tin.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/osmium.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/gold.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/lead.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/combiner/potassium_cyanide.json"},
 		{"namespace": "alchemistry", "path": "recipes/combiner/protein.json"},
