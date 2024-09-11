@@ -635,6 +635,9 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/copper_block.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/weathered_cut_copper_slab.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/raw_copper_block.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/raw_copper.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/oxidized_cut_copper_slab.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/exposed_cut_copper.json"},
 
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},
@@ -760,9 +763,9 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/copper_carbonate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/copper_nitrate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/copper_ii_hydroxide.json"},
-		{"namespace": "alchemistry", "path": "recipes/dissolver/raw_copper.json"},
-		{"namespace": "alchemistry", "path": "recipes/dissolver/oxidized_cut_copper_slab.json"},
-		{"namespace": "alchemistry", "path": "recipes/dissolver/exposed_cut_copper.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/zinc_carbonate.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/zinc_nitrate.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/zinc_hydroxide.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/lumium.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/invar.json"},
@@ -835,6 +838,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/iron.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/nickel.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/copper.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/zinc.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/combiner/potassium_cyanide.json"},
 		{"namespace": "alchemistry", "path": "recipes/combiner/protein.json"},
@@ -919,6 +923,8 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/barium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/cerium.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/praseodymium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/neodymium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/promethium.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
