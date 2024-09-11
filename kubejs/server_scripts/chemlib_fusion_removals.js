@@ -107,5 +107,8 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:dubnium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:seaborgium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:bohrium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:hassium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:meitnerium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:darmstadtium', type: 'alchemistry:fusion' })
 
 })
