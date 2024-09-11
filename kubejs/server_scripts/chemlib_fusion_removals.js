@@ -62,5 +62,8 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:neodymium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:promethium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:samarium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:europium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:gadolinium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:terbium', type: 'alchemistry:fusion' })
 
 })
