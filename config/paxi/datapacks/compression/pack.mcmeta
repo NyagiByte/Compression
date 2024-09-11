@@ -16,6 +16,11 @@
 		{"namespace": "mekanism", "path": "recipes/radioactive_waste_barrel.json"},
 		{"namespace": "mekanism", "path": "recipes/cardboard_box.json"},
 
+		{"namespace": "compressedcreativity", "path": "recipes/mixing/brass_gilded_lapis_lazuli.json"},
+		{"namespace": "compressedcreativity", "path": "recipes/crafting/mesh_empty.json"},
+		{"namespace": "compressedcreativity", "path": "recipes/item_application/compressed_iron_casing_from_wood.json"},
+		{"namespace": "compressedcreativity", "path": "recipes/item_application/compressed_iron_casing_from_log.json"},
+
 		{"namespace": "farmersdelight", "path": "recipes/book_from_canvas.json"},
 		{"namespace": "farmersdelight", "path": "recipes/paper_from_tree_bark.json"},
 		{"namespace": "thermal", "path": "recipes/rubber_from_dandalion.json"},
