@@ -745,14 +745,20 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/iron_ii_nitrate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/iron_iii_nitrate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/iron_carbonate.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/nickel_carbonate.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/nickel_nitrate.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/lumium.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/invar.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/iron.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/constantan.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/nickel.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ingots/lumium.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ingots/invar.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ingots/iron.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/ingots/constantan.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/ingots/nickel.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/gems/sulfur.json"},
 
@@ -761,6 +767,8 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/sulfur.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/iron.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/invar.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/nickel.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/constantan.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/netherite.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/boron.json"},
@@ -768,6 +776,8 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/lumium.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/invar.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/iron.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/constantan.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/nickel.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/quartz.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/lumium.json"},
@@ -775,6 +785,8 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/gunpowder.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/invar.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/iron.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/constantan.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/nickel.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dyes/black.json"},
 
@@ -790,6 +802,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/coal.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/niter.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/iron.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/nickel.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/combiner/potassium_cyanide.json"},
 		{"namespace": "alchemistry", "path": "recipes/combiner/protein.json"},
@@ -870,6 +883,8 @@
 		{"namespace": "alchemistry", "path": "recipes/fission/iodine.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/xenon.json"},
 		{"namespace": "alchemistry", "path": "recipes/fission/cesium.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/lanthanum.json"},
+		{"namespace": "alchemistry", "path": "recipes/fission/barium.json"},
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},

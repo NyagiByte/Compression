@@ -27,5 +27,6 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:manganese', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:iron', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:cobalt', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:nickel', type: 'alchemistry:fusion' })
 
 })
