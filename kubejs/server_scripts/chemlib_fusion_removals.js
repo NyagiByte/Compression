@@ -83,5 +83,8 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:thallium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:lead', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:bismuth', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:polonium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:astatine', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:radon', type: 'alchemistry:fusion' })
 
 })
