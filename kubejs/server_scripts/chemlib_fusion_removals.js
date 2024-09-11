@@ -20,5 +20,6 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:argon', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:potassium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:calcium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:scandium', type: 'alchemistry:fusion' })
 
 })
