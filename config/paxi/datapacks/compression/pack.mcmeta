@@ -912,6 +912,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/barium_nitrate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/lead_carbonate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/lead_nitrate.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/hydroxylapatite.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/lumium.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/nuggets/invar.json"},
