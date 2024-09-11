@@ -6,6 +6,15 @@
 	},
 	"filter": { "block": [
 		
+		{"namespace": "mekanism", "path": "recipes/transmitter/universal_cable/basic.json"},
+		{"namespace": "mekanism", "path": "recipes/transmitter/mechanical_pipe/basic.json"},
+		{"namespace": "mekanism", "path": "recipes/transmitter/pressurized_tube/basic.json"},
+		{"namespace": "mekanism", "path": "recipes/fluid_tank/basic.json"},
+		{"namespace": "mekanism", "path": "recipes/dynamic_tank.json"},
+		{"namespace": "mekanism", "path": "recipes/structural_glass.json"},
+		{"namespace": "mekanism", "path": "recipes/thermal_evaporation/block.json"},
+		{"namespace": "mekanism", "path": "recipes/radioactive_waste_barrel.json"},
+
 		{"namespace": "farmersdelight", "path": "recipes/book_from_canvas.json"},
 		{"namespace": "farmersdelight", "path": "recipes/paper_from_tree_bark.json"},
 		{"namespace": "thermal", "path": "recipes/rubber_from_dandalion.json"},
