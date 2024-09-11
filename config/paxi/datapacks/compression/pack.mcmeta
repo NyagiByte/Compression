@@ -892,6 +892,8 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/osmium.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/gold.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/lead.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/thorium.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/ores/uranium.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/combiner/potassium_cyanide.json"},
 		{"namespace": "alchemistry", "path": "recipes/combiner/protein.json"},

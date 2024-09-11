@@ -89,5 +89,8 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:francium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:radium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:actinium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:thorium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:protactinium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:uranium', type: 'alchemistry:fusion' })
 
 })
