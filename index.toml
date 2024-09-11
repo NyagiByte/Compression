@@ -2610,7 +2610,7 @@ hash = "2ad39a0373d97c3a714f691879f073542eda7fd5f75b5b134df2c3a421318325"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/rs_engineering.json"
-hash = "4c2207c9a84eb59e0f2dece30f1597a7989c426aeb9d7df9dd40352b565d856e"
+hash = "3da994f5e3f57622ac1a5bd6a82fd202c1087195de4c93fb5764f601ffa1b900"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/sample_drill.json"
@@ -5562,7 +5562,7 @@ hash = "676f74acebeedab7174a16ecc9081d256e406c306bc4403416a697cb20b3f24f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "0366b9d6f4ebba0aff62a503de70edfe07371a3888dd49cb030510081bd87e9d"
+hash = "b5724a8f9129f4fdf6a369acbd02718eb8cf7b19a3ba43d42b409208178106be"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
