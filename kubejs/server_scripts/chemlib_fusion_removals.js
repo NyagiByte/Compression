@@ -71,5 +71,8 @@ ServerEvents.recipes(e => {
     e.remove({ output: 'chemlib:thulium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:ytterbium', type: 'alchemistry:fusion' })
     e.remove({ output: 'chemlib:lutetium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:hafnium', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:tantalum', type: 'alchemistry:fusion' })
+    e.remove({ output: 'chemlib:tungsten', type: 'alchemistry:fusion' })
 
 })
