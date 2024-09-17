@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item": "minecraft:redstone_torch"},
+      "B": {"item": "minecraft:lever"},
+      "C": {"item": "nyagibits_bytes:livisite_stone"}
+    },
+    "pattern": [
+      " A ",
+      " B ",
+      "CCC"
+    ],
+    "result": {
+      "count": 1,
+      "item": "create:powered_toggle_latch"
+    }
+  }

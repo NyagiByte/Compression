@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"ae2:cable_anchor"},
+      "B": {"item":"nyagibits_bytes:mana_infused_casing"}
+    },
+    "pattern": [
+        " A ",
+        "ABA",
+        " A "
+    ],
+    "result": {
+        "count": 1, 
+        "item": "createchunkloading:chunk_loader"
+}
+}

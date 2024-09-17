@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"tag":"forge:rods/wooden"},
+    "B": {"item":"create:brass_casing"}
+  },
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "result": {
+    "count": 4, 
+    "item": "create:analog_lever"
+}
+}

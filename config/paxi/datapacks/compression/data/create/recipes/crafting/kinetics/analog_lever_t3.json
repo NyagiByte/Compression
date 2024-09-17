@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"tag":"forge:rods/wooden"},
+    "B": {"item":"nyagibits_bytes:mana_infused_casing"}
+  },
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "result": {
+    "count": 64, 
+    "item": "create:analog_lever"
+}
+}

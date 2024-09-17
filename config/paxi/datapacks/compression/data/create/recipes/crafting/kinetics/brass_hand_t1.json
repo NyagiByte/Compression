@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"create:brass_nugget"},
+    "B": {"item":"nyagibits_bytes:metamorphic_alloy"},
+    "C": {"item":"create:brass_ingot"}
+  },
+  "pattern": [
+    " B ",
+    "ACA",
+    " A "
+  ],
+  "result": {
+    "count": 8, 
+    "item": "create:brass_hand"
+}
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"tag":"forge:plates/iron"},
+    "B": {"item":"create:andesite_alloy"},
+    "C": {"item":"nyagibits_bytes:mana_infused_casing"}
+  },
+  "pattern": [
+    "AAA",
+    "BBB",
+    " C "
+  ],
+  "result": {
+    "count": 8, 
+    "item": "create:mechanical_plough"
+}
+}

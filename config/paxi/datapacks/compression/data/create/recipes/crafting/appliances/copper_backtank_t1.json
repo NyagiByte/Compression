@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:metamorphic_alloy"},
+      "B": {"item":"create:shaft"},
+      "C": {"item":"minecraft:copper_ingot"},
+      "D": {"item":"minecraft:copper_block"}
+    },
+    "pattern": [
+      "ABA",
+      "CDC",
+      " C "
+    ],
+    "result": {
+      "count": 8, 
+      "item": "create:copper_backtank"
+  }
+  }

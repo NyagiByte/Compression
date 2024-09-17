@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item": "minecraft:redstone"},
+      "B": {"item": "create:brass_sheet"},
+      "C": {"item": "minecraft:redstone_torch"},
+      "D": {"item": "nyagibits_bytes:livisite_stone"}
+    },
+    "pattern": [
+      "  C",
+      "ABC",
+      "DDD"
+    ],
+    "result": {
+      "count": 1,
+      "item": "create:pulse_extender"
+    }
+  }

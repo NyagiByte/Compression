@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item": "minecraft:redstone_torch"},
+      "B": {"item": "nyagibits_bytes:steel_casing"},
+      "C": {"tag": "forge:plates/copper"}
+    },
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "result": {
+      "count": 2,
+      "item": "create:display_link"
+    }
+  }

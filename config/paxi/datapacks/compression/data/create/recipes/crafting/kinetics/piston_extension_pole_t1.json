@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"tag": "minecraft:planks"},
+      "B": {"item": "nyagibits_bytes:metamorphic_alloy"}
+    },
+    "pattern": [
+      "A",
+      "B",
+      "A"
+    ],
+    "result": {
+      "count": 64,
+      "item": "create:piston_extension_pole"
+    }
+  }

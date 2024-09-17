@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item": "minecraft:glass_bottle"},
+      "B": {"item": "immersiveengineering:wirecoil_copper"},
+      "C": {"item": "create:electron_tube"},
+      "D": {"item": "create:andesite_alloy"},
+      "E": {"item": "create:brass_sheet"}
+    },
+    "pattern": [
+      "A A",
+      "BCB",
+      "DED"
+    ],
+    "result": {
+      "count": 8,
+      "item": "create:nixie_tube"
+    }
+  }

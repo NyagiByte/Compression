@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item": "nyagibits_bytes:metamorphic_alloy"},
+      "B": {"item": "minecraft:dried_kelp"}
+    },
+    "pattern": [
+      "AA",
+      "BB"
+    ],
+    "result": {
+      "count": 16,
+      "item": "create:andesite_tunnel"
+    }
+  }

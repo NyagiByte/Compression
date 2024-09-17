@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"create:electron_tube"},
+      "B": {"item":"create:crushing_wheel"},
+    "C": {"item":"nyagibits_bytes:mana_infused_casing"}
+},
+"pattern": [
+  "A",
+  "C",
+  "B"
+],
+  "result": {
+    "count": 8, 
+    "item": "create:mechanical_roller"
+}
+}

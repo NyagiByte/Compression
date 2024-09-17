@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"nyagibits_bytes:sealant"},
+    "B": {"item":"immersiveengineering:plate_steel"},
+    "C": {"item":"immersiveengineering:toolupgrade_chemthrower_focus"}
+  },
+  "pattern": [
+    "AB",
+    "CA"
+  ],
+  "result": {
+    "count": 32, 
+    "item": "create:super_glue"
+}
+}

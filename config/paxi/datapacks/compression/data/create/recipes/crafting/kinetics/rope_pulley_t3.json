@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"tag": "minecraft:wool"},
+      "B": {"item": "nyagibits_bytes:mana_infused_casing"},
+      "C": {"tag": "forge:plates/iron"}
+    },
+    "pattern": [
+      "B",
+      "A",
+      "C"
+    ],
+    "result": {
+      "count": 8,
+      "item": "create:rope_pulley"
+    }
+  }

@@ -1,0 +1,20 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {"item": "nyagibits_bytes:metamorphic_alloy"},
+      "B": {"item": "botania:livingwood_planks"},
+      "C": {"item": "botania:livingrock"}
+    },
+    "pattern": [
+      " AAA ",
+      "AABAA",
+      "ABCBA",
+      "AABAA",
+      " AAA "
+    ],
+    "result": {
+        "count": 16,
+        "item": "create:crushing_wheel"
+    }
+  }

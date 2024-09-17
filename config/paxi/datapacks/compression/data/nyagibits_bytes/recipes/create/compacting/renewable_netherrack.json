@@ -1,0 +1,26 @@
+{
+    "type": "create:compacting",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "minecraft:nether_wart"
+      },
+      {
+        "item": "create:andesite_alloy"
+      },
+      {
+        "amount": 50,
+        "fluid": "minecraft:lava"
+      }
+    ],
+    "results": [
+      {
+        "count": 8,
+        "item": "minecraft:netherrack"
+      },
+      {
+        "count": 1,
+        "item": "chemlib:carbon_dust"
+      }
+    ]
+  }

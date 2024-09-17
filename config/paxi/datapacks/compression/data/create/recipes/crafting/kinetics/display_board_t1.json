@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item": "nyagibits_bytes:metamorphic_alloy"},
+      "B": {"item": "create:electron_tube"}
+    },
+    "pattern": [
+      "ABA"
+    ],
+    "result": {
+      "count": 32,
+      "item": "create:display_board"
+    }
+  }

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"create:cogwheel"},
+      "B": {"tag":"forge:plates/gold"},
+      "C": {"tag":"forge:chests/wooden"},
+      "D": {"item":"immersiveengineering:ersatz_leather"}
+    },
+    "pattern": [
+      " A ",
+      "BCB",
+      " D "
+    ],
+    "result": {
+      "count": 4, 
+      "item": "create:brown_toolbox"
+  }
+  }

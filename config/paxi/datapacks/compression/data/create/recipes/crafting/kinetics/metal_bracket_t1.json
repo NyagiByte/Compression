@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item": "nyagibits_bytes:metamorphic_alloy"},
+      "B": {"item": "minecraft:iron_ingot"},
+      "C": {"item": "minecraft:iron_nugget"}
+    },
+    "pattern": [
+      "CCC",
+      "BAB"
+    ],
+    "result": {
+      "count": 24,
+      "item": "create:metal_bracket"
+    }
+  }

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item": "nyagibits_bytes:metamorphic_alloy"},
+      "B": {"item": "minecraft:slime_ball"},
+      "C": {"item": "nyagibits_bytes:livisite_cobble"},
+      "D": {"item": "minecraft:redstone"}
+    },
+    "pattern": [
+      "ABA",
+      "CDC"
+    ],
+    "result": {
+      "count": 8,
+      "item": "create:sticker"
+    }
+  }

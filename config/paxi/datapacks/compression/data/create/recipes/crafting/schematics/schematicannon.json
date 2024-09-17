@@ -1,0 +1,21 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {"item": "botania:slingshot"},
+      "B": {"item": "pneumaticcraft:drill_pipe"},
+      "C": {"item": "nyagibits_bytes:steel_casing"},
+      "D": {"item": "create:turntable"},
+      "E": {"item": "immersiveengineering:steel_scaffolding_standard"},
+      "F": {"item": "create:schematic_table"},
+      "G": {"item": "nyagibits_bytes:etched_living_wood"}
+    },
+    "pattern": [
+      "  GGB",
+      " GGBC",
+      "FGAC ",
+      "EEDE ",
+      "EEEEE"
+    ],
+    "result": {"item": "create:schematicannon"}
+  }

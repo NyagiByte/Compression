@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"tag": "forge:plates/iron"},
+      "B": {"item": "nyagibits_bytes:livisite_cobble"},
+      "C": {"item": "nyagibits_bytes:etched_redstone_plate"}
+    },
+    "pattern": [
+      " A ",
+      "BCB",
+      "BBB"
+    ],
+    "result": {
+      "count": 2,
+      "item": "create:redstone_contact"
+    }
+  }

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"tag":"forge:plates/iron"},
+    "B": {"item":"nyagibits_bytes:metamorphic_alloy"}
+  },
+  "pattern": [
+    " B ",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 12, 
+    "item": "create:whisk"
+}
+}

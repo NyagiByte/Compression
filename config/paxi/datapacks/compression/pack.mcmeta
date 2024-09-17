@@ -294,12 +294,17 @@
 
 		{"namespace": "create", "path": "recipes/crafting/deploying/large_cogwheel.json"},
 		{"namespace": "create", "path": "recipes/crafting/deploying/cogwheel.json"},
-		{"namespace": "create", "path": "recipes/crafting/kinetics/mechanical_arm.json"},
 		{"namespace": "create", "path": "recipes/crafting/kinetics/steam_engine.json"},
+		{"namespace": "create", "path": "recipes/crafting/kinetics/white_sailfrom_conversion.json"},
+		{"namespace": "create", "path": "recipes/crafting/appliances/tree_fertilizer.json"},
+
 		{"namespace": "create", "path": "recipes/item_application/andesite_casing_from_wood.json"},
 		{"namespace": "create", "path": "recipes/item_application/brass_casing_from_wood.json"},
+		{"namespace": "create", "path": "recipes/item_application/copper_casing_from_wood.json"},
+
 		{"namespace": "create", "path": "recipes/milling/charcoal.json"},
 		{"namespace": "create", "path": "recipes/milling/wool.json"},
+
 		{"namespace": "create", "path": "recipes/pressing/sugar_cane.json"},
 
 		{"namespace": "create", "path": "recipes/haunting/glow_berries.json"},

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"create:cogwheel"},
+      "B": {"tag":"forge:plates/gold"},
+      "C": {"tag":"forge:chests/wooden"},
+      "D": {"item":"nyagibits_bytes:threaded_composite_leather"}
+    },
+    "pattern": [
+      " A ",
+      "BCB",
+      " D "
+    ],
+    "result": {
+      "count": 2, 
+      "item": "create:brown_toolbox"
+  }
+  }

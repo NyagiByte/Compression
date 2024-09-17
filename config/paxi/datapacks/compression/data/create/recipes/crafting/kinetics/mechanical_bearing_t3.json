@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item": "create:turntable"},
+      "B": {"item": "nyagibits_bytes:mana_infused_casing"},
+      "C": {"item": "create:shaft"}
+    },
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "result": {
+      "count": 8,
+      "item": "create:mechanical_bearing"
+    }
+  }

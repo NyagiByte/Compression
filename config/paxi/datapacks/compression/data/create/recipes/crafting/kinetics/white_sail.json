@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"create:sail_frame"},
+      "B": {"item":"nyagibits_bytes:woven_cloth"}
+    },
+    "pattern": [
+        "AB"
+    ],
+    "result": {
+        "count": 1, 
+        "item": "create:white_sail"
+}
+}

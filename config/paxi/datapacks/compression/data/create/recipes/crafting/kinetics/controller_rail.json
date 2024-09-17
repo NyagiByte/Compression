@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item": "create:golden_sheet"},
+      "B": {"item": "immersiveengineering:stick_treated"},
+      "C": {"item": "create:electron_tube"}
+    },
+    "pattern": [
+      "A A",
+      "ABA",
+      "ACA"
+    ],
+    "result": {
+      "count": 6,
+      "item": "create:controller_rail"
+    }
+  }

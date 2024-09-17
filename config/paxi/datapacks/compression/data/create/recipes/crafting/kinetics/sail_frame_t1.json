@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"tag":"minecraft:logs"},
+      "B": {"tag":"minecraft:fences"},
+      "C": {"item":"nyagibits_bytes:metamorphic_alloy"}
+    },
+    "pattern": [
+        "ABA",
+        "C C",
+        "ABA"
+    ],
+    "result": {
+        "count": 16, 
+        "item": "create:sail_frame"
+}
+}

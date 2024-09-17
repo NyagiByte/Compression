@@ -1,0 +1,20 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:egg"
+      },
+      {
+        "item": "create:cinder_flour"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "create:blaze_cake_base"
+      }
+    ]
+  }

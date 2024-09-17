@@ -1,0 +1,51 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "nyagibits_bytes:block_of_1080_high_carbon_steel"
+    },
+    "loops": 1,
+    "results": [
+      {
+        "chance": 100.0,
+        "count": 64,
+        "item": "create:track"
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "create:incomplete_track"
+          },
+          {
+            "item": "vintageimprovements:steel_rod"
+          }
+        ],
+        "results": [
+          {
+            "item": "create:incomplete_track"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "create:incomplete_track"
+          },
+          {
+            "item": "vintageimprovements:steel_rod"
+          }
+        ],
+        "results": [
+          {
+            "item": "create:incomplete_track"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "create:incomplete_track"
+    }
+  }

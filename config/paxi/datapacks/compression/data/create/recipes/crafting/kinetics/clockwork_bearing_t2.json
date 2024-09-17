@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"tag": "minecraft:wooden_slabs"},
+      "B": {"item": "nyagibits_bytes:mana_infused_casing"},
+      "C": {"item": "create:electron_tube"}
+    },
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "result": {
+      "count": 4,
+      "item": "create:clockwork_bearing"
+    }
+  }

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"tag": "forge:plates/gold"},
+      "B": {"item": "create:brass_ingot"}
+    },
+    "pattern": [
+      "A",
+      "B"
+    ],
+    "result": {
+      "count": 2,
+      "item": "create:steam_whistle"
+    }
+  }

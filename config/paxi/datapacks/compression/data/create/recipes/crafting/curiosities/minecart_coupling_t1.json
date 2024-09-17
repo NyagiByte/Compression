@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:metamorphic_alloy"},
+      "B": {"tag":"forge:plates/iron"}
+    },
+    "pattern": [
+      "  A",
+      " B ",
+      "A  "
+    ],
+    "result": {
+      "count": 16, 
+      "item": "create:minecart_coupling"
+  }
+  }

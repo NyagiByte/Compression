@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"tag": "minecraft:buttons"},
+      "B": {"item": "create:brass_casing"},
+      "C": {"item": "create:electron_tube"}
+    },
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "result": {
+      "count": 2,
+      "item": "create:contraption_controls"
+    }
+  }

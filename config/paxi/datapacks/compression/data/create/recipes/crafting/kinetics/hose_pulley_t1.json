@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item": "create:copper_casing"},
+      "B": {"item": "minecraft:dried_kelp_block"},
+      "C": {"item": "create:brass_sheet"}
+    },
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "result": {
+      "count": 2,
+      "item": "create:hose_pulley"
+    }
+  }

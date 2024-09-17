@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item": "nyagibits_bytes:metamorphic_alloy"},
+      "B": {"item": "vintageimprovements:redstone_module"},
+      "C": {"item": "nyagibits_bytes:steel_casing"},
+      "D": {"item": "immersiveengineering:concrete_leaded"},
+      "E": {"item": "immersiveengineering:steel_scaffolding_standard"}
+    },
+    "pattern": [
+      "ABA",
+      "DED",
+      "C C"
+    ],
+    "result": {
+      "count": 1,
+      "item": "create:cart_assembler"
+    }
+  }

@@ -1,0 +1,21 @@
+{
+    "type": "create:compacting",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "farmersdelight:pie_crust"
+      },
+      {
+        "item": "create:cinder_flour"
+      }
+    ],
+    "results": [
+      {
+        "count": 8,
+        "item": "create:blaze_cake_base"
+      }
+    ]
+  }

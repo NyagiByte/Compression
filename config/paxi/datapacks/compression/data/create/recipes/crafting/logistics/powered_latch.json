@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item": "minecraft:redstone_torch"},
+      "B": {"item": "minecraft:redstone"},
+      "C": {"item": "minecraft:lever"},
+      "D": {"item": "nyagibits_bytes:livisite_stone"}
+    },
+    "pattern": [
+      " A ",
+      "BCB",
+      "DDD"
+    ],
+    "result": {
+      "count": 1,
+      "item": "create:powered_latch"
+    }
+  }

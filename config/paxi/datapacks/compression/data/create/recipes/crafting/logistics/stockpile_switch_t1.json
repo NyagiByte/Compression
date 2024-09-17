@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item": "create:electron_tube"},
+      "B": {"item": "nyagibits_bytes:steel_casing"},
+      "C": {"item": "minecraft:comparator"}
+    },
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "result": {
+      "count": 2,
+      "item": "create:stockpile_switch"
+    }
+  }

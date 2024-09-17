@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item": "create:brass_sheet"},
+      "B": {"item": "create:brass_ingot"}
+    },
+    "pattern": [
+      "ABA"
+    ],
+    "result": {
+      "count": 16,
+      "item": "create:fluid_pipe"
+    }
+  }

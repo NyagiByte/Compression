@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"botania:livingwood_planks_slab"},
+      "B": {"item":"minecraft:lectern"},
+      "C": {"item":"botania:chiseled_livingrock_bricks"}
+    },
+    "pattern": [
+      "ABA",
+      " C ",
+      " C "
+    ],
+    "result": {
+        "item": "create:schematic_table"
+    }
+  }

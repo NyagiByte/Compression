@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"create:polished_rose_quartz"},
+    "B": {"item":"immersiveengineering:plate_steel"}
+  },
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "result": {
+    "count": 2, 
+    "item":"create:electron_tube"
+}
+}

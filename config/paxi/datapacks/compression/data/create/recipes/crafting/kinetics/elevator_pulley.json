@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item": "create:rope_pulley"},
+      "B": {"item": "create:brass_casing"},
+      "C": {"tag": "forge:plates/iron"}
+    },
+    "pattern": [
+      "B",
+      "A",
+      "C"
+    ],
+    "result": {
+      "count": 1,
+      "item": "create:elevator_pulley"
+    }
+  }

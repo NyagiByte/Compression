@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"tag": "forge:plates/copper"},
+      "B": {"item": "nyagibits_bytes:metamorphic_alloy"}
+    },
+    "pattern": [
+      "AAA",
+      " B "
+    ],
+    "result": {
+      "count": 8,
+      "item": "create:copper_valve_handle"
+    }
+  }

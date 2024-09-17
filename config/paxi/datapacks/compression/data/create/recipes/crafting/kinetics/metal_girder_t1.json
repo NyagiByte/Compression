@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"tag":"forge:plates/iron"},
+    "B": {"item":"nyagibits_bytes:metamorphic_alloy"}
+  },
+  "pattern": [
+    "AAA",
+    "BBB"
+  ],
+  "result": {
+    "count": 32, 
+    "item": "create:metal_girder"
+}
+}

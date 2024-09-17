@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"tag": "minecraft:buttons"},
+      "B": {"item": "nyagibits_bytes:steel_casing"},
+      "C": {"item": "create:electron_tube"}
+    },
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "result": {
+      "count": 4,
+      "item": "create:contraption_controls"
+    }
+  }
