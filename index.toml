@@ -6133,6 +6133,14 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/resourcepacks/compression/assets/create/lang/en_us.json"
+hash = "b6be4ed8bbb5f92ad52eb330e64de8ece85c0337f403eac8b5e829fe5ec5cea4"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/lang/en_us.json"
+hash = "b855cce28f7881efa4a959b5aa83dc37489c608532106cf394c329db8266d66b"
+
+[[files]]
 file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/material/plate/extreme.png"
 hash = "bf3001889536b828f55fb815d1bcb05ccef54723c1e20d2ccbc73fbfd3986ed5"
 
