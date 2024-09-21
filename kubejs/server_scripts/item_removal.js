@@ -103,10 +103,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:quartz_elven'});
         e.remove({output: 'botania:quartz_sunny'});
         e.remove({output: 'botania:tripwire'});
-        e.remove({output: 'botania:manasteel_helmet'});
-        e.remove({output: 'botania:manasteel_chestplate'});
-        e.remove({output: 'botania:manasteel_leggings'});
-        e.remove({output: 'botania:manasteel_boots'});
         e.remove({output: 'botania:elementium_helmet'});
         e.remove({output: 'botania:elementium_chestplate'});
         e.remove({output: 'botania:elementium_leggings'});
@@ -120,10 +116,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:terra_sword'});
         e.remove({output: 'botania:star_sword'});
         e.remove({output: 'botania:thunder_sword'});
-        e.remove({output: 'botania:manaweave_helmet'});
-        e.remove({output: 'botania:manaweave_chestplate'});
-        e.remove({output: 'botania:manaweave_leggings'});
-        e.remove({output: 'botania:manaweave_boots'});
         e.remove({output: 'botania:crystal_bow'});
         e.remove({output: 'botania:thorn_chakram'});
         e.remove({output: 'botania:flare_chakram'});

@@ -15,6 +15,10 @@
 		{"namespace": "mekanism", "path": "recipes/thermal_evaporation/block.json"},
 		{"namespace": "mekanism", "path": "recipes/radioactive_waste_barrel.json"},
 		{"namespace": "mekanism", "path": "recipes/cardboard_box.json"},
+		{"namespace": "mekanism", "path": "recipes/mekasuit_helmet.json"},
+		{"namespace": "mekanism", "path": "recipes/mekasuit_bodyarmor.json"},
+		{"namespace": "mekanism", "path": "recipes/mekasuit_pants.json"},
+		{"namespace": "mekanism", "path": "recipes/mekasuit_boots.json"},
 
 		{"namespace": "compressedcreativity", "path": "recipes/mixing/brass_gilded_lapis_lazuli.json"},
 		{"namespace": "compressedcreativity", "path": "recipes/crafting/mesh_empty.json"},
@@ -94,6 +98,32 @@
 		{"namespace": "minecraft", "path": "recipes/green_bed_from_white_bed.json"},
 		{"namespace": "minecraft", "path": "recipes/red_bed_from_white_bed.json"},
 		{"namespace": "minecraft", "path": "recipes/black_bed_from_white_bed.json"},
+		{"namespace": "minecraft", "path": "recipes/leather_helmet.json"},
+		{"namespace": "minecraft", "path": "recipes/leather_chestplate.json"},
+		{"namespace": "minecraft", "path": "recipes/leather_leggings.json"},
+		{"namespace": "minecraft", "path": "recipes/leather_boots.json"},
+		{"namespace": "minecraft", "path": "recipes/chainmail_helmet.json"},
+		{"namespace": "minecraft", "path": "recipes/chainmail_chestplate.json"},
+		{"namespace": "minecraft", "path": "recipes/chainmail_leggings.json"},
+		{"namespace": "minecraft", "path": "recipes/chainmail_boots.json"},
+		{"namespace": "minecraft", "path": "recipes/iron_helmet.json"},
+		{"namespace": "minecraft", "path": "recipes/iron_chestplate.json"},
+		{"namespace": "minecraft", "path": "recipes/iron_leggings.json"},
+		{"namespace": "minecraft", "path": "recipes/iron_boots.json"},
+		{"namespace": "minecraft", "path": "recipes/golden_helmet.json"},
+		{"namespace": "minecraft", "path": "recipes/golden_chestplate.json"},
+		{"namespace": "minecraft", "path": "recipes/golden_leggings.json"},
+		{"namespace": "minecraft", "path": "recipes/golden_boots.json"},
+		{"namespace": "minecraft", "path": "recipes/diamond_helmet.json"},
+		{"namespace": "minecraft", "path": "recipes/diamond_chestplate.json"},
+		{"namespace": "minecraft", "path": "recipes/diamond_leggings.json"},
+		{"namespace": "minecraft", "path": "recipes/diamond_boots.json"},
+		{"namespace": "minecraft", "path": "recipes/netherite_helmet_smithing.json"},
+		{"namespace": "minecraft", "path": "recipes/netherite_chestplate_smithing.json"},
+		{"namespace": "minecraft", "path": "recipes/netherite_leggings_smithing.json"},
+		{"namespace": "minecraft", "path": "recipes/netherite_boots_smithing.json"},
+		{"namespace": "minecraft", "path": "recipes/turtle_helmet.json"},
+
 		{"namespace": "byg", "path": "recipes/ametrine_helmet.json"},
 		{"namespace": "byg", "path": "recipes/ametrine_chestplate.json"},
 		{"namespace": "byg", "path": "recipes/ametrine_leggings.json"},
@@ -105,6 +135,7 @@
 		{"namespace": "byg", "path": "recipes/pendorite_shovel.json"},
 		{"namespace": "byg", "path": "recipes/pendorite_hoe.json"},
 		{"namespace": "byg", "path": "recipes/pendorite_battleaxe.json"},
+		{"namespace": "byg", "path": "recipes/chain_plating.json"},
 
 		{"namespace": "create", "path": "recipes/splashing/white_concrete_powder.json"},
 		{"namespace": "mekanism", "path": "recipes/injecting/concrete/white.json"},
@@ -171,6 +202,16 @@
 		{"namespace": "thermal", "path": "recipes/green_concrete_powder_with_slag.json"},
 		{"namespace": "thermal", "path": "recipes/red_concrete_powder_with_slag.json"},
 		{"namespace": "thermal", "path": "recipes/black_concrete_powder_with_slag.json"},
+
+		{"namespace": "nuclearcraft", "path": "recipes/hev_helmet.json"},
+		{"namespace": "nuclearcraft", "path": "recipes/hev_chest.json"},
+		{"namespace": "nuclearcraft", "path": "recipes/hev_boots.json"},
+		{"namespace": "nuclearcraft", "path": "recipes/hev_pants.json"},
+		{"namespace": "nuclearcraft", "path": "recipes/tough_helmet.json"},
+		{"namespace": "nuclearcraft", "path": "recipes/tough_chest.json"},
+		{"namespace": "nuclearcraft", "path": "recipes/tough_boots.json"},
+		{"namespace": "nuclearcraft", "path": "recipes/tough_pants.json"},
+		{"namespace": "nuclearcraft", "path": "recipes/spaxelhoe_tough.json"},
 
 
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/pickaxe_steel.json"},
@@ -307,6 +348,9 @@
 
 		{"namespace": "create", "path": "recipes/pressing/sugar_cane.json"},
 
+		{"namespace": "create", "path": "recipes/crafting/appliances/netherite_diving_helmet.json"},
+		{"namespace": "create", "path": "recipes/crafting/appliances/netherite_diving_helmet_from_netherite.json"},
+
 		{"namespace": "create", "path": "recipes/haunting/glow_berries.json"},
 		{"namespace": "create", "path": "recipes/haunting/crimson_fungus.json"},
 		{"namespace": "create", "path": "recipes/haunting/warped_fungus.json"},
@@ -330,6 +374,15 @@
 		{"namespace": "tesseract", "path": "recipes/tesseract.json"},
 
 		{"namespace": "ae2", "path": "recipes/network/cables/dense_smart_from_smart"},
+
+		{"namespace": "aiotbotania", "path": "recipes/livingwood_pickaxe.json"},
+		{"namespace": "aiotbotania", "path": "recipes/livingwood_sword.json"},
+		{"namespace": "aiotbotania", "path": "recipes/livingwood_axe.json"},
+		{"namespace": "aiotbotania", "path": "recipes/livingwood_shovel.json"},
+		{"namespace": "aiotbotania", "path": "recipes/livingwood_hoe.json"},
+		{"namespace": "aiotbotania", "path": "recipes/livingwood_shears.json"},
+		{"namespace": "aiotbotania", "path": "recipes/livingwood_aiot.json"},
+
 
 		{"namespace": "botania", "path": "recipes/red_string_alt.json"},
 		{"namespace": "botania", "path": "recipes/tiny_planet_block.json"},
@@ -1352,6 +1405,20 @@
 		{"namespace": "immersiveengineering", "path": "loot_modifiers/hemp_from_grass.json"},
 		{"namespace": "immersiveengineering", "path": "loot_modifiers/hemp_from_tall_grass.json"},
 
+		{"namespace": "pneumaticcraft", "path": "recipes/compressed_iron_helmet.json"},
+		{"namespace": "pneumaticcraft", "path": "recipes/compressed_iron_chestplate.json"},
+		{"namespace": "pneumaticcraft", "path": "recipes/compressed_iron_leggings.json"},
+		{"namespace": "pneumaticcraft", "path": "recipes/compressed_iron_boots.json"},
+		{"namespace": "pneumaticcraft", "path": "recipes/pneumatic_helmet.json"},
+		{"namespace": "pneumaticcraft", "path": "recipes/pneumatic_chestplate.json"},
+		{"namespace": "pneumaticcraft", "path": "recipes/pneumatic_leggings.json"},
+		{"namespace": "pneumaticcraft", "path": "recipes/pneumatic_boots.json"},
+
+		{"namespace": "theoneprobe", "path": "recipes/probe.json"},
+		{"namespace": "theoneprobe", "path": "recipes/iron_helmet_probe.json"},
+		{"namespace": "theoneprobe", "path": "recipes/gold_helmet_probe.json"},
+		{"namespace": "theoneprobe", "path": "recipes/diamond_helmet_probe.json"},
+
 
 
 
@@ -1399,9 +1466,7 @@
 		{"namespace": "pneumaticcraft", "path": "recipes/pressure_chamber/wheat_flour.json"},
 
 		{"namespace": "pneumaticcraft", "path": "recipes/sourdough.json"},
-
 		{"namespace": "pneumaticcraft", "path": "recipes/raw_salmon_tempura.json"},
-
 		{"namespace": "pneumaticcraft", "path": "recipes/sourdough_bread.json"},
 
 		{"namespace": "pneumaticcraft", "path": "recipes/thermo_plant/chips.json"},

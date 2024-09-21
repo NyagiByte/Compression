@@ -1,0 +1,29 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:botania_schematic"
+      },
+      {
+        "item": "botania:manasteel_sword"
+      },
+      {
+        "item": "botania:manasteel_axe"
+      },
+      {
+        "item": "botania:manasteel_pick"
+      },
+      {
+        "item": "botania:manasteel_shovel"
+      },
+      {
+        "item": "botania:manasteel_hoe"
+      }
+    ],
+    "output": {
+      "item": "aiotbotania:manasteel_aiot"
+    },
+    "reagent": {
+      "item": "aiotbotania:livingrock_aiot"
+    }
+  }
