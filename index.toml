@@ -6421,6 +6421,10 @@ file = "kubejs/data/hexlands/worldgen/world_preset/hexlands.json"
 hash = "b597b16e2c90d24df3edbd108816e7f80fa5e32ec5b06d4ec6c376ccef1cd8c8"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/structure/stronghold.json"
+hash = "0d1cebc3f31ce1d8cef576a01904d81151fb59e2a478910efb21618b29a521a0"
+
+[[files]]
 file = "kubejs/exported/tags/botania/brews.txt"
 hash = "cfdd52e13c2db9622e0d34a499ba971c7ac5b432d219a7f00a06014f71126d4b"
 
