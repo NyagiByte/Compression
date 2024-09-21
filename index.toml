@@ -729,6 +729,10 @@ file = "config/paxi/datapacks/compression/data/aiotbotania/recipes/livingrock_ai
 hash = "0cc73d080edf91fa625d5b958b613ec57c3c14018c269fd0ac7fcef8fd5b106e"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/aiotbotania/recipes/manasteel_aiot.json"
+hash = "aea4ad0d128260b8e10fd7a264b2e28558cd26a0655e830c8f412fefb251e272"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer.json"
 hash = "69729e1f3ee5ae146ed7e906281b8d04be6364ffa92178ebdda66b6bb56c4409"
 
@@ -1415,6 +1419,22 @@ hash = "f2d33740e037a80e9c4b0ab02fc162fe523d883284a743d678247a542efc810a"
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_void.json"
 hash = "30d696c1e6a1c6cf6285fcccfd86cf01bfa39044385fa80214b704ae7e476462"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/manasteel_boots.json"
+hash = "574ae65d2326022a84700a2d7c9badd4eb615797160fd1244031577d195fbafb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/manasteel_chestplate.json"
+hash = "c7633683ec6a93ab1c2cf655ae85c4f3341caac48aa9578e20d2c60f5fe71433"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/manasteel_helmet.json"
+hash = "4bfd5e149fe76e24434530d6577495c86bcfd413817990e2d7e513b021fd6ba4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/manasteel_leggings.json"
+hash = "843d76c3266bda26222c5d866754a5b68e805fc6dc59e9ca8b56990076292cec"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/manaweave_cloth.json"
@@ -5958,7 +5978,7 @@ hash = "676f74acebeedab7174a16ecc9081d256e406c306bc4403416a697cb20b3f24f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "1761ff5b80de355d306ddb2f44889460134005449b52fd59d7a649d4d1ed0d4a"
+hash = "f219fa5ca1ffe7cde0a8270cdb57be3c7d865b664a55bbf6126b671f45da84a2"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -6367,6 +6387,10 @@ hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/JEI_Removal/Removals.js"
+hash = "b0c2d7e765e9de576da5e1620f6a96916d18621988534b121c97b28382559d03"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
@@ -6786,7 +6810,7 @@ hash = "785b5cc0d8f1e68fe4224df8ad6c06939086619cfe1cc734e02a6e936f625013"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "5d2c17197d3cc7472773ba7de6b4ce776c994a81b187642f9206531ee72a8963"
+hash = "96db62c96e5b14aedec2468c7d7a5011ee6b28670300e9db7d245453c2979b7f"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
