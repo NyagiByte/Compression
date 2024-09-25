@@ -148,7 +148,28 @@ JEIEvents.hideItems(event => {
     'nuclearcraft:tough_chest',
     'nuclearcraft:tough_boots',
     'nuclearcraft:tough_pants',
-    'nuclearcraft:spaxelhoe_tough'
+    'nuclearcraft:spaxelhoe_tough',
+    //CBMicroblock
+    'cb_microblock:stone_rod',
+    'cb_microblock:stone_saw',
+    'cb_microblock:iron_saw',
+    //Item Filters
+    'itemfilters:always_true',
+    'itemfilters:always_false',
+    'itemfilters:or',
+    'itemfilters:and',
+    'itemfilters:not',
+    'itemfilters:xor',
+    'itemfilters:tag',
+    'itemfilters:mod',
+    'itemfilters:item_group',
+    'itemfilters:id_regex',
+    'itemfilters:damage',
+    'itemfilters:block',
+    'itemfilters:max_count',
+    'itemfilters:strong_nbt',
+    'itemfilters:weak_nbt',
+    'itemfilters:custom'
 
     
   ])
