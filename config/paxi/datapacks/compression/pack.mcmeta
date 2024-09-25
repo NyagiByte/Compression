@@ -353,6 +353,8 @@
 		{"namespace": "create", "path": "recipes/item_application/brass_casing_from_wood.json"},
 		{"namespace": "create", "path": "recipes/item_application/copper_casing_from_wood.json"},
 
+		{"namespace": "create", "path": "recipes/compat/ae2/milling/ender_pearl.json"},
+
 		{"namespace": "create", "path": "recipes/milling/charcoal.json"},
 		{"namespace": "create", "path": "recipes/milling/wool.json"},
 
@@ -384,6 +386,7 @@
 		{"namespace": "tesseract", "path": "recipes/tesseract.json"},
 
 		{"namespace": "ae2", "path": "recipes/inscriber/sky_stone_dust.json"},
+		{"namespace": "ae2", "path": "recipes/inscriber/ender_dust.json"},
 
 		{"namespace": "ae2", "path": "recipes/blasting/sky_stone_block.json"},
 
