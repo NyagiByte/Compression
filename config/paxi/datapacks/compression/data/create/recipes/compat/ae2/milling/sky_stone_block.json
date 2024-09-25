@@ -1,0 +1,19 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "ae2:sky_stone_block"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "count": 1,
+        "item": "ae2:sky_dust"
+      },
+      {
+        "chance": 0.5,
+        "item": "ae2:sky_dust"
+      }
+    ]
+  }

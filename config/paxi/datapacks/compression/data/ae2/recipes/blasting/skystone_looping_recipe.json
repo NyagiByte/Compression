@@ -1,0 +1,21 @@
+{
+    "type": "create:compacting",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "ae2:sky_dust"
+      },
+      {
+        "item": "nyagibits_bytes:raw_basaltic_powder"
+      },
+      {
+        "amount": 20,
+        "fluid": "minecraft:lava"
+      }
+    ],
+    "results": [
+      {
+        "item": "ae2:sky_stone_block"
+      }
+    ]
+  }

@@ -383,7 +383,12 @@
 
 		{"namespace": "tesseract", "path": "recipes/tesseract.json"},
 
+		{"namespace": "ae2", "path": "recipes/inscriber/sky_stone_dust.json"},
+
+		{"namespace": "ae2", "path": "recipes/blasting/sky_stone_block.json"},
+
 		{"namespace": "ae2", "path": "recipes/network/cables/dense_smart_from_smart.json"},
+
 		{"namespace": "ae2", "path": "recipes/tools/misctools_entropy_manipulator.json"},
 		{"namespace": "ae2", "path": "recipes/tools/misctools_charged_staff.json"},
 
