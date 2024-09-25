@@ -68,17 +68,6 @@ ServerEvents.recipes(e => {
             //e.remove([{type: 'alchemistry:dissolver', output: 'chemlib:silicon'}]);
 //Removal of other stoof
     //Botania
-        e.remove({output: 'botania:apothecary_forest'});
-        e.remove({output: 'botania:apothecary_plains'});
-        e.remove({output: 'botania:apothecary_mountain'});
-        e.remove({output: 'botania:apothecary_fungal'});
-        e.remove({output: 'botania:apothecary_swamp'});
-        e.remove({output: 'botania:apothecary_desert'});
-        e.remove({output: 'botania:apothecary_taiga'});
-        e.remove({output: 'botania:apothecary_mesa'});
-        e.remove({output: 'botania:apothecary_mossy'});
-        e.remove({output: 'botania:apothecary_livingrock'});
-        e.remove({output: 'botania:apothecary_deepslate'});
         e.remove({output: 'botania:fabulous_pool'});
         e.remove({output: 'botania:conjuration_catalyst'});
         e.remove({output: 'botania:terra_plate'});
