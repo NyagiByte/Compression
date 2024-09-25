@@ -493,6 +493,10 @@ file = "config/paxi/datapack_load_order.json"
 hash = "54e1940f6a7748855dbe5d69ac348b0256ccb4633058b4c49aa80803499c3f5c"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/blasting/skystone_looping_recipe.json"
+hash = "d2405306a60df4439b09673bd955a1aa1ca6833189771b0d06e4914303802c0f"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/decorative/light_detector.json"
 hash = "0e2ef7edd4ceab1ecbe95439483862f423d0ac598055be072a8002d731cca735"
 
@@ -730,7 +734,7 @@ hash = "0cc73d080edf91fa625d5b958b613ec57c3c14018c269fd0ac7fcef8fd5b106e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/aiotbotania/recipes/manasteel_aiot.json"
-hash = "aea4ad0d128260b8e10fd7a264b2e28558cd26a0655e830c8f412fefb251e272"
+hash = "3989793aeb58fe3af83cd121a845ba01718b572e1ef836a5c95b4cd6d73dc7e8"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer.json"
@@ -1847,6 +1851,10 @@ hash = "9d536a46f06db91ccd273e84f94680047b6d6bc560a9b1e45b28616fdf0f3b25"
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/compacting/blaze_cake_t2.json"
 hash = "80fbadd9fd331472501b764c1e4988bc024c270d68627df209e51df3c52eaf29"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/compat/ae2/milling/sky_stone_block.json"
+hash = "e9125f2b2cfa2fee7df9033015ba23f7cdb33c13d5b41ea3774c3e9159a62728"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/appliances/copper_backtank_t1.json"
@@ -6042,7 +6050,7 @@ hash = "676f74acebeedab7174a16ecc9081d256e406c306bc4403416a697cb20b3f24f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "f0d861618b1a0ce268bb56b488721461ec61f964ebadae34d2f4ca894f0d0d0e"
+hash = "27807a04679c139b04d4f11fac773b5d47d942a7c7cb7bc08d8610543728d73f"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
