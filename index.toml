@@ -1801,6 +1801,10 @@ file = "config/paxi/datapacks/compression/data/byg/tags/blocks/imparius_logs.jso
 hash = "45238b99e1ff8e0021149bf8d46e28396de655aa5e7744edc913cbed38469b0b"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/cb_microblock/recipes/diamond_saw.json"
+hash = "8cb027076ec360ddae0411962a959cfe80e761b8863dbb92c12066dc088c7a1e"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/compressedbotanics/recipes/endoflame.json"
 hash = "821fc44ac93294976017445d86e10a1b358b4929bc8a6a403911a5a579a689db"
 
@@ -5501,14 +5505,6 @@ file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/thermo_pla
 hash = "b098ddb80a6ee59b0f6b1b1185c8c6dc2ce2f4794b49c386534fef7e299391f2"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/projectred_core/recipes/plate.json"
-hash = "c0a7fec154600301c0ef09a96fd5b2916fcf1bcde246176c08833ca3d0535926"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/projectred_core/recipes/plate.txt"
-hash = "c0a7fec154600301c0ef09a96fd5b2916fcf1bcde246176c08833ca3d0535926"
-
-[[files]]
 file = "config/paxi/datapacks/compression/data/projectred_integration/recipes/and_cell_gate.json"
 hash = "b071dcfe95d2cd80712b75a88bcb0f169feb8b6ac876c5bd81e8134a0beccc7a"
 
@@ -6050,7 +6046,7 @@ hash = "676f74acebeedab7174a16ecc9081d256e406c306bc4403416a697cb20b3f24f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "27807a04679c139b04d4f11fac773b5d47d942a7c7cb7bc08d8610543728d73f"
+hash = "160b21460354ea3840a17acbc2c2598f47f43351d5d510ad77550cc28af4260f"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -6462,7 +6458,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"
-hash = "a21d5c9c7823cbe35ad32ed44d79773e46b94558b1a39980006b0fbaa9fd0a00"
+hash = "307a0c3f2baad3224fecfc9f8f849c8a1b8a341741700e37eb27d9122f339f60"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
