@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"minecraft:obsidian"},
+    "B": {"item":"minecraft:soul_sand"},
+    "C": {"item":"minecraft:redstone_block"}
+  },
+  "pattern": [
+    "AAA",
+    "BCB",
+    "AAA"
+  ],
+  "result": {"item": "minecraft:respawn_anchor"}
+}

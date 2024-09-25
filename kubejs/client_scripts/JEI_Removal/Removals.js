@@ -57,6 +57,7 @@ JEIEvents.hideItems(event => {
     'minecraft:netherite_leggings',
     'minecraft:netherite_boots',
     'minecraft:turtle_helmet',
+    'minecraft:shield',
     //Ae2
     'ae2:certus_quartz_pickaxe',
     'ae2:certus_quartz_axe',
@@ -73,6 +74,8 @@ JEIEvents.hideItems(event => {
     'ae2:fluix_shovel',
     'ae2:fluix_hoe',
     'ae2:fluix_sword',
+    'ae2:charged_staff',
+    'ae2:entropy_manipulator',
     //Bedrockminer
     'bedrockminer:bedrock_pickaxe',
     'bedrockminer:bedrock_sword',

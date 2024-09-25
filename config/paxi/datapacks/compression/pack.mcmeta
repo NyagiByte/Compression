@@ -19,6 +19,7 @@
 		{"namespace": "mekanism", "path": "recipes/mekasuit_bodyarmor.json"},
 		{"namespace": "mekanism", "path": "recipes/mekasuit_pants.json"},
 		{"namespace": "mekanism", "path": "recipes/mekasuit_boots.json"},
+		{"namespace": "mekanism", "path": "recipes/rails.json"},
 
 		{"namespace": "compressedcreativity", "path": "recipes/mixing/brass_gilded_lapis_lazuli.json"},
 		{"namespace": "compressedcreativity", "path": "recipes/crafting/mesh_empty.json"},
@@ -123,6 +124,10 @@
 		{"namespace": "minecraft", "path": "recipes/netherite_leggings_smithing.json"},
 		{"namespace": "minecraft", "path": "recipes/netherite_boots_smithing.json"},
 		{"namespace": "minecraft", "path": "recipes/turtle_helmet.json"},
+		{"namespace": "minecraft", "path": "recipes/netherite_ingot.json"},
+		{"namespace": "minecraft", "path": "recipes/end_crystal.json"},
+		{"namespace": "minecraft", "path": "recipes/spectral_arrows.json"},
+		{"namespace": "minecraft", "path": "recipes/shield.json"},
 
 		{"namespace": "byg", "path": "recipes/ametrine_helmet.json"},
 		{"namespace": "byg", "path": "recipes/ametrine_chestplate.json"},
@@ -136,6 +141,10 @@
 		{"namespace": "byg", "path": "recipes/pendorite_hoe.json"},
 		{"namespace": "byg", "path": "recipes/pendorite_battleaxe.json"},
 		{"namespace": "byg", "path": "recipes/chain_plating.json"},
+		{"namespace": "byg", "path": "recipes/chain_helmet.json"},
+		{"namespace": "byg", "path": "recipes/chain_chestplate.json"},
+		{"namespace": "byg", "path": "recipes/chain_leggings.json"},
+		{"namespace": "byg", "path": "recipes/chain_boots.json"},
 
 		{"namespace": "create", "path": "recipes/splashing/white_concrete_powder.json"},
 		{"namespace": "mekanism", "path": "recipes/injecting/concrete/white.json"},
@@ -269,6 +278,7 @@
 		{"namespace": "immersiveengineering", "path": "recipes/metalpress/rod_aluminum.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/metalpress/rod_iron.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/metalpress/rod_steel.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/metalpress/blaze_rod.json"},
 
 		{"namespace": "immersiveengineering", "path": "recipes/bottling/ersatz_leather.json"},
 
@@ -373,7 +383,9 @@
 
 		{"namespace": "tesseract", "path": "recipes/tesseract.json"},
 
-		{"namespace": "ae2", "path": "recipes/network/cables/dense_smart_from_smart"},
+		{"namespace": "ae2", "path": "recipes/network/cables/dense_smart_from_smart.json"},
+		{"namespace": "ae2", "path": "recipes/tools/misctools_entropy_manipulator.json"},
+		{"namespace": "ae2", "path": "recipes/tools/misctools_charged_staff.json"},
 
 		{"namespace": "aiotbotania", "path": "recipes/livingwood_pickaxe.json"},
 		{"namespace": "aiotbotania", "path": "recipes/livingwood_sword.json"},
@@ -409,7 +421,7 @@
 
 		{"namespace": "botania", "path": "recipes/runic_altar/spring.json"},
 		{"namespace": "botania", "path": "recipes/runic_altar/summer.json"},
-		{"namespace": "botania", "path": "recipes/runic_altar/fall.json"},
+		{"namespace": "botania", "path": "recipes/runic_altar/autumn.json"},
 		{"namespace": "botania", "path": "recipes/runic_altar/winter.json"},
 		{"namespace": "botania", "path": "recipes/runic_altar/lust.json"},
 		{"namespace": "botania", "path": "recipes/runic_altar/wrath.json"},
@@ -1278,6 +1290,7 @@
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
+		{"namespace": "abyssal_decor", "path": "recipes/ammonite_ore_smelting.json"},
 
 		{"namespace": "architects_palette", "path": "recipes/charcoal_from_charcoal_blocks.json"},
 

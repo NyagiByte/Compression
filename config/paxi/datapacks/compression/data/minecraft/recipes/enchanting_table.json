@@ -1,0 +1,33 @@
+{
+    "type": "botania:runic_altar",
+    "ingredients": [
+      {
+        "item": "minecraft:obsidian"
+      },
+      {
+        "item": "minecraft:obsidian"
+      },
+      {
+        "item": "minecraft:obsidian"
+      },
+      {
+        "item": "minecraft:obsidian"
+      },
+      {
+        "item": "minecraft:red_carpet"
+      },
+      {
+        "item": "minecraft:book"
+      },
+      {
+        "item": "nyagibits_bytes:rosa_arcana_mush"
+      },
+      {
+        "item": "nyagibits_bytes:rosa_arcana_mush"
+      }
+    ],
+    "mana": 200000,
+    "output": {
+      "item": "minecraft:enchanting_table"
+    }
+  }
