@@ -1305,6 +1305,10 @@
 
 		{"namespace": "architects_palette", "path": "recipes/charcoal_from_charcoal_blocks.json"},
 
+		{"namespace": "cb_microblock", "path": "recipes/stone_rod.json"},
+		{"namespace": "cb_microblock", "path": "recipes/stone_saw.json"},
+		{"namespace": "cb_microblock", "path": "recipes/iron_saw.json"},
+
 		{"namespace": "projectred_core", "path": "recipes/plate.json"},
 		{"namespace": "projectred_core", "path": "recipes/conductive_plate.json"},
 		{"namespace": "projectred_transmission", "path": "recipes/wired_plate.json"},

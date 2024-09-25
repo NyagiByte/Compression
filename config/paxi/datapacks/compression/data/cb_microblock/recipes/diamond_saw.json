@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"create:shaft"},
+      "B": {"item":"minecraft:stick"},
+      "C": {"item":"nyagibits_bytes:diamond_shard"},
+      "D": {"item":"thermal:saw_blade"}
+    },
+    "pattern": [
+      "AAB",
+      "CDB"
+    ],
+    "result": { 
+      "item": "cb_microblock:diamond_saw"
+  }
+  }
