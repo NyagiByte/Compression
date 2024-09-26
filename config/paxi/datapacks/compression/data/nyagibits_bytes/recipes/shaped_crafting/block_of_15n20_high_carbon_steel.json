@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:steel_high_carbon_15n20"}
+    },
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:block_of_15n20_high_carbon_steel"
+    }
+  }
