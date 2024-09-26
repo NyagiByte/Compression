@@ -20,14 +20,6 @@
                 "item":"create:pulse_extender"},
                 "count":4},
         {
-            "base_ingredient":{
-                "item":"create:powered_latch"},
-                "count":4},
-        {
-            "base_ingredient":{
-                "item":"create:powered_toggle_latch"},
-                "count":4},
-        {
             "item":"nyagibits_bytes:immersive_engineering_schematic"
         },
         {
