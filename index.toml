@@ -478,7 +478,7 @@ hash = "55a668749c65a2929945b96fdeda9f42caa5ba27713e1ae35fd472f2b74b34f7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome_to_compression.snbt"
-hash = "0e84e16787f013cc8585579c8048802aa0799ff5f249bfd34aed056129fbc61f"
+hash = "3a00da2fbf38ced18de56c24ca4397a3c2b81c24cbe9f6d63243a36e67961230"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -3082,7 +3082,7 @@ hash = "2ad39a0373d97c3a714f691879f073542eda7fd5f75b5b134df2c3a421318325"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/rs_engineering.json"
-hash = "3da994f5e3f57622ac1a5bd6a82fd202c1087195de4c93fb5764f601ffa1b900"
+hash = "4515f389e7a89e2156674890131ecb536ef8f266891d77989a308eabfff57053"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/sample_drill.json"
@@ -5275,6 +5275,22 @@ hash = "273ffbd432b4739dfc48e97bd273096c3c8a0820af43eb894bd0db4306c19c2d"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/blank_rune.json"
 hash = "036fbf56973dccfb9c37df821f5cbdbf15e25aaeb764ca6bd89af1e6bede89b2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/block_of_1080_high_carbon_steel.json"
+hash = "4705770003bd93c97182d6a64692e97fb169815654773f14946aac95671c0d48"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/block_of_15n20_high_carbon_steel.json"
+hash = "6c691f4717bb3c247e08cfaebae2d1c3fedbc8c82457688085b272361580133b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/block_of_damascus_steel.json"
+hash = "f2a4aa00ee0aac1fbbcb663728f1167dcf3e86f160a4260e9dc045229421cabe"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/block_of_stainless_steel.json"
+hash = "f314d327aa3335c3896d9470f2319072e0839116542d9fffc64e4f9c2b0d8cc9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/ceramic_encased_copper.json"
