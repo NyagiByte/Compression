@@ -577,6 +577,7 @@
 		{"namespace": "mythicbotany", "path": "recipes/gjallar_horn_empty_mana_infusion.json"},
 
 		{"namespace": "botania", "path": "recipes/mana_infusion/mana_powder_dye.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/manasteel_block.json"},
 
 		{"namespace": "botania", "path": "recipes/stonecutting/livingrock_to_polished_livingrock.json"},
 
