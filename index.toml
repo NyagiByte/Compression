@@ -886,7 +886,7 @@ hash = "2ba1a78f4cf4ff367069fd39882f114c0799597a326ea83e0b4ad1744cd741d3"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sodium_hydroxide.json"
-hash = "e5e39caa2f2475b3dd1429b89c0bf8b65bacdaef8b2f48fe9c8c52ada6f1b7b9"
+hash = "0af391d0682ad40a44733eb1464ac31dd682e8aaa9cbcee6582b90f4a1930e10"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sulfur_trioxide.json"
