@@ -1,0 +1,20 @@
+{
+  "type": "sophisticatedbackpacks:basic_backpack",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedbackpacks:backpack"
+    }
+  ],
+  "key": {
+    "C": {"item": "ironchests:diamond_chest"},
+    "B": {"item": "sophisticatedbackpacks:gold_backpack"},
+    "L": {"tag": "forge:leather"},
+    "P": {"item": "minecraft:diamond"}
+  },
+  "pattern": [
+    "PBP",
+    "CLC"
+  ],
+  "result": {"item": "sophisticatedbackpacks:diamond_backpack"}
+}

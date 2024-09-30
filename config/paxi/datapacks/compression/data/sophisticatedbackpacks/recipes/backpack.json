@@ -1,0 +1,22 @@
+{
+  "type": "sophisticatedbackpacks:basic_backpack",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedbackpacks:backpack"
+    }
+  ],
+  "key": {
+    "C": {"tag": "forge:chests/wooden"},
+    "P": {"item": "nyagibits_bytes:sealed_pouch"},
+    "W": {"tag": "forge:wool"},
+    "S": {"tag": "forge:string"},
+    "L": {"tag": "forge:leather"}
+  },
+  "pattern": [
+    "SLS",
+    "PWP",
+    "LCL"
+  ],
+  "result": {"item": "sophisticatedbackpacks:backpack"}
+}

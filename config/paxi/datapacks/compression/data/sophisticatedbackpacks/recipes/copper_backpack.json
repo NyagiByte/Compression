@@ -1,0 +1,20 @@
+{
+  "type": "sophisticatedbackpacks:basic_backpack",
+  "conditions": [
+    {
+      "type": "sophisticatedcore:item_enabled",
+      "itemRegistryName": "sophisticatedbackpacks:backpack"
+    }
+  ],
+  "key": {
+    "C": {"item": "ironchests:copper_chest"},
+    "B": {"item": "sophisticatedbackpacks:backpack"},
+    "L": {"tag": "forge:leather"},
+    "P": {"tag": "forge:plates/copper"}
+  },
+  "pattern": [
+    "PBP",
+    "CLC"
+  ],
+  "result": {"item": "sophisticatedbackpacks:copper_backpack"}
+}
