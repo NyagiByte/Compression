@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"nyagibits_bytes:polished_livisite"},
+    "B": {"item":"nyagibits_bytes:raw_magnetite"}
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "result": {"item": "minecraft:lodestone"}
+}

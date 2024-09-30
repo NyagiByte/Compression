@@ -18,12 +18,15 @@
       },
       {
         "item": "botania:manasteel_hoe"
+      },
+      {
+        "item": "aiotbotania:livingrock_aiot"
       }
     ],
     "output": {
       "item": "aiotbotania:manasteel_aiot"
     },
     "reagent": {
-      "item": "aiotbotania:livingrock_aiot"
+      "tag": "botania:seed_apothecary_reagent"
     }
   }

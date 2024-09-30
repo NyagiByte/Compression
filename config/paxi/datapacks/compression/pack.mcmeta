@@ -19,6 +19,7 @@
 		{"namespace": "mekanism", "path": "recipes/mekasuit_bodyarmor.json"},
 		{"namespace": "mekanism", "path": "recipes/mekasuit_pants.json"},
 		{"namespace": "mekanism", "path": "recipes/mekasuit_boots.json"},
+		{"namespace": "mekanism", "path": "recipes/rails.json"},
 
 		{"namespace": "compressedcreativity", "path": "recipes/mixing/brass_gilded_lapis_lazuli.json"},
 		{"namespace": "compressedcreativity", "path": "recipes/crafting/mesh_empty.json"},
@@ -123,6 +124,10 @@
 		{"namespace": "minecraft", "path": "recipes/netherite_leggings_smithing.json"},
 		{"namespace": "minecraft", "path": "recipes/netherite_boots_smithing.json"},
 		{"namespace": "minecraft", "path": "recipes/turtle_helmet.json"},
+		{"namespace": "minecraft", "path": "recipes/netherite_ingot.json"},
+		{"namespace": "minecraft", "path": "recipes/end_crystal.json"},
+		{"namespace": "minecraft", "path": "recipes/spectral_arrows.json"},
+		{"namespace": "minecraft", "path": "recipes/shield.json"},
 
 		{"namespace": "byg", "path": "recipes/ametrine_helmet.json"},
 		{"namespace": "byg", "path": "recipes/ametrine_chestplate.json"},
@@ -136,6 +141,10 @@
 		{"namespace": "byg", "path": "recipes/pendorite_hoe.json"},
 		{"namespace": "byg", "path": "recipes/pendorite_battleaxe.json"},
 		{"namespace": "byg", "path": "recipes/chain_plating.json"},
+		{"namespace": "byg", "path": "recipes/chain_helmet.json"},
+		{"namespace": "byg", "path": "recipes/chain_chestplate.json"},
+		{"namespace": "byg", "path": "recipes/chain_leggings.json"},
+		{"namespace": "byg", "path": "recipes/chain_boots.json"},
 
 		{"namespace": "create", "path": "recipes/splashing/white_concrete_powder.json"},
 		{"namespace": "mekanism", "path": "recipes/injecting/concrete/white.json"},
@@ -203,6 +212,9 @@
 		{"namespace": "thermal", "path": "recipes/red_concrete_powder_with_slag.json"},
 		{"namespace": "thermal", "path": "recipes/black_concrete_powder_with_slag.json"},
 
+		{"namespace": "create", "path": "recipes/compat/thermal/crushing/sulfur_ore.json"},
+		{"namespace": "create", "path": "recipes/compat/thermal/crushing/apatite_ore.json"},
+
 		{"namespace": "nuclearcraft", "path": "recipes/hev_helmet.json"},
 		{"namespace": "nuclearcraft", "path": "recipes/hev_chest.json"},
 		{"namespace": "nuclearcraft", "path": "recipes/hev_boots.json"},
@@ -269,6 +281,7 @@
 		{"namespace": "immersiveengineering", "path": "recipes/metalpress/rod_aluminum.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/metalpress/rod_iron.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/metalpress/rod_steel.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/metalpress/blaze_rod.json"},
 
 		{"namespace": "immersiveengineering", "path": "recipes/bottling/ersatz_leather.json"},
 
@@ -292,6 +305,9 @@
 		{"namespace": "immersivepetroleum", "path": "recipes/refinery/phenol.json"},
 		{"namespace": "immersivepetroleum", "path": "recipes/refinery/acetaldehyde.json"},
 
+		{"namespace": "immersivepetroleum", "path": "recipes/hydrotreater/ethylene_plastic.json"},
+		{"namespace": "immersivepetroleum", "path": "recipes/hydrotreater/propylene_plastic.json"},
+
 
 		{"namespace": "quark", "path": "recipes/tools/crafting/pickarang_heart.json"},
 		{"namespace": "quark", "path": "recipes/automation/crafting/iron_rod.json"},
@@ -302,6 +318,8 @@
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/deepslate_furnace.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/blackstone_blast_furnace.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/deepslate_blast_furnace.json"},
+
+		{"namespace": "create", "path": "recipes/compat/quark/crushing/moss_block.json"},
 
 		{"namespace": "byg", "path": "recipes/aspen_crafting_table.json"},
 		{"namespace": "byg", "path": "recipes/baobab_crafting_table.json"},
@@ -343,8 +361,119 @@
 		{"namespace": "create", "path": "recipes/item_application/brass_casing_from_wood.json"},
 		{"namespace": "create", "path": "recipes/item_application/copper_casing_from_wood.json"},
 
+		{"namespace": "create", "path": "recipes/compat/ae2/milling/ender_pearl.json"},
+
 		{"namespace": "create", "path": "recipes/milling/charcoal.json"},
 		{"namespace": "create", "path": "recipes/milling/wool.json"},
+		{"namespace": "create", "path": "recipes/milling/dripstone_block.json"},
+		{"namespace": "create", "path": "recipes/milling/clay.json"},
+		{"namespace": "create", "path": "recipes/milling/calcite.json"},
+
+		{"namespace": "create", "path": "recipes/crushing/raw_nickel_block.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_lead_block.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_zinc_block.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_copper_block.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_silver_block.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_uranium_block.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_tin_block.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_gold_block.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_iron_block.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_osmium_block.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_aluminum_block.json"},
+
+		{"namespace": "create", "path": "recipes/crushing/raw_nickel.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_lead.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_zinc.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_copper.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_silver.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_uranium.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_tin.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_gold.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_iron.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_osmium.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_aluminum.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_platinum.json"},
+
+		{"namespace": "create", "path": "recipes/crushing/raw_nickel_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_lead_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_zinc_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_copper_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_silver_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_uranium_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_tin_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_gold_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_iron_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_osmium_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_aluminum_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/raw_platinum_ore.json"},
+		
+		{"namespace": "create", "path": "recipes/crushing/nickel_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/lead_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/zinc_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/copper_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/silver_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/uranium_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/tin_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/gold_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/nether_gold_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/iron_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/osmium_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/aluminum_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/nether_quartz_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/platinum_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/diamond_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/emerald_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/lapis_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/redstone_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/coal_ore.json"},
+		
+		{"namespace": "create", "path": "recipes/crushing/deepslate_nickel_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/deepslate_lead_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/deepslate_zinc_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/deepslate_copper_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/deepslate_silver_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/deepslate_uranium_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/deepslate_tin_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/deepslate_gold_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/deepslate_iron_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/deepslate_osmium_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/deepslate_aluminum_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/deepslate_platinum_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/deepslate_diamond_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/deepslate_emerald_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/deepslate_lapis_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/deepslate_redstone_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/deepslate_coal_ore.json"},
+
+		{"namespace": "create", "path": "recipes/crushing/prismarine_crystals.json"},
+		{"namespace": "create", "path": "recipes/crushing/crimsite_recycling.json"},
+		{"namespace": "create", "path": "recipes/crushing/crimsite.json"},
+		{"namespace": "create", "path": "recipes/crushing/tuff.json"},
+		{"namespace": "create", "path": "recipes/crushing/tuff_recycling.json"},
+		{"namespace": "create", "path": "recipes/crushing/asurine.json"},
+		{"namespace": "create", "path": "recipes/crushing/asurine_recycling.json"},
+		{"namespace": "create", "path": "recipes/crushing/ochrum.json"},
+		{"namespace": "create", "path": "recipes/crushing/ochrum_recycling.json"},
+		{"namespace": "create", "path": "recipes/crushing/diorite.json"},
+		{"namespace": "create", "path": "recipes/crushing/diorite_recycling.json"},
+		{"namespace": "create", "path": "recipes/crushing/veridium.json"},
+		{"namespace": "create", "path": "recipes/crushing/veridium_recycling.json"},
+		{"namespace": "create", "path": "recipes/crushing/nether_wart_block.json"},
+		{"namespace": "create", "path": "recipes/crushing/iron_horse_armor.json"},
+		{"namespace": "create", "path": "recipes/crushing/golden_horse_armor.json"},
+		{"namespace": "create", "path": "recipes/crushing/diamond_horse_armor.json"},
+		{"namespace": "create", "path": "recipes/crushing/amethyst_block.json"},
+		{"namespace": "create", "path": "recipes/crushing/amethyst_cluster.json"},
+
+		{"namespace": "create", "path": "recipes/compat/byg/crushing/blue_nether_quartz_ore.json"},
+		{"namespace": "create", "path": "recipes/compat/byg/crushing/brimstone_nether_quartz_ore.json"},
+		{"namespace": "create", "path": "recipes/compat/byg/crushing/blue_nether_gold_ore.json"},
+		{"namespace": "create", "path": "recipes/compat/byg/crushing/brimstone_nether_gold_ore.json"},
+		{"namespace": "create", "path": "recipes/compat/byg/crushing/ametrine_ore.json"},
+		{"namespace": "create", "path": "recipes/compat/byg/crushing/cryptic_redstone_ore.json"},
+		{"namespace": "create", "path": "recipes/compat/byg/crushing/emeraldite_ore.json"},
+		{"namespace": "create", "path": "recipes/compat/byg/crushing/anthracite_ore.json"},
+		{"namespace": "create", "path": "recipes/compat/byg/crushing/pervaded_netherrack.json"},
 
 		{"namespace": "create", "path": "recipes/pressing/sugar_cane.json"},
 
@@ -373,7 +502,15 @@
 
 		{"namespace": "tesseract", "path": "recipes/tesseract.json"},
 
-		{"namespace": "ae2", "path": "recipes/network/cables/dense_smart_from_smart"},
+		{"namespace": "ae2", "path": "recipes/inscriber/sky_stone_dust.json"},
+		{"namespace": "ae2", "path": "recipes/inscriber/ender_dust.json"},
+
+		{"namespace": "ae2", "path": "recipes/blasting/sky_stone_block.json"},
+
+		{"namespace": "ae2", "path": "recipes/network/cables/dense_smart_from_smart.json"},
+
+		{"namespace": "ae2", "path": "recipes/tools/misctools_entropy_manipulator.json"},
+		{"namespace": "ae2", "path": "recipes/tools/misctools_charged_staff.json"},
 
 		{"namespace": "aiotbotania", "path": "recipes/livingwood_pickaxe.json"},
 		{"namespace": "aiotbotania", "path": "recipes/livingwood_sword.json"},
@@ -409,7 +546,7 @@
 
 		{"namespace": "botania", "path": "recipes/runic_altar/spring.json"},
 		{"namespace": "botania", "path": "recipes/runic_altar/summer.json"},
-		{"namespace": "botania", "path": "recipes/runic_altar/fall.json"},
+		{"namespace": "botania", "path": "recipes/runic_altar/autumn.json"},
 		{"namespace": "botania", "path": "recipes/runic_altar/winter.json"},
 		{"namespace": "botania", "path": "recipes/runic_altar/lust.json"},
 		{"namespace": "botania", "path": "recipes/runic_altar/wrath.json"},
@@ -440,6 +577,7 @@
 		{"namespace": "mythicbotany", "path": "recipes/gjallar_horn_empty_mana_infusion.json"},
 
 		{"namespace": "botania", "path": "recipes/mana_infusion/mana_powder_dye.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/manasteel_block.json"},
 
 		{"namespace": "botania", "path": "recipes/stonecutting/livingrock_to_polished_livingrock.json"},
 
@@ -1278,8 +1416,32 @@
 		
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_decraft.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/paper_block_recipe.json"},
+		{"namespace": "abyssal_decor", "path": "recipes/ammonite_ore_smelting.json"},
+		{"namespace": "abyssal_decor", "path": "recipes/bread_block.json"},
 
 		{"namespace": "architects_palette", "path": "recipes/charcoal_from_charcoal_blocks.json"},
+
+		{"namespace": "itemfilters", "path": "recipes/always_true.json"},
+		{"namespace": "itemfilters", "path": "recipes/always_false.json"},
+		{"namespace": "itemfilters", "path": "recipes/or.json"},
+		{"namespace": "itemfilters", "path": "recipes/and.json"},
+		{"namespace": "itemfilters", "path": "recipes/not.json"},
+		{"namespace": "itemfilters", "path": "recipes/xor.json"},
+		{"namespace": "itemfilters", "path": "recipes/tag.json"},
+		{"namespace": "itemfilters", "path": "recipes/mod.json"},
+		{"namespace": "itemfilters", "path": "recipes/item_group.json"},
+		{"namespace": "itemfilters", "path": "recipes/id_regex.json"},
+		{"namespace": "itemfilters", "path": "recipes/damage.json"},
+		{"namespace": "itemfilters", "path": "recipes/block.json"},
+		{"namespace": "itemfilters", "path": "recipes/max_count.json"},
+		{"namespace": "itemfilters", "path": "recipes/strong_nbt.json"},
+		{"namespace": "itemfilters", "path": "recipes/weak_nbt.json"},
+		{"namespace": "itemfilters", "path": "recipes/custom.json"},
+		{"namespace": "itemfilters", "path": "recipes/always_true_from_others.json"},
+
+		{"namespace": "cb_microblock", "path": "recipes/stone_rod.json"},
+		{"namespace": "cb_microblock", "path": "recipes/stone_saw.json"},
+		{"namespace": "cb_microblock", "path": "recipes/iron_saw.json"},
 
 		{"namespace": "projectred_core", "path": "recipes/plate.json"},
 		{"namespace": "projectred_core", "path": "recipes/conductive_plate.json"},
@@ -1383,6 +1545,13 @@
 		{"namespace": "projectred_transmission", "path": "recipes/black_framed_bundled_wire.json"},
 		{"namespace": "projectred_transmission", "path": "recipes/black_framed_insulated_wire.json"},
 		{"namespace": "projectred_transmission", "path": "recipes/black_insulated_wire.json"},
+
+		{"namespace": "vintageimprovements", "path": "recipes/crushing/basalt_recycling.json"},
+		{"namespace": "vintageimprovements", "path": "recipes/crushing/basalt.json"},
+		{"namespace": "vintageimprovements", "path": "recipes/crushing/scoria_recycling.json"},
+		{"namespace": "vintageimprovements", "path": "recipes/crushing/scoria.json"},
+		{"namespace": "vintageimprovements", "path": "recipes/crushing/scorchia_recycling.json"},
+		{"namespace": "vintageimprovements", "path": "recipes/crushing/scorchia.json"},
 
 		{"namespace": "vintageimprovements", "path": "recipes/pressurizing/sulfuric_acid.json"},
 		{"namespace": "vintageimprovements", "path": "recipes/pressurizing/sulfur_dioxide.json"},

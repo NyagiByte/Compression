@@ -1,0 +1,33 @@
+{
+    "type": "botania:runic_altar",
+    "ingredients": [
+      {
+        "item": "botania:mana_glass"
+      },
+      {
+        "item": "botania:mana_glass"
+      },
+      {
+        "item": "botania:mana_glass"
+      },
+      {
+        "item": "botania:mana_glass"
+      },
+      {
+        "item": "botania:incense_stick"
+      },
+      {
+        "item": "botania:mana_mirror"
+      },
+      {
+        "item": "minecraft:sea_lantern"
+      },
+      {
+        "item": "immersiveengineering:floodlight"
+      }
+    ],
+    "mana": 200000,
+    "output": {
+      "item": "minecraft:beacon"
+    }
+  }
