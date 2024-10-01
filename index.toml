@@ -3790,7 +3790,7 @@ hash = "bc3c22d80993d8147063a8503bd7c6bf9cdc3140462c6346e15fc2a3bc62faf1"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/damascus_steel.json"
-hash = "9afea9e16befabf60103b8220403b34acd9459b083a5136ec51c80834d680a35"
+hash = "b5ec45e12e45f79aa7bea1e186a58db80bfb1ea2745ca0dc4320566734e272a5"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/diamond_shard.json"
@@ -5957,6 +5957,34 @@ file = "config/paxi/datapacks/compression/data/quark/recipes/compacting/iron_pla
 hash = "61afd6154fae72237a0e74e02c0d7401ea3fa47e1e162e6ea177bf7702dddbe9"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/backpack.json"
+hash = "dafac8acf13f77456b907819cedccccef534a938929da6af4ec14552667ebdad"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/copper_backpack.json"
+hash = "d8f740e004b0151b84de2d6809dd6ab24046d6e0eb8157e4a0c8eb1c4c3fac67"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/diamond_backpack.json"
+hash = "bd8f516b9cf99e47e4438380e98bc10736d39bc087f37374f9e785976a93965d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/gold_backpack.json"
+hash = "49faac6da12dd4af6114e45c77da817ef28e78c77fb07694fcd5a3ce4041b626"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/iron_backpack.json"
+hash = "0294ec52abd3931a3e56f70c5880bd134ed230834805e6643d21299962089882"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/netherite_backpack.json"
+hash = "bd2a29aa7bfc7184d6a8fbc4c2516d12bb6dc2e2eb52fa4a3208bd84bfb37186"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/upgrade_base.json"
+hash = "70492c66b5539912f25824fcc17402511628992908519604c0694415bc918f2d"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/thermal/recipes/device_fisher.json"
 hash = "aaddc3a09d33411c0a956f15e37dafc4de73750c62f1de79846b5d557b2b56aa"
 
@@ -6066,7 +6094,7 @@ hash = "676f74acebeedab7174a16ecc9081d256e406c306bc4403416a697cb20b3f24f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "5fc18d741398f2a776ed51f235aef44f4665a77f4a7ff769d1e145a916c66df5"
+hash = "76be9eb5cfa79a46cd20c16c36dfcfc4a709b1a3017ddd3adef9154f41db8ef6"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -6255,6 +6283,10 @@ hash = "bf3001889536b828f55fb815d1bcb05ccef54723c1e20d2ccbc73fbfd3986ed5"
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/material/plate/thermoconducting.png"
 hash = "5a6339d88bd7fbc00840f52430584b7410188c851b1d4fb219c73e708617ddf1"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/sophisticatedbackpacks/lang/en_us.json"
+hash = "097ee8629c5aebf5c30113f08dd8a4cd781e532d61beadf8f2eeebf3ef10e7b2"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/thermal/textures/item/bronze_plate_0.png"
@@ -7142,7 +7174,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "c0c8819595b27c1aff854c8570acc3fe87dd42d88d8219e7abdd4781257d6ac2"
+hash = "e00f1ba81c878e1c388633d4488c9ba81397053194757c9097ff84ceca9ffabf"
 metafile = true
 
 [[files]]
