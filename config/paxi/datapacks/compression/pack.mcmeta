@@ -1564,6 +1564,7 @@
 
 
 		{"namespace": "sophisticatedbackpacks", "path": "recipes/upgrade_base.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/iron_backpack_from_copper.json"},
 
 
 		{"namespace": "phantomsandnightmares", "path": "recipes/insanity_pill.json"},
