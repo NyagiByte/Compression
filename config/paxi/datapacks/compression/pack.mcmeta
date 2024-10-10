@@ -225,6 +225,8 @@
 		{"namespace": "nuclearcraft", "path": "recipes/tough_pants.json"},
 		{"namespace": "nuclearcraft", "path": "recipes/spaxelhoe_tough.json"},
 
+		{"namespace": "nuclearcraft", "path": "recipes/nuclearcraft_magnesium_dust.json"},
+
 
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/pickaxe_steel.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/axe_steel.json"},
@@ -1564,7 +1566,6 @@
 
 
 		{"namespace": "sophisticatedbackpacks", "path": "recipes/upgrade_base.json"},
-		{"namespace": "sophisticatedbackpacks", "path": "recipes/iron_backpack_from_copper.json"},
 
 
 		{"namespace": "phantomsandnightmares", "path": "recipes/insanity_pill.json"},
