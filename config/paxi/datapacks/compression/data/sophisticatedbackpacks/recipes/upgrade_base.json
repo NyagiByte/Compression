@@ -17,8 +17,8 @@
     {
       "type": "create:deploying",
       "ingredients": [
-        {"item": "minecraft:leather"},
-        {"tag": "forge:plates/gold"}
+        {"item": "nyagibits_bytes:steel_high_carbon_1080"},
+        {"item": "nyagibits_bytes:steel_high_carbon_15n20"}
       ],
       "results": [
         {"item": "nyagibits_bytes:incomplete_calculation_dud"}

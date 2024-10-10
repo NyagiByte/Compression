@@ -1,31 +1,18 @@
 {
-    "type": "ae2:transform",
-    "circumstance": {
-      "type": "fluid",
-      "tag": "minecraft:water"
-    },
-    "ingredients": [
-      {
-        "item": "minecraft:bucket"
-      },
-      {
-        "item": "minecraft:apple"
-      },
-      {
-        "item": "farmersdelight:milk_bottle"
-      },
-      {
-        "item": "minecraft:sugar"
-      },
-      {
-        "item": "create:wheat_flour"
-      },
-      {
-        "item": "nyagibits_bytes:soil_sample"
-      }
-    ],
-    "results": {
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"minecraft:bucket"},
+    "B": {"item":"minecraft:sugar"},
+    "C": {"item":"farmersdelight:milk_bottle"},
+    "D": {"item":"nyagibits_bytes:soil_sample"},
+    "E": {"item":"create:wheat_flour"}
+  },
+  "pattern": [
+    " E ",
+    "BCD",
+    " A "
+  ],
+  "result": {
       "item": "pneumaticcraft:yeast_culture_bucket"
-      
-    }
   }
+}
