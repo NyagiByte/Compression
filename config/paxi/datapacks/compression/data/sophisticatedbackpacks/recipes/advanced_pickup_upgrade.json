@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "sophisticatedbackpacks:upgrade_base"
+        },
+        {
+            "item": "ironchests:iron_dolly"
+        }
+    ],
+    "result": {
+        "item": "sophisticatedbackpacks:advanced_pickup_upgrade"
+    }
+}

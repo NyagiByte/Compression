@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "sophisticatedbackpacks:upgrade_base"
+        },
+        {
+            "item": "botania:keep_ivy"
+        }
+    ],
+    "result": {
+        "item": "sophisticatedbackpacks:everlasting_upgrade"
+    }
+}

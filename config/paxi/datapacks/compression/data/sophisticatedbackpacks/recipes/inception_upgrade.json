@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "sophisticatedbackpacks:upgrade_base"
+        },
+        {
+            "item": "ae2:spatial_cell_component_2"
+        }
+    ],
+    "result": {
+        "item": "sophisticatedbackpacks:inception_upgrade"
+    }
+}

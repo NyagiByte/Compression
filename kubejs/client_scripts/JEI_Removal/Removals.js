@@ -179,7 +179,20 @@ JEIEvents.hideItems(event => {
     'sophisticatedbackpacks:void_upgrade',
     'sophisticatedbackpacks:restock_upgrade',
     'sophisticatedbackpacks:deposit_upgrade',
-    'sophisticatedbackpacks:refill_upgrade'
+    'sophisticatedbackpacks:refill_upgrade',
+    'sophisticatedbackpacks:pump_upgrade',
+    'sophisticatedbackpacks:auto_blasting_upgrade',
+    'sophisticatedbackpacks:auto_smoking_upgrade',
+    'sophisticatedbackpacks:auto_smelting_upgrade',
+    'sophisticatedbackpacks:blasting_upgrade',
+    'sophisticatedbackpacks:smoking_upgrade',
+    'sophisticatedbackpacks:smelting_upgrade',
+    'sophisticatedbackpacks:stack_upgrade_starter_tier',
+    'sophisticatedbackpacks:stack_upgrade_tier_1',
+    'sophisticatedbackpacks:stack_upgrade_tier_2',
+    'sophisticatedbackpacks:stack_upgrade_tier_3',
+    'sophisticatedbackpacks:tool_swapper_upgrade',
+    'sophisticatedbackpacks:pump_upgrade'
 
     
   ])

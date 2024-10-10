@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "sophisticatedbackpacks:upgrade_base"
+        },
+        {
+            "item": "create:brass_funnel"
+        }
+    ],
+    "result": {
+        "item": "sophisticatedbackpacks:advanced_restock_upgrade"
+    }
+}

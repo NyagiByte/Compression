@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "sophisticatedbackpacks:upgrade_base"
+        },
+        {
+            "item": "ae2:sky_stone_tank"
+        }
+    ],
+    "result": {
+        "item": "sophisticatedbackpacks:tank_upgrade"
+    }
+}

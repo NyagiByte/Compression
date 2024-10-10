@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "sophisticatedbackpacks:upgrade_base"
+        },
+        {
+            "item": "megacells:cell_component_1m"
+        }
+    ],
+    "result": {
+        "item": "sophisticatedbackpacks:stack_upgrade_tier_4"
+    }
+}

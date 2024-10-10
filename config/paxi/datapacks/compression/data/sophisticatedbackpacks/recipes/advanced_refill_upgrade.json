@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "sophisticatedbackpacks:upgrade_base"
+        },
+        {
+            "item": "create:smart_chute"
+        }
+    ],
+    "result": {
+        "item": "sophisticatedbackpacks:advanced_refill_upgrade"
+    }
+}

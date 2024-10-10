@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "sophisticatedbackpacks:upgrade_base"
+        },
+        {
+            "item": "minecraft:anvil"
+        }
+    ],
+    "result": {
+        "item": "sophisticatedbackpacks:anvil_upgrade"
+    }
+}

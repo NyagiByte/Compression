@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "sophisticatedbackpacks:upgrade_base"
+        },
+        {
+            "item": "create:attribute_filter"
+        }
+    ],
+    "result": {
+        "item": "sophisticatedbackpacks:advanced_filter_upgrade"
+    }
+}
