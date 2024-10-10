@@ -5961,32 +5961,124 @@ file = "config/paxi/datapacks/compression/data/quark/recipes/compacting/iron_pla
 hash = "61afd6154fae72237a0e74e02c0d7401ea3fa47e1e162e6ea177bf7702dddbe9"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/advanced_compacting_upgrade.json"
+hash = "0f74597aae6687739ebf5fcb95101e9b1a98df5251f65d38ce165e79788111d4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/advanced_deposit_upgrade.json"
+hash = "7c01d1df7eca53f47320bd230555017c62e664295aae7ab3766fd269bdd7cb4c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/advanced_deposit_upgrade_to_restock.json"
+hash = "061f362a4f7d7a935f919734a8c1d32e4b39514446800dc41ed7644893bf7fdf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/advanced_feeding_upgrade.json"
+hash = "21dc47c35894d0c11018fa0dd9b3470f72829e23be0ad4ea81374dddf87734e6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/advanced_filter_upgrade.json"
+hash = "a9dbd1eead5b9bc8f5b21504eb309fcf583b88e4aa37fd41fba798554a5bcb0d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/advanced_fluid_from_xp_pump_upgrade.json"
+hash = "84f96188e4175e784e42bf59748ae5fbec115cbf3ad47bbc462147e8ab43072c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/advanced_magnet_upgrade.json"
+hash = "716afe8199f3c99fcaf77bd132c1d74ce0191627e90619e06ba93bcae0439d07"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/advanced_pickup_upgrade.json"
+hash = "40613f53e8202d2fad347db78d51926954f1b2d30821b815d5bd88580fa85945"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/advanced_pump_upgrade.json"
+hash = "716187c6a13f8b92c36b8de4d159de12c990f483e5175e5683027a2d64c6cf78"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/advanced_refill_upgrade.json"
+hash = "fdb9a47da6a2b1c3d90e2cee70aa52f78d36922f36c7ca60589d4cd581573b9b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/advanced_restock_upgrade.json"
+hash = "9766bf20cdb0d0f2996be348c99ba413140c0a841ca399019e463ffd58eaa8df"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/advanced_tool_swapper_upgrade_upgrade.json"
+hash = "5c2e514dba1450d8eb94294069688aea26c218e8ff78959de46b1f3e78f2cb17"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/advanced_void_upgrade.json"
+hash = "09162ec00102e23ca743c6265f8eff97d404ee1e0240704731ca122ae70700d8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/anvil_upgrade.json"
+hash = "c04f6498c4ed56e67d1dfe7c70d2eb3b8d77e287fa853cd757ec69a204bb01b2"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/backpack.json"
 hash = "dafac8acf13f77456b907819cedccccef534a938929da6af4ec14552667ebdad"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/battery_upgrade.json"
+hash = "d7635d1d6a752bd5f22f9d982afb7e5016d5fb3504881257c296ab6c01bd6cfe"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/copper_backpack.json"
 hash = "d8f740e004b0151b84de2d6809dd6ab24046d6e0eb8157e4a0c8eb1c4c3fac67"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/crafting_upgrade.json"
+hash = "ddaa84a56c138d65b5e618b985fd8d9ba0d021341a10a44b54d269dd6ed9a552"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/diamond_backpack.json"
 hash = "bd8f516b9cf99e47e4438380e98bc10736d39bc087f37374f9e785976a93965d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/everlasting_upgrade.json"
+hash = "73c8653948bc9cafd270d8b67ca7055adbce4dae973257d50b93c2074c8c6a1b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/gold_backpack.json"
 hash = "49faac6da12dd4af6114e45c77da817ef28e78c77fb07694fcd5a3ce4041b626"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/inception_upgrade.json"
+hash = "be88a947d7d623eb92018a69458de5e33654145e63cbfe3313b49f7ca1890ef6"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/iron_backpack.json"
 hash = "0294ec52abd3931a3e56f70c5880bd134ed230834805e6643d21299962089882"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/jukebox_upgrade.json"
+hash = "4a2d8892f74ef65dba7a73920cd1199a4f35b9cb0cf0384f61be8aa3020041d4"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/netherite_backpack.json"
 hash = "bd2a29aa7bfc7184d6a8fbc4c2516d12bb6dc2e2eb52fa4a3208bd84bfb37186"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/stack_upgrade_tier_4_upgrade.json"
+hash = "6f7fac24bc9740f668413b2024f7a64d5c73ca88197c853bcb6333e92dbbbf94"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/stonecutter_upgrade.json"
+hash = "7bb6f3bc452140fa9889e8838bc1d87e6b9154b73a7d986680e8fab8e9026bde"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/tank_upgrade.json"
+hash = "6139ba0b14b570311b21c2c35aa57004a0eec247e8cb897b0b4b8c1afd49ebb0"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/upgrade_base.json"
 hash = "efa2a3c30e946f6ca2d136a008c34408935199ad69acb28e1009b5f0392218eb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/xp_pump_upgrade.json"
+hash = "3cd2e5327cfcaf78be409819e342fc57f874bbd49f0770b09414d1fbe1d866b5"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/thermal/recipes/device_fisher.json"
@@ -6514,7 +6606,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"
-hash = "90a4359825d5889b04f4d8b6bf36ef1b9a9e17b900b1f582dd02f63c8d77c36b"
+hash = "22578816ad8cbf66226d948e7aad5dec47df80b2d132aba5be7216f766933d85"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
