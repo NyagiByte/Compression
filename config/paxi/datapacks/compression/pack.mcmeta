@@ -1565,7 +1565,17 @@
 		{"namespace": "ftbquests", "path": "recipes/loot_crate_opener.json"},
 
 
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/iron_backpack_from_copper.json"},
 		{"namespace": "sophisticatedbackpacks", "path": "recipes/upgrade_base.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/pickup_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/filter_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/magnet_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/feeding_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/compacting_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/void_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/restock_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/deposit_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/feeding_upgrade.json"},
 
 
 		{"namespace": "phantomsandnightmares", "path": "recipes/insanity_pill.json"},

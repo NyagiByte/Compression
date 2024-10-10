@@ -169,7 +169,17 @@ JEIEvents.hideItems(event => {
     'itemfilters:max_count',
     'itemfilters:strong_nbt',
     'itemfilters:weak_nbt',
-    'itemfilters:custom'
+    'itemfilters:custom',
+    //Sophisticated Backpacks
+    'sophisticatedbackpacks:pickup_upgrade',
+    'sophisticatedbackpacks:filter_upgrade',
+    'sophisticatedbackpacks:magnet_upgrade',
+    'sophisticatedbackpacks:feeding_upgrade',
+    'sophisticatedbackpacks:compacting_upgrade',
+    'sophisticatedbackpacks:void_upgrade',
+    'sophisticatedbackpacks:restock_upgrade',
+    'sophisticatedbackpacks:deposit_upgrade',
+    'sophisticatedbackpacks:refill_upgrade'
 
     
   ])
