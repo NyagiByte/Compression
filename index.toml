@@ -3889,6 +3889,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/furnacing
 hash = "b8a450da43f833222ad23ed71c223234b66d08db3cb47a19b064088b1ed0f8b3"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/arcfurnace/1080_fast.json"
+hash = "16aa98e9fddd29168352c7919a41c00d94ee833f2ebfb3a2daf1ed4f9f6d079d"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/arcfurnace/annealed_glass.json"
 hash = "b33e608055f99e8da995363cc63934700d93d31ff040bc0a164ef703d5a72d94"
 
@@ -6094,7 +6098,7 @@ hash = "676f74acebeedab7174a16ecc9081d256e406c306bc4403416a697cb20b3f24f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "d44bec7ad84f3ae5be59ae5b929e37cd24756908f8ef4d045e9a3556353c4ff7"
+hash = "d11ac1dcc049e58e358ccbea147b00aac8362ca50c20d9b181470cbae0d686f8"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -6510,7 +6514,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"
-hash = "307a0c3f2baad3224fecfc9f8f849c8a1b8a341741700e37eb27d9122f339f60"
+hash = "90a4359825d5889b04f4d8b6bf36ef1b9a9e17b900b1f582dd02f63c8d77c36b"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
