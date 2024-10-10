@@ -1,0 +1,17 @@
+{"type":"immersiveengineering:arc_furnace",
+    "additives":[
+        {
+            "item":"immersiveengineering:ingot_steel"
+        }
+    ],
+            "energy":10000,
+            "input":{
+                "base_ingredient":{
+                    "item":"nyagibits_bytes:flux_mixture"
+                    },"count":2},
+                    "results":[
+                        {
+                        "count":1,
+                        "item":"nyagibits_bytes:steel_high_carbon_1080"
+                        }],
+                            "time":100}
