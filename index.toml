@@ -6318,7 +6318,7 @@ hash = "706436dcba2611ffa657929e011e7a605896a0afd9de032d574b0b227e83b685"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/compression_end_city.nbt"
-hash = "0f80f77823d5dddead4c046579deffe4fe0f32a2165621746e1c380204dc4cee"
+hash = "aa1123e7a2cde0e115fef7fbf622c7822ca4ac4e4401d55785203b30461288ed"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/copper_boulder.nbt"
