@@ -2789,6 +2789,14 @@ file = "config/paxi/datapacks/compression/data/gardenofglass/loot_tables/pebbles
 hash = "9c213a631283125d1123361e069eca8ad2b2e26d3577fba4a917a00883439b6c"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/functions/load.mcfunction"
+hash = "eb79bc5e7e3b17c511d438ae76e62477329f73dbe44043d1adb09a939bcd1437"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/functions/tick.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/arcfurnace/insulated_glass.txt"
 hash = "90e3369d1e66a94c5789a5f1237a9208a52e1d45381e37a24fc8e019b9ae654e"
 
@@ -3229,6 +3237,82 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/refi
 hash = "ab3a8fcf1f4ee5145429a72238d1d468d7173c332447b3d712b9b933205a91d6"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/arcfurnace.nbt"
+hash = "614fce474fc4cd7aae8211c49c0b4b0bf6fa1e65f26b91cf090a80fc5d7ce52f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/assembler.nbt"
+hash = "2f6a1a69615c650a2a3b0d7776e675f951fdac005dde0a58f8b3e3ad9b5c4e4e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/auto_workbench.nbt"
+hash = "4041674a1649bf3cef5d105743615fafbfcd9febe396b0d3f04bdc8d7947072c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/bottling_machine.nbt"
+hash = "e826e3ac93906de80f1da4080616e889fe340550596f2dfa2850d4fe72b4626d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/bucket_wheel.nbt"
+hash = "00a41ab3f87a82aa45ab3ae3a4d58306ba8dc1372e627ca9415f17e77d7917e5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/crusher.nbt"
+hash = "bce75f522dc38d635c0f3647101e10e4291fe23d4563ab702bd4caae8d63e9ee"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/diesel_generator.nbt"
+hash = "9892ba020c51d8255a0dc62573f7a02b57ef596d9f0336544f25c45c10283c81"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/excavator.nbt"
+hash = "ef27fa758a16ba30e6a47ca7098544a9313086c700fac2da38c84e9f1337c17a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/excavator_full.nbt"
+hash = "94cd06b2d1027bafed21cbe4b8b9ae79c56bc88d8e92662733839daf1bad5392"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/fermenter.nbt"
+hash = "d114ea24e515209b97c763f501e0c46f2c6eaa29556cb0ced1390d9b6c24a2e2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/improved_blast_furnace.nbt"
+hash = "e554028f46379e1ce6491b9f7f797f7c90cf4b6c3387b16a0e3483e155776e09"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/lightning_rod.nbt"
+hash = "538ad719ae7afdf3d5ce687791acfa454241d3ead04667f1a91418206b79d17e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/metal_press.nbt"
+hash = "d95024fca461ad06ac9aa675cf7014e72d2e157eba47ebf1500d0864fb5cb865"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/mixer.nbt"
+hash = "18d3cc0db7de4a2a20a0a8e15c4d3c2b8b1e277b1fc9a5b747e57d7a541183ea"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/refinery.nbt"
+hash = "3dc6b3839fe92369926fea85be913e8e4a017e6a739cfc029a1b93d2ade46c42"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/sawmill.nbt"
+hash = "74a6b1efd9ec632af5ba3922818726e642b085339ad6eef1c3c81c7695cb49ef"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/sheetmetal_tank.nbt"
+hash = "59b2a0ff4142f65ebbe210bc2f77778cf2c41d61115896f910e0fa5d993aac45"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/silo.nbt"
+hash = "8e88077564b07799352a5fc66a8df4f761e7b7a527d51c59bd589633a95cdc56"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/squeezer.nbt"
+hash = "64a43dfc1dbd6a290f92465370b254aea76e6626c9b20239142b5947c1767c7a"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/asphalt.json"
 hash = "572701928aeea92822d4f70db7580be0b3e15b8739b8ba748eaa32af5710543a"
 
@@ -3249,8 +3333,40 @@ file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/gas_ge
 hash = "08d28a0f25b6fff6bf2fe948da52cd9963322af218807bd945a43f1efdde4a09"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/reservoirs/aquifer.json"
+hash = "18235e3b25ab4d4f35876835f3489345d9297b6f01b35ed5bbed11fb56862852"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/reservoirs/lava.json"
+hash = "1419827dce9c50763b45ccb06a64d74fc541c718044322cee8360dd78b6a7ebc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/reservoirs/oil.json"
+hash = "54dabab275acdc21e9260311016715f59b4206e52ec4922320376827e6fcc2d8"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/seismic_survey_tool.json"
 hash = "949458015e1503dc5c2788e5947fcca217153d81e1c805cc18d2819cf4ace480"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersivepetroleum/structures/multiblocks/cokerunit.nbt"
+hash = "0f1681fad28831694a75f1d0d42c985bd912c3c3fb2b81c2d5149e72750f2791"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersivepetroleum/structures/multiblocks/derrick.nbt"
+hash = "d9e083dfb1b5237663aa8e43b1d0822480ecb3f45b2dc6a2031bbc5301055735"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersivepetroleum/structures/multiblocks/distillationtower.nbt"
+hash = "0dd08defe4de0649daf0eec8fabec3b253f3788b97e76a16a1591c6ef8eb4ea1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersivepetroleum/structures/multiblocks/hydrotreater.nbt"
+hash = "107a07a2442237575ddcf3e6fdc2c1ef466ad731f8776a7a1634c020e6b0339c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersivepetroleum/structures/multiblocks/pumpjack.nbt"
+hash = "b177185e70539096322232df4ac5bb617600e86e5adf58314f878cce1b1c329d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/mekanism/recipes/creatified/charcoal_dust.json"
