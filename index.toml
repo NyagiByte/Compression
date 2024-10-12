@@ -3233,6 +3233,78 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crus
 hash = "e3211a5a568cbafbe01fc30772452f103b7cc89d1f65109d6a6be5e3eb26edfa"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/ancient_debris.json"
+hash = "86a391e7ce245d7552ad157d69b67ff608ae1960d1b06146e8aad62ced9d46bf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/auricupride.json"
+hash = "96f81f262ec0a903b0745d17d79eecea0c6b4000b24de11f96e12cbcd5515cc7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/beryl.json"
+hash = "55b342e9bff9558c68732084a0bf1e1db11e9ca1a900d7cb07a983c6f65ca67f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/bituminous_coal.json"
+hash = "b0de931353c985158215df8558844919c128d77bbb3f10c18d62a816f0b5d51d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/cassiterite.json"
+hash = "3e99c9c6602f661bb2a19a29f83e2cb2438e62d511353d7c8228b79d84779fc3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/chalcopyrite.json"
+hash = "003b6b2e09dc100b68a56eb0c378586f58d17969348c0d3de5d513157b2107c4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/cinnabar.json"
+hash = "8f2094e5998058d100631ed2dab407b6a83d3fd4d08b67edc05549b73b06a9a9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/cooled_lava_tube.json"
+hash = "a6c97e5961ad58648ceaf040772a064b3a64d0e4760fb60ac076bcbb5e6cb788"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/cooperite.json"
+hash = "32df08a977607ce43d8265df0acae2af63e03bc3b0f0dccfa0f1762229ac5e0f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/galena.json"
+hash = "f6b01a3e18909b0ced563b114a2e3915ae3d9a908db394afd089e9576a699e6a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/igneous_rock.json"
+hash = "136e5a6164604dbd2487df9af51c6b5a205fcd81ae8ff4bb5275d7ddea324c46"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/laterite.json"
+hash = "678281b7ae47bec4c46847c40498e098960b6c76d864902ce373ee53d25d6ba4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/mephitic_quarzite.json"
+hash = "7895778dcc25fa0665ac45f6f3436db4c9a5b071d0802c869347037f2ec025ff"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/nether_silt.json"
+hash = "f930d35cbec997fc2320e4b5710f8b603dd9a38e04663ec614c527a02f08f124"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/pentlandite.json"
+hash = "4ef25feba7de3282f76c152ed8c880cbaf95805734fc7af071ebd0772cee0439"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/silt.json"
+hash = "fc89c5440b2cefa94842f9e189de76e477f8809a72b5d8f5f97bfcc1c35ca0d7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/uraninite.json"
+hash = "2def4adac38a0966f2a93fd6b976b8ecb10df76c37bb0dfb40c81d6c750ddbb6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/wolframite.json"
+hash = "b8d010cc7ef8efe91161badb35b8f5ba4c27675863ec55ee4215bfbc75709e93"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/refinery/chemlib_ethanol_to_acetaldehyde.json"
 hash = "ab3a8fcf1f4ee5145429a72238d1d468d7173c332447b3d712b9b933205a91d6"
 
@@ -3378,11 +3450,11 @@ hash = "0c881faaa2a211c5cf341046ca718267aa3df9f47192f9ab30567455f78a0579"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/dimension_type/overworld.json"
-hash = "f7ca4ba05585c32c129b08ba1c49cd4e57cfcab2314083866956a97b13a6635f"
+hash = "ea9b7ac46af8993910e6c93e7a540a9e3bb82188cb41e4d4a4f260d0fad1ac5b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/dimension_type/overworld_caves.json"
-hash = "a8ba6f9002fb9e52a0cc0a403544634ca3298baec89efe084f6e07905e7a7b26"
+hash = "00ffb1a9b439197582f40439cf4201c436e654bf07886dac607149cd1f45feeb"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/loot_tables/blocks/grass.json"
