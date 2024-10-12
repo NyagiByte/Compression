@@ -3326,7 +3326,7 @@ hash = "e826e3ac93906de80f1da4080616e889fe340550596f2dfa2850d4fe72b4626d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/bucket_wheel.nbt"
-hash = "00a41ab3f87a82aa45ab3ae3a4d58306ba8dc1372e627ca9415f17e77d7917e5"
+hash = "24e96c805c32d9b0d6199f865bc8ec9bfe438488b76a0d944c0279fc56744615"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/crusher.nbt"
@@ -3338,15 +3338,15 @@ hash = "9892ba020c51d8255a0dc62573f7a02b57ef596d9f0336544f25c45c10283c81"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/excavator.nbt"
-hash = "ef27fa758a16ba30e6a47ca7098544a9313086c700fac2da38c84e9f1337c17a"
+hash = "e87d4e39f765ef7b6b620847d4f3574819874df56c4123615f93f370f59c3d92"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/excavator_full.nbt"
-hash = "94cd06b2d1027bafed21cbe4b8b9ae79c56bc88d8e92662733839daf1bad5392"
+hash = "b1287136a3b2ee3ca2be65420f874dd174239336c04c8dd849f4225d2bbea307"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/fermenter.nbt"
-hash = "d114ea24e515209b97c763f501e0c46f2c6eaa29556cb0ced1390d9b6c24a2e2"
+hash = "6272c9e9ff3f9f1b524dbe13ab77839889089f0c628dd088e7f801cd36ad95bf"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/improved_blast_furnace.nbt"
