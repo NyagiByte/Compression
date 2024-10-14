@@ -157,6 +157,14 @@ file = "config/fancymenu/assets/blackbackground.png"
 hash = "d7da16ca03c4543195c9d6a545d0c7a590067b329ae8527672505d6b9899f52d"
 
 [[files]]
+file = "config/fancymenu/assets/circuit.png"
+hash = "d08672398f32cb6bcc50abef9b1d1b45cb22e3246627c3d11dbb73e323ddadab"
+
+[[files]]
+file = "config/fancymenu/assets/circuit_cpu_on.png"
+hash = "9f303ccb5c3a8e9ef0efbd3abc6ab0fcfae286afe4d4ea69906b141c9f6cd1c0"
+
+[[files]]
 file = "config/fancymenu/assets/compression16.png"
 hash = "02ea842f03585dc58ea0cda0f6c70385b3143bc74b9cead4479c99375047946e"
 
@@ -182,7 +190,7 @@ hash = "803f04994339c9b15cca17b91a260006f1d3811c7ae29a9a93560d83511fff35"
 
 [[files]]
 file = "config/fancymenu/assets/compressionicon.png"
-hash = "4335a99613ea88d722ac5468ce22c2a1a8f2f915b4ebfddfb659e2ee357ad044"
+hash = "b1e3c0eed821bddc9df71a888da034735ad7631c2ee76a98372d518577ff74ad"
 
 [[files]]
 file = "config/fancymenu/assets/compressioniconblackbackground.png"
@@ -297,6 +305,10 @@ file = "config/fancymenu/assets/transparent_picture.png"
 hash = "b144377c58b90f9503cbaedb07f2749be28752ee327165ef29a8e6a2f34d4812"
 
 [[files]]
+file = "config/fancymenu/audio_element_controller_metas.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "65a398463a5358b14798fb9b022d0b0c7ec903b589dc372b26906ef18ad73370"
 
@@ -306,11 +318,11 @@ hash = "dfd6d3496ec3b05e02eb5e399e2c70797d5f099923edb9e1dae2f31cc201b032"
 
 [[files]]
 file = "config/fancymenu/customization/compressionloading.txt"
-hash = "333d7f8b5d27f8af2dbec87f2442c5660155280409fee05dc4d18e8ae00ce989"
+hash = "adac4dc3a1786b25e7a92678af5ea6d8ca91e72e748599e87b292e0e16f3f012"
 
 [[files]]
 file = "config/fancymenu/customization/compressionloading_2.txt"
-hash = "ead53212d56aaa15271feb92dd8142bb66573621e177ac911cc2e2efbd06a44b"
+hash = "2ec047f310dfe6bc3c074f2d909ef6a6462b7eee2020969224e1dd4df5ae1f77"
 
 [[files]]
 file = "config/fancymenu/customization/credits_layout.txt"
@@ -322,7 +334,7 @@ hash = "963512e630bc6d3071318ad677722f418fdf43b1c5dcbc6b2f2d988b0ec252c7"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "9044618db0ddc08e79ef7fec74140999e99fd198eb4e326233b49a5fd216ff13"
+hash = "4b25aee0594b60dda32256f3c089f0bc09df94b836d8299c7aa3c600a67e1a73"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_1.txt"
@@ -330,11 +342,23 @@ hash = "9d3d03585013de3b2cf1b67c9343d0300fecb9321eaec7d48fe0cd73796a83ac"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_2.txt"
-hash = "3763b301454f853ec42836fb81659a6bc83afdcccd4ecd3c581423b87259fac4"
+hash = "656de669e428078c86f762d2f443712479e94dccb4363e77e44e853e71e6abad"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_old.txt"
 hash = "ced1e1cb096e805f2197b4d936b119aff7528aba1f22568cc5be20d3760b1346"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout_old2.txt"
+hash = "ceb5ee7a9df1f5556d7fb632b6663f9d7d8aa09f90c09316d08cbdcdfa78cbcd"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout_testing.txt"
+hash = "767eb53ebc13a84df56e76bea9c8ee5c0a189e2e0ffb926ed2f85a9675f8c749"
+
+[[files]]
+file = "config/fancymenu/dragger_metas.json"
+hash = "eb008c46bb904433f7e96fda6f38843703d7c61f5e02a029135c6c4295f95816"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -346,7 +370,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "5c2978d5f94c91dbbef3f816ddf2ff7254ecd05b0708c65705afa6123ce4fc68"
+hash = "214d9c58c84bb6a174854ae19a9ef72423940e7b47c71f99d34f1503616dc904"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -7512,8 +7536,8 @@ hash = "f2bdada853b7968d2106949fcc1327dd0f445149a75c7e523f9d07c05d6d9fc0"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu_forge_3.1.5_MC_1.19.2.jar"
-hash = "fc8a23da2541d93ddce4c175fa111d8e038a6d0e4bcdcae403a9f399e8030c1e"
+file = "mods/fancymenu_forge_3.3.1_MC_1.19.2.jar"
+hash = "f0d3d73c00b0181355cd392a4495c0e9d50c587cae26993e593f992427e8effb"
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
