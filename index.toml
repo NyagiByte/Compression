@@ -417,6 +417,10 @@ file = "config/ftbquests/quests/chapters/6tier_0.snbt"
 hash = "6dee5a071304fc1ed4480b0f1dba296099a49094bc88dedf406a652d35258135"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/6tier_1.snbt"
+hash = "7d1f5a102e9909d72247369418c25e011aabf481220a9656716a08bcd025da93"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
 hash = "1674d7cb392e6dce4dbb4e53e5adba9881c4b51a3724776558a6f065c665ec38"
 
@@ -438,7 +442,7 @@ hash = "5eaa01737c46ffc31178fbfacbaaf71d9b0492e8a34838f1973905af60636bd4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "e1d9157a205119c572e1754bebdc72cde0da2caf72be1d0f856a96b8ffe8a0be"
+hash = "78338ba5f677084857636543c1cdb58ed511040ba7b3bf2fee0e8b7c478e5a8e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -2457,6 +2461,10 @@ file = "config/paxi/datapacks/compression/data/create/recipes/item_application/c
 hash = "9763cccf4d67b6c3dcde6b2992e90a2e8796dbdd71c0b73bf3b5761c22d520c0"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/item_application/smoke_in_a_bottle.json"
+hash = "d911d2fd2f45dbdd619eb87874695657a726695bdf65a6204de0ff86ccbda1ac"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/item_application/steel_casing_from_brass_casing.json"
 hash = "a9a75008130646e9d428649f04ec2cf8cf7bbbe158a76cf68e71b1fb0fd2ced3"
 
@@ -2799,6 +2807,14 @@ hash = "c697c815e2dd313e2f9f45270da5678056616d678dd71601e84592cceb160643"
 [[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/fluids/ethanol.json"
 hash = "71923bdeb00b0539d230f0e3b31387c186fe94cdbb23ee52a65f29cb2d821280"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/fluids/hydrocarbon_tar.json"
+hash = "d56781787f466eb1051734ccb78ce27d3933314d23ef4bf77b050d3d6485b7b0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/fluids/raw_wood_vinegar.json"
+hash = "dca71e136ed5a6d5e5415c304ae6bf4bc3d656974c3e2044867aecc6ac94a0b5"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/petal_apothecary.json"
@@ -3423,6 +3439,14 @@ hash = "5e2fa76382a5b6c124d4b3a2d983d705926fa148a33f9447a7133db043398399"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/blastfurnace/fuel_petcoke_block.json"
 hash = "b80a949950d84b8ffbfbc92d334a959e8c6a41ac14b06e11b6a8f29e0b382584"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/distillationtower/hydrocarbon_tar.json"
+hash = "3ea8ff7bc54363efa73352e070481f4cd3e170cf0f46157b5f2f6e0e7c5ffe70"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/distillationtower/raw_wood_vinegar.json"
+hash = "527ecf698318043681beefa7a9225d765ded36323991a31a0854e0569747cc3c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/gas_generator.json"
@@ -4063,6 +4087,10 @@ hash = "6149602d3dbf9fe2c7206f343147329c50a9b0f241ecffb2f760b450b37b1b91"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/sterilized_quartz_glass.json"
 hash = "8c813b1af05bc14cf36c83579c4fab22cd5f108d2e947fc235307de6f3e3814c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/sterilized_quartz_glass_t1.json"
+hash = "f97ccecc7d7160713efb68e55fdbe8906e019c442ef87b7111cab6c2edbc371b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/sturdy_tray.json"
