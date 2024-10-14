@@ -1,0 +1,37 @@
+{
+    "type": "immersivepetroleum:distillation",
+    "byproducts": [
+      {
+        "chance": "0.1",
+        "item": "thermal:tar"
+      }
+    ],
+    "energy": 1024,
+    "input": {
+      "amount": 50,
+      "tag": "forge:hydrocarbon_tar"
+    },
+    "results": [
+      {
+        "amount": 30,
+        "fluid": "chemlib:carbon_dioxide_fluid"
+      },
+      {
+        "amount": 15,
+        "fluid": "chemlib:methane_fluid"
+      },
+      {
+        "amount": 5,
+        "fluid": "chemlib:sulfur_dioxide_fluid"
+      },
+      {
+        "amount": 25,
+        "fluid": "immersiveengineering:creosote"
+      },
+      {
+        "amount": 2,
+        "fluid": "immersivepetroleum:crudeoil"
+      }
+    ],
+    "time": 1
+  }

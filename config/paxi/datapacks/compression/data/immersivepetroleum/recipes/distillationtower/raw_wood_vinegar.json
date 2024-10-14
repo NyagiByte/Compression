@@ -1,0 +1,33 @@
+{
+    "type": "immersivepetroleum:distillation",
+    "byproducts": [
+      {
+        "chance": "1",
+        "item": "nyagibits_bytes:wood_ash"
+      }
+    ],
+    "energy": 1024,
+    "input": {
+      "amount": 50,
+      "tag": "forge:raw_wood_vinegar"
+    },
+    "results": [
+      {
+        "amount": 50,
+        "fluid": "chemlib:carbon_dioxide_fluid"
+      },
+      {
+        "amount": 10,
+        "fluid": "nyagibits_bytes:acetone_fluid"
+      },
+      {
+        "amount": 30,
+        "fluid": "nyagibits_bytes:pyroligneous_acid_fluid"
+      },
+      {
+        "amount": 5,
+        "fluid": "nyagibits_bytes:hydrocarbon_tar_fluid"
+      }
+    ],
+    "time": 1
+  }
