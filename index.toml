@@ -6346,15 +6346,15 @@ hash = "38282c39752fb57e17ebc7f540c25e570c30ba3aa00e289338b6cb9b1f9da231"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/curving_press.json"
-hash = "1ba0a5fdcc30b4d83be1e72ce9a5862dd0486870847fce07adefd3cae58492a0"
+hash = "b7e4338709effa112d560299b18548aa6defccedb836f02dff763784ea48cced"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/curving_press_t1.json"
-hash = "ff3ef587c7bd3e293bc2ee5144478606b9309a1696229f2816fc07f5ce63a8a3"
+hash = "dcabbe35f1848b54152c27b806c17e7ccf91ca2a09cf7060dc4d1b0af3f264cf"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/curving_press_t2.json"
-hash = "9fe7a15b36b25721f1048ca52338801e39ce4305cc532c9d992194980e080757"
+hash = "328625587e80f73602786a4501238495b46c3183b91a7e6d91e2168113851713"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/spring_coiling_machine.json"
@@ -6402,7 +6402,7 @@ hash = "676f74acebeedab7174a16ecc9081d256e406c306bc4403416a697cb20b3f24f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "d11ac1dcc049e58e358ccbea147b00aac8362ca50c20d9b181470cbae0d686f8"
+hash = "b5d3efd23d1c2ee3e14e3f7e53bf1f788fc3dccf75d5d87dc76980fd7d9c7f7b"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
