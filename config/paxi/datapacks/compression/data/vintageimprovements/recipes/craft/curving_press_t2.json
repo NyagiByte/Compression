@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shaped",
     "key": {
       "A": {"item":"create:gearbox"},
-      "B": {"item":"vintageimprovements:steel_spring"},
+      "B": {"item":"immersiveengineering:plate_steel"},
       "C": {"item":"nyagibits_bytes:mana_infused_casing"}
     },
     "pattern": [
