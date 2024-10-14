@@ -299,6 +299,16 @@
 
 		{"namespace": "immersiveengineering", "path": "recipes/alloysmelter/insulating_glass.json"},
 
+		{"namespace": "immersiveengineering", "path": "recipes/fermenter/potato.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/fermenter/melon_slice.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/fermenter/sweet_berries.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/fermenter/apple.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/fermenter/sugar_cane.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/fermenter/honey.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/fermenter/glow_berries.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/fermenter/beetroot.json"},
+		{"namespace": "farmersdelight", "path": "recipes/integration/immersiveengineering/fermenter/tomato.json"},
+
 
 
 		{"namespace": "immersivepetroleum", "path": "recipes/toolupgrade_drill_lube.json"},
@@ -1576,6 +1586,25 @@
 		{"namespace": "sophisticatedbackpacks", "path": "recipes/restock_upgrade.json"},
 		{"namespace": "sophisticatedbackpacks", "path": "recipes/deposit_upgrade.json"},
 		{"namespace": "sophisticatedbackpacks", "path": "recipes/feeding_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/blasting_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/blasting_upgrade_from_smelting_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/auto_blasting_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/auto_blasting_upgrade_from_auto_smelting_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/smoking_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/smoking_upgrade_from_smelting_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/auto_smoking_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/auto_smoking_upgrade_from_auto_smelting_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/smelting_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/auto_smelting_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/pump_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/tool_swapper_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/advanced_tool_swapper_upgrade.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/stack_upgrade_starter_tier.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/stack_upgrade_tier_1_from_starter.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/stack_upgrade_tier_1.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/stack_upgrade_tier_2.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/stack_upgrade_tier_3.json"},
+		{"namespace": "sophisticatedbackpacks", "path": "recipes/stack_upgrade_tier_4.json"},
 
 
 		{"namespace": "phantomsandnightmares", "path": "recipes/insanity_pill.json"},
