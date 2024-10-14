@@ -320,6 +320,8 @@
 		{"namespace": "immersivepetroleum", "path": "recipes/hydrotreater/ethylene_plastic.json"},
 		{"namespace": "immersivepetroleum", "path": "recipes/hydrotreater/propylene_plastic.json"},
 
+		{"namespace": "tmted", "path": "recipes/bottling/rich_soil.json"},
+
 
 		{"namespace": "quark", "path": "recipes/tools/crafting/pickarang_heart.json"},
 		{"namespace": "quark", "path": "recipes/automation/crafting/iron_rod.json"},
