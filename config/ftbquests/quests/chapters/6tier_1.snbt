@@ -1,0 +1,123 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6tier_1"
+	group: "1C682695BB4A0B06"
+	icon: "thermal:iron_gear"
+	id: "6B9A8B08F19D24EA"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["37FAB0261BCDF974"]
+			description: [
+				"&dI'm going to beat the modpack author to death&r how am I meant to continuously automate so many of these in parallel"
+				""
+				"Instead of a &6Hint&r this would be a generalized setup that can be adapted towards any recipe using the apothecary:"
+				""
+				"1) You really should only have &bone apothecary per recipe&r. While you can do many recipes in one the &cthroughput on all items becomes lower and ensuring it doesnt choke becomes a lot harder.&r"
+				""
+				"2) A very simple (&bamount of droppers&r = &6amount of items&r + &athe seed/catalyst item&r) &d((as an example, the &epure daisy&d is &64 petals&d + &a1 seed&d so you'd put &b5 droppers&d above the apothecary))&r in a tower above the apothecary would very easily do the job. It's not very elegant but it will do the craft"
+				""
+				"3) Attaching &bcomparators&r to the dispensers and wiring them up to some kind of &btimer&r can ensure the set up doesnt try to craft if any component is missing from the craft"
+			]
+			icon: "botania:apothecary_taiga"
+			id: "6827AA0048A97E41"
+			rewards: [{
+				id: "1938C50AB0776B89"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5F85C83C329DF33D"
+				title: "Splish Splash"
+				type: "checkmark"
+			}]
+			title: "Large Scale Apothecaric Automation"
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["639B2FF66B0FB1B4"]
+			icon: "botania:runic_altar"
+			id: "3614371A174ACFD6"
+			rewards: [{
+				id: "1A8704EC0EABFB0B"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "393EEBCCD2B4DFD2"
+				title: "And don't forget the living rock!"
+				type: "checkmark"
+			}]
+			title: "Infused like an anime protagonist"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["46FF0B8D87309F93"]
+			description: [
+				"You need &eTHINGS&r and you need them in &e\"YES\"&r quantities!"
+				""
+				"These things tend to be &eVERY COMPLEX&r with &eMANY STEPS&r"
+				""
+				"How on earth am &cI&r meant to deal with this?"
+				""
+				"&bTHINK F.A.C.T.O.R.Y.&r"
+				""
+				"&bF&rigure out the &6immediate next thing&r you are able to make given current production"
+				""
+				"&bA&rutomate said product in a way that will let you &6retrofit it in future&r or &6scale in parallel&r"
+				""
+				"&bC&ronnect the set up to the wider arcitecture of your system and &6modulate when that unit should turn on&r"
+				""
+				"&bT&rerminate the thought in your mind that this output is complex, as the &6system is doing it for you now&r, push onto the next task!"
+				""
+				"&bO&rrganize your systems! A spaghetti mess is fine early on but makes tacking on new systems very messy and &6slows down your ability to add more&r"
+				""
+				"&bR&relish in your beautiful creation pumping out the goods"
+				""
+				"&bY&rawn in your boredom and cave into the &6desire for the next thing&r "
+			]
+			icon: "ae2:level_emitter"
+			id: "1675F38D81751F8F"
+			rewards: [{
+				id: "5EE3FFB3CA746A04"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "416539414528BB00"
+				title: "Don't Wait! Level Emitt!"
+				type: "checkmark"
+			}]
+			title: "Think F.A.C.T.O.R.Y."
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"&cWith every passing moment the monumental amount that must be achieved is dwarfed by the swelling of the next moment"
+				""
+				"&cI should take every oportunity possible to &bscale&c as much as is possible"
+			]
+			icon: "ae2:quantum_entangled_singularity"
+			id: "4FD48C7D4421186B"
+			rewards: [{
+				id: "40F2F781C6779E38"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "72F28908C017B3C3"
+				title: "Waiting? ADD MORE"
+				type: "checkmark"
+			}]
+			title: "&cIdle hands lets the task expand"
+			x: 1.0d
+			y: 0.0d
+		}
+	]
+	title: " &6Tier 1"
+}

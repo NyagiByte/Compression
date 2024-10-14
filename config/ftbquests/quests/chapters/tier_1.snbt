@@ -992,7 +992,11 @@
 		}
 		{
 			dependencies: ["64B7C87F4FB6406C"]
-			description: ["Bulk craft those multiblock components! The Factory Must Grow"]
+			description: [
+				"Bulk craft those multiblock components! The Factory Must Grow"
+				""
+				"&bAlso look at the Engineer's Manual! Multiblocks have been changed"
+			]
 			id: "004C5BBDCDBA33BA"
 			rewards: [{
 				id: "39CB250D282DB69C"
@@ -1028,6 +1032,11 @@
 				{
 					id: "47E1F150472FF02F"
 					item: "immersiveengineering:steel_scaffolding_standard"
+					type: "item"
+				}
+				{
+					id: "0B1CBFD5B2693783"
+					item: "immersiveengineering:manual"
 					type: "item"
 				}
 			]
