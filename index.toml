@@ -325,6 +325,10 @@ file = "config/fancymenu/assets/thehandthatmockedthem.apng"
 hash = "cf18916b3eda22e08faf4095ece2681aadefb183dc690957214e67dce4ffccbf"
 
 [[files]]
+file = "config/fancymenu/assets/theskyisscreaminginpain.png"
+hash = "aa6b7b2c9dacfacec933eabb0acef0da705fc076007880a6bef8a1ba63a16ae9"
+
+[[files]]
 file = "config/fancymenu/assets/theskythesky.png"
 hash = "50d039da8ab91ceec9f27edb4c371131ff132abb9ea9dd0871216a42d8fe0e4e"
 
