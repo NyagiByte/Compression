@@ -346,11 +346,15 @@ hash = "dfd6d3496ec3b05e02eb5e399e2c70797d5f099923edb9e1dae2f31cc201b032"
 
 [[files]]
 file = "config/fancymenu/customization/compressionloading.txt"
-hash = "11231f0db11b21f530e1bbc10be2cd8d928828a6717f6f1753ddb006ac461494"
+hash = "f723df93802ddef901fea1e9335de36bd8cdc084ff0de5d45cb85226ab384f64"
 
 [[files]]
 file = "config/fancymenu/customization/compressionloading_2.txt"
-hash = "9da4ee56d20977724967711d7e48cd9af80b684881d69d4510c54fe11f96b2be"
+hash = "c40a899867be3d8554e0f8a0c606a891bed2834338f0eaf37eae48c9b15b8b50"
+
+[[files]]
+file = "config/fancymenu/customization/compressionloading_3.txt"
+hash = "e9a2a69d9ca15f666259ec6505e5818dad73ee1c9f1848fe367ec8d516fae7f6"
 
 [[files]]
 file = "config/fancymenu/customization/credits_layout.txt"
@@ -362,7 +366,7 @@ hash = "836a0695c7f664761dd91da3f5000e2f1711abad40c62943be39ca711c276a84"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "900fd10ffb8ff1275c3bce035f6e72f39216cfbdb44d229ef228cf2404d32fcf"
+hash = "88bbc74df121ebe5e22e5f52b841e51b3b4688056996d30144a8506eaebdc9d2"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_1.txt"
@@ -370,11 +374,11 @@ hash = "cc6e603e69a3997545d0d35de5348994eb708fd76b3c067ea857d6444391620e"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_2.txt"
-hash = "d7c74b99290ad89919eeb042320603947cdf96c5e5f2128c4173131f478d2221"
+hash = "616914759e8c435e8f08de7736f1a5d39a93b512881ad5b8621ecf8924b67eca"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_3.txt"
-hash = "f8cb756d12a2aacaefac9ae5935b1f85f2214d569104f7b9c3b769582589a0da"
+hash = "40c74eb159d45883f4bbfbdedf322b7b05437bf44f438c6d2ce88602d1f1def2"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_old.txt"
