@@ -337,6 +337,46 @@
 			x: -1.0d
 			y: 3.5d
 		}
+		{
+			dependencies: ["472213B0CD3A8117"]
+			description: ["While not used in too much these are vital in creating a &brenewable source of netherrack&r to keep those &esuper heated blazes&r burning!"]
+			id: "355B90FFB344B930"
+			rewards: [{
+				id: "189B87F70BC273F5"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4C34BEBED833B281"
+				item: "minecraft:nether_wart"
+				type: "item"
+			}]
+			title: "Not the human papillomavirus kind of wart"
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["256F108BD683D592"]
+			description: [
+				"While tearing off the skin of your livestock is the primary use case thus far for them, the meat they leave behind keeps piling up! Luckily you can pull the protein out of it to produce &esynthetic ink&r for your pen factory assuming you didnt make a massive squid farm!"
+				""
+				"Most proteins do work it's more that this one is already being generated anyways"
+			]
+			id: "05902482B04370C1"
+			rewards: [{
+				id: "62F17CE0008ECB9A"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "19C15C25485B3BF9"
+				item: "minecraft:beef"
+				type: "item"
+			}]
+			title: "I prefer my steak liquified, medium rare ofc"
+			x: -6.0d
+			y: 4.5d
+		}
 	]
 	subtitle: ["I've been farming for 100 hours"]
 	title: " &aOrganics"
