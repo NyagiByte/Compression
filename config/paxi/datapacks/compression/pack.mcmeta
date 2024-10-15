@@ -515,6 +515,8 @@
 		{"namespace": "create", "path": "recipes/deploying/cogwheel.json"},
 		{"namespace": "create", "path": "recipes/deploying/large_cogwheel.json"},
 
+		{"namespace": "create", "path": "recipes/empty_botania_water_bowl_of_minecraft_water.json"},
+
 		{"namespace": "tesseract", "path": "recipes/tesseract.json"},
 
 		{"namespace": "ae2", "path": "recipes/inscriber/sky_stone_dust.json"},
