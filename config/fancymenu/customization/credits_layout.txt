@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = credits
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1728955107938
+  last_edited_time = 1729032778040
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:93d75a47-3a25-4e06-bb3a-51b4900e33e1-1728954942991] = [groups:][instances:]
+  [loading_requirement_container_meta:26c14760-78e1-4888-9097-1ede5644f957-1729032752982] = [groups:][instances:]
 }
 
 customization {
@@ -79,7 +79,7 @@ element {
 
 element {
   interactable = true
-  source = ^^^%n%# Credits%n%%n%### **Custom Music**%n%%n%*Modest By Default:*%n%%n%[Thank You For Giving So Much](https://modestbydefault.bandcamp.com/track/--238)%n%[Where Do You Hide In The Bright Light](https://modestbydefault.bandcamp.com/track/--239)%n%[The Glorious Experience Of Dying Peacefully](https://modestbydefault.bandcamp.com/track/--240)%n%[Heaven Exists And Is Full Of Poor People](https://modestbydefault.bandcamp.com/track/--243)%n%[Gods Eyes Are Like My Mothers Eyes](https://modestbydefault.bandcamp.com/track/--247)%n%%n%Licensed Under %n%[https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/)%n%%n%*Silicon Transmitter:*%n%%n%[Decay](https://freemusicarchive.org/music/Silicon_Transmitter/decay/decay/)%n%[Compress](https://freemusicarchive.org/music/Silicon_Transmitter/decay/compress/)%n%[Ruin](https://freemusicarchive.org/music/Silicon_Transmitter/decay/ruin/)%n%[Relic #2](https://freemusicarchive.org/music/Silicon_Transmitter/relics/relic-2/)%n%[Relic #4 (version 1)](https://freemusicarchive.org/music/Silicon_Transmitter/relics/relic-4-version-1/)%n%[Relic #4 (version 2)](https://freemusicarchive.org/music/Silicon_Transmitter/relics/relic-4-version-2/)%n%[Relic #6](https://freemusicarchive.org/music/Silicon_Transmitter/relics/relic-6/)%n%[Relic #9](https://freemusicarchive.org/music/Silicon_Transmitter/relics/relic-9/)%n%%n%Licensed Under %n%[https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)%n%%n%### **Custom Sounds**%n%%n%UI_Sound_Submit_1 by joseegn -- [https://freesound.org/s/756269/](https://freesound.org/s/756269/) -- License: Attribution 4.0%n%%n%### **Development**%n%%n%**Lead Dev**%n%%n%Nyagi%n%%n%**Custom Modder Devs**%n%%n%Killerq%n%Barza%n%Roxxane%n%%n%**Supporting Devs**%n%%n%JJFIREBLAST101%n%Flooter%n%%n%**Assistant Devs**%n%%n%Metamourtyline%n%Robusttadpole66%n%Ozymandias%n%SoulRacer85%n%%n%**Language Helpers**%n%%n%Dannymike - Spanish%n%Tralomine - French%n%%n%**Main Menu**%n%%n%Ozymandias%n%%n%**Special Thanks**%n%%n%Chorb & Elocin from the LPS Team%n%Qwek for providing public server access in duckpond%n%Early Access playtesters for finding all the weird bugs%n%^^^
+  source = ^^^%n%# Credits%n%%n%### **Custom Music**%n%%n%*Modest By Default:*%n%%n%[Thank You For Giving So Much](https://modestbydefault.bandcamp.com/track/--238)%n%[Where Do You Hide In The Bright Light](https://modestbydefault.bandcamp.com/track/--239)%n%[The Glorious Experience Of Dying Peacefully](https://modestbydefault.bandcamp.com/track/--240)%n%[Heaven Exists And Is Full Of Poor People](https://modestbydefault.bandcamp.com/track/--243)%n%[Gods Eyes Are Like My Mothers Eyes](https://modestbydefault.bandcamp.com/track/--247)%n%%n%Licensed Under %n%[https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/)%n%%n%*Silicon Transmitter:*%n%%n%[Decay](https://freemusicarchive.org/music/Silicon_Transmitter/decay/decay/)%n%[Compress](https://freemusicarchive.org/music/Silicon_Transmitter/decay/compress/)%n%[Ruin](https://freemusicarchive.org/music/Silicon_Transmitter/decay/ruin/)%n%[Relic #2](https://freemusicarchive.org/music/Silicon_Transmitter/relics/relic-2/)%n%[Relic #4 (version 1)](https://freemusicarchive.org/music/Silicon_Transmitter/relics/relic-4-version-1/)%n%[Relic #4 (version 2)](https://freemusicarchive.org/music/Silicon_Transmitter/relics/relic-4-version-2/)%n%[Relic #6](https://freemusicarchive.org/music/Silicon_Transmitter/relics/relic-6/)%n%[Relic #9](https://freemusicarchive.org/music/Silicon_Transmitter/relics/relic-9/)%n%[Portent](https://freemusicarchive.org/music/Silicon_Transmitter/decay/portent/)%n%%n%Licensed Under %n%[https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)%n%%n%### **Custom Sounds**%n%%n%UI_Sound_Submit_1 by joseegn -- [https://freesound.org/s/756269/](https://freesound.org/s/756269/) -- License: Attribution 4.0%n%%n%UI_Sound_Return_1 by joseegn -- [https://freesound.org/s/756267/](https://freesound.org/s/756267/) -- License: Attribution 4.0%n%%n%### **Development**%n%%n%**Lead Dev**%n%%n%Nyagi%n%%n%**Custom Modder Devs**%n%%n%Killerq%n%Barza%n%Roxxane%n%%n%**Supporting Devs**%n%%n%JJFIREBLAST101%n%Flooter%n%%n%**Assistant Devs**%n%%n%Metamourtyline%n%Robusttadpole66%n%Ozymandias%n%SoulRacer85%n%%n%**Language Helpers**%n%%n%Dannymike - Spanish%n%Tralomine - French%n%%n%**Main Menu**%n%%n%Ozymandias%n%%n%**Special Thanks**%n%%n%Chorb & Elocin from the LPS Team%n%Qwek for providing public server access in duckpond%n%Early Access playtesters for finding all the weird bugs%n%^^^
   source_mode = direct
   shadow = false
   scale = 1.0
@@ -112,7 +112,7 @@ element {
   base_opacity = 1.0
   auto_sizing = false
   auto_sizing_base_screen_width = 2560
-  auto_sizing_base_screen_height = 1440
+  auto_sizing_base_screen_height = 1378
   sticky_anchor = false
   anchor_point = element
   anchor_point_element = 67af8d9d-bd1d-42de-b945-332d0716698a-1724308739243
