@@ -7594,6 +7594,11 @@ hash = "daa755448f98baa9816ba4e267a58628f9d84376eba5ef3e3fe01db57b87f918"
 metafile = true
 
 [[files]]
+file = "mods/finitewater.pw.toml"
+hash = "d5a9bdb3dfba47b9bfefc2d52b28a30012e6b5871cea67f1b6d00dcc3913c11e"
+metafile = true
+
+[[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "807971d207f593d747063f389dd3809b8b82c2aa1e572e87180ab694e67e44de"
 metafile = true
