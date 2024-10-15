@@ -5757,6 +5757,14 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageim
 hash = "611d86c82d381376c49a0cd3cffcc0e5596a655360bb940069b7b8dbcd6128a9"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/origins/origin_layers/origin.json"
+hash = "d4924869a14617f6e6e674d491d378f0d331ad00ea87fa40011ee058398b3c94"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/originsuperpack/origins/entropy.json"
+hash = "4782e3275aa696b7c1071b71d56693dde8c479e2dc979951606e18bcf6d962d7"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/packages/recipes/package_maker.json"
 hash = "8ba543a3cfa114c1595792b619cc7a56130a55b0bceec9df7bd99a29003678e6"
 
@@ -6779,6 +6787,10 @@ hash = "a0458c2f37a07e6b49327894db860899700bc7c4bea4f5f1267156d3020264f3"
 [[files]]
 file = "config/quark-common.toml"
 hash = "3fbadecc2640dd32686dca212c619b62f4d6556118f0d08573117dd6bf8c72e7"
+
+[[files]]
+file = "config/starterkit/kits/Kit_1.txt"
+hash = "29ef0ee4a59de8c2d49f40956634041041c7ab8ea21a36691c57803175f013cd"
 
 [[files]]
 file = "config/yosby/options.txt"
