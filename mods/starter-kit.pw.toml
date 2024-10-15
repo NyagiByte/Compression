@@ -1,0 +1,13 @@
+name = "Starter Kit"
+filename = "starterkit-1.19.2-7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91f7b5b02095ada6d8946c2c57c83f1b180a5ba3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5473394
+project-id = 390717

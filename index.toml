@@ -7456,6 +7456,11 @@ hash = "1e962fcff7e64f2346dddb8567f8e40fa336c45c15ea9cd2b4434ade742ba4db"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "7ee5b611e896a052a9a8a43fd9ba7b369362e80d6dea90d83227dae1ef94548a"
+metafile = true
+
+[[files]]
 file = "mods/compact-crafting.pw.toml"
 hash = "0ac439beb40cdd07119af1083df0653238447c3ffddcfc47838564ba38b532a7"
 metafile = true
@@ -7933,6 +7938,11 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "84b4303c211a5837819e5b88b8d131b659820c59dd8136fb8a69859c29922345"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "0ec62947a4378360d062b218454fb13bbc9c52345444d59ff6e1a889cf0b7355"
 metafile = true
 
 [[files]]
