@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:ingot_steel"},
+      "B": {"item":"minecraft:slime_block"},
+      "C": {"item":"minecraft:sticky_piston"},
+      "D": {"item":"vintageimprovements:steel_spring"}
+    },
+    "pattern": [
+      "ABA",
+      "ACA",
+      "ADA"
+    ],
+    "result": {
+      "count": 1,
+      "item": "supplementaries:spring_launcher"
+    }
+  }

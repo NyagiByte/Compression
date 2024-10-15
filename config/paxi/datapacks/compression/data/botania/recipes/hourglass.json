@@ -14,10 +14,7 @@
       "item": "minecraft:hopper"
     },
     {
-      "item": "create:golden_sheet"
-    },
-    {
-      "item": "create:golden_sheet"
+      "item": "supplementaries:hourglass"
     }
   ],
   "output": {

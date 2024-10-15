@@ -22,6 +22,10 @@
       {
         "chance": 0.75,
         "item": "farmersdelight:rice"
+      },
+      {
+        "chance": 0.05,
+        "item": "supplementaries:flax_seeds"
       }
     ]
   }

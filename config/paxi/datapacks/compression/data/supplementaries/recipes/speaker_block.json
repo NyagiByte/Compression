@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:toolupgrade_revolver_electro"},
+      "B": {"item":"immersiveengineering:treated_wood_horizontal"},
+      "C": {"item":"supplementaries:bellows"},
+      "D": {"item":"botania:cacophonium_block"}
+    },
+    "pattern": [
+      "AAB",
+      "CCD",
+      "BBB"
+    ],
+    "result": {
+      "count": 32,
+      "item": "supplementaries:speaker_block"
+    }
+  }

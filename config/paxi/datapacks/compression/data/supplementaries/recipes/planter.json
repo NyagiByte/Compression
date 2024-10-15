@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"minecraft:dirt"},
+      "B": {"item":"minecraft:bricks"}
+    },
+    "pattern": [
+      "A",
+      "B"
+    ],
+    "result": {
+      "count": 2,
+      "item": "supplementaries:planter"
+    }
+  }

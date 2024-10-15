@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"create:brass_sheet"},
+      "B": {"item":"minecraft:compass"},
+      "C": {"item":"botania:rune_earth"}
+    },
+    "pattern": [
+      " BA",
+      "ACA",
+      " A "
+    ],
+    "result": {
+      "count": 1,
+      "item": "supplementaries:globe"
+    }
+  }

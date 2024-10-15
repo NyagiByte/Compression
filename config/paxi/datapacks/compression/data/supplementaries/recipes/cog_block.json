@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"create:cogwheel"},
+      "B": {"item":"minecraft:copper_block"}
+    },
+    "pattern": [
+      " A ",
+      "ABA",
+      " A "
+    ],
+    "result": {
+      "count": 16,
+      "item": "supplementaries:cog_block"
+    }
+  }
