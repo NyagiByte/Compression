@@ -205,6 +205,10 @@ file = "config/fancymenu/assets/compressionlogoinverted.png"
 hash = "d6731a4fb234a36765f55a517daa9c47e4c0cb6d35be72edd34d21b5d72f7f4b"
 
 [[files]]
+file = "config/fancymenu/assets/compressionlogored.png"
+hash = "cad1670f521ebe9952ae907c84a479bd34eaedf2a71e270c2eeedb4893c198a1"
+
+[[files]]
 file = "config/fancymenu/assets/compressionmultiplayer.png"
 hash = "12cf067131ef307aaa79e19b6f79d9b875eaf850688ecb48943bbcd096ae615b"
 
@@ -241,6 +245,10 @@ file = "config/fancymenu/assets/cursor.png"
 hash = "b17bf9560eebf602b917d2d48d54f02d827d5e0e26d3f6a69bd07ff9e057e285"
 
 [[files]]
+file = "config/fancymenu/assets/cursor1.png"
+hash = "78a2be1683369e913dfd12caacba4a221c5ae1e4ff2c75c4627ff9c7d464fb74"
+
+[[files]]
 file = "config/fancymenu/assets/exit.png"
 hash = "a9ce280f0da2a525ae7da5010c93bb8d6f9793fcdcc55f38b57d9f7552ef3c0b"
 
@@ -269,6 +277,10 @@ file = "config/fancymenu/assets/mechanical_click.ogg"
 hash = "9091b4bcd2465ec9e26509c5b1d8e4ce79bc3c22047d902fb11990212e716d0d"
 
 [[files]]
+file = "config/fancymenu/assets/mechanical_click_2.ogg"
+hash = "52df1edd48174256ba316c1ca5efff51a53bc5d49fe1e93a1a632b9f420595a3"
+
+[[files]]
 file = "config/fancymenu/assets/menu.ogg"
 hash = "b0ad3d8aacb1d86cc10f81607a2b305ee741c18daf77114c1b086540cbaaf0a8"
 
@@ -293,8 +305,16 @@ file = "config/fancymenu/assets/silicontransmittercompress.ogg"
 hash = "f0c8a55124befbbe681f9ef64ddac2f916150f1b2502e5847e800679cf3505fe"
 
 [[files]]
+file = "config/fancymenu/assets/silicontransmitterportent.ogg"
+hash = "286cd6dbf8c0e370b3812c0cda76d02864d4779ed7850acca25a0e6d12c95023"
+
+[[files]]
 file = "config/fancymenu/assets/singleplayer.png"
 hash = "a7655304826e3dafe43836289f45ccfa781876b2b3892a1cfe9e6aff6c7f4346"
+
+[[files]]
+file = "config/fancymenu/assets/skytext2.png"
+hash = "ae5090da67be455634ec17f818adfc9f7516c35cef26658a834a6fdf4482bd7e"
 
 [[files]]
 file = "config/fancymenu/assets/test.apng"
@@ -303,6 +323,10 @@ hash = "53942aa5de56ad7e5766c95777ee632b8c2c1dd532a9b846d60a40449a88ade0"
 [[files]]
 file = "config/fancymenu/assets/thehandthatmockedthem.apng"
 hash = "cf18916b3eda22e08faf4095ece2681aadefb183dc690957214e67dce4ffccbf"
+
+[[files]]
+file = "config/fancymenu/assets/theskythesky.png"
+hash = "50d039da8ab91ceec9f27edb4c371131ff132abb9ea9dd0871216a42d8fe0e4e"
 
 [[files]]
 file = "config/fancymenu/assets/transparent_picture.png"
@@ -322,23 +346,23 @@ hash = "dfd6d3496ec3b05e02eb5e399e2c70797d5f099923edb9e1dae2f31cc201b032"
 
 [[files]]
 file = "config/fancymenu/customization/compressionloading.txt"
-hash = "adac4dc3a1786b25e7a92678af5ea6d8ca91e72e748599e87b292e0e16f3f012"
+hash = "2ac72fe8feefa1decd881bc4f733b7f99b4c66d6576275e55c56bb6d710bb57f"
 
 [[files]]
 file = "config/fancymenu/customization/compressionloading_2.txt"
-hash = "2ec047f310dfe6bc3c074f2d909ef6a6462b7eee2020969224e1dd4df5ae1f77"
+hash = "9da4ee56d20977724967711d7e48cd9af80b684881d69d4510c54fe11f96b2be"
 
 [[files]]
 file = "config/fancymenu/customization/credits_layout.txt"
-hash = "e4629205ee461bb31b42676d105127967704b5116726ece7dfa6c7512aa63e48"
+hash = "9a2579dd7d5695e01d16e15ce94c3716dc2b965bad0c3f8c3adb091c648e4cd8"
 
 [[files]]
 file = "config/fancymenu/customization/menu_music.txt"
-hash = "963512e630bc6d3071318ad677722f418fdf43b1c5dcbc6b2f2d988b0ec252c7"
+hash = "836a0695c7f664761dd91da3f5000e2f1711abad40c62943be39ca711c276a84"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "4a7f63893a30fc2119ca1cf9a9ee8ffe07dde7488e786898523f31cd460f439b"
+hash = "b0b48def9d191b34d960d90225a94cde3c5c703aa1d920ebe335d2400abeecf9"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_1.txt"
@@ -346,7 +370,11 @@ hash = "cc6e603e69a3997545d0d35de5348994eb708fd76b3c067ea857d6444391620e"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_2.txt"
-hash = "1c5fe37b832fff351e51fd3d3eeb4f9882196021169f802ae123a80d53042cbf"
+hash = "d7c74b99290ad89919eeb042320603947cdf96c5e5f2128c4173131f478d2221"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout_3.txt"
+hash = "3fe4dcee13fe62101620926992c5f4bd2d2f00c804b1dce695f79d87ea5c626e"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_old.txt"
