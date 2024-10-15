@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1729034600469
+  last_edited_time = 1729034875289
   is_enabled = false
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:e716d4dd-04c4-41ea-b08a-0bd2d70278cd-1729034561328] = [groups:][instances:]
+  [loading_requirement_container_meta:a3aa2199-151a-493b-8588-0b79c5ffb6c4-1729034875300] = [groups:][instances:]
 }
 
 customization {
@@ -24,7 +24,7 @@ customization {
 }
 
 menu_background {
-  image_path = [source:local]/config/fancymenu/assets/gradient.png
+  image_path = [source:local]/config/fancymenu/assets/theskyisscreaminginpain.png
   slide = false
   repeat_texture = false
   background_type = image
@@ -32,7 +32,7 @@ menu_background {
 
 customization {
   action = backgroundoptions
-  keepaspectratio = false
+  keepaspectratio = true
 }
 
 scroll_list_customization {
@@ -44,54 +44,6 @@ scroll_list_customization {
   repeat_scroll_list_footer_texture = false
 }
 
-element {
-  source = [source:local]/config/fancymenu/assets/compressioneyeloading.png
-  repeat_texture = false
-  nine_slice_texture = false
-  nine_slice_texture_border_x = 5
-  nine_slice_texture_border_y = 5
-  element_type = image
-  instance_identifier = fea51c51-204a-4aa1-96a2-16ae260e2cda-1714579241614
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -579
-  y = -356
-  width = 1156
-  height = 578
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = a4dcafe9-8814-47b3-b4a6-64e6a3bc14a5-1714579241614
-  [loading_requirement_container_meta:a4dcafe9-8814-47b3-b4a6-64e6a3bc14a5-1714579241614] = [groups:][instances:]
-}
-
-element {
-  source = [source:local]/config/fancymenu/assets/oblivion_arrives.png
-  repeat_texture = false
-  nine_slice_texture = false
-  nine_slice_texture_border_x = 5
-  nine_slice_texture_border_y = 5
-  element_type = image
-  instance_identifier = c24ed1fd-c56c-4112-927e-ebbd0181903d-1714580217445
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -337
-  y = 162
-  width = 674
-  height = 74
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = ca160e22-e079-478e-9cd7-ac87ecf05b51-1714580217443
-  [loading_requirement_container_meta:ca160e22-e079-478e-9cd7-ac87ecf05b51-1714580217443] = [groups:][instances:]
-}
-
 vanilla_button {
   button_element_executable_block_identifier = 6103f20d-3c0c-40de-854f-905b09dbe49e-1714578189244
   [executable_block:6103f20d-3c0c-40de-854f-905b09dbe49e-1714578189244][type:generic] = [executables:]
@@ -101,16 +53,24 @@ vanilla_button {
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   navigatable = true
+  widget_active_state_requirement_container_identifier = e0e44901-0a81-4d1d-957c-2e19bc61f7ba-1729034600474
+  [loading_requirement_container_meta:e0e44901-0a81-4d1d-957c-2e19bc61f7ba-1729034600474] = [groups:][instances:]
   element_type = vanilla_button
   instance_identifier = progress_bar
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
-  anchor_point = element
-  anchor_point_element = fea51c51-204a-4aa1-96a2-16ae260e2cda-1714579241614
-  x = 76
-  y = 623
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 2560
+  auto_sizing_base_screen_height = 1440
+  sticky_anchor = false
+  anchor_point = bottom-centered
+  x = -503
+  y = -106
   width = 1007
   height = 19
   stretch_x = false
@@ -134,12 +94,21 @@ vanilla_button {
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   navigatable = true
+  widget_active_state_requirement_container_identifier = ca3ef596-0706-41d3-b247-35767b3095eb-1729034600474
+  [loading_requirement_container_meta:ca3ef596-0706-41d3-b247-35767b3095eb-1729034600474] = [groups:][instances:]
   element_type = vanilla_button
   instance_identifier = mojang_logo
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = vanilla
   x = 280
   y = 270
