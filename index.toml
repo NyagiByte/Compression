@@ -265,6 +265,10 @@ file = "config/fancymenu/assets/gradient2.png"
 hash = "8cd1c08f344089c2e85553175ea7f9ea3e7045658fc0520cafd385e54bbe3a1a"
 
 [[files]]
+file = "config/fancymenu/assets/mechanical_click.ogg"
+hash = "9091b4bcd2465ec9e26509c5b1d8e4ce79bc3c22047d902fb11990212e716d0d"
+
+[[files]]
 file = "config/fancymenu/assets/menu.ogg"
 hash = "b0ad3d8aacb1d86cc10f81607a2b305ee741c18daf77114c1b086540cbaaf0a8"
 
@@ -326,7 +330,7 @@ hash = "2ec047f310dfe6bc3c074f2d909ef6a6462b7eee2020969224e1dd4df5ae1f77"
 
 [[files]]
 file = "config/fancymenu/customization/credits_layout.txt"
-hash = "9528a113de3391b9d59421351ad68f754298626f8a2742bda67c72b7ec04e8ed"
+hash = "e4629205ee461bb31b42676d105127967704b5116726ece7dfa6c7512aa63e48"
 
 [[files]]
 file = "config/fancymenu/customization/menu_music.txt"
@@ -334,7 +338,7 @@ hash = "963512e630bc6d3071318ad677722f418fdf43b1c5dcbc6b2f2d988b0ec252c7"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "4b25aee0594b60dda32256f3c089f0bc09df94b836d8299c7aa3c600a67e1a73"
+hash = "932cf3975dd5e1b45ddbe03143f143422119d407a09f38d449f773a917ff3a1e"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_1.txt"
@@ -426,7 +430,7 @@ hash = "1674d7cb392e6dce4dbb4e53e5adba9881c4b51a3724776558a6f065c665ec38"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"
-hash = "d15de70b447788837de11fe92932ebfbfeadad13e4d2e084ee2ee0ed2901234e"
+hash = "c41810af6d09c0c768c0781318cf24de584c2c1c9c7f33dd58022a8171efb95a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/proficiency.snbt"
@@ -1555,6 +1559,10 @@ hash = "6fd900c8443fca11eeac0819bb7f220424542d76ac2b3823876f17651d018fce"
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/dreadthorn.json"
 hash = "dacf8481b5bb6f86cdd7b36aa7c3dfea5de5ef07ed92232100bad8a12480dd42"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/emergency_wart.json"
+hash = "32d7eaef6c98d7bf6369fcf9d30446510ad19ecd2fe852a2a062fffb0aa98a23"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/endoflame.json"
@@ -5761,6 +5769,10 @@ file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/explosion_
 hash = "b963fe091abe9e6cb0b537dd946ab7975454d468ab31ba9ce8152603956b2f3b"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/explosion_crafting/emergency_blaze_powder.json"
+hash = "10f115f25887af2511031f53e0e60896a26b99726d31c516be25893419e74c6c"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/heat_sink.json"
 hash = "0d9b86f64f5768f49a28937f03a35dbef87a98d46c2679dc28a2e068c46e4bcf"
 
@@ -6351,6 +6363,10 @@ hash = "b70a08e3f756011b4580f4763468fe69d4cb1bfbc35623a5ba015cf8cc6c4260"
 [[files]]
 file = "config/paxi/datapacks/compression/data/thermal/recipes/saw_blade.json"
 hash = "8cc138cc6fca762bdf76cbe9e88959da0e770f0bb4468c6db0bc790325fc028f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/arc_furnace_upgraded/cured_rubber_from_raw_sulfur.json"
+hash = "70a278e3332ec3c81f5289ae72a5c5e8313c585399afdc3bd9d10f1d6e00aef3"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/belt_grinder.json"
