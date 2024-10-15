@@ -5,7 +5,7 @@
       "B": {"item":"minecraft:grass"},
       "C": {"item":"nyagibits_bytes:compacted_soil"},
       "D": {"item":"minecraft:moss_carpet"},
-      "E": {"item":"minecraft:glass_bottle"}
+      "E": {"item":"supplementaries:jar"}
     },
     "pattern": [
       " A ",

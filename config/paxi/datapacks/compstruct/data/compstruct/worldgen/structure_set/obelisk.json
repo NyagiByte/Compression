@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "compstruct:obelisk",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 128,
+        "separation": 127,
+        "salt": 14394132873
+    }
+}

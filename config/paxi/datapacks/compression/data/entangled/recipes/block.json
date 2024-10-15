@@ -1,0 +1,34 @@
+{
+    "type": "botania:runic_altar",
+    "ingredients": [
+      {
+        "item": "botania:red_string_relay"
+      },
+      {
+        "item": "botania:red_string_dispenser"
+      },
+      {
+        "item": "botania:red_string_dispenser"
+      },
+      {
+        "item": "botania:red_string_interceptor"
+      },
+      {
+        "item": "botania:red_string_container"
+      },
+      {
+        "item": "botania:red_string_fertilizer"
+      },
+      {
+        "item": "nyagibits_bytes:steel_casing"
+      },
+      {
+        "item": "botania:rune_mana"
+      }
+    ],
+    "mana": 100000,
+    "output": {
+      "count": 8,
+      "item": "entangled:block"
+    }
+  }

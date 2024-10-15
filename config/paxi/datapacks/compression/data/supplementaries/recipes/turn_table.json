@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"botania:livingwood_planks"},
+      "B": {"item":"create:turntable"},
+      "C": {"item":"minecraft:cobblestone"},
+      "D": {"item":"minecraft:copper_ingot"},
+      "E": {"item":"minecraft:redstone"}
+    },
+    "pattern": [
+      "ABA",
+      "CDC",
+      "CEC"
+    ],
+    "result": {
+      "count": 1,
+      "item": "supplementaries:turn_table"
+    }
+  }

@@ -1,0 +1,53 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:potash"
+      },
+      {
+        "item": "nyagibits_bytes:2_phenoxyethanol"
+      },
+      {
+        "item": "chemlib:triglyceride"
+      },
+      {
+        "item": "supplementaries:ash"
+      },
+      {
+        "item": "supplementaries:ash"
+      },
+      {
+        "item": "supplementaries:ash"
+      },
+      {
+        "item": "supplementaries:ash"
+      },
+      {
+        "item": "supplementaries:ash"
+      },
+      {
+        "item": "supplementaries:ash"
+      },
+      {
+        "item": "supplementaries:ash"
+      },
+      {
+        "item": "supplementaries:ash"
+      },
+      {
+        "amount": 100,
+        "fluid": "immersiveengineering:plantoil"
+      },
+      {
+        "amount": 50,
+        "fluid": "mekanism:brine"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "supplementaries:soap"
+      }
+    ]
+  }

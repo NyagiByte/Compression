@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"botania:livingwood_planks_slab"},
+      "B": {"item":"botania:mana_glass"}
+    },
+    "pattern": [
+      "BAB",
+      "B B",
+      "BBB"
+    ],
+    "result": {
+      "count": 4,
+      "item": "supplementaries:jar"
+    }
+  }

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"create:cogwheel"},
+      "B": {"item":"minecraft:copper_block"},
+      "C": {"item":"projectred_transmission:red_alloy_wire"}
+    },
+    "pattern": [
+      " AC",
+      "ABA",
+      "CA "
+    ],
+    "result": {
+      "count": 64,
+      "item": "supplementaries:cog_block"
+    }
+  }

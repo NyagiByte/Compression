@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"minecraft:white_stained_glass_pane"},
+      "B": {"item":"minecraft:redstone_lamp"},
+      "C": {"item":"minecraft:redstone_torch"}
+    },
+    "pattern": [
+      " A ",
+      "ABA",
+      " C "
+    ],
+    "result": {
+      "count": 1,
+      "item": "supplementaries:redstone_illuminator"
+    }
+  }

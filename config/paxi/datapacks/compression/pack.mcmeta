@@ -325,6 +325,7 @@
 
 		{"namespace": "quark", "path": "recipes/tools/crafting/pickarang_heart.json"},
 		{"namespace": "quark", "path": "recipes/automation/crafting/iron_rod.json"},
+		{"namespace": "quark", "path": "recipes/automation/crafting/feeding_trough.json"},
 
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/cobblestone_furnace.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/mixed_furnace.json"},
@@ -513,6 +514,8 @@
 
 		{"namespace": "create", "path": "recipes/deploying/cogwheel.json"},
 		{"namespace": "create", "path": "recipes/deploying/large_cogwheel.json"},
+
+		{"namespace": "create", "path": "recipes/empty_botania_water_bowl_of_minecraft_water.json"},
 
 		{"namespace": "tesseract", "path": "recipes/tesseract.json"},
 
@@ -1630,12 +1633,18 @@
 		{"namespace": "theoneprobe", "path": "recipes/gold_helmet_probe.json"},
 		{"namespace": "theoneprobe", "path": "recipes/diamond_helmet_probe.json"},
 
+		{"namespace": "supplementaries", "path": "recipes/crank.json"},
+		{"namespace": "supplementaries", "path": "recipes/faucet.json"},
 
 
 
 
 
 
+
+
+		{"namespace": "supplementaries", "path": "recipes/candy.json"},
+		{"namespace": "supplementaries", "path": "recipes/pancake.json"},
 
 		{"namespace": "minecraft", "path": "recipes/bread.json"},
 		{"namespace": "farmersdelight", "path": "recipes/bread_from_smelting.json"},

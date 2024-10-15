@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:hay_block"
+        },
+        {
+            "item": "supplementaries:flax_block"
+        },
+        {
+            "item": "farmersdelight:cabbage_crate"
+        }
+    ],
+    "result": {
+        "count": 6,
+        "item": "supplementaries:fodder"
+    }
+}

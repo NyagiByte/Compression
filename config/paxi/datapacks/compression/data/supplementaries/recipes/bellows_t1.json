@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"tag":"minecraft:wooden_slabs"},
+      "B": {"item":"immersiveengineering:ersatz_leather"}
+    },
+    "pattern": [
+      "AAA",
+      "B B",
+      "AAA"
+    ],
+    "result": {
+      "count": 8,
+      "item": "supplementaries:bellows"
+    }
+  }

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"minecraft:glass"},
+      "B": {"item":"chemlib:gold_plate"}
+    },
+    "pattern": [
+      "ABA",
+      " A ",
+      "ABA"
+    ],
+    "result": {
+      "count": 1,
+      "item": "supplementaries:hourglass"
+    }
+  }

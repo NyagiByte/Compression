@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"create:analog_lever"},
+      "B": {"item":"immersiveengineering:plate_steel"},
+      "C": {"item":"create:display_board"},
+      "D": {"item":"minecraft:amethyst_shard"}
+    },
+    "pattern": [
+      "AB",
+      "CD",
+      "BB"
+    ],
+    "result": {
+      "count": 8,
+      "item": "supplementaries:crystal_display"
+    }
+  }
