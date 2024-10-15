@@ -1,0 +1,12 @@
+{
+    "type": "pneumaticcraft:explosion_crafting",
+    "input": {
+      "item": "minecraft:coal_block"
+    },
+    "loss_rate": 95,
+    "results": [
+      {
+        "item": "minecraft:blaze_powder"
+      }
+    ]
+  }
