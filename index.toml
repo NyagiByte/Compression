@@ -6613,6 +6613,10 @@ file = "config/paxi/datapacks/compstruct/data/compstruct/structures/nickel_bould
 hash = "66523a4f8375b46fe9311d5a8497373230daaa8055208b137a992e1057f49d09"
 
 [[files]]
+file = "config/paxi/datapacks/compstruct/data/compstruct/structures/obelisk.nbt"
+hash = "493c9eab0d2c63b8f729b54a578527eef1c88a65ad4637bd5fd9e816ac9dab70"
+
+[[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/quartz_boulder.nbt"
 hash = "26a071605a86b771ba63ccb0e8c710a804b8ac4d22cb6d0d29ac53d1329812df"
 
@@ -6643,6 +6647,10 @@ hash = "633323ee29327b56381d9471a5b4702142d787f9438b877c6bf4b0412b97e021"
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/tags/worldgen/biome/mangled_nether_fortress.json"
 hash = "ebafcc8216f0d985746b71a122cc28c489e1c467d6ac30a827c6285d3764e357"
+
+[[files]]
+file = "config/paxi/datapacks/compstruct/data/compstruct/tags/worldgen/biome/obelisk.json"
+hash = "2f32977a5a0285745826e4990615ab32cca64ab19940cc6130c70b1076c28c32"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/structure/aluminum_boulder.json"
@@ -6689,6 +6697,10 @@ file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/structure/nick
 hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
 
 [[files]]
+file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/structure/obelisk.json"
+hash = "1507d752b7a1165b0d913f9108234b0b9980f17300e9ef6d2c8ed0897e376acb"
+
+[[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/structure/quartz_boulder.json"
 hash = "5918ac52fc48dc08272f6c1a5f892271b1c81fda571299df24fb9493d21acd3b"
 
@@ -6721,6 +6733,10 @@ file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/structure_set/
 hash = "ada0de911e08fa988944ef8c1d73fbbd4a813dc66c36b645b9c5409c12b81466"
 
 [[files]]
+file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/structure_set/obelisk.json"
+hash = "434a05e170bb6957e7d8485860c4cc5aeef7abe6b1fe5271a41ddbf925b51ff5"
+
+[[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/template_pool/boulders.json"
 hash = "837ebf8c42802d2f762c384ad50115d90e3e15466f7d09c98f3f3d810cd2f045"
 
@@ -6731,6 +6747,10 @@ hash = "ebbf0365290da7865e1524d6744d821d726dbe62dc78cae093ee66336a31661c"
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/template_pool/mangled_nether_fortress.json"
 hash = "94700f818d5f94f20bd6c9fee6ec154f09449302967cde4e46468d6606f40a12"
+
+[[files]]
+file = "config/paxi/datapacks/compstruct/data/compstruct/worldgen/template_pool/obelisk.json"
+hash = "23c15489d3de846ede300be71928a207f3bbefb5fad95027eb7e1d7f3d84cd84"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/pack.mcmeta"
