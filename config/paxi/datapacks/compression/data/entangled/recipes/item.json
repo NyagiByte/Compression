@@ -1,0 +1,25 @@
+{
+    "type": "botania:runic_altar",
+    "ingredients": [
+      {
+        "item": "botania:livingwood_twig"
+      },
+      {
+        "item": "botania:livingwood_twig"
+      },
+      {
+        "item": "botania:red_string"
+      },
+      {
+        "item": "botania:red_string"
+      },
+      {
+        "item": "create:redstone_link"
+      }
+    ],
+    "mana": 10000,
+    "output": {
+      "count": 1,
+      "item": "entangled:item"
+    }
+  }
