@@ -338,23 +338,23 @@ hash = "963512e630bc6d3071318ad677722f418fdf43b1c5dcbc6b2f2d988b0ec252c7"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "932cf3975dd5e1b45ddbe03143f143422119d407a09f38d449f773a917ff3a1e"
+hash = "4a7f63893a30fc2119ca1cf9a9ee8ffe07dde7488e786898523f31cd460f439b"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_1.txt"
-hash = "9d3d03585013de3b2cf1b67c9343d0300fecb9321eaec7d48fe0cd73796a83ac"
+hash = "cc6e603e69a3997545d0d35de5348994eb708fd76b3c067ea857d6444391620e"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_2.txt"
-hash = "656de669e428078c86f762d2f443712479e94dccb4363e77e44e853e71e6abad"
+hash = "1c5fe37b832fff351e51fd3d3eeb4f9882196021169f802ae123a80d53042cbf"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_old.txt"
-hash = "ced1e1cb096e805f2197b4d936b119aff7528aba1f22568cc5be20d3760b1346"
+hash = "b6d5a459ab43ec20b825750e3115578cae15511118f91190255cb0dec5807c48"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_old2.txt"
-hash = "ceb5ee7a9df1f5556d7fb632b6663f9d7d8aa09f90c09316d08cbdcdfa78cbcd"
+hash = "8a73c21aefd36677a5151e850af8ef8e879f2bd303e684ddacf0760b809a15a9"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_testing.txt"
@@ -1266,7 +1266,7 @@ hash = "ea4207073463ecfd50fda20051ef07286adb6a9f3c9919a7b23b75c572855d38"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/hourglass.json"
-hash = "63372afbc73d667e27d4570effcc72f6650bd1da427b8dc301b6986b6a0f2bde"
+hash = "190f6014283c51c3d18614080c6dd9476c5c1db61d3c1368edcbc542f08be829"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/ice_pendant.json"
@@ -1554,7 +1554,7 @@ hash = "e871394c3c33e1415056f2dd7ee320776810e06e3fd093fa256a763af285a683"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/daffomill.json"
-hash = "6fd900c8443fca11eeac0819bb7f220424542d76ac2b3823876f17651d018fce"
+hash = "e8ba3f54369cab5729f90597c1cb291f8eab68ebc704fd65576b99c43b92f62a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/dreadthorn.json"
@@ -1810,7 +1810,7 @@ hash = "04326c1240bf193c8cb701254ae57c0d13629d6d382e9a9273657bf44f63666e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/turntable.json"
-hash = "91d18f2fbc57a16dbf03bc767d35c85c0149b9717a4f330a51936547c1ab74ce"
+hash = "7dfdc997a86c0ce7ec118dd583407b796cb7d359ace8cef96c0bac4eaa3dd95f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/vial.json"
@@ -2519,6 +2519,10 @@ hash = "f939d6848603ae468635b7aa3d0aad9ef8296c7d89a97be9c2a5b1e67d956495"
 [[files]]
 file = "config/paxi/datapacks/compression/data/createchunkloading/recipes/mechanical_crafting/chunk_loader.json"
 hash = "1e742593b9871e9d7abbf68a43ba21b424db435d2d31127309ca09c0c1cff621"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/curious/tags/items/ring.json"
+hash = "b3b8a31b1042a3cd3f40c705261f7217b0c2a037a94855eac4d2e2e91ff90cca"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/farmersdelight/recipes/cutting/ancient_birch_log.json"
@@ -5518,7 +5522,7 @@ hash = "79b1eb58547b856b93aa6e24d38b99e5c2649f1b68a6e486450a5329c8c19659"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assembly_components/terrarium.json"
-hash = "9d69effabcc8baf75cb076e859149711f4a910118987dd763315d01a332a49d2"
+hash = "fcf35096fc3257798ad6815c98cc53b5bfdf911af519aa425a2021d1796fcd50"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assembly_components/tough_bag.json"
@@ -5626,7 +5630,7 @@ hash = "38513e6fab4296a3d468953bb91b4ab53ae18ffa6a7c5915526c8d985beece9f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/mixed_seed_processing/mixed_to_farmers_delight.json"
-hash = "bb238a9765782489751bba35717c3908fe9992f8ce6cd38830d1fbd2d8ef3da1"
+hash = "164bde99e34cbc2e1487b80cb4957fcaca0859e6509e9f906cbe790d3afae6fb"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/mixed_seed_processing/mixed_to_hemp.json"
@@ -6341,6 +6345,106 @@ file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/xp
 hash = "3cd2e5327cfcaf78be409819e342fc57f874bbd49f0770b09414d1fbe1d866b5"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/bellows_t1.json"
+hash = "57eee584e76a13579b7a2f707d67280f99a3a34651b75f1a1587f9837cf99302"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/checker.json"
+hash = "8a835198c78bbe8e7687e7b9106e88f1ade21fb2df74b5e350de6e1040844dea"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/cog_block.json"
+hash = "d0ed4275f1d754572b928d619384c89748c44b6152d3ebb29c48e46bdd31af7a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/cog_block_t1.json"
+hash = "639e837adb72c518dc2fb9405543ce7e76051c346d06b25dc1af73b5714edb53"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/crystal_display.json"
+hash = "69e8e908d4bbcefb7f6cc354834317e75891bf64f89ddf25711ed16930b49744"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/fodder.json"
+hash = "f2ad48cef61562609c5061f10ad71f793cb3ed70f2a4dce0c8d56f71ab7406ce"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/fodder_t1.json"
+hash = "8b28f462e1a317d2422815bdc24327ca732ffa61927adda9215fe3005b825731"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/fodder_t2.json"
+hash = "3c4b202945e791384630e4d00bdabfbc69a147b7813b762c16f010d4aad2046c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/fodder_t3.json"
+hash = "0395950f803bd9e4305d18930ee446e06029f3a826d20863b8da63ea9b33836b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/fodder_t4.json"
+hash = "de6b2a03ed25f7deca414ec65272ac1aebd5979c1d79654c0b31048ccf8ac731"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/globe.json"
+hash = "7d96e9e574d11150287a6a4c40bd145dc56f2dcf0944c5d972f6db7e54c5b9a3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/hourglass.json"
+hash = "1c94629ff96a78b5ff2e65ed461a18f1b6e6280683730fcc810b05e40b0739ed"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/hourglass_t1.json"
+hash = "bc519b484ee9a623ff306c59b1173b56d02ed862b6598a78f56b2a2ab2cc7730"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/jar.json"
+hash = "353a45000da6888e7cf5c1d03af616824eae12588138f353cb3c5262cc0f57de"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/jar_t1.json"
+hash = "c020fe00b13ab87c5731f386dfe2f9aaa6bc2dfc8910ace8f00d7e20f6f8cd64"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/lock_block.json"
+hash = "3ed93388249faea5dabce38be4a10e6929ad5f7d779dd4516024c3e02c4f78b8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/planter.json"
+hash = "9276b493d867242586ee16a3c1b0d2675726ac1ee770e20e89e5fbb03e72b87c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/planter_t1.json"
+hash = "a190a626d559d54a95672e943615b7a99a217878c4b4b9da3fbaa31ef045023f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/redstone_illuminator.json"
+hash = "963c6936fc231589d5abad43499db11ee2731e31fdcffdf4c8e03b1987a7d277"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/relayer.json"
+hash = "c6ca362d2dbe4a8f618a390a51fb00c3d9778b390542a8c7df01847b94e67215"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/sack.json"
+hash = "a400a53594a32785a128fb6a69cb673c63c6ef0e4fc532add4338535ef520fc8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/soap.json"
+hash = "6468ae2ed63f558973e97c2323320fff16dafd2630ad639583273924529ede92"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/speaker_block.json"
+hash = "09711450e46d5dba40fff084bf02c7321d01aa66701b8492457e5c1ac44b90c6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/spring_launcher.json"
+hash = "c2e1e2913cb60d74d088a672c84918e950027e9c6d1a16ba3fcbea7e116e813e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/recipes/turn_table.json"
+hash = "416cfc153c80bf5b8eb36cbc027ab08a2a0cdb9553f2ac2f68f7447c1e5556e5"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/thermal/recipes/device_fisher.json"
 hash = "aaddc3a09d33411c0a956f15e37dafc4de73750c62f1de79846b5d557b2b56aa"
 
@@ -6454,7 +6558,7 @@ hash = "676f74acebeedab7174a16ecc9081d256e406c306bc4403416a697cb20b3f24f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "b5d3efd23d1c2ee3e14e3f7e53bf1f788fc3dccf75d5d87dc76980fd7d9c7f7b"
+hash = "282b02b91e69fecb126a7d1405e3a460cac4dd07832fd3ddb89234cd40fadb8f"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -6629,6 +6733,10 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/resourcepacks/compression/assets/alchemistry/lang/en_us.json"
+hash = "875c00a494c9241a4dcae4f26b35b1e78a1ef1a7c5f07186b92fe1a92f687bcd"
+
+[[files]]
 file = "config/paxi/resourcepacks/compression/assets/create/lang/en_us.json"
 hash = "b6be4ed8bbb5f92ad52eb330e64de8ece85c0337f403eac8b5e829fe5ec5cea4"
 
@@ -6637,12 +6745,20 @@ file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/lang/e
 hash = "b855cce28f7881efa4a959b5aa83dc37489c608532106cf394c329db8266d66b"
 
 [[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/lang/en_us.json"
+hash = "318d3b8d3a70bb158c821961d5fbdac61de5ae9818f9cb4c87f416dba47fe07f"
+
+[[files]]
 file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/material/plate/extreme.png"
 hash = "bf3001889536b828f55fb815d1bcb05ccef54723c1e20d2ccbc73fbfd3986ed5"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/material/plate/thermoconducting.png"
 hash = "5a6339d88bd7fbc00840f52430584b7410188c851b1d4fb219c73e708617ddf1"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/origins/lang/en_us.json"
+hash = "b2af91601b3f6fe13597d7427b2cf9b90d1eeeab4e29c23de63d6725c4bbdcf6"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/sophisticatedbackpacks/lang/en_us.json"
