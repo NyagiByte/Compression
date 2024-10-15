@@ -2525,6 +2525,14 @@ file = "config/paxi/datapacks/compression/data/curios/tags/items/ring.json"
 hash = "b3b8a31b1042a3cd3f40c705261f7217b0c2a037a94855eac4d2e2e91ff90cca"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/entangled/recipes/block.json"
+hash = "fe6f304026a26d62bcffbd7d70288da6d1e9b8c6aedc1143df4141c4c24eb8a1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/entangled/recipes/item.json"
+hash = "fe50a1a029469c95480d0df244061687b100076c95872c0ad5cc0b42e93a0501"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/farmersdelight/recipes/cutting/ancient_birch_log.json"
 hash = "f447cff40be4d42ce58ba66e74f132ae150f4cba1bcb24fe85604ea47d48f206"
 
@@ -6558,7 +6566,7 @@ hash = "676f74acebeedab7174a16ecc9081d256e406c306bc4403416a697cb20b3f24f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "282b02b91e69fecb126a7d1405e3a460cac4dd07832fd3ddb89234cd40fadb8f"
+hash = "b1ccb30a613dbb3309f743da652c405496f6d8d50c922cfe4deec133f464786f"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
