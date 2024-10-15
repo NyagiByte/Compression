@@ -1,0 +1,6 @@
+{
+    "replace": true,
+    "origins": [
+        "originsuperpack:entropy"
+    ]
+}
