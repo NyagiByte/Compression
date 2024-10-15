@@ -1,0 +1,17 @@
+{"type":"immersiveengineering:arc_furnace",
+    "additives":[
+        {
+            "item":"thermal:rubber"
+        }
+    ],
+            "energy":51200,
+            "input":{
+                "base_ingredient":{
+                    "item":"chemlib:sulfur"
+                    },"count":2},
+                    "results":[
+                        {
+                        "count":4,
+                        "item":"thermal:cured_rubber"
+                        }],
+                            "time":100}
