@@ -2557,6 +2557,10 @@ file = "config/paxi/datapacks/compression/data/createchunkloading/recipes/mechan
 hash = "1e742593b9871e9d7abbf68a43ba21b424db435d2d31127309ca09c0c1cff621"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/curios/functions/tick.mcfunction"
+hash = "1c273147d323349f7495d0c612d50d22fb6947bbb86aa2d18fed8b2060533082"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/curios/tags/items/ring.json"
 hash = "b3b8a31b1042a3cd3f40c705261f7217b0c2a037a94855eac4d2e2e91ff90cca"
 
@@ -3711,6 +3715,10 @@ hash = "a5ca61f77db030ad0e5b0fab479cf72a846952ae52e2b256b9e40ea4e61204fe"
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/yellow_concrete_powder.json"
 hash = "1ed80e30a06146320669258325d27f8d14a4828e836000496ae67caf2e380bc5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/tags/functions/tick.json"
+hash = "7181983036461306d27c95f652c825c3f1409b72888a77ddac8a21f45a0bd3dd"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/mythicbotany/recipes/mythicbotany_infusion/alfsteel_ingot.json"
