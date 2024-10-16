@@ -2558,7 +2558,7 @@ hash = "1e742593b9871e9d7abbf68a43ba21b424db435d2d31127309ca09c0c1cff621"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/curios/functions/tick.mcfunction"
-hash = "1c273147d323349f7495d0c612d50d22fb6947bbb86aa2d18fed8b2060533082"
+hash = "0dada250c47250a583c70ed8bed50214cc79954f47a580dd820d5fb10520e31d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/curios/tags/items/ring.json"
