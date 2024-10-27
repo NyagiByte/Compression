@@ -3721,6 +3721,18 @@ file = "config/paxi/datapacks/compression/data/minecraft/tags/functions/tick.jso
 hash = "7181983036461306d27c95f652c825c3f1409b72888a77ddac8a21f45a0bd3dd"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/worldgen/configured_feature/fossil_coal.json"
+hash = "c6224b7504cc15bb379bdd9fc6e5407f7a475ef604db9b4b7a8cdeff8d114ff0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/worldgen/configured_feature/fossil_diamonds.json"
+hash = "4bf9317cd48a11884371b3dd361eaff01128be291a316765f8020bf6038c8280"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/worldgen/noise_settings/overworld.json"
+hash = "aff2e0702a13a9b6b94a2a7014dcd673a33c0b17c157b0a7af77fbcfc6d6126e"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/mythicbotany/recipes/mythicbotany_infusion/alfsteel_ingot.json"
 hash = "36b65a83158283a35886a4ebe598a4bc911ccc3ff4f3a2fb4c75aa8d25ff5d11"
 
@@ -6977,6 +6989,10 @@ file = "config/quark-common.toml"
 hash = "3fbadecc2640dd32686dca212c619b62f4d6556118f0d08573117dd6bf8c72e7"
 
 [[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "101b2c3afacf80b07df488735591d32e69ada873f399a6ca66bf077ddfee1ec4"
+
+[[files]]
 file = "config/starterkit/kits/Kit_1.txt"
 hash = "29ef0ee4a59de8c2d49f40956634041041c7ab8ea21a36691c57803175f013cd"
 
@@ -6991,6 +7007,10 @@ hash = "f1082ffe895dd0f555f0e7eed5eb00fe6f9e3e890abff9763c649be1c14a1ef2"
 [[files]]
 file = "defaultconfigs/serverconfig/create-server.toml"
 hash = "b4c7394a26bee7e7f41c201a4e7d151e3b9c8719da0ef3945d9ce867c59308de"
+
+[[files]]
+file = "defaultconfigs/sophisticatedbackpacks-server.toml"
+hash = "ee2de8e5c164034e504578220994da6f3b1a4dfc9d427418a4192ae1eb2e7bd4"
 
 [[files]]
 file = "kubejs/README.txt"
