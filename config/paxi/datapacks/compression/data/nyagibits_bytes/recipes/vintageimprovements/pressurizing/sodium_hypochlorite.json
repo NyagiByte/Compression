@@ -1,0 +1,27 @@
+{
+	"type":"vintageimprovements:pressurizing",
+    "heatRequirement": "superheated",
+	"ingredients": [
+		{
+			"fluid": "chemlib:chlorine_fluid",
+			"amount": 125
+		},
+		{
+            "count": 2,
+			"item": "chemlib:sodium_hydroxide"
+		}
+	],
+	"results": [
+		{
+			"item": "nyagibits_bytes:sodium_hypochlorite"
+		},
+		{
+			"item": "mekanism:salt"
+		},
+		{
+			"fluid": "minecraft:water",
+			"amount": 62
+		}
+	],
+	"processingTime": 200
+}

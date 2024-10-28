@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:sand"
+        },
+        {
+            "item": "minecraft:gravel"
+        },
+        {
+            "item": "nyagibits_bytes:volcanic_pumice"
+        }
+    ],
+    "result": {
+        "count": 64,
+        "item": "nyagibits_bytes:crude_abrasive"
+    }
+}

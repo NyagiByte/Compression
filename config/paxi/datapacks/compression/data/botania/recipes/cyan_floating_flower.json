@@ -1,0 +1,23 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "botania:cyan_shiny_flower"
+    },
+    {
+      "item": "botania:mana_pylon"
+    },
+    {
+      "item": "farmersdelight:rich_soil"
+    }
+  ],
+  "output": {
+    "item": "botania:cyan_floating_flower"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

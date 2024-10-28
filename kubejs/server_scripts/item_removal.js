@@ -72,7 +72,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:conjuration_catalyst'});
         e.remove({output: 'botania:terra_plate'});
         e.remove({output: 'botania:alfheim_portal'});
-        e.remove({output: 'botania:mana_pylon'});
         e.remove({output: 'botania:natura_pylon'});
         e.remove({output: 'botania:gaia_pylon'});
         e.remove({output: 'botania:elven_spreader'});

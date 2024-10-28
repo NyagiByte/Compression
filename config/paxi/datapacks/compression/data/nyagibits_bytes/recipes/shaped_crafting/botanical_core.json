@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"botania:manasteel_nugget"},
+      "B": {"item":"immersiveengineering:wirecoil_electrum_ins"},
+      "C": {"item":"nyagibits_bytes:low_voltage_capacitor"},
+      "D": {"item":"nyagibits_bytes:skystone_encrusted_boule"}
+    },
+    "pattern": [
+      " AB",
+      "CDC",
+      "BA "
+    ],
+    "result": {
+        "item": "nyagibits_bytes:botanical_core"
+    }
+  }
