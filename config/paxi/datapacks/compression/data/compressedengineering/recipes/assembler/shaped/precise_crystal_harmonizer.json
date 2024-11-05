@@ -1,0 +1,18 @@
+{
+    "type": "compressedengineering:assembler_shaped",
+    "key": {
+      "A": {"item":"projectred_integration:counter_gate"},
+      "B": {"item":"nyagibits_bytes:low_voltage_capacitor"},
+      "C": {"item":"create:electron_tube"},
+      "D": {"item":"immersiveengineering:phenolic_resin_bucket"}
+    },
+    "pattern": [
+      " A ",
+      "BCB",
+      " D "
+    ],
+    "result": {
+      "count": 4, 
+      "item": "nyagibits_bytes:precise_crystal_harmonizer"
+  }
+  }

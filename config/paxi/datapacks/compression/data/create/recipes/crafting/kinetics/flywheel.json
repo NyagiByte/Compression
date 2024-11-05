@@ -1,0 +1,17 @@
+{
+    "type": "compressedengineering:assembler_shaped",
+    "key": {
+      "A": {"item":"create:brass_block"},
+      "B": {"item":"immersiveengineering:steel_scaffolding_standard"},
+      "C": {"item":"nyagibits_bytes:industrial_gear"}
+    },
+    "pattern": [
+      "ABA",
+      "BCB",
+      "ABA"
+    ],
+    "result": {
+      "count": 1, 
+      "item": "create:flywheel"
+  }
+  }

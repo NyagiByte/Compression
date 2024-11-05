@@ -1,0 +1,17 @@
+{
+    "type": "compressedengineering:assembler_shaped",
+    "key": {
+      "A": {"item":"immersiveengineering:wire_copper"},
+      "B": {"item":"minecraft:chain"},
+      "C": {"item":"nyagibits_bytes:solder_wire"}
+    },
+    "pattern": [
+      "ABA",
+      "BCB",
+      "ABA"
+    ],
+    "result": {
+      "count": 1, 
+      "item": "nyagibits_bytes:mini_faraday_cage"
+  }
+  }

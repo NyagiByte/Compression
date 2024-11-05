@@ -1,0 +1,91 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "create:sturdy_sheet"},
+    "loops": 1,
+    "results": [
+      {
+        "count": 8,
+        "item": "nyagibits_bytes:skystone_shielding"
+    }
+    ],
+    "sequence": [
+    {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "create:sturdy_sheet"
+          },
+          {
+            "item": "nyagibits_bytes:skystone_encrusted_boule"
+          }
+        ],
+        "results": [
+            {
+                "item": "create:sturdy_sheet"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "create:sturdy_sheet"
+          },
+          {
+            "item": "ae2:sky_stone_slab"
+          }
+        ],
+        "results": [
+            {
+                "item": "create:sturdy_sheet"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "create:sturdy_sheet"
+          },
+          {
+            "item": "ae2:sky_dust"
+          }
+        ],
+        "results": [
+            {
+                "item": "create:sturdy_sheet"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "create:sturdy_sheet"
+          },
+          {
+            "item": "chemlib:iron_plate"
+          }
+        ],
+        "results": [
+            {
+                "item": "create:sturdy_sheet"
+            }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "create:sturdy_sheet"
+          }
+        ],
+        "results": [
+          {
+            "item": "create:sturdy_sheet"
+          }  
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "create:sturdy_sheet"}
+  }

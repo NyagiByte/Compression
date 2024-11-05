@@ -1,0 +1,16 @@
+{
+    "type": "compressedengineering:assembler_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:sterilized_quartz_glass"},
+      "B": {"item":"chemlib:mercury_bucket"}
+    },
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "result": {
+      "count": 8, 
+      "item": "nyagibits_bytes:mercury_thermometer"
+  }
+  }

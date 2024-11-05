@@ -1,0 +1,20 @@
+{
+    "type": "compressedengineering:assembler_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:mercury_thermometer"},
+      "B": {"item":"nyagibits_bytes:everburn_tar"},
+      "C": {"item":"immersiveengineering:sheetmetal_steel"},
+      "D": {"item":"nyagibits_bytes:synthetic_mica"},
+      "E": {"item":"botania:mana_bottle"},
+      "F": {"item":"nyagibits_bytes:botanical_core"}
+    },
+    "pattern": [
+      "ABC",
+      "DED",
+      "CFC"
+    ],
+    "result": {
+      "count": 1, 
+      "item": "nyagibits_bytes:mana_bomb_calorimeter"
+  }
+  }

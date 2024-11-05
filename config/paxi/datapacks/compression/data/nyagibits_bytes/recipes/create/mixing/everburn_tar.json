@@ -1,0 +1,29 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:endoflame_mush"
+      },
+      {
+        "item": "nyagibits_bytes:industrial_grade_coke"
+      },
+      {
+        "item": "byg:scoria_stone"
+      },
+      {
+        "amount": 250,
+        "fluid": "nyagibits_bytes:hydrocarbon_tar_fluid"
+      },
+      {
+        "amount": 50,
+        "fluid": "immersivepetroleum:gasoline"
+      }
+    ],
+    "results": [
+      {
+        "count": 8,
+        "item": "nyagibits_bytes:everburn_tar"
+      }
+    ]
+  }

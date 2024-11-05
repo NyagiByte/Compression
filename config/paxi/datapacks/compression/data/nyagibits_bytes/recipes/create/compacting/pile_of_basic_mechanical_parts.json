@@ -1,0 +1,31 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:high_strength_ratio_reducer"
+      },
+      {
+        "item": "nyagibits_bytes:precise_crystal_harmonizer"
+      },
+      {
+        "item": "nyagibits_bytes:mini_faraday_cage"
+      },
+      {
+        "item": "nyagibits_bytes:pile_of_crude_mechanical_parts"
+      },
+      {
+        "item": "nyagibits_bytes:sturdy_box"
+      },
+      {
+        "item": "create:flywheel"
+      },
+      {
+        "item": "immersiveengineering:hammer"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:pile_of_basic_mechanical_parts"
+      }
+    ]
+  }

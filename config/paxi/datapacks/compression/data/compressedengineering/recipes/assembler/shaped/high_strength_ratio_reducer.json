@@ -1,0 +1,20 @@
+{
+    "type": "compressedengineering:assembler_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:hardened_mechanical_bearing"},
+      "B": {"item":"nyagibits_bytes:fasteners"},
+      "C": {"item":"nyagibits_bytes:reinforced_gearbox"},
+      "D": {"item":"immersivepetroleum:lubricant_bucket"},
+      "E": {"item":"nyagibits_bytes:industrial_gear"},
+      "F": {"item":"create:encased_chain_drive"}
+    },
+    "pattern": [
+      "AAB",
+      "CDB",
+      "EFF"
+    ],
+    "result": {
+      "count": 1, 
+      "item": "nyagibits_bytes:high_strength_ratio_reducer"
+  }
+  }

@@ -1,0 +1,37 @@
+{
+  "type": "botania:runic_altar",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:threaded_composite_leather"
+    },
+    {
+      "item": "nyagibits_bytes:sodium_hypochlorite"
+    },
+    {
+      "item": "nyagibits_bytes:rune_binder"
+    },
+    {
+      "item": "nyagibits_bytes:lab_notebook"
+    },
+    {
+      "item": "abyssal_decor:paper_stack"
+    },
+    {
+      "item": "abyssal_decor:paper_stack"
+    },
+    {
+      "item": "abyssal_decor:paper_stack"
+    },
+    {
+      "item": "abyssal_decor:paper_stack"
+    },
+    {
+      "tag": "forge:bookshelves"
+    }
+  ],
+  "mana": 5000,
+  "output": {
+    "count": 1,
+    "item": "nyagibits_bytes:lexicon"
+  }
+}
