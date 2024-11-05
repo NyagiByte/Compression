@@ -365,6 +365,10 @@
 		{"namespace": "byg", "path": "recipes/zelkova_crafting_table.json"},
 		{"namespace": "byg", "path": "recipes/sythian_crafting_table.json"},
 		{"namespace": "byg", "path": "recipes/embur_crafting_table.json"},
+		{"namespace": "byg", "path": "recipes/peat_from_crafting.json"},
+		{"namespace": "byg", "path": "recipes/peat_from_crafting2.json"},
+		{"namespace": "byg", "path": "recipes/scoria_stone_from_crafting.json"},
+		{"namespace": "byg", "path": "recipes/scoria_from_basalt.json"},
 
 		{"namespace": "create", "path": "recipes/crafting/deploying/large_cogwheel.json"},
 		{"namespace": "create", "path": "recipes/crafting/deploying/cogwheel.json"},
