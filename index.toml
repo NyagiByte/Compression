@@ -1986,7 +1986,7 @@ hash = "90ba21b854c3dfd22ff280fa445f7a72a2c6c2de353f68811e4a76df5c144d7b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/compressedengineering/recipes/assembler/shaped/mana_bomb_calorimeter.json"
-hash = "8537d98e4c2b68839554e5e6c2ddea4df1fbc652a5666d9f74a754b534252e72"
+hash = "7520756f309688625b4ad0d7029121931f940d38ff557659dcc8cc3a2d755b36"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/compressedengineering/recipes/assembler/shaped/mercury_thermometer.json"
@@ -8165,7 +8165,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "af9b73ecb97dfd7176eca2ea1d2e3810cfeb5fc39083fe6bbfb81b234cce7c1c"
+hash = "34b80182135f2502a4f1b71a1258a80176a3389c8e59d1f4eb923abd513bfec1"
 
 [[files]]
 file = "mods/oculus.pw.toml"
