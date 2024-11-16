@@ -1981,6 +1981,10 @@ file = "config/paxi/datapacks/compression/data/compressedbotanics/recipes/therma
 hash = "ff0243e2545727e840833395f12fd20d92b750486ff92243c3840d641ebe1d41"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/compressedengineering/recipes/assembler/shaped/basic_material_properties_test.json"
+hash = "9a614308097c8ddd4b194b8d2d65ef343ecee5999efacd242ae7753888ac62cb"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/compressedengineering/recipes/assembler/shaped/high_strength_ratio_reducer.json"
 hash = "90ba21b854c3dfd22ff280fa445f7a72a2c6c2de353f68811e4a76df5c144d7b"
 

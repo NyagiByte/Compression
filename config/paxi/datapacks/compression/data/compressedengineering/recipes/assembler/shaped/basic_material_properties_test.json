@@ -1,0 +1,21 @@
+{
+    "type": "compressedengineering:assembler_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:metamorphic_alloy"},
+      "B": {"item":"nyagibits_bytes:pile_of_basic_mechanical_parts"},
+      "C": {"item":"nyagibits_bytes:chemically_inert_wood"},
+      "D": {"item":"nyagibits_bytes:industrial_composite_plate"},
+      "E": {"item":"nyagibits_bytes:low_voltage_capacitor"},
+      "F": {"item":"nyagibits_bytes:steel_casing"},
+      "G": {"item":"immersiveengineering:logic_circuit"}
+    },
+    "pattern": [
+      "ABA",
+      "CDC",
+      "EFG"
+    ],
+    "result": {
+      "count": 1, 
+      "item": "nyagibits_bytes:basic_material_properties_test"
+  }
+  }
