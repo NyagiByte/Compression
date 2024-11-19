@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "amount": 144,
+        "fluid": "nyagibits_bytes:molten_skystone_fluid"
+      },
+      {
+        "amount": 144,
+        "fluid": "nuclearcraft:iron"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:dense_slag"
+      }
+    ]
+  }
