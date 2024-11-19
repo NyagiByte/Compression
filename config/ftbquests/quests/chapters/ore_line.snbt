@@ -3450,6 +3450,11 @@
 		}
 		{
 			dependencies: ["510C4A6E6F1259B5"]
+			description: [
+				"By making a special polishing liquid, far more crystal can be recovered per crystal. 1 gram of diamonds is like 15 grams"
+				""
+				"&b16 total drops per ore"
+			]
 			id: "4D9B214ADB223440"
 			rewards: [{
 				id: "67BC88A606DFBBDD"
@@ -3458,13 +3463,13 @@
 			}]
 			tasks: [
 				{
-					id: "0B051CC346F1E27F"
-					item: "ftbquests:missing_item"
+					id: "40E455608FAC7D82"
+					item: "nyagibits_bytes:bucket_of_gemstone_polish"
 					type: "item"
 				}
 				{
-					id: "250DB4C4EADA65E8"
-					item: "ftbquests:missing_item"
+					id: "4CFFCB80994DDB98"
+					item: "vintageimprovements:belt_grinder"
 					type: "item"
 				}
 			]
