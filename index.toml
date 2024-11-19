@@ -446,7 +446,7 @@ hash = "acfdb749a28106463b96980100a7e542b0b2bc3f9c9464196e0765a4f1c39061"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "a05c7346da7a93c4aa34a900f321b38439b22c141514a90b5824abadeb4898d5"
+hash = "6a8e15e1dfa078de2b7fb6ed0000c0a54afbdbb7073f0b4ea16e2af1d0785bb7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/6t0_20_8_5_16_18_9_19_15_14.snbt"
@@ -454,7 +454,7 @@ hash = "ffac074e14e40f9c6274b854e7022f28d8a36282c41a62c7db73188c85735576"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/6tier_0.snbt"
-hash = "6dee5a071304fc1ed4480b0f1dba296099a49094bc88dedf406a652d35258135"
+hash = "74c78b35d449f038bc90a947d8912c4cfcab72ce64bca79bf6e78554897e2eab"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/6tier_1.snbt"
@@ -462,7 +462,7 @@ hash = "7d1f5a102e9909d72247369418c25e011aabf481220a9656716a08bcd025da93"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "1674d7cb392e6dce4dbb4e53e5adba9881c4b51a3724776558a6f065c665ec38"
+hash = "645beab38c301d1d0c86141286d4eb2089bbe4aa4e9b72e6ca20a5d568ec05be"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"
@@ -474,7 +474,7 @@ hash = "0b5df6439a69959fc3d237b8bf668007be6a96a6bb81f31c5cabb5cdd0b5cc0d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
-hash = "85e84f9a4bcff2ee21e5e5f498f36d87725884953d766fade73a9a0728672fe7"
+hash = "42599728ad09f9b9a49948de32ab0e17cf5122f22dd021720e64e101be9de22d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
@@ -482,7 +482,7 @@ hash = "5eaa01737c46ffc31178fbfacbaaf71d9b0492e8a34838f1973905af60636bd4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "78338ba5f677084857636543c1cdb58ed511040ba7b3bf2fee0e8b7c478e5a8e"
+hash = "ec4e10c5f107d510e3d9c3f9d1797a5a487e85da49b7c6695ecb46bd75cee023"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -546,7 +546,7 @@ hash = "55a668749c65a2929945b96fdeda9f42caa5ba27713e1ae35fd472f2b74b34f7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome_to_compression.snbt"
-hash = "3a00da2fbf38ced18de56c24ca4397a3c2b81c24cbe9f6d63243a36e67961230"
+hash = "e83917a436122f1848bd24e9faf21615e131661484643034342cf87f6c9da9f0"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -1607,6 +1607,38 @@ hash = "843d76c3266bda26222c5d866754a5b68e805fc6dc59e9ca8b56990076292cec"
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/manaweave_cloth.json"
 hash = "ed0151fa198e8e0a654b8602f19a44fcfc08268d52b6699dfcc227097652acfb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/marimorphosis/metamorphic_desert_stone.json"
+hash = "3b4db4fde6a4520c0ea7473e19478d25391d64b45724bfd84d99eaad7a243510"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/marimorphosis/metamorphic_forest_stone.json"
+hash = "afc21b9e383311ec6545f09f892cd80434ee82c7a79e25d40ced351da3e84551"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/marimorphosis/metamorphic_fungal_stone.json"
+hash = "0750b2ad465cdea9622eeb0f4d7d29620b5b2fc7d58080dff923671d9eeceb32"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/marimorphosis/metamorphic_mesa_stone.json"
+hash = "9db3b9f6c4ca58307fb531e2586778439966364fd188e7b910adf9e9c837112b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/marimorphosis/metamorphic_mountain_stone.json"
+hash = "8a6ab5d67884aa74a3322756e2b4330c6386964c4f415afcb1836b90b6ce4edd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/marimorphosis/metamorphic_plains_stone.json"
+hash = "a9acdee07762557b9fddb9ddaa3cda14c1bf44814422acbc94a3eb182b756614"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/marimorphosis/metamorphic_swamp_stone.json"
+hash = "c2b1541eab99ba1a65d012291a3da7f18dcc10cf812bf2f19a62450ba13d54b9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/marimorphosis/metamorphic_taiga_stone.json"
+hash = "691b8ec1f2fab3f1a40d9f36bbef2413828953ce5f3dde769292b309fb990571"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mining_ring.json"
@@ -3013,6 +3045,10 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blas
 hash = "b42c1b2dc4ebc30f8a1dd837ea48b69b75efc4192ded88f46a4f9207b18f2941"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blastfurnace/calcium_carbonate_cooking.json"
+hash = "1115288604063d1feb13a13adc209245000a4401cca02b083b82ba9a75a840fc"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blastfurnace/fuel_charcoal.json"
 hash = "067f44110b616173395370b4a9f931dd3b6db0ce5bf3f412070e5804a024f1a1"
 
@@ -3845,6 +3881,82 @@ file = "config/paxi/datapacks/compression/data/mythicbotany/recipes/mythicbotany
 hash = "5592861aff28faeed73eb58f71645fd72239ef9b3ee12d1ffcc09e16fcc1b929"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/andesite_conversion_to_tuff.json"
+hash = "be4d9403db1cac304b6985c2a69c0d4edb6aa0144df52b25b8bdc5ac3c90520f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/calcite_conversion_to_diorite.json"
+hash = "1ab2f42ffb33de6018c48e1d0bc49885c0839d014cd9fb8e4457e15eecf26271"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/calcite_conversion_to_talc.json"
+hash = "7d93e2cb2e6afb3b0c40f3ef117e626c2cf5ae7a0477930668822c4153055555"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/deepslate_conversion_to_crying_obsidian.json"
+hash = "0cc792f5fc3f446869c638de1ba16d14b0346882c5caa73abf4755af782a07c8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/deepslate_conversion_to_obsidian.json"
+hash = "d1d49fc2b34264da5a9d457c4a91454faaf8d98b8085eb2bedd2fef745107a3c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/deepslate_conversion_to_smooth_basalt.json"
+hash = "3e7af63ad1741deecf0be065bf9ed93228ba3288ed12505b22fd3cf0b025633b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/diorite_conversion_to_andesite.json"
+hash = "a314bc9d857674ad48800789711ab54259304ccdef72a2cb0618cec0ff217a70"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/diorite_conversion_to_granite.json"
+hash = "3794efacb11536850a59c70c0f6557cba234071cc0552dfb288b08287aef7d40"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/diorite_conversion_to_salt.json"
+hash = "b78319f0fc6b6b0354bd526ee12f1d27fdbd338d4f78d84dfe377c713ab02325"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/dripstone_conversion_to_budding_amethyst.json"
+hash = "c79c7d48e68631058b6dd3b073f08fccb5ec1e0b4bbf308f5317bc3a313f6801"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/dripstone_conversion_to_chipped_budding_quartz.json"
+hash = "2e4e9cac733d3d43eaa76c22a7d049b6d95b28548bd1f444c295dd0fc8b4b213"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/dripstone_conversion_to_limestone.json"
+hash = "70e45c7b91cafd2a3510be3e006552c240302f6a5b37c53010a6890a75beacdb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/granite_conversion_to_dripstone.json"
+hash = "ed0d441837014d530376e85b0a04cf694ab612821f793ff152031da19144363f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/granite_conversion_to_netherrack.json"
+hash = "d735daea95f77d783a561e46ed339c7a3439045b41a49c8a0d228a0415bfc038"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/granite_conversion_to_red_sandstone.json"
+hash = "10c9240a8095a546f8663dc93fe88424170bb4ca3a5bb4286e061a60153222c1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/netherrack_conversion_to_granite.json"
+hash = "c127e8520494e8d41ebe4e33e27ce06b115f7c5849253b738f8bfbecf9f97cdf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/netherrack_conversion_to_scoria.json"
+hash = "b1e82fe12ed7dbd531060a8dd171c13c0970e5cda040a13375253303910ba72d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/tuff_conversion_to_andesite.json"
+hash = "0e2682c966952c593940be21924abb12d3ec3d541807195760000772bc4aad6a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/tuff_conversion_to_deepslate.json"
+hash = "d93147150299bd4aa9dc015d0c01df5c82e0a6f06bef9ac2b2af90cded63ecf6"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/petal_apothecary/components/organic_pseudo_logic.json"
 hash = "8a58c4ce1f02f9514955420d9f822a7b7d7a01fa72cee9028bed4cb1e385d9c1"
 
@@ -4085,6 +4197,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "d0e475c3a64a272d7ee6f5d4a73272c3e5f661fc4156e30b9ac3a7b428ee95a5"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/dense_slag.json"
+hash = "e3527dbba70ce0e1d01795b9a47ea02e00d05c35fb0d5a7425231ad60f89a7c4"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/dinitrotoluene.json"
 hash = "fa084fbb9af2ecc4f58e94e07c8f2de7e6b991f994302730244e19cdb4f16d17"
 
@@ -4095,6 +4211,10 @@ hash = "ce2a9d5523d89f7832ac4c5b2eabea2dfce048a963e0d6eb41011a557b7bfb11"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/everburn_tar.json"
 hash = "de9a7fd3a034e8ed4206ad55bc40b3e2f88dd2157dadbad64e3a40fcf6182bbe"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/gemstone_polish.json"
+hash = "dfd9bc1e808a48e1fdc775af8a97e89d172e644f769f002242971c0b9057e17d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/ink.json"
@@ -4131,6 +4251,10 @@ hash = "a3b2d867938908b2fc08bebf7b5e5fda551b3a41e638f9e1c16ea5d029d87b3b"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/sealant.json"
 hash = "16d2d233a4fbe2f2a8943267900a6e8ff7bd67b181f6eb34b89443a493907e87"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/skystone_encrusted_boule.json"
+hash = "0969ab45b79d5b3b6017f1b6ec00fabc59c138a33fad30ae9083ae895a2a23e0"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/sodium_polyacrylate.json"
