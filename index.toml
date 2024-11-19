@@ -8129,6 +8129,11 @@ hash = "bf80e695ea335a9cf754b49c14851173f26067d48a3fe659b03047208aa3e60a"
 metafile = true
 
 [[files]]
+file = "mods/hungy.pw.toml"
+hash = "fda9b8db813aeb25500f4687732e0f64b37fb8d5b84d8b588a9de0eae64dabe5"
+metafile = true
+
+[[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
 hash = "687f90e3c790276061dc752836ef17323e1c4f0d182d3d5807f07588c50038d9"
 metafile = true
