@@ -8292,6 +8292,11 @@ hash = "3d227a42b3b9083d87953d9b609a1cb73b905a06bebad07d0180775c1ff0cbd4"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "84b4303c211a5837819e5b88b8d131b659820c59dd8136fb8a69859c29922345"
 metafile = true
