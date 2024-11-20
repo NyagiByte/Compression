@@ -8184,6 +8184,11 @@ hash = "aa19f1e147d97a697e4fb84f061db2ad6735ecca27d29ed6c233f8384449c9ee"
 metafile = true
 
 [[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "c5fde73338c062d4105a1434039a3dcc350c1a87d1f8c8e9cb36abb277ba4be5"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "657ae63e2d5f25867c9d179784eaae3b53ff5e1ba31533781b476c93becb5264"
 metafile = true
