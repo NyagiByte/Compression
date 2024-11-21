@@ -110,7 +110,7 @@ hash = "d3e7030c1e712e1d10f07716ac18e6499a6963507e68fd1a74ccdee8fd7c823d"
 
 [[files]]
 file = "config/ae2/common.json"
-hash = "a6e17f32066945fc78ff7f78bcc67b4c80ee3f0cc0282a83670b5188c7b77297"
+hash = "36939687ec2c511616466905afd57e8177796a55cbfa788be30bf3d9afc3f094"
 
 [[files]]
 file = "config/ae2/common.json.bak"
@@ -8303,7 +8303,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "386dded39c442014c30d94b1626f4ceb03f9f43da2db1536de12085ac59ca5a7"
+hash = "eeb9727799aa714350118b0f512095c42de2a3d6c6d0051b21ba31d889f30cae"
 
 [[files]]
 file = "mods/oculus.pw.toml"
