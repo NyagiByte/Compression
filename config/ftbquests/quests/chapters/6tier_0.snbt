@@ -23,8 +23,8 @@
 				type: "checkmark"
 			}]
 			title: "The Compressed Iron Puzzle"
-			x: 5.5d
-			y: -3.0d
+			x: -9.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["12057422FF5BBB46"]
