@@ -3881,12 +3881,20 @@ file = "config/paxi/datapacks/compression/data/mythicbotany/recipes/mythicbotany
 hash = "5592861aff28faeed73eb58f71645fd72239ef9b3ee12d1ffcc09e16fcc1b929"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/andesite_conversion_to_skystone_included_andesite.json"
+hash = "0ab3e21e65493192a0de521b6cbaf65843c31dad8f66ee02d90725c5ed146a76"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/andesite_conversion_to_tuff.json"
-hash = "be4d9403db1cac304b6985c2a69c0d4edb6aa0144df52b25b8bdc5ac3c90520f"
+hash = "46093c22f478442f6ac9f131456af241e8a4efbc65a777dd393cad9f333cf6f6"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/calcite_conversion_to_diorite.json"
 hash = "1ab2f42ffb33de6018c48e1d0bc49885c0839d014cd9fb8e4457e15eecf26271"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/calcite_conversion_to_gypsum.json"
+hash = "6993ea3b40f43f006fd6a45a5b3b308210f036e1bd39ccc5785c451bc7826b47"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/calcite_conversion_to_talc.json"
@@ -3955,6 +3963,10 @@ hash = "0e2682c966952c593940be21924abb12d3ec3d541807195760000772bc4aad6a"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/tuff_conversion_to_deepslate.json"
 hash = "d93147150299bd4aa9dc015d0c01df5c82e0a6f06bef9ac2b2af90cded63ecf6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/marimorphosis/tuff_conversion_to_volcanic_pumice_block.json"
+hash = "0e99e6f19cd9dbbce3431195b922fba89dd510759bccbc38ab6da0493abce0cf"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/petal_apothecary/components/organic_pseudo_logic.json"
@@ -8303,7 +8315,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "eeb9727799aa714350118b0f512095c42de2a3d6c6d0051b21ba31d889f30cae"
+hash = "bc5588fb9df37e9891f2638f900bb1234ed1600f604a8fb8a1306a601c2aad39"
 
 [[files]]
 file = "mods/oculus.pw.toml"
