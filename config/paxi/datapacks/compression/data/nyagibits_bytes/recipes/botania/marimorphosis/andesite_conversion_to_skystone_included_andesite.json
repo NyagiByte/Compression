@@ -1,14 +1,14 @@
 {
     "type": "botania:marimorphosis",
     "biome_bonus": 11,
-    "biome_bonus_tag": "minecraft:metamorphic_forest_stone",
+    "biome_bonus_tag": "minecraft:metamorphic_plains_stone",
     "input": {
       "type": "block",
       "block": "minecraft:andesite"
     },
     "output": {
       "type": "block",
-      "block": "minecraft:tuff"
+      "block": "nyagibits_bytes:skystone_melt_included_andesite"
     },
-    "weight": 4
+    "weight": 1
   }
