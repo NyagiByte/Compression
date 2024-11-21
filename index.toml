@@ -553,6 +553,10 @@ file = "config/ftbquests/quests/data.snbt"
 hash = "8478c60f8a6d27bb200a6984e6fcd8e4f44eb4a8240e9d5fc786c535afb8f1af"
 
 [[files]]
+file = "config/hungy_config.json"
+hash = "3731bd39727bbc6f6257b01fcabd60babe958f3623b4e547809e7ab5e0b8d34b"
+
+[[files]]
 file = "config/packtweaker-common.toml"
 hash = "2f9032b38c0d562bcbf977a75b8d77e31de701871c8e96c2e3421e57979b8a96"
 
