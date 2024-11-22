@@ -4341,6 +4341,14 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pr
 hash = "58f684dd232085de9542e8199d0216efc5ba237eec0e56e42acc60d7655b4432"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/saw_cutting/bad_aluminum_rod.json"
+hash = "c4e8517ea057dd341c04bfbe08ea0e1831884ee12765e96e6a170baa02c69cf6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/saw_cutting/bad_iron_rod.json"
+hash = "acba8352afec32ceaa4a742bd48e1b68a9dba08ae78cc6c875d243f708c402c6"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/saw_cutting/paper_block_paper.json"
 hash = "27ccb2590daf63e5e4992542c1631074f2fe418032f26fccfb51bbdaa528377e"
 
