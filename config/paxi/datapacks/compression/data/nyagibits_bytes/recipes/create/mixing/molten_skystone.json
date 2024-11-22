@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:skystone_melt_included_andesite"
+      }
+    ],
+    "results": [
+      {
+        "amount": 144,
+        "fluid": "nyagibits_bytes:molten_skystone_fluid"
+      },
+      {
+        "amount": 144,
+        "fluid": "nuclearcraft:iron"
+      }
+    ]
+  }

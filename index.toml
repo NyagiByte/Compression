@@ -4029,6 +4029,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/co
 hash = "ab3cde9e2bb13efee17f247a975bcec7ef9a4cf49077f7fe2c623438952c3151"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/bad_lead_acid_cell.json"
+hash = "712b9a6b2834186fbf7d1d88ee20ca9b1214d73f09c0a20de335cc2e49f34ef0"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/basic_composite_material.json"
 hash = "8da14951687e3b1202c27dba9f2deb28405ac20d1f5dee42a42d009122242ee6"
 
@@ -4087,6 +4091,10 @@ hash = "bb0c6d0e10f696c489c71a731fda7c0678596368bc6cd5848950eb1f5c2166a9"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/used_crude_compression_test.json"
 hash = "cb34aea80ec033de0cc00f13e88503b790811edcbc38af7a61b130cc35ef2ddc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/used_single_use_mana_ablatives_demonstration.json"
+hash = "a6a1efa43396453556407ff8eda21d6306ea98c4b93c67341107badd0af7a57a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/zga_alloy.json"
@@ -4251,6 +4259,10 @@ hash = "f74a7d238f487fbab525b4e20c0d55501a3fc8e0219212de679012018dde23e8"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/methyl_chloride.json"
 hash = "6f0ae14d969af41944e3c649a88098e553946fded15e0698576d8ae7f5a044c9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/molten_skystone.json"
+hash = "41a65ad24e0f2db7b7c3c1197fd0785d7356c0740d80b6597fb4a49113d87ec2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/mononitrotoluene.json"
@@ -4435,6 +4447,10 @@ hash = "b26e806de2761373b7dfc319bee6913e098330a95c9f43c9d31319546fb03282"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/tiny_spring.json"
 hash = "2edc43f1738fd0c8f612120b152d46fad591dfb55a01c4b981fa408c4bda2607"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/used_basic_material_properties_test.json"
+hash = "cf3c0914b7b6532ad4c6161dbc90e72ddaccf6b4ef646da82a7bd65caf815dbd"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/used_crude_material_properties_test.json"
@@ -6101,6 +6117,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageim
 hash = "03d4a7a273ed8579c763d78cb886e743764933148413ae861556f2bc4966d47d"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/used_mana_bomb_calorimeter.json"
+hash = "034dc34762e666d96725b5c37d0d0f44d4dd71c59f39d7151cc36fd5296d80c2"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/origins/origin_layers/origin.json"
 hash = "d4924869a14617f6e6e674d491d378f0d331ad00ea87fa40011ee058398b3c94"
 
@@ -6555,6 +6575,10 @@ hash = "bab49827dcffe81308dc523c935d806555f8f825543942f0a4c5ddd21d3404f1"
 [[files]]
 file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/yellow_insulated_wire_re_color.json"
 hash = "86744e9bf2d9672b030ed1f633728dab2fbc1f27341282507d44c7e17ebc74e6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/quark/recipes/building/crafting/grate.json"
+hash = "74a6a695ed9ffd19f60a3db9b1099b6a50689ce614eb26136427a77e607ec4d4"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/quark/recipes/building/crafting/iron_plate.json"

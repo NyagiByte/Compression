@@ -1,0 +1,103 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "nyagibits_bytes:basic_material_properties_test"},
+    "loops": 1,
+    "results": [
+      {"item": "nyagibits_bytes:used_basic_material_properties_test"}
+    ],
+    "sequence": [
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:basic_material_properties_test"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:basic_material_properties_test"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:basic_material_properties_test"
+          },
+          {
+            "item": "botania:lens_magnet"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:basic_material_properties_test"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:basic_material_properties_test"
+          },
+          {
+            "item": "nyagibits_bytes:oleum"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:basic_material_properties_test"
+            }
+        ]
+      },
+      {
+          "type": "create:filling",
+          "ingredients": [
+            {
+              "item": "nyagibits_bytes:basic_material_properties_test"
+            },
+            {
+              "amount": 100,
+              "fluid": "chemlib:nitric_acid_fluid",
+              "nbt": {}
+            }
+          ],
+          "results": [
+            {
+              "item": "nyagibits_bytes:basic_material_properties_test"
+            }
+          ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:basic_material_properties_test"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:basic_material_properties_test"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:basic_material_properties_test"
+          },
+          {
+            "item": "nyagibits_bytes:pen"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:basic_material_properties_test"
+            }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:basic_material_properties_test"}
+  }

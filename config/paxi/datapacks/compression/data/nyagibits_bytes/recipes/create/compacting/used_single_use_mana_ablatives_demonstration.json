@@ -1,0 +1,51 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:single_use_mana_ablatives_demonstration"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:used_single_use_mana_ablatives_demonstration"
+      },
+      {
+        "count": 8,
+        "item": "quark:clear_shard"
+      },
+      {
+        "count": 5,
+        "item": "immersiveengineering:plate_steel"
+      },
+      {
+        "chance": 0.05,
+        "count": 1,
+        "item": "botania:lens_mine"
+      },
+      {
+        "chance": 0.2,
+        "count": 1,
+        "item": "nyagibits_bytes:ceramic"
+      },
+      {
+        "chance": 0.3,
+        "count": 1,
+        "item": "botania:rune_mana"
+      },
+      {
+        "chance": 0.1,
+        "count": 1,
+        "item": "botania:prism"
+      },
+      {
+        "chance": 0.35,
+        "count": 1,
+        "item": "ae2:cell_component_1k"
+      },
+      {
+        "chance": 0.80,
+        "count": 3,
+        "item": "botania:livingwood_twig"
+      }
+    ]
+  }
