@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CONTRIBUTING.md"
+hash = "b46d10d81ee783e789478f6ebed1f03405e76f344fe7fdd9fd53d1c5ff9c7e69"
+
+[[files]]
 file = "README.md"
 hash = "f0032bb2e3774c212f26a981dfa4eb82ccdd44e2acc82ba65a5800bbd38f2a2e"
 
@@ -7773,6 +7777,11 @@ hash = "ae8cbf0fe7b220e110932056e448ca4464b689f4d4cf8e2e435fb1acba86908f"
 metafile = true
 
 [[files]]
+file = "mods/carbon-config.pw.toml"
+hash = "0e168e074ab5ea951373d1a8186249f3617f78eb53ef9576c6dd88309efcdb13"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "8bbefdc705e24ebd5d8c2d39de530d3767def3153d8d364d49a93cdc930bddbc"
 metafile = true
@@ -7790,6 +7799,11 @@ metafile = true
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "73b5ea7c9f0ff8ac9d03bc410bfac63aabe43cf44569b288ccae29d74289112e"
+metafile = true
+
+[[files]]
+file = "mods/chunkpregenerator.pw.toml"
+hash = "cc07c618ccefc9a0315e4639697c877954091e81c05a7e3acb2ed1529871f338"
 metafile = true
 
 [[files]]

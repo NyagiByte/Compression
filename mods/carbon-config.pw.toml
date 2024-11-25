@@ -1,0 +1,13 @@
+name = "Carbon Config"
+filename = "CarbonConfig-1.19.2-1.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f01464125cb7e1fd411fadc115ecc477b205112f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5504496
+project-id = 898104
