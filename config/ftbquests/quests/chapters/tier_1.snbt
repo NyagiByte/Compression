@@ -1338,6 +1338,7 @@
 			dependencies: [
 				"6147C880915EF20D"
 				"2D6CEF818A4E4FDD"
+				"6DF5980B895DEEC2"
 			]
 			description: ["A rather energetic core, probably useful for some more arcane constructions"]
 			id: "163ECE113A4F686B"
@@ -1347,8 +1348,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "435C5BDD9427A356"
-				item: "ftbquests:missing_item"
+				id: "35A20FFD1692F737"
+				item: "nyagibits_bytes:botanical_core"
 				type: "item"
 			}]
 			title: "Oh god it keeps zapping me"
@@ -1387,8 +1388,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "38C51E616AB281E2"
-				item: "ftbquests:missing_item"
+				id: "56D443FC14BABE3D"
+				item: "nyagibits_bytes:everburn_tar"
 				type: "item"
 			}]
 			title: "Where is my fire extinguisher?!"
@@ -1514,8 +1515,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "07DE7C1EC2049333"
-				item: "ftbquests:missing_item"
+				id: "6403BF6DF8BC231F"
+				item: "nyagibits_bytes:pile_of_basic_mechanical_parts"
 				type: "item"
 			}]
 			title: "A Thingamabob!"
@@ -1809,7 +1810,7 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "2E14AD15CA6B3C49"
+				id: "733600691E89B5B7"
 				item: "ftbquests:missing_item"
 				type: "item"
 			}]
@@ -1902,8 +1903,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "280D1013C85717B0"
-				item: "ftbquests:missing_item"
+				id: "50E3BD9AB7DFD751"
+				item: "nyagibits_bytes:basic_material_properties_test"
 				type: "item"
 			}]
 			title: "Basic Materials Properties Test"
@@ -2309,8 +2310,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "091E657E3CD46F63"
-				item: "ftbquests:missing_item"
+				id: "55A43DC5FB887F23"
+				item: "nyagibits_bytes:lexicon"
 				type: "item"
 			}]
 			title: "Lexicons"
@@ -2458,7 +2459,7 @@
 		}
 		{
 			dependencies: ["66B145565EE4836D"]
-			description: ["&bPumpjacks, Excavators,&r and &b"]
+			description: ["&bPumpjacks, Excavators,&r and &bCrushers&r can be &eLubricated&r to increase their operating speeds by &d25%!&r"]
 			id: "568F5209A858B9A6"
 			rewards: [{
 				id: "6469156773AC2C5B"

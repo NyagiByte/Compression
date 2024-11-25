@@ -1,0 +1,28 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:smectite_clay"
+      },
+      {
+        "item": "nyagibits_bytes:sodium_hypochlorite"
+      },
+      {
+        "item": "chemlib:calcium_carbonate"
+      },
+      {
+        "amount": 900,
+        "fluid": "minecraft:water"
+      },
+      {
+        "amount": 100,
+        "fluid": "immersivepetroleum:kerosene"
+      }
+    ],
+    "results": [
+      {
+        "amount": 1000,
+        "fluid": "nyagibits_bytes:gemstone_polish_fluid"
+      }
+    ]
+  }

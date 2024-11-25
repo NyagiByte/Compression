@@ -1,0 +1,14 @@
+{
+    "type": "botania:marimorphosis",
+    "biome_bonus": 11,
+    "biome_bonus_tag": "minecraft:metamorphic_desert_stone",
+    "input": {
+      "type": "block",
+      "block": "minecraft:calcite"
+    },
+    "output": {
+      "type": "block",
+      "block": "nyagibits_bytes:gypsum_block"
+    },
+    "weight": 10
+  }

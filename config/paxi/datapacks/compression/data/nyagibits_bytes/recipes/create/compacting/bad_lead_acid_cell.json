@@ -1,0 +1,61 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "chemlib:copper_plate"
+      },
+      {
+        "item": "chemlib:zinc_plate"
+      },
+      {
+        "item": "nyagibits_bytes:chemically_inert_wood"
+      },
+      {
+        "item": "nyagibits_bytes:chemically_inert_wood"
+      },
+      {
+        "item": "nyagibits_bytes:chemically_inert_wood"
+      },
+      {
+        "item": "nyagibits_bytes:chemically_inert_wood"
+      },
+      {
+        "item": "nyagibits_bytes:chemically_inert_wood"
+      },
+      {
+        "item": "nyagibits_bytes:raw_lead_sulphide"
+      },
+      {
+        "item": "nyagibits_bytes:raw_lead_sulphide"
+      },
+      {
+        "item": "nyagibits_bytes:raw_volcanic_sulfur"
+      },
+      {
+        "item": "nyagibits_bytes:raw_volcanic_sulfur"
+      },
+      {
+        "item": "nyagibits_bytes:raw_volcanic_sulfur"
+      },
+      {
+        "item": "nyagibits_bytes:raw_volcanic_sulfur"
+      },
+      {
+        "item": "nyagibits_bytes:raw_volcanic_sulfur"
+      },
+      {
+        "item": "nyagibits_bytes:raw_volcanic_sulfur"
+      },
+      {
+        "item": "nyagibits_bytes:raw_volcanic_sulfur"
+      },
+      {
+        "item": "nyagibits_bytes:raw_volcanic_sulfur"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:lead_acid_cell"
+      }
+    ]
+  }

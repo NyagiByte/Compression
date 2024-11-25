@@ -1,0 +1,10 @@
+{
+    "type":"immersiveengineering:blast_furnace",
+    "input":{
+        "item":"create:limestone"
+            },
+        "result":{
+            "item":"chemlib:calcium_carbonate"
+                 },"slag":{
+                        "item":"chemlib:carbon_dust"
+                          },"time":20}

@@ -9,9 +9,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["18F5C12EAF8B07CB"]
 			description: ["No video provided for this one. TNT is inaccessable in &6Tier 0&r, &da more natural source of combustion is needed"]
-			hide_dependency_lines: true
 			icon: "minecraft:creeper_head"
 			id: "697E50D684D5A997"
 			rewards: [{
@@ -25,18 +23,14 @@
 				type: "checkmark"
 			}]
 			title: "The Compressed Iron Puzzle"
-			x: 0.0d
-			y: 0.0d
+			x: -9.5d
+			y: -4.0d
 		}
 		{
+			dependencies: ["12057422FF5BBB46"]
 			description: ["As a note, the tutorials won't go over how to do create automations that the internal ponder system is able to show. These tabs are for pack specific choke points"]
 			icon: "create:goggles"
 			id: "18F5C12EAF8B07CB"
-			rewards: [{
-				id: "64168845CFE6A695"
-				item: "nyagibits_bytes:tier_zero_strawberry"
-				type: "item"
-			}]
 			tasks: [{
 				id: "70AF4FB1D571ED33"
 				title: "[W] To Ponder!"
@@ -44,7 +38,7 @@
 			}]
 			title: "[W] To Ponder!"
 			x: 0.0d
-			y: -3.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["18F5C12EAF8B07CB"]
@@ -73,8 +67,540 @@
 				type: "checkmark"
 			}]
 			title: "Amazon box delivery chain"
+			x: -9.5d
+			y: -5.0d
+		}
+		{
+			description: [
+				"This tab of quests excluding the &eProficiency&r line, is designed to really get into the weeds with the main &d\"Path To Null\"&r quest line. These quests are entirely ignorable if you are experienced or are willing to scramble your brains a bit &bbut for anyone feeling lost or unsure how to progress&a this is for you!&r"
+				""
+				"No berries will be rewarded &b(outside of more key points)&r but you will be provided with as much context and information as needed. &6Vanilla mechanics will be explained&r, no knowledge assumptions will be made."
+				""
+				"Eventually ponders will be created for most things to reduce reliance on tabbing into the quest book but that is an ongoing project"
+			]
+			icon: "botania:white_shiny_flower"
+			id: "12057422FF5BBB46"
+			rewards: [{
+				id: "13A0AF4994FE63FA"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "2A1C0BE6E27EF35F"
+				title: "&bYou got this"
+				type: "checkmark"
+			}]
+			title: "&dThe Tutorial-Tutorial"
 			x: 0.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["18F5C12EAF8B07CB"]
+			description: [
+				"You made your first &ePure Daisy!&r Horray! But it sure is awfully slow.."
+				""
+				"If you find yourself in this situation just remember: the world is &dbig&r, you can simply &bmake more of them&r"
+			]
+			icon: "botania:overgrowth_seed"
+			id: "4BE7C54B1F7E2DBB"
+			tasks: [{
+				id: "34299759064CD574"
+				title: "And also, dont forget, scale!"
+				type: "checkmark"
+			}]
+			title: "Scale Scale Scale!"
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["4BE7C54B1F7E2DBB"]
+			description: [
+				"You may be tempted to avoid setting up a tree plot this early on. Do not give in to such temptations in this modpack. Without exception &deverything will be needed at scale&r. Get into the mindset when a &enew material is introduced to the chain&r to look to large scale collection or generation"
+				""
+				"In theme with your first collectable, &6wood&r, it may be worth looking for especially large tree yielding saplings"
+			]
+			icon: "byg:willow_sapling"
+			id: "21625928069FF7FA"
+			tasks: [{
+				id: "1CC98EA7493C4FF2"
+				title: "Or do, i'm not your parent"
+				type: "checkmark"
+			}]
+			title: "Do Not Avoid Farms!"
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			dependencies: [
+				"21625928069FF7FA"
+				"4BE7C54B1F7E2DBB"
+			]
+			description: [
+				"The entire concept of mining for resources in Compression has been &cremoved."
+				""
+				"To satisfy early stone demand it may be worth it to multitask and &eflatten terrain for builds&r while collecting stone"
+			]
+			icon: "minecraft:stone"
+			id: "136DCA2889C96A65"
+			tasks: [{
+				id: "2C20D3562CAEB8D5"
+				title: "If you lawn base i'm stealing your kidneys"
+				type: "checkmark"
+			}]
+			title: "Landscaping Pro"
+			x: 0.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["21625928069FF7FA"]
+			description: ["Waiting for sugarcane to grow early game can be rather annoying and soft lock progression on servers. So early game paper just needs bark now! &bI'd recommend doing this in batches of 63 at a time&r"]
+			icon: "farmersdelight:tree_bark"
+			id: "1E28F7EFBEC2EC36"
+			tasks: [{
+				id: "7FA2D464D11AA7F3"
+				title: "haha, thats what a dog says, bark, hah"
+				type: "checkmark"
+			}]
+			title: "Peeling Logs"
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["136DCA2889C96A65"]
+			description: ["Furnace taking forever? Have you considered simply making &dmore&r?"]
+			icon: "minecraft:furnace"
+			id: "27A36AE6319647D5"
+			tasks: [{
+				id: "70CA2F3BB925A06C"
+				title: "Also dont forget the tree farm for charcoal"
+				type: "checkmark"
+			}]
+			title: "Supa' Smelter"
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["1E28F7EFBEC2EC36"]
+			description: ["Paper demand at this point is extremely low and only needed for sand paper. &bA stack or two of paper should last very comfortably up until you can automate it"]
+			icon: "minecraft:paper"
+			id: "0DBAF3F8573D1C7D"
+			tasks: [{
+				id: "707FE4FA1714CEDD"
+				title: "Fold it into a paper plane, no wait dont throw it at those two-"
+				type: "checkmark"
+			}]
+			title: "Technically Edible"
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["27A36AE6319647D5"]
+			description: ["Living rock needs twice smelted cobble? Guess it's time to twice up your furnaces and twice up your cobble ;)"]
+			icon: "minecraft:smooth_stone"
+			id: "036E9DF57584653C"
+			tasks: [{
+				id: "1743F4C83B6774BC"
+				title: "Just make like, a lot at once ok?"
+				type: "checkmark"
+			}]
+			title: "If you do a lot at once, it sucks less"
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["036E9DF57584653C"]
+			description: [
+				"Finally! You can move those misplaced furnaces you slapped down in a hurry"
+				""
+				"Oh and I guess you can finally scout for an &dIron Boulder&r as there are no ores underground"
+			]
+			icon: {
+				Count: 1b
+				id: "aiotbotania:livingrock_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "343ECB22C2C6AB2E"
+			tasks: [{
+				id: "59436FD66E9D1A44"
+				title: "Oh yeah only botania tools"
+				type: "checkmark"
+			}]
+			title: "Chipping Away"
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1800AA593EB0F020"]
+			description: [
+				"Your first beautiful aiot"
+				""
+				"Now, before you scurry off and use it until failure &ait is recommended to use this tool to help you stock up a few more tools&r, just incase yaknow"
+				""
+				"&dShift Right-click to change modes"
+			]
+			icon: {
+				Count: 1b
+				id: "aiotbotania:livingrock_aiot"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "02B7D7FBFBAF0412"
+			tasks: [{
+				id: "55EB901377A47920"
+				title: "This shit look like the battle pass"
+				type: "checkmark"
+			}]
+			title: "You will use this for a while"
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["0DBAF3F8573D1C7D"]
+			description: ["By placing an item in hand and &dsand paper&r in the other hand you can well.. sand (verb) the item"]
+			icon: {
+				Count: 1b
+				id: "create:sand_paper"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "342544B909351001"
+			tasks: [{
+				id: "2445212A48348148"
+				title: "Sanding blocks really messes up the animation lmao"
+				type: "checkmark"
+			}]
+			title: "Omnomnom- wait no thats not.."
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["342544B909351001"]
+			description: ["A singular sand paper is able to yield about &e8&r polished stones. I'd recommend making &ba stack or two&r of these at a time"]
+			icon: "botania:polished_livingrock"
+			id: "21EBC179B83DE39D"
+			tasks: [{
+				id: "5722504F0BC5FACB"
+				title: "you could probably curling stone this"
+				type: "checkmark"
+			}]
+			title: "1 grit smoothness"
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["343ECB22C2C6AB2E"]
+			description: ["Iron! &cI cant wait for every mod to use 7 trillion of it"]
+			icon: "minecraft:iron_ingot"
+			id: "1800AA593EB0F020"
+			tasks: [{
+				id: "33ED2F956DA3DD2B"
+				title: "A star killer.."
+				type: "checkmark"
+			}]
+			title: "The most stable element"
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"21EBC179B83DE39D"
+				"02B7D7FBFBAF0412"
+				"1800AA593EB0F020"
+			]
+			description: [
+				"&bEtched Living Wood!&r While the raw components are very cheap it is rather microcrafty. To aid in early game progression it is recommended that these are made in &ebulk&r and the components made in &ebulk&r. &aWhat is \"in bulk?\"&r, basically instead of crafting enough for 1 item, you craft enough for a stack to have on hand"
+				""
+				"If you are looking to speedrun towards &d24 mechanical assemblers&r &e(being the bare minimum to manually use)&r, that will require &b14 etched living wood&r assuming &czero infrastructure or automation&r so it would be smart to aim for about a stack especially considering how useful &agearboxes&r are"
+			]
+			icon: "nyagibits_bytes:etched_living_wood"
+			id: "07342BD3CA400AA9"
+			tasks: [{
+				id: "0B188CF97EFAF1A3"
+				title: "Wood, but uh, woodier"
+				type: "checkmark"
+			}]
+			title: "Gonna need a lot of these"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["07342BD3CA400AA9"]
+			description: ["The All Powerful &bAndesite Casing&r. This can make all sorts of machines to begin your automation journey. Also like 80% of these will become &egear boxes&r so just get mentally ready for that"]
+			icon: "create:andesite_casing"
+			id: "1D8A454B0BE4AF89"
+			tasks: [{
+				id: "4B62995520C52A92"
+				title: "I'm not joking about the gearboxes"
+				type: "checkmark"
+			}]
+			title: "Your Factory's Bones"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3E7BB1B6448D05B6"]
+			icon: "create:mechanical_press"
+			id: "05C0FBBDDC62201D"
+			tasks: [{
+				id: "283C706FF609A978"
+				type: "checkmark"
+			}]
+			title: "No Saftey Training Video Needed"
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["05C0FBBDDC62201D"]
+			icon: "minecraft:bucket"
+			id: "52DEE1B4C6CC1A19"
+			tasks: [{
+				id: "3F04A8A215AEB90B"
+				type: "checkmark"
+			}]
+			title: "This... Is a Bucket"
+			x: -1.0d
 			y: 1.0d
+		}
+		{
+			dependencies: ["52DEE1B4C6CC1A19"]
+			icon: "minecraft:dripstone_block"
+			id: "74717735BC45A113"
+			tasks: [{
+				id: "6F8A948EEDB18F19"
+				type: "checkmark"
+			}]
+			title: "Dripped Tf Out"
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6E61C014A48DD33A"]
+			icon: "create:mechanical_drill"
+			id: "6FCB5BABEA5C0B68"
+			tasks: [{
+				id: "19FB7DD9AB8C857B"
+				type: "checkmark"
+			}]
+			title: "Breaking Blocks, One At A Time"
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["05C0FBBDDC62201D"]
+			icon: "create:chute"
+			id: "6E61C014A48DD33A"
+			tasks: [{
+				id: "4F159802ED0D4F8F"
+				type: "checkmark"
+			}]
+			title: "By The Power Of Gravity"
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"6FCB5BABEA5C0B68"
+				"74717735BC45A113"
+			]
+			icon: "minecraft:cobblestone"
+			id: "2E96FA6479D27C27"
+			tasks: [{
+				id: "4E0429AA56BFE6E8"
+				type: "checkmark"
+			}]
+			title: "Don't Make Obsidian By Accident"
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2E96FA6479D27C27"]
+			icon: "create:encased_fan"
+			id: "285BEA3F3B3B139E"
+			tasks: [{
+				id: "78831C9D99160BCF"
+				type: "checkmark"
+			}]
+			title: "Smelting But Way Way Better"
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["285BEA3F3B3B139E"]
+			icon: "minecraft:water_bucket"
+			id: "5E49A44D84677908"
+			tasks: [{
+				id: "384A468811ECD1E6"
+				type: "checkmark"
+			}]
+			title: "Washing Vigerously"
+			x: -1.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["285BEA3F3B3B139E"]
+			icon: "minecraft:lava_bucket"
+			id: "16D01481957D30C3"
+			tasks: [{
+				id: "79C3C6E1CEBEA4C3"
+				type: "checkmark"
+			}]
+			title: "The Ultra Furnace"
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["285BEA3F3B3B139E"]
+			icon: {
+				Count: 1b
+				id: "minecraft:flint_and_steel"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "4C1E98828193DC20"
+			tasks: [{
+				id: "045B99E423E5691A"
+				type: "checkmark"
+			}]
+			title: "Doesn't Actually Need Steel"
+			x: 1.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["16D01481957D30C3"]
+			icon: "create:mechanical_saw"
+			id: "58FEDD50B927AA01"
+			tasks: [{
+				id: "24ECD0732076BA15"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["16D01481957D30C3"]
+			icon: "create:millstone"
+			id: "4181778D139B2C3C"
+			tasks: [{
+				id: "474BC7B82491247E"
+				type: "checkmark"
+			}]
+			title: "The Daily Grind"
+			x: 1.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["16D01481957D30C3"]
+			icon: "create:mechanical_harvester"
+			id: "1EFBCCBE696089FD"
+			tasks: [{
+				id: "1D654742A42A5381"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["4C1E98828193DC20"]
+			icon: "minecraft:dried_kelp"
+			id: "5D9FCC6B40A02869"
+			tasks: [{
+				id: "4EF7DBF155582209"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["5E49A44D84677908"]
+			icon: "minecraft:iron_nugget"
+			id: "08C44A71E0B4E6B7"
+			tasks: [{
+				id: "72EB68C616BBE390"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 6.5d
+		}
+		{
+			icon: "create:belt_connector"
+			id: "224ED8218767CAAA"
+			tasks: [{
+				id: "5720C480753ED402"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 10.0d
+		}
+		{
+			icon: "create:shaft"
+			id: "0B5F5B6B7780F35A"
+			tasks: [{
+				id: "2D6253845875BE2C"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 8.5d
+		}
+		{
+			icon: "immersiveengineering:hemp_fiber"
+			id: "632B5FB5A7EDC8F3"
+			tasks: [{
+				id: "527F869F3EA1D369"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 8.5d
+		}
+		{
+			icon: "botania:livingwood_planks"
+			id: "3A9D304009725ECF"
+			tasks: [{
+				id: "4F3742A5CA352D70"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 8.0d
+		}
+		{
+			icon: "minecraft:gravel"
+			id: "02755BE7FF325275"
+			tasks: [{
+				id: "4D5C797E2A1043D6"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["05C0FBBDDC62201D"]
+			description: [""]
+			icon: "create:wrench"
+			id: "544FEAEF78746D88"
+			tasks: [{
+				id: "1BB1402E6EC90A66"
+				type: "checkmark"
+			}]
+			title: "I think i already made the dodging joke"
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1D8A454B0BE4AF89"]
+			icon: "create:water_wheel"
+			id: "3E7BB1B6448D05B6"
+			tasks: [{
+				id: "6EC96F33073D4A59"
+				type: "checkmark"
+			}]
+			title: "A Wheel Pushed By Water"
+			x: 0.0d
+			y: 0.0d
 		}
 	]
 	title: " &6Tier 0"

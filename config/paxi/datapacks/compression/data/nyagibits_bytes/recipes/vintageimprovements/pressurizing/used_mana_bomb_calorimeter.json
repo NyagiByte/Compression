@@ -1,0 +1,36 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"ingredients": [
+		{
+			"fluid": "minecraft:water",
+			"amount": 1000
+		},
+		{
+            "count": 1,
+			"item": "nyagibits_bytes:mana_bomb_calorimeter"
+		}
+	],
+	"results": [
+		{
+			"item": "nyagibits_bytes:used_mana_bomb_calorimeter"
+		},
+		{
+            "count": 2,
+			"item": "quark:clear_shard"
+		},
+		{
+			"count": 1,
+			"item": "immersiveengineering:plate_steel"
+		},
+		{
+			"fluid": "chemlib:nitrogen_dioxide_fluid",
+			"amount": 500
+		},
+		{
+            "chance": 0.5,
+			"count": 1,
+			"item": "chemlib:mercury"
+		}
+	],
+	"processingTime": 200
+}
