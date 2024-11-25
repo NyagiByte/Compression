@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CONTRIBUTING.md"
-hash = "b46d10d81ee783e789478f6ebed1f03405e76f344fe7fdd9fd53d1c5ff9c7e69"
-
-[[files]]
 file = "README.md"
 hash = "f0032bb2e3774c212f26a981dfa4eb82ccdd44e2acc82ba65a5800bbd38f2a2e"
 
@@ -7307,6 +7303,10 @@ hash = "101b2c3afacf80b07df488735591d32e69ada873f399a6ca66bf077ddfee1ec4"
 [[files]]
 file = "config/starterkit/kits/Kit_1.txt"
 hash = "29ef0ee4a59de8c2d49f40956634041041c7ab8ea21a36691c57803175f013cd"
+
+[[files]]
+file = "config/theoneprobe-common.toml"
+hash = "54aa48ef00ac9ee39b270f8dab61aaff05f5aa17d2d29671b8bd11f4297cd8e6"
 
 [[files]]
 file = "config/yosby/options.txt"
