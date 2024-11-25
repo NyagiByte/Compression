@@ -7978,11 +7978,6 @@ hash = "73b5ea7c9f0ff8ac9d03bc410bfac63aabe43cf44569b288ccae29d74289112e"
 metafile = true
 
 [[files]]
-file = "mods/chunkpregenerator.pw.toml"
-hash = "cc07c618ccefc9a0315e4639697c877954091e81c05a7e3acb2ed1529871f338"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2c3ddac643593c3dec5bdad4a4ee6d10b62430409ee1c558ce3c5cbed9f40700"
 metafile = true
