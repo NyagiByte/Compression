@@ -7305,6 +7305,10 @@ file = "config/starterkit/kits/Kit_1.txt"
 hash = "29ef0ee4a59de8c2d49f40956634041041c7ab8ea21a36691c57803175f013cd"
 
 [[files]]
+file = "config/theoneprobe-common.toml"
+hash = "54aa48ef00ac9ee39b270f8dab61aaff05f5aa17d2d29671b8bd11f4297cd8e6"
+
+[[files]]
 file = "config/yosby/options.txt"
 hash = "6601a9b91320ab684b5405758d27088e13567fc8f10c7def18faa1d65b33b03e"
 
@@ -7946,6 +7950,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "ae8cbf0fe7b220e110932056e448ca4464b689f4d4cf8e2e435fb1acba86908f"
+metafile = true
+
+[[files]]
+file = "mods/carbon-config.pw.toml"
+hash = "0e168e074ab5ea951373d1a8186249f3617f78eb53ef9576c6dd88309efcdb13"
 metafile = true
 
 [[files]]
