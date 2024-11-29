@@ -31,6 +31,11 @@
 			description: ["As a note, the tutorials won't go over how to do create automations that the internal ponder system is able to show. These tabs are for pack specific choke points"]
 			icon: "create:goggles"
 			id: "18F5C12EAF8B07CB"
+			rewards: [{
+				id: "293B020FA43DA2D3"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "70AF4FB1D571ED33"
 				title: "[W] To Ponder!"
@@ -56,11 +61,6 @@
 			hide_dependent_lines: true
 			icon: "create:blaze_burner"
 			id: "789821A8D7342A72"
-			rewards: [{
-				id: "7FF2A3DB356666A3"
-				item: "nyagibits_bytes:tier_zero_strawberry"
-				type: "item"
-			}]
 			tasks: [{
 				id: "464DA84D619E20F7"
 				title: "Amazon box delivery chain"
@@ -344,10 +344,20 @@
 		}
 		{
 			dependencies: ["3E7BB1B6448D05B6"]
+			description: [
+				"The neat (mod by vazkii) thing about create machines is that how you input the rotation is visible on the machine itself."
+				""
+				"For the &bmechanical press&r you can see the sides resemble that of a &eshaft&r meaning connecting a shaft here will run the machine."
+				""
+				"The &bmechanical press&r itself once given rotation, will perform a craft by squashing whatever is below it given it's a valid item (if it exists as a recipe). Sometimes a &abasin&r is needed for the craft. For non basin crafts a &adepot&r can hold the items in place so you don't have to worry about them despawning if you forget"
+				""
+				"As a side note you may notice both sides of the shaft within the machine rotate, this is a key feature in compacting setups as &dmost machines can pass rotation through themselves in some way&r, just need to pay attention to how they look visually."
+			]
 			icon: "create:mechanical_press"
 			id: "05C0FBBDDC62201D"
 			tasks: [{
 				id: "283C706FF609A978"
+				title: "Comes with a liveleak watermark"
 				type: "checkmark"
 			}]
 			title: "No Saftey Training Video Needed"
@@ -356,10 +366,16 @@
 		}
 		{
 			dependencies: ["05C0FBBDDC62201D"]
+			description: [
+				"A Bucket! I don't think I need to explain this one cause you are smart, I believe in you"
+				""
+				"Oh and I guess now is a good time to move that &awater wheel&r to a better spot"
+			]
 			icon: "minecraft:bucket"
 			id: "52DEE1B4C6CC1A19"
 			tasks: [{
 				id: "3F04A8A215AEB90B"
+				title: "Dear God.. There's More... Noooo"
 				type: "checkmark"
 			}]
 			title: "This... Is a Bucket"
@@ -368,10 +384,28 @@
 		}
 		{
 			dependencies: ["52DEE1B4C6CC1A19"]
+			description: [
+				"Dripstone? What for?"
+				""
+				"Well &cLava&r is needed for automatic production of &aAndesite&r and dripstone is able to get you a fairly free source of lava!"
+				""
+				"How? It's Simple!"
+				""
+				"Simply follow this design:"
+				"&c[L]&r - Lava Source Block"
+				"&6[D]&r - Dripstone Block"
+				"&e[d]&r - Pointed Dripstone"
+				"[a] - Air Gap"
+				"&b[C] - Cauldron"
+				""
+				"From here you can use &dmechanical pipes&r from create to pull the lava into a tank."
+				"A setup of about 20-40 cauldrons is sufficient to comfortably get through Tier 0 "
+			]
 			icon: "minecraft:dripstone_block"
 			id: "74717735BC45A113"
 			tasks: [{
 				id: "6F8A948EEDB18F19"
+				title: "Finding these can take a bit, mark ore boulders on the way"
 				type: "checkmark"
 			}]
 			title: "Dripped Tf Out"
@@ -380,6 +414,12 @@
 		}
 		{
 			dependencies: ["6E61C014A48DD33A"]
+			description: [
+				"Finally you are free from the shackles of peasantry manually mining cobblestone. The industrial revolution is upon thee! For you have a &dmechanical drill&r"
+				""
+				"The drill, once supplied with rotation, will &ebreak&r whatever is infront of it!"
+				"The speed of breaking determined by how &btough&r the block is, and how &bfast&r the drill is"
+			]
 			icon: "create:mechanical_drill"
 			id: "6FCB5BABEA5C0B68"
 			tasks: [{
@@ -392,10 +432,12 @@
 		}
 		{
 			dependencies: ["05C0FBBDDC62201D"]
+			description: ["Chutes are like hoppers, but way faster straight dowards. They cant output to the side unless you use &afunnels&r or &aa vanilla hopper&r but they do have the upside of being able to send items vertically with the use of an &bencased fan&r. Do Note: &dThe direction the fan spins matters so double check the fan is pushing instead of sucking&r"]
 			icon: "create:chute"
 			id: "6E61C014A48DD33A"
 			tasks: [{
 				id: "4F159802ED0D4F8F"
+				title: "Falling without style"
 				type: "checkmark"
 			}]
 			title: "By The Power Of Gravity"
@@ -407,10 +449,29 @@
 				"6FCB5BABEA5C0B68"
 				"74717735BC45A113"
 			]
+			description: [
+				"For anyone that hasnt been graced by the agony of accidentally making obsidian on a skyblock &ehere is a fairly simple setup that will work:&r"
+				""
+				"&cDo Note:&r The setup written below is to be &bvisualized being vertical&r, 3 blocks tall, so the drill is uptop and the hopper is below"
+				""
+				"&c[L] - Lava Source Block&r"
+				"&7[C] - Where the cobblestone forms&r"
+				"&3[W] - Water Source Block&r"
+				"&b[w] - Flowing Water"
+				"&d[D] - Drill"
+				"&a[H] - Chute/Hopper"
+				""
+				"     &d[D]"
+				"&c[L] .&7[C] &b[w]&3[W]"
+				"     &a[H] &b[w]"
+				""
+				"(ignore that period, it was to align the text)"
+			]
 			icon: "minecraft:cobblestone"
 			id: "2E96FA6479D27C27"
 			tasks: [{
 				id: "4E0429AA56BFE6E8"
+				title: "Now just do this forever"
 				type: "checkmark"
 			}]
 			title: "Don't Make Obsidian By Accident"
@@ -419,10 +480,24 @@
 		}
 		{
 			dependencies: ["2E96FA6479D27C27"]
+			description: [
+				"So much cobble flowing in! These furnaces are so slow, and worse, they eat fuel!"
+				""
+				"Good news! This is a &dskill issue&r, and the solution is &bEncased Fans&r!"
+				""
+				"Encased fans can &eentirely replace&r the use of &efurnaces and smokers&r with additional functionality."
+				""
+				"By placing &bWater, &cLava,&r or &6Fire&r directly infront of an encased fan pushing air forward, that gust of wind can &bwash, &cblast,&r or &6smoke&r items dropped in front of it."
+				""
+				"The amount you drop at once does affect the processing times, but is fairly small"
+				""
+				"Much like mechanical presses &adepots&r work here too, but outside of manual use, the &breal automation solution&r is to have one blow over a long belt moving towards it &6slowly&r to ensure the items process"
+			]
 			icon: "create:encased_fan"
 			id: "285BEA3F3B3B139E"
 			tasks: [{
 				id: "78831C9D99160BCF"
+				title: "Make sure it is blowing!"
 				type: "checkmark"
 			}]
 			title: "Smelting But Way Way Better"
@@ -431,10 +506,20 @@
 		}
 		{
 			dependencies: ["285BEA3F3B3B139E"]
+			description: [
+				"While not as useful as the other options, &bwashing&r offers some early game processing of &dgem-type&r ores before you get access to automatic sanding. It could also serve to make &eclay&r which makes it balanced"
+				""
+				"&6[F] - Encased Fan"
+				"&3[W] - Water"
+				"&7[B] - Non-solid block (slab/sign)"
+				""
+				"&6[F]&3[W]&7[B]&3-->"
+			]
 			icon: "minecraft:water_bucket"
 			id: "5E49A44D84677908"
 			tasks: [{
 				id: "384A468811ECD1E6"
+				title: "Splish Splash I'm Takin' A Bath"
 				type: "checkmark"
 			}]
 			title: "Washing Vigerously"
@@ -443,10 +528,22 @@
 		}
 		{
 			dependencies: ["285BEA3F3B3B139E"]
+			description: [
+				"Want to smelt everything at once? Plop down some &clava&r in front of that fan and watch as it makes all of your furnaces absolutely obsolete. Do note: &efood-type items&r will get &4destroyed&r by this."
+				""
+				"Replaces &bBlast Furnace&r recipes"
+				""
+				"&6[F] - Encased Fan"
+				"&c[L] - Lava"
+				"&7[B] - Non-solid block (slab/sign)"
+				""
+				"&6[F]&c[L]&7[B]&c-->"
+			]
 			icon: "minecraft:lava_bucket"
 			id: "16D01481957D30C3"
 			tasks: [{
 				id: "79C3C6E1CEBEA4C3"
+				title: "Splish Spla- OW THATS HOT"
 				type: "checkmark"
 			}]
 			title: "The Ultra Furnace"
@@ -455,6 +552,18 @@
 		}
 		{
 			dependencies: ["285BEA3F3B3B139E"]
+			description: [
+				"Less usefull than using &clava&r but still as important. Placing &cfire&r in front of the fan allows it to process any &efood-type&r item. And while your stomach may be bottomless, &akelp&r still needs to be processed for machinery"
+				""
+				"Replaces &bSmoker&r recipes"
+				""
+				"&6[F] - Encased Fan"
+				"&c[F] - Fire"
+				"&4[N] - Netherrack"
+				""
+				"&6[F]&c[F]-->"
+				"   &4.[N]"
+			]
 			icon: {
 				Count: 1b
 				id: "minecraft:flint_and_steel"
@@ -465,6 +574,7 @@
 			id: "4C1E98828193DC20"
 			tasks: [{
 				id: "045B99E423E5691A"
+				title: "Does.. This count as a flame-thrower?"
 				type: "checkmark"
 			}]
 			title: "Doesn't Actually Need Steel"
@@ -507,25 +617,35 @@
 		}
 		{
 			dependencies: ["4C1E98828193DC20"]
+			description: ["&aKelp&r yeah no thats it, start farming it"]
 			icon: "minecraft:dried_kelp"
 			id: "5D9FCC6B40A02869"
 			tasks: [{
 				id: "4EF7DBF155582209"
+				title: "Mmmmm Kelp Shake"
 				type: "checkmark"
 			}]
+			title: "Kelpification"
 			x: 2.0d
-			y: 6.5d
+			y: 7.0d
 		}
 		{
 			dependencies: ["5E49A44D84677908"]
+			description: [
+				"That being said about washing, the astute among you might of noticed a recipe to turn gravel into iron nuggets at a low rate."
+				""
+				"In most other packs this would be somewhat viable for early game, but I will stress that as soon as you get access to &dcrushing wheels&r you will get 4 outputs per iron ore which will massively outpace an iron nugget generator"
+			]
 			icon: "minecraft:iron_nugget"
 			id: "08C44A71E0B4E6B7"
 			tasks: [{
 				id: "72EB68C616BBE390"
+				title: "Trust me this is not worth it - Nyagi"
 				type: "checkmark"
 			}]
+			title: "Not actually worth it"
 			x: -2.0d
-			y: 6.5d
+			y: 7.0d
 		}
 		{
 			icon: "create:belt_connector"
@@ -579,11 +699,16 @@
 		}
 		{
 			dependencies: ["05C0FBBDDC62201D"]
-			description: [""]
+			description: [
+				"&dHuzza!&r Something to forever take up an inventory slot"
+				""
+				"These can instantly collect create components upon a &eshift right-click&r, or simply rotate them with a &eright click&r"
+			]
 			icon: "create:wrench"
 			id: "544FEAEF78746D88"
 			tasks: [{
 				id: "1BB1402E6EC90A66"
+				title: "I already lost the 10mm socket dammit"
 				type: "checkmark"
 			}]
 			title: "I think i already made the dodging joke"
@@ -592,15 +717,56 @@
 		}
 		{
 			dependencies: ["1D8A454B0BE4AF89"]
+			description: [
+				"You very likely don't have access to a &eBucket&r yet so just cram this &bwater wheel&r literally anywhere you can with some flowing water."
+				""
+				"These can be placed &dvertically&r or &dhorizontally&r and the amount of flowing water does not actually influence the &astress unit (SU)&r output rate, so however looks nicer to you is perfectly fine"
+			]
 			icon: "create:water_wheel"
 			id: "3E7BB1B6448D05B6"
 			tasks: [{
 				id: "6EC96F33073D4A59"
+				title: "There is also a larger one"
 				type: "checkmark"
 			}]
 			title: "A Wheel Pushed By Water"
 			x: 0.0d
 			y: 0.0d
+		}
+		{
+			dependencies: ["4C1E98828193DC20"]
+			icon: "minecraft:soul_soil"
+			id: "6CC15C25470A8A6F"
+			tasks: [{
+				id: "7E2E7A48F908B7F8"
+				type: "checkmark"
+			}]
+			title: "Oooooo Spooky"
+			x: 3.0d
+			y: 6.5d
+		}
+		{
+			dependencies: [
+				"5E49A44D84677908"
+				"08C44A71E0B4E6B7"
+			]
+			description: [
+				"The iron nugget recipe may be useless, but you know what isn't? &aQuartz!&r"
+				""
+				"Washing &bSoul Sand&r returns nether quartz at a low rate. It will suffer from a &esimilar issue&r of being outscaled with ore processing, however, the volume needed in Tier 0 is far less"
+				""
+				"That being said, you will still want to find &dquartz boulders&r as they contain presses for Ae2, and fancier quartz types that make certain recipes easier"
+			]
+			icon: "minecraft:quartz"
+			id: "168B98C3C815C316"
+			tasks: [{
+				id: "2388905353082287"
+				title: "It also gives gold i guess"
+				type: "checkmark"
+			}]
+			title: "How Nether Quartz If No Nether?"
+			x: -3.0d
+			y: 6.5d
 		}
 	]
 	title: " &6Tier 0"
