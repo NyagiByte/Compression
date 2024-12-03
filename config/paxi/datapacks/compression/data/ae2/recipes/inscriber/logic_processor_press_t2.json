@@ -1,0 +1,16 @@
+{
+    "type": "ae2:inscriber",
+    "ingredients": {
+      "middle": {
+        "item": "botania:manasteel_ingot"
+      },
+      "top": {
+        "item": "ae2:logic_processor_press"
+      }
+    },
+    "mode": "inscribe",
+    "result": {
+      "count": 16,
+      "item": "ae2:logic_processor_press"
+    }
+  }

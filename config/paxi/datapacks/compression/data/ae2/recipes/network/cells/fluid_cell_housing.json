@@ -20,7 +20,7 @@
       "type": "create:deploying",
       "ingredients": [
         {"item": "nyagibits_bytes:incomplete_me_fluid_cell_housing"},
-        {"item": "pneumaticcraft:small_tank"}  
+        {"item": "ae2:sky_stone_tank"}  
       ],
       "results": [
         {"item": "nyagibits_bytes:incomplete_me_fluid_cell_housing"}

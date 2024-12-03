@@ -1622,6 +1622,7 @@
 
 		{"namespace": "supplementaries", "path": "recipes/crank.json"},
 		{"namespace": "supplementaries", "path": "recipes/faucet.json"},
+		{"namespace": "supplementaries", "path": "recipes/bed_from_feather_block.json"},
 
 
 

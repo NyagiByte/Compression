@@ -9,6 +9,22 @@
     }
     ],
     "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "ae2:quartz_glass"
+          },
+          {
+            "item": "nyagibits_bytes:2_phenoxyethanol"
+          }
+        ],
+        "results": [
+            {
+                "item": "ae2:quartz_glass"
+            }
+        ]
+      },
         {
             "type": "create:filling",
             "ingredients": [
@@ -34,7 +50,7 @@
             "item": "ae2:quartz_glass"
           },
           {
-            "item": "nyagibits_bytes:2_phenoxyethanol"
+            "item": "nyagibits_bytes:bottle_of_vinegar"
           }
         ],
         "results": [

@@ -11,7 +11,7 @@
       "item": "ae2:printed_silicon"
     }
   },
-  "mode": "inscribe",
+  "mode": "press",
   "result": {
     "item": "ae2:printed_engineering_processor"
   }
