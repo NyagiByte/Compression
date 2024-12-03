@@ -106,6 +106,8 @@ JEIEvents.hideItems(event => {
     'immersiveengineering:armor_steel_head',
     //Quark
     'quark:pickarang',
+    'quark:carrot_crate',
+    'quark:potato_crate',
     //Oh The Biomes You'll Go
     'byg:pendorite_pickaxe',
     'byg:pendorite_axe',
@@ -137,6 +139,7 @@ JEIEvents.hideItems(event => {
     'mekanism:mekasuit_bodyarmor',
     'mekanism:mekasuit_pants',
     'mekanism:mekasuit_boots',
+    'mekanism:sulfuric_acid_bucket',
     //Create
     'create:netherite_diving_helmet',
     //Nuclearcraft
@@ -149,6 +152,7 @@ JEIEvents.hideItems(event => {
     'nuclearcraft:tough_boots',
     'nuclearcraft:tough_pants',
     'nuclearcraft:spaxelhoe_tough',
+    'nuclearcraft:sulfuric_acid_bucket',
     //CBMicroblock
     'cb_microblock:stone_rod',
     'cb_microblock:stone_saw',
@@ -192,8 +196,13 @@ JEIEvents.hideItems(event => {
     'sophisticatedbackpacks:stack_upgrade_tier_2',
     'sophisticatedbackpacks:stack_upgrade_tier_3',
     'sophisticatedbackpacks:tool_swapper_upgrade',
-    'sophisticatedbackpacks:pump_upgrade'
-
-    
+    'sophisticatedbackpacks:pump_upgrade',
+    //CoFH Core
+    'cofh_core:dev_stick',
+    //Vintage Improvements
+    'vintageimprovements:sulfuric_acid_bucket',
+    //Thermal Expansion
+    'thermal:carrot_block',
+    'thermal:potato_block'
   ])
 })

@@ -33,6 +33,11 @@
 		{"namespace": "thermal", "path": "recipes/rubber_from_dandalion.json"},
 		{"namespace": "thermal", "path": "recipes/rubber_from_vine.json"},
 		{"namespace": "thermal", "path": "recipes/explosive_grenade_4.json"},
+		{"namespace": "thermal", "path": "recipes/storage/carrot_block.json"},
+		{"namespace": "thermal", "path": "recipes/storage/potato_block.json"},
+
+		{"namespace": "thermal", "path": "recipes/machines/press/packing3x3/press_carrot_packing.json"},
+		{"namespace": "thermal", "path": "recipes/machines/press/packing3x3/press_potato_packing.json"},
 
 		{"namespace": "architects_palette", "path": "recipes/charcoal_block.json"},
 		{"namespace": "architects_palette", "path": "smelting/charcoal_block_from_logs_that_burn_smoking.json"},
@@ -326,6 +331,8 @@
 		{"namespace": "quark", "path": "recipes/tools/crafting/pickarang_heart.json"},
 		{"namespace": "quark", "path": "recipes/automation/crafting/iron_rod.json"},
 		{"namespace": "quark", "path": "recipes/automation/crafting/feeding_trough.json"},
+		{"namespace": "quark", "path": "recipes/building/crafting/compressed/carrot_crate.json"},
+		{"namespace": "quark", "path": "recipes/building/crafting/compressed/potato_crate.json"},
 
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/cobblestone_furnace.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/mixed_furnace.json"},
