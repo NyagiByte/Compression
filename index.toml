@@ -482,7 +482,7 @@ hash = "5eaa01737c46ffc31178fbfacbaaf71d9b0492e8a34838f1973905af60636bd4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "ec4e10c5f107d510e3d9c3f9d1797a5a487e85da49b7c6695ecb46bd75cee023"
+hash = "2f2ba2da29dae185a8e07dcb7188c05f4d23a608e8dfec8074dc8dd1dd53d092"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -8487,8 +8487,9 @@ hash = "a64a7f239c438513d1f92766d353cfe547b9a03eaa33b53c937e179bac2ca406"
 metafile = true
 
 [[files]]
-file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "0d83bacdb176e1583727f101c7d3bc9f999b41e1756ea0cb410e0944eeb36d4b"
+file = "mods/nyagis-bits-bytes.pw.toml"
+hash = "1d123cfcebe4a34dd90453927d4ac5e546a365da4d614cac603ed7118a9a3ce8"
+metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
