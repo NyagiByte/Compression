@@ -1,0 +1,20 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": { "item": "nyagibits_bytes:lab_notebook_with_crude_natural_arcana_data" },
+      "B": { "item": "nyagibits_bytes:lexicon_with_sumad_data" },
+      "C": { "item": "nyagibits_bytes:lexicon_with_mbc_data" },
+      "D": { "item": "nyagibits_bytes:lexicon_with_bmpt_data" },
+      "E": { "item": "nyagibits_bytes:basic_arcana_core" }
+    },
+    "pattern": [
+      " A ",
+      "BCD",
+      "AEA"
+    ],
+    "result": {
+      "count": 2,
+      "item": "nyagibits_bytes:lexicon_with_basic_natural_arcana_data"
+    }
+  }

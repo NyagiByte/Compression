@@ -1,0 +1,27 @@
+{
+    "type": "immersivepetroleum:hydrotreater",
+    "time": 60,
+    "energy": 61440,
+    "result": {
+      "fluid": "chemlib:propane_fluid",
+      "amount": 500
+    },
+    "conditions": [
+      {
+        "modid": "pneumaticcraft",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "input": {
+      "tag": "forge:propylene",
+      "amount": 1000
+    },
+    "secondary_input": {
+      "amount": 100,
+      "tag": "minecraft:water"
+    },
+    "secondary_result": {
+      "item": "chemlib:carbon_dust",
+      "chance": "0.5"
+    }
+  }

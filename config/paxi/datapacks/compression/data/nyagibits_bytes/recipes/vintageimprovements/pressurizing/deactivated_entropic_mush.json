@@ -1,0 +1,26 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"ingredients": [
+		{
+			"fluid": "nyagibits_bytes:heptafluoropropane_fluid",
+			"amount": 400
+		},
+		{
+			"fluid": "minecraft:water",
+			"amount": 10000
+		},
+		{
+			"item": "nyagibits_bytes:entropinnyum_mush"
+		}
+	],
+	"results": [
+		{
+			"item": "nyagibits_bytes:deactivated_entropic_mush"
+		},
+		{
+			"amount": 1000,
+			"fluid": "minecraft:water"
+		}
+	],
+	"processingTime": 200
+}

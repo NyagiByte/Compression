@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:mana_imbued_glucose_crystal"},
+      "B": {"item":"nyagibits_bytes:everburn_tar"},
+      "C": {"item":"nyagibits_bytes:mana_imbued_obsidian_shard"},
+      "D": {"item":"nyagibits_bytes:botanical_core"},
+      "E": {"item":"nyagibits_bytes:mana_imbued_oobleck"},
+      "F": {"item":"nyagibits_bytes:mana_imbued_primary_explosive"}
+    },
+    "pattern": [
+      " AB",
+      "CDE",
+      " F "
+    ],
+    "result": {
+        "item": "nyagibits_bytes:basic_arcana_core"
+    }
+  }

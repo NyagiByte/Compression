@@ -1,0 +1,21 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:mana_imbued_obsidian_shard"
+      }
+    ],
+    "processingTime": 10,
+    "results": [
+      {
+        "chance": 1,
+        "count": 32,
+        "item": "create:powdered_obsidian"
+      },
+      {
+        "chance": 0.25,
+        "count": 1,
+        "item": "nyagibits_bytes:mana_imbued_obsidian_shard"
+      }
+    ]
+  }

@@ -1,0 +1,37 @@
+{
+  "type": "botania:runic_altar",
+  "ingredients": [
+    {
+      "item": "botania:mana_powder"
+    },
+    {
+      "item": "nyagibits_bytes:rune_blank"
+    },
+    {
+      "item": "nyagibits_bytes:high_temperature_heat_exchanger"
+    },
+    {
+      "item": "nyagibits_bytes:everburn_tar"
+    },
+    {
+      "item": "minecraft:lava_bucket"
+    },
+    {
+      "item": "quark:nether_wart_sack"
+    },
+    {
+      "item": "ae2:red_lumen_paint_ball"
+    },
+    {
+      "item": "chemlib:phosphorus_dust"
+    },
+    {
+      "item": "nyagibits_bytes:rune_binder"
+    }
+  ],
+  "mana": 2500,
+  "output": {
+    "count": 2,
+    "item": "botania:rune_fire"
+  }
+}

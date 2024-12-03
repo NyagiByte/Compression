@@ -1,0 +1,23 @@
+{
+    "type": "immersivepetroleum:hydrotreater",
+    "time": 60,
+    "energy": 61440,
+    "result": {
+      "fluid": "nyagibits_bytes:heptafluoropropane_fluid",
+      "amount": 800
+    },
+    "conditions": [
+      {
+        "modid": "pneumaticcraft",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "input": {
+      "tag": "forge:propane",
+      "amount": 100
+    },
+    "secondary_input": {
+      "amount": 700,
+      "tag": "forge:fluorine"
+    }
+  }

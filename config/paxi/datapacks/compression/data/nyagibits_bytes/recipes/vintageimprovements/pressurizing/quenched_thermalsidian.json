@@ -1,0 +1,22 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"ingredients": [
+		{
+			"fluid": "chemlib:carbon_dioxide_fluid",
+			"amount": 10000
+		},
+		{
+			"item": "nyagibits_bytes:thermalily_mush"
+		}
+	],
+	"results": [
+		{
+			"item": "nyagibits_bytes:quenched_thermalsidian"
+		},
+		{
+			"amount": 10000,
+			"fluid": "chemlib:carbon_monoxide_fluid"
+		}
+	],
+	"processingTime": 800
+}

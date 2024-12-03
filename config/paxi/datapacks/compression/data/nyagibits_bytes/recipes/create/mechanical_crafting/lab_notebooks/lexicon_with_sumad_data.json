@@ -1,0 +1,17 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": { "item": "nyagibits_bytes:used_single_use_mana_ablatives_demonstration" },
+      "B": { "item": "nyagibits_bytes:lab_notebook_with_crude_compression_data" },
+      "C": { "item": "nyagibits_bytes:lexicon" }
+    },
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "result": {
+      "item": "nyagibits_bytes:lexicon_with_sumad_data"
+    }
+  }

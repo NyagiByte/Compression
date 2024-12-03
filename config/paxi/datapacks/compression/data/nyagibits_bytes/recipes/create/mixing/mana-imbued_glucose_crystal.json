@@ -1,0 +1,20 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "count": 4,
+        "item": "chemlib:sodium_hydroxide"
+      },
+      {
+        "amount": 1000,
+        "fluid": "nyagibits_bytes:amorphous_cellulose_fluid"
+      }
+    ],
+    "results": [
+      {
+        "count": 16,
+        "item": "nyagibits_bytes:mana_imbued_glucose_crystal"
+      }
+    ]
+  }

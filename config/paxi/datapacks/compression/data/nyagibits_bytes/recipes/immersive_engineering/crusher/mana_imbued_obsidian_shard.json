@@ -1,0 +1,19 @@
+{
+    "type":"immersiveengineering:crusher",
+    "energy":1600,
+    "input":{
+        "item":"nyagibits_bytes:quenched_thermalsidian"
+            },
+            "result":{
+                "count": 32,
+                "item":"nyagibits_bytes:mana_imbued_obsidian_shard"
+                    },
+                    "secondaries":[
+                        {
+                            "chance":0.5,
+                            "output":{
+                                "item":"minecraft:crying_obsidian"
+                                }
+                            }
+                        ]
+                    }

@@ -1,0 +1,17 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": { "item": "nyagibits_bytes:used_mana_bomb_calorimeter" },
+      "B": { "item": "nyagibits_bytes:lab_notebook_with_crude_entropy_data" },
+      "C": { "item": "nyagibits_bytes:lexicon" }
+    },
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "result": {
+      "item": "nyagibits_bytes:lexicon_with_mbc_data"
+    }
+  }

@@ -1,0 +1,22 @@
+{
+    "type": "create:compacting",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:deactivated_entropic_mush"
+      },
+      {
+        "item": "quark:gunpowder_sack"
+      },
+      {
+        "amount": 250,
+        "fluid": "immersivepetroleum:gasoline_additives"
+      }
+    ],
+    "results": [
+      {
+        "count": 32,
+        "item": "nyagibits_bytes:mana_imbued_primary_explosive"
+      }
+    ]
+  }
