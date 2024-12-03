@@ -1494,8 +1494,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "71D6CEE4D7942D5B"
-				item: "ftbquests:missing_item"
+				id: "41190EAF144165BA"
+				item: "nyagibits_bytes:basic_arcana_core"
 				type: "item"
 			}]
 			title: "Basic Arcana Core"
@@ -1799,9 +1799,10 @@
 				"36D7F43B1E51F721"
 			]
 			description: [
-				"A more robust kit for testing the natural \"sciences\""
+				"Where is the testing kit for basic arcana?"
+				"Sciences as they progress become &eincresingly too difficult to test as one unit&r, and thus require &6smaller individualized experiments&r to derive useful data"
 				""
-				"&6Note: Yields from the crude version are boosted when using data from this test"
+				"&dNote: Yields from the crude version are boosted when using data from this test"
 			]
 			id: "0E2F79E22394F9E2"
 			rewards: [{
@@ -1809,12 +1810,19 @@
 				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
-			tasks: [{
-				id: "733600691E89B5B7"
-				item: "ftbquests:missing_item"
-				type: "item"
-			}]
-			title: "Basic Natural Arcana Test"
+			tasks: [
+				{
+					id: "083F18A388B87DAB"
+					item: "nyagibits_bytes:single_use_mana_ablatives_demonstration"
+					type: "item"
+				}
+				{
+					id: "0FEDA786AF364AFE"
+					item: "nyagibits_bytes:mana_bomb_calorimeter"
+					type: "item"
+				}
+			]
+			title: "Basic Natural Arcana Test?"
 			x: -8.5d
 			y: 9.0d
 		}
@@ -2086,6 +2094,7 @@
 				"45E43BF51EC35414"
 				"2AC05C5C4441E035"
 			]
+			description: ["Floating flowers &bdon't have placement restrictions!&r Do keep in mind tho generating flowers will still &crot away"]
 			id: "681E32095BFCA886"
 			rewards: [{
 				id: "6DE789ACC5A0AA79"
@@ -2132,8 +2141,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "493FD9C7A246AF81"
-				item: "ftbquests:missing_item"
+				id: "7539299CD9FC721F"
+				item: "nyagibits_bytes:used_basic_material_properties_test"
 				type: "item"
 			}]
 			title: "Used Basic Material Properties Test"
@@ -2142,18 +2151,26 @@
 		}
 		{
 			dependencies: ["0E2F79E22394F9E2"]
+			description: ["The shrapnel was only slightly extremely dangerous"]
 			id: "06B6BFB0D1106B34"
 			rewards: [{
 				id: "5FA5AFF58A29E84D"
 				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
-			tasks: [{
-				id: "34247D1B245047DA"
-				item: "ftbquests:missing_item"
-				type: "item"
-			}]
-			title: "Used Basic Natural Arcana Test"
+			tasks: [
+				{
+					id: "66EA79409F98B1FB"
+					item: "nyagibits_bytes:used_single_use_mana_ablatives_demonstration"
+					type: "item"
+				}
+				{
+					id: "214CD051A59AD07D"
+					item: "nyagibits_bytes:used_mana_bomb_calorimeter"
+					type: "item"
+				}
+			]
+			title: "A Slew Of Used Tests"
 			x: -8.0d
 			y: 10.0d
 		}
@@ -2275,8 +2292,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "678FB1E0B47EE6F1"
-				item: "ftbquests:missing_item"
+				id: "1AD1764ABC12B08A"
+				item: "nyagibits_bytes:lexicon_with_bmpt_data"
 				type: "item"
 			}]
 			title: "Lexicon With Basic Material Properties Data"
@@ -2285,6 +2302,7 @@
 		}
 		{
 			dependencies: ["06B6BFB0D1106B34"]
+			description: ["Mana seems to both be a &esubstance&r and itself a form of &benergy&r not like gasoline but itself *is* the energy... More investigation needed"]
 			id: "4ADFC2717D02EB20"
 			rewards: [{
 				id: "2F43FC9369CF1FD5"
@@ -2292,8 +2310,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "1317391CCA7A6C90"
-				item: "ftbquests:missing_item"
+				id: "0A8C983E2CB3D4B2"
+				item: "nyagibits_bytes:lexicon_with_basic_natural_arcana_data"
 				type: "item"
 			}]
 			title: "Lexicon With Basic Natural Arcana Data"
@@ -2302,7 +2320,7 @@
 		}
 		{
 			dependencies: ["681E32095BFCA886"]
-			description: ["Very large books imbued with mana based calligraphy to more compactly store written information. Much needed to describe the results of more sophisticated science tests"]
+			description: ["Very large books imbued with &bmana based calligraphy&r to more compactly store written information. Much needed to describe the results of more sophisticated science tests"]
 			id: "36D7F43B1E51F721"
 			rewards: [{
 				id: "44B30A8BA45737D6"
