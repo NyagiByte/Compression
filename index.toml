@@ -8324,6 +8324,11 @@ hash = "687f90e3c790276061dc752836ef17323e1c4f0d182d3d5807f07588c50038d9"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "9b1c5b42fbba136057f7a8073382fd1338bb301a037f622afe9d16e02d8f7438"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "0d2fd2335340df10d91e09aa9bd3e5b360f91daa5b35586199d1d3a9aac4467b"
 metafile = true
@@ -8410,6 +8415,11 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "28dd3e22a7af0ee500b179658497bdd3744c359c62730cbfa81a12ed953d132e"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "30d9b915a74959678742d9c0862e3efebcad4db4f87978ae0b6b29d9ef539923"
 metafile = true
 
 [[files]]
@@ -8544,6 +8554,11 @@ metafile = true
 [[files]]
 file = "mods/ponder.pw.toml"
 hash = "4b958c3511f8836988f0603a38dc90305ed2adb30dadb89e9caa69dfc0d704a3"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "13b0295e7ecac1f7486c7558971a99c292af58b2691c4133c66c975bbb61d346"
 metafile = true
 
 [[files]]
