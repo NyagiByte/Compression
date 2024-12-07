@@ -3477,6 +3477,265 @@
 			x: 9.5d
 			y: -4.0d
 		}
+		{
+			dependencies: ["1955E60B51E911ED"]
+			icon: "immersiveengineering:sample_drill"
+			id: "453481B45C1169E4"
+			tasks: [{
+				id: "2FE32BEDA19DF567"
+				type: "checkmark"
+			}]
+			title: "Excavating The World"
+			x: -0.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["453481B45C1169E4"]
+			id: "3EC5385262A7A38A"
+			tasks: [
+				{
+					id: "3DEAB5EA54E78B51"
+					item: "nyagibits_bytes:raw_columbite"
+					type: "item"
+				}
+				{
+					id: "76AC455763510A9D"
+					item: "nyagibits_bytes:raw_fluorspar"
+					type: "item"
+				}
+				{
+					id: "255C9C2ED6C7CC7A"
+					item: "nyagibits_bytes:raw_phosphorite"
+					type: "item"
+				}
+				{
+					id: "4A22D4B84224CA41"
+					item: "nyagibits_bytes:raw_zirconia"
+					type: "item"
+				}
+			]
+			title: "Carbonate Igneous Deposit"
+			x: -2.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["453481B45C1169E4"]
+			id: "0AA6E4463E27A4F9"
+			tasks: [
+				{
+					id: "23BD564210D787B1"
+					item: "nyagibits_bytes:raw_germanite"
+					type: "item"
+				}
+				{
+					id: "5E60D2F7FA8CC1EF"
+					item: "nyagibits_bytes:raw_zinc_carbonate"
+					type: "item"
+				}
+			]
+			title: "Argyrodite Deposit"
+			x: -0.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["453481B45C1169E4"]
+			id: "38C12E46D6C2B066"
+			tasks: [
+				{
+					id: "634705B580C79C59"
+					item: "nyagibits_bytes:raw_spodumene"
+					type: "item"
+				}
+				{
+					id: "1D29C06B3E3B4F3A"
+					item: "nyagibits_bytes:raw_petalite"
+					type: "item"
+				}
+				{
+					id: "076795E44097FA95"
+					item: "nyagibits_bytes:raw_lepidolite"
+					type: "item"
+				}
+				{
+					id: "6519528F953957F3"
+					item: "nyagibits_bytes:raw_amblygonite"
+					type: "item"
+				}
+			]
+			title: "Ancient Mineral Spring Deposit"
+			x: 1.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["453481B45C1169E4"]
+			id: "70289AE8732F693E"
+			tasks: [
+				{
+					id: "40F3E30B96C7E34B"
+					item: "nyagibits_bytes:raw_oil_sands"
+					type: "item"
+				}
+				{
+					id: "642EAF5921B08DF6"
+					item: "nyagibits_bytes:raw_kerogen"
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["453481B45C1169E4"]
+			id: "4DED61BFDA09B17E"
+			tasks: [
+				{
+					id: "010C7A57C1259D8F"
+					item: "nyagibits_bytes:ancient_fossil"
+					type: "item"
+				}
+				{
+					id: "7A8CC529D0B4D52B"
+					item: "minecraft:bone_block"
+					type: "item"
+				}
+			]
+			title: "Fossil Deposit"
+			x: 1.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["453481B45C1169E4"]
+			id: "794BE296BCE95CD3"
+			tasks: [
+				{
+					id: "2A0CDE8D09E63062"
+					item: "nyagibits_bytes:ender_pumice"
+					type: "item"
+				}
+				{
+					id: "1A5D8E291314AC7F"
+					item: "nyagibits_bytes:end_organic_mush"
+					type: "item"
+				}
+				{
+					id: "3717A4C35AB29308"
+					item: "minecraft:end_stone"
+					type: "item"
+				}
+			]
+			title: "Endermorphic Deposit"
+			x: -2.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["453481B45C1169E4"]
+			id: "37982224A6A10F95"
+			tasks: [
+				{
+					id: "330D1785EBF7213C"
+					item: "nyagibits_bytes:deep_ground_sample"
+					type: "item"
+				}
+				{
+					id: "4ED95620671BB542"
+					item: "nyagibits_bytes:raw_fluorite"
+					type: "item"
+				}
+				{
+					id: "40AEE90BFF4E7676"
+					item: "nyagibits_bytes:raw_meteoric_kamacite"
+					type: "item"
+				}
+				{
+					id: "3290DE2BB1076255"
+					item: "nyagibits_bytes:raw_volcanic_sulfur"
+					type: "item"
+				}
+				{
+					id: "22F345A888AF409D"
+					item: "nyagibits_bytes:raw_compacted_limestone"
+					type: "item"
+				}
+				{
+					id: "620398D97435D5FB"
+					item: "nyagibits_bytes:raw_hematite"
+					type: "item"
+				}
+			]
+			title: "Core Seam "
+			x: 1.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["453481B45C1169E4"]
+			id: "230A582D5ABD1DF2"
+			tasks: [
+				{
+					id: "30BAD6B2E4291061"
+					item: "chemlib:helium"
+					type: "item"
+				}
+				{
+					id: "30F7C029D0DB4517"
+					item: "nyagibits_bytes:raw_pitchblende"
+					type: "item"
+				}
+				{
+					id: "05056726F8DA9C8B"
+					item: "nyagibits_bytes:raw_galena"
+					type: "item"
+				}
+			]
+			title: "Helium Deposit"
+			x: -2.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["453481B45C1169E4"]
+			id: "2B9899F592B4E814"
+			tasks: [
+				{
+					id: "2A5D544574C5AEF4"
+					item: "nyagibits_bytes:raw_monazite"
+					type: "item"
+				}
+				{
+					id: "5E866653131A939D"
+					item: "nyagibits_bytes:raw_cerite"
+					type: "item"
+				}
+				{
+					id: "45846BEA3AAF09D4"
+					item: "nyagibits_bytes:raw_allanite"
+					type: "item"
+				}
+				{
+					id: "60A2FC67301EFE6F"
+					item: "nyagibits_bytes:raw_bastnasite"
+					type: "item"
+				}
+				{
+					id: "1B8A0C215ABB20BB"
+					item: "nyagibits_bytes:raw_xenotime"
+					type: "item"
+				}
+			]
+			title: "Lanthanithic Deposit"
+			x: 1.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["453481B45C1169E4"]
+			id: "013A60BF61FBD960"
+			tasks: [{
+				id: "2636DF55BC7DDF2E"
+				item: "nyagibits_bytes:cosmic_irradiated_flake_fragment"
+				type: "item"
+			}]
+			title: "Void Seam"
+			x: -0.5d
+			y: 12.0d
+		}
 	]
 	subtitle: ["I am a dwarf and I'm digging a hole"]
 	title: " &aOre Line"
