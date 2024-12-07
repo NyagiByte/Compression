@@ -1,0 +1,21 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_columbite"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "chance": 0.5,
+        "count": 1,
+        "item": "chemlib:manganese_dust"
+      },
+      {
+        "chance": 0.2,
+        "count": 1,
+        "item": "create:crushed_raw_iron"
+      }
+    ]
+  }

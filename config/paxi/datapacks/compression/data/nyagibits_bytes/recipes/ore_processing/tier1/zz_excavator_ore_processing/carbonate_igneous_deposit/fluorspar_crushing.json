@@ -1,0 +1,21 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_fluorspar"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "chance": 0.5,
+        "count": 1,
+        "item": "chemlib:calcium_dust"
+      },
+      {
+        "chance": 1,
+        "count": 1,
+        "item": "mekanism:dust_fluorite"
+      }
+    ]
+  }

@@ -1,0 +1,21 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_phosphorite"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "chance": 0.5,
+        "count": 1,
+        "item": "chemlib:phosphorus_dust"
+      },
+      {
+        "chance": 1,
+        "count": 1,
+        "item": "minecraft:sandstone"
+      }
+    ]
+  }
