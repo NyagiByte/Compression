@@ -5929,6 +5929,26 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "569e5f7ff5054f2ba15db2cb50cd386e71c931de4d7bd0cd68a435488af6de5f"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/zz_excavator_ore_processing/argyrodite_deposit/germanite_crushing.json"
+hash = "1b4f2015b2ad3d01db4c37503bf358fbfa818c8d5851e3102e63851b39165c48"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/zz_excavator_ore_processing/carbonate_igneous_deposit/columbite_crushing.json"
+hash = "94eea490d97e77ba852bc3bce05b3de8d9c0b546a31aa57ffd62bdab55fdfbaf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/zz_excavator_ore_processing/carbonate_igneous_deposit/fluorspar_crushing.json"
+hash = "002bf246610889f2664bbd48b26817cc092d23bee7dc101781cdd6b52d61b09d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/zz_excavator_ore_processing/carbonate_igneous_deposit/phosphorite_crushing.json"
+hash = "2b3db74b3a2f9ebc3e5666ed4d82ae671e13b6b0271b33bd1e4985f51c14e318"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/zz_excavator_ore_processing/carbonate_igneous_deposit/zirconia_crushing.json"
+hash = "d78d3ddd5e6cc0430eca2be2d77be8f8ae738fb2a5cd1ad0828649e4cc5334b8"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assemblies/ae2_assembly.json"
 hash = "0ef32aaa6b0b5c12eed2381200090a5b782f33486d27cebc4f1d386e34872787"
 
