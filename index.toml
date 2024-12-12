@@ -197,6 +197,10 @@ file = "config/fancymenu/assets/compressioniconblackbackground.png"
 hash = "27b9d0879c856f660f92c153a85f48025c2b5b044bbc994956dadc079932cf86"
 
 [[files]]
+file = "config/fancymenu/assets/compressionicontransparent.png"
+hash = "4335a99613ea88d722ac5468ce22c2a1a8f2f915b4ebfddfb659e2ee357ad044"
+
+[[files]]
 file = "config/fancymenu/assets/compressionlogo.png"
 hash = "611f848472a2816860eb61ea26343a50c470930ba8d54ba2ed594f0b5c59c540"
 
@@ -273,6 +277,18 @@ file = "config/fancymenu/assets/gradient2.png"
 hash = "8cd1c08f344089c2e85553175ea7f9ea3e7045658fc0520cafd385e54bbe3a1a"
 
 [[files]]
+file = "config/fancymenu/assets/highrescompressioniconblackbackground.png"
+hash = "56254e6a248cde9d200fa530f65a7ce5dd46855701d42e8bbe694e0af5f4d0d5"
+
+[[files]]
+file = "config/fancymenu/assets/highrescompressionicontransparent.png"
+hash = "8dbe844084514626e7e288a546020342763bff8a5eb27549c88adebd76bbf4d7"
+
+[[files]]
+file = "config/fancymenu/assets/highrescompressionlogo.png"
+hash = "44b1fb1246023eaf1262dcc7ba8cf4741753123a571f677c33ac8fe64103fe8d"
+
+[[files]]
 file = "config/fancymenu/assets/mechanical_click.ogg"
 hash = "9091b4bcd2465ec9e26509c5b1d8e4ce79bc3c22047d902fb11990212e716d0d"
 
@@ -313,8 +329,16 @@ file = "config/fancymenu/assets/singleplayer.png"
 hash = "a7655304826e3dafe43836289f45ccfa781876b2b3892a1cfe9e6aff6c7f4346"
 
 [[files]]
+file = "config/fancymenu/assets/skytext.png"
+hash = "f373eabd3150dca59c71395da349ea63ff640c8ea490d5da75bd2763dce4bb94"
+
+[[files]]
 file = "config/fancymenu/assets/skytext2.png"
 hash = "ae5090da67be455634ec17f818adfc9f7516c35cef26658a834a6fdf4482bd7e"
+
+[[files]]
+file = "config/fancymenu/assets/skytext3.jpg"
+hash = "e3889ae3ebc500a8130d06afbe91c6c8235c1b8377466282ed7419d73e1d986a"
 
 [[files]]
 file = "config/fancymenu/assets/test.apng"
@@ -323,6 +347,10 @@ hash = "53942aa5de56ad7e5766c95777ee632b8c2c1dd532a9b846d60a40449a88ade0"
 [[files]]
 file = "config/fancymenu/assets/thehandthatmockedthem.apng"
 hash = "cf18916b3eda22e08faf4095ece2681aadefb183dc690957214e67dce4ffccbf"
+
+[[files]]
+file = "config/fancymenu/assets/thesky.png"
+hash = "46eb8179125c9c0fa7f9f7b6e7d460fecdec237759b1ad4f8df8d56c257f88ab"
 
 [[files]]
 file = "config/fancymenu/assets/theskyisscreaminginpain.png"
@@ -350,15 +378,15 @@ hash = "dfd6d3496ec3b05e02eb5e399e2c70797d5f099923edb9e1dae2f31cc201b032"
 
 [[files]]
 file = "config/fancymenu/customization/compressionloading.txt"
-hash = "f723df93802ddef901fea1e9335de36bd8cdc084ff0de5d45cb85226ab384f64"
+hash = "ebbbd05e57039f725d1e4bc45715e8a9d50be197e3716339085aa0bdee038040"
 
 [[files]]
 file = "config/fancymenu/customization/compressionloading_2.txt"
-hash = "c40a899867be3d8554e0f8a0c606a891bed2834338f0eaf37eae48c9b15b8b50"
+hash = "0a9373c7dbcb64fd324e1b997569e2c2321c11784daa42d4a536f33087a10739"
 
 [[files]]
 file = "config/fancymenu/customization/compressionloading_3.txt"
-hash = "e9a2a69d9ca15f666259ec6505e5818dad73ee1c9f1848fe367ec8d516fae7f6"
+hash = "d36396ec9ea6d5ca128f561904df2911b8694c3ff5852fc9431cdaf2d5596f4d"
 
 [[files]]
 file = "config/fancymenu/customization/credits_layout.txt"
@@ -366,11 +394,11 @@ hash = "9a2579dd7d5695e01d16e15ce94c3716dc2b965bad0c3f8c3adb091c648e4cd8"
 
 [[files]]
 file = "config/fancymenu/customization/menu_music.txt"
-hash = "836a0695c7f664761dd91da3f5000e2f1711abad40c62943be39ca711c276a84"
+hash = "1832bdab43282f4fb618eb22a3fb9a89b41e9f38364b66688526d0e29040a805"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "88bbc74df121ebe5e22e5f52b841e51b3b4688056996d30144a8506eaebdc9d2"
+hash = "476ed76f6e6d01ccafbfb8c68c369743bfb62a1854d711aba573af9b5f5fbf8b"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_1.txt"
@@ -382,7 +410,7 @@ hash = "616914759e8c435e8f08de7736f1a5d39a93b512881ad5b8621ecf8924b67eca"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_3.txt"
-hash = "40c74eb159d45883f4bbfbdedf322b7b05437bf44f438c6d2ce88602d1f1def2"
+hash = "46ef1eca0fc397b27ee56de704d1033a2cba3320e963f971c0491f33d1ad88f5"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_old.txt"
@@ -462,7 +490,7 @@ hash = "7d1f5a102e9909d72247369418c25e011aabf481220a9656716a08bcd025da93"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "645beab38c301d1d0c86141286d4eb2089bbe4aa4e9b72e6ca20a5d568ec05be"
+hash = "dda6c4fbbb1bf9248ebb179fd25d727edf186da2e77adb9e95849509bde02abd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"
@@ -482,7 +510,7 @@ hash = "5eaa01737c46ffc31178fbfacbaaf71d9b0492e8a34838f1973905af60636bd4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "2f2ba2da29dae185a8e07dcb7188c05f4d23a608e8dfec8074dc8dd1dd53d092"
+hash = "dabc83c6c5b739d22590ddaa12f51f458f8ad5376192e415c4f229562605aadd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -7450,19 +7478,27 @@ hash = "3fbadecc2640dd32686dca212c619b62f4d6556118f0d08573117dd6bf8c72e7"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
-hash = "101b2c3afacf80b07df488735591d32e69ada873f399a6ca66bf077ddfee1ec4"
+hash = "67c90bbdfca3c7488d9496df0af4d1be7483634a0c4d179281d1c7c91ef32e7b"
 
 [[files]]
 file = "config/starterkit/kits/Kit_1.txt"
 hash = "29ef0ee4a59de8c2d49f40956634041041c7ab8ea21a36691c57803175f013cd"
 
 [[files]]
+file = "config/theoneprobe-client.toml"
+hash = "a5cb7b0eaf252dacbb4b25cd003fc64e28dad795ca3feb104e644428d713063d"
+
+[[files]]
 file = "config/theoneprobe-common.toml"
-hash = "54aa48ef00ac9ee39b270f8dab61aaff05f5aa17d2d29671b8bd11f4297cd8e6"
+hash = "8b7d24f345086ae8bfc81352d48b258f22343725eef0c61c606d9b0140543079"
 
 [[files]]
 file = "config/yosby/options.txt"
 hash = "6601a9b91320ab684b5405758d27088e13567fc8f10c7def18faa1d65b33b03e"
+
+[[files]]
+file = "defaultconfigs/ftbchunks/client-config.snbt"
+hash = "6d5592c9b61ca156d7901a1b2a626d9c1f5401ec6988e73fe01fab57c7df2260"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
@@ -7995,6 +8031,18 @@ hash = "c5aa5aeea928ccb7a51356901bce92f64984d608db586128da2e1452b0e379b7"
 [[files]]
 file = "kubejs/startup_scripts/worldgen.js"
 hash = "e36d34120d86356da340083fbccf6161629e61a2e40946fa633b2d1bbf10012a"
+
+[[files]]
+file = "logs/2024-12-12-1.log.gz"
+hash = "5f89031c938bafa6262028b84747232f58a17d49fa040c0045a041d4a363faab"
+
+[[files]]
+file = "logs/2024-12-12-2.log.gz"
+hash = "c48122de1e6af408a0eb4b69478747a4301f8b9550c3f453ad56fd8c0969b631"
+
+[[files]]
+file = "logs/2024-12-12-3.log.gz"
+hash = "523e105e867d4a3fe523eddaa520354287faa7a2f044a8a98acab47fbddef94c"
 
 [[files]]
 file = "mods/3dskinlayers-forge-1.5.2-mc1.19.1.jar"
@@ -8743,6 +8791,10 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "8fe58cbf1d128af0e210ee74dd21883a6c35ac0023c9605ae9646a29c03efd8a"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "8a2886b368c9dd1ddfb2e98d3d97261269623a24985ba275c1b436457dc46a03"
 
 [[files]]
 file = "readme-src/compression.png"
