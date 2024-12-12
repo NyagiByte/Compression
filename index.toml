@@ -6285,6 +6285,10 @@ file = "config/paxi/datapacks/compression/data/packages/recipes/package_maker.js
 hash = "8ba543a3cfa114c1595792b619cc7a56130a55b0bceec9df7bd99a29003678e6"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/packtweaker/tags/items/soulbound.json"
+hash = "d2510147c71f8b810090736b81b2cadaef86eefeee60b1d4fa85919e11498c97"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/drill_pipe.json"
 hash = "fb84726a5d0b904c5339c40f098272b0137a37c7a42cd4a96e5a77a00fd4980f"
 
@@ -8547,7 +8551,7 @@ metafile = true
 
 [[files]]
 file = "mods/packtweaker.pw.toml"
-hash = "f4e0273407ebc64b757331ed895736ec0f7eaf636b11e81aa9e2942286609c77"
+hash = "179438007444566ceee6e45380de06b034f19fda488bc720de4cb4651111c9d8"
 metafile = true
 
 [[files]]
