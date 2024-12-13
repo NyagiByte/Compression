@@ -1,0 +1,21 @@
+{"type":"immersiveengineering:arc_furnace",
+    "additives":[
+        {
+            "item":"nyagibits_bytes:raw_petalite"
+        }
+    ],
+            "energy":10000,
+            "input":{
+                "base_ingredient":{
+                    "item":"nyagibits_bytes:flux_mixture"
+                    },"count":2},
+                    "results":[
+                        {
+                        "count":1,
+                        "item":"nyagibits_bytes:raw_spodumene"
+                        },
+                        {
+                        "count":1,
+                        "item":"minecraft:quartz"
+                        }],
+                            "time":100}

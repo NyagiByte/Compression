@@ -1,0 +1,27 @@
+{
+	"type":"vintageimprovements:pressurizing",
+    "heatRequirement": "superheated",
+	"ingredients": [
+		{
+			"item": "nyagibits_bytes:lithium_alumino_inosilicate"
+		},
+		{
+			"fluid": "chemlib:sulfuric_acid_fluid",
+			"amount": 875
+		}
+	],
+	"results": [
+		{
+			"amount": 875,
+			"fluid": "nyagibits_bytes:lithium_alumino_solution_fluid"
+		},
+		{
+			"amount": 125,
+			"fluid": "chemlib:hydrogen_fluid"
+		},
+		{
+			"item": "chemlib:calcium_sulfate_dust"
+		}
+	],
+	"processingTime": 200
+}

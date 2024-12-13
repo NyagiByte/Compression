@@ -1,0 +1,48 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "chemlib:sodium_hydroxide"
+      },
+      {
+        "item": "chemlib:sodium_hydroxide"
+      },
+      {
+        "item": "chemlib:sodium_hydroxide"
+      },
+      {
+        "item": "chemlib:sodium_hydroxide"
+      },
+      {
+        "item": "chemlib:sodium_hydroxide"
+      },
+      {
+        "item": "chemlib:sodium_hydroxide"
+      },
+      {
+        "item": "chemlib:sodium_hydroxide"
+      },
+      {
+        "amount": 875,
+        "fluid": "nyagibits_bytes:lithium_alumino_solution_fluid"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "chemlib:lithium_hydroxide_dust"
+      },
+      {
+        "count": 1,
+        "item": "chemlib:sodium_sulfate_dust"
+      },
+      {
+        "count": 1,
+        "item": "chemlib:aluminum_hydroxide_dust"
+      },
+      {
+        "amount": 500,
+        "fluid": "nyagibits_bytes:tailings_fluid"
+      }
+    ]
+  }

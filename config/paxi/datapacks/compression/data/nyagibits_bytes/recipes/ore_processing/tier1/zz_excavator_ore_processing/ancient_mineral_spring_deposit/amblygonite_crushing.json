@@ -1,0 +1,21 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_amblygonite"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "chance": 0.5,
+        "count": 1,
+        "item": "nyagibits_bytes:lithium_alumino_inosilicate"
+      },
+      {
+        "chance": 0.1,
+        "count": 1,
+        "item": "chemlib:phosphate_dust"
+      }
+    ]
+  }
