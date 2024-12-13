@@ -8054,7 +8054,7 @@ hash = "a0d23a32a13d95434239dcf16a5334489be694e3c13cd6384021d17220eadb34"
 
 [[files]]
 file = "mods/abyssal-decor.pw.toml"
-hash = "e0e3deb42bbf9021c4edd45b6cb9d6ce8732955658b33f7895295fbd22ceb3a3"
+hash = "69ce3a6d68568243c38088c26ee9fcc696e3137af1df02e4d96b27c8e054d4e6"
 metafile = true
 
 [[files]]
@@ -8327,6 +8327,11 @@ hash = "f2bdada853b7968d2106949fcc1327dd0f445149a75c7e523f9d07c05d6d9fc0"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "f98f11d8a4bd35925c2be8efe43a6c853d34955abc7273aa4e8e76170e9c2884"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu_forge_3.3.1_MC_1.19.2.jar"
 hash = "f0d3d73c00b0181355cd392a4495c0e9d50c587cae26993e593f992427e8effb"
 
@@ -8378,6 +8383,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "4638b07d166445da41d0f17e4300592be3592c4b62214081197794bd577443e4"
 metafile = true
 
 [[files]]
@@ -8663,6 +8673,11 @@ hash = "e0548e13b9601fb59af1c762cc22a4becb400bef18c8564d23c92c3144cf3317"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "248562f7717f02d954ea1b73c03033a666db6f5c9156f331cb0287869626d6da"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "c3dcc27103f65bf73dee2898706f1c3a13983cbeb63d14f7caed26630d72bbde"
 metafile = true
@@ -8790,6 +8805,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "8fe58cbf1d128af0e210ee74dd21883a6c35ac0023c9605ae9646a29c03efd8a"
+metafile = true
+
+[[files]]
+file = "mods/yuushya-townscape.pw.toml"
+hash = "7ee06b41482001eb1e131b1e1489cf34208a08bef53f6771ce6ff8b282228463"
 metafile = true
 
 [[files]]

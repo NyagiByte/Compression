@@ -1,0 +1,13 @@
+name = "Handcrafted"
+filename = "handcrafted-forge-1.19.2-2.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64709fdbc3e4b375c019990a76452183bf005243"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4437459
+project-id = 538214

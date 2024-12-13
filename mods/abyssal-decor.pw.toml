@@ -1,13 +1,13 @@
 name = "Abyssal Decor"
-filename = "abyssal_decor_1.19.2_0.1.2.jar"
+filename = "abyssal_decor_1.19.2_0.1.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6845686a0e8966fcfee3db0bdbe5fa158b32d228"
+hash = "fbb372d6b13f55c7d5bde5e901c4dfcbbaf4bc2c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5053941
+file-id = 5870626
 project-id = 964853
