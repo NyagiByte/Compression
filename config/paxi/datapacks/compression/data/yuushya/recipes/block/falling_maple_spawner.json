@@ -1,0 +1,8 @@
+{
+    "type":"minecraft:stonecutting",
+    "ingredient":{
+        "item": "ae2:matter_ball"
+        },
+            "result": "yuushya:falling_maple_spawner",
+            "count":1
+        }

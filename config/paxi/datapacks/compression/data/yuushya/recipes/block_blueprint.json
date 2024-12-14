@@ -1,0 +1,8 @@
+{
+    "type":"minecraft:stonecutting",
+    "ingredient":{
+        "item": "ae2:matter_ball"
+        },
+            "result": "yuushya:block_blueprint",
+            "count":4
+        }
