@@ -4373,6 +4373,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "5bc85d35756e1355b3b14c59a2cbdaaf5247f904a116b94e6a7daf7f4ab540ee"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/lithium_alumino_solution_neutralization.json"
+hash = "b22b7314bb7129e8422e23ee64dd8c2bf302816e920bf03ef34352cdfa037124"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/livisite_alloy_t0_mixing.json"
 hash = "38e923e1f7b91305f2f47e50ce62abdbffba9cb63327aaf8619f8e74655e2f6d"
 
@@ -5957,6 +5961,22 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "569e5f7ff5054f2ba15db2cb50cd386e71c931de4d7bd0cd68a435488af6de5f"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/zz_excavator_ore_processing/ancient_mineral_spring_deposit/amblygonite_crushing.json"
+hash = "81cf73d0d645aeb1fde87c581965ff4c23529924d51f720d4fc152b5abf8224e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/zz_excavator_ore_processing/ancient_mineral_spring_deposit/lepidolite_crushing.json"
+hash = "d93932e8307b33e042be9e98bf6914b9e0465a94bbf99516407bafe09e562c60"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/zz_excavator_ore_processing/ancient_mineral_spring_deposit/petalite_arc_furnacing.json"
+hash = "4f40fdbffb0e0344940cefe81e47923ae7f20943f32a905500b0e2ba8bacfac0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/zz_excavator_ore_processing/ancient_mineral_spring_deposit/spodumene_crushing.json"
+hash = "1f2030b085112b05b0df07ef85761e24cc24e0ecb1029d33332e65bd10f47452"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/zz_excavator_ore_processing/argyrodite_deposit/germanite_crushing.json"
 hash = "1b4f2015b2ad3d01db4c37503bf358fbfa818c8d5851e3102e63851b39165c48"
 
@@ -6279,6 +6299,10 @@ hash = "8fa9e42cd7f1af4189cea0686696dc92a8cc4d0c61f3e69b200a53910580880c"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/fluorophlogopite.json"
 hash = "51711bd717c713346faadfb3f20bc040305521428a73ceffbf631cadda1d1dcf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/lithium_alumino_solution_fluid.json"
+hash = "e8aeecfd3972db5c79e8e64787b0ece5fa523765ead491ae10594a3f1e97be82"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/polycrystalline_silicon_carbide_t0.json"
@@ -7105,6 +7129,334 @@ file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/seque
 hash = "676f74acebeedab7174a16ecc9081d256e406c306bc4403416a697cb20b3f24f"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/average_table.json"
+hash = "59290442574760ed1085206b586adadec0e5a6959f921644865b158495abc7fa"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/bar_stool.json"
+hash = "3a188716cbd9d0343147b8495d6813a9955c04508ac0167c2e3e491c12ff8b53"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/basket.json"
+hash = "2fff085e8e146bdf53faca88f0f4dbd037966792f552a5343e765a878dc8904b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/bench.json"
+hash = "59e1c21a1eba108696651f88ed2769ad3e0ecddfa584b92f911f550d930d23b7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/bicycle.json"
+hash = "c2afa6dc2e973e9958823164567f7e32efba41437ca1efef04efb307530aef9c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/big_table.json"
+hash = "00fb5db3eb022ed99520cd132db25f94b28b4bb3f4100d872d2326469718de2b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/black_bow_gift_box.json"
+hash = "863e401ece3fb56af66e6f926f08a7f4d5ff200b11940fc619d5934c2c93f038"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/black_bow_small_gift_box.json"
+hash = "9c2fc936578e85815cc9993e0e58e67477428e608887c5612110367584501dc8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/board.json"
+hash = "7ba0b6e9bd3b9be3d6a00d21b8974c874e429557f0ab967acfa8d0f8b9262324"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/bookshelf.json"
+hash = "45a7d2370227e13ec931386ba8a4fc701c7bf3521edbb2cd47b36a1869d9ae8d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/bottle_container.json"
+hash = "962d96185dea63f91b4e13afd91754424ec680b200bc6b88c905516f9163fc2b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/bucket.json"
+hash = "d8210989d17a03fe2a5a907915668ef5901c41f30309587a779430fcd30ee340"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/cart.json"
+hash = "3a4e8161d7013771b93ac554ec4d67138023f2f31984d0ef7337b3803e845632"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/chair.json"
+hash = "81f9a703eda24fcd9c87cab00d74a1b3f346829a439f934a6f6f000fcaa7f95d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/clock.json"
+hash = "af2c53625713ec886ad667dcf77cfea8e516e0b10506d1916c389e2417e77ce5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/column.json"
+hash = "42c04c62560f770ebbfe79c2ee7c9cac28a9b560cacc5c6efab7c1ded7cf1c2f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/couch.json"
+hash = "f32dcc8e7e54a7afa79389f154655191f954ed1c73f41a2ee1633625e6cbb9c7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/cushion_armchair.json"
+hash = "b9737a5ed23ada19992e62e98128b76dcd73e8337971f0b09f79fdd7c3b68aae"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/decoration_bookshelf.json"
+hash = "22081d8be89bd11dd87319f37c5bb6f25e555a8d40fefa4118337678185f55c0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/decorative_shelf.json"
+hash = "af81fb696282ba5c8dbeefd2a9df11d64cd2302664e0348794887535be1bfb18"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/falling_maple_spawner.json"
+hash = "f03bc4b378d3bdba07336c6cef8bce0c914cf88dc6e5d4cc35e608101c5acdde"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/falling_oak_spawner.json"
+hash = "285e292bb2e7bddac27bc8783acb2a7fb9819db36e4c7f76874e4f7d41c368a6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/falling_sakura_spawner.json"
+hash = "e1274c2719042e4bee11ef753e0c43f210bd044e4f8297e96d32c82e6b4eefe2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/fence.json"
+hash = "34beae9ed909de1616b6f5dcdd3341f37e9f173fbe40c2192ebb1f75735dea32"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/fence_corner.json"
+hash = "20988ef0cb7a53d63a66f9a39f772e425110eb82bdd752cf9d85fc3ad1dadd06"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/foldable_ladder.json"
+hash = "d581983c6da9da0a1f3f2f417d85b04d88df698c1de0e3b852d45e4cbe3f727d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/frame_bottom.json"
+hash = "54b4cf55844a21cd74b0cc67c4567c39b47b4b90e6dad1ab3d543e48e8d138b1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/frame_left.json"
+hash = "74e030d26ad6292f3482e73b5ea19cc03bfc668f1bb75dd67b57ff4f2f3c74f4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/frame_right.json"
+hash = "d6c88435f04a6eb95e62b3b76ca69ccefdd6a0bcb8f96b0eb95a366341fa68c8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/frame_top.json"
+hash = "b555534519765e834d4361856067277c108bba8bffed6936effc72b57f7dc09c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/half_side_slab.json"
+hash = "f9612e39f9e874c9c7b4c6e7a51308846951a3b8b3d8ff67c1169a9c58cc1c13"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/half_slab.json"
+hash = "f9d5a9bc057bd4a4f8665b0833e69a2a9f3cadb5db6ca7b1fe0ba8360458b910"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/handrail_left.json"
+hash = "ee07404f5c13d8c7d54cd8aed2332d7911aaebed6047877b43fbdc5a86000dbe"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/handrail_middle.json"
+hash = "40efae669db4bd3979e2d50555bc019b10ac1aa08cd3957a2a3301bf48994d4f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/handrail_right.json"
+hash = "4bd6cc0346c355bd59ac377ae5535ae2b74de8cba054555f78f3dfe1f65fb3fb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/hollow_stairs.json"
+hash = "33e66fffd5125e79c61e76f4fb932b01dbea03529e9a20590627f75333a96a17"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/horizontal_column.json"
+hash = "04a4fa06e2302250e97efb4b75eac2477ad968f0b43ce2452aa671db61efac56"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/horizontal_pole.json"
+hash = "22f92ec30fbe8a052a8563d18aa481daf03ef2929a15083b592258f3eb86017b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/horizontal_post.json"
+hash = "5cf87b369e650021d5daf0a286913df3e3f8f12aa4ce682b7f1a578d4aa2aa24"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/horizontal_stick.json"
+hash = "ddec7a6692b58db46064eeb1634cc0b8f06e67d93656d946d513d709ffb1ffca"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/ladder.json"
+hash = "ec40e273477b454c36a4b976d54817186d5b9e325c16c5d773fa18e5f9335953"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/leaned_skateboard.json"
+hash = "f5d998e143f7303c0f4018d025235011c411aef28a4bc35b17ef206eb9c4c309"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/leaning_ladder.json"
+hash = "3740fd12c7c9ffaaa0f222d1ce24ca00488f3e4e425b90dab9e8e605f17b256a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/lengthened_rain_shed.json"
+hash = "94c082c49458c475a823b43159b02b62ca24712bcd131d5e706ebb05de46dc1a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/medium_table.json"
+hash = "1a1e720f6ed41935585b42d389dfdea79489b90c2a35dd5dd7199b278548ad72"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/mounted_fern_pot.json"
+hash = "2703c448d3e56666d25ca5c5a15ca6054a8c003600a217d59aba25052c11678b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/new_fence.json"
+hash = "a99e537854c35570f3eda94ef1dcfab2d599311749962a645cb73a3abb2e44a4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/park_bench.json"
+hash = "a6eebbe3cfc2f9057d0097ca2f90c33bfdb6ca9f14588440ae1d55d9e1e8d540"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/park_bench_no_handrail.json"
+hash = "d0efc21e495e358aa7e3c80dc2a36dafa9167b98136154d490728eae286fdbb4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/park_stool.json"
+hash = "a20882747152e158aec9b686d7ab05573b6305b384bcac86671cff75f6fff624"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/platform.json"
+hash = "3ebe62a6cdf6448507fd4c4be9f78b6a03486d3159718fef3c3c5096496f2437"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/pole.json"
+hash = "84c194f952e05cdfcd26e5fa1f8e3ac78dafa3ab2c2b63d59bcd6dfb4a017739"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/post.json"
+hash = "9b188d1a39d15ca562c27cd6cb98136072c96c7318753d481aaa2c40b5397d6f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/rain_shed.json"
+hash = "eec117ef92d52e7ff5db66bc7d2efcaba55d0e6124f91c52892e6725b5470174"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/ridge.json"
+hash = "f933d59e54e56453cb32ea5628d86cffe7756a0986c348b3fc7fcead8efc0b83"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/round_clock.json"
+hash = "1ded77d215be32124f9a3aeb968033c0645c6a1b78ef3a5a178fac4a78aa6bd9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/seat.json"
+hash = "e1cd5b00a7664733680a2dd8e421cb6754b3d8c8827274156cd23676d6897f2d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/shelf.json"
+hash = "9b83ae1448b0b2f774d90e58023a1e332782289f8143fe528069d14e8f7bf1fe"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/side_slab.json"
+hash = "2f7c2420a2dd3cf77dae1aea679e12bb7aec36758438a1179d4e2dd98986b4b3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/skateboard.json"
+hash = "d0c78a94ce65b80058e155f89379d52512f0e0720209b62e25156c476d6291bb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/slab.json"
+hash = "5dc1da6f697e34ee210d08ff73421bdc437a4e48a7e14a47102e72ebf1cb1fa2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/slippers.json"
+hash = "bab463baa606bf895ebd3d0079179f1050ece2536c1606be6b37682c69c631c7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/stairs.json"
+hash = "b4dd43d80b298bf3f40d939c1700db69456c3ffa4eda6afbe4462a66cca0ede9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/stick.json"
+hash = "e4a023e083da148adbfe28b52a1d2686f66ae8585fbc2458f2dee807811e855c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/uncovered_shelf.json"
+hash = "fcd39a4d687d08de4ad1f525a02402de66d821b90eafa3a4fb2650e84ea0463b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/venetian_blinds.json"
+hash = "effd5d9a831b963b67b02bcd2747976dcd0167ec031ade466dc531aaed005868"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/white_bow_gift_box.json"
+hash = "d303b313526f7a90a98b830f019e1bd0a993beef3fa5a29581c150a81be2bfdd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block/white_bow_small_gift_box.json"
+hash = "fefdc1d9d1ad8dd273efe4f9891cb64043295ffa0eea60a3f245c0c353d2f4d5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/block_blueprint.json"
+hash = "dbbe227eae36052c395b3fc5bd278bf7e7cb073a7583e6d72b7565bad017e678"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/catering_blueprint.json"
+hash = "8e69f845fba4dc5328662024c64f371d15fa861536a71fd1664609cf2849a9cd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/extra_shapes_blueprint.json"
+hash = "16df42c0ba47ba6aa5442bf51532111bb5cf5218dc3fafb3e1e6b3bff5a4afd7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/fabric_blueprint.json"
+hash = "ab66edc5cb783de688993e3f6cf86b9c25801ee25402383c9bb1313c8ecc47a3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/facility_blueprint.json"
+hash = "aaac41cdcdd189265ee48ca60d4f6422f997921df87f62f1284f691dba039829"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/furniture_blueprint.json"
+hash = "f1e1047c4c106de403d39d9f54dcff05245cd2a784432e78f43fb80bb944cbd2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/lighting_blueprint.json"
+hash = "91b85689853798c59ccb88c2f9f50269498eed4f833c76200214388978e66f53"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/living_being_blueprint.json"
+hash = "9b17af15bd96d68ab81cbadf91ce1e5f7ba27ac4a2b81d727684a77b0beb6572"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/sign_blueprint.json"
+hash = "c71948d375ecc19656afc267726e0f641997c71562fab3dc260f33149c1ee246"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/stone_blueprint.json"
+hash = "7e42bb233a793e2c365a9a0c993689940f160e2310577c4e7c99efccb1b84e24"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/store_blueprint.json"
+hash = "15be25d7664a6c14ded903ae421d366a90772484d411f9f78e3311e3982fbe24"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/traffic_blueprint.json"
+hash = "9ded1f68b002f8262c63ef546d569b40391c63be63e81592002e36a4aa48f705"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/window_blueprint.json"
+hash = "f3903723640c3075a2f839da09e5e26a2c45e6da3e4ce4b38f78543b814a4da1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/yuushya/recipes/wood_blueprint.json"
+hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
+
+[[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
 hash = "e9e0809171815ff5d19bc0860cd2355484d616bc13949a2318d42454163669a2"
 
@@ -7497,16 +7849,16 @@ file = "config/yosby/options.txt"
 hash = "6601a9b91320ab684b5405758d27088e13567fc8f10c7def18faa1d65b33b03e"
 
 [[files]]
+file = "defaultconfigs/create-server.toml"
+hash = "b4c7394a26bee7e7f41c201a4e7d151e3b9c8719da0ef3945d9ce867c59308de"
+
+[[files]]
 file = "defaultconfigs/ftbchunks/client-config.snbt"
 hash = "6d5592c9b61ca156d7901a1b2a626d9c1f5401ec6988e73fe01fab57c7df2260"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
 hash = "f1082ffe895dd0f555f0e7eed5eb00fe6f9e3e890abff9763c649be1c14a1ef2"
-
-[[files]]
-file = "defaultconfigs/serverconfig/create-server.toml"
-hash = "b4c7394a26bee7e7f41c201a4e7d151e3b9c8719da0ef3945d9ce867c59308de"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
