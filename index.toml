@@ -9165,10 +9165,6 @@ hash = "7ee06b41482001eb1e131b1e1489cf34208a08bef53f6771ce6ff8b282228463"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "8a2886b368c9dd1ddfb2e98d3d97261269623a24985ba275c1b436457dc46a03"
-
-[[files]]
 file = "readme-src/compression.png"
 hash = "1937f0cc68fb4f80ef0475bd89ae2d9376c2d94d742c5bcc6e6b76dc478bd16f"
 
