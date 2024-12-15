@@ -3085,6 +3085,14 @@ file = "config/paxi/datapacks/compression/data/farmersdelight/recipes/mixing/str
 hash = "c697c815e2dd313e2f9f45270da5678056616d678dd71601e84592cceb160643"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/fluids/ammonium.json"
+hash = "7d8023b869828da2cb1a37524702729b55066042ae02987d10cdb67889073381"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/fluids/endstone_leach_water.json"
+hash = "b0468e08dda26d97b12266d986fa021b268910a353368030762305471462a356"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/fluids/ethanol.json"
 hash = "71923bdeb00b0539d230f0e3b31387c186fe94cdbb23ee52a65f29cb2d821280"
 
@@ -3103,6 +3111,10 @@ hash = "5a8e28c8cabf700f17a781269278d7fdaa97ababfe743fb19b8c550bcae69f0c"
 [[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/fluids/raw_wood_vinegar.json"
 hash = "dca71e136ed5a6d5e5415c304ae6bf4bc3d656974c3e2044867aecc6ac94a0b5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ender_pumice.json"
+hash = "b92ea3b70a84d32cd24165530fdc273e54676ca1029d371aa1274ccdf5dec6b6"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/petal_apothecary.json"
@@ -3733,6 +3745,10 @@ file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/blastf
 hash = "b80a949950d84b8ffbfbc92d334a959e8c6a41ac14b06e11b6a8f29e0b382584"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/coker/ender_pumice_bubbling.json"
+hash = "6aff214d90619014b7d8d0639e7c6c6daadbc254dd211edd44a486a1bae2c01c"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/distillationtower/hydrocarbon_tar.json"
 hash = "3ea8ff7bc54363efa73352e070481f4cd3e170cf0f46157b5f2f6e0e7c5ffe70"
 
@@ -3743,6 +3759,10 @@ hash = "527ecf698318043681beefa7a9225d765ded36323991a31a0854e0569747cc3c"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/gas_generator.json"
 hash = "08d28a0f25b6fff6bf2fe948da52cd9963322af218807bd945a43f1efdde4a09"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/hydrotreater/endstone_leach_water_cleaning.json"
+hash = "d8be0445506ba300924bb0594b065f5fe558af2d160674009635d85e2d72c86f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/hydrotreater/heptafluoropropane.json"
@@ -6341,6 +6361,14 @@ file = "config/paxi/datapacks/compression/data/packtweaker/tags/items/soulbound.
 hash = "d2510147c71f8b810090736b81b2cadaef86eefeee60b1d4fa85919e11498c97"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/assembly/fossil_cracking.json"
+hash = "90f486d4a7698d6b175c5677dc2d7ea5517290e17364542fa791496eeb977d76"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/assembly/fossil_drilling.json"
+hash = "f3b98ed5e911d936464e25eee41fc68514b3a8f942b86b733457d3eff29c332d"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/drill_pipe.json"
 hash = "fb84726a5d0b904c5339c40f098272b0137a37c7a42cd4a96e5a77a00fd4980f"
 
@@ -6355,6 +6383,10 @@ hash = "10f115f25887af2511031f53e0e60896a26b99726d31c516be25893419e74c6c"
 [[files]]
 file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/heat_sink.json"
 hash = "0d9b86f64f5768f49a28937f03a35dbef87a98d46c2679dc28a2e068c46e4bcf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/thermo_plant/fossil_dissolving.json"
+hash = "b9450597ed38115ec7d80774245fadbb8bce60f7c57c681932d9eb13d14de311"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/thermo_plant/yeast_culture.json"
@@ -8932,7 +8964,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "70f65a5476ccf0707247771c61fafb177a6e405b5b9b6c6740c74ad8ae0cba7b"
+hash = "56b2157bd7f320b210da31ba57202cff763755882f4ce8fe6dc8e0912161c088"
 
 [[files]]
 file = "mods/oculus.pw.toml"
