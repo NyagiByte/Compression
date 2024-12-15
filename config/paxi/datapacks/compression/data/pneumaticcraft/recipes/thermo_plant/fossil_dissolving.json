@@ -1,0 +1,24 @@
+{
+    "type": "pneumaticcraft:thermo_plant",
+    "exothermic": false,
+    "fluid_input": {
+      "type": "pneumaticcraft:fluid",
+      "amount": 100,
+      "fluid": "nyagibits_bytes:amorphous_cellulose_fluid"
+    },
+    "item_input": {
+      "item": "nyagibits_bytes:ancient_fossil"
+    },
+    "item_output": {
+      "count": 1,
+      "item": "nyagibits_bytes:fossil_resin"
+    },
+    "fluid_output": {
+      "count": 1,
+      "amount": 200,
+      "fluid": "chemlib:carbon_dioxide_fluid"
+    },
+    "temperature": {
+      "min_temp": 100
+    }
+  }

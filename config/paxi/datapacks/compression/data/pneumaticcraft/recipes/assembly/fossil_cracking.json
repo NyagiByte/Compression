@@ -1,0 +1,13 @@
+{
+    "type": "pneumaticcraft:assembly_laser",
+    "input": {
+      "type": "pneumaticcraft:stacked_item",
+      "count": 1,
+      "item": "nyagibits_bytes:ancient_fossil"
+    },
+    "program": "laser",
+    "result": {
+      "count": 1,
+      "item": "nyagibits_bytes:oolithus"
+    }
+  }
