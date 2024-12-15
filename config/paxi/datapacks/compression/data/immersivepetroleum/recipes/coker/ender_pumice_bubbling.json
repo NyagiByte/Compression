@@ -1,0 +1,23 @@
+{
+    "type": "immersivepetroleum:coker",
+    "energy": 10000,
+    "input": {
+      "base_ingredient": {
+        "tag": "forge:ender_pumice"
+      },
+      "count": 2
+    },
+    "inputfluid": {
+      "amount": 10000,
+      "tag": "minecraft:water"
+    },
+    "result": {
+      "count": 1,
+      "item": "botania:ender_air_bottle"
+    },
+    "resultfluid": {
+      "amount": 10000,
+      "fluid": "nyagibits_bytes:endstone_leach_water_fluid"
+    },
+    "time": 30
+  }

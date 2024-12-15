@@ -1,0 +1,27 @@
+{
+    "type": "immersivepetroleum:hydrotreater",
+    "time": 60,
+    "energy": 61440,
+    "result": {
+      "fluid": "minecraft:water",
+      "amount": 500
+    },
+    "conditions": [
+      {
+        "modid": "pneumaticcraft",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "input": {
+      "tag": "forge:endstone_leach_water",
+      "amount": 500
+    },
+    "secondary_input": {
+      "amount": 100,
+      "tag": "forge:ammonium"
+    },
+    "secondary_result": {
+      "item": "chemlib:platinum",
+      "chance": "0.05"
+    }
+  }
