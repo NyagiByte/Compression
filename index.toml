@@ -2777,12 +2777,8 @@ file = "config/paxi/datapacks/compression/data/createchunkloading/recipes/mechan
 hash = "1e742593b9871e9d7abbf68a43ba21b424db435d2d31127309ca09c0c1cff621"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/curios/functions/tick.mcfunction"
-hash = "0dada250c47250a583c70ed8bed50214cc79954f47a580dd820d5fb10520e31d"
-
-[[files]]
 file = "config/paxi/datapacks/compression/data/curios/tags/items/ring.json"
-hash = "b3b8a31b1042a3cd3f40c705261f7217b0c2a037a94855eac4d2e2e91ff90cca"
+hash = "a7a73ee86d50b2d5b78c73dfb71c05f87b8eb216b8440b72c4f6bb9747733777"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/entangled/recipes/block.json"
@@ -6406,7 +6402,7 @@ hash = "8ba543a3cfa114c1595792b619cc7a56130a55b0bceec9df7bd99a29003678e6"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/packtweaker/tags/items/soulbound.json"
-hash = "d2510147c71f8b810090736b81b2cadaef86eefeee60b1d4fa85919e11498c97"
+hash = "56c4e2a362323ce2fcfc41fd1297fbc3aed82d734ef069327ae9d360cbd8216e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/assembly/fossil_cracking.json"
