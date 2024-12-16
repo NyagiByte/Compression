@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"chemlib:ethanol"},
+      "B": {"item":"chemlib:sulfuric_acid"},
+      "C": {"item":"nyagibits_bytes:ph_strips"},
+      "D": {"item":"create:clipboard"},
+      "E": {"item":"nyagibits_bytes:chromatography_kit"},
+      "F": {"item":"immersiveengineering:hammer"},
+      "G": {"item":"nyagibits_bytes:sturdy_box"}
+    },
+    "pattern": [
+      "ABC",
+      "DEF",
+      " G "
+    ],
+    "result": {
+        "item":"immersiveengineering:survey_tools"
+    }
+}

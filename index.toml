@@ -510,7 +510,7 @@ hash = "5eaa01737c46ffc31178fbfacbaaf71d9b0492e8a34838f1973905af60636bd4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "dabc83c6c5b739d22590ddaa12f51f458f8ad5376192e415c4f229562605aadd"
+hash = "464a56e2a48a3c6c24ad15cacd5b52bc5d4d56b177a215c549564edf109475b0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -3467,6 +3467,10 @@ hash = "4edcf17c3a06116c997d90c9340a3be7d4824c99446aa6b50c5a7946d9336c6f"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/stick_steel.json"
 hash = "48d0413a5ffcabdd911dbc18b125d5bebf5d48d0fd780f54c11c5efd972d61e6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/survey_tools.json"
+hash = "4532b99006e402a7e62444e5b79054c6a0588c3abbc6dc32f893be96700d4d8a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/thermoelectric_generator.json"

@@ -1965,11 +1965,24 @@
 				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
-			tasks: [{
-				id: "00E28D583BD8798D"
-				item: "immersiveengineering:sample_drill"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "00E28D583BD8798D"
+					item: "immersiveengineering:sample_drill"
+					type: "item"
+				}
+				{
+					id: "6DC8E54323492EC8"
+					item: {
+						Count: 1b
+						id: "immersiveengineering:survey_tools"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
 			title: "Sampling the world"
 			x: 11.5d
 			y: 5.0d
