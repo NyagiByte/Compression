@@ -4,55 +4,68 @@
         [
             "minecraft:overworld"
         ],
-    "fail_chance":0.05,
+    "fail_chance":0.1,
     "ores":
         [
             {
-                "chance":0.5,
+                "chance":0.3,
                 "output":
                     {
-                        "item":"minecraft:soul_soil"
+                        "item":"nyagibits_bytes:raw_monazite"
                     }
                 },
             {
                 "chance":0.3,
                 "output":
                     {
-                        "item":"minecraft:soul_sand"
+                        "item":"nyagibits_bytes:raw_cerite"
+                    }
+                },
+            {
+                "chance":0.1,
+                "output":
+                    {
+                        "item":"nyagibits_bytes:raw_allanite"
                     }
                 },
             {
                 "chance":0.2,
                 "output":
                     {
-                        "item":"minecraft:gravel"
+                        "item":"nyagibits_bytes:raw_bastnasite"
                     }
-            }
+                },
+            {
+                "chance":0.1,
+                "output":
+                    {
+                        "item":"nyagibits_bytes:raw_xenotime"
+                    }
+                }
         ],
-    "sample_background":"minecraft:soul_soil",
     "spoils":
         [
             {
-                "chance":0.5,
+                "chance":0.1,
                 "output":
                     {
-                        "item":"minecraft:netherrack"
+                        "item":"minecraft:dirt"
                     }
                 },
             {
-                "chance":0.3,
+                "chance":0.1,
                 "output":
                     {
-                        "item":"minecraft:basalt"
+                        "item":"minecraft:sand"
                     }
                 },
             {
-                "chance":0.2,
+                "chance":0.1,
                 "output":
                     {
                         "item":"minecraft:gravel"
                     }
-            }
+                }
         ],
-    "weight":0
+    "weight":25
 }

@@ -1,0 +1,36 @@
+{
+    "type":"immersiveengineering:mineral_mix",
+    "dimensions":
+        [
+            "minecraft:overworld"
+        ],
+    "fail_chance":0.2,
+    "ores":
+        [
+            {
+                "chance":0.95,
+                "output":
+                    {
+                        "item":"nyagibits_bytes:ender_pumice"
+                    }
+                },
+            {
+                "chance":0.05,
+                "output":
+                    {
+                        "item":"nyagibits_bytes:end_organic_mush"
+                    }
+                }
+        ],
+    "spoils":
+        [
+            {
+                "chance":0.1,
+                "output":
+                    {
+                        "item":"minecraft:end_stone"
+                    }
+                }
+        ],
+    "weight":5
+}

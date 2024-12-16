@@ -19,6 +19,6 @@
       "fluid": "chemlib:carbon_dioxide_fluid"
     },
     "temperature": {
-      "min_temp": 100
+      "min_temp": 303
     }
   }

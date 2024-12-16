@@ -1,0 +1,29 @@
+{
+    "type":"immersiveengineering:mineral_mix",
+    "dimensions":
+        [
+            "minecraft:overworld"
+        ],
+    "fail_chance":0.99,
+    "ores":
+        [
+            {
+                "chance":0.01,
+                "output":
+                    {
+                        "item":"nyagibits_bytes:cosmic_irradiated_flake_fragment"
+                    }
+                },
+            {
+                "chance":0.99,
+                "output":
+                    {
+                        "item":"botania:ender_air_bottle"
+                    }
+                }
+        ],
+    "spoils":
+        [
+        ],
+    "weight":1
+}

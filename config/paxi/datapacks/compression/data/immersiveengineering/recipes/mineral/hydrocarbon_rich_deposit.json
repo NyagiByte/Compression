@@ -1,0 +1,36 @@
+{
+    "type":"immersiveengineering:mineral_mix",
+    "dimensions":
+        [
+            "minecraft:overworld"
+        ],
+    "fail_chance":0.2,
+    "ores":
+        [
+            {
+                "chance":0.4,
+                "output":
+                    {
+                        "item":"nyagibits_bytes:raw_oil_sands"
+                    }
+                },
+            {
+                "chance":0.6,
+                "output":
+                    {
+                        "item":"nyagibits_bytes:raw_kerogen"
+                    }
+                }
+        ],
+    "spoils":
+        [
+            {
+                "chance":0.1,
+                "output":
+                    {
+                        "item":"minecraft:red_sand"
+                    }
+                }
+        ],
+    "weight":10
+}

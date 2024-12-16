@@ -1,0 +1,36 @@
+{
+    "type":"immersiveengineering:mineral_mix",
+    "dimensions":
+        [
+            "minecraft:overworld"
+        ],
+    "fail_chance":0.8,
+    "ores":
+        [
+            {
+                "chance":0.9,
+                "output":
+                    {
+                        "item":"minecraft:bone_block"
+                    }
+                },
+            {
+                "chance":0.1,
+                "output":
+                    {
+                        "item":"nyagibits_bytes:ancient_fossil"
+                    }
+                }
+        ],
+    "spoils":
+        [
+            {
+                "chance":0.1,
+                "output":
+                    {
+                        "item":"create:limestone"
+                    }
+                }
+        ],
+    "weight":10
+}
