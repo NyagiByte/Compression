@@ -6193,6 +6193,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_cr
 hash = "10dde417251c2ed5a5d6428dbecf7c3ae4bc56f914d7e43e7a617a2981e1f3b4"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/faintly_resonating_god_heart.json"
+hash = "cb7dec196b82a4d9ccd9a6f1aef85e296f56cd87644cbf65ac4e98556a62687b"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/heavy_plating.json"
 hash = "191f947365a8cd2005e7bd0159acfd643f6ac2a80187cdb93c1784770ccfcc81"
 
