@@ -3581,6 +3581,14 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mine
 hash = "86a391e7ce245d7552ad157d69b67ff608ae1960d1b06146e8aad62ced9d46bf"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/ancient_mineral_spring_deposit.json"
+hash = "cfa168812a79ba57c5e319f63147a3e703e591a28a0dc328bdeb66141f0b5d84"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/argyrodite_deposit.json"
+hash = "5cd4f0de876a191a6a46a58d0d4938ea98e196f9601de70c6ff67d5e59d041e0"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/auricupride.json"
 hash = "96f81f262ec0a903b0745d17d79eecea0c6b4000b24de11f96e12cbcd5515cc7"
 
@@ -3593,16 +3601,20 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mine
 hash = "b0de931353c985158215df8558844919c128d77bbb3f10c18d62a816f0b5d51d"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/carbonate_igneous_deposit.json"
+hash = "e99b50d0b00fce334c20f20885f85b44304395560e5f1f0b6b8710c52f6b874f"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/cassiterite.json"
 hash = "3e99c9c6602f661bb2a19a29f83e2cb2438e62d511353d7c8228b79d84779fc3"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/chalcopyrite.json"
-hash = "003b6b2e09dc100b68a56eb0c378586f58d17969348c0d3de5d513157b2107c4"
+hash = "0a6f91d27f5b65de29d8397bba74428a507b4506655f408511f3f9f45a1e01df"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/cinnabar.json"
-hash = "8f2094e5998058d100631ed2dab407b6a83d3fd4d08b67edc05549b73b06a9a9"
+hash = "519c60b1bc91729d364b3620bf7d894fef7b71a7d6eb096c1440ef886be0dfe4"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/cooled_lava_tube.json"
@@ -3610,31 +3622,55 @@ hash = "a6c97e5961ad58648ceaf040772a064b3a64d0e4760fb60ac076bcbb5e6cb788"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/cooperite.json"
-hash = "32df08a977607ce43d8265df0acae2af63e03bc3b0f0dccfa0f1762229ac5e0f"
+hash = "da0aa2169de9d2d1cd8da835711fdbf6362eb1aa3f8133d5ecf0e390e765b071"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/core_seam.json"
+hash = "4d0ecd0fd74e8aa5e710bb196a9acfefe440060429a0d900fe2efd3a1470985b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/endermorphic_deposit.json"
+hash = "aaf8076c0f52c867e0c9f441adc8075be2a389bac5072b8a3dc0005ea40b37c1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/fossil_deposit.json"
+hash = "4bafd06bdf8dca8929b9727bb5a0b70ea7e2b19d8315f40c2097f8fdea301e6f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/galena.json"
-hash = "f6b01a3e18909b0ced563b114a2e3915ae3d9a908db394afd089e9576a699e6a"
+hash = "b95d87e0c0f1ef66b68522d4a5e4d025718a39baf0dc564a35b38aa2368d693c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/helium_deposit.json"
+hash = "4005267443a87aa5107a9270870474285ec5e22b09907fb399b2a0b9057d6acc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/hydrocarbon_rich_deposit.json"
+hash = "a056c41c6819c6c1a0995f8d6f72c8ee76c821788205270b2e7b35e7fbfed113"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/igneous_rock.json"
 hash = "136e5a6164604dbd2487df9af51c6b5a205fcd81ae8ff4bb5275d7ddea324c46"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/lanthanithic_deposit.json"
+hash = "df5ce19f37fd62b2fdfe0c00f58a582e666587e4a74f29e02c86757a3cbb1385"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/laterite.json"
-hash = "678281b7ae47bec4c46847c40498e098960b6c76d864902ce373ee53d25d6ba4"
+hash = "12a9cf9f5a918d39df3983b4893adb1fb11066f29f42e1a5913ce352830db275"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/mephitic_quarzite.json"
-hash = "7895778dcc25fa0665ac45f6f3436db4c9a5b071d0802c869347037f2ec025ff"
+hash = "86d953b3b4911dabd32c8125ae3d71f6d4999d311c714116ca5a916069b79b85"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/nether_silt.json"
-hash = "f930d35cbec997fc2320e4b5710f8b603dd9a38e04663ec614c527a02f08f124"
+hash = "14ed4dab9f0cee6c315103d1828cb3def3122b661ee7daae83f7b0b641887f19"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/pentlandite.json"
-hash = "4ef25feba7de3282f76c152ed8c880cbaf95805734fc7af071ebd0772cee0439"
+hash = "f2d1a6a55d85897e8e949d232a86cc9720cd7ee867fc8ca2ae225e7c41ec68ff"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/silt.json"
@@ -3642,11 +3678,15 @@ hash = "fc89c5440b2cefa94842f9e189de76e477f8809a72b5d8f5f97bfcc1c35ca0d7"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/uraninite.json"
-hash = "2def4adac38a0966f2a93fd6b976b8ecb10df76c37bb0dfb40c81d6c750ddbb6"
+hash = "3eb064562e9c7df5de2665550bb82465e617c9c729dad8424894ece7ba64868d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/void_seam.json"
+hash = "aa1254cc6f2f7f97114f51b30c13262e3a93fbd5e3671d34ef9402fc5f445ae9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/wolframite.json"
-hash = "b8d010cc7ef8efe91161badb35b8f5ba4c27675863ec55ee4215bfbc75709e93"
+hash = "dd47002df9c67b9c759e4bb83d50abdcd61c5f506ab9daad903dbdd331422375"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/refinery/chemlib_ethanol_to_acetaldehyde.json"
@@ -6386,7 +6426,7 @@ hash = "0d9b86f64f5768f49a28937f03a35dbef87a98d46c2679dc28a2e068c46e4bcf"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/thermo_plant/fossil_dissolving.json"
-hash = "b9450597ed38115ec7d80774245fadbb8bce60f7c57c681932d9eb13d14de311"
+hash = "c529e3d16051c7b0090d68244d572436e7ac3237bcbb75111ca4a909e57f0bb1"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/thermo_plant/yeast_culture.json"
@@ -7882,7 +7922,7 @@ hash = "6601a9b91320ab684b5405758d27088e13567fc8f10c7def18faa1d65b33b03e"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
-hash = "b4c7394a26bee7e7f41c201a4e7d151e3b9c8719da0ef3945d9ce867c59308de"
+hash = "33e1967b95d60bedd588e543537952f0d6b125c77147b880d89cbe3f2ec32a7a"
 
 [[files]]
 file = "defaultconfigs/ftbchunks/client-config.snbt"
