@@ -3434,7 +3434,7 @@ hash = "4515f389e7a89e2156674890131ecb536ef8f266891d77989a308eabfff57053"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/sample_drill.json"
-hash = "82e713f083f9817c1ce6766f36fcca5c818b9d5253934b4b45bf6241d451c75e"
+hash = "454a38433b2bcc411bfa734178ef8b5f9089fdf53804d831ec8c08fbfb856462"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/screwdriver.json"
@@ -9007,8 +9007,9 @@ hash = "a64a7f239c438513d1f92766d353cfe547b9a03eaa33b53c937e179bac2ca406"
 metafile = true
 
 [[files]]
-file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "ad6ae5ef9c1242da4dffe9c66d6fead31ad9b871a507bd1ea36ca3c211bce034"
+file = "mods/nyagis-bits-bytes.pw.toml"
+hash = "17c2bcac8d93310ffb0a6de14f7ba01494cd5bb687a53e22f343ca79b1b411ad"
+metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
