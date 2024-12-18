@@ -3,7 +3,7 @@
   "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
   "loops": 1,
   "results": [
-    {"count":128, "item": "ae2:light_detector"}
+    {"count":64, "item": "ae2:light_detector"}
   ],
   "sequence": [
     {
