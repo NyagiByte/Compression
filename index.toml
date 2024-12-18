@@ -598,11 +598,11 @@ hash = "d2405306a60df4439b09673bd955a1aa1ca6833189771b0d06e4914303802c0f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/decorative/light_detector.json"
-hash = "0e2ef7edd4ceab1ecbe95439483862f423d0ac598055be072a8002d731cca735"
+hash = "5a45250bf9b876afc22d9fabf14efea4f2091c49fa1ee9b0f32e1a21144772df"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/decorative/quartz_fixture.json"
-hash = "426bd1677698d49d29f51b32abfb923342d0e74103c8f599a851f66d5522c2a4"
+hash = "7117de530c577b44f7e9bae555d01c1072f8a408481dac69ad9346b44f043838"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/decorative/quartz_glass.json"
