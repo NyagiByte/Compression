@@ -4,13 +4,12 @@
       "A": {"item":"immersiveengineering:steel_scaffolding_standard"},
       "B": {"item":"pneumaticcraft:drill_pipe"},
       "C": {"item":"immersiveengineering:heavy_engineering"},
-      "D": {"item":"nyagibits_bytes:hydraulic_hammer"},
-      "X": {"item":"minecraft:command_block"}
+      "D": {"item":"nyagibits_bytes:hydraulic_hammer"}
     },
     "pattern": [
-      "AXA",
+      "ADA",
       "ABA",
-      "CDC"
+      "CBC"
     ],
     "result": {
         "item": "immersiveengineering:sample_drill"
