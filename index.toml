@@ -8462,7 +8462,7 @@ hash = "c5aa5aeea928ccb7a51356901bce92f64984d608db586128da2e1452b0e379b7"
 
 [[files]]
 file = "kubejs/startup_scripts/tool_tiers.js"
-hash = "49f50d7040804721d20c4f6b0ed5a6d42871a40f22fb99fcba1f5f0e9f16169c"
+hash = "f1c7da12d50ff3a5cd21c129c8a3b7bccaba91d534c5975983078d471fccb773"
 
 [[files]]
 file = "kubejs/startup_scripts/worldgen.js"
