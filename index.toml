@@ -585,6 +585,10 @@ file = "config/hungy_config.json"
 hash = "3731bd39727bbc6f6257b01fcabd60babe958f3623b4e547809e7ab5e0b8d34b"
 
 [[files]]
+file = "config/immediatelyfast.json"
+hash = "298507d708015b3aa763d223f78f37190fdce0970bcd962c3d715764e7a2db7d"
+
+[[files]]
 file = "config/packtweaker-common.toml"
 hash = "2f9032b38c0d562bcbf977a75b8d77e31de701871c8e96c2e3421e57979b8a96"
 
@@ -8455,6 +8459,10 @@ hash = "deb502daf1ad978850eb78725e63780169d21b9a5d126455df0b0a1da0047470"
 [[files]]
 file = "kubejs/startup_scripts/script.js"
 hash = "c5aa5aeea928ccb7a51356901bce92f64984d608db586128da2e1452b0e379b7"
+
+[[files]]
+file = "kubejs/startup_scripts/tool_tiers.js"
+hash = "49f50d7040804721d20c4f6b0ed5a6d42871a40f22fb99fcba1f5f0e9f16169c"
 
 [[files]]
 file = "kubejs/startup_scripts/worldgen.js"
