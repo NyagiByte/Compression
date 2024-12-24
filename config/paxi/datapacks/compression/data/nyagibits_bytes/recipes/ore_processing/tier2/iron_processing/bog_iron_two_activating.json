@@ -1,0 +1,30 @@
+{
+	"type":"vintageimprovements:pressurizing",
+    "heatRequirement": "superheated",
+	"ingredients": [
+		{
+			"item": "nyagibits_bytes:raw_bog_iron"
+		},
+		{
+			"fluid": "nyagibits_bytes:amorphous_cellulose_fluid",
+			"amount": 50
+		},
+		{
+			"fluid": "pneumaticcraft:yeast_culture",
+			"amount": 200
+		}
+	],
+	"results": [
+		{
+			"amount": 50,
+			"fluid": "chemlib:carbon_dioxide_fluid"
+		},
+		{
+			"item": "nyagibits_bytes:biologically_activated_bog_iron"
+		},
+		{
+			"item": "minecraft:mud"
+		}
+	],
+	"processingTime": 200
+}

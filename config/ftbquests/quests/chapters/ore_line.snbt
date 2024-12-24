@@ -130,6 +130,7 @@
 				""
 				"&6Tier 0 Yield:&r Iron"
 				"&6Tier 1 Yield:&r Iron"
+				"&6Tier 2 Yield:&r Sodium Hydroxide"
 			]
 			id: "67A33403E5A33908"
 			rewards: [{
@@ -153,6 +154,7 @@
 				""
 				"&6Tier 0 Yield:&r Iron"
 				"&6Tier 1 Yield:&r Iron"
+				"&6Tier 2 Yield:&r Titanium"
 			]
 			id: "58923677AB18101F"
 			rewards: [{
@@ -176,6 +178,7 @@
 				""
 				"&6Tier 0 Yield:&r Iron"
 				"&6Tier 1 Yield:&r Iron"
+				"&6Tier 2 Yield:&r Gold"
 			]
 			id: "7F48EEDDB59BF09E"
 			rewards: [{
@@ -199,6 +202,7 @@
 				""
 				"&6Tier 0 Yield:&r Iron"
 				"&6Tier 1 Yield:&r Sulfur"
+				"&6Tier 2 Yield:&r Copper"
 			]
 			id: "0C283C5774790BE4"
 			rewards: [{
@@ -222,6 +226,7 @@
 				""
 				"&6Tier 0 Yield:&r Iron"
 				"&6Tier 1 Yield:&r Iron"
+				"&6Tier 2 Yield:&r Iron"
 			]
 			id: "5BC59FE0D095DE08"
 			rewards: [{
@@ -245,6 +250,7 @@
 				""
 				"&6Tier 0 Yield:&r Iron"
 				"&6Tier 1 Yield:&r Iron"
+				"&6Tier 2 Yield:&r Nickel"
 			]
 			id: "52412DFD0519F04E"
 			rewards: [{
@@ -268,6 +274,7 @@
 				""
 				"&6Tier 0 Yield:&r Iron"
 				"&6Tier 1 Yield:&r Clay"
+				"&6Tier 2 Yield:&r Mud"
 			]
 			id: "71EB7F1DCCACFFD0"
 			rewards: [{
@@ -291,6 +298,7 @@
 				""
 				"&6Tier 0 Yield:&r Iron"
 				"&6Tier 1 Yield:&r Iron"
+				"&6Tier 2 Yield:&r Titanium"
 			]
 			id: "151971F1799BCDA2"
 			rewards: [{

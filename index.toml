@@ -490,7 +490,7 @@ hash = "7d1f5a102e9909d72247369418c25e011aabf481220a9656716a08bcd025da93"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "dda6c4fbbb1bf9248ebb179fd25d727edf186da2e77adb9e95849509bde02abd"
+hash = "c6b09011dadb7ac606f8ead353aac454f1e4e7160641d60c1978372383ce6e30"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"
@@ -3582,7 +3582,7 @@ hash = "e3211a5a568cbafbe01fc30772452f103b7cc89d1f65109d6a6be5e3eb26edfa"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/ancient_debris.json"
-hash = "86a391e7ce245d7552ad157d69b67ff608ae1960d1b06146e8aad62ced9d46bf"
+hash = "c5eea904862178443208180a2a7460e5b2d3135fa2760a74b5064ee73f9401ca"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/ancient_mineral_spring_deposit.json"
@@ -3594,15 +3594,15 @@ hash = "5cd4f0de876a191a6a46a58d0d4938ea98e196f9601de70c6ff67d5e59d041e0"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/auricupride.json"
-hash = "96f81f262ec0a903b0745d17d79eecea0c6b4000b24de11f96e12cbcd5515cc7"
+hash = "f3b915a5fb617bfd3ad310bd726f434a33670e96074e828c230bbaaa336ff273"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/beryl.json"
-hash = "55b342e9bff9558c68732084a0bf1e1db11e9ca1a900d7cb07a983c6f65ca67f"
+hash = "c1b81ec8323ac131a945b79b58e89f09edec7b27f1438b2ddb639d11edfc3e2c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/bituminous_coal.json"
-hash = "b0de931353c985158215df8558844919c128d77bbb3f10c18d62a816f0b5d51d"
+hash = "aed451e6bba3fc81a162b5bf26cde59da18ea95548c82499dd55b3359c3465fd"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/carbonate_igneous_deposit.json"
@@ -3610,7 +3610,7 @@ hash = "e99b50d0b00fce334c20f20885f85b44304395560e5f1f0b6b8710c52f6b874f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/cassiterite.json"
-hash = "3e99c9c6602f661bb2a19a29f83e2cb2438e62d511353d7c8228b79d84779fc3"
+hash = "db4c37dc0899682546a190f28bfac088e1b32f9b604b924884f435a39937c40b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/chalcopyrite.json"
@@ -6059,6 +6059,70 @@ hash = "2b3db74b3a2f9ebc3e5666ed4d82ae671e13b6b0271b33bd1e4985f51c14e318"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/zz_excavator_ore_processing/carbonate_igneous_deposit/zirconia_crushing.json"
 hash = "d78d3ddd5e6cc0430eca2be2d77be8f8ae738fb2a5cd1ad0828649e4cc5334b8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/banded_iron_two_crushing.json"
+hash = "b8cf789504ed36302371afa7123dcfdcc7f61a84724cd3e055e47abb0c9e5f58"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/banded_iron_two_sintering.json"
+hash = "30b0c3ccae725514deaa9abcee7cced42b70a10a039a53eb26ed91ed78d25a80"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/bog_iron_two_activating.json"
+hash = "ba12e9be05cd8d437ddcdbf705b5bd4b26fae51aae591effb512556f324499d7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/bog_iron_two_crushing.json"
+hash = "db67e255d1be363d8b6e5358de92837bba1d08151f72e6f2ea12078658566779"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/hematite_two_crushing.json"
+hash = "9e687041b2050475057d9820a3578eef3594320c0fc1a669cacdd2a9b20a96c8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/hematite_two_sintering.json"
+hash = "57d6491614f1cc2cf3067bc2b5421fa55fc308b233802076b4228a984ad272b9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/limonite_two_crushing.json"
+hash = "fb28d438f7978b5d08ba9eddad150503c962120cdd2b4329cd507a13c5d8ae10"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/limonite_two_sintering.json"
+hash = "bd1c88c29ac2e6859f83f636c7af7c0abd6a144c18dc5a46498976039b86c031"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/magnetite_two_crushing.json"
+hash = "8b1149f02912278e00203faacd6ffc96c4720e6928282cf7feacafc519b18ae6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/magnetite_two_sintering.json"
+hash = "d74562a8b80f265bb26321d97a2f5f821c10e73e20db8a05e2a4b02fd2eab387"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/meteoric_iron_two_crushing.json"
+hash = "b61c88f2d3f5572282243494eea9c5bbfa92ea80f2cdacd91550f0181e944312"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/meteoric_iron_two_sintering.json"
+hash = "7577116ac9f843d2fed9b29d5fabaf2a91d76a900c221c379a21e98e214f1fa7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/pyrite_two_crushing.json"
+hash = "2b676efa6fece2f2fec9d6c711ede53cc6638bf495d2bddd18cbc66efc7865be"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/pyrite_two_sintering.json"
+hash = "7fa5acc2123551a7dcff8fd1406eb2f1671f5a05887d0a4643ca2f16bda082ec"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/siderite_two_crushing.json"
+hash = "dc620cb67636691697a671d7f2127cbed7240dcb76d0138134e05f57df7e1dc5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/siderite_two_sintering.json"
+hash = "e2c826f76a7a132a61545a15b634616e44fc2bb6303c102de9313587fb50383e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assemblies/ae2_assembly.json"
