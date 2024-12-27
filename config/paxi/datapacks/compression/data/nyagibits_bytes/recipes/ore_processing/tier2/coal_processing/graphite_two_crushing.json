@@ -1,0 +1,23 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:polished_graphite"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 12,
+        "item": "chemlib:carbon_dust"
+      },
+      {
+        "count": 3,
+        "item": "chemlib:carbon_dust"
+      },
+      {
+        "count": 1,
+        "item": "chemlib:silicon_dioxide"
+      }
+    ]
+  }

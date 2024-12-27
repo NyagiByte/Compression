@@ -1,0 +1,54 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "nyagibits_bytes:raw_graphite"
+    },
+    "loops": 1,
+    "results": [
+        {
+          "count": 1,
+          "item": "nyagibits_bytes:polished_graphite"
+        }
+      ],
+    "sequence": [
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:raw_graphite"
+          },
+          {
+            "amount": 500,
+            "fluid": "nyagibits_bytes:gemstone_polish_fluid",
+            "nbt": {}
+          }
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:raw_graphite"
+          }
+        ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "nyagibits_bytes:raw_graphite"
+        },
+        [
+          {
+            "item": "nyagibits_bytes:crude_abrasive"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "nyagibits_bytes:raw_graphite"
+        }
+      ]
+    }
+    ],
+    "transitionalItem": {
+      "item": "nyagibits_bytes:raw_graphite"
+    }
+  }

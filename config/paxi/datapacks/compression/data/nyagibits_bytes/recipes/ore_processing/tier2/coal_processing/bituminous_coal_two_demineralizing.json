@@ -1,0 +1,28 @@
+{
+	"type":"vintageimprovements:pressurizing",
+    "heatRequirement": "superheated",
+	"ingredients": [
+		{
+			"item": "nyagibits_bytes:raw_bituminous"
+		},
+		{
+			"fluid": "nuclearcraft:sodium_hydroxide_solution",
+			"amount": 300
+		}
+	],
+	"results": [
+		{
+			"amount": 300,
+			"fluid": "nyagibits_bytes:tailings_fluid"
+		},
+		{
+			"item": "nyagibits_bytes:de_mineralized_bituminous"
+		},
+		{
+            "chance": 0.5,
+            "count": 3,
+			"item": "thermal:tar"
+		}
+	],
+	"processingTime": 200
+}

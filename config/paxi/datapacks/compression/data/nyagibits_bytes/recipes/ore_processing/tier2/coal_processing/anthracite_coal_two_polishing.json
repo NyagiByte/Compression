@@ -1,0 +1,14 @@
+{
+    "type": "create:sandpaper_polishing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:de_mineralized_anthracite"
+      }
+    ],
+    "results": [
+      {
+        "count": 32,
+        "item": "minecraft:coal"
+      }
+    ]
+  }

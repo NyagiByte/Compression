@@ -1,0 +1,27 @@
+{
+	"type":"vintageimprovements:pressurizing",
+    "heatRequirement": "superheated",
+	"ingredients": [
+		{
+			"item": "nyagibits_bytes:raw_jet"
+		},
+		{
+			"fluid": "nuclearcraft:sodium_hydroxide_solution",
+			"amount": 500
+		}
+	],
+	"results": [
+		{
+			"amount": 500,
+			"fluid": "nyagibits_bytes:tailings_fluid"
+		},
+		{
+			"item": "nyagibits_bytes:de_mineralized_jet"
+		},
+		{
+            "chance": 0.1,
+			"item": "nyagibits_bytes:raw_pyrite"
+		}
+	],
+	"processingTime": 200
+}

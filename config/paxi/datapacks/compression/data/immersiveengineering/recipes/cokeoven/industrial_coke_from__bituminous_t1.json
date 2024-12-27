@@ -1,0 +1,13 @@
+{
+    "type": "immersiveengineering:coke_oven",
+        "fluid": {
+            "amount":400,
+            "fluid":"nyagibits_bytes:hydrocarbon_tar_fluid"
+        },
+                "input": {
+                    "item":"nyagibits_bytes:de_mineralized_bituminous"},
+                        "result": {
+                            "count": 8,
+                            "item":"nyagibits_bytes:industrial_grade_coke"},
+        "time": 100
+}

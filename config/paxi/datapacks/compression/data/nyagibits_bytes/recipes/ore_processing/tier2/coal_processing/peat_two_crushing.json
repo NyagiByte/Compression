@@ -1,0 +1,23 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:biologically_activated_peat"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 12,
+        "item": "minecraft:clay_ball"
+      },
+      {
+        "count": 2,
+        "item": "farmersdelight:straw"
+      },
+      {
+        "chance": 2,
+        "item": "minecraft:dirt"
+      }
+    ]
+  }

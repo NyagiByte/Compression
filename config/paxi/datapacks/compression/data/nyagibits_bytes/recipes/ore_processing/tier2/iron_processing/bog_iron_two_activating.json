@@ -1,6 +1,6 @@
 {
 	"type":"vintageimprovements:pressurizing",
-    "heatRequirement": "superheated",
+    "heatRequirement": "heated",
 	"ingredients": [
 		{
 			"item": "nyagibits_bytes:raw_bog_iron"
