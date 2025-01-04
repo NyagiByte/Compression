@@ -3229,12 +3229,28 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/coke
 hash = "83d383d042c543089e8c45fdf22f5f63ee1c67e378f9f074574bf7da5492a898"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/cokeoven/industrial_coke_from__bituminous_t1.json"
+hash = "aa89deb3852fab5d366679ef6c7c37de857d9d34c9754a47a48ccb1b15029690"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/cokeoven/industrial_coke_from__cannel.json"
+hash = "c53238410b4c995a493a685d9be08290868dbaa99f2df794798a941a9ae023d5"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/cokeoven/industrial_coke_from_anthracite.json"
 hash = "f06313bd5ca5110334898398995a366c831d79740dd0f61cd8c3fb3ec7c5ac60"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/cokeoven/industrial_coke_from_anthracite_t1.json"
+hash = "087b7632af99c33ceb5df543ee05f2840ec7c9d3e187b2c0f58e25efabf0d576"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/cokeoven/industrial_coke_from_sub_bit.json"
 hash = "0386f5b12c25aa9250b5c49a0a4d20bd6d4956b71d0c651734bca42a8c723b8d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/cokeoven/industrial_coke_from_sub_bit_t1.json"
+hash = "9643d1e6726cee57d4bea67ae9d098dbd67922dbbbccf4f16ffa85f9d9ddd435"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/armor_faraday_chest.json"
@@ -6061,6 +6077,66 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "d78d3ddd5e6cc0430eca2be2d77be8f8ae738fb2a5cd1ad0828649e4cc5334b8"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/anthracite_coal_two_demineralizing.json"
+hash = "d5f996f8a3e9e5ce24a10b7f20f124cf2aa16b5d3fa345da8ad6d08ad195a11d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/anthracite_coal_two_polishing.json"
+hash = "9c88202a0fe3105ecdc6a410f500cdb9cc190845c6df66cf07f267c06d59519c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/bituminous_coal_two_demineralizing.json"
+hash = "9cbbc5249777e66f30ad45edc5ae04a91c1b26379014b9894804dc328143b850"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/bituminous_coal_two_polishing.json"
+hash = "1de8b906295f293d429547352a8bf69c66bff5c840a5677edeee019712ec7a62"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/cannel_coal_two_demineralizing.json"
+hash = "db4beeb2a97ed6a562fa5ccebfeb47534b79c5780e9ae4e47843ee8a6270e191"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/cannel_coal_two_polishing.json"
+hash = "14a11231f23c40e0ef4a9614bbcf26534c7e39096e9653904ccdee5ce34ffb1d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/graphite_two_clean_polish.json"
+hash = "8960e9d32053d4b1b9863a44a0c8af9c511bdb79559441e1d26cca5629d1b7f9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/graphite_two_crushing.json"
+hash = "673de4acdf65fbda395c39b1c46dfcfb380fe88e35d1e6e79a5478b2416b78fb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/jet_lignite_two_demineralizing.json"
+hash = "e534e40c9b2b1d6bea6f38229ee55d872047412687672a27f6d5a6b5b13c5915"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/jet_lignite_two_polishing.json"
+hash = "91b199e109c1cdf94f9c38452ff7c84e2c54768ac35961bad004c702dec3aaf1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/lignite_coal_two_polishing.json"
+hash = "267cf4ef702ae41202b6a8aad0e146d556812651591ed0c8b74a1d2c312bc253"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/lignite_two_demineralizing.json"
+hash = "acff6964a4efa5d31fe2eb886400b66f18708ccd7ec0db6facd731e1b7a289b2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/peat_two_crushing.json"
+hash = "2797362ed73f2b3ae5a6a96fe803629164eb0f643d2d42749e701e164236800c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/subbituminous_coal_two_demineralizing.json"
+hash = "9a50cb62704ded05883802c6920090659556a8d86df8a1c447fb03ebb574ef3a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/subbituminous_coal_two_polishing.json"
+hash = "453401f35bb034ac45b96c771d62427f3c6cb76eff36809dd7904baada1e8af8"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/banded_iron_two_crushing.json"
 hash = "b8cf789504ed36302371afa7123dcfdcc7f61a84724cd3e055e47abb0c9e5f58"
 
@@ -6070,7 +6146,7 @@ hash = "30b0c3ccae725514deaa9abcee7cced42b70a10a039a53eb26ed91ed78d25a80"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/bog_iron_two_activating.json"
-hash = "ba12e9be05cd8d437ddcdbf705b5bd4b26fae51aae591effb512556f324499d7"
+hash = "925fd3e445b3e9b15fe5eafc84545512f3795e62d3233ac56e7facf7869e5b41"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/bog_iron_two_crushing.json"
@@ -9080,7 +9156,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "6c26da9608bc90995efaa1bd5abb4d6e8720dda07c6d3653c879f24442d1ded4"
+hash = "b0ad0fa48b9e8befd2a9fd2f93bca7cf7c3436ed638975350fc8221011ae13ab"
 
 [[files]]
 file = "mods/oculus.pw.toml"
