@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:sintered_alluvial_slush"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 12,
+        "item": "create:crushed_raw_gold"
+      },
+      {
+        "count": 3,
+        "item": "minecraft:gravel"
+      }
+    ]
+  }
