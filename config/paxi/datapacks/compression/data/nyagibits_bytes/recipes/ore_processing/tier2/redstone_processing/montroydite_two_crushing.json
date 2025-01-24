@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:sintered_montroydite"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 12,
+        "item": "minecraft:redstone"
+      },
+      {
+        "count": 3,
+        "item": "chemlib:mercury"
+      }
+    ]
+  }

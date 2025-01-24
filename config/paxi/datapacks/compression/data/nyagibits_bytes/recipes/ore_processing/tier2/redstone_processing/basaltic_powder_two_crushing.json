@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:de_mineralized_basaltic_powder"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 12,
+        "item": "chemlib:silicon_dust"
+      },
+      {
+        "count": 3,
+        "item": "chemlib:magnesium_dust"
+      }
+    ]
+  }
