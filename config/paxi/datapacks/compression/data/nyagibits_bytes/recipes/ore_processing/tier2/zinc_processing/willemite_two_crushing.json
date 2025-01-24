@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:sintered_willemite"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 12,
+        "item": "create:crushed_raw_zinc"
+      },
+      {
+        "count": 3,
+        "item": "chemlib:silicon_dust"
+      }
+    ]
+  }
