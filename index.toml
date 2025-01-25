@@ -5677,6 +5677,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "88ad86001ceb462caea948e9d3ee0d60e0b66247dadd3899fbea6a1455163085"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gemstone_processing/lazurite_one_polishing.json"
+hash = "bd2071f5b0423744fc6d997c2535756f2ae68a295bcdad6d28f88d70d0d382ba"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gemstone_processing/lazurite_polishing.json"
 hash = "bd2071f5b0423744fc6d997c2535756f2ae68a295bcdad6d28f88d70d0d382ba"
 
@@ -6137,6 +6141,142 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "453401f35bb034ac45b96c771d62427f3c6cb76eff36809dd7904baada1e8af8"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/copper_processing/azurite_two_crushing.json"
+hash = "8e09ef6310069bfb08937e77dd58db8edec8a3cc4bbb939e9f936ae2aeca7a0e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/copper_processing/azurite_two_sintering.json"
+hash = "6bed459a8b8c5885c0cb6428c5da264ffdb5d6b59725bd1e25389d2390522e80"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/copper_processing/chalcopyrite_two_crushing.json"
+hash = "b15a8433ad36b1c1ff2452e55dd45d2a1ad6abc40b1317c0977e0f106249ef6b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/copper_processing/chalcopyrite_two_sintering.json"
+hash = "32c3af4e8af02d378e94d13aed8c46e34416b57fec15a0ebda7a0a6cb808723a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/copper_processing/chrysocolla_two_crushing.json"
+hash = "2b9fd7d31451eeb0b977bf7f3147532de8387c357a81ecf88280f2e7fee17a5a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/copper_processing/chrysocolla_two_sintering.json"
+hash = "01e7a2c3381bad4cb301a2656ce45ad437fbc69d6a9ce2cd87d9228cd29f3b59"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/copper_processing/dioptase_two_crushing.json"
+hash = "970e587e28cfffa6e25ecbce054fd4ca73b48baf4e5965f048eec64ca7e531e4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/copper_processing/dioptase_two_sintering.json"
+hash = "dd7c0dbba48b6fab9fd17bf461738f8a16986685770486b5d326077d8f331615"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/copper_processing/enargite_two_crushing.json"
+hash = "cba79dabe843d32320de3224f264df270d6dbd7ad2bdf9d73ccccdaaea385d62"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/copper_processing/enargite_two_sintering.json"
+hash = "de0c151ab6138ad0056eaab2e2f5392a3a908360b51ccbaadd703c923424db11"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/copper_processing/malachite_two_crushing.json"
+hash = "12cdd4e3b9a1bdc3b93cfa36b72f866b9330d8c135f9f3ce5269a09661f58565"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/copper_processing/malachite_two_sintering.json"
+hash = "06708205871f847227e9278ba0ea5ccc9b496d1a0247ce99d1ebec429c53f3d9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/copper_processing/tennanite_two_crushing.json"
+hash = "c0acd7e1baf9307d142c0743a6ca4472512a74b9fc3308777d8ec801cd790f04"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/copper_processing/tennanite_two_sintering.json"
+hash = "7ca860cbfcb94ea5e5a61cba5fe7194892c8c00a0f72eb064f773f639a56e92a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/copper_processing/tetrahedrite_two_crushing.json"
+hash = "db46818221324f30de36a32d16b186ca5eb76a422c547d3b54976704417e1a3f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/copper_processing/tetrahedrite_two_sintering.json"
+hash = "8ead858434feb4d892d97f15077cbc92d381aca139158cef02bcda8aa678c7f2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gemstone_processing/chalcogenide_crystal_cluster_two_crushing.json"
+hash = "dace11fc8dee7bd9367d86331d3fff57aeb010e277f0ebd9f9ac592e3a8a27d3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gemstone_processing/chalcogenide_crystal_cluster_two_sintering.json"
+hash = "cdb43baa7e011955fe24873133deff5b6a197834a6eafab692e916841e342adb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gold_silver_processing/alluvial_slush_two_crushing.json"
+hash = "2b1ae20fb7723839b03c1ad2529660a3d41c98fc6308e7626ef8bd4cae608279"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gold_silver_processing/alluvial_slush_two_sintering.json"
+hash = "94932ca6c99cefccbfae71948f41d640767db20f8316a3ec8adafa4ae97adcef"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gold_silver_processing/argentite_two_crushing.json"
+hash = "2779108a8de2d38b78bb47d4e44f0021ea5afd1cf567b3f0ced8ac339cc87abe"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gold_silver_processing/argentite_two_sintering.json"
+hash = "1f1d26d94660cec794fd87ddf51cde173f2747a497b21b3606240699ca8a7c65"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gold_silver_processing/chlorargyrite_two_crushing.json"
+hash = "ba71492fab35138bed386db6257e8cc245c30cd9dfacfb714196dceeeb37319e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gold_silver_processing/chlorargyrite_two_sintering.json"
+hash = "ea3f337e398c513b2afe1b6d7d8d7a37dc968f9fb18c7045b061df2fbdd8c3d4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gold_silver_processing/electrum_two_crushing.json"
+hash = "18b71e3855305f525b003283b14c8280544767876d4061420d53b06b1ba8d1b9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gold_silver_processing/electrum_two_sintering.json"
+hash = "3965a8e10b6c2cca05465e7a23c0dbb91c21ea8a4605075feaa487d73ea8aa36"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gold_silver_processing/kustelite_electrum_two_crushing.json"
+hash = "51ab998a115c273fd8784824aec8b99ba429914d311a88b1973cf355173313d6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gold_silver_processing/kustelite_electrum_two_sintering.json"
+hash = "77bf9e27291dd89bc85c78f0f406928e701540606b10a7fc2933dfb866c65556"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gold_silver_processing/native_cluster_two_crushing.json"
+hash = "eb6cde8ca0ad625a191c5b98d2abd56ea82b245e372323b3ef2b16158e1e2b32"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gold_silver_processing/native_cluster_two_sintering.json"
+hash = "cd2d501d7609afa7e36368294b59d2d4b0543bc77b12f179e32198eb7bd506cc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gold_silver_processing/polybasite_two_crushing.json"
+hash = "1e32c3044f741feea7fb403b2b00c7641190e0f805f49f920d979ff7b4aab07b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gold_silver_processing/polybasite_two_sintering.json"
+hash = "b2ec63800c64bc11d064d8b93c525709e532fa564e1d51f92a707167dd97cc83"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gold_silver_processing/proustite_two_crushing.json"
+hash = "ebc442b0025744a1d2e138c43e61b66cd6e3b78c738eb3ed6bbffebbf7ade326"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gold_silver_processing/proustite_two_sintering.json"
+hash = "e9b3ff6eb1e2d6c12565769eca4f92461b7bca2d33b60c049c24e04bf64fb7e2"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/banded_iron_two_crushing.json"
 hash = "b8cf789504ed36302371afa7123dcfdcc7f61a84724cd3e055e47abb0c9e5f58"
 
@@ -6199,6 +6339,118 @@ hash = "dc620cb67636691697a671d7f2127cbed7240dcb76d0138134e05f57df7e1dc5"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/iron_processing/siderite_two_sintering.json"
 hash = "e2c826f76a7a132a61545a15b634616e44fc2bb6303c102de9313587fb50383e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/redstone_processing/basaltic_powder_two_crushing.json"
+hash = "753cc9c6a1e5a3ac3d0a8b1a4defe0ac75d499d10d80ebb78071d5f9d3e25589"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/redstone_processing/calomel_two_crushing.json"
+hash = "c3e715394de2294834b9042ed9bed9e94d7165170e4ad9d053d1ce38c054cc1e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/redstone_processing/cinnabar_two_crushing.json"
+hash = "40052bedb0b3048b8842dab662e71c7f300c927e145ce6562789a3c43ade5e52"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/redstone_processing/corderoite_two_crushing.json"
+hash = "6b51acd8a2be65a436079ef93cd9c3767c57ee214f12d4d982d3e7f21a4da5fe"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/redstone_processing/corderoite_two_sintering.json"
+hash = "8e5c20e6cae300e24e62b7caafb62f8a6d3bcc379456935d3ec575f34487c1ee"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/redstone_processing/granulated_obsidian_two_crushing.json"
+hash = "9ec69a6d48002497c0642f4ed048e78649fd362e4c6460154aa0ac55dde76940"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/redstone_processing/metacinnabar_two_crushing.json"
+hash = "83adb57c23c5ecfaf6b419b4ff7e404ccedc1d3bbb18524d306c95e97d21b1b6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/redstone_processing/metacinnabar_two_sintering.json"
+hash = "90df58b0978d3d2f194ae74717f999e62aa747296648466ff8792e0020810cf0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/redstone_processing/montroydite_two_crushing.json"
+hash = "2fce030872d50041a0532f531bf848018a53af6e30804056572638309f588cae"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/redstone_processing/montroydite_two_sintering.json"
+hash = "6d824e940df7155781a1c055e80886dd6a787d1db11413208a2ea1f538c09dc6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/redstone_processing/native_mercury_spherules_two_crushing.json"
+hash = "3796148ca0438f35268fcea8f7f40849baf8f52709523c79713682d5b4dcac24"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/redstone_processing/native_mercury_spherules_two_sintering.json"
+hash = "39814c67f18689f26b225f16fa76164b8f1996a02be53a2b9934dafbaa9b943b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/zinc_processing/franklinite_two_crushing.json"
+hash = "c26d063d5f9d5ec3cce239a385b70700977483824aa16e9833df9761cb44a4fd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/zinc_processing/franklinite_two_sintering.json"
+hash = "0619af233978dda1b729680ef96b8eed2ce13de998624fbd90cf662814a8dcf8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/zinc_processing/hemimorphite_two_crushing.json"
+hash = "cbc23efe5901149f563c8840746c636f7cc91db415c82b1952ee513d6081dac7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/zinc_processing/hemimorphite_two_sintering.json"
+hash = "b4ee617a93f748ac8475c2b4fd2c2c71bc8498b02cfb2c8b0a31be93ee014665"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/zinc_processing/hydrozincite_two_crushing.json"
+hash = "04d012ddcd023da8078620230baed15760856b5d99445087e7ab14076e93d9cd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/zinc_processing/hydrozincite_two_sintering.json"
+hash = "70af267c7285b490140ae0dc758fe5addb6715cf38d26f4176c0d12b48c871fe"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/zinc_processing/smithsonite_two_crushing.json"
+hash = "d3f78e8de0b879050a9058147f39b599731113210ee212e0791ddd9660fa11b9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/zinc_processing/smithsonite_two_sintering.json"
+hash = "6bf0219fd46a18d484eac411bfd8463a7e529806bf931fa81dbdaa4e6e3adb1f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/zinc_processing/sphalerite_two_crushing.json"
+hash = "eaaf6b0bedd49b940b8ea12150d0581816b1d638e31d2bfb387347397da1f510"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/zinc_processing/sphalerite_two_sintering.json"
+hash = "08bafcb44df596b28c6cdaa82472ad6f03e6658d31470c9d3f49a277b6d1dccf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/zinc_processing/willemite_two_crushing.json"
+hash = "9e09df76d5c3a5a930d3d7360c34b8e7cc611f05dd7af6ab5d6646e27cf2a4f4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/zinc_processing/willemite_two_sintering.json"
+hash = "4430b72918e7d0498ea6235b196b6333d7acdaa4dc840cfcf688c48f381c2342"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/zinc_processing/wurtzite_two_crushing.json"
+hash = "ba32d60b26351031e02c42f4c28a82124391cf33fd74d89e04cd19f075b5f862"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/zinc_processing/wurtzite_two_sintering.json"
+hash = "05d798f90ce174bd552d160d0729dd8304fde8b2cdfdcbf4907b5612a0008fbc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/zinc_processing/zinc_carbonate_two_crushing.json"
+hash = "9c53a3cd5c46d8e9f6207a12d2bf0c157fd47d6b624bff1b0ec7ec5e14e63706"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/zinc_processing/zinc_carbonate_two_sintering.json"
+hash = "9486edea529741caf0bc9698587ee962f57d690edf9cea9136f8fc524d48e2b0"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assemblies/ae2_assembly.json"
