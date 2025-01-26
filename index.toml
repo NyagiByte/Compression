@@ -4638,19 +4638,19 @@ hash = "4d674bdb1d2175c83ee028985a3e5c0523d43cb19f97a1ea87c03069c69399ab"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/petri_dish_empty.json"
-hash = "feda91026f28dc12eb2863b007e8f29d1bf38104904c14e8c3f45ad5ad2cbb75"
+hash = "5ba2dbf9908b482ae34dfb8622660d2a2bd7989cb468ad2d52109bd7bfd3e167"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/petri_dish_empty_t1.json"
-hash = "0ce3fb4a07e89142027cd1ce404abe55a4a194a7686101b5a63bee58a86dab2f"
+hash = "d6cf5dd85c91452fc9da11d0843f259659bcfb35eb964266266fde7c57c95c29"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/skystone_shielding.json"
-hash = "53bd4eeecf75e206e21e847b70130ca5a69321ba4bc3ebb1722bc3823f95a2a8"
+hash = "93c8f798f2c805330577c6e1cbb2b550afbca394d2ad09b0513ef391de7d97dc"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/skystone_shielding_t1.json"
-hash = "53c3c41f48f88b2c88e6711dc555c614f460502e0e3574231c3841e92a988541"
+hash = "5dcf44386ff3368e14d0489a26de1415e34e4d73d5003706ad6f3a7818b7980e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/soil_conditioner.json"
@@ -4658,11 +4658,11 @@ hash = "2714737a764308e4331f4cd365eb195ac108055d22f8cd2876df57912f20dce3"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/sterilized_quartz_glass.json"
-hash = "8c813b1af05bc14cf36c83579c4fab22cd5f108d2e947fc235307de6f3e3814c"
+hash = "f736878a7e93861a7321fdb6a2b2bd432792a3e99ce3ed64843ad79e8d3467cd"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/sterilized_quartz_glass_t1.json"
-hash = "2fb28db8ddaa12ea8f0230b3f0a5f40f67cae2f474102918843ac2caa3d0b73b"
+hash = "571e1acd409cd4a55534fa30db56e0a6812b9d912575e645244d52b35cc4bff4"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/sturdy_tray.json"
@@ -5550,7 +5550,7 @@ hash = "cde7c57fa33b2286cf4b24d5a5b82bbddc686a263d942a8ab9fd42428823c14e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/bauxite_processing/clustered_beryl_one_sequenced_polishing.json"
-hash = "35f37c141c671ea3f4621591c6bf50c375f52cfd79bb27a8c7ba042ad4e7fa42"
+hash = "f116f8c9fb0f84e63ec8e189f2d06e0d7a4f0c6c2d646c5c56ba40c0ab57f339"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/bauxite_processing/cryolite_one_crushing.json"
@@ -5690,7 +5690,7 @@ hash = "1ca707c6f5fa289d9d638dec94ace52e84262ae34bd2aef859bb176540872461"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gemstone_processing/prime_beryllic_cluster_one_sequenced_polishing.json"
-hash = "c0bb223f432a3354a172499af8e3abe04d8731dc51473bd884052de40d860f8d"
+hash = "cf7a6b0be11c4c3af5aaa31ae71e467359e310e3abfb3b7f3d85c1ad1a7494d1"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gemstone_processing/salt_cluster_one_crushing.json"
@@ -8218,7 +8218,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "943fb01198d66c2319a0504ede835630ffe8699ec41b40c6b0a0376ecbe4c8da"
+hash = "0251f2251dc216ef20312eef20843c4b2cd760ccfc6baf75c1b4e5d2362ac2c3"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
