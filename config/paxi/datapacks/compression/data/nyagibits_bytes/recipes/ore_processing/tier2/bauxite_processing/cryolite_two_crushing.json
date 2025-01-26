@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:sintered_cryolite"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 12,
+        "item": "create:crushed_raw_aluminum"
+      },
+      {
+        "count": 3,
+        "item": "mekanism:dust_fluorite"
+      }
+    ]
+  }
