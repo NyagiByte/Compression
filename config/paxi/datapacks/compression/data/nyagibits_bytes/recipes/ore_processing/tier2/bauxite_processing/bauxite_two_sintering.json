@@ -16,8 +16,7 @@
                         "item":"nyagibits_bytes:sintered_bauxite"
                         },
                         {
-                        "count":4,
-                        "item":"chemlib:titanium"
+                        "item":"chemlib:gallium_dust"
                         }],
                           "secondaries":[{
                             "chance":0.99,
