@@ -18,7 +18,7 @@
             ],
             "results": [
               {
-                "item": "minecraft:glass"
+                "item": "nyagibits_bytes:incomplete_petri_dish_glass"
               }
             ]
           },
@@ -26,12 +26,12 @@
         "type": "create:pressing",
         "ingredients": [
           {
-            "item": "minecraft:glass"
+            "item": "nyagibits_bytes:incomplete_petri_dish_glass"
           }
         ],
         "results": [
           {
-            "item": "minecraft:glass"
+            "item": "nyagibits_bytes:incomplete_petri_dish_glass"
           }  
         ]
       },
@@ -39,7 +39,7 @@
         "type": "create:filling",
         "ingredients": [
           {
-            "item": "minecraft:glass"
+            "item": "nyagibits_bytes:incomplete_petri_dish_glass"
           },
           {
             "amount": 500,
@@ -49,10 +49,10 @@
         ],
         "results": [
           {
-            "item": "minecraft:glass"
+            "item": "nyagibits_bytes:incomplete_petri_dish_glass"
           }
         ]
       }
     ],
-    "transitionalItem": {"item": "minecraft:glass"}
+    "transitionalItem": {"item": "nyagibits_bytes:incomplete_petri_dish_glass"}
   }

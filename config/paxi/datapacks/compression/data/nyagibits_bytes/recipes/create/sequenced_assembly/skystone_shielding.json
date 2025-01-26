@@ -20,7 +20,7 @@
         ],
         "results": [
             {
-                "item": "create:sturdy_sheet"
+                "item": "nyagibits_bytes:incomplete_skystone_shielding"
             }
         ]
       },
@@ -28,7 +28,7 @@
         "type": "create:deploying",
         "ingredients": [
           {
-            "item": "create:sturdy_sheet"
+            "item": "nyagibits_bytes:incomplete_skystone_shielding"
           },
           {
             "item": "ae2:sky_dust"
@@ -36,7 +36,7 @@
         ],
         "results": [
             {
-                "item": "create:sturdy_sheet"
+                "item": "nyagibits_bytes:incomplete_skystone_shielding"
             }
         ]
       },
@@ -44,7 +44,7 @@
         "type": "create:deploying",
         "ingredients": [
           {
-            "item": "create:sturdy_sheet"
+            "item": "nyagibits_bytes:incomplete_skystone_shielding"
           },
           {
             "item": "chemlib:iron_plate"
@@ -52,7 +52,7 @@
         ],
         "results": [
             {
-                "item": "create:sturdy_sheet"
+                "item": "nyagibits_bytes:incomplete_skystone_shielding"
             }
         ]
       },
@@ -60,15 +60,15 @@
         "type": "create:pressing",
         "ingredients": [
           {
-            "item": "create:sturdy_sheet"
+            "item": "nyagibits_bytes:incomplete_skystone_shielding"
           }
         ],
         "results": [
           {
-            "item": "create:sturdy_sheet"
+            "item": "nyagibits_bytes:incomplete_skystone_shielding"
           }  
         ]
       }
     ],
-    "transitionalItem": {"item": "create:sturdy_sheet"}
+    "transitionalItem": {"item": "nyagibits_bytes:incomplete_skystone_shielding"}
   }

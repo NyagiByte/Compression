@@ -36,7 +36,7 @@
         ],
         "results": [
           {
-            "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
+            "item": "nyagibits_bytes:incomplete_raw_prime_beryl_crude"
           }
         ]
       },
@@ -44,7 +44,7 @@
         "type": "create:deploying",
         "ingredients": [
           {
-            "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
+            "item": "nyagibits_bytes:incomplete_raw_prime_beryl_crude"
           },
           [
             {
@@ -54,12 +54,12 @@
         ],
         "results": [
           {
-            "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
+            "item": "nyagibits_bytes:incomplete_raw_prime_beryl_crude"
           }
         ]
       }
     ],
     "transitionalItem": {
-      "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
+      "item": "nyagibits_bytes:incomplete_raw_prime_beryl_crude"
     }
   }

@@ -18,7 +18,7 @@
             ],
             "results": [
               {
-                "item": "ae2:quartz_glass"
+                "item": "nyagibits_bytes:incomplete_petri_dish_quartz_glass"
               }
             ]
           },
@@ -26,12 +26,12 @@
         "type": "create:pressing",
         "ingredients": [
           {
-            "item": "ae2:quartz_glass"
+            "item": "nyagibits_bytes:incomplete_petri_dish_quartz_glass"
           }
         ],
         "results": [
           {
-            "item": "ae2:quartz_glass"
+            "item": "nyagibits_bytes:incomplete_petri_dish_quartz_glass"
           }  
         ]
       },
@@ -39,7 +39,7 @@
         "type": "create:filling",
         "ingredients": [
           {
-            "item": "ae2:quartz_glass"
+            "item": "nyagibits_bytes:incomplete_petri_dish_quartz_glass"
           },
           {
             "amount": 500,
@@ -49,10 +49,10 @@
         ],
         "results": [
           {
-            "item": "ae2:quartz_glass"
+            "item": "nyagibits_bytes:incomplete_petri_dish_quartz_glass"
           }
         ]
       }
     ],
-    "transitionalItem": {"item": "ae2:quartz_glass"}
+    "transitionalItem": {"item": "nyagibits_bytes:incomplete_petri_dish_quartz_glass"}
   }

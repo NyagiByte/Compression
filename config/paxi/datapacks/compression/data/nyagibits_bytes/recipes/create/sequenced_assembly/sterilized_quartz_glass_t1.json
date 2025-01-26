@@ -21,7 +21,7 @@
         ],
         "results": [
             {
-                "item": "ae2:quartz_glass"
+                "item": "nyagibits_bytes:incomplete_sterilized_quartz_glass_phenoxyethanol"
             }
         ]
       },
@@ -29,7 +29,7 @@
             "type": "create:filling",
             "ingredients": [
               {
-                "item": "ae2:quartz_glass"
+                "item": "nyagibits_bytes:incomplete_sterilized_quartz_glass_phenoxyethanol"
               },
               {
                 "amount": 1000,
@@ -39,7 +39,7 @@
             ],
             "results": [
               {
-                "item": "ae2:quartz_glass"
+                "item": "nyagibits_bytes:incomplete_sterilized_quartz_glass_phenoxyethanol"
               }
             ]
           },
@@ -47,7 +47,7 @@
         "type": "create:deploying",
         "ingredients": [
           {
-            "item": "ae2:quartz_glass"
+            "item": "nyagibits_bytes:incomplete_sterilized_quartz_glass_phenoxyethanol"
           },
           {
             "item": "nyagibits_bytes:bottle_of_vinegar"
@@ -55,7 +55,7 @@
         ],
         "results": [
             {
-                "item": "ae2:quartz_glass"
+                "item": "nyagibits_bytes:incomplete_sterilized_quartz_glass_phenoxyethanol"
             }
         ]
       },
@@ -63,16 +63,16 @@
         "type": "create:cutting",
         "ingredients": [
           {
-            "item": "ae2:quartz_glass"
+            "item": "nyagibits_bytes:incomplete_sterilized_quartz_glass_phenoxyethanol"
           }
         ],
         "processingTime": 250,
         "results": [
           {
-            "item": "ae2:quartz_glass"
+            "item": "nyagibits_bytes:incomplete_sterilized_quartz_glass_phenoxyethanol"
           }  
         ]
       }
     ],
-    "transitionalItem": {"item": "ae2:quartz_glass"}
+    "transitionalItem": {"item": "nyagibits_bytes:incomplete_sterilized_quartz_glass_phenoxyethanol"}
   }

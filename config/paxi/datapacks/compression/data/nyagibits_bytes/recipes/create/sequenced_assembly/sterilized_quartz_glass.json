@@ -23,7 +23,7 @@
             ],
             "results": [
               {
-                "item": "ae2:quartz_glass"
+                "item": "nyagibits_bytes:incomplete_sterilized_quartz_glass_vinegar"
               }
             ]
           },
@@ -31,7 +31,7 @@
         "type": "create:deploying",
         "ingredients": [
           {
-            "item": "ae2:quartz_glass"
+            "item": "nyagibits_bytes:incomplete_sterilized_quartz_glass_vinegar"
           },
           {
             "item": "nyagibits_bytes:bottle_of_vinegar"
@@ -39,7 +39,7 @@
         ],
         "results": [
             {
-                "item": "ae2:quartz_glass"
+                "item": "nyagibits_bytes:incomplete_sterilized_quartz_glass_vinegar"
             }
         ]
       },
@@ -47,16 +47,16 @@
         "type": "create:cutting",
         "ingredients": [
           {
-            "item": "ae2:quartz_glass"
+            "item": "nyagibits_bytes:incomplete_sterilized_quartz_glass_vinegar"
           }
         ],
         "processingTime": 250,
         "results": [
           {
-            "item": "ae2:quartz_glass"
+            "item": "nyagibits_bytes:incomplete_sterilized_quartz_glass_vinegar"
           }  
         ]
       }
     ],
-    "transitionalItem": {"item": "ae2:quartz_glass"}
+    "transitionalItem": {"item": "nyagibits_bytes:incomplete_sterilized_quartz_glass_vinegar"}
   }
