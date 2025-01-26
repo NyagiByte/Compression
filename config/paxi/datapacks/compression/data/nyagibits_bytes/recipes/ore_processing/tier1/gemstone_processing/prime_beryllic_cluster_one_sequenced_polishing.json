@@ -41,23 +41,19 @@
         ]
       },
       {
-        "type": "create:deploying",
-        "ingredients": [
-          {
-            "item": "nyagibits_bytes:incomplete_raw_prime_beryl_crude"
-          },
-          [
+          "type": "vintageimprovements:polishing",
+        "speed_limits": 1,
+          "ingredients": [
             {
-              "item": "nyagibits_bytes:crude_abrasive"
+              "item": "nyagibits_bytes:incomplete_raw_prime_beryl_crude"
+        }
+          ],
+          "results": [
+            {
+              "item": "nyagibits_bytes:incomplete_raw_prime_beryl_crude"
             }
           ]
-        ],
-        "results": [
-          {
-            "item": "nyagibits_bytes:incomplete_raw_prime_beryl_crude"
-          }
-        ]
-      }
+        }
     ],
     "transitionalItem": {
       "item": "nyagibits_bytes:incomplete_raw_prime_beryl_crude"
