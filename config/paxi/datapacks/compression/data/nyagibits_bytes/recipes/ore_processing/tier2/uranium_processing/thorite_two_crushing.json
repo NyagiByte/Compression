@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:sintered_thorite"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 12,
+        "item": "chemlib:thorium_dust"
+      },
+      {
+        "count": 3,
+        "item": "chemlib:silicon_dust"
+      }
+    ]
+  }
