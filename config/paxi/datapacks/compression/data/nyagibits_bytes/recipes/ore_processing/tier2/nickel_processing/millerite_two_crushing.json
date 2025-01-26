@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:sintered_millerite"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 12,
+        "item": "create:crushed_raw_nickel"
+      },
+      {
+        "chance": 0.3,
+        "item": "nyagibits_bytes:raw_pyrite"
+      }
+    ]
+  }
