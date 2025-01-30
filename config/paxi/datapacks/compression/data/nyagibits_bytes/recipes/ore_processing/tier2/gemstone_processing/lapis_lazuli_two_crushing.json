@@ -1,0 +1,28 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:polished_lapis_lazuli"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 64,
+        "item": "thermal:lapis_dust"
+      },
+      {
+        "count": 3,
+        "item": "minecraft:calcite"
+      },
+      {
+        "chance": 0.25,
+        "count": 3,
+        "item": "nyagibits_bytes:raw_pyrite"
+      },
+      {
+        "chance": 0.1,
+        "item": "nyagibits_bytes:raw_lazurite"
+      }
+    ]
+  }

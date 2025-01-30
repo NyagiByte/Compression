@@ -1,0 +1,14 @@
+{
+    "type": "create:sandpaper_polishing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:polished_lapis_lazuli"
+      }
+    ],
+    "results": [
+      {
+        "count": 21,
+        "item": "minecraft:lapis_lazuli"
+      }
+    ]
+  }

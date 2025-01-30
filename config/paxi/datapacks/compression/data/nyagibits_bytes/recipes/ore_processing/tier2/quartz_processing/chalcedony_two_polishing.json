@@ -1,0 +1,14 @@
+{
+    "type": "create:sandpaper_polishing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:polished_chalcedony"
+      }
+    ],
+    "results": [
+      {
+        "count": 16,
+        "item": "minecraft:quartz"
+      }
+    ]
+  }

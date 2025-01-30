@@ -1,13 +1,13 @@
 {
     "type": "create:sequenced_assembly",
     "ingredient": {
-      "item": "nyagibits_bytes:raw_graphite"
+      "item": "nyagibits_bytes:raw_ametrine"
     },
     "loops": 1,
     "results": [
         {
           "count": 1,
-          "item": "nyagibits_bytes:polished_graphite"
+          "item": "nyagibits_bytes:polished_ametrine"
         }
       ],
     "sequence": [
@@ -15,17 +15,17 @@
         "type": "create:filling",
         "ingredients": [
           {
-            "item": "nyagibits_bytes:raw_graphite"
+            "item": "nyagibits_bytes:raw_ametrine"
           },
           {
-            "amount": 500,
+            "amount": 250,
             "fluid": "nyagibits_bytes:gemstone_polish_fluid",
             "nbt": {}
           }
         ],
         "results": [
           {
-            "item": "nyagibits_bytes:incomplete_raw_graphite_polish"
+            "item": "nyagibits_bytes:raw_ametrine"
           }
         ]
     },
@@ -34,17 +34,17 @@
       "speed_limits": 2,
         "ingredients": [
           {
-            "item": "nyagibits_bytes:incomplete_raw_graphite_polish"
+            "item": "nyagibits_bytes:raw_ametrine"
       }
         ],
         "results": [
           {
-            "item": "nyagibits_bytes:incomplete_raw_graphite_polish"
+            "item": "nyagibits_bytes:raw_ametrine"
           }
         ]
       }
     ],
     "transitionalItem": {
-      "item": "nyagibits_bytes:incomplete_raw_graphite_polish"
+      "item": "nyagibits_bytes:raw_ametrine"
     }
   }

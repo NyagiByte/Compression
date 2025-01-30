@@ -1,0 +1,23 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:polished_meteoric_certus"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 48,
+        "item": "ae2:certus_quartz_dust"
+      },
+      {
+        "count": 6,
+        "item": "ae2:sky_dust"
+      },
+      {
+        "count": 1,
+        "item": "minecraft:amethyst_shard"
+      }
+    ]
+  }

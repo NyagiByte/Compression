@@ -1,0 +1,27 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:polished_herkimer_diamond"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 24,
+        "item": "thermal:quartz_dust"
+      },
+      {
+        "count": 3,
+        "item": "thermal:quartz_dust"
+      },
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:raw_compacted_limestone"
+      },
+      {
+        "count": 1,
+        "item": "create:crushed_raw_iron"
+      }
+    ]
+  }

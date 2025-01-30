@@ -1,0 +1,14 @@
+{
+    "type": "create:sandpaper_polishing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:polished_meteoric_certus"
+      }
+    ],
+    "results": [
+      {
+        "count": 28,
+        "item": "ae2:certus_quartz_crystal"
+      }
+    ]
+  }

@@ -1,14 +1,14 @@
 {
     "type": "create:sequenced_assembly",
     "ingredient": {
-      "item": "nyagibits_bytes:raw_clustered_beryl"
+      "item": "nyagibits_bytes:polished_clustered_beryl"
     },
     "loops": 1,
     "results": [
         {
           "chance": 1,
-          "count": 22,
-          "item": "minecraft:emerald"
+          "count": 10,
+          "item": "minecraft:emerald_block"
         },
         {
           "chance": 1,

@@ -1,23 +1,23 @@
 {
     "type": "create:sequenced_assembly",
     "ingredient": {
-      "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
+      "item": "nyagibits_bytes:polished_prime_beryllic_cluster"
     },
     "loops": 1,
     "results": [
         {
           "chance": 34,
-          "count": 3,
+          "count": 12,
           "item": "nyagibits_bytes:ruby"
         },
         {
           "chance": 33,
-          "count": 3,
+          "count": 12,
           "item": "nyagibits_bytes:sapphire"
         },
         {
           "chance": 33,
-          "count": 3,
+          "count": 12,
           "item": "minecraft:emerald"
         }
       ],

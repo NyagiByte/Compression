@@ -1,0 +1,14 @@
+{
+    "type": "create:sandpaper_polishing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:polished_rutilated_quartz"
+      }
+    ],
+    "results": [
+      {
+        "count": 16,
+        "item": "minecraft:quartz"
+      }
+    ]
+  }

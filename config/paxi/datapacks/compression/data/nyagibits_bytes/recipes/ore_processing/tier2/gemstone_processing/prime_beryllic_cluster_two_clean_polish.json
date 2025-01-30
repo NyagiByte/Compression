@@ -1,13 +1,13 @@
 {
     "type": "create:sequenced_assembly",
     "ingredient": {
-      "item": "nyagibits_bytes:raw_graphite"
+      "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
     },
     "loops": 1,
     "results": [
         {
           "count": 1,
-          "item": "nyagibits_bytes:polished_graphite"
+          "item": "nyagibits_bytes:polished_prime_beryllic_cluster"
         }
       ],
     "sequence": [
@@ -15,7 +15,7 @@
         "type": "create:filling",
         "ingredients": [
           {
-            "item": "nyagibits_bytes:raw_graphite"
+            "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
           },
           {
             "amount": 500,
@@ -25,7 +25,7 @@
         ],
         "results": [
           {
-            "item": "nyagibits_bytes:incomplete_raw_graphite_polish"
+            "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
           }
         ]
     },
@@ -34,17 +34,17 @@
       "speed_limits": 2,
         "ingredients": [
           {
-            "item": "nyagibits_bytes:incomplete_raw_graphite_polish"
+            "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
       }
         ],
         "results": [
           {
-            "item": "nyagibits_bytes:incomplete_raw_graphite_polish"
+            "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
           }
         ]
       }
     ],
     "transitionalItem": {
-      "item": "nyagibits_bytes:incomplete_raw_graphite_polish"
+      "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
     }
   }

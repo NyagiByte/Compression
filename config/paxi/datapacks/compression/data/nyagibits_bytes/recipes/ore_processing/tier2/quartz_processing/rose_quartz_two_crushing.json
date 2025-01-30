@@ -2,22 +2,22 @@
     "type": "create:crushing",
     "ingredients": [
       {
-        "item": "nyagibits_bytes:polished_calomel"
+        "item": "nyagibits_bytes:polished_rose_quartz"
       }
     ],
     "processingTime": 150,
     "results": [
       {
-        "count": 12,
+        "count": 24,
+        "item": "thermal:quartz_dust"
+      },
+      {
+        "count": 6,
         "item": "minecraft:redstone"
       },
       {
-        "count": 3,
-        "item": "chemlib:mercury"
-      },
-      {
         "count": 1,
-        "item": "create:crushed_raw_copper"
+        "item": "chemlib:mercury"
       }
     ]
   }

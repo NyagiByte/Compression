@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:polished_rutilated_quartz"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 24,
+        "item": "thermal:quartz_dust"
+      },
+      {
+        "count": 1,
+        "item": "chemlib:titanium_dust"
+      }
+    ]
+  }

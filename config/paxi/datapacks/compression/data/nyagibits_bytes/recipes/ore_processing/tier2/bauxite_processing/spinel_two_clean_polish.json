@@ -1,13 +1,13 @@
 {
     "type": "create:sequenced_assembly",
     "ingredient": {
-      "item": "nyagibits_bytes:raw_graphite"
+      "item": "nyagibits_bytes:raw_spinel"
     },
     "loops": 1,
     "results": [
         {
           "count": 1,
-          "item": "nyagibits_bytes:polished_graphite"
+          "item": "nyagibits_bytes:polished_spinel"
         }
       ],
     "sequence": [
@@ -15,7 +15,7 @@
         "type": "create:filling",
         "ingredients": [
           {
-            "item": "nyagibits_bytes:raw_graphite"
+            "item": "nyagibits_bytes:raw_spinel"
           },
           {
             "amount": 500,
@@ -25,7 +25,7 @@
         ],
         "results": [
           {
-            "item": "nyagibits_bytes:incomplete_raw_graphite_polish"
+            "item": "nyagibits_bytes:raw_spinel"
           }
         ]
     },
@@ -34,17 +34,17 @@
       "speed_limits": 2,
         "ingredients": [
           {
-            "item": "nyagibits_bytes:incomplete_raw_graphite_polish"
+            "item": "nyagibits_bytes:raw_spinel"
       }
         ],
         "results": [
           {
-            "item": "nyagibits_bytes:incomplete_raw_graphite_polish"
+            "item": "nyagibits_bytes:raw_spinel"
           }
         ]
       }
     ],
     "transitionalItem": {
-      "item": "nyagibits_bytes:incomplete_raw_graphite_polish"
+      "item": "nyagibits_bytes:raw_spinel"
     }
   }

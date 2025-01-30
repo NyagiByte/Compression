@@ -1,0 +1,27 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:polished_prime_beryllic_cluster"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 4,
+        "item": "chemlib:aluminum_dust"
+      },
+      {
+        "count": 6,
+        "item": "thermal:emerald_dust"
+      },
+      {
+        "count": 6,
+        "item": "nyagibits_bytes:sapphire_dust"
+      },
+      {
+        "count": 6,
+        "item": "nyagibits_bytes:ruby_dust"
+      }
+    ]
+  }
