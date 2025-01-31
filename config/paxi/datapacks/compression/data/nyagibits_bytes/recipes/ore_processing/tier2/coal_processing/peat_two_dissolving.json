@@ -1,0 +1,29 @@
+{
+    "type": "alchemistry:dissolver",
+    "group": "alchemistry:dissolver",
+    "input": {
+      "count": 1,
+      "ingredient": {
+        "item": "nyagibits_bytes:biologically_activated_peat"
+      }
+    },
+    "output": {
+      "groups": [
+        {
+          "probability": 100.0,
+          "results": [
+            {
+              "count": 32,
+              "item": "chemlib:ammonium"
+            },
+            {
+              "count": 64,
+              "item": "chemlib:methane"
+            }
+          ]
+        }
+      ],
+      "rolls": 1,
+      "weighted": false
+    }
+  }

@@ -1,0 +1,30 @@
+{
+	"type":"vintageimprovements:pressurizing",
+    "heatRequirement": "heated",
+	"ingredients": [
+		{
+			"item": "nyagibits_bytes:raw_peat"
+		},
+		{
+			"item": "nyagibits_bytes:agar_agar"
+		},
+		{
+			"fluid": "pneumaticcraft:yeast_culture",
+			"amount": 100
+		}
+	],
+	"results": [
+		{
+			"amount": 200,
+			"fluid": "chemlib:carbon_dioxide_fluid"
+		},
+		{
+			"amount": 100,
+			"fluid": "chemlib:methane_fluid"
+		},
+		{
+			"item": "nyagibits_bytes:biologically_activated_peat"
+		}
+	],
+	"processingTime": 200
+}

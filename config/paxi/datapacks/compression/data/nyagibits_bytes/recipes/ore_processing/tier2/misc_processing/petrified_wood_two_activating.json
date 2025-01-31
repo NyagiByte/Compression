@@ -1,0 +1,37 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"ingredients": [
+		{
+			"item": "nyagibits_bytes:raw_petrified_wood"
+		},
+		{
+			"fluid": "nyagibits_bytes:amorphous_cellulose_fluid",
+			"amount": 50
+		},
+		{
+			"fluid": "nyagibits_bytes:pyroligneous_acid_fluid",
+			"amount": 500
+		},
+		{
+			"item": "nyagibits_bytes:wood_ash"
+		},
+		{
+			"item": "nyagibits_bytes:wood_ash"
+		},
+		{
+			"item": "nyagibits_bytes:wood_ash"
+		},
+		{
+			"item": "nyagibits_bytes:wood_ash"
+		},
+		{
+			"item": "nyagibits_bytes:mystic_fertilizer"
+		}
+	],
+	"results": [
+		{
+			"item": "nyagibits_bytes:biologically_activated_petrified_wood"
+		}
+	],
+	"processingTime": 200
+}
