@@ -621,6 +621,10 @@ file = "config/paxi/datapacks/compression/data/ae2/recipes/decorative/quartz_gla
 hash = "a89fa32d99d6a9cb1d6093abe5af6779a6d8ccc37f3634780f5a1529a8f387e5"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/decorative/quartz_glass_t3.json"
+hash = "9912132d91b9348da6bd94b12ed648bfbffb48b6b1869fef9d529c424e4413d3"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/inscriber/calculation_processor.json"
 hash = "f8ee21486aea99b8f729c1a046af6b6b725cff783a6d37316e96dd1955d332af"
 
@@ -4201,6 +4205,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/co
 hash = "ad1d2a09d4969c2c8c1efaac96fbf561769873d79c7ccb096558bb6aaae820f8"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/alloy_low_temp_solder_t1.json"
+hash = "63ccd1ac0f58a9a005dcdbfb6d466e558b5eec085e4a7348aa05691e8459dfe5"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/alloy_zag.json"
 hash = "ab3cde9e2bb13efee17f247a975bcec7ef9a4cf49077f7fe2c623438952c3151"
 
@@ -4239,6 +4247,10 @@ hash = "2ef5954bf09c88145dc8c73dd0842adcc17005c05771e945c3eef126c507e64d"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/flux_mixture_talc.json"
 hash = "c80d0f168302dcb683a62d94261602078d24a6340da303af11757a5611ab4067"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/flux_mixture_talc_borax.json"
+hash = "417ae5ff045b8488bc447e33461dc8c6a2b3f2427198ed66a487d56ce37051d7"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/immitation_ink.json"
@@ -4523,6 +4535,134 @@ hash = "5310a6b233a7c0583cfeb36eb07cd9503d189685c28ce3bb8158f530d43424fd"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/synthetic_mica.json"
 hash = "a3ebb47084683c67ad7fa53a3d8d0f0277ef1c11ce56fa27ce32e540cbd203d3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/black_glazed_terracotta_t1.json"
+hash = "dd0dd2a8bb727c5bf11df60c835f9570944f0a59fc61f22f4e6ca0228481ae2d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/black_glazed_terracotta_t2.json"
+hash = "5e2302b4920117e39074593a74c4ef8d771bbecc7ea5f4d7b25013ff9c60b8e9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/blue_glazed_terracotta_t1.json"
+hash = "097492032628e57000e091a0703394d1d638c5b5db789870c91139c58102ac9a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/blue_glazed_terracotta_t2.json"
+hash = "d22c0b910b06c5375fe5f95bfddbb89a4a7f00b42743a7dc5c5dfb768b51fa09"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/brown_glazed_terracotta_t1.json"
+hash = "4b8cc9b0e3d69ea0ca001c76d9b989efbe8c879a5d44c64dd6c9eb451c4db57a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/brown_glazed_terracotta_t2.json"
+hash = "3caabc7ce5765c327f8c5fccc41390008f388ff1c239cda179c3c5a71e03a859"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/cyan_glazed_terracotta_t1.json"
+hash = "07fe0398b40f3b5c08a977b7443d664110ec363410f96b5aad003a372c41732d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/cyan_glazed_terracotta_t2.json"
+hash = "996428b3f5690f818bb02b80bb0ce5724705ec4d5890f75cd4c7590093f83f0a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/gray_glazed_terracotta_t1.json"
+hash = "41a467ff1da2036a44d4ddafc26f945c58c3ef61b6a33d7a9753ac2c04552380"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/gray_glazed_terracotta_t2.json"
+hash = "eae4a32aee64046948307589c7f7dd9df55cfa7585af107289819148b5148a01"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/green_glazed_terracotta_t1.json"
+hash = "62e917ea241ccf6d2cb522aba27b57a73fdf26b38ef97304631e47adda3f501b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/green_glazed_terracotta_t2.json"
+hash = "64c59938de88fd5825a0ef2601cc7258f76389f1d853761708b78bccc0cf890c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/light_blue_glazed_terracotta_t1.json"
+hash = "86fbe7a6c02e7de9506650ef8dc6a6236d986aa4d63aed69195a8bf90bae1422"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/light_blue_glazed_terracotta_t2.json"
+hash = "5627a35af58dbcd502c9160f1d6da2ba2038307a829f97c1c901b3e8ad882b46"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/light_gray_glazed_terracotta_t1.json"
+hash = "02bc46a119015f2dc5b8a463270832d88049e3b0c260c4a2d645991f65b8c054"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/light_gray_glazed_terracotta_t2.json"
+hash = "bff3544927101780f1c5e77f9e16a538d934e6165b2b11e4159a8b620dba36e4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/lime_glazed_terracotta_t1.json"
+hash = "1874ca71ad3a8e24c685a20793af53dccc5affa5dc57dc7ece2254206ee4dd03"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/lime_glazed_terracotta_t2.json"
+hash = "cbd6a67b44bfd62d45bdb7355d59345b554bbb5879b0a7f72aefe70738e25169"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/magenta_glazed_terracotta_t1.json"
+hash = "98e6fd333aada385165171b875e84e0bc86d6b1fdfc0ba6b29cd11e7eaac45e5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/magenta_glazed_terracotta_t2.json"
+hash = "abde40cf97f01f5cb76d45b7db2dbea0b2bab75e7d66160a244e897b6abfbdab"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/orange_glazed_terracotta_t1.json"
+hash = "8f85d280884a76782832c04a833c3cd2cead25c9112eea14baf97c44c6f55868"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/orange_glazed_terracotta_t2.json"
+hash = "9291dbc3b75ede288641c26064225560b45cee31ea3216af6c04828e5704fc22"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/pink_glazed_terracotta_t1.json"
+hash = "07409cf8d71fbe8a0628f7f6e827638c5da1fdd3bc351409b180aa74df3c1bd5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/pink_glazed_terracotta_t2.json"
+hash = "42633cb2cec54bec89bd8a6852a2b80df236638bad707c0529d05efaaa427515"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/purple_glazed_terracotta_t1.json"
+hash = "6d346af6a4439f59e3eb4f51c6ecd41d6483e1dfb30a80971dc1013812f3eb72"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/purple_glazed_terracotta_t2.json"
+hash = "3fc54944d9b2b352d64d5a4896a21ab2aa6f95e7acf3d9ae8f866b1899a05190"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/red_glazed_terracotta_t1.json"
+hash = "0a6ce7e6a1f3b6c1fbf4ffa466e83ef3687b678ac9dcca9d6b066b4879fbba6a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/red_glazed_terracotta_t2.json"
+hash = "ef0811cdce9c36289cdb24730559fea8f58ee051d98b90bbc10a147732dd7b97"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/white_glazed_terracotta_t1.json"
+hash = "d0b3f9fd6d5f81e9511a39d29e770a5c8beabb5fbc3bd2de2493f63ffd0d1d2b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/white_glazed_terracotta_t2.json"
+hash = "bbf22b6f7ad0919376986b1d603dac951ea0bb037de42d887639423d29f9f55a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/yellow_glazed_terracotta_t1.json"
+hash = "856f09704e218ee37b0dd10dccbd7ded32bc2e472abd0221c11d1a8c9abd40c4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/yellow_glazed_terracotta_t2.json"
+hash = "da49207f53cd49b91824a81fd49ed1c2177042cbbc2fcd1a3ce8acf166ed267a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/toluene.json"
@@ -6098,7 +6238,7 @@ hash = "703d171ffd455f4c8c35b98bdf126f7b1fc9fbc6922aeb41758746f0deabb54b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/bauxite_processing/clustered_beryl_two_sequenced_polishing.json"
-hash = "28533de5e5283194d37dc396f5cf155d7db233eb733cf5fa899d67075f0c0d2a"
+hash = "0564d4c1d708cede4dea665bcfd2d4500f688d35468a01db6cb60d3b7e5b00eb"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/bauxite_processing/cryolite_two_crushing.json"
@@ -6349,6 +6489,14 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "be8871749005127091eedc5b5a0de6485862e701af88d1971b60640aed4ec63e"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gemstone_processing/salt_cluster_two_crushing.json"
+hash = "caa3c1e8b6d05569c8e8f675d320882df195d00058bd2e4f42fa3b4921dbea51"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gemstone_processing/salt_cluster_two_demineralizing.json"
+hash = "7705804ee1a77b8919d9139d331390b877ba4edcab516bf694e66246ff91d73f"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gold_silver_processing/alluvial_slush_two_crushing.json"
 hash = "2b1ae20fb7723839b03c1ad2529660a3d41c98fc6308e7626ef8bd4cae608279"
 
@@ -6541,12 +6689,76 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "bb27d221684a8241cece5c134faba17e3ede67d2dc3ca43ceae26d49a1a8a9f1"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/misc_processing/borax_two_crushing.json"
+hash = "3787dcbdac7b8b0ca563a62fdf1d9fdfe46979ddbde74245890e21195fa921c2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/misc_processing/borax_two_demineralizing.json"
+hash = "f3eced9be6cdb1cad3850ae9527ae43295815701a1ff4b120f23acd60149cf40"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/misc_processing/chalk_two_demineralizing.json"
+hash = "04938141905c57ee841299a64b126e4faebbc320bb980cdba0c4f8b262c2c168"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/misc_processing/compacted_limestone_two_crushing.json"
+hash = "a44964fa3a7cafffd7db8e765010de0dfba13dfab99c56fdef945bfd94bb72d3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/misc_processing/compacted_limestone_two_demineralizing.json"
+hash = "adc1d9eeb473047d92bfc970093a888110f71dfc8d8b87f97899a95bb6c7ea10"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/misc_processing/petrified_wood_two_crushing.json"
+hash = "461f6062659416fc7e53836080e53dcbcce3dc124d3410952f5d25464a2c3aeb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/misc_processing/rainbow_obsidian_two_crushing.json"
+hash = "71ebcf7dbf07561a213fbd1894136e32c3321a2c55751a78e4c62c0e997b5b18"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/misc_processing/rainbow_obsidian_two_demineralizing.json"
+hash = "70ab4efaacee5e9436ed2a018b6f2faf17a6a1615cfdc7534ed2ca25bad5aa74"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/misc_processing/saltpeter_two_crushing.json"
+hash = "6673f1ab5ea205cde50b2e500b460063e11f4ace32c548f4880160a6705da2bb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/misc_processing/saltpeter_two_demineralizing.json"
+hash = "8af84e1809f030130a2ef816825543ef6033c079df3434a9ab4e0135e9f4b8e7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/misc_processing/trona_two_crushing.json"
+hash = "b4e367e9a5c93a48d89166ae1c5d12dee5314b3028b5fc706e54ec86ad3fb136"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/misc_processing/trona_two_demineralizing.json"
+hash = "e23d6f65ed113117c281c217675ab405dde9382e69633450993f33fb423cddde"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/misc_processing/volcanic_sulfur_two_crushing.json"
+hash = "a6f30acda7be748869c012be7bdda56e9076e23280dbfe828563b49ec61fb53e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/misc_processing/volcanic_sulfur_two_demineralizing.json"
+hash = "a153db8eca74982f3e17fcbb9180820014d929b8aa9e11e81440d086635ed028"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/nickel_processing/garnierite_two_crushing.json"
 hash = "184ed7bba91fe328ad423413682afac42e41b4e674350d91c7bbe50c42676ba2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/nickel_processing/garnierite_two_sintering.json"
 hash = "f317c460f29852ac9bd6da7f9beb98882eb1d58b6442541f35c9f3228b3dc41b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/nickel_processing/hardened_sulfide_flow_two_crushing.json"
+hash = "ed76fdb62c8a01f954ca16ab6d8839b8db402d10d5bdc3ab4d603ef3ee9a2c9a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/nickel_processing/hardened_sulfide_two_demineralizing.json"
+hash = "4223bc6f060c5d5cf374242d24b3047a401c76d34eba9f8c12b8406966516206"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/nickel_processing/meteoric_kamacite_two_crushing.json"
@@ -6697,6 +6909,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "753cc9c6a1e5a3ac3d0a8b1a4defe0ac75d499d10d80ebb78071d5f9d3e25589"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/redstone_processing/basaltic_powder_two_demineralizing.json"
+hash = "4fcd80789df1d72fe11cb26d6f33ad9e4ced6f9a3b4bcc563c9618a0b3dd9597"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/redstone_processing/calomel_two_clean_polish.json"
 hash = "a8f4f76ef225e7c4e39c113f8c19fc3dc589957d246ea350603300abb307edf5"
 
@@ -6723,6 +6939,10 @@ hash = "8e5c20e6cae300e24e62b7caafb62f8a6d3bcc379456935d3ec575f34487c1ee"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/redstone_processing/granulated_obsidian_two_crushing.json"
 hash = "9ec69a6d48002497c0642f4ed048e78649fd362e4c6460154aa0ac55dde76940"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/redstone_processing/granulated_obsidian_two_demineralizing.json"
+hash = "102af4c47d75959a8ef222ef10ec7cea3b0edc27eb78156c8b0c3503d2f5aad7"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/redstone_processing/metacinnabar_two_crushing.json"
@@ -6939,6 +7159,14 @@ hash = "9c53a3cd5c46d8e9f6207a12d2bf0c157fd47d6b624bff1b0ec7ec5e14e63706"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/zinc_processing/zinc_carbonate_two_sintering.json"
 hash = "9486edea529741caf0bc9698587ee962f57d690edf9cea9136f8fc524d48e2b0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/utility_fluids/nitrogen_from_ammonium.json"
+hash = "e7bbc7104e18a6e7ac739b1a221f3d5d473c1668573072f08ef259c61b0f6b4b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/utility_fluids/sodium_hydroxide_solution.json"
+hash = "c50f06e34dbb215b83afbb68ad1220d02b988576f176e9ecfe045f7fa63454db"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assemblies/ae2_assembly.json"
