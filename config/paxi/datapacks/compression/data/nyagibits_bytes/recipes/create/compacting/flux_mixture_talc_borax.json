@@ -1,0 +1,23 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:low_grade_coke"
+      },
+      {
+        "item": "create:limestone"
+      },
+      {
+        "item": "botania:metamorphic_plains_stone"
+      },
+      {
+        "item": "nuclearcraft:borax_dust"
+      }
+    ],
+    "results": [
+      {
+        "count": 10,
+        "item": "nyagibits_bytes:flux_mixture"
+      }
+    ]
+  }

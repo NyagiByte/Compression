@@ -1,0 +1,36 @@
+{
+    "type": "create:compacting",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "chemlib:lead_plate"
+      },
+      {
+        "item": "chemlib:lead_plate"
+      },
+      {
+        "item": "chemlib:lead_plate"
+      },
+      {
+        "item": "chemlib:lead_plate"
+      },
+      {
+        "item": "chemlib:tin_plate"
+      },
+      {
+        "item": "chemlib:tin_plate"
+      },
+      {
+        "item": "chemlib:antimony_dust"
+      },
+      {
+        "item": "nuclearcraft:borax_dust"
+      }
+    ],
+    "results": [
+      {
+        "count": 3,
+        "item": "nyagibits_bytes:low_temperature_solder"
+      }
+    ]
+  }
