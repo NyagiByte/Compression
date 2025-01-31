@@ -321,7 +321,7 @@
 		}
 		{
 			dependencies: ["6C86D86CCAEED256"]
-			description: ["Wax has some fantastic properties involving water proofing and flamability, while not technically required at &dTier 1&r it will prove to dramatically ease certain crafts and will be required later on. Just be glad it isnt Forestry Bees"]
+			description: ["Wax has some fantastic properties involving water proofing and flamability. At &dTier 1&r it will prove to dramatically ease certain crafts and will be required later on. Just be glad it isnt Forestry Bees.... yet"]
 			id: "24728B2A4B6B4582"
 			rewards: [{
 				id: "3FB33EFB162F55E5"

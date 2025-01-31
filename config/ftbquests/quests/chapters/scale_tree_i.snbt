@@ -345,8 +345,8 @@
 			description: ["With the addition of some rarer molybdenum the quantities of the other elements can be reduced rather dramatically"]
 			id: "6010CF0C03A9D607"
 			rewards: [{
-				id: "312A95EDB4A7B298"
-				item: "nyagibits_bytes:tier_two_strawberry"
+				id: "7B4AA935833BF450"
+				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
 			tasks: [{
@@ -694,6 +694,33 @@
 			title: "Magically Magnificent! "
 			x: -11.5d
 			y: -5.0d
+		}
+		{
+			dependencies: [
+				"76E72BB76B2C6C27"
+				"032BFD25F2C4C145"
+			]
+			description: [
+				"As it turns out baking with borax will outright increase the quartz glass yields while preserving the chance to regain the certus dust, nice!"
+				""
+				"&b2 Quartz Glass per craft"
+				"&c25% chance to consume certus quartz"
+				"&e20% chance for secondary glass yield"
+			]
+			id: "42E9322C352073DC"
+			rewards: [{
+				id: "68E4C51C94A9B66F"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5508FB4EE0241EE6"
+				item: "nuclearcraft:borax_dust"
+				type: "item"
+			}]
+			title: "A dash of beryllium"
+			x: -7.0d
+			y: -1.5d
 		}
 	]
 	subtitle: ["I NEED MORE STUFF"]

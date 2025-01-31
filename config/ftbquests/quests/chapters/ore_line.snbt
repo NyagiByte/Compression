@@ -154,7 +154,7 @@
 				""
 				"&6Tier 0 Yield:&r Iron"
 				"&6Tier 1 Yield:&r Iron"
-				"&6Tier 2 Yield:&r Titanium"
+				"&6Tier 2 Yield:&r Titanium &cx0.0625&r"
 			]
 			id: "58923677AB18101F"
 			rewards: [{
@@ -298,7 +298,7 @@
 				""
 				"&6Tier 0 Yield:&r Iron"
 				"&6Tier 1 Yield:&r Iron"
-				"&6Tier 2 Yield:&r Titanium"
+				"&6Tier 2 Yield:&r Titanium &cx0.0625&r"
 			]
 			id: "151971F1799BCDA2"
 			rewards: [{
@@ -345,6 +345,7 @@
 				""
 				"&6Tier 0 Yield:&r Copper"
 				"&6Tier 1 Yield:&r Iron"
+				"&6Tier 2 Yield:&r Sulfur"
 			]
 			id: "62418EFCDCAD72E4"
 			rewards: [{
@@ -368,6 +369,7 @@
 				""
 				"&6Tier 0 Yield:&r Copper"
 				"&6Tier 1 Yield:&r Copper"
+				"&6Tier 2 Yield:&r Carbon"
 			]
 			id: "2B54406B8D37509B"
 			rewards: [{
@@ -391,6 +393,7 @@
 				""
 				"&6Tier 0 Yield:&r Copper"
 				"&6Tier 1 Yield:&r Copper"
+				"&6Tier 1 Yield:&r Sodium Hydroxide"
 			]
 			id: "5FAEE148EC5A3355"
 			rewards: [{
@@ -437,6 +440,7 @@
 				""
 				"&6Tier 0 Yield:&r Copper"
 				"&6Tier 1 Yield:&r Sulfur"
+				"&6Tier 2 Yield:&r Arsenic"
 			]
 			id: "264EA0720710551E"
 			rewards: [{
@@ -460,6 +464,7 @@
 				""
 				"&6Tier 0 Yield:&r Copper"
 				"&6Tier 1 Yield:&r Silicon"
+				"&6Tier 2 Yield:&r Aluminum Hydroxide"
 			]
 			id: "0CCA4A8CCB705314"
 			rewards: [{
@@ -483,6 +488,7 @@
 				""
 				"&6Tier 0 Yield:&r Copper"
 				"&6Tier 1 Yield:&r Sulfur"
+				"&6Tier 2 Yield:&r Zinc"
 			]
 			id: "71C62012FD5BB79B"
 			rewards: [{
@@ -506,6 +512,7 @@
 				""
 				"&6Tier 0 Yield:&r Copper"
 				"&6Tier 1 Yield:&r Copper"
+				"&6Tier 2 Yield:&r Silicon"
 			]
 			id: "2BF9AC909FCE6E74"
 			rewards: [{
@@ -560,6 +567,7 @@
 				""
 				"&6Tier 0 Yield:&r Gold"
 				"&6Tier 1 Yield:&r Gravel"
+				"&6Tier 2 Yield:&r Pebble"
 			]
 			id: "7D8F4E873B8C86EC"
 			rewards: [{
@@ -583,6 +591,7 @@
 				""
 				"&6Tier 0 Yield:&r Gold"
 				"&6Tier 1 Yield:&r Gold"
+				"&6Tier 2 Yield:&r Platinum &cx0.25&r"
 			]
 			id: "79DB6A36983AC55D"
 			rewards: [{
@@ -606,6 +615,7 @@
 				""
 				"&6Tier 0 Yield:&r Silver"
 				"&6Tier 1 Yield:&r Sulfur"
+				"&6Tier 2 Yield:&r Lead"
 			]
 			id: "6C3F94DE1163D837"
 			rewards: [{
@@ -629,6 +639,7 @@
 				""
 				"&6Tier 0 Yield:&r Silver"
 				"&6Tier 1 Yield:&r Silver"
+				"&6Tier 2 Yield:&r Chlorine &cx0.0625&r"
 			]
 			id: "7ECC3DA24391CE03"
 			rewards: [{
@@ -652,6 +663,7 @@
 				""
 				"&6Tier 0 Yield:&r Silver"
 				"&6Tier 1 Yield:&r Antimony"
+				"&6Tier 2 Yield:&r Copper"
 			]
 			id: "0706D348FEA18955"
 			rewards: [{
@@ -675,6 +687,7 @@
 				""
 				"&6Tier 0 Yield:&r Silver"
 				"&6Tier 1 Yield:&r Arsenic"
+				"&6Tier 2 Yield:&r Copper"
 			]
 			id: "620F9326CF74EDFB"
 			rewards: [{
@@ -698,6 +711,7 @@
 				""
 				"&6Tier 0 Yield:&r Gold"
 				"&6Tier 1 Yield:&r Silver"
+				"&6Tier 2 Yield:&r Palladium &cx0.125&r"
 			]
 			id: "38E79A712811BE9E"
 			rewards: [{
@@ -721,6 +735,7 @@
 				""
 				"&6Tier 0 Yield:&r Gold"
 				"&6Tier 1 Yield:&r Gold &bx2"
+				"&6Tier 2 Yield:&r Palladium &cx0.25&r"
 			]
 			id: "1B57872EBFFB1EAE"
 			rewards: [{
@@ -767,6 +782,7 @@
 				""
 				"&6Tier 0 Yield:&r Redstone"
 				"&6Tier 1 Yield:&r Mercury Sulfide"
+				"&6Tier 2 Yield:&r Glowstone"
 			]
 			id: "2AB039D37466584C"
 			rewards: [{
@@ -790,6 +806,7 @@
 				""
 				"&6Tier 0 Yield:&r Redstone"
 				"&6Tier 1 Yield:&r Mercury Sulfide"
+				"&6Tier 2 Yield:&r Quartz"
 			]
 			id: "34E0AF7803580F54"
 			rewards: [{
@@ -813,6 +830,7 @@
 				""
 				"&6Tier 0 Yield:&r Redstone"
 				"&6Tier 1 Yield:&r Sulfur"
+				"&6Tier 2 Yield:&r Chlorine &cx0.0625&r"
 			]
 			id: "179031B57EE47680"
 			rewards: [{
@@ -836,6 +854,7 @@
 				""
 				"&6Tier 0 Yield:&r Silicon"
 				"&6Tier 1 Yield:&r Magnesium"
+				"&6Tier 2 Yield:&r Iron"
 			]
 			id: "289AC82BB64734A9"
 			rewards: [{
@@ -859,6 +878,7 @@
 				""
 				"&6Tier 0 Yield:&r Redstone"
 				"&6Tier 1 Yield:&r Mercury"
+				"&6Tier 2 Yield:&r Copper"
 			]
 			id: "186B290B36A2F760"
 			rewards: [{
@@ -882,6 +902,7 @@
 				""
 				"&6Tier 0 Yield:&r Mercury"
 				"&6Tier 1 Yield:&r Mercury Sulfide"
+				"&6Tier 2 Yield:&r Raw Basaltic Powder"
 			]
 			id: "54C651D87DB4C548"
 			rewards: [{
@@ -905,6 +926,7 @@
 				""
 				"&6Tier 0 Yield:&r Redstone"
 				"&6Tier 1 Yield:&r Mercury"
+				"&6Tier 2 Yield:&r Gypsum"
 			]
 			id: "36ED42A46C26988C"
 			rewards: [{
@@ -928,6 +950,7 @@
 				""
 				"&6Tier 0 Yield:&r Powdered Obsidian"
 				"&6Tier 1 Yield:&r Silicon"
+				"&6Tier 2 Yield:&r Potassium"
 			]
 			id: "435B8B460BE5AF93"
 			rewards: [{
@@ -976,6 +999,7 @@
 				""
 				"&6Tier 0 Yield:&r Coal"
 				"&6Tier 1 Yield:&r Coal"
+				"&6Tier 2 Yield:&r Lead"
 			]
 			id: "15B4E8BF1E92F05E"
 			rewards: [{
@@ -999,6 +1023,7 @@
 				""
 				"&6Tier 0 Yield:&r Coal"
 				"&6Tier 1 Yield:&r Coal"
+				"&6Tier 2 Yield:&r Tar  &bx1.5"
 			]
 			id: "0F9263C2901F888E"
 			rewards: [{
@@ -1022,6 +1047,7 @@
 				""
 				"&6Tier 0 Yield:&r Coal"
 				"&6Tier 1 Yield:&r Coal"
+				"&6Tier 2 Yield:&r Tar  &bx2"
 			]
 			id: "613CF91B0C58B1BE"
 			rewards: [{
@@ -1045,6 +1071,7 @@
 				""
 				"&6Tier 0 Yield:&r Coal &b+1"
 				"&6Tier 1 Yield:&r Coal &bx2"
+				"&6Tier 2 Yield:&r Tar"
 			]
 			id: "4450CBE8E5334BA1"
 			rewards: [{
@@ -1068,6 +1095,7 @@
 				""
 				"&6Tier 0 Yield:&r Coal"
 				"&6Tier 1 Yield:&r Coal"
+				"&6Tier 2 Yield:&r Clay &bx3"
 			]
 			id: "137D5ED631849B19"
 			rewards: [{
@@ -1086,6 +1114,13 @@
 		}
 		{
 			dependencies: ["384CA06F7A29D8CE"]
+			description: [
+				"Another type of lignite, meaning it's quite bad as far as coals go. It does however more closely resemble the wood it comes from along with little pyrite inclusions giving it a rather unique shine"
+				""
+				"&6Tier 0 Yield:&r Coal"
+				"&6Tier 1 Yield:&r Coal"
+				"&6Tier 2 Yield:&r Pyrite &cx0.1&r"
+			]
 			id: "3A0984E0B03D9FF9"
 			rewards: [{
 				id: "2518D8F0B5627EA5"
@@ -1108,6 +1143,12 @@
 				""
 				"&6Tier 0 Yield:&r Clay"
 				"&6Tier 1 Yield:&r Dirt &cx0.5&r Straw&c x0.5"
+				"                &aor&r"
+				"                Methane"
+				"&6Tier 2 Yield:&r Dirt &cx0.5&r Straw&c x0.5"
+				"                &aor&r"
+				"                Methane &cx0.2&r + &eboost&r"
+				"                Ammonium &bx2"
 			]
 			id: "0A8E0946A2BF1D4F"
 			rewards: [{
@@ -1131,6 +1172,7 @@
 				""
 				"&6Tier 0 Yield:&r Carbon"
 				"&6Tier 1 Yield:&r Carbon"
+				"&6Tier 2 Yield:&r Silicon Dioxide"
 			]
 			id: "65D954270BC93561"
 			rewards: [{
@@ -1196,6 +1238,10 @@
 				"               &aor&r"
 				"               Graphite Ore &cx0.25&r,"
 				"               Carbon &cx0.75"
+				"&6Tier 2 Yield:&r"
+				"               Diamond &e^Sanding Increase&r"
+				"               &aor&r"
+				"               Diamond Shard &bx~1.33"
 			]
 			id: "0A9ECBA01878A7AB"
 			rewards: [{
@@ -1226,6 +1272,11 @@
 				"               &aor&r"
 				"               Graphite Ore &cx0.25&r,"
 				"               Potassium &cx0.75"
+				"&6Tier 2 Yield:&r"
+				"               Diamond &e^Sanding Increase&r"
+				"               &aor&r"
+				"               Diamond Shard &bx~1.33"
+				"               Aluminum"
 			]
 			id: "0534734B826094D9"
 			rewards: [{
@@ -1256,6 +1307,11 @@
 				"               &aor&r"
 				"               Compacted Limestone &cx0.25&r,"
 				"               Calcite &cx0.75"
+				"&6Tier 2 Yield:&r"
+				"               Lapis &e^Sanding Increase&r"
+				"               &aor&r"
+				"               Lapis Dust &bx~1.33"
+				"               Pyrite &cx0.1"
 			]
 			id: "7E36565D6A714D77"
 			rewards: [{
@@ -1286,6 +1342,11 @@
 				"               &aor&r"
 				"               Raw Pyrite &cx0.25&r,"
 				"               Calcite &cx0.75"
+				"&6Tier 2 Yield:&r"
+				"               Lapis &e^Sanding Increase&r"
+				"               &aor&r"
+				"               Lapis Dust &bx~1.33"
+				"               Pyrite &cx0.1"
 			]
 			id: "51123E21330821D0"
 			rewards: [{
@@ -1323,6 +1384,12 @@
 				"               Ruby"
 				"               &aor&r"
 				"               Aluminum Dust"
+				"&6Tier 2 Yield:&r"
+				"               Emerald"
+				"               Sapphire"
+				"               Ruby"
+				"               &aor&r"
+				"               Aluminum Dust"
 			]
 			id: "2F36F840E0012977"
 			rewards: [{
@@ -1346,6 +1413,7 @@
 				""
 				"&6Tier 0 Yield:&r Fluorite Dust "
 				"&6Tier 1 Yield:&r Calcium"
+				"&6Tier 2 Yield:&r Gypsum"
 			]
 			id: "0E07F636B9B08AE8"
 			rewards: [{
@@ -1369,6 +1437,7 @@
 				""
 				"&6Tier 0 Yield:&r Antimony"
 				"&6Tier 1 Yield:&r Bismuth"
+				"&6Tier 2 Yield:&r Tin"
 			]
 			id: "35ECC39B3E74CFD1"
 			rewards: [{
@@ -1392,6 +1461,7 @@
 				""
 				"&6Tier 0 Yield:&r Salt"
 				"&6Tier 1 Yield:&r Potassium Chloride"
+				"&6Tier 2 Yield:&r Calcium Chloride"
 			]
 			id: "53970793D10A4AEF"
 			rewards: [{
@@ -1455,6 +1525,10 @@
 				"               &aor&r"
 				"               Compacted Limestone &cx0.25&r,"
 				"               Quartz Dust &cx0.75"
+				"&6Tier 2 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Iron"
 			]
 			id: "7EBA24E0515AD4D3"
 			rewards: [{
@@ -1474,7 +1548,7 @@
 		{
 			dependencies: ["12D07F810D3FEE98"]
 			description: [
-				"Double-terminated quartz crystals within dolomite. Contrary to the name this is not an actual diamond, but still very useful!"
+				"A variety of chalcedony. This gemstone is forged within a volcano and other metamorphic rocks. &c... Where is the volcano? Why is this here..&r"
 				""
 				"&6Tier 0 Yield:&r"
 				"               Quartz"
@@ -1485,6 +1559,10 @@
 				"               &aor&r"
 				"               Basaltic Powder &cx0.25&r,"
 				"               Quartz Dust &cx0.75"
+				"&6Tier 2 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Silicon"
 			]
 			id: "18F7940BCDD9A93E"
 			rewards: [{
@@ -1514,6 +1592,10 @@
 				"               Quartz"
 				"               &aor&r"
 				"               Silicon"
+				"&6Tier 2 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Morganite Dust"
 			]
 			id: "3C36DC4D8427D51F"
 			rewards: [{
@@ -1538,11 +1620,15 @@
 				"&6Tier 0 Yield:&r"
 				"               Quartz"
 				"               &aor&r"
-				"               Quartz Dust &bx2"
+				"               Quartz Dust &bx2&r"
 				"&6Tier 1 Yield:&r"
 				"               Quartz"
 				"               &aor&r"
 				"               Titanium &cx0.25&r"
+				"&6Tier 2 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Titanium &bx~1.33&r"
 			]
 			id: "6EADF678BD74FECC"
 			rewards: [{
@@ -1572,6 +1658,10 @@
 				"               Quartz"
 				"               &aor&r"
 				"               Iron"
+				"&6Tier 2 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Aluminum"
 			]
 			id: "57DE26D7500C341D"
 			rewards: [{
@@ -1601,6 +1691,10 @@
 				"               Quartz"
 				"               &aor&r"
 				"               Redstone"
+				"&6Tier 2 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Mercury &cx0.0625&r"
 			]
 			id: "2410D97DAF875C6D"
 			rewards: [{
@@ -1627,6 +1721,10 @@
 				"               &aor&r"
 				"               Quartz Dust &bx2"
 				"&6Tier 1 Yield:&r"
+				"               Quartz"
+				"               &aor&r"
+				"               Iron"
+				"&6Tier 2 Yield:&r"
 				"               Quartz"
 				"               &aor&r"
 				"               Iron"
@@ -1659,6 +1757,10 @@
 				"               Certuz Quarts"
 				"               &aor&r"
 				"               Skystone Dust &bx2"
+				"&6Tier 2 Yield:&r"
+				"               Certuz Quarts"
+				"               &aor&r"
+				"               Amethyst Shard"
 			]
 			id: "501ADCCCBBC15FD8"
 			rewards: [{
@@ -1706,6 +1808,7 @@
 				""
 				"&6Tier 0 Yield:&r Zinc"
 				"&6Tier 1 Yield:&r Zinc"
+				"&6Tier 2 Yield:&r Carbon"
 			]
 			id: "669C7D07D11F0370"
 			rewards: [{
@@ -1729,6 +1832,7 @@
 				""
 				"&6Tier 0 Yield:&r Zinc"
 				"&6Tier 1 Yield:&r Sulfur"
+				"&6Tier 2 Yield:&r Iron"
 			]
 			id: "1C2FC24938509385"
 			rewards: [{
@@ -1752,6 +1856,7 @@
 				""
 				"&6Tier 0 Yield:&r Zinc"
 				"&6Tier 1 Yield:&r Zinc"
+				"&6Tier 2 Yield:&r Copper"
 			]
 			id: "7EAF8DC491432E9E"
 			rewards: [{
@@ -1775,6 +1880,7 @@
 				""
 				"&6Tier 0 Yield:&r Zinc"
 				"&6Tier 1 Yield:&r Zinc"
+				"&6Tier 2 Yield:&r Lead"
 			]
 			id: "287B3BBDBF72A30E"
 			rewards: [{
@@ -1798,6 +1904,7 @@
 				""
 				"&6Tier 0 Yield:&r Zinc"
 				"&6Tier 1 Yield:&r Iron"
+				"&6Tier 2 Yield:&r Sulfur"
 			]
 			id: "257E7A429EA1164D"
 			rewards: [{
@@ -1821,6 +1928,7 @@
 				""
 				"&6Tier 0 Yield:&r Zinc"
 				"&6Tier 1 Yield:&r Carbon"
+				"&6Tier 2 Yield:&r Carbon"
 			]
 			id: "0747D7AC8FE28016"
 			rewards: [{
@@ -1844,6 +1952,7 @@
 				""
 				"&6Tier 0 Yield:&r Zinc"
 				"&6Tier 1 Yield:&r Silicon"
+				"&6Tier 2 Yield:&r Manganese Oxide"
 			]
 			id: "23DCA8552C6A5418"
 			rewards: [{
@@ -1862,6 +1971,13 @@
 		}
 		{
 			dependencies: ["0EE36446F98AA6C3"]
+			description: [
+				"An oxide mineral of zinc and iron. Belongs to a subgroup containing spinel and magnetite"
+				""
+				"&6Tier 0 Yield:&r Zinc"
+				"&6Tier 1 Yield:&r Iron"
+				"&6Tier 2 Yield:&r Manganese"
+			]
 			id: "1E6FCB9DA9E6A5F2"
 			rewards: [{
 				id: "49408639689156A2"
@@ -1908,6 +2024,7 @@
 				""
 				"&6Tier 0 Yield:&r Aluminum"
 				"&6Tier 1 Yield:&r Aluminum"
+				"&6Tier 2 Yield:&r Gallium"
 			]
 			id: "6A8FD9006612002D"
 			rewards: [{
@@ -1931,6 +2048,7 @@
 				""
 				"&6Tier 0 Yield:&r Aluminum"
 				"&6Tier 1 Yield:&r Sodium"
+				"&6Tier 2 Yield:&r Potassium"
 			]
 			id: "10CE9AA34871CB46"
 			rewards: [{
@@ -1981,6 +2099,17 @@
 				"               Pezzottaite &b~x3.08"
 				"               &aor&r"
 				"               Aluminum Dust &bx4"
+				"&6Tier 2 Yield:&r"
+				"               &bNote: The yields show up as x22 to account for the % being lower to be about x1/7, &eNow outputs as blocks"
+				"               Emerald &b~x1.02,"
+				"               Aquamarine &b~x1.02,"
+				"               Morganite &b~x1.02,"
+				"               Heliodor &b~x1.02,"
+				"               Goshenite &b~x1.02,"
+				"               Bixbite &b~x1.02,"
+				"               Pezzottaite &b~x1.02,"
+				"               &aor&r"
+				"               Aluminum Dust &bx4"
 			]
 			id: "51892F6F65402E61"
 			rewards: [{
@@ -2004,6 +2133,7 @@
 				""
 				"&6Tier 0 Yield:&r Aluminum"
 				"&6Tier 1 Yield:&r Fluorite"
+				"&6Tier 2 Yield:&r Sodium"
 			]
 			id: "651F9F142E28AD88"
 			rewards: [{
@@ -2027,6 +2157,7 @@
 				""
 				"&6Tier 0 Yield:&r Aluminum"
 				"&6Tier 1 Yield:&r Magnesium"
+				"&6Tier 2 Yield:&r Quartz"
 			]
 			id: "0C91D3E9BA31DE22"
 			rewards: [{
@@ -2050,6 +2181,7 @@
 				""
 				"&6Tier 0 Yield:&r Aluminum"
 				"&6Tier 1 Yield:&r Phosphate"
+				"&6Tier 2 Yield:&r Copper"
 			]
 			id: "4B27BAC7F959BE2C"
 			rewards: [{
@@ -2143,6 +2275,7 @@
 				""
 				"&6Tier 0 Yield:&r Lead"
 				"&6Tier 1 Yield:&r Sulfur"
+				"&6Tier 2 Yield:&r Silver"
 			]
 			id: "0988FA4A92F61A1E"
 			rewards: [{
@@ -2166,6 +2299,7 @@
 				""
 				"&6Tier 0 Yield:&r Lead"
 				"&6Tier 1 Yield:&r Sulfur"
+				"&6Tier 0 Yield:&r Lead"
 			]
 			id: "57E2B3C0611A7A1E"
 			rewards: [{
@@ -2189,6 +2323,7 @@
 				""
 				"&6Tier 0 Yield:&r Lead"
 				"&6Tier 1 Yield:&r Phosphorus"
+				"&6Tier 2 Yield:&r Chlorine &cx0.0625&r"
 			]
 			id: "1A89632520E80C42"
 			rewards: [{
@@ -2212,6 +2347,7 @@
 				""
 				"&6Tier 0 Yield:&r Lead"
 				"&6Tier 1 Yield:&r Lead"
+				"&6Tier 2 Yield:&r Carbon"
 			]
 			id: "3519AB62CD23F6C0"
 			rewards: [{
@@ -2235,6 +2371,7 @@
 				""
 				"&6Tier 0 Yield:&r Lead"
 				"&6Tier 1 Yield:&r Sulfur"
+				"&6Tier 2 Yield:&r Iron"
 			]
 			id: "3EC6BEF77074CBB2"
 			rewards: [{
@@ -2258,6 +2395,7 @@
 				""
 				"&6Tier 0 Yield:&r Lead"
 				"&6Tier 1 Yield:&r Molybdenum"
+				"&6Tier 2 Yield:&r Iron"
 			]
 			id: "37E23FB2A666A37D"
 			rewards: [{
@@ -2281,6 +2419,7 @@
 				""
 				"&6Tier 0 Yield:&r Lead"
 				"&6Tier 1 Yield:&r Vanadium"
+				"&6Tier 2 Yield:&r Phosphorus"
 			]
 			id: "3B234E446A891F03"
 			rewards: [{
@@ -2304,6 +2443,7 @@
 				""
 				"&6Tier 0 Yield:&r Lead"
 				"&6Tier 1 Yield:&r Arsenic"
+				"&6Tier 2 Yield:&r Chlorine &cx0.0625&r"
 			]
 			id: "62717F1766DB2BD9"
 			rewards: [{
@@ -2351,6 +2491,7 @@
 				""
 				"&6Tier 0 Yield:&r Nickel"
 				"&6Tier 1 Yield:&r Iron &bx3&r"
+				"&6Tier 2 Yield:&r Sulfur"
 			]
 			id: "19FBF5E1DE6766C6"
 			rewards: [{
@@ -2374,6 +2515,7 @@
 				""
 				"&6Tier 0 Yield:&r Nickel"
 				"&6Tier 1 Yield:&r Granite"
+				"&6Tier 2 Yield:&r Magnesium"
 			]
 			id: "26C6142F9D71AFDD"
 			rewards: [{
@@ -2397,6 +2539,7 @@
 				""
 				"&6Tier 0 Yield:&r Nickel"
 				"&6Tier 1 Yield:&r Bog Iron &cx0.1&r"
+				"&6Tier 2 Yield:&r Pebble &bx2&r"
 			]
 			id: "0E742531BFE5F86B"
 			rewards: [{
@@ -2420,6 +2563,7 @@
 				""
 				"&6Tier 0 Yield:&r Sulfur"
 				"&6Tier 1 Yield:&r Nickel"
+				"&6Tier 2 Yield:&r Cadmium"
 			]
 			id: "47501429D9BCBE54"
 			rewards: [{
@@ -2466,6 +2610,7 @@
 				""
 				"&6Tier 0 Yield:&r Nickel"
 				"&6Tier 1 Yield:&r Arsenic"
+				"&6Tier 2 Yield:&r Cobalt"
 			]
 			id: "10022CAD6696F87B"
 			rewards: [{
@@ -2489,6 +2634,7 @@
 				""
 				"&6Tier 0 Yield:&r Nickel"
 				"&6Tier 1 Yield:&r Meteoric Iron &cx0.1&r"
+				"&6Tier 2 Yield:&r Titanium &cx0.0625&r"
 			]
 			id: "129142E8B04F6DFB"
 			rewards: [{
@@ -2513,6 +2659,7 @@
 				"&6Tier 0 Yield:&r Nickel"
 				"&6Tier 1 Yield:&r Meteoric Iron &cx0.1&r,"
 				"                Cobalt &cx0.5&r"
+				"&6Tier 2 Yield:&r Titanium &cx0.0625&r"
 			]
 			id: "14343A7BEDE75B35"
 			rewards: [{
@@ -2560,6 +2707,7 @@
 				""
 				"&6Tier 0 Yield:&r Uranium"
 				"&6Tier 1 Yield:&r Cadmium"
+				"&6Tier 2 Yield:&r Lead"
 			]
 			id: "0FCCCDEFD417FA00"
 			rewards: [{
@@ -2582,7 +2730,8 @@
 				"A potassium uranium vanadate mineral. Can contain traces of calcium, barium, magnesium, iron, and sodium"
 				""
 				"&6Tier 0 Yield:&r Potassium"
-				"&6Tier 1 Yield:&r Uranium"
+				"&6Tier 1 Yield:&r Cadmium"
+				"&6Tier 2 Yield:&r Uranium"
 			]
 			id: "61CD2FE2B2CDF2BB"
 			rewards: [{
@@ -2606,6 +2755,7 @@
 				""
 				"&6Tier 0 Yield:&r Uranium &bx2&r"
 				"&6Tier 1 Yield:&r Calcium"
+				"&6Tier 2 Yield:&r Vanadium"
 			]
 			id: "606C8BBB910CFD67"
 			rewards: [{
@@ -2629,6 +2779,7 @@
 				""
 				"&6Tier 0 Yield:&r Copper"
 				"&6Tier 1 Yield:&r Uranium"
+				"&6Tier 2 Yield:&r Phosphorus"
 			]
 			id: "7E7EB9B33D30B0B1"
 			rewards: [{
@@ -2652,6 +2803,7 @@
 				""
 				"&6Tier 0 Yield:&r Phosphorus"
 				"&6Tier 1 Yield:&r Uranium"
+				"&6Tier 2 Yield:&r Calcium"
 			]
 			id: "411F86107B1D8ECB"
 			rewards: [{
@@ -2675,6 +2827,7 @@
 				""
 				"&6Tier 0 Yield:&r Thorium"
 				"&6Tier 1 Yield:&r Silicon"
+				"&6Tier 2 Yield:&r Monazite"
 			]
 			id: "5FCA5D2D5399D756"
 			rewards: [{
@@ -2698,6 +2851,7 @@
 				""
 				"&6Tier 0 Yield:&r Thorium"
 				"&6Tier 1 Yield:&r Uranium"
+				"&6Tier 2 Yield:&r Silicon Dioxide"
 			]
 			id: "37D713996B5D1E51"
 			rewards: [{
@@ -2721,6 +2875,7 @@
 				""
 				"&6Tier 0 Yield:&r Thorium"
 				"&6Tier 1 Yield:&r Thorium"
+				"&6Tier 2 Yield:&r Uranium"
 			]
 			id: "3A1ABA0089CF0F70"
 			rewards: [{
@@ -2768,6 +2923,7 @@
 				""
 				"&6Tier 0 Yield:&r Tin"
 				"&6Tier 1 Yield:&r Tin"
+				"&6Tier 2 Yield:&r Quartz"
 			]
 			id: "23247D4451ABE279"
 			rewards: [{
@@ -2791,6 +2947,7 @@
 				""
 				"&6Tier 0 Yield:&r Tin"
 				"&6Tier 1 Yield:&r Copper"
+				"&6Tier 2 Yield:&r Iron"
 			]
 			id: "641F6752FAA2C0F5"
 			rewards: [{
@@ -2814,6 +2971,7 @@
 				""
 				"&6Tier 0 Yield:&r Tin"
 				"&6Tier 1 Yield:&r Lead"
+				"&6Tier 2 Yield:&r Antimony"
 			]
 			id: "44B1770BABD3E9E8"
 			rewards: [{
@@ -2833,10 +2991,11 @@
 		{
 			dependencies: ["1CDB5D26D5C8253C"]
 			description: [
-				"A complex sulfide mineral related to cylindrite. A hydrothermal silver-thin deposit"
+				"A complex sulfide mineral related to cylindrite. A hydrothermal silver-tin deposit"
 				""
 				"&6Tier 0 Yield:&r Tin"
 				"&6Tier 1 Yield:&r Silver"
+				"&6Tier 2 Yield:&r Sulfur"
 			]
 			id: "3E8341FCC12DDBBC"
 			rewards: [{
@@ -2860,6 +3019,7 @@
 				""
 				"&6Tier 0 Yield:&r Silver"
 				"&6Tier 1 Yield:&r Tin"
+				"&6Tier 2 Yield:&r Sulfur"
 			]
 			id: "4ECD8B1464CDD423"
 			rewards: [{
@@ -2883,6 +3043,7 @@
 				""
 				"&6Tier 0 Yield:&r Tin"
 				"&6Tier 1 Yield:&r Sulfur"
+				"&6Tier 2 Yield:&r Lead"
 			]
 			id: "174A45BD2F86A17F"
 			rewards: [{
@@ -2906,6 +3067,7 @@
 				""
 				"&6Tier 0 Yield:&r Tin"
 				"&6Tier 1 Yield:&r Granite"
+				"&6Tier 2 Yield:&r Uranium"
 			]
 			id: "18A7E040948E4E0B"
 			rewards: [{
@@ -2929,6 +3091,7 @@
 				""
 				"&6Tier 0 Yield:&r Silicon"
 				"&6Tier 1 Yield:&r Tin"
+				"&6Tier 2 Yield:&r Potassium"
 			]
 			id: "19367A10D464B28F"
 			rewards: [{
@@ -2984,6 +3147,7 @@
 				""
 				"&6Tier 0 Yield:&r Potassium Nitrate"
 				"&6Tier 1 Yield:&r Potassium Nitrate"
+				"&6Tier 2 Yield:&r Nitric Oxide Gas &3(200mb)&r "
 			]
 			id: "0F1E71EA24F0E287"
 			rewards: [{
@@ -3007,6 +3171,7 @@
 				""
 				"&6Tier 0 Yield:&r Borax Powder"
 				"&6Tier 1 Yield:&r Borax Powder"
+				"&6Tier 2 Yield:&r Sand, Clay"
 			]
 			id: "032BFD25F2C4C145"
 			rewards: [{
@@ -3030,6 +3195,7 @@
 				""
 				"&6Tier 0 Yield:&r Limestone &bx4"
 				"&6Tier 1 Yield:&r Limestone &bx4"
+				"&6Tier 2 Yield:&r Ancient Fossil &cx0.1&r"
 			]
 			id: "6720635414E4501D"
 			rewards: [{
@@ -3054,6 +3220,7 @@
 				"&6Tier 0 Yield:&r Sulfur &bx2"
 				"&6Tier 1 Yield:&r Cadmium &cx0.5&r,"
 				"                Indium &cx0.5&r"
+				"&6Tier 2 Yield:&r Arsenic"
 			]
 			id: "3364EC3640226F5F"
 			rewards: [{
@@ -3077,6 +3244,7 @@
 				""
 				"&6Tier 0 Yield:&r Granulated Obsidian"
 				"&6Tier 1 Yield:&r Granulated Obsidian "
+				"&6Tier 2 Yield:&r Granulated Obsidian "
 			]
 			id: "00A429CE1D31266F"
 			rewards: [{
@@ -3100,6 +3268,7 @@
 				""
 				"&6Tier 0 Yield:&r Silicon Dioxide"
 				"&6Tier 1 Yield:&r Silicon Dioxide "
+				"&6Tier 2 Yield:&r Cellulose "
 			]
 			id: "119BAA08559348C5"
 			rewards: [{
@@ -3122,6 +3291,9 @@
 				"A white porous form of limestone made of calcite and the skeletons of billions of plankton that settled to the sea floor. Can be used in pottery glazing, decomposed into slaked lime, in agriculture to raise pH, and to confuse college students on a blackboard"
 				""
 				"&6Processing information not displayed as it splits too much"
+				""
+				"&eImproves yields of:"
+				"&bTerracotta"
 			]
 			id: "003A50BF60A4F905"
 			rewards: [{
@@ -3145,6 +3317,8 @@
 				""
 				"&6Tier 0 Yield:&r Sodium Carbonate"
 				"&6Tier 1 Yield:&r Sodium Carbonate"
+				"&6Tier 2 Yield:&r Carbon Dioxide &3(100mb)&r "
+				"                Water &3(100mb)"
 			]
 			id: "53A59BCE01097779"
 			rewards: [{
@@ -3461,7 +3635,7 @@
 			description: [
 				"By making a special polishing liquid, far more crystal can be recovered per crystal. 1 gram of diamonds is like 15 grams"
 				""
-				"&b16 total drops per ore"
+				"&b16 total drops per ore!"
 			]
 			id: "4D9B214ADB223440"
 			rewards: [{
@@ -3743,6 +3917,61 @@
 			title: "Void Seam"
 			x: -0.5d
 			y: 12.0d
+		}
+		{
+			dependencies: ["510C4A6E6F1259B5"]
+			description: [
+				"By injecting high temperature sodium hydroxide through some ores all impurities can be leached allowing for much better yields"
+				""
+				""
+				"&b16 total drops per ore!"
+			]
+			id: "50B6548021E10F91"
+			rewards: [{
+				id: "2D41A737E0FDEAAA"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "4352AD5A94AE0F1A"
+					item: "nuclearcraft:sodium_hydroxide_solution_bucket"
+					type: "item"
+				}
+				{
+					id: "71798EC2F285EB73"
+					item: "vintageimprovements:vacuum_chamber"
+					type: "item"
+				}
+			]
+			title: "Getting REALLY clean"
+			x: 10.5d
+			y: -3.982142857142847d
+		}
+		{
+			dependencies: ["50B6548021E10F91"]
+			description: ["A select few ores have or once had life within them. Feeding and re-activating that life will grant rather unique uses as well as more yield"]
+			id: "3CF18A468706C059"
+			rewards: [{
+				id: "23A2DC01B4EF219F"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "4D1C3519617EC703"
+					item: "pneumaticcraft:yeast_culture_bucket"
+					type: "item"
+				}
+				{
+					id: "1D404E347BC013F5"
+					item: "nyagibits_bytes:bucket_of_amorphous_cellulose"
+					type: "item"
+				}
+			]
+			title: "IT'S ALIVE"
+			x: 10.5d
+			y: -3.0d
 		}
 	]
 	subtitle: ["I am a dwarf and I'm digging a hole"]
