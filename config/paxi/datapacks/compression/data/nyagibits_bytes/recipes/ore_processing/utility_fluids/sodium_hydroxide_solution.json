@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "chemlib:sodium_hydroxide_dust"
+      },
+      {
+        "item": "chemlib:sodium_hydroxide_dust"
+      },
+      {
+          "amount": 1000,
+          "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+          "amount": 1000,
+          "fluid": "nuclearcraft:sodium_hydroxide_solution"
+      }
+    ]
+  }
+  
