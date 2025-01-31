@@ -1,0 +1,27 @@
+{
+	  "type":"vintageimprovements:pressurizing",
+    "ingredients": [
+      {
+        "item": "vintageimprovements:platinum_wire"
+      },
+      {
+          "amount": 1000,
+          "fluid": "chemlib:ammonium_fluid"
+      }
+    ],
+    "results": [
+      {
+          "amount": 800,
+          "fluid": "chemlib:hydrogen_fluid"
+      },
+      {
+          "amount": 200,
+          "fluid": "chemlib:nitrogen_fluid"
+      },
+      {
+        "chance": 0.99,
+        "item": "vintageimprovements:platinum_wire"
+      }
+    ]
+  }
+  
