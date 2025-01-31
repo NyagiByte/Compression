@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:de_mineralized_chalk"
+      },
+      {
+        "item": "minecraft:gray_terracotta"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "minecraft:gray_glazed_terracotta"
+      }
+    ]
+  }
