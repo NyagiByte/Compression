@@ -12,33 +12,33 @@
         },
         {
           "chance": 1,
-          "count": 22,
-          "item": "nyagibits_bytes:heliodor"
+          "count": 10,
+          "item": "nyagibits_bytes:block_heliodor"
         },
         {
           "chance": 1,
-          "count": 22,
-          "item": "nyagibits_bytes:morganite"
+          "count": 10,
+          "item": "nyagibits_bytes:block_morganite"
         },
         {
           "chance": 1,
-          "count": 22,
-          "item": "nyagibits_bytes:aquamarine"
+          "count": 10,
+          "item": "nyagibits_bytes:block_aquamarine"
         },
         {
           "chance": 1,
-          "count": 22,
-          "item": "nyagibits_bytes:pezzottaite"
+          "count": 10,
+          "item": "nyagibits_bytes:block_pezzottaite"
         },
         {
           "chance": 1,
-          "count": 22,
-          "item": "nyagibits_bytes:bixbite"
+          "count": 10,
+          "item": "nyagibits_bytes:block_bixbite"
         },
         {
           "chance": 1,
-          "count": 22,
-          "item": "nyagibits_bytes:goshenite"
+          "count": 10,
+          "item": "nyagibits_bytes:block_goshenite"
         }
       ],
     "sequence": [

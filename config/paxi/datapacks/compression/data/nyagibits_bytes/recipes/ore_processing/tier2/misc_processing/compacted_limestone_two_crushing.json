@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:de_mineralized_compacted_limestone"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 48,
+        "item": "create:limestone"
+      },
+      {
+        "count": 16,
+        "item": "create:limestone"
+      }
+    ]
+  }

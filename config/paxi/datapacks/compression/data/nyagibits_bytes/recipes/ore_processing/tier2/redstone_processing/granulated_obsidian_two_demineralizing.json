@@ -1,0 +1,26 @@
+{
+	"type":"vintageimprovements:pressurizing",
+    "heatRequirement": "superheated",
+	"ingredients": [
+		{
+			"item": "nyagibits_bytes:raw_granulated_obsidian"
+		},
+		{
+			"fluid": "nuclearcraft:sodium_hydroxide_solution",
+			"amount": 100
+		}
+	],
+	"results": [
+		{
+			"amount": 100,
+			"fluid": "nyagibits_bytes:tailings_fluid"
+		},
+		{
+			"item": "nyagibits_bytes:de_mineralized_granulated_obsidian"
+		},
+		{
+			"item": "chemlib:potassium_dust"
+		}
+	],
+	"processingTime": 200
+}

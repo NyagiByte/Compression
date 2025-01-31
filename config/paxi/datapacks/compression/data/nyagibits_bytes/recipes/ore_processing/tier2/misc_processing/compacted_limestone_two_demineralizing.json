@@ -1,0 +1,27 @@
+{
+	"type":"vintageimprovements:pressurizing",
+    "heatRequirement": "superheated",
+	"ingredients": [
+		{
+			"item": "nyagibits_bytes:raw_compacted_limestone"
+		},
+		{
+			"fluid": "minecraft:water",
+			"amount": 500
+		}
+	],
+	"results": [
+		{
+			"amount": 500,
+			"fluid": "nyagibits_bytes:tailings_fluid"
+		},
+		{
+			"item": "nyagibits_bytes:de_mineralized_compacted_limestone"
+		},
+		{
+            "chance": 0.1,
+			"item": "nyagibits_bytes:ancient_fossil"
+		}
+	],
+	"processingTime": 200
+}

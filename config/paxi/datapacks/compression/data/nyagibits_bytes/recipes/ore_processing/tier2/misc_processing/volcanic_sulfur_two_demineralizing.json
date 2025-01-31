@@ -1,0 +1,26 @@
+{
+	"type":"vintageimprovements:pressurizing",
+    "heatRequirement": "superheated",
+	"ingredients": [
+		{
+			"item": "nyagibits_bytes:raw_volcanic_sulfur"
+		},
+		{
+			"fluid": "chemlib:nitrogen_fluid",
+			"amount": 200
+		}
+	],
+	"results": [
+		{
+			"amount": 1000,
+			"fluid": "chemlib:carbon_dioxide_fluid"
+		},
+		{
+			"item": "nyagibits_bytes:de_mineralized_volcanic_sulfur"
+		},
+		{
+			"item": "chemlib:arsenic_dust"
+		}
+	],
+	"processingTime": 200
+}

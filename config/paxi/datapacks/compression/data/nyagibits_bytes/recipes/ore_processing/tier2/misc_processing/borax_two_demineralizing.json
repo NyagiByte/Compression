@@ -1,0 +1,29 @@
+{
+	"type":"vintageimprovements:pressurizing",
+    "heatRequirement": "superheated",
+	"ingredients": [
+		{
+			"item": "nyagibits_bytes:raw_borax"
+		},
+		{
+			"fluid": "nuclearcraft:sodium_hydroxide_solution",
+			"amount": 100
+		}
+	],
+	"results": [
+		{
+			"amount": 100,
+			"fluid": "nyagibits_bytes:tailings_fluid"
+		},
+		{
+			"item": "nyagibits_bytes:de_mineralized_borax"
+		},
+		{
+			"item": "minecraft:sand"
+		},
+		{
+			"item": "minecraft:clay_ball"
+		}
+	],
+	"processingTime": 200
+}

@@ -1,0 +1,26 @@
+{
+	"type":"vintageimprovements:pressurizing",
+    "heatRequirement": "superheated",
+	"ingredients": [
+		{
+			"item": "nyagibits_bytes:raw_chalk"
+		},
+		{
+			"fluid": "minecraft:water",
+			"amount": 200
+		}
+	],
+	"results": [
+		{
+			"amount": 200,
+			"fluid": "nyagibits_bytes:tailings_fluid"
+		},
+		{
+			"item": "nyagibits_bytes:de_mineralized_chalk"
+		},
+		{
+			"item": "minecraft:calcite"
+		}
+	],
+	"processingTime": 200
+}

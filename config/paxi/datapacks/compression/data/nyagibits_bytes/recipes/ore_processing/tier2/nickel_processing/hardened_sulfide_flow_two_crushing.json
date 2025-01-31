@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:de_mineralized_hardened_sulfide_flow"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 12,
+        "item": "chemlib:sulfur_dust"
+      },
+      {
+        "count": 3,
+        "item": "create:crushed_raw_nickel"
+      }
+    ]
+  }

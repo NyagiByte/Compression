@@ -1,0 +1,39 @@
+{
+	"type":"vintageimprovements:pressurizing",
+    "heatRequirement": "superheated",
+	"ingredients": [
+		{
+			"item": "nyagibits_bytes:raw_saltpeter"
+		},
+		{
+			"item": "nyagibits_bytes:wood_ash"
+		},
+		{
+			"item": "nyagibits_bytes:wood_ash"
+		},
+		{
+			"item": "nyagibits_bytes:wood_ash"
+		},
+		{
+			"item": "nyagibits_bytes:wood_ash"
+		},
+		{
+			"fluid": "minecraft:water",
+			"amount": 200
+		}
+	],
+	"results": [
+		{
+			"amount": 200,
+			"fluid": "nyagibits_bytes:tailings_fluid"
+		},
+		{
+			"amount": 200,
+			"fluid": "chemlib:nitric_oxide_fluid"
+		},
+		{
+			"item": "nyagibits_bytes:de_mineralized_saltpeter"
+		}
+	],
+	"processingTime": 200
+}

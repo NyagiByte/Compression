@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:de_mineralized_trona"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 12,
+        "item": "chemlib:sodium_carbonate_dust"
+      },
+      {
+        "count": 3,
+        "item": "chemlib:sodium_carbonate_dust"
+      }
+    ]
+  }

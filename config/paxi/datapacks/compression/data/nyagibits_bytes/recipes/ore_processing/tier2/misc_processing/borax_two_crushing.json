@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:de_mineralized_borax"
+      }
+    ],
+    "processingTime": 150,
+    "results": [
+      {
+        "count": 12,
+        "item": "nuclearcraft:borax_dust"
+      },
+      {
+        "count": 3,
+        "item": "nuclearcraft:borax_dust"
+      }
+    ]
+  }
