@@ -1,5 +1,16 @@
 {
     "type":"immersiveengineering:mineral_mix",
+    "conditions":
+    [
+        {
+            "type":"forge:not",
+            "value":
+            {
+                "type":"forge:tag_empty",
+                "tag":"forge:tag_empty"
+            }
+        }
+    ],
     "dimensions":
         [
             "minecraft:overworld"
