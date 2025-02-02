@@ -28,8 +28,8 @@
 				type: "item"
 			}]
 			title: "Bark for Paper!"
-			x: -8.5d
-			y: -7.0d
+			x: -13.5d
+			y: -8.0d
 		}
 		{
 			dependencies: ["12356B8E644A1A52"]
@@ -48,8 +48,8 @@
 				type: "checkmark"
 			}]
 			title: "Can't this just be electronic?"
-			x: -7.5d
-			y: -6.5d
+			x: -13.5d
+			y: -9.0d
 		}
 		{
 			dependencies: [
@@ -75,8 +75,8 @@
 				type: "item"
 			}]
 			title: "Mulched Plants"
-			x: -9.5d
-			y: -7.5d
+			x: -12.5d
+			y: -8.0d
 		}
 		{
 			dependencies: ["12356B8E644A1A52"]
@@ -94,8 +94,8 @@
 				type: "checkmark"
 			}]
 			title: "Many paper, but with words"
-			x: -7.0d
-			y: -7.5d
+			x: -10.5d
+			y: -9.0d
 		}
 		{
 			dependencies: ["58CE0C7BD7398413"]
@@ -116,7 +116,7 @@
 				type: "item"
 			}]
 			title: "Itchy Paper"
-			x: -8.0d
+			x: -10.5d
 			y: -8.0d
 		}
 		{
@@ -138,8 +138,8 @@
 				type: "item"
 			}]
 			title: "The Skin of a Cow"
-			x: -9.0d
-			y: -8.5d
+			x: -9.5d
+			y: -8.0d
 		}
 		{
 			dependencies: ["02903DDEA28657F2"]
@@ -156,8 +156,8 @@
 				type: "item"
 			}]
 			title: "This is just wood and rock? How is this in machines?"
-			x: -6.0d
-			y: -9.5d
+			x: -14.5d
+			y: -5.0d
 		}
 		{
 			dependencies: [
@@ -181,8 +181,8 @@
 				type: "item"
 			}]
 			title: "You can hear the wrench inside"
-			x: -7.0d
-			y: -10.0d
+			x: -13.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["0601DBB1C7FD9207"]
@@ -199,8 +199,8 @@
 				type: "checkmark"
 			}]
 			title: "Boing Boing Boing"
-			x: -6.5d
-			y: -8.5d
+			x: -7.0d
+			y: -9.0d
 		}
 		{
 			dependencies: ["5B376416775C4131"]
@@ -221,8 +221,8 @@
 				type: "item"
 			}]
 			title: "It stinks"
-			x: -8.5d
-			y: -9.5d
+			x: -6.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["33F886E51F20B0F5"]
@@ -243,8 +243,8 @@
 				type: "item"
 			}]
 			title: "Burnt Bouncy Ball"
-			x: -7.5d
-			y: -9.0d
+			x: -7.0d
+			y: -8.0d
 		}
 		{
 			dependencies: [
@@ -268,8 +268,8 @@
 				type: "item"
 			}]
 			title: "Beautifully Robust"
-			x: -8.0d
-			y: -10.5d
+			x: -12.5d
+			y: -5.0d
 		}
 		{
 			dependencies: [
@@ -300,7 +300,7 @@
 				}
 			]
 			title: "Probably worse for the environment"
-			x: -10.0d
+			x: -9.5d
 			y: -9.0d
 		}
 		{
@@ -319,8 +319,8 @@
 				type: "checkmark"
 			}]
 			title: "Rust Begone!"
-			x: -1.5d
-			y: -2.5d
+			x: -3.5d
+			y: -9.0d
 		}
 		{
 			dependencies: ["387DFD801FA80B99"]
@@ -337,8 +337,8 @@
 				type: "item"
 			}]
 			title: "Chromominomium"
-			x: -0.5d
-			y: -3.0d
+			x: -3.5d
+			y: -8.0d
 		}
 		{
 			dependencies: ["37F088321E6173EF"]
@@ -355,8 +355,8 @@
 				type: "item"
 			}]
 			title: "Like MSG for Steel"
-			x: 0.5d
-			y: -3.5d
+			x: -2.5d
+			y: -8.0d
 		}
 		{
 			dependencies: ["7063B8BCE64899C9"]
@@ -374,7 +374,7 @@
 				type: "checkmark"
 			}]
 			title: "The thinky bits of Ae2"
-			x: -9.0d
+			x: -10.5d
 			y: -3.5d
 		}
 		{
@@ -399,8 +399,8 @@
 				type: "item"
 			}]
 			title: "So much sand..."
-			x: -11.0d
-			y: -4.5d
+			x: -9.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["031EFEA90E87FC96"]
@@ -433,8 +433,8 @@
 				}
 			]
 			title: "Duds but not Dumb(s)"
-			x: -10.0d
-			y: -4.0d
+			x: -9.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["7063B8BCE64899C9"]
@@ -452,8 +452,8 @@
 				type: "checkmark"
 			}]
 			title: "Glass but more stronger"
-			x: -3.5d
-			y: -6.5d
+			x: -7.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["368547EA5877E132"]
@@ -475,8 +475,8 @@
 				type: "item"
 			}]
 			title: "Good ol' Glass"
-			x: -2.5d
-			y: -7.0d
+			x: -6.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["0AB5EE0F094264AB"]
@@ -496,8 +496,8 @@
 				type: "item"
 			}]
 			title: "Reinforced and Refined~"
-			x: -1.5d
-			y: -7.5d
+			x: -6.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["4FFC0930D0539B28"]
@@ -515,8 +515,8 @@
 				type: "checkmark"
 			}]
 			title: "Hey I could make an SU refrence"
-			x: -8.0d
-			y: -5.5d
+			x: -13.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["12356B8E644A1A52"]
@@ -538,8 +538,8 @@
 				type: "checkmark"
 			}]
 			title: "More Flower? No make it faster"
-			x: -5.5d
-			y: -10.5d
+			x: -3.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["1C8AA0B6AF089D28"]
@@ -560,8 +560,8 @@
 				type: "item"
 			}]
 			title: "Quartz from HELL"
-			x: -9.0d
-			y: -6.0d
+			x: -12.5d
+			y: -3.5d
 		}
 		{
 			dependencies: [
@@ -585,8 +585,8 @@
 				type: "item"
 			}]
 			title: "Wait which is the real rose quartz?"
-			x: -10.0d
-			y: -6.5d
+			x: -12.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["600D1BF0A4506C5F"]
@@ -626,8 +626,8 @@
 					type: "item"
 				}
 			]
-			x: -5.5d
-			y: -11.5d
+			x: -2.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["672E4CF1853FC9E8"]
@@ -648,8 +648,8 @@
 				type: "item"
 			}]
 			title: "Dripping in that goodness"
-			x: -0.5d
-			y: -8.0d
+			x: -7.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["3500F16244BD9D6C"]
@@ -670,8 +670,8 @@
 				type: "item"
 			}]
 			title: "\"Vegan\" Leather"
-			x: -11.0d
-			y: -9.5d
+			x: -9.5d
+			y: -10.0d
 		}
 		{
 			dependencies: ["1454C26B845826FE"]
@@ -692,8 +692,8 @@
 				type: "item"
 			}]
 			title: "Magically Magnificent! "
-			x: -9.0d
-			y: -11.0d
+			x: -11.5d
+			y: -5.0d
 		}
 		{
 			dependencies: [
@@ -719,1139 +719,8 @@
 				type: "item"
 			}]
 			title: "A dash of beryllium"
-			x: 0.5d
-			y: -8.5d
-		}
-		{
-			dependencies: ["5E7D0899ECE970A7"]
-			description: ["This is the scaling tree for charcoal"]
-			icon: "minecraft:charcoal"
-			id: "7B696C8A5735DFAE"
-			rewards: [{
-				id: "0CF0C951F7176AC4"
-				item: "nyagibits_bytes:tier_zero_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "2DC0D518C84C7230"
-				title: "Charcoal Tree"
-				type: "checkmark"
-			}]
-			title: "Renewable Pollution!"
-			x: -5.0d
-			y: -9.5d
-		}
-		{
-			dependencies: ["7B696C8A5735DFAE"]
-			description: [
-				"You know how this goes, chuck the wood like a wood chuck that can chuck wood into a furnace"
-				""
-				"&b1 Charcoal per craft"
-			]
-			id: "463A269B4504D42B"
-			rewards: [{
-				id: "3DB966F7C81336F2"
-				item: "nyagibits_bytes:tier_zero_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "6D54CA48B151A9D3"
-				item: "minecraft:furnace"
-				type: "item"
-			}]
-			title: "Deprived of oxygen"
-			x: -4.0d
-			y: -10.0d
-		}
-		{
-			dependencies: ["463A269B4504D42B"]
-			description: [
-				"Blast that wood in a coke oven! Not only will it crush into more charcoal per log, you will also collect &eRaw Wood Vinegar&r and &eWood Ash&r"
-				""
-				"&b4 Charcoal per craft"
-			]
-			id: "54D5EDDCDE01DD9F"
-			rewards: [{
-				id: "0A2A85B2CC976425"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [
-				{
-					id: "7F2A4E3774CC4FC2"
-					item: "immersiveengineering:cokebrick"
-					type: "item"
-				}
-				{
-					id: "464B498370788AD1"
-					item: "architects_palette:charcoal_block"
-					type: "item"
-				}
-			]
-			title: "It's like a furnace, but larger"
-			x: -3.0d
-			y: -10.5d
-		}
-		{
-			dependencies: ["5E7D0899ECE970A7"]
-			description: ["This is the scaling tree for glazed terracottas"]
-			icon: "minecraft:white_glazed_terracotta"
-			id: "35280773B6BDF401"
-			rewards: [{
-				id: "2BD0EBFAA48166FE"
-				item: "nyagibits_bytes:tier_zero_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "61C38C4F8D16BEAF"
-				title: "Terracotta Tree"
-				type: "checkmark"
-			}]
-			title: "How is this different from bricks?"
-			x: -4.0d
-			y: -7.5d
-		}
-		{
-			dependencies: ["35280773B6BDF401"]
-			description: [
-				"This is identical to vanilla, to the furnace you go!"
-				""
-				"&b1 Glazed Terracotta per craft"
-			]
-			id: "26BE76EBF0443F6D"
-			rewards: [{
-				id: "52DB95383C1A39CA"
-				item: "nyagibits_bytes:tier_zero_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "1494CDAA36BC8B9E"
-				item: "minecraft:furnace"
-				type: "item"
-			}]
-			title: "Hi yes, furnace again"
-			x: -3.0d
-			y: -8.0d
-		}
-		{
-			dependencies: [
-				"26BE76EBF0443F6D"
-				"003A50BF60A4F905"
-				"4CBFDFBD1A71E6B4"
-			]
-			description: [
-				"By baking the terracotta with chalk you can much more efficiently glaze the surface. Dont ask where the 2nd block comes from, we will shoot you"
-				""
-				"&b2 Glazed Terracotta per craft"
-			]
-			id: "127AB531315B4210"
-			rewards: [{
-				id: "34E2889739BDE54D"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [
-				{
-					id: "42A59812E408E389"
-					item: "create:blaze_burner"
-					type: "item"
-				}
-				{
-					id: "4412C6576629239F"
-					item: "nyagibits_bytes:raw_chalk"
-					type: "item"
-				}
-			]
-			title: "Angry Industrial Pottery"
-			x: -2.0d
-			y: -8.5d
-		}
-		{
-			dependencies: ["127AB531315B4210"]
-			description: [
-				"Further removing impurities from the chalk lets it glaze with much more efficiency"
-				""
-				"&b4 Glazed Terracotta per craft"
-			]
-			id: "2E4F74F9B09EAD6C"
-			rewards: [{
-				id: "684E8653D449E25C"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "05B31A8CAD7811B0"
-				item: "nyagibits_bytes:de_mineralized_chalk"
-				type: "item"
-			}]
-			title: "Clean the rock"
-			x: -1.0d
-			y: -9.0d
-		}
-		{
-			dependencies: ["4ABA1A64E5BE1E94"]
-			description: ["This is the scaling tree for flux mixture"]
-			icon: "nyagibits_bytes:flux_mixture"
-			id: "62C78DBE446214A4"
-			rewards: [{
-				id: "4A64AC51D31D9D7D"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "6EDA627F57CA9853"
-				title: "Flux Mixture Tree"
-				type: "checkmark"
-			}]
-			title: "Metal Melty Mixture"
-			x: -2.5d
-			y: -4.5d
-		}
-		{
-			dependencies: ["256F108BD683D592"]
-			description: ["This is the scaling tree for low temperature solder"]
-			icon: "nyagibits_bytes:low_temperature_solder"
-			id: "0BF07A3A2129E4A1"
-			rewards: [{
-				id: "4641E74C1DBD2B5F"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "59D873177764F5CC"
-				title: "Low Temperature Solder Tree"
-				type: "checkmark"
-			}]
-			title: "Gray metal! My favorite!"
-			x: -2.0d
-			y: -3.5d
-		}
-		{
-			dependencies: ["4CBFDFBD1A71E6B4"]
-			description: ["This is the scaling tree for ceramic"]
-			icon: "nyagibits_bytes:ceramic"
-			id: "4FDE3B132728A444"
-			rewards: [{
-				id: "4A916515E9F1E7D1"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "1BB3E173DD1C1077"
-				title: "Ceramic Tree"
-				type: "checkmark"
-			}]
-			title: "So what if clay, but better?"
-			x: -3.0d
-			y: -5.5d
-		}
-		{
-			dependencies: ["4FDE3B132728A444"]
-			description: [
-				"More goes into the creation of a good quality ceramic but the &equartz dust&r is a focus due to it being the strengthening component"
-				""
-				"&b1 Ceramic per craft"
-			]
-			id: "57680DC6C96A3793"
-			rewards: [{
-				id: "38A77A7F32BA1FFE"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "7A70900A92F1432E"
-				item: "thermal:quartz_dust"
-				type: "item"
-			}]
-			title: "Imagine if sand could cut you"
-			x: -2.0d
-			y: -6.0d
-		}
-		{
-			dependencies: ["57680DC6C96A3793"]
-			description: [
-				"While being a &cnon-renewable&r ore Feldspar offers far greater yields as it is a very strong ceramic component"
-				""
-				"&b8 Ceramic per craft"
-			]
-			id: "0C2CBC42460B3006"
-			rewards: [{
-				id: "5FD0E344CDF53EFE"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "734FCDF98B4519C5"
-				item: "nyagibits_bytes:raw_feldspar"
-				type: "item"
-			}]
-			title: "I hope you didnt process this lmao"
-			x: -1.0d
-			y: -6.5d
-		}
-		{
-			dependencies: ["28B78F18CDBAEB65"]
-			description: ["This is the scaling tree for industrial grade coke"]
-			icon: "nyagibits_bytes:industrial_grade_coke"
-			id: "056F9E4C1BDBC15C"
-			rewards: [{
-				id: "6F26FCBAB0B52495"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "45BC504C40F1BF74"
-				title: "Industrial Coke Tree"
-				type: "checkmark"
-			}]
-			title: "*coughing* Clean air is for comm *ghuhh* mmies"
-			x: -10.0d
+			x: -7.0d
 			y: -1.5d
-		}
-		{
-			dependencies: ["62C78DBE446214A4"]
-			description: [
-				"Packing together some &efuel&r and &elimestone&r is an easy way to get metallurically capable flux"
-				""
-				"&b2 Flux Mixture per craft"
-			]
-			id: "52B5AE7518D4ADEE"
-			rewards: [{
-				id: "48C42EE924B942D4"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [
-				{
-					id: "48F204A516EA817E"
-					item: "nyagibits_bytes:low_grade_coke"
-					type: "item"
-				}
-				{
-					id: "358EF7D3F8E9B74C"
-					item: "create:limestone"
-					type: "item"
-				}
-			]
-			title: "Mmmmmm fumes"
-			x: -1.5d
-			y: -5.0d
-		}
-		{
-			dependencies: [
-				"52B5AE7518D4ADEE"
-				"28208E9BB8763E5C"
-			]
-			description: [
-				"Talc has this wonderful property of acting as a lubricant in metallurgic situations making forging easier and producing higher quality &e(quantity)&r flux"
-				""
-				"&b6 Flux Mixture per craft"
-			]
-			id: "3E49771C9A1AF11D"
-			rewards: [{
-				id: "6065A44573DEFF43"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "2469C92932D26AA3"
-				item: "botania:metamorphic_plains_stone"
-				type: "item"
-			}]
-			title: "Rocks for metal"
-			x: -0.5d
-			y: -5.5d
-		}
-		{
-			dependencies: ["3E49771C9A1AF11D"]
-			description: [
-				"Borax is another wonderful addition to metallurgic flux as it is able to bind to oxides making slag management much easier"
-				""
-				"&b10 Flux Mixture per craft"
-			]
-			id: "4F92642E74D96EA7"
-			rewards: [{
-				id: "1D29640C5BE9AF44"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "2869E1265BAEA576"
-				item: "nuclearcraft:borax_dust"
-				type: "item"
-			}]
-			title: "Do not confuse this for baking soda"
-			x: 0.5d
-			y: -6.0d
-		}
-		{
-			dependencies: ["0BF07A3A2129E4A1"]
-			description: [
-				"Naturally with an alloy that releases vapors easily you want it to contain &elead&r. It also has &etin&r and &eantimony&r but those arn't as funny"
-				""
-				"&b2 Low Temperature Alloy per craft"
-			]
-			id: "0867383E03CF03AB"
-			rewards: [{
-				id: "08A6C9C6654433B4"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [
-				{
-					id: "63DE701528C2717F"
-					item: "chemlib:lead_plate"
-					type: "item"
-				}
-				{
-					id: "02CA2DFE596C685C"
-					item: "chemlib:tin_plate"
-					type: "item"
-				}
-				{
-					id: "13DEF95E74C48C80"
-					item: "chemlib:antimony_dust"
-					type: "item"
-				}
-			]
-			title: "Braincell Killing Vapors"
-			x: -1.0d
-			y: -4.0d
-		}
-		{
-			dependencies: ["0867383E03CF03AB"]
-			description: [
-				"Sprinkling in some &eborax&r helps drive away some oxides and gives you slightly more useable alloy."
-				""
-				"What? You want it to yield more? Eat my ass"
-				""
-				"&b3 Low Temperature Alloy per craft"
-			]
-			id: "1FFE90CAD37B830E"
-			rewards: [{
-				id: "7C59C2AF19A57E16"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "2602CC75F292456E"
-				item: "nuclearcraft:borax_dust"
-				type: "item"
-			}]
-			title: "Could of sworn the quest above is also this.."
-			x: 0.0d
-			y: -4.5d
-		}
-		{
-			dependencies: ["056F9E4C1BDBC15C"]
-			description: [
-				"Industrial coke requires industrial quality! Only the best coals will do"
-				""
-				"&b1 Skystone Shielding per craft"
-			]
-			id: "4D7272D83F1C5B28"
-			rewards: [{
-				id: "49A1624B04F29C93"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [
-				{
-					id: "5C58EC3269355742"
-					item: "immersiveengineering:cokebrick"
-					type: "item"
-				}
-				{
-					id: "1F4E4A68D39A42BD"
-					item: "nyagibits_bytes:raw_anthracite"
-					type: "item"
-				}
-				{
-					id: "78FFB37E717BD48F"
-					item: "nyagibits_bytes:raw_bituminous"
-					type: "item"
-				}
-				{
-					id: "011B5C2CAFE3E55E"
-					item: "nyagibits_bytes:raw_subbituminous"
-					type: "item"
-				}
-			]
-			x: -11.0d
-			y: -2.0d
-		}
-		{
-			id: "20B3D9878F0E9B15"
-			rewards: [{
-				id: "7AFDC7144A77D4D6"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [
-				{
-					id: "0AB03771249A5AFB"
-					item: "nyagibits_bytes:de_mineralized_anthracite"
-					type: "item"
-				}
-				{
-					id: "0C6BE030AE782AF7"
-					item: "nyagibits_bytes:de_mineralized_bituminous"
-					type: "item"
-				}
-				{
-					id: "5C5B10EDF29BABBA"
-					item: "nyagibits_bytes:de_mineralized_subbituminous"
-					type: "item"
-				}
-				{
-					id: "5447DF52EF6B2EE9"
-					item: "nyagibits_bytes:de_mineralized_cannel_coal"
-					type: "item"
-				}
-			]
-			x: -12.0d
-			y: -2.5d
-		}
-		{
-			icon: "nyagibits_bytes:sterilized_quartz_glass"
-			id: "30B109F8DC8FC981"
-			rewards: [{
-				id: "4F6B66827DC17AC6"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "317EA0C2E238BF86"
-				title: "Sterilized Quartz Glass Tree"
-				type: "checkmark"
-			}]
-			x: -1.0d
-			y: -1.5d
-		}
-		{
-			id: "62A9A86EAB0AAEB2"
-			rewards: [{
-				id: "496F7C596F45158B"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [
-				{
-					id: "363DF23E7E46AC82"
-					item: "nyagibits_bytes:bottle_of_vinegar"
-					type: "item"
-				}
-				{
-					id: "27624E2D699C188F"
-					item: "create:deployer"
-					type: "item"
-				}
-			]
-			x: 0.0d
-			y: -2.0d
-		}
-		{
-			id: "44C0BEF8F0F014CF"
-			rewards: [{
-				id: "766E0BF9FBF16538"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "366089499C3C2AB2"
-				item: "nyagibits_bytes:2_phenoxyethanol"
-				type: "item"
-			}]
-			x: 1.0d
-			y: -2.5d
-		}
-		{
-			icon: "nyagibits_bytes:petri_dish_empty"
-			id: "4E623870E1DDAFB7"
-			tasks: [{
-				id: "48F7E6FA180E46E8"
-				title: "Petri Dish Tree"
-				type: "checkmark"
-			}]
-			x: -10.5d
-			y: -0.5d
-		}
-		{
-			id: "0AFCF27ED154C2A1"
-			tasks: [{
-				id: "1D786293928EBFCB"
-				item: "minecraft:glass"
-				type: "item"
-			}]
-			x: -11.5d
-			y: -1.0d
-		}
-		{
-			id: "30C925626880DF9E"
-			tasks: [{
-				id: "379A2BBD60E79DFC"
-				item: "ae2:quartz_glass"
-				type: "item"
-			}]
-			x: -12.5d
-			y: -1.5d
-		}
-		{
-			dependencies: ["472213B0CD3A8117"]
-			description: ["This is the scaling tree for crude silicon boules"]
-			icon: "nyagibits_bytes:crude_silicon_boule"
-			id: "6407F47B14260E92"
-			rewards: [{
-				id: "5DE3FCAE2D7CB377"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "556C96FDE247C668"
-				title: "Crude Silicon Boule Tree"
-				type: "checkmark"
-			}]
-			title: "Pentium x86 Quality"
-			x: -8.5d
-			y: -4.5d
-		}
-		{
-			dependencies: ["6407F47B14260E92"]
-			description: [
-				"Proper Polycrystalline Silicon Boules require very precise pure processes but thankfully in this reality converting matter into energy in the explicit case of storage can be done with the most god awful impure silicon you can produce! Eh... dont think about it too hard"
-				""
-				"&b1 Crude Silicon Boule"
-			]
-			id: "4716EA96FF568B68"
-			rewards: [{
-				id: "386E56F7CD6A91FC"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [
-				{
-					id: "4BFFFD54830B216C"
-					item: "minecraft:sand"
-					type: "item"
-				}
-				{
-					id: "1DF81B7B477C8B9F"
-					item: "create:blaze_burner"
-					type: "item"
-				}
-			]
-			title: "Buy some from Scar's shop"
-			x: -9.5d
-			y: -5.0d
-		}
-		{
-			icon: "nyagibits_bytes:polycrystalline_silicon_carbide"
-			id: "551C5D4153F3D8D1"
-			rewards: [{
-				id: "2BC29C4A67AE649E"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "78E4CE6D1E9B15D8"
-				title: "Polycrystalline Silicon Carbide Tree"
-				type: "checkmark"
-			}]
-			x: 0.0d
-			y: 0.5d
-		}
-		{
-			id: "24FCC7B3C250F2D8"
-			rewards: [{
-				id: "41B9EC01D0FA7AF1"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [
-				{
-					id: "0D780F4935217EBB"
-					item: "create:blaze_burner"
-					type: "item"
-				}
-				{
-					id: "709B01F660F622F1"
-					item: "chemlib:carbon_dust"
-					type: "item"
-				}
-			]
-			x: 1.0d
-			y: 0.0d
-		}
-		{
-			id: "62218F8A9EBA26E0"
-			rewards: [{
-				id: "132F4815946E3262"
-				item: "nyagibits_bytes:tier_two_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "30D4758316FB6C30"
-				item: "chemlib:argon_bucket"
-				type: "item"
-			}]
-			x: 2.0d
-			y: -0.5d
-		}
-		{
-			icon: "immersiveengineering:slag_gravel"
-			id: "6E25827A414FCAC6"
-			rewards: [{
-				id: "1E1C71CB88CB5698"
-				item: "nyagibits_bytes:tier_zero_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "702534410FBB2A9A"
-				title: "Slag Gravel Tree"
-				type: "checkmark"
-			}]
-			x: -11.5d
-			y: 1.5d
-		}
-		{
-			id: "75BDDB33D26E3E34"
-			rewards: [{
-				id: "5093BDDB63B7AE38"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "4D34A144FBF6636D"
-				item: "thermal:slag"
-				type: "item"
-			}]
-			x: -12.5d
-			y: 1.0d
-		}
-		{
-			id: "453CA3F8C9869151"
-			tasks: [{
-				id: "129EE3ED0C875095"
-				item: "thermal:rich_slag"
-				type: "item"
-			}]
-			x: -13.5d
-			y: 0.5d
-		}
-		{
-			icon: "nyagibits_bytes:lead_acid_cell"
-			id: "6A60597D0E27046C"
-			tasks: [{
-				id: "52E8D40872E8FC19"
-				title: "Lead Acid Cell Tree"
-				type: "checkmark"
-			}]
-			x: 0.5d
-			y: 1.5d
-		}
-		{
-			id: "4412A953C2422FBE"
-			rewards: [{
-				id: "58F60EDF5D530816"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [
-				{
-					id: "5B9EDE7343EC4D73"
-					item: "create:mechanical_press"
-					type: "item"
-				}
-				{
-					id: "18665C00D743AC7F"
-					item: "nyagibits_bytes:raw_lead_sulphide"
-					type: "item"
-				}
-				{
-					id: "09835217167417C0"
-					item: "nyagibits_bytes:raw_volcanic_sulfur"
-					type: "item"
-				}
-				{
-					id: "2043D67A1E7291AB"
-					item: "nyagibits_bytes:chemically_inert_wood"
-					type: "item"
-				}
-			]
-			x: 1.5d
-			y: 1.0d
-		}
-		{
-			id: "2DEEE445F3A650A2"
-			tasks: [{
-				id: "2E00ECFC6EE16E6D"
-				item: "chemlib:sulfuric_acid"
-				type: "item"
-			}]
-			x: 2.5d
-			y: 0.5d
-		}
-		{
-			id: "2BD3D4A7AB8A7CB8"
-			tasks: [{
-				id: "6C765015A9E7051B"
-				item: "immersiveengineering:plate_duroplast"
-				type: "item"
-			}]
-			x: 3.5d
-			y: 0.0d
-		}
-		{
-			dependencies: ["472213B0CD3A8117"]
-			description: ["This is the scaling tree for skystone shielding"]
-			icon: "nyagibits_bytes:skystone_shielding"
-			id: "27D593107293F670"
-			rewards: [{
-				id: "1F30DD81B89CF9CE"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "6BE1B7BBB58DFA72"
-				title: "Skystone Shielding Tree"
-				type: "checkmark"
-			}]
-			title: "Anything is a shield if you say it is"
-			x: -9.5d
-			y: -2.5d
-		}
-		{
-			dependencies: ["1FD280C41EA83219"]
-			description: [
-				"Encrusting a boule in liquified skystone proves to be quite a bit trickier than one would expect. That being said the increase in efficiency is huge."
-				""
-				"It also hurts to hold this, ouchie"
-				""
-				"&b8 Skystone Shielding per craft"
-			]
-			id: "4E5CA1A01137DED8"
-			rewards: [{
-				id: "314C8D18059CA92F"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "67A29720DE6B9B22"
-				item: "nyagibits_bytes:skystone_encrusted_boule"
-				type: "item"
-			}]
-			title: "This is basically another type of rock"
-			x: -11.5d
-			y: -3.5d
-		}
-		{
-			dependencies: ["27D593107293F670"]
-			description: [
-				"This is a slab of rock, but the rock is from space, therefore, magical"
-				""
-				"&b1 Skystone Shielding per craft"
-			]
-			id: "1FD280C41EA83219"
-			rewards: [{
-				id: "1A246536759936F5"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [
-				{
-					id: "72495E71FBB790C4"
-					item: "create:deployer"
-					type: "item"
-				}
-				{
-					id: "14C2E5278990F97C"
-					item: "ae2:sky_stone_slab"
-					type: "item"
-				}
-				{
-					id: "3C21CB0C1B65308F"
-					item: "ae2:sky_dust"
-					type: "item"
-				}
-				{
-					id: "6DB3250C7F3CE6CE"
-					item: "chemlib:iron_plate"
-					type: "item"
-				}
-			]
-			title: "This makes perfect sense"
-			x: -10.5d
-			y: -3.0d
-		}
-		{
-			dependencies: ["4CBFDFBD1A71E6B4"]
-			description: ["This is the scaling tree for ink"]
-			icon: "nyagibits_bytes:ink"
-			id: "06A7C4F97B02E62B"
-			rewards: [{
-				id: "17020DDF286F8DF5"
-				item: "nyagibits_bytes:tier_zero_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "0559FE5333D8148A"
-				title: "Ink Tree"
-				type: "checkmark"
-			}]
-			title: "Oh god I stained the hell out of my hands"
-			x: -4.5d
-			y: -8.5d
-		}
-		{
-			dependencies: ["06A7C4F97B02E62B"]
-			description: [
-				"Boil and spin up some organs from a squid in a cauldron... Wait are we witches?"
-				""
-				"&b2 Ink per craft"
-			]
-			id: "7AFFA55BBF8B8AEF"
-			rewards: [{
-				id: "17EBE65B83F02641"
-				item: "nyagibits_bytes:tier_zero_strawberry"
-				type: "item"
-			}]
-			tasks: [
-				{
-					id: "390640725C70ABFB"
-					item: "minecraft:ink_sac"
-					type: "item"
-				}
-				{
-					id: "44BB2919DFDC24E9"
-					item: "minecraft:water_bucket"
-					type: "item"
-				}
-				{
-					id: "51C18220BCB2235D"
-					item: "create:blaze_burner"
-					type: "item"
-				}
-			]
-			title: "Toil and trouble; fire burn and cauldron bubble"
-			x: -3.5d
-			y: -9.0d
-		}
-		{
-			dependencies: ["7AFFA55BBF8B8AEF"]
-			description: [
-				"With some industrial scale oil refinement and many thousands of steel ingots later, we can finally process ink sacs better"
-				""
-				"&b8 Ink per craft"
-			]
-			id: "0D62B2C09E734557"
-			rewards: [{
-				id: "41EDF519730C4A31"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "4936099D0C088696"
-				item: "nyagibits_bytes:bucket_of_acetone"
-				type: "item"
-			}]
-			title: "My nail polish D:"
-			x: -2.5d
-			y: -9.5d
-		}
-		{
-			description: ["&cThis Is You"]
-			id: "5829CD62BB33D143"
-			rewards: [{
-				id: "3779152E21A8FB1E"
-				item: "nyagibits_bytes:tier_zero_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "0CBA622ABC4767F5"
-				item: "nyagibits_bytes:inert_god_heart"
-				type: "item"
-			}]
-			x: -5.5d
-			y: -6.5d
-		}
-		{
-			dependencies: [
-				"5829CD62BB33D143"
-				"013A60BF61FBD960"
-			]
-			description: ["&cA song resonating with purpose"]
-			id: "203EE5CC6CE5D9F9"
-			rewards: [{
-				id: "6FE608CE13CA4FC5"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "6C121EA13D8E0040"
-				item: "nyagibits_bytes:faintly_resonating_god_heart"
-				type: "item"
-			}]
-			x: -5.5d
-			y: -5.5d
-		}
-		{
-			icon: "nyagibits_bytes:activated_charcoal"
-			id: "4D3DF93F34A14E87"
-			rewards: [{
-				id: "7B24F35CDE68A8DE"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "565041BE8B90FF2E"
-				title: "Activated Charcoal Tree"
-				type: "checkmark"
-			}]
-			x: -0.5d
-			y: -0.5d
-		}
-		{
-			id: "5838A626ED8F0E27"
-			rewards: [{
-				id: "72C41D9D40B3CD4C"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "3F7E5B4AF2241B99"
-				item: "nyagibits_bytes:bottle_of_malic_and_citric_acid"
-				type: "item"
-			}]
-			x: 0.5d
-			y: -1.0d
-		}
-		{
-			id: "177953D7870B9364"
-			rewards: [{
-				id: "4B847E96E11BABE2"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "1E64C497FFC0E339"
-				item: "chemlib:phosphoric_acid"
-				type: "item"
-			}]
-			x: 1.5d
-			y: -1.5d
-		}
-		{
-			icon: "nyagibits_bytes:chemically_inert_wood"
-			id: "15B68BB7170FFDFE"
-			rewards: [{
-				id: "3C47AA0292F74F81"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "1BABC68D81AADD6E"
-				title: "Chemically Inert Wood Tree"
-				type: "checkmark"
-			}]
-			x: -11.0d
-			y: 0.5d
-		}
-		{
-			id: "19227E0CFD95F157"
-			rewards: [{
-				id: "2442A2BD7A0506D9"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "065E100607F58013"
-				item: "nyagibits_bytes:bottle_of_malic_and_citric_acid"
-				type: "item"
-			}]
-			x: -12.0d
-			y: 0.0d
-		}
-		{
-			icon: "botania:rune_fire"
-			id: "0F19705DACECC023"
-			rewards: [{
-				id: "47D0C4CF4941227A"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "52745F0093BD8A6F"
-				title: "Botania Elemental Runes Tree"
-				type: "checkmark"
-			}]
-			x: -12.0d
-			y: 2.5d
-		}
-		{
-			id: "1686F2FD5D914DC7"
-			tasks: [{
-				id: "7F60A4ABD0366CEA"
-				item: "nyagibits_bytes:endoflame_mush"
-				type: "item"
-			}]
-			x: -13.0d
-			y: 2.0d
-		}
-		{
-			id: "6F107C4F7CB38DB4"
-			tasks: [{
-				id: "1412810BA55D55A2"
-				item: "nyagibits_bytes:everburn_tar"
-				type: "item"
-			}]
-			x: -14.0d
-			y: 1.5d
-		}
-		{
-			icon: "nyagibits_bytes:fire_extinguisher"
-			id: "57F177720529C750"
-			rewards: [{
-				id: "5FFFFE4640F3247A"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "20D83A92FB9D0187"
-				title: "Fire Extinguisher Tree"
-				type: "checkmark"
-			}]
-			x: 1.0d
-			y: 2.5d
-		}
-		{
-			id: "29346FA747ECB3B9"
-			rewards: [{
-				id: "1159B58B9BD80B82"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "6484AB87E7C6E000"
-				item: "chemlib:carbon_dioxide"
-				type: "item"
-			}]
-			x: 2.0d
-			y: 2.0d
-		}
-		{
-			id: "016B39760ABA3D50"
-			rewards: [{
-				id: "093ADC3B12D862D6"
-				item: "nyagibits_bytes:tier_one_strawberry"
-				type: "item"
-			}]
-			tasks: [{
-				id: "27B0B1BE50039602"
-				item: "nyagibits_bytes:heptafluoropropane_vial"
-				type: "item"
-			}]
-			x: 3.0d
-			y: 1.5d
 		}
 	]
 	subtitle: ["I NEED MORE STUFF"]
