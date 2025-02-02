@@ -1,0 +1,13 @@
+name = "Block of Sky"
+filename = "blockofsky-forge-1.19.2-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17c797429fbda46b6b21dbee53a2ae3855246399"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4727397
+project-id = 757062

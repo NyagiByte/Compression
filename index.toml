@@ -9677,6 +9677,11 @@ hash = "19704238939be7e9cbd4323a0d67464a60eeb25ea8ceed774a0bb337420dbc82"
 metafile = true
 
 [[files]]
+file = "mods/block-of-sky.pw.toml"
+hash = "a53df3d614cb992f25b14d54bde2bc2b2221dfdf46dd8841fa5a38ce37da1249"
+metafile = true
+
+[[files]]
 file = "mods/botania-garden-of-glass.pw.toml"
 hash = "fc5584a4b48ef7f2d49afedc9650c4d639c2a97288a7608a48c60363592d877f"
 metafile = true
