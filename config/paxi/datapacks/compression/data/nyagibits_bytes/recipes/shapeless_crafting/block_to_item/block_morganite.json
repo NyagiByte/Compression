@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "nyagibits_bytes:block_morganite"
+        }
+    ],
+    "result": {
+        "count": 9,
+        "item": "nyagibits_bytes:morganite"
+    }
+}

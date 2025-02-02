@@ -2,22 +2,18 @@
     "type": "create:crushing",
     "ingredients": [
       {
-        "item": "nyagibits_bytes:biologically_activated_petrified_wood"
+        "item": "nyagibits_bytes:raw_petrified_wood"
       }
     ],
     "processingTime": 150,
     "results": [
-      {
-        "count": 12,
-        "item": "chemlib:silicon_dioxide"
-      },
       {
         "count": 3,
         "item": "chemlib:silicon_dioxide"
       },
       {
         "count": 1,
-        "item": "chemlib:cellulose"
+        "item": "chemlib:silicon_dioxide"
       }
     ]
   }

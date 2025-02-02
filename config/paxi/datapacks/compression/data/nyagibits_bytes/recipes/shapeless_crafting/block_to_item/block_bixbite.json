@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "nyagibits_bytes:block_bixbite"
+        }
+    ],
+    "result": {
+        "count": 9,
+        "item": "nyagibits_bytes:bixbite"
+    }
+}
