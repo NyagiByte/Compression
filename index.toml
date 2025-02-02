@@ -3602,7 +3602,7 @@ hash = "e3211a5a568cbafbe01fc30772452f103b7cc89d1f65109d6a6be5e3eb26edfa"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/ancient_debris.json"
-hash = "c5eea904862178443208180a2a7460e5b2d3135fa2760a74b5064ee73f9401ca"
+hash = "3ccb665f1c3a2c554e59656d66547edc5f84492ff1a8ed0adda0161db084d4f6"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/ancient_mineral_spring_deposit.json"
