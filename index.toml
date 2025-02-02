@@ -153,306 +153,6 @@ file = "config/emi.css"
 hash = "04aa98aaa9d9915743aad1731e4e188e3c6bce024a8148a2037edf70460c2392"
 
 [[files]]
-file = "config/fancymenu/assets/blackbackground.png"
-hash = "d7da16ca03c4543195c9d6a545d0c7a590067b329ae8527672505d6b9899f52d"
-
-[[files]]
-file = "config/fancymenu/assets/circuit.png"
-hash = "d08672398f32cb6bcc50abef9b1d1b45cb22e3246627c3d11dbb73e323ddadab"
-
-[[files]]
-file = "config/fancymenu/assets/circuit_cpu_on.png"
-hash = "9f303ccb5c3a8e9ef0efbd3abc6ab0fcfae286afe4d4ea69906b141c9f6cd1c0"
-
-[[files]]
-file = "config/fancymenu/assets/compression16.png"
-hash = "02ea842f03585dc58ea0cda0f6c70385b3143bc74b9cead4479c99375047946e"
-
-[[files]]
-file = "config/fancymenu/assets/compression32.png"
-hash = "f7e42fc5e1e919151c65a0a36aed777d4e592cf97a1292b2ecf816b611c81a68"
-
-[[files]]
-file = "config/fancymenu/assets/compressionexit.png"
-hash = "28438fa95acebd1df0730b2060828c22bfbd4304d4a7688aa9890e29dd76e1d8"
-
-[[files]]
-file = "config/fancymenu/assets/compressionexitarrow.png"
-hash = "bcd37766896061df55c4d72736847348b8f78dbc5415f5bb1b765a1aa5f0d07d"
-
-[[files]]
-file = "config/fancymenu/assets/compressioneyeloading.png"
-hash = "4be72fa7606c527ed10b63d0bf29aa30f6da820d03860a4bb97c5dd6ccfe5c6c"
-
-[[files]]
-file = "config/fancymenu/assets/compressionicon.icns"
-hash = "803f04994339c9b15cca17b91a260006f1d3811c7ae29a9a93560d83511fff35"
-
-[[files]]
-file = "config/fancymenu/assets/compressionicon.png"
-hash = "b1e3c0eed821bddc9df71a888da034735ad7631c2ee76a98372d518577ff74ad"
-
-[[files]]
-file = "config/fancymenu/assets/compressioniconblackbackground.png"
-hash = "27b9d0879c856f660f92c153a85f48025c2b5b044bbc994956dadc079932cf86"
-
-[[files]]
-file = "config/fancymenu/assets/compressionicontransparent.png"
-hash = "4335a99613ea88d722ac5468ce22c2a1a8f2f915b4ebfddfb659e2ee357ad044"
-
-[[files]]
-file = "config/fancymenu/assets/compressionlogo.png"
-hash = "611f848472a2816860eb61ea26343a50c470930ba8d54ba2ed594f0b5c59c540"
-
-[[files]]
-file = "config/fancymenu/assets/compressionlogoinverted.png"
-hash = "d6731a4fb234a36765f55a517daa9c47e4c0cb6d35be72edd34d21b5d72f7f4b"
-
-[[files]]
-file = "config/fancymenu/assets/compressionlogored.png"
-hash = "cad1670f521ebe9952ae907c84a479bd34eaedf2a71e270c2eeedb4893c198a1"
-
-[[files]]
-file = "config/fancymenu/assets/compressionmultiplayer.png"
-hash = "12cf067131ef307aaa79e19b6f79d9b875eaf850688ecb48943bbcd096ae615b"
-
-[[files]]
-file = "config/fancymenu/assets/compressionmultiplayerarrow.png"
-hash = "11d5ff4fdb905353e6458ed9e94d2632646717e5475b7300d1ccd906ec5256e3"
-
-[[files]]
-file = "config/fancymenu/assets/compressionplay.png"
-hash = "954d11ce4bf88101da7a2b16aee3622855bc88a84dc7cd283c607574bf9f4021"
-
-[[files]]
-file = "config/fancymenu/assets/compressionplayarrow.png"
-hash = "c94798440cb19f62858bd095434691938b0ab8e39b58a7cce1ee454df11317ad"
-
-[[files]]
-file = "config/fancymenu/assets/compressionplayreal.png"
-hash = "807ab87470fe51823e4d4fb2f985c342321dce9e1ab4f0fc8374cc0c1e01f289"
-
-[[files]]
-file = "config/fancymenu/assets/compressionsettings.png"
-hash = "fe94258795fc94fc50fffb067d065c1a3d853a1d00848497272749bec8fcff36"
-
-[[files]]
-file = "config/fancymenu/assets/compressionsettingsarrow.png"
-hash = "ba7e3fd3242994a73a61ea283179b2f97f16ceb8298a74ab88a66959f8df462c"
-
-[[files]]
-file = "config/fancymenu/assets/compressionsettingsreal.png"
-hash = "a30069031953d5b3c489465ed294d6918d2030dcb97cc4618cf6bddb573be55d"
-
-[[files]]
-file = "config/fancymenu/assets/cursor.png"
-hash = "b17bf9560eebf602b917d2d48d54f02d827d5e0e26d3f6a69bd07ff9e057e285"
-
-[[files]]
-file = "config/fancymenu/assets/cursor1.png"
-hash = "78a2be1683369e913dfd12caacba4a221c5ae1e4ff2c75c4627ff9c7d464fb74"
-
-[[files]]
-file = "config/fancymenu/assets/exit.png"
-hash = "a9ce280f0da2a525ae7da5010c93bb8d6f9793fcdcc55f38b57d9f7552ef3c0b"
-
-[[files]]
-file = "config/fancymenu/assets/ffffff.png"
-hash = "1b1236b3223b61a821d16d1d8da2fa644ee15602d52d87f3649684bc4e395806"
-
-[[files]]
-file = "config/fancymenu/assets/gear.png"
-hash = "105da3fea50221bedc9dacd4ee58482eab29326fdce03951408b8c1b9b639b8a"
-
-[[files]]
-file = "config/fancymenu/assets/godseyesarelikemymotherseyes.ogg"
-hash = "c0bd776369e889c9c7397fc6a48af4b53de9e557ef7eb3a2a1754319974e756f"
-
-[[files]]
-file = "config/fancymenu/assets/gradient.png"
-hash = "f2ffe56688733534c6b97fe555dc0c90dcfd0641a5dddb2770384593e6241c5a"
-
-[[files]]
-file = "config/fancymenu/assets/gradient2.png"
-hash = "8cd1c08f344089c2e85553175ea7f9ea3e7045658fc0520cafd385e54bbe3a1a"
-
-[[files]]
-file = "config/fancymenu/assets/highrescompressioniconblackbackground.png"
-hash = "56254e6a248cde9d200fa530f65a7ce5dd46855701d42e8bbe694e0af5f4d0d5"
-
-[[files]]
-file = "config/fancymenu/assets/highrescompressionicontransparent.png"
-hash = "8dbe844084514626e7e288a546020342763bff8a5eb27549c88adebd76bbf4d7"
-
-[[files]]
-file = "config/fancymenu/assets/highrescompressionlogo.png"
-hash = "44b1fb1246023eaf1262dcc7ba8cf4741753123a571f677c33ac8fe64103fe8d"
-
-[[files]]
-file = "config/fancymenu/assets/mechanical_click.ogg"
-hash = "9091b4bcd2465ec9e26509c5b1d8e4ce79bc3c22047d902fb11990212e716d0d"
-
-[[files]]
-file = "config/fancymenu/assets/mechanical_click_2.ogg"
-hash = "52df1edd48174256ba316c1ca5efff51a53bc5d49fe1e93a1a632b9f420595a3"
-
-[[files]]
-file = "config/fancymenu/assets/menu.ogg"
-hash = "b0ad3d8aacb1d86cc10f81607a2b305ee741c18daf77114c1b086540cbaaf0a8"
-
-[[files]]
-file = "config/fancymenu/assets/multiplayer.png"
-hash = "a1192da849399e96091d33abc85ac87ef3669f275f422af4aef6742d25cad9d7"
-
-[[files]]
-file = "config/fancymenu/assets/oblivion_arrives.png"
-hash = "faa31de036c8ff4605d6a5a02d8e8efe25be5657f9a5170ef4a0a3f5d84a0ea9"
-
-[[files]]
-file = "config/fancymenu/assets/oblivion_awaits.png"
-hash = "d88e9351ab906f8a99bc83e84a72279ad1f01504df65f642b4d734ac42f8fd8d"
-
-[[files]]
-file = "config/fancymenu/assets/pillar.png"
-hash = "c3538d962218b19ff9ac1ed65133a55328b27b08324ee9272e92fdbb73e72d44"
-
-[[files]]
-file = "config/fancymenu/assets/silicontransmittercompress.ogg"
-hash = "f0c8a55124befbbe681f9ef64ddac2f916150f1b2502e5847e800679cf3505fe"
-
-[[files]]
-file = "config/fancymenu/assets/silicontransmitterportent.ogg"
-hash = "286cd6dbf8c0e370b3812c0cda76d02864d4779ed7850acca25a0e6d12c95023"
-
-[[files]]
-file = "config/fancymenu/assets/singleplayer.png"
-hash = "a7655304826e3dafe43836289f45ccfa781876b2b3892a1cfe9e6aff6c7f4346"
-
-[[files]]
-file = "config/fancymenu/assets/skytext.png"
-hash = "f373eabd3150dca59c71395da349ea63ff640c8ea490d5da75bd2763dce4bb94"
-
-[[files]]
-file = "config/fancymenu/assets/skytext2.png"
-hash = "ae5090da67be455634ec17f818adfc9f7516c35cef26658a834a6fdf4482bd7e"
-
-[[files]]
-file = "config/fancymenu/assets/skytext3.jpg"
-hash = "e3889ae3ebc500a8130d06afbe91c6c8235c1b8377466282ed7419d73e1d986a"
-
-[[files]]
-file = "config/fancymenu/assets/test.apng"
-hash = "53942aa5de56ad7e5766c95777ee632b8c2c1dd532a9b846d60a40449a88ade0"
-
-[[files]]
-file = "config/fancymenu/assets/thehandthatmockedthem.apng"
-hash = "cf18916b3eda22e08faf4095ece2681aadefb183dc690957214e67dce4ffccbf"
-
-[[files]]
-file = "config/fancymenu/assets/thesky.png"
-hash = "46eb8179125c9c0fa7f9f7b6e7d460fecdec237759b1ad4f8df8d56c257f88ab"
-
-[[files]]
-file = "config/fancymenu/assets/theskyisscreaminginpain.png"
-hash = "aa6b7b2c9dacfacec933eabb0acef0da705fc076007880a6bef8a1ba63a16ae9"
-
-[[files]]
-file = "config/fancymenu/assets/theskythesky.png"
-hash = "50d039da8ab91ceec9f27edb4c371131ff132abb9ea9dd0871216a42d8fe0e4e"
-
-[[files]]
-file = "config/fancymenu/assets/transparent_picture.png"
-hash = "b144377c58b90f9503cbaedb07f2749be28752ee327165ef29a8e6a2f34d4812"
-
-[[files]]
-file = "config/fancymenu/audio_element_controller_metas.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/fancymenu/custom_gui_screens.txt"
-hash = "65a398463a5358b14798fb9b022d0b0c7ec903b589dc372b26906ef18ad73370"
-
-[[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "dfd6d3496ec3b05e02eb5e399e2c70797d5f099923edb9e1dae2f31cc201b032"
-
-[[files]]
-file = "config/fancymenu/customization/compressionloading.txt"
-hash = "ebbbd05e57039f725d1e4bc45715e8a9d50be197e3716339085aa0bdee038040"
-
-[[files]]
-file = "config/fancymenu/customization/compressionloading_2.txt"
-hash = "0a9373c7dbcb64fd324e1b997569e2c2321c11784daa42d4a536f33087a10739"
-
-[[files]]
-file = "config/fancymenu/customization/compressionloading_3.txt"
-hash = "d36396ec9ea6d5ca128f561904df2911b8694c3ff5852fc9431cdaf2d5596f4d"
-
-[[files]]
-file = "config/fancymenu/customization/credits_layout.txt"
-hash = "9a2579dd7d5695e01d16e15ce94c3716dc2b965bad0c3f8c3adb091c648e4cd8"
-
-[[files]]
-file = "config/fancymenu/customization/menu_music.txt"
-hash = "1832bdab43282f4fb618eb22a3fb9a89b41e9f38364b66688526d0e29040a805"
-
-[[files]]
-file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "476ed76f6e6d01ccafbfb8c68c369743bfb62a1854d711aba573af9b5f5fbf8b"
-
-[[files]]
-file = "config/fancymenu/customization/title_screen_layout_1.txt"
-hash = "cc6e603e69a3997545d0d35de5348994eb708fd76b3c067ea857d6444391620e"
-
-[[files]]
-file = "config/fancymenu/customization/title_screen_layout_2.txt"
-hash = "616914759e8c435e8f08de7736f1a5d39a93b512881ad5b8621ecf8924b67eca"
-
-[[files]]
-file = "config/fancymenu/customization/title_screen_layout_3.txt"
-hash = "46ef1eca0fc397b27ee56de704d1033a2cba3320e963f971c0491f33d1ad88f5"
-
-[[files]]
-file = "config/fancymenu/customization/title_screen_layout_old.txt"
-hash = "b6d5a459ab43ec20b825750e3115578cae15511118f91190255cb0dec5807c48"
-
-[[files]]
-file = "config/fancymenu/customization/title_screen_layout_old2.txt"
-hash = "8a73c21aefd36677a5151e850af8ef8e879f2bd303e684ddacf0760b809a15a9"
-
-[[files]]
-file = "config/fancymenu/customization/title_screen_layout_testing.txt"
-hash = "767eb53ebc13a84df56e76bea9c8ee5c0a189e2e0ffb926ed2f85a9675f8c749"
-
-[[files]]
-file = "config/fancymenu/dragger_metas.json"
-hash = "eb008c46bb904433f7e96fda6f38843703d7c61f5e02a029135c6c4295f95816"
-
-[[files]]
-file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de"
-
-[[files]]
-file = "config/fancymenu/legacy_checklist.txt"
-hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
-
-[[files]]
-file = "config/fancymenu/options.txt"
-hash = "214d9c58c84bb6a174854ae19a9ef72423940e7b47c71f99d34f1503616dc904"
-
-[[files]]
-file = "config/fancymenu/ui_themes/dark.json"
-hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light.json"
-hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
-
-[[files]]
-file = "config/fancymenu/user_variables.db"
-hash = "753817219fcd342292b0ffb7e6a5f448993d5a11530a0a626ba0a0d9876a938e"
-
-[[files]]
 file = "config/flywheel-client.toml"
 hash = "0d0e22785b8811b4010b7cf39f78fcfb25e31e70558176a52cb9e95ea9202c8f"
 
@@ -490,19 +190,19 @@ hash = "7d1f5a102e9909d72247369418c25e011aabf481220a9656716a08bcd025da93"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "c6b09011dadb7ac606f8ead353aac454f1e4e7160641d60c1978372383ce6e30"
+hash = "b6504c49b373269679c4c44dc7069293acb3c6539ca5bc0e8d610cd007a241da"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"
-hash = "c41810af6d09c0c768c0781318cf24de584c2c1c9c7f33dd58022a8171efb95a"
+hash = "215021877f879657aa15f9e8ce59c7acaa809b34ccc589a527d7c5efeba81674"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/proficiency.snbt"
-hash = "0b5df6439a69959fc3d237b8bf668007be6a96a6bb81f31c5cabb5cdd0b5cc0d"
+hash = "54b320f822abd107bbc1c492141971927deaeb5c4419fa074eb350df3ca714ca"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
-hash = "42599728ad09f9b9a49948de32ab0e17cf5122f22dd021720e64e101be9de22d"
+hash = "17f3de76695c1022fde4c5f978033d7e307f40594eb2c89fa39b374b16cdd36d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
@@ -6337,8 +6037,16 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_proce
 hash = "acff6964a4efa5d31fe2eb886400b66f18708ccd7ec0db6facd731e1b7a289b2"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/peat_two_activating.json"
+hash = "92d3d9734d9d1cea0e11a489f2685cfbbe551aede659f09a16a3eb41e35ef532"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/peat_two_crushing.json"
 hash = "2797362ed73f2b3ae5a6a96fe803629164eb0f643d2d42749e701e164236800c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/peat_two_dissolving.json"
+hash = "e378a2a8c434b0c3bd06f81e37900b3f58c5cad2a6edbdd4179dae0e8307a0ba"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/subbituminous_coal_two_demineralizing.json"
@@ -6707,6 +6415,10 @@ hash = "a44964fa3a7cafffd7db8e765010de0dfba13dfab99c56fdef945bfd94bb72d3"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/misc_processing/compacted_limestone_two_demineralizing.json"
 hash = "adc1d9eeb473047d92bfc970093a888110f71dfc8d8b87f97899a95bb6c7ea10"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/misc_processing/petrified_wood_two_activating.json"
+hash = "003ee42f7dce1af2326c3123f5e4a6fe52e92ce71c658d72c10f758ab33db6c3"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/misc_processing/petrified_wood_two_crushing.json"
@@ -7317,6 +7029,30 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_cr
 hash = "801df1a8b87a313185ecaa9890bd397327c81bd773d885e853234b13d4f16597"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/item_to_block/aquamarine.json"
+hash = "493d381c43b8408f25b36d963ac0bdcb15cae6b2ca3d9431d8c084502e9b9aae"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/item_to_block/bixbite.json"
+hash = "34f399f75fc569ae37f1ea877e7e11733f5f428b0549caabc20d085fae49e03e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/item_to_block/goshenite.json"
+hash = "a0b35b2b8628967ebe377198ac8611f5afb3ee314fe6fd39856d5a4f2da53d23"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/item_to_block/heliodor.json"
+hash = "b61887ef716b3b1da995491a0d9f3505118290dd317fd6bbaa48c22fed1ca894"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/item_to_block/morganite.json"
+hash = "c22e60cf9ec0cfadc7268b5cab7edad0533527e84b457a0ea2bf8a1b07a1492c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/item_to_block/pezzottaite.json"
+hash = "547d306aca10a0acba1a9e22923213cf1e9eef5f369ec93d1fe9113ae365fecc"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/lead_acid_cell.json"
 hash = "732321fc7028c0ea715b791ceb4c9d71f87ba573e4e56ed88991ca033bc9b3f4"
 
@@ -7419,6 +7155,30 @@ hash = "6fe6a9ce39abedb890f0408da931cb1978dccc27a20468f7bf5ce2970e8c76df"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/woven_cloth.json"
 hash = "eff877d630eaccb5b2d542ebbc6dc3f10a91440fa2f23575ed85aaa95acc4a78"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/block_to_item/block_aquamarine.json"
+hash = "4c4fd495fe08f13eeda60f21d7462927cb7bc09a1bf1daadcb74aac544f2c913"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/block_to_item/block_bixbite.json"
+hash = "ce4bf29cd1906997aa34fcbfde9918d76a26cc02ff02c5eb60282ac6eedb3f76"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/block_to_item/block_goshenite.json"
+hash = "475e04720a39dfd1781afb6d7b0aacfc996e10e85cbfee32633591be38cf964b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/block_to_item/block_heliodor.json"
+hash = "77d63243c4972a4a70e8be7f07a0d52c574c2e32aa037b6a6f21c04e616b66f6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/block_to_item/block_morganite.json"
+hash = "9073004b1bdcb89912fb89cce29db4c12f8e591e2742f2b081cd4b4d4cddcb61"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/block_to_item/block_pezzottaite.json"
+hash = "ff66c6c5465f71aef0fb9bc533cdddcb840841bc59db315e5f81e7c84d37cba0"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/bucket_of_salt_water.json"
@@ -10129,7 +9889,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "b3371b30f28ec9b96da539178fab8b0fabbd7892ea5e46a2929ed071e9199a7f"
+hash = "9d79585de5ad59917318a10774586d99dfccb768d3bbddc7b7bc258fa3c298ad"
 
 [[files]]
 file = "mods/oculus.pw.toml"
