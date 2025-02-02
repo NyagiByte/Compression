@@ -151,7 +151,7 @@
 				}
 				{
 					consume_items: true
-					count: 13L
+					count: 19L
 					id: "4CE2636F4DF29620"
 					item: "nyagibits_bytes:tier_zero_strawberry"
 					title: "Scale Tree I"
