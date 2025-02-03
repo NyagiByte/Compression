@@ -365,7 +365,7 @@
 		{
 			dependencies: ["3DF87F43E36C0204"]
 			description: [
-				"A copper carbonate used in ancient times as a green dye for makeup! (It's also quite toxic dont do that)"
+				"A copper carbonate used in ancient times as a green dye for makeup! (It's also quite toxic don't do that)"
 				""
 				"&6Tier 0 Yield:&r Copper"
 				"&6Tier 1 Yield:&r Copper"
@@ -393,7 +393,7 @@
 				""
 				"&6Tier 0 Yield:&r Copper"
 				"&6Tier 1 Yield:&r Copper"
-				"&6Tier 1 Yield:&r Sodium Hydroxide"
+				"&6Tier 2 Yield:&r Sodium Hydroxide"
 			]
 			id: "5FAEE148EC5A3355"
 			rewards: [{
@@ -417,6 +417,7 @@
 				""
 				"&6Tier 0 Yield:&r Copper"
 				"&6Tier 1 Yield:&r Antimony"
+				"&6Tier 2 Yield:&r Sodium"
 			]
 			id: "78C42FDAD1A8B62B"
 			rewards: [{
@@ -508,7 +509,7 @@
 		{
 			dependencies: ["3DF87F43E36C0204"]
 			description: [
-				"An intensly green copper cyclosilicate, can have some uses as an X-ray diffraction crystal"
+				"An intensely green copper cyclosilicate, can have some uses as an X-ray diffraction crystal"
 				""
 				"&6Tier 0 Yield:&r Copper"
 				"&6Tier 1 Yield:&r Copper"
@@ -563,7 +564,7 @@
 		{
 			dependencies: ["13FC2F89AE4F3F6E"]
 			description: [
-				"Concentrated sediment found in areas where rivers fan out and deposite the wethered rock. &cStrange to see it in a solid ore however&r"
+				"Concentrated sediment found in areas where rivers fan out and deposit the weathered rock. &cStrange to see it in a solid ore however&r"
 				""
 				"&6Tier 0 Yield:&r Gold"
 				"&6Tier 1 Yield:&r Gravel"
@@ -707,7 +708,7 @@
 		{
 			dependencies: ["13FC2F89AE4F3F6E"]
 			description: [
-				"Much like native gold, electrum can form naturally due to golds willingness to chemically bond to silver, tho some copper can sneak in during formation"
+				"Much like native gold, electrum can form naturally due to gold's willingness to chemically bond to silver, tho some copper can sneak in during formation"
 				""
 				"&6Tier 0 Yield:&r Gold"
 				"&6Tier 1 Yield:&r Silver"
@@ -826,7 +827,7 @@
 		{
 			dependencies: ["1DFA40765C37E21B"]
 			description: [
-				"An extremely rare mercuty sulfide chloride, pretty chemically similar to cinnabar outside of the inclusion of chlorine in the structure"
+				"An extremely rare mercury sulfide chloride, pretty chemically similar to cinnabar outside of the inclusion of chlorine in the structure"
 				""
 				"&6Tier 0 Yield:&r Redstone"
 				"&6Tier 1 Yield:&r Sulfur"
@@ -850,7 +851,7 @@
 		{
 			dependencies: ["1DFA40765C37E21B"]
 			description: [
-				"The crushed up remains of cooled lava. While not particularily rich in anything it does contain a large variety of elements in it."
+				"The crushed up remains of cooled lava. While not particularly rich in anything it does contain a large variety of elements in it."
 				""
 				"&6Tier 0 Yield:&r Silicon"
 				"&6Tier 1 Yield:&r Magnesium"
@@ -946,7 +947,7 @@
 		{
 			dependencies: ["1DFA40765C37E21B"]
 			description: [
-				"Volcanic glass! Or well I suppose it's more like glass powder in this state. Contrary to minecraft obsidian is rather fragile but can form blades sharper than most surgical scalples."
+				"Volcanic glass! Or well I suppose it's more like glass powder in this state. Contrary to minecraft obsidian is rather fragile but can form blades sharper than most surgical scalpels."
 				""
 				"&6Tier 0 Yield:&r Powdered Obsidian"
 				"&6Tier 1 Yield:&r Silicon"
@@ -1019,7 +1020,7 @@
 		{
 			dependencies: ["384CA06F7A29D8CE"]
 			description: [
-				"Also called black coal is a coal containing bitumen, a sort of sticky black tar. Can be used in production of metallurgical coal (coking coal). Most common form of coal"
+				"Also called black coal, it's a coal containing bitumen, a sort of sticky black tar. Can be used in production of metallurgical coal (coking coal). Most common form of coal"
 				""
 				"&6Tier 0 Yield:&r Coal"
 				"&6Tier 1 Yield:&r Coal"
@@ -1091,7 +1092,7 @@
 		{
 			dependencies: ["384CA06F7A29D8CE"]
 			description: [
-				"A form of bituminous coal, however, due to the formation conditions is often refered to as oil shale or boghead coal."
+				"A form of bituminous coal, however, due to the formation conditions is often referred to as oil shale or boghead coal."
 				""
 				"&6Tier 0 Yield:&r Coal"
 				"&6Tier 1 Yield:&r Coal"
@@ -1227,7 +1228,7 @@
 		{
 			dependencies: ["36801EB293571923"]
 			description: [
-				"A prised ore due to its inclusion of diamonds. Much like real life, these arn't as rare as one might think."
+				"A prised ore due to its inclusion of diamonds. Much like real life, these aren't as rare as one might think."
 				""
 				"&6Tier 0 Yield:&r"
 				"               Diamond"
@@ -1411,7 +1412,7 @@
 			description: [
 				"A calcium fluoride mineral. Can have a range of color from green to purple along the crystal"
 				""
-				"&6Tier 0 Yield:&r Fluorite Dust "
+				"&6Tier 0 Yield:&r Fluorite Dust"
 				"&6Tier 1 Yield:&r Calcium"
 				"&6Tier 2 Yield:&r Gypsum"
 			]
@@ -1433,7 +1434,7 @@
 		{
 			dependencies: ["36801EB293571923"]
 			description: [
-				"An unatural blob of chalcogenide group III and IV metals and metalloids"
+				"An unnatural blob of chalcogenide group III and IV metals and metalloids"
 				""
 				"&6Tier 0 Yield:&r Antimony"
 				"&6Tier 1 Yield:&r Bismuth"
@@ -1582,7 +1583,7 @@
 		{
 			dependencies: ["12D07F810D3FEE98"]
 			description: [
-				"A crypyocystalline form of silica comprised of fine intergrowths of quartz."
+				"A cryptocrystalline form of silica comprised of fine intergrowths of quartz."
 				""
 				"&6Tier 0 Yield:&r"
 				"               Quartz"
@@ -1615,7 +1616,7 @@
 		{
 			dependencies: ["12D07F810D3FEE98"]
 			description: [
-				"Quartz with titanium in it?! While the amount isnt very high, it will be your first easy to access source of the metal"
+				"Quartz with titanium in it?! While the amount isn't very high, it will be your first easy to access source of the metal"
 				""
 				"&6Tier 0 Yield:&r"
 				"               Quartz"
@@ -1747,18 +1748,18 @@
 		{
 			dependencies: ["12D07F810D3FEE98"]
 			description: [
-				"A chunk of scifi crystal straight from the heavens! This will probably be very vital"
+				"A chunk of sci-fi crystal straight from the heavens! This will probably be very vital"
 				""
 				"&6Tier 0 Yield:&r"
-				"               Certuz Quarts &bx2"
+				"               Certus Quartz &bx2"
 				"               &aor&r"
 				"               Quartz Dust &bx4"
 				"&6Tier 1 Yield:&r"
-				"               Certuz Quarts"
+				"               Certus Quartz"
 				"               &aor&r"
 				"               Skystone Dust &bx2"
 				"&6Tier 2 Yield:&r"
-				"               Certuz Quarts"
+				"               Certus Quartz"
 				"               &aor&r"
 				"               Amethyst Shard"
 			]
@@ -1852,7 +1853,7 @@
 		{
 			dependencies: ["0EE36446F98AA6C3"]
 			description: [
-				"Also known as zinc spar, a fairly commong way to source zinc. Tho it's probably too raw in this state to use it to help your flu symptoms "
+				"Also known as zinc spar, a fairly common way to source zinc. Tho it's probably too raw in this state to use it to help your flu symptoms "
 				""
 				"&6Tier 0 Yield:&r Zinc"
 				"&6Tier 1 Yield:&r Zinc"
@@ -1876,7 +1877,7 @@
 		{
 			dependencies: ["0EE36446F98AA6C3"]
 			description: [
-				"A crystal primarily comprised of zinc with silicates. Often found along side lead"
+				"A crystal primarily comprised of zinc with silicates. Often found alongside lead"
 				""
 				"&6Tier 0 Yield:&r Zinc"
 				"&6Tier 1 Yield:&r Zinc"
@@ -1948,7 +1949,7 @@
 		{
 			dependencies: ["0EE36446F98AA6C3"]
 			description: [
-				"A Zing silicate mineral that demonstrates strong fluorescence under shortwave uv light, which made it used in first generation fluorescent tube phosphors"
+				"A zinc silicate mineral that demonstrates strong fluorescence under shortwave uv light, which made it used in first generation fluorescent tube phosphors"
 				""
 				"&6Tier 0 Yield:&r Zinc"
 				"&6Tier 1 Yield:&r Silicon"
@@ -2153,7 +2154,7 @@
 		{
 			dependencies: ["759B1A3F42003E45"]
 			description: [
-				"A magnesium aluminum gemstone. Name crom the Latin word &ospinella&r basically meaning \"spine\""
+				"A magnesium aluminum gemstone. Named from the Latin word &ospinella&r basically meaning \"spine\""
 				""
 				"&6Tier 0 Yield:&r Aluminum"
 				"&6Tier 1 Yield:&r Magnesium"
@@ -2201,10 +2202,11 @@
 		{
 			dependencies: ["759B1A3F42003E45"]
 			description: [
-				"A lump of pulverized rock ideal for abrasive. There are many flavors of garnet including pyrope, almandine, spessartine, grossular, uvarovite, and andradite. Unfortunetly this slurry is ground very fine which would require significant chemical work to restore the gemstones."
+				"A lump of pulverized rock ideal for abrasive. There are many flavors of garnet including pyrope, almandine, spessartine, grossular, uvarovite, and andradite. Unfortunately this slurry is ground very fine which would require significant chemical work to restore the gemstones."
 				""
 				"&6Tier 0 Yield:&r Silicon"
 				"&6Tier 1 Yield:&r Aluminum"
+				"&6Tier 2 Yield:&r Quartz"
 			]
 			id: "04DC460DCA55F630"
 			rewards: [{
@@ -2228,6 +2230,7 @@
 				""
 				"&6Tier 0 Yield:&r Aluminum"
 				"&6Tier 1 Yield:&r Aluminum"
+				"&6Tier 2 Yield:&r Aluminum"
 			]
 			id: "7C5510AA99CE7626"
 			rewards: [{
@@ -2295,11 +2298,11 @@
 		{
 			dependencies: ["71620A0BAD820CD9"]
 			description: [
-				"A purer form of lead(II) sulfide. Typically found as galena ore, however, this form is far more pure and less contaminated by side products"
+				"A purer form of lead(II) sulfide. Typically found as galena ore. However, this form is far more pure and less contaminated by side products"
 				""
 				"&6Tier 0 Yield:&r Lead"
 				"&6Tier 1 Yield:&r Sulfur"
-				"&6Tier 0 Yield:&r Lead"
+				"&6Tier 2 Yield:&r Lead"
 			]
 			id: "57E2B3C0611A7A1E"
 			rewards: [{
@@ -2535,7 +2538,7 @@
 		{
 			dependencies: ["45518D2CD823F143"]
 			description: [
-				"Chemically weathered rock often rick in nickel and other metals"
+				"Chemically weathered rock often rich in nickel and other metals"
 				""
 				"&6Tier 0 Yield:&r Nickel"
 				"&6Tier 1 Yield:&r Bog Iron &cx0.1&r"
@@ -2583,10 +2586,11 @@
 		{
 			dependencies: ["45518D2CD823F143"]
 			description: [
-				"A nickel sulfide mineral. Forms as thin almost furr-like crystals within rocks associated with pyrite"
+				"A nickel sulfide mineral. Forms as thin almost fur-like crystals within rocks associated with pyrite"
 				""
 				"&6Tier 0 Yield:&r Nickel"
 				"&6Tier 1 Yield:&r Pyrite &cx0.1&r"
+				"&6Tier 2 Yield:&r Iron"
 			]
 			id: "4C6368A79C6F2723"
 			rewards: [{
@@ -2654,7 +2658,7 @@
 		{
 			dependencies: ["45518D2CD823F143"]
 			description: [
-				"Yet another iron-nickel alloy found in iron meteorites with a much lower concentration of nickel than normal. However can contain more cobalt and carbon than normal."
+				"Yet another iron-nickel alloy found in iron meteorites with a much lower concentration of nickel than normal. However, it can contain more cobalt and carbon than normal."
 				""
 				"&6Tier 0 Yield:&r Nickel"
 				"&6Tier 1 Yield:&r Meteoric Iron &cx0.1&r,"
@@ -2703,7 +2707,7 @@
 		{
 			dependencies: ["2C6845E1DFB220C9"]
 			description: [
-				"Also called uraninite is a uranium-rich mineral. May also contain thorium and other rare-earth elements"
+				"Also called uraninite, it's a uranium-rich mineral. May also contain thorium and other rare-earth elements"
 				""
 				"&6Tier 0 Yield:&r Uranium"
 				"&6Tier 1 Yield:&r Cadmium"
@@ -2799,7 +2803,7 @@
 		{
 			dependencies: ["2C6845E1DFB220C9"]
 			description: [
-				"A hydrated calcium uranyl phosphate crystal with a yellow-green apperance due to the fluorescent phosphate mineral"
+				"A hydrated calcium uranyl phosphate crystal with a yellow-green appearance due to the fluorescent phosphate mineral"
 				""
 				"&6Tier 0 Yield:&r Phosphorus"
 				"&6Tier 1 Yield:&r Uranium"
@@ -2943,7 +2947,7 @@
 		{
 			dependencies: ["1CDB5D26D5C8253C"]
 			description: [
-				"A sulfide of copper, iron and tin. Contains traces of germanium and sometimes found along side wolframite"
+				"A sulfide of copper, iron and tin. Contains traces of germanium and sometimes found alongside wolframite"
 				""
 				"&6Tier 0 Yield:&r Tin"
 				"&6Tier 1 Yield:&r Copper"
@@ -3015,7 +3019,7 @@
 		{
 			dependencies: ["1CDB5D26D5C8253C"]
 			description: [
-				"A rare silver tin sulfide mineral with trace amounts of fermanium and tellurium"
+				"A rare silver tin sulfide mineral with trace amounts of germanium and tellurium"
 				""
 				"&6Tier 0 Yield:&r Silver"
 				"&6Tier 1 Yield:&r Tin"
@@ -3215,7 +3219,7 @@
 		{
 			dependencies: ["7B8BC8FC6D7C4E87"]
 			description: [
-				"Solidifed volcanic flow highly concentrated in sulfur. Being from a volcanic source it contains a slurry of trace elements"
+				"Solidified volcanic flow highly concentrated in sulfur. Being from a volcanic source it contains a slurry of trace elements"
 				""
 				"&6Tier 0 Yield:&r Sulfur &bx2"
 				"&6Tier 1 Yield:&r Cadmium &cx0.5&r,"
