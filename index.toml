@@ -9683,7 +9683,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "48d5335b25e2d10bf18adc43caac70df1f4da4d7af66372b01ca63146278ffac"
+hash = "c7980e5dd940b00063874c9ee7310159acf1f39768b9560e05986b2e497fe0d7"
 metafile = true
 
 [[files]]
@@ -9917,7 +9917,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "f70b64ae7ef75adbd0e21cb80b262a1f1f80431196ee6b4a98b36e8430f81500"
+hash = "eeaec094bfae9e930abb615b8bc97a687d8969b36838b68fdb3f339d3f7720fa"
 metafile = true
 
 [[files]]
@@ -9952,6 +9952,11 @@ metafile = true
 [[files]]
 file = "mods/fast-paintings.pw.toml"
 hash = "daa755448f98baa9816ba4e267a58628f9d84376eba5ef3e3fe01db57b87f918"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
 metafile = true
 
 [[files]]
@@ -10056,7 +10061,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "34beff832b98f209ac50078a6901688c2f1318739c3ebb242ee31d00e2409d3a"
+hash = "7befc4718b205d760fedcef1aa160b3f7ebde248774f4a1eb79e0e2d352afe89"
 metafile = true
 
 [[files]]
@@ -10155,6 +10160,11 @@ hash = "c9ce1a75bf33ff10bd1dd6074a7b39ed49fc7e03173e7ea9dc7d61715bd3d11b"
 [[files]]
 file = "mods/mod-name-tooltip.pw.toml"
 hash = "0f37846b5bc38059aad5800e48e22a7d24b915ef553e3241af2b63e9ba864237"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "d5ebd6a072c380a9872729df7c48021f5f187329f51afbfcee43e952c49f6d08"
 metafile = true
 
 [[files]]
