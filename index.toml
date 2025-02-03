@@ -9637,18 +9637,6 @@ file = "kubejs/startup_scripts/worldgen.js"
 hash = "e36d34120d86356da340083fbccf6161629e61a2e40946fa633b2d1bbf10012a"
 
 [[files]]
-file = "logs/2024-12-12-1.log.gz"
-hash = "5f89031c938bafa6262028b84747232f58a17d49fa040c0045a041d4a363faab"
-
-[[files]]
-file = "logs/2024-12-12-2.log.gz"
-hash = "c48122de1e6af408a0eb4b69478747a4301f8b9550c3f453ad56fd8c0969b631"
-
-[[files]]
-file = "logs/2024-12-12-3.log.gz"
-hash = "523e105e867d4a3fe523eddaa520354287faa7a2f044a8a98acab47fbddef94c"
-
-[[files]]
 file = "mods/3dskinlayers-forge-1.5.2-mc1.19.1.jar"
 hash = "30e7d9018e0ba50dee18cb8a4101c0f139a30b980194179ff486d579c52ae694"
 
