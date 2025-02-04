@@ -490,7 +490,7 @@ hash = "7d1f5a102e9909d72247369418c25e011aabf481220a9656716a08bcd025da93"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "b6504c49b373269679c4c44dc7069293acb3c6539ca5bc0e8d610cd007a241da"
+hash = "887831f3e2c9474d44ea8c27f102e2217036b09cc8ad937cd49490f4b5b262e1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"
@@ -10187,7 +10187,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "9d79585de5ad59917318a10774586d99dfccb768d3bbddc7b7bc258fa3c298ad"
+hash = "d79d149fa9fc118f7d389cd98a6e96aa95e7708ca409e3c387090bcca58e038d"
 
 [[files]]
 file = "mods/oculus.pw.toml"
