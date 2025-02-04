@@ -215,7 +215,11 @@
 		}
 		{
 			dependencies: ["05CC38E1E327BA2E"]
-			description: ["This powerful block can reduce objects into their component parts with the aid of electricity. Just dont breath in the fumes"]
+			description: [
+				"This powerful block can reduce objects into their component parts with the aid of electricity. Just dont breath in the fumes"
+				""
+				"&cAlthough I don't seem to have a way of powering this properly... This guide is trying to lead me astray"
+			]
 			id: "256F108BD683D592"
 			rewards: [{
 				id: "1A2461DEA6F2D6D5"
