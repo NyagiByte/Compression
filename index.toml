@@ -490,7 +490,7 @@ hash = "7d1f5a102e9909d72247369418c25e011aabf481220a9656716a08bcd025da93"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "887831f3e2c9474d44ea8c27f102e2217036b09cc8ad937cd49490f4b5b262e1"
+hash = "93d9c0352efc3158120dea849d3c1d3b84e6d48727267c4ef76dd54eac0cc407"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"
@@ -502,7 +502,7 @@ hash = "54b320f822abd107bbc1c492141971927deaeb5c4419fa074eb350df3ca714ca"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
-hash = "17f3de76695c1022fde4c5f978033d7e307f40594eb2c89fa39b374b16cdd36d"
+hash = "303ead03cffe35f2ff135266e59711165754ace3a5a11f1648a85333af448b1a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
@@ -510,7 +510,7 @@ hash = "5eaa01737c46ffc31178fbfacbaaf71d9b0492e8a34838f1973905af60636bd4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "464a56e2a48a3c6c24ad15cacd5b52bc5d4d56b177a215c549564edf109475b0"
+hash = "82f0105e207101f68972a283812b7748015c50f18e3c1dce5fc293fa2fa22892"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -574,7 +574,7 @@ hash = "55a668749c65a2929945b96fdeda9f42caa5ba27713e1ae35fd472f2b74b34f7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome_to_compression.snbt"
-hash = "e83917a436122f1848bd24e9faf21615e131661484643034342cf87f6c9da9f0"
+hash = "68dc64a8f54227c7b773e419ae8ab08e63f88bb737cf3f030b8f2a7a5ea24fe5"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -8706,7 +8706,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "0251f2251dc216ef20312eef20843c4b2cd760ccfc6baf75c1b4e5d2362ac2c3"
+hash = "17f5cf559ac3f215211eed2fb9313f8b7601ee6c060ea8a6b583a8ecaa5a3698"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -8907,6 +8907,10 @@ hash = "7de648a7661e9f3f7fc51b117c16abd832fc5de6491bf199f9bff0ab192bf46a"
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/alchemistry/lang/en_us.json"
 hash = "875c00a494c9241a4dcae4f26b35b1e78a1ef1a7c5f07186b92fe1a92f687bcd"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/chemlib/lang/en_us.json"
+hash = "80e62be37469b6fc605170a97bcb42a41fea415aad3c544dc4b6c383434cab99"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/create/lang/en_us.json"
