@@ -3664,19 +3664,48 @@
 		}
 		{
 			dependencies: ["1955E60B51E911ED"]
+			description: [
+				"Reap the soils of the world"
+				""
+				"Harvest it all, it's &cyours"
+			]
 			icon: "immersiveengineering:sample_drill"
 			id: "453481B45C1169E4"
+			rewards: [{
+				id: "2E3199DF247E29DE"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2FE32BEDA19DF567"
 				type: "checkmark"
 			}]
-			title: "Excavating The World"
+			title: "Puncture The World"
 			x: -0.5d
 			y: 11.0d
 		}
 		{
 			dependencies: ["453481B45C1169E4"]
+			description: [
+				"Encased in thick rock layers of basalt these ores contain elements churned up from deep within the earth. Absolutely &evital&r for scaling up production as these ores yield products for &bagriculture, highly advanced alloys,&r and truly &bindustrial scale acid production&r"
+				""
+				"&6Vein Information:&r"
+				"&dWeight (relative rarity): 14&r"
+				"&cFail Chance: 50%&r"
+				">100% Basalt"
+				""
+				"&aSuccess Chance: 50%&r"
+				">40% Fluorspar"
+				">30% Zirconia "
+				">20% Columbite"
+				">10% Phosphorite"
+			]
 			id: "3EC5385262A7A38A"
+			rewards: [{
+				id: "6CB696FE41E53C54"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "3DEAB5EA54E78B51"
@@ -3705,7 +3734,28 @@
 		}
 		{
 			dependencies: ["453481B45C1169E4"]
+			description: [
+				"Contrary to the ore name, you dont need to go to Germany for it."
+				"&eGermanite&r will be an important ore to harvest for it's &agermanium&r content."
+				""
+				"Germanium, especially in alloys has unique properties with how it interacts with light and makes it a &bcrucial element for building laboratory quality instruments&r "
+				""
+				"&6Vein Information:&r"
+				"&dWeight (relative rarity): 10&r"
+				"&cFail Chance: 20%&r"
+				">99% Limestone"
+				">1% Pyrite"
+				""
+				"&aSuccess Chance: 80%&r"
+				">60% Germanite"
+				">40% Zinc Carbonate"
+			]
 			id: "0AA6E4463E27A4F9"
+			rewards: [{
+				id: "7A8AE290487F8472"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "23BD564210D787B1"
@@ -3724,7 +3774,28 @@
 		}
 		{
 			dependencies: ["453481B45C1169E4"]
+			description: [
+				"Over millions of years mineral springs concentrated &alithium&r in the earth into ores pure enough to form crystals brimming with battery metal."
+				""
+				"Of course this is only the start of the journey for it as processing it to a useable state is rather involved"
+				""
+				"&6Vein Information:&r"
+				"&dWeight (relative rarity): 25&r"
+				"&cFail Chance: 20%&r"
+				">100% Limestone"
+				""
+				"&aSuccess Chance: 80%&r"
+				">40% Spodumene"
+				">30% Amblygonite "
+				">20% Petalite"
+				">10% Lepidolite"
+			]
 			id: "38C12E46D6C2B066"
+			rewards: [{
+				id: "66C5145D2DF671E7"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "634705B580C79C59"
@@ -3753,7 +3824,26 @@
 		}
 		{
 			dependencies: ["453481B45C1169E4"]
+			description: [
+				"Oil Sand and Kerogen can be considered to be in that transition state between once being an alive thing and being pumped at the gas station."
+				""
+				"While difficult to process the rich hydrocarbon soup will yield a huge amount of industrially relevant products"
+				""
+				"&6Vein Information:&r"
+				"&dWeight (relative rarity): 10&r"
+				"&cFail Chance: 20%&r"
+				">100% Red Sand"
+				""
+				"&aSuccess Chance: 80%&r"
+				">60% Kerogen"
+				">40% Oil Sand"
+			]
 			id: "70289AE8732F693E"
+			rewards: [{
+				id: "079B199110CA5508"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "40F3E30B96C7E34B"
@@ -3766,12 +3856,32 @@
 					type: "item"
 				}
 			]
+			title: "Hydrocarbon Rich Deposit"
 			x: -2.0d
 			y: 9.0d
 		}
 		{
 			dependencies: ["453481B45C1169E4"]
+			description: [
+				"Something must of gone catastrophically wrong here for there to be such a high abundance of bones and fossils"
+				""
+				"&cIt's almost as if it's hidden sins of some entity..&r Regardless it is rather useful"
+				""
+				"&6Vein Information:&r"
+				"&dWeight (relative rarity): 10&r"
+				"&cFail Chance: 20%&r"
+				">100% Limestone"
+				""
+				"&aSuccess Chance: 80%&r"
+				">90% Bone Block"
+				">10% Ancient Fossil"
+			]
 			id: "4DED61BFDA09B17E"
+			rewards: [{
+				id: "1CCFBB8AFA27C525"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "010C7A57C1259D8F"
@@ -3790,7 +3900,26 @@
 		}
 		{
 			dependencies: ["453481B45C1169E4"]
+			description: [
+				"A rather unusual deposit, the holes within the pumice-like-endstone have &atrapped gas&r within it requiring some liquid assisted bubbling to capture. &cThe air doesnt appear to be from here however&r and has some unusual properties to it."
+				""
+				"There is also a surprising amount of fungi-like spores embeded in the stone"
+				""
+				"&6Vein Information:&r"
+				"&dWeight (relative rarity): 5&r"
+				"&cFail Chance: 20%&r"
+				">100% Endstone"
+				""
+				"&aSuccess Chance: 80%&r"
+				">95% Ender Pumice"
+				">5% End Organic Mush"
+			]
 			id: "794BE296BCE95CD3"
+			rewards: [{
+				id: "7F886D6AF9E051A4"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "2A0CDE8D09E63062"
@@ -3802,11 +3931,6 @@
 					item: "nyagibits_bytes:end_organic_mush"
 					type: "item"
 				}
-				{
-					id: "3717A4C35AB29308"
-					item: "minecraft:end_stone"
-					type: "item"
-				}
 			]
 			title: "Endermorphic Deposit"
 			x: -2.5d
@@ -3814,7 +3938,28 @@
 		}
 		{
 			dependencies: ["453481B45C1169E4"]
+			description: [
+				"It seems that in some parts of the world the ground entirely delaminates from the flake walls revealing a deep pit downwards. Outside of raw material abundance, there's probably fantastic data within the rocks to learn more about this world"
+				""
+				"&6Vein Information:&r"
+				"&dWeight (relative rarity): 10&r"
+				"&cFail Chance: 20%&r"
+				">100% Deepslate"
+				""
+				"&aSuccess Chance: 80%&r"
+				">80% Deep Ground Samples"
+				">8% Hematite"
+				">4% Compacted Limestone"
+				">4% Volcanic Sulfur"
+				">2% Meteoric Kamacite"
+				">2% Fluorite"
+			]
 			id: "37982224A6A10F95"
+			rewards: [{
+				id: "40DEB167BA8586E9"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "330D1785EBF7213C"
@@ -3854,6 +3999,11 @@
 		{
 			dependencies: ["453481B45C1169E4"]
 			id: "230A582D5ABD1DF2"
+			rewards: [{
+				id: "58FE8A559BA645C9"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "30BAD6B2E4291061"
@@ -3877,7 +4027,31 @@
 		}
 		{
 			dependencies: ["453481B45C1169E4"]
+			description: [
+				"Rare earths are not actually very rare! The reason they are called rare is due to their relative concentration in the soil being somewhat low, thus requiring large volumes of earth to gather useable amounts. "
+				""
+				"The ores here are &babundant&r but do not let that fool you on yields as their processing with be intensive and difficult"
+				""
+				"&6Vein Information:&r"
+				"&dWeight (relative rarity): 25&r"
+				"&cFail Chance: 10%&r"
+				">33.3% Dirt"
+				">33.3% Sand"
+				">33.3% Gravel"
+				""
+				"&aSuccess Chance: 90%&r"
+				">30% Monzite"
+				">30% Cerite"
+				">20% Bastnasite"
+				">10% Allanite"
+				">10% Xenotime"
+			]
 			id: "2B9899F592B4E814"
+			rewards: [{
+				id: "4E51EE64101BA0A0"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "2A5D544574C5AEF4"
