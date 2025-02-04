@@ -10002,6 +10002,11 @@ hash = "bf80e695ea335a9cf754b49c14851173f26067d48a3fe659b03047208aa3e60a"
 metafile = true
 
 [[files]]
+file = "mods/huge-structure-blocks.pw.toml"
+hash = "b786b5ed360911f29fe5d35aa17adf7a9fa444d62fd1dd1d21edf9a7e1e68ec0"
+metafile = true
+
+[[files]]
 file = "mods/hungy.pw.toml"
 hash = "fda9b8db813aeb25500f4687732e0f64b37fb8d5b84d8b588a9de0eae64dabe5"
 metafile = true
