@@ -10344,6 +10344,11 @@ hash = "0ec62947a4378360d062b218454fb13bbc9c52345444d59ff6e1a889cf0b7355"
 metafile = true
 
 [[files]]
+file = "mods/starter-structure.pw.toml"
+hash = "06b2ad418c8b81e2c9b775996c29ec02e85440243b9adafe9c329b2abd54b42f"
+metafile = true
+
+[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "78b99ab318e673df36cd8a4debb83adc9978941df797c716a15338b9e239b6fa"
 metafile = true
