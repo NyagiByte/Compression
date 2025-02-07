@@ -1,7 +1,7 @@
 {
     "type": "create:sequenced_assembly",
     "ingredient": {
-      "item": "nyagibits_bytes:polished_clustered_beryl"
+      "item": "nyagibits_bytes:raw_clustered_beryl"
     },
     "loops": 1,
     "results": [

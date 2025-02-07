@@ -2073,6 +2073,14 @@ file = "config/paxi/datapacks/compression/data/cb_microblock/recipes/diamond_saw
 hash = "8cb027076ec360ddae0411962a959cfe80e761b8863dbb92c12066dc088c7a1e"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/compressed_create_recipes/recipes/radiant_conversion/refined_radiance.json"
+hash = "e513f9e47d1619f5a89919c3275f619647debb2c587e503d01455ab8582a5de7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressed_create_recipes/recipes/void_conversion/shadow_steel.json"
+hash = "8e0623dbdf8082fc62522269c7365b21656447ae48e51fa26b4542284a5a937c"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/compressedbotanics/recipes/endoflame.json"
 hash = "53650cc89e3d0d415b88044c2ddc9a301c83be606fd5d4fcb7c483856faa6c6f"
 
@@ -2131,14 +2139,6 @@ hash = "e8eb8eb574fdae3934eec47a1e047bede3e277bff5da0297abe5bf34f8e8ef0e"
 [[files]]
 file = "config/paxi/datapacks/compression/data/compressedengineering/recipes/assembler/shaped/single_use_mana_ablatives_demonstration.json"
 hash = "8163deddedb227702ae21d4604fa00114b5c7151698b1a03bf9df7dfb4994326"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/compressedmystconv/recipes/radiant_conversion/refined_radiance.json"
-hash = "b1e131c7ccc89888457d5c29ee1aee4c3c4bee9085f9197523a85dc976df6f3c"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/compressedmystconv/recipes/void_conversion/shadow_steel.json"
-hash = "a1798eba6497ffe196aee0cb8c783a89bbb03c10aaa5202d65d17d0294781062"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/compacting/blaze_cake.json"
@@ -5690,7 +5690,7 @@ hash = "cde7c57fa33b2286cf4b24d5a5b82bbddc686a263d942a8ab9fd42428823c14e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/bauxite_processing/clustered_beryl_one_sequenced_polishing.json"
-hash = "05eaf2387fad1864b576d6066fbe86fda8b864a0184d7353a45f7d0e9e0095a1"
+hash = "23eebb55b56f9272716e5fcc2d4a11bb00ad29c93aebe67d555ea560bf69f772"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/bauxite_processing/cryolite_one_crushing.json"
@@ -5826,7 +5826,7 @@ hash = "1ca707c6f5fa289d9d638dec94ace52e84262ae34bd2aef859bb176540872461"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gemstone_processing/prime_beryllic_cluster_one_sequenced_polishing.json"
-hash = "3971e0f3c35252efe3067f863fb1ac866dd289633bd6240a9b39059ec575f609"
+hash = "543e14696afcdc52118cce6eaf9ceac8947f18144598f644a9199fdd4f7ce2b2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier1/gemstone_processing/salt_cluster_one_crushing.json"
@@ -6230,7 +6230,7 @@ hash = "595036145f9277740eb4784dd0fc2c304d333bf384b4afe32dee7f2fb763df06"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/bauxite_processing/clustered_beryl_two_clean_polish.json"
-hash = "d15788bee782372672be7d5748f9052e4a3848d3d0898843366c882cf47a5662"
+hash = "10c42cdcb85e7b52205a5b568507b42a80bdee80ec74053336350f1b775e529a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/bauxite_processing/clustered_beryl_two_crushing.json"
@@ -6238,7 +6238,7 @@ hash = "703d171ffd455f4c8c35b98bdf126f7b1fc9fbc6922aeb41758746f0deabb54b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/bauxite_processing/clustered_beryl_two_sequenced_polishing.json"
-hash = "0564d4c1d708cede4dea665bcfd2d4500f688d35468a01db6cb60d3b7e5b00eb"
+hash = "825df2bae83618c3f237701ec287d384828cf2e5402ffb421934408175b47746"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/bauxite_processing/cryolite_two_crushing.json"
@@ -6494,7 +6494,7 @@ hash = "c0f56639bc4abf83b70c9b112dfa8080e05dee1a32f64a36b0b38ebc33da64d5"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gemstone_processing/prime_beryllic_cluster_two_sequenced_polishing.json"
-hash = "be8871749005127091eedc5b5a0de6485862e701af88d1971b60640aed4ec63e"
+hash = "7edb757411d1aa52532f0adc0480093ee06966c118e23599a71f9b41e4229051"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/gemstone_processing/salt_cluster_two_crushing.json"
@@ -9814,13 +9814,13 @@ hash = "8066036b77eb98574cff1ec561429da191671e8c32a35103a4d0a44cdb3084fd"
 metafile = true
 
 [[files]]
-file = "mods/compressed-engineering.pw.toml"
-hash = "d3ddcd0d2684155eff3c18c524f95c9b209842c54c152c9dfff841e87a6310c3"
+file = "mods/compressed-create-recipes.pw.toml"
+hash = "f9793cef9fa86ff3d5fdf68adc6ebf323b789fff5afc5365eb60e246f539b579"
 metafile = true
 
 [[files]]
-file = "mods/compressed-mysterious-conversions.pw.toml"
-hash = "ab97bea5b930740949cbfdbae830bf76fae6c20a1f9140b7c54c595af1e32075"
+file = "mods/compressed-engineering.pw.toml"
+hash = "d3ddcd0d2684155eff3c18c524f95c9b209842c54c152c9dfff841e87a6310c3"
 metafile = true
 
 [[files]]
