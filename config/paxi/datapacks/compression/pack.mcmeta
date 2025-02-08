@@ -665,6 +665,18 @@
 		{"namespace": "botania", "path": "recipes/mana_infusion/mana_powder_dye.json"},
 		{"namespace": "botania", "path": "recipes/mana_infusion/manasteel_block.json"},
 
+		{"namespace": "botania", "path": "recipes/mana_infusion/rotten_flesh_to_leather.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/stone_to_andesite.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/granite_to_andesite.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/diorite_to_granite.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/andesite_to_diorite.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/tuff_to_calcite.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/deepslate_to_tuff.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/calcite_to_deepslate.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/cobble_to_sand.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/coarse_dirt.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/chiseled_stone_bricks.json"},
+
 		{"namespace": "botania", "path": "recipes/stonecutting/livingrock_to_polished_livingrock.json"},
 
 		{"namespace": "botania", "path": "recipes/mana_fluxfield.json"},
