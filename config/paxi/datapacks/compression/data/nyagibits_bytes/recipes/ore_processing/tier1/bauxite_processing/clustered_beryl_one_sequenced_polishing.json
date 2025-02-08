@@ -1,5 +1,6 @@
 {
     "type": "create:sequenced_assembly",
+    "isProcessing": true,
     "ingredient": {
       "item": "nyagibits_bytes:raw_clustered_beryl"
     },

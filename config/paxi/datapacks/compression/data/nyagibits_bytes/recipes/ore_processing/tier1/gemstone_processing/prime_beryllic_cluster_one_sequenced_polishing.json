@@ -3,6 +3,7 @@
     "ingredient": {
       "item": "nyagibits_bytes:raw_prime_beryllic_cluster"
     },
+    "isProcessing": true,
     "loops": 1,
     "results": [
         {

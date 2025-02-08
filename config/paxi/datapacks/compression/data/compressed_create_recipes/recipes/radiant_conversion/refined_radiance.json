@@ -1,11 +1,11 @@
 {
-  "type": "compressedmystconv:void_conversion",
+  "type": "compressed_create_recipes:radiant_conversion",
   "input": {
     "item": "nyagibits_bytes:chromatic_compound",
     "count": 1
   },
   "output": {
-    "item": "nyagibits_bytes:shadow_steel",
+    "item": "nyagibits_bytes:refined_radiance",
     "count": 1
   }
 }
