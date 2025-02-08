@@ -3297,6 +3297,14 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/functions/ti
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/alloysmelter/constantan.json"
+hash = "aa36516a07676e15b4623f8162c5f5a37b8aac4ce05238b8a87e4a32a837b874"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/alloysmelter/electrum.json"
+hash = "310d5e88e7ed3eb15df2a73ea26be34f653916ccd4bd548a94534b5f3da56c2e"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/arcfurnace/insulated_glass.txt"
 hash = "90e3369d1e66a94c5789a5f1237a9208a52e1d45381e37a24fc8e019b9ae654e"
 
@@ -4187,6 +4195,10 @@ hash = "7fa33e68ebe01d4efcd6814cc84d8d9f1c62bd73fe67f00bb22ac0c69aee96c8"
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/tnt.json"
 hash = "f32833e90069dc4c9524ae83ce191a72908e513fbda26db7024053f4b8bab9ad"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/wheat.json"
+hash = "d8bb8501f72f7a117172b8f7ca047fb39a39a81f63b6b03e600c225661ecf8e4"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/white_concrete_powder.json"
@@ -8862,7 +8874,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "17f5cf559ac3f215211eed2fb9313f8b7601ee6c060ea8a6b583a8ecaa5a3698"
+hash = "211e6d0ad1f6a2d5aba37df654b83d1c44f105f77b30fc4ae389b63f0c29b07d"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
