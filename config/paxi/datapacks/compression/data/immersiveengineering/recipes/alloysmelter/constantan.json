@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "minecraft:copper_ingot"
+      },
+      {
+        "item": "chemlib:nickel_ingot"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "thermal:constantan_ingot"
+      }
+    ]
+  }
