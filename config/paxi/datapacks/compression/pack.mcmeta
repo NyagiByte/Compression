@@ -20,6 +20,8 @@
 		{"namespace": "mekanism", "path": "recipes/mekasuit_pants.json"},
 		{"namespace": "mekanism", "path": "recipes/mekasuit_boots.json"},
 		{"namespace": "mekanism", "path": "recipes/rails.json"},
+		{"namespace": "mekanism", "path": "recipes/paper.json"},
+		{"namespace": "mekanism", "path": "recipes/dye_base.json"},
 
 		{"namespace": "compressedcreativity", "path": "recipes/mixing/brass_gilded_lapis_lazuli.json"},
 		{"namespace": "compressedcreativity", "path": "recipes/crafting/mesh_empty.json"},
@@ -249,6 +251,7 @@
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/wire_aluminum.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/wire_steel.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/wire_lead.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/crafting/paper_from_sawdust.json"},
 
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/raw_hammercrushing_aluminum.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/hammercrushing_aluminum.json"},
