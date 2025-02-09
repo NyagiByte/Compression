@@ -10347,6 +10347,11 @@ hash = "117f4ee58b26cabd9943e19352b770a9ab569fb0711270028917129194e6bdda"
 metafile = true
 
 [[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "6aa0e8ea7438ac6736f1fd602e0407f445bb366ba7b3071dad6fffcd382d89bf"
+metafile = true
+
+[[files]]
 file = "mods/mythicbotany.pw.toml"
 hash = "6bd7068b5350d68cf36658290368084fe9fa3caf18f39553648710e875729d8d"
 metafile = true
