@@ -1,0 +1,13 @@
+name = "Nyagi's Bits & Bytes"
+filename = "nyagibits_bytes-0.0.2-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb4bb3df710dbd791f01ba29a329b3a5cdb7798b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6172797
+project-id = 979658
