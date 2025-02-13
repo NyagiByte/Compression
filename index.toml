@@ -749,6 +749,34 @@ file = "config/immediatelyfast.json"
 hash = "298507d708015b3aa763d223f78f37190fdce0970bcd962c3d715764e7a2db7d"
 
 [[files]]
+file = "config/incontrol/experience.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/loot.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/phases.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/spawn.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/spawner.json"
+hash = "7168f2bac07edbbf5ca6e3659286aae9f9b0b5999e395f69c0db99af877dce32"
+
+[[files]]
+file = "config/incontrol/special.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/summonaid.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
 file = "config/packtweaker-common.toml"
 hash = "2f9032b38c0d562bcbf977a75b8d77e31de701871c8e96c2e3421e57979b8a96"
 

@@ -1,0 +1,21 @@
+[
+    {
+      "mob": "minecraft:squid",
+      "persecond": 0.5,
+      "attempts": 20,
+      "amount": {
+        "minimum": 2,
+        "maximum": 5,
+        "groupdistance": 3
+      },
+      "conditions": {
+        "dimension": "minecraft:overworld",
+        "inwater": true,
+        "mindist": 5,
+        "maxdist": 64,
+        "minheight": -64,
+        "maxheight": 256,
+        "maxthis": 40
+      }
+    }
+  ]
