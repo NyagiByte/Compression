@@ -34,6 +34,3 @@ Then, you will need to put the bootstrap installer in .minecraft folder, edit yo
 [LINK] should be replaced with a direct link to raw version of pack.toml in your Github repository. It looks like this for our main branch: https://github.com/NyagiByte/Compression/blob/main/pack.toml
 
 After that, select the right Java version and launch the instance. Packwiz will automatically download all mods and files in the instance for you. 
-
-### Troubleshooting
-TODO
