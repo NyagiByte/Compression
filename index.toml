@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CONTRIBUTING.md"
+hash = "5a6eaabb4599adde6d946dad14015a4f35f133855dd2183ae68f67d2378d63ad"
+
+[[files]]
 file = "README.md"
 hash = "f0032bb2e3774c212f26a981dfa4eb82ccdd44e2acc82ba65a5800bbd38f2a2e"
 
@@ -9089,16 +9093,56 @@ file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/lang/e
 hash = "1563ac45c143c885e1c7f3b69c9e257ebe72c6ea9e67a6812011d64906f924b1"
 
 [[files]]
+file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/textures/item/metal_plate_steel.png"
+hash = "4b767289e70b3489cb901569b15763e299ea8d139008355ea222619822e671a2"
+
+[[files]]
 file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/lang/en_us.json"
 hash = "318d3b8d3a70bb158c821961d5fbdac61de5ae9818f9cb4c87f416dba47fe07f"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/material/plate/boron.png"
+hash = "9aba433f13fd601ce43574957c9e7c9f6db77166e859291b1277c9a30e3e07ff"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/material/plate/extreme.png"
 hash = "bf3001889536b828f55fb815d1bcb05ccef54723c1e20d2ccbc73fbfd3986ed5"
 
 [[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/material/plate/ferroboron.png"
+hash = "0c6aa414ce798eb96379405381f018bf1b6139a7cb476b6e31dfd6fcbe2dbe77"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/material/plate/graphite.png"
+hash = "6fe0024d06977801243a3fe85bbd3f1be67d61ce00af22a30530417a4d961ae4"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/material/plate/hard_carbon.png"
+hash = "24ab12d583d9943f70018b3c4bea9d2ae63300a8c686557c0fab16b8e364fe77"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/material/plate/hsla_steel.png"
+hash = "d9674f0fad0b353682104e7f4ec08ba4d1cfb206372744bdae76f3d33e264409"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/material/plate/lithium_manganese_dioxide.png"
+hash = "d27e0e53e287e749094af8b174455d5a17283b8998025557154fb95e51c27d83"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/material/plate/sic_sic_cmc.png"
+hash = "5ac9737a81a124c94d43c3f3d37b67538afe251434f9ac8bd25225372e5d5d68"
+
+[[files]]
 file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/material/plate/thermoconducting.png"
 hash = "5a6339d88bd7fbc00840f52430584b7410188c851b1d4fb219c73e708617ddf1"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/material/plate/tough_alloy.png"
+hash = "64059e37e0556c1638e8c5c73f01744a98977e17c83565bbd1cd3bdb378529b8"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/part/plate_advanced.png"
+hash = "5b2629ce53eab9e6a0b10b42a247bc0a426a8a61194d80aecc5d381590abecd8"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/origins/lang/en_us.json"
@@ -10206,6 +10250,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-petroleum.pw.toml"
 hash = "75f5e193bbe59997aadecb9f61ad1dad409acbcc1c60bdcdb2c5a6f32cacebda"
+metafile = true
+
+[[files]]
+file = "mods/in-control.pw.toml"
+hash = "e250608f6d5bcebba97a58e1450f7c9834d1cafe3c06952b4e46c8e902c5dc45"
 metafile = true
 
 [[files]]
