@@ -157,7 +157,7 @@
 		#.
 		#Max length of rope available off a Rope Pulley.
 		#Range: > 1
-		maxRopeLength = 256
+		maxRopeLength = 1088
 		#.
 		#Maximum allowed distance of two coupled minecarts.
 		#Range: > 1
@@ -325,7 +325,7 @@
 	#[in Blocks]
 	#The maximum distance a hose pulley can draw fluid blocks from.
 	#Range: > 1
-	hosePulleyRange = 128
+	hosePulleyRange = 2048
 	#.
 	#[in Blocks]
 	#[-1 to disable this behaviour]

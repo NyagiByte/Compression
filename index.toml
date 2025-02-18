@@ -9342,7 +9342,7 @@ hash = "8a2886b368c9dd1ddfb2e98d3d97261269623a24985ba275c1b436457dc46a03"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
-hash = "33e1967b95d60bedd588e543537952f0d6b125c77147b880d89cbe3f2ec32a7a"
+hash = "4f1c7d303a7083d925ecef48027f99983beed01e4cd04a09157abb27fad30e98"
 
 [[files]]
 file = "defaultconfigs/ftbchunks/client-config.snbt"
