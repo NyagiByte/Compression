@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:heliodor"
+      }
+    ],
+    "processingTime": 100,
+    "results": [
+      {
+        "item": "nyagibits_bytes:heliodor_dust"
+      }
+    ]
+  }

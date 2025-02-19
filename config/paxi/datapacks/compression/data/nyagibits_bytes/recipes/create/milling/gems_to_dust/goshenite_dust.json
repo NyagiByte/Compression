@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:goshenite"
+      }
+    ],
+    "processingTime": 100,
+    "results": [
+      {
+        "item": "nyagibits_bytes:goshenite_dust"
+      }
+    ]
+  }

@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:sapphire"
+      }
+    ],
+    "processingTime": 100,
+    "results": [
+      {
+        "item": "nyagibits_bytes:sapphire_dust"
+      }
+    ]
+  }
