@@ -1245,12 +1245,24 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/hep
 hash = "89ea70f6b96dfd334932adb1aba600de78e787ca156f61e405db8d724077d28f"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/architects_palette/recipes/dripstone_lamp.json"
+hash = "15d1d08696ee3986ad6cfbecd3e63e2899a2d429e225593f315beb2b7dda08df"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/architects_palette/recipes/flint_block_uncraft.json"
 hash = "a8f88c5f8a8a49cdf1f07a4f5ada4604f3e221cb2555b33a9f53d4fc83b92d56"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/architects_palette/recipes/oracle_jelly.json"
+hash = "9eb54b593a631808fc443467c81b182250a38c46bc2c9086e42f5ee75fe8a6d2"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/architects_palette/recipes/warping/chiseled_hadaline_bricks_from_chiseled_abyssaline_bricks_warping.json"
 hash = "30ca596e735c03471501d9042fc010cbb140c0f78e0edbabe668f31687f63009"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/architects_palette/recipes/warping/esoterrack_from_andesite_warping.json"
+hash = "c546ef48d47cc01bfbd70d42c743cbaad5a9bc8d6800882f3ae3500db1e0d1b2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/architects_palette/recipes/warping/hadaline_bricks_from_abyssaline_bricks_warping.json"
@@ -1259,6 +1271,10 @@ hash = "a20938be2cda66194697798a547e4beb599646bf470b63af8688feefa35edacd"
 [[files]]
 file = "config/paxi/datapacks/compression/data/architects_palette/recipes/warping/hadaline_from_abyssaline_warping.json"
 hash = "f0974ea8dfcd92bb2cc24a32c15f68203aebb809c5700b826408e2a36bb7e57a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/architects_palette/recipes/warping/hadaline_lamp_from_abyssaline_lamp_warping.json"
+hash = "b65030d73dd4506f8f128b76eddf1b507950afeaa092dba367d09322c83a3617"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/architects_palette/recipes/warping/hadaline_pillar_from_abyssaline_pillar_warping.json"
@@ -1273,8 +1289,20 @@ file = "config/paxi/datapacks/compression/data/architects_palette/recipes/warpin
 hash = "d9854cdbdede13a6b57a6e1487d13ad9a1420ff23b13702d58d84a757348409f"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/architects_palette/recipes/warping/moonstone_from_sunstone_warping.json"
+hash = "966dff57977b2ba5f2e0c0e1d4a04b60c3fef2f996979ea5e70c1803694ac35b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/architects_palette/recipes/warping/nebulite_from_diorite_warping.json"
+hash = "454a349c0db69c49ebd3b18d0bc225aad51f25a3fdc5916023760926cc2c7724"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/architects_palette/recipes/warping/onyx_from_granite_warping.json"
 hash = "345305b475e4b5aec3f41f7dfcddc018b35ca26c8455829d234b31687e96807b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/architects_palette/recipes/warping/warpstone_from_clay_warping.json"
+hash = "ade7b1f3d818ab45a86c6ed00122bf598d1fa8eabf046f0f178c24f07f9d2711"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/abstruse_platform.json"
@@ -2293,12 +2321,20 @@ file = "config/paxi/datapacks/compression/data/cb_microblock/recipes/diamond_saw
 hash = "8cb027076ec360ddae0411962a959cfe80e761b8863dbb92c12066dc088c7a1e"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/compressed_create_recipes/recipes/radiant_conversion/craterstone.json"
+hash = "684ef7392175170e7588d6f2141d134bc0c3c098c17ed2b30e870efd25ac5169"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/compressed_create_recipes/recipes/radiant_conversion/refined_radiance.json"
 hash = "e513f9e47d1619f5a89919c3275f619647debb2c587e503d01455ab8582a5de7"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/compressed_create_recipes/recipes/void_conversion/shadow_steel.json"
 hash = "8e0623dbdf8082fc62522269c7365b21656447ae48e51fa26b4542284a5a937c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressed_create_recipes/recipes/void_conversion/twisted_sapling.json"
+hash = "e2e985c351e87a20bf92fd212103b617c58bf389fc7e185bfe6bd0878d5d7a7e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/compressedbotanics/recipes/endoflame.json"
@@ -4273,6 +4309,18 @@ file = "config/paxi/datapacks/compression/data/minecraft/recipes/stonecutter.jso
 hash = "7fa33e68ebe01d4efcd6814cc84d8d9f1c62bd73fe67f00bb22ac0c69aee96c8"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/tinted_glass.json"
+hash = "ccf608a8e36293bf6632106dbdd62f4c1cc0bf33379eeab08342ac0abbc4041b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/tinted_glass_t1.json"
+hash = "8ad35cb1922cf84d4b5603e7a1e466984646622ac432451d443dceb5ff8ee95e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/tinted_glass_t2.json"
+hash = "e49c98a7a6d3e560c92e8a332a27a6485af260af67ae0305a77cf841a6561239"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/tnt.json"
 hash = "f32833e90069dc4c9524ae83ce191a72908e513fbda26db7024053f4b8bab9ad"
 
@@ -4743,6 +4791,10 @@ hash = "6fd592b16c1eace8abd5c3adf45314384316891f6f1ef8c0bf817f99456e8ddf"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/ink_t1.json"
 hash = "5bc85d35756e1355b3b14c59a2cbdaaf5247f904a116b94e6a7daf7f4ab540ee"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/laventine_smelt.json"
+hash = "0fcd21cf49d04f7f277b673e48257614b38038e770eebc207bec7424d5e73081"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/lithium_alumino_solution_neutralization.json"
@@ -8994,7 +9046,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "211e6d0ad1f6a2d5aba37df654b83d1c44f105f77b30fc4ae389b63f0c29b07d"
+hash = "51b6381215a8a982a0b90bdcc36e1285375c29667a12b76f55f3c077d69385ca"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
