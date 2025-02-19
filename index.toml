@@ -1245,6 +1245,38 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/hep
 hash = "89ea70f6b96dfd334932adb1aba600de78e787ca156f61e405db8d724077d28f"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/architects_palette/recipes/flint_block_uncraft.json"
+hash = "a8f88c5f8a8a49cdf1f07a4f5ada4604f3e221cb2555b33a9f53d4fc83b92d56"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/architects_palette/recipes/warping/chiseled_hadaline_bricks_from_chiseled_abyssaline_bricks_warping.json"
+hash = "30ca596e735c03471501d9042fc010cbb140c0f78e0edbabe668f31687f63009"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/architects_palette/recipes/warping/hadaline_bricks_from_abyssaline_bricks_warping.json"
+hash = "a20938be2cda66194697798a547e4beb599646bf470b63af8688feefa35edacd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/architects_palette/recipes/warping/hadaline_from_abyssaline_warping.json"
+hash = "f0974ea8dfcd92bb2cc24a32c15f68203aebb809c5700b826408e2a36bb7e57a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/architects_palette/recipes/warping/hadaline_pillar_from_abyssaline_pillar_warping.json"
+hash = "e0516d54fef6492832e5b1635a29cf4d4e8652e1ea051697f83c8a1af80a9e04"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/architects_palette/recipes/warping/hadaline_plating_from_abyssaline_plating_warping.json"
+hash = "78fecbaeb42f8025d219a8f2ee455cd199588de8726cf082e2858a90b42f8bab"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/architects_palette/recipes/warping/hadaline_tiles_from_abyssaline_tiles_warping.json"
+hash = "d9854cdbdede13a6b57a6e1487d13ad9a1420ff23b13702d58d84a757348409f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/architects_palette/recipes/warping/onyx_from_granite_warping.json"
+hash = "345305b475e4b5aec3f41f7dfcddc018b35ca26c8455829d234b31687e96807b"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/abstruse_platform.json"
 hash = "bc5c8003872e24d85219cdef5f0a0a00c2d908bb0f2a3b003e3378fefca7551c"
 
@@ -2327,6 +2359,22 @@ hash = "e8eb8eb574fdae3934eec47a1e047bede3e277bff5da0297abe5bf34f8e8ef0e"
 [[files]]
 file = "config/paxi/datapacks/compression/data/compressedengineering/recipes/assembler/shaped/single_use_mana_ablatives_demonstration.json"
 hash = "8163deddedb227702ae21d4604fa00114b5c7151698b1a03bf9df7dfb4994326"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/create/loot_tables/blocks/framed_glass.json"
+hash = "1b9aafcf98921550935e7d11d7772fb6910c5c17b7d5f3e3dfc507aa7b8f0458"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/create/loot_tables/blocks/horizontal_framed_glass.json"
+hash = "49b6ce17c8bc708fe19cdbf43616f1be56d529558ca3b5a18f9e8fb2fadd50c0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/create/loot_tables/blocks/tiled_glass.json"
+hash = "3748d9a5922ef8966a721c15da9e1a5b004d88d42043a6150cd5cbb6770c4d15"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/create/loot_tables/blocks/vertical_framed_glass.json"
+hash = "d166458d422ea0a4cb5ab76df02d4f66b272922a130a8c4bed0dee3c7255111d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/compacting/blaze_cake.json"
@@ -4557,6 +4605,38 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "0f99f1ec9464968d84c23f568127b2f01370513f4e79d1d3963e5ddd38cbd1bf"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/gems_to_dust/aquamarine_dust.json"
+hash = "feb5c252c59812091741a538e675027e52622f0b626b00676368d81bef77e3d7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/gems_to_dust/bixbite_dust.json"
+hash = "6e4d734b6115151b4f45003f89d16d099b3c5309136b90e09880b2605e2194a3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/gems_to_dust/goshenite_dust.json"
+hash = "40846790a4ae27d98ad16d2d6a254545a48de4d13531902753d37b29236413e6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/gems_to_dust/heliodor_dust.json"
+hash = "3c949d6b79f3c10ec5140ade12e95ffe60f479dc3b48928b7c3543e3745a9622"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/gems_to_dust/morganite_dust.json"
+hash = "865dc434af8032e5f6393e6c2cb5cb60126db410633d84c9ff04df3c072223bd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/gems_to_dust/pezzottaite_dust.json"
+hash = "3a31e1eba31099cccb0268dc2e104cf1ad2466f41c056ca41e93f19e1f0bbf0a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/gems_to_dust/ruby_dust.json"
+hash = "3cf6182db07a95d7440a3ca996952dd61d669e54d2b9bdfb43a838b96699c8fc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/gems_to_dust/sapphire_dust.json"
+hash = "30f37c658e5405bf917d71c46790558fd31c789d39281d5ba9dc85b104c9b017"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/soulsandl_to_soulsoil.json"
 hash = "71e7c3b6d9f9c6454d502d53e4f2380f57e868e604a9983e46bed34a7db1ef8a"
 
@@ -5043,6 +5123,14 @@ hash = "a61c5cb6a30f5ab7aba57723e8305ce26710fca03b133392bf9ce7fa2af930f0"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/furnacing/livisite_blasting_furnace.json"
 hash = "b8a450da43f833222ad23ed71c223234b66d08db3cb47a19b064088b1ed0f8b3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/furnacing/raw_zinc_ore.json"
+hash = "930777fdd090c3711f754dad5b36fe7a89c649968fc4bad45ca1aa7d5df4fb2b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/furnacing/raw_zinc_ore_block.json"
+hash = "9d5c0829dec9dbdbba07da2da90548f0beda02b61297054888a2cc3486fd24ed"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/arcfurnace/1080_fast.json"
