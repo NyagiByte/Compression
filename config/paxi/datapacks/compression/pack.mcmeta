@@ -54,6 +54,9 @@
 		{"namespace": "architects_palette", "path": "warping/twisted_planks_from_planks.json"},
 		{"namespace": "architects_palette", "path": "warping/twisted_leaves_from_leaves.json"},
 		{"namespace": "architects_palette", "path": "warping/twisted_sapling_from_saplings.json"},
+		{"namespace": "architects_palette", "path": "warping/moonshale_bricks_from_stone_bricks_warping.json"},
+		{"namespace": "architects_palette", "path": "warping/moonshale_from_stone_warping.json"},
+		{"namespace": "architects_palette", "path": "warping/craterstone_from_cobblestone_warping.json"},
 
 		{"namespace": "minecraft", "path": "recipes/wooden_sword.json"},
 		{"namespace": "minecraft", "path": "recipes/wooden_axe.json"},
