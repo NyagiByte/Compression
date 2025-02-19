@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:amethyst_block"
+    }
+  ],
+  "results": [
+    {
+      "count": 8,
+      "item": "abyssal_decor:laventine"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"minecraft:amethyst_shard"},
+    "B": {"item":"botania:mana_glass"}
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "count": 32,
+    "item": "minecraft:tinted_glass"
+}
+}
