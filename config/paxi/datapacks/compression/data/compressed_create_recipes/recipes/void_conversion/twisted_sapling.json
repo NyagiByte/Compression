@@ -1,0 +1,11 @@
+{
+  "type": "compressed_create_recipes:void_conversion",
+  "input": {
+    "item": "nyagibits_bytes:raw_petrified_wood",
+    "count": 1
+  },
+  "output": {
+    "item": "architects_palette:twisted_sapling",
+    "count": 1
+  }
+}

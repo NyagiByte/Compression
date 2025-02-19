@@ -47,7 +47,13 @@
 		{"namespace": "thermal", "path": "recipes/machines/press/packing3x3/press_potato_packing.json"},
 
 		{"namespace": "architects_palette", "path": "recipes/charcoal_block.json"},
+
 		{"namespace": "architects_palette", "path": "smelting/charcoal_block_from_logs_that_burn_smoking.json"},
+
+		{"namespace": "architects_palette", "path": "warping/twisted_log_from_logs.json"},
+		{"namespace": "architects_palette", "path": "warping/twisted_planks_from_planks.json"},
+		{"namespace": "architects_palette", "path": "warping/twisted_leaves_from_leaves.json"},
+		{"namespace": "architects_palette", "path": "warping/twisted_sapling_from_saplings.json"},
 
 		{"namespace": "minecraft", "path": "recipes/wooden_sword.json"},
 		{"namespace": "minecraft", "path": "recipes/wooden_axe.json"},
