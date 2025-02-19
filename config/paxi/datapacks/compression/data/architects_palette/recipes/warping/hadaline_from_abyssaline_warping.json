@@ -1,0 +1,13 @@
+  {
+    "type": "create:haunting",
+    "ingredients": [
+      {
+        "item": "architects_palette:abyssaline"
+      }
+    ],
+    "results": [
+      {
+        "item": "architects_palette:hadaline"
+      }
+    ]
+  }

@@ -1,0 +1,13 @@
+  {
+    "type": "create:haunting",
+    "ingredients": [
+      {
+        "item": "architects_palette:chiseled_abyssaline_bricks"
+      }
+    ],
+    "results": [
+      {
+        "item": "architects_palette:chiseled_hadaline_bricks"
+      }
+    ]
+  }
