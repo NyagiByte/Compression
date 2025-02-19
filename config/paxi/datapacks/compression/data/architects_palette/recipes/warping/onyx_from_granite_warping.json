@@ -1,0 +1,15 @@
+{
+	"type":"vintageimprovements:vibrating",
+	"ingredients": [ 
+		{
+			"item": "nyagibits_bytes:morganite_dust"
+		}
+	],
+	"results": [
+		{
+			"item": "architects_palette:onyx",
+			"count": 4
+		}
+	],
+	"processingTime": 300
+}
