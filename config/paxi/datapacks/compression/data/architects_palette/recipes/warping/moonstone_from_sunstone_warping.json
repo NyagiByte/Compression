@@ -1,0 +1,13 @@
+  {
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "architects_palette:sunstone"
+      }
+    ],
+    "results": [
+      {
+        "item": "architects_palette:moonstone"
+      }
+    ]
+  }
