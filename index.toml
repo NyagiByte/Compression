@@ -1241,8 +1241,16 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier.jso
 hash = "d1c478dba6938ed37ebf71f7cda51c23d32dc1a3b402956b4c385997d8366847"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/formaldehyde_fluid.json"
+hash = "49686a75d7017f8c3e654a6a66b2065559529200385d4c7494e0d45632d59ed7"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/heptafluoropropane_fluid.json"
 hash = "89ea70f6b96dfd334932adb1aba600de78e787ca156f61e405db8d724077d28f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/methylethyl_ketone_fluid.json"
+hash = "72265c01239f1bda80089c1ad34f9604ac2a7a834835107f62e1f0dbcac06180"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/architects_palette/recipes/dripstone_lamp.json"
@@ -3061,6 +3069,42 @@ file = "config/paxi/datapacks/compression/data/curios/tags/items/ring.json"
 hash = "a7a73ee86d50b2d5b78c73dfb71c05f87b8eb216b8440b72c4f6bb9747733777"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/decorative_blocks/recipes/acacia_beam.json"
+hash = "59d3c3313c9d44c4394a3511b4cf0d14e1beda2f54b9eecb92e3b69696aa4890"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/decorative_blocks/recipes/birch_beam.json"
+hash = "1dfd6a1a636151cb5812b7e8fffd7c805c6168e99d811fb24bebc39e3c7245ad"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/decorative_blocks/recipes/crimson_beam.json"
+hash = "7d0e928c9adebe5a217b1ad46af0fd0f80cd2cfa2d190eb05c98990196edcee2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/decorative_blocks/recipes/dark_oak_beam.json"
+hash = "9d484aa73a05d2293e531e04a3ba2701b99c2331e199cea2e2309a373da40e52"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/decorative_blocks/recipes/jungle_beam.json"
+hash = "7f46673c5641d38cbf561bf1a4bc77d8c46d15d6241e30b79ded0a3d8cc57ce7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/decorative_blocks/recipes/mangrove_beam.json"
+hash = "b0e943b78c34c532aa4ecddf9aac0e290169c553adae160667c380315827496c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/decorative_blocks/recipes/oak_beam.json"
+hash = "3966d040888cf0548811ebc9478d39a613ad51fa2913468077407a16902755bd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/decorative_blocks/recipes/spruce_beam.json"
+hash = "071ccea7a7b08c17b19e8b7ea6eca6e0d7643b9732df78a692aeecbb1676062f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/decorative_blocks/recipes/warped_beam.json"
+hash = "175d97d79e54716052929a2393cfc684ba0f0958f31d3402051add920fc5fe39"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/entangled/recipes/block.json"
 hash = "fe6f304026a26d62bcffbd7d70288da6d1e9b8c6aedc1143df4141c4c24eb8a1"
 
@@ -3403,6 +3447,94 @@ hash = "d270d75f52b80bb75f24e1d4e88cd54cc886951c01dd6a27a4959754cff7e725"
 [[files]]
 file = "config/paxi/datapacks/compression/data/gardenofglass/loot_tables/pebbles.json"
 hash = "9c213a631283125d1123361e069eca8ad2b2e26d3577fba4a917a00883439b6c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/acacia_parquet.json"
+hash = "68d06c6671415e46277e33b60150518e0a08e5f492a8ca141db8f0b432275e29"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/acacia_sanded_wood.json"
+hash = "2b48796d49b118439f6b6e1a6fa0c6289c3e6bb69198ec0b99e8a8fb53121856"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/birch_parquet.json"
+hash = "7903468aff62b6eb9642faa8ff2fb9fe5827fc355ff6fe60a0b156e291bb3556"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/birch_sanded_wood.json"
+hash = "3a5bef1553c4b6ef709d6b5d058fc3a0e2a2ac852b6a209fa2781250eeaf0407"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/cobblestone_bricks.json"
+hash = "9aa3e45beea2724d5571c7a6d296a11fc1f54a7e1e7d88b99893b68787e0903e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/crimson_parquet.json"
+hash = "5ff1c6d53ce998669a0f8e2db6d31bfa7c6692e9fa1d335f3fc628eb7311606f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/crimson_sanded_wood.json"
+hash = "58ce0ffa07e7619f264d30de2594a9bcd12196a0ac6eea07cb51aa19b2e9446c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/dark_oak_parquet.json"
+hash = "7421d61c9f912b32d9660f7ea389b102830ec1eab8ef1e0f05f656afcc707f8e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/dark_oak_sanded_wood.json"
+hash = "5a6cbd233eb590606867249201d1b11b07872b32d49e36f6e334e0d12855f7c5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/jungle_parquet.json"
+hash = "2da6df96208ec58eff94f9363122e256d93dd05bb84feffade3cb54060288198"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/jungle_sanded_wood.json"
+hash = "674589d985ebfe90c2386424582a8f152e981d24d5d0ecb59d986f300b75fbdd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/mangrove_parquet.json"
+hash = "8b319807aa3962828efb160959bddccc48e6468c9a7f593bf8042889c199e39d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/mangrove_sanded_wood.json"
+hash = "9b34edadfc97d81750dc7519ca0626a581996c61d725fb97e59c187bcf032956"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/oak_parquet.json"
+hash = "6352954f116a7068f9dcadfcd17e24578d55e5abd7016ac8fba533f0b0fa41dc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/oak_sanded_wood.json"
+hash = "3dc08f1da12fa2a5b29c57a23cc534249e4a1be44c331713284752c50d4748fa"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/polished_calcite.json"
+hash = "5d612f1659b6cf0ee8597ca73f44c25b69d18ba75977d26752fe104bbffb095c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/shoji.json"
+hash = "4a0b6cfb46b55c403ddb56c97e11d07a601f2972e3d1c2d676794df888aff2ce"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/shoji_t1.json"
+hash = "0b8c5bba9108a4410b45632335c906bb8d76a6a9e0ec3bd4929908556cc25e6d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/spruce_parquet.json"
+hash = "6a4dfbe4ab2e9439b68c35ebd25728947bc0d8e3da2fbb4da2267cb7fcbf0e85"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/spruce_sanded_wood.json"
+hash = "532ffa74e17db1a563fd53fb476837ab1fa74af8c153c8dcd62f8136f70ecb1a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/warped_parquet.json"
+hash = "176cae27981d90cb742f0c20c202135b1d206f5d97e71faf0cb31ca1dc345295"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/hnh/recipes/warped_sanded_wood.json"
+hash = "cd2e2e1bf11a9c15f0d687cd167269da40a476d601abec147dbd915f84648de2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/functions/load.mcfunction"
@@ -9246,7 +9378,7 @@ hash = "7de648a7661e9f3f7fc51b117c16abd832fc5de6491bf199f9bff0ab192bf46a"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/alchemistry/lang/en_us.json"
-hash = "875c00a494c9241a4dcae4f26b35b1e78a1ef1a7c5f07186b92fe1a92f687bcd"
+hash = "4b1c2817d28741ff7766c56ffe03f346f425c219b0ce4399474da9ae50fb9cd1"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/chemlib/lang/en_us.json"
@@ -9255,6 +9387,10 @@ hash = "80e62be37469b6fc605170a97bcb42a41fea415aad3c544dc4b6c383434cab99"
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/create/lang/en_us.json"
 hash = "b6be4ed8bbb5f92ad52eb330e64de8ece85c0337f403eac8b5e829fe5ec5cea4"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/hnh/lang/en_us.json"
+hash = "c0956aba8bd98dddd3281f8e2f12feeac103c97c874d5c72232b19cd843ad672"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/lang/en_us.json"
@@ -9466,7 +9602,7 @@ hash = "67c90bbdfca3c7488d9496df0af4d1be7483634a0c4d179281d1c7c91ef32e7b"
 
 [[files]]
 file = "config/starterkit/kits/Kit_1.txt"
-hash = "29ef0ee4a59de8c2d49f40956634041041c7ab8ea21a36691c57803175f013cd"
+hash = "3ea982ed3e773aec74e3f226272cebf2f3bf640cd2039ae60a8bbe838f6748c3"
 
 [[files]]
 file = "config/theoneprobe-client.toml"
@@ -10388,6 +10524,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "4638b07d166445da41d0f17e4300592be3592c4b62214081197794bd577443e4"
+metafile = true
+
+[[files]]
+file = "mods/hearth-and-home.pw.toml"
+hash = "a8f3354fb216e720951bc3c745184cc4aac36015095673cc769805a20ffc621a"
 metafile = true
 
 [[files]]
