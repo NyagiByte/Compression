@@ -1,9 +1,9 @@
 {
     "type": "minecraft:blasting",
     "cookingtime": 100,
-    "experience": 1.0,
+    "experience": 0.7,
     "ingredient": {
-      "item": "create:raw_zinc"
+      "tag": "forge:dusts/zinc"
     },
     "result": "chemlib:zinc_ingot"
   }

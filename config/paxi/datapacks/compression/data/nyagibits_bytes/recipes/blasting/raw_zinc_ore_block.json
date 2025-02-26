@@ -1,9 +1,9 @@
 {
     "type": "minecraft:blasting",
     "cookingtime": 100,
-    "experience": 9.0,
+    "experience": 6.3,
     "ingredient": {
-      "item": "create:raw_zinc_block"
+      "tag": "forge:storage_blocks/raw_zinc"
     },
     "result": "chemlib:zinc_metal_block"
-  }
+}

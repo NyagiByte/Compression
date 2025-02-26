@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": "botania:livingwood"
+      }
+    ],
+    "result": [
+      {
+        "item": "botania:stripped_livingwood"
+      },
+      {
+        "item": "farmersdelight:tree_bark"
+      }
+    ],
+    "sound": "minecraft:item.axe.strip",
+    "tool": {
+      "type": "farmersdelight:tool_action",
+      "action": "axe_strip"
+    }
+}

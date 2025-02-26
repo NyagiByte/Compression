@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": "botania:glimmering_livingwood_log"
+      }
+    ],
+    "result": [
+      {
+        "item": "botania:glimmering_stripped_livingwood_log"
+      },
+      {
+        "item": "farmersdelight:tree_bark"
+      }
+    ],
+    "sound": "minecraft:item.axe.strip",
+    "tool": {
+      "type": "farmersdelight:tool_action",
+      "action": "axe_strip"
+    }
+}
