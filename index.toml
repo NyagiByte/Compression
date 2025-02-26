@@ -10277,6 +10277,11 @@ hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
 metafile = true
 
 [[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
+metafile = true
+
+[[files]]
 file = "mods/defaultworldtype.pw.toml"
 hash = "d708009877968995fedd40faff70f54dfb32707e1ea0908ca643a27c69d2c1b5"
 metafile = true
