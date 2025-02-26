@@ -10068,6 +10068,11 @@ hash = "d83fccfbefa34aae187e64c16dd91a4416a276de4603397a94b2706ccc2667a8"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "bfdcda0353b9923eaadc816f8168b88828c17675a35833323ea93d9faf7e0d59"
+metafile = true
+
+[[files]]
 file = "mods/applied-botanics-addon.pw.toml"
 hash = "73cf97348874724f2b0891f5fe663eaed8dc510e0e8f869c49bde79eacd8475c"
 metafile = true
