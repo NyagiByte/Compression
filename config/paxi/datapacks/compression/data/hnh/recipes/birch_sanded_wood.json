@@ -1,0 +1,9 @@
+{
+    "type": "create:sandpaper_polishing",
+    "ingredients": [
+      {"item": "minecraft:birch_planks"}
+    ],
+    "results": [
+      {"item": "hnh:birch_sanded_wood"}
+    ]
+  }

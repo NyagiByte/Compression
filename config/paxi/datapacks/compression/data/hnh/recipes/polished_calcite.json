@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"minecraft:calcite"}
+    },
+    "pattern": [
+      "A A",
+      "   ",
+      "A A"
+    ],
+    "result": {
+      "count": 4,
+      "item": "hnh:polished_calcite"
+  }
+  }

@@ -1,0 +1,13 @@
+name = "Hearth & Home"
+filename = "hearth_and_home-forge-1.19.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "681dcc9f6d9b2f751b36c0c94fd17239e13ddd60"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4488854
+project-id = 849364

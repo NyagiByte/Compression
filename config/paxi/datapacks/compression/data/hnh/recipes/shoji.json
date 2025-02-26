@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"minecraft:stick"},
+      "B": {"item":"farmersdelight:canvas"}
+    },
+    "pattern": [
+      "BA",
+      "AB"
+    ],
+    "result": {
+      "count": 4,
+      "item": "hnh:shoji"
+  }
+  }

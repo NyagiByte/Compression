@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"minecraft:stick"},
+      "B": {"item":"minecraft:paper"}
+    },
+    "pattern": [
+      "BA",
+      "AB"
+    ],
+    "result": {
+      "count": 16,
+      "item": "hnh:shoji"
+  }
+  }

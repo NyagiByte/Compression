@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"minecraft:dark_oak_slab"}
+    },
+    "pattern": [
+      "A A",
+      "   ",
+      "A A"
+    ],
+    "result": {
+      "count": 2,
+      "item": "hnh:dark_oak_parquet"
+  }
+  }
