@@ -614,6 +614,17 @@
 
 		{"namespace": "create", "path": "recipes/empty_botania_water_bowl_of_minecraft_water.json"},
 
+		{"namespace": "createdeco", "path": "recipes/pressing/cast_iron_coin.json"},
+		{"namespace": "createdeco", "path": "recipes/pressing/zinc_coin.json"},
+		{"namespace": "createdeco", "path": "recipes/pressing/copper_coin.json"},
+		{"namespace": "createdeco", "path": "recipes/pressing/brass_coin.json"},
+		{"namespace": "createdeco", "path": "recipes/pressing/iron_coin.json"},
+		{"namespace": "createdeco", "path": "recipes/pressing/gold_coin.json"},
+		{"namespace": "createdeco", "path": "recipes/pressing/netherite_coin.json"},
+
+		{"namespace": "createdeco", "path": "recipes/compacting/cast_iron_ingot.json"},
+		{"namespace": "createdeco", "path": "recipes/compacting/cast_iron_block.json"},
+
 		{"namespace": "tesseract", "path": "recipes/tesseract.json"},
 
 		{"namespace": "ae2", "path": "recipes/inscriber/sky_stone_dust.json"},

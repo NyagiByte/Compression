@@ -134,7 +134,7 @@ hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "716947640aed81abd7a97e354fdea195f81c7ab276600f68348f53917b0fc131"
+hash = "b470d0bb09442f3ee39e396fb758ab7eba9f06463200a301fd4368eef9cf944b"
 
 [[files]]
 file = "config/botania-client.toml"
@@ -9370,7 +9370,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "51b6381215a8a982a0b90bdcc36e1285375c29667a12b76f55f3c077d69385ca"
+hash = "8be6fd1cc3a76ef97a86342181ab2cb8673152ccf8cf9bb43ec2f002954ad21c"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -10585,13 +10585,18 @@ hash = "dc75cafc8c3f01ae11ec938ff44ca39e898d8667f0467a9fdfe80d2750c41c4d"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "b0bb61105e0ac0c763edfa41ea5b0406f157bc17e421af1bf8b2cbb49325ced6"
+metafile = true
+
+[[files]]
 file = "mods/create-vintage-improvements.pw.toml"
 hash = "810224c7dcb41a05c279b4a432f046949ddab698ed6fc29e6c0f8afb483c4bb2"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9e8d09c69fad6e8d47179dacbefb0a0dd8fa69a829ec12ecf6834c6a3ae855d7"
+hash = "3b323331e2ebcd03843ee1a7e783290025750f67091c22e717bb29248dea61f6"
 metafile = true
 
 [[files]]
