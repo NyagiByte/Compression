@@ -94,6 +94,6 @@
   "ignoredRecipeTypes": [
     "cucumber:shaped_tag"
   ],
-  "ignoredRecipes": ["nyagibits_bytes:blasting/raw_zinc_ore_blasting"],
+  "ignoredRecipes": ["nyagibits_bytes:blasting/raw_zinc_ore"],
   "itemsHidingJeiRei": true
 }
