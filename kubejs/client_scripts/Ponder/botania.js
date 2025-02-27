@@ -70,31 +70,31 @@ Ponder.registry((e) => {
                 scene.overlay.showOutline(PonderPalette.WHITE, "airgap", [3,1,3], 60);
                 scene.text(60, "This is a Pure Daisy it is a Functional Flower that changes blocks or fluids placed around it", [3,1.5,3]);
                 scene.idle(70);
-                scene.world.setBlock([2,1,2], "minecraft:stone",true);
+                scene.world.setBlock([2,1,2], "minecraft:smooth_stone",true);
                 scene.world.showSection([2,1,2], Facing.down);
                 scene.idle(5);
-                scene.world.setBlock([3,1,2], "minecraft:stone",true);
+                scene.world.setBlock([3,1,2], "minecraft:smooth_stone",true);
                 scene.world.showSection([3,1,2], Facing.down);
                 scene.idle(5);
-                scene.world.setBlock([4,1,2], "minecraft:stone",true);
+                scene.world.setBlock([4,1,2], "minecraft:smooth_stone",true);
                 scene.world.showSection([4,1,2], Facing.down);
                 scene.idle(5);
-                scene.world.setBlock([4,1,3], "minecraft:stone",true);
+                scene.world.setBlock([4,1,3], "minecraft:smooth_stone",true);
                 scene.world.showSection([4,1,3], Facing.down);
                 scene.idle(5);
-                scene.world.setBlock([4,1,4], "minecraft:stone",true);
+                scene.world.setBlock([4,1,4], "minecraft:smooth_stone",true);
                 scene.world.showSection([4,1,4], Facing.down);
                 scene.idle(5);
-                scene.world.setBlock([3,1,4], "minecraft:stone",true);
+                scene.world.setBlock([3,1,4], "minecraft:smooth_stone",true);
                 scene.world.showSection([3,1,4], Facing.down);
                 scene.idle(5);
-                scene.world.setBlock([2,1,4], "minecraft:stone",true);
+                scene.world.setBlock([2,1,4], "minecraft:smooth_stone",true);
                 scene.world.showSection([2,1,4], Facing.down);
                 scene.idle(5);
-                scene.world.setBlock([2,1,3], "minecraft:stone",true);
+                scene.world.setBlock([2,1,3], "minecraft:smooth_stone",true);
                 scene.world.showSection([2,1,3], Facing.down);
                 scene.idle(5);
-                scene.text(60, "Now we wait for a short period of time and the stone should be changed into livingrock", [3,1.5,3]);
+                scene.text(60, "Now we wait for a short period of time and the smooth stone should be changed into livingrock", [3,1.5,3]);
                 scene.idle(70);
                 scene.particles.block(5, "botania:livingrock", [2.5,1.5,2.5]).density(5);
                 scene.world.modifyBlock([2,1,2], () => Block.id("botania:livingrock"), true);
@@ -123,6 +123,7 @@ Ponder.registry((e) => {
                 scene.markAsFinished()
             });
     //Endoflame
+    /*
         e.create("botania:endoflame")
             .scene("Endoflame", "Generating Mana", "kubejs:botania_7x7", (scene, util) => {
                 scene.showBasePlate();
@@ -154,7 +155,7 @@ Ponder.registry((e) => {
                 scene.particles.simple(20, "glow", [3, 1.5, 3]).physics(false).area([1,1.5,3])
                 });
                 scene.markAsFinished()
-            })
+            })*/
             //.scene("Endoflame Decay","Decaying Flowers", "kubejs:botania_7x7", (scene, util) => {
 
 
