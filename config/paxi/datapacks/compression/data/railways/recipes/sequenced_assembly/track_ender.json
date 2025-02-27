@@ -1,0 +1,17 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "create:track"
+      },
+      {
+        "item": "minecraft:end_stone"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "railways:track_ender"
+      }
+    ]
+  }

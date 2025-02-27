@@ -1,0 +1,17 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "create:track"
+      },
+      {
+        "item": "handcrafted:warped_board"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "railways:track_warped"
+      }
+    ]
+  }

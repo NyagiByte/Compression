@@ -1,0 +1,17 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "create:track"
+      },
+      {
+        "item": "everycomp:hc/byg/cypress_board"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "railways:track_byg_cypress"
+      }
+    ]
+  }

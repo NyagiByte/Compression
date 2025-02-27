@@ -1,0 +1,17 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "railways:track_tieless"
+      },
+      {
+        "item": "minecraft:gravel"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "create:track"
+      }
+    ]
+  }

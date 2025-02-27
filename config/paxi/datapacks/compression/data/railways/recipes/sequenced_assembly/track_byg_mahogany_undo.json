@@ -1,0 +1,19 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "railways:track_byg_mahogany"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "create:track"
+      },
+      {
+        "chance": 0.5,
+        "count": 1,
+        "item": "everycomp:hc/byg/mahogany_board"
+      }
+    ]
+  }

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "count": 1,
+    "ingredient": {
+      "item": "railways:track_crimson_narrow"
+    },
+    "result": "railways:track_crimson"
+  }

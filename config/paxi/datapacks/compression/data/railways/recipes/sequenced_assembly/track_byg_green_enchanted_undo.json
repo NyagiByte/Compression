@@ -1,0 +1,19 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "railways:track_byg_green_enchanted"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "create:track"
+      },
+      {
+        "chance": 0.5,
+        "count": 1,
+        "item": "everycomp:hc/byg/green_enchanted_board"
+      }
+    ]
+  }

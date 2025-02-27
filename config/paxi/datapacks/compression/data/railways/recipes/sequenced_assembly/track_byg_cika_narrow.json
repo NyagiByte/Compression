@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "count": 1,
+    "ingredient": {
+      "item": "railways:track_byg_cika"
+    },
+    "result": "railways:track_byg_cika_narrow"
+  }

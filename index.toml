@@ -1117,6 +1117,10 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/combiner/nitr
 hash = "eceee7b60fc898b5f0c174c6b861819abb1b7d0c49f748119388d2fb493c883a"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/combiner/rubber.json"
+hash = "bb0c6d0e10f696c489c71a731fda7c0678596368bc6cd5848950eb1f5c2166a9"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/combiner/sulfur_trioxide.json"
 hash = "34f0b81a631c71ecbdcd57ae1ae50078411841e1eaf5a57ae0a2afa790bfb727"
 
@@ -5481,6 +5485,22 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/custom_fl
 hash = "92b10162b3007faf4f5450830954237d153686bef77c21ed135e0cc3488a2fea"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/furnacing/livisite_blasting.json"
+hash = "a61c5cb6a30f5ab7aba57723e8305ce26710fca03b133392bf9ce7fa2af930f0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/furnacing/livisite_blasting_furnace.json"
+hash = "b8a450da43f833222ad23ed71c223234b66d08db3cb47a19b064088b1ed0f8b3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/furnacing/raw_zinc_ore.json"
+hash = "930777fdd090c3711f754dad5b36fe7a89c649968fc4bad45ca1aa7d5df4fb2b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/furnacing/raw_zinc_ore_block.json"
+hash = "9d5c0829dec9dbdbba07da2da90548f0beda02b61297054888a2cc3486fd24ed"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/arcfurnace/1080_fast.json"
 hash = "16aa98e9fddd29168352c7919a41c00d94ee833f2ebfb3a2daf1ed4f9f6d079d"
 
@@ -8709,6 +8729,1042 @@ file = "config/paxi/datapacks/compression/data/quark/tags/items/posts.json"
 hash = "10602cba320e3bc05e2066806f7c5a16c1d51b18b7490cf95fb2c328fc3c1fc1"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_acacia.json"
+hash = "956bd92e4fdc7838cf1855152694346e94ba79bfa6f6e6908ff0c592d0e3a562"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_acacia_narrow.json"
+hash = "1b6d430747fe1508c36cf2cb8e1694021b1df35fe25e862fe03290449e595a69"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_acacia_narrow_undo.json"
+hash = "efc5c4476874ff889795c013272fc244e6f84f2f155b5063a5a5b8b3f157109c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_acacia_undo.json"
+hash = "e65875d9eb01376e58c42e4e16f1f627979e6eac67d37c0b1ba957453954cad5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_acacia_wide.json"
+hash = "36e696874f5f7a39b7ac1a74afa10ae382b4eaf4806d9cf9e775ab3e41e531f9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_acacia_wide_undo.json"
+hash = "76ce755d4c9e0c81b40789cd2ec2633e2febf7d1d8c1585e36b44f864bb94105"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_birch.json"
+hash = "18afad530a7c6e7d300077925691f296edd71c9292a3294a3b3eacaebc4e7e3a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_birch_narrow.json"
+hash = "59f8f45c2bfb947698df6ae72c8a6f05a18eb39976e7a31241ddf5bb56641587"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_birch_narrow_undo.json"
+hash = "6bffe0b00ad00aa495ac61378802001327c70a84f8cbbaf36f40394675ebc5a3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_birch_undo.json"
+hash = "7349cb9295e63981875fdaa063cc6a1dd9d26560833b04e57366894cf2127cc9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_birch_wide.json"
+hash = "4feec9468af4a560b9ecc77d3e534798b458de542f660d40ecf75d1cb2dcb2d3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_birch_wide_undo.json"
+hash = "d788973b5d50c9c95bb1b1178f97b81b2d43c14f55d29b4db3ff38eb38496f73"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_blackstone.json"
+hash = "996cd348990deadd3fbfe7ebe6683e75c982500bfc5beacfce9e1977aa6eb8ca"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_blackstone_narrow.json"
+hash = "6c4e88420bd985f8490534059b4ee1d906f223a2c0a1121641c1cafb618319db"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_blackstone_narrow_undo.json"
+hash = "62801d317fc483ce92caef29815791ac0a42522e40e90c8e2ecb0a3396f3ca54"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_blackstone_undo.json"
+hash = "697892e502376060e88a751326d88b622d7f2cd73f060220499ab08b079b36f2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_blackstone_wide.json"
+hash = "fe891ec42379cb4dd139c237f916fe81ae33808cd49fd0cb8c6d45f5aa6eb228"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_blackstone_wide_undo.json"
+hash = "c8fa4a54ea646052af5c4d002f9906ba5a171497b42b388ee694d989d368784d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_aspen.json"
+hash = "2131c3c9716678720c0de139ceca7d1fe1466434e1d3b59a74f3d4d8117bd1d8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_aspen_narrow.json"
+hash = "df4d79cec499a553f303d250e873dac9fc67db16dda41c59cd3df3a719fbcdbd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_aspen_narrow_undo.json"
+hash = "660dd8068df181e04f409c8bbcf22765dde7ca1abaf72ece6e188e38b5ce380a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_aspen_undo.json"
+hash = "20b5257af792e1a2b6f32ff6a7d09770ee4335aab82e3573b51ce26364d0a9bf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_aspen_wide.json"
+hash = "b7fe2ef7736fa92aa306763382e2d31c0d29b1e41034944c659adbb40fe1bb96"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_aspen_wide_undo.json"
+hash = "4cacf0949d7fea804220f8f53c35de6b77472e1b93e449e7aad37c7771865ad0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_baobab.json"
+hash = "c9f5167cae1ba88f0d4edde1fb7d9226ef126aefde9e0f4b0ddee66351185f09"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_baobab_narrow.json"
+hash = "8774c7df3bbf6e8ed86d37373542aa6d3f73bf0a6e7b506931762089b376e9fe"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_baobab_narrow_undo.json"
+hash = "660dd8068df181e04f409c8bbcf22765dde7ca1abaf72ece6e188e38b5ce380a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_baobab_undo.json"
+hash = "ea5064f8249a33f8ddd41d6a2fd908372fc7ef944124b58037bad375b6e47927"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_baobab_wide.json"
+hash = "2d5b678c231edd8a7ceb83854c882b237e1e513180bf116e4818179df284af85"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_baobab_wide_undo.json"
+hash = "96153c08527996b94d6e8db08c11861af80819dab0270c9b62b9562a4928de08"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_blue_enchanted.json"
+hash = "eca9b3839ce83f12a79374d0c69a9099c0923890be4d21a65e32f612881bd72b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_blue_enchanted_narrow.json"
+hash = "2e34720b4dcdcd261eaa8bb1bd04794b60ca781bef954db0273f9f1fd948f4bd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_blue_enchanted_narrow_undo.json"
+hash = "e3f800ca3fd27b51a97356b58dfb7790be047b4de63f338860bdf667260f960f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_blue_enchanted_undo.json"
+hash = "7768c5d47d3f737db7e8fa72815f66db0df5c3e3b5f29da29ca6f9ac49e56592"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_blue_enchanted_wide.json"
+hash = "7d4a669a6dbed2870303c3b08abf1c76f11ae96ae8e2f3ca694822355bcc13a5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_blue_enchanted_wide_undo.json"
+hash = "ebd95d190e2bc0746c3cd82cfeb3ce6a1c231f47a4e7a3f36b64eb9157b0c350"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_bulbis.json"
+hash = "d13601baa0791fb58cb3f905406c5b9f1676e8dd717b60baca2edcdf2bca9399"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_bulbis_narrow.json"
+hash = "3315b31dd98753baf1840ee4dfaa32034b87a98990ce53c846cc70a9990491b1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_bulbis_narrow_undo.json"
+hash = "300a892b0e08025aa93888232dae5ebd0f700e8ffffab5281e9a739626e8c850"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_bulbis_undo.json"
+hash = "8afee1d9bbb1b8633ef9c4b0a8a5e79da7273c75b3d84b7500dc0b50eb72ee86"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_bulbis_wide.json"
+hash = "d3f2f502d9106e6f9cfef7c90bb3ee8c24a5e6103f43717d5eefd24fa34c2d88"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_bulbis_wide_undo.json"
+hash = "b5af32455890344a4895a80c176c7ce54a77c55fa928a7802bc1b453be182660"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_cherry.json"
+hash = "8e58efdfaa6a5eee0eb97ec1673f6b1363a95220fc9b61c7623277c05f44dbb2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_cherry_narrow.json"
+hash = "b406db05d862f9f4c84c520b75fb35d8d8e42a6fb94bca926c50837ed12b57a9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_cherry_narrow_undo.json"
+hash = "efd2d2df9eb83c13242a2af16c68d4b7f1ef1638168a4a9a99bc9afc4beb0654"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_cherry_undo.json"
+hash = "22e46419eb60e8a9c33e3d84224ee97f82af6eb058cbb0df065e96ca8fe3b462"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_cherry_wide.json"
+hash = "60ebdede864b3c662479ca13ab2ef9177998eab2642dd99c6d1cf1fac58bc8e7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_cherry_wide_undo.json"
+hash = "56fe73830ef2bb59e806942b9c4ea4982bd59b4ccc0c43882b0704d9e5b10bbf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_cika.json"
+hash = "2718148fc1dc0c35e2cbb076b78ef530c00bb01a20b4f2db2e20e698f3bc99fc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_cika_narrow.json"
+hash = "80fe3ce3f9b5e362a655c5cf5d5d4839feba0da91a1fa2aa758371394c3fb585"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_cika_narrow_undo.json"
+hash = "939b1e0042063fc6e2330c674c702caa74fc4551e27376569429b167b16802a4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_cika_undo.json"
+hash = "31a890f144c4373c3c9a29f2a13356c19209ca6309fbaa2dc075ddbc462053a4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_cika_wide.json"
+hash = "3001ca563437563fef4e93d1fbd6650c990ffa54600e7e518d43ae3103188290"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_cika_wide_undo.json"
+hash = "554f0762c66779d82576a6c3acbe72c59084390524c87fd601dcb10603e8ebda"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_cypress.json"
+hash = "7c44fade9b21aae4cf5f8cbafaea680a7953ae21e71951792ab0e6ee08bf95d2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_cypress_narrow.json"
+hash = "1bd068980aaf51ee0fac1715a6a2bcf10ec20577096b2a6e6f4942322ea3ad4e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_cypress_narrow_undo.json"
+hash = "8f8c09513e6e8a15ef57669a7b7e28a41ffc7da478012236acce4a3c1d1c559c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_cypress_undo.json"
+hash = "0bb52253d75c9f390bbbf9e2567ff809fba8a1b6e23780f902cf4f446eb06a37"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_cypress_wide.json"
+hash = "316e8ab8097302951543f1e695e636a669e5fcdd72dff272c734949f72843d96"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_cypress_wide_undo.json"
+hash = "857837c80a29cd049a2e364c733dfe9acebaee6c587856bc82f84f86088eb689"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_ebony.json"
+hash = "86f461eccdf78a7b7b573e65de5fa0063628adcced6a640752e63499d4173924"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_ebony_narrow.json"
+hash = "eb63c94319f7c754380ddbd8e9768c6d97517cc60c30e724323b505d6a3e94d2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_ebony_narrow_undo.json"
+hash = "c5075c9dd9cbd20637a2ff69ccc69919c8b75cf43c81ded21188e778cfd7d5fe"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_ebony_undo.json"
+hash = "1f019abb8ad9be937cb5832f98feba984fd6a0438f11e8e189db3b1c9c35591b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_ebony_wide.json"
+hash = "1af381b054a7c1b5f8c7b6d350cd49539c462aa1a82a2527e996fb4252867cee"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_ebony_wide_undo.json"
+hash = "0cc791046b14b594a5897da74ca9734dcf29ea42634abf0785bbf21445182458"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_embur.json"
+hash = "7c131d79e012601e26cb5f7058146fca1cd864e57a3e427abc6dbd50c55b9a69"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_embur_narrow.json"
+hash = "f0343cfcbb1ea9d99147ef9ef80c80b59b8705d3f4382dd0d77dccab28a51b18"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_embur_narrow_undo.json"
+hash = "bcb3c70b5564de3eb7ccbbf44caa0b43aa4174f8b787781ef921f7806896496d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_embur_undo.json"
+hash = "107e6a40c83d5f0ad8784c253bc830a0973b78ca1f16276269ac7422eba3a2be"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_embur_wide.json"
+hash = "c5c5f4a2eaee28570c1b19ac79fdaef01ad75a39c0e998263e2256f6481eac45"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_embur_wide_undo.json"
+hash = "eb577c7cecf705a4af989566e33482f926747df1c569f135183a50a43ff09860"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_ether.json"
+hash = "fbe3290908e243fd139dca25780bf3cf03599a09a07a114c6a0975bdafff6a17"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_ether_narrow.json"
+hash = "9ce69c6e0ee4a50e50d9c49fed567d856f0c148db7a392553fb5bf69b150aaf0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_ether_narrow_undo.json"
+hash = "13a09592fb5eb8648296364a76d09b77ec83dec333e8af5ca7c7b43ccac3f42a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_ether_undo.json"
+hash = "9ae090b18a7549638f732f83ded379510b6213fd4e7c40b6ee48d465a9300f7c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_ether_wide.json"
+hash = "67cf47fc2105b24c78dd0e29bee60bc89001ac7a89424c98a5c9a12160a6f0c4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_ether_wide_undo.json"
+hash = "2888889a12473626b2f1293dbf2a5a6bde4d394230545f1c3f9b4aa69fae6b8a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_fir.json"
+hash = "7ca9505d9e9095590c3ae490952cfa597dd251184ab26b183ac422f5c710434d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_fir_narrow.json"
+hash = "805b0e455fbce3dc6226811132871570e143f55b0b2fa3794edd6dd93cfe26d6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_fir_narrow_undo.json"
+hash = "8aafc4ec01d910e65696b66011d79a7bc3fb572b73fd0609b33f75be10d5722f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_fir_undo.json"
+hash = "559b90ad273d5932df32159ca59498dc30fed913e46bb62624b9050ca6b677e9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_fir_wide.json"
+hash = "872bea43f2cf0ac82b37eb0de87ff232f28a1bf1f25f31a3911964c40a4fe2ee"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_fir_wide_undo.json"
+hash = "12b22943862bfb9365e19970088dd3da57b7eb5b255d2272595b28bbccb0bbfa"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_green_enchanted.json"
+hash = "89a0f593c4ba900706b9c678ebff2b16878277375a4f8dccc509776babc02c44"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_green_enchanted_narrow.json"
+hash = "61ed0e70797ddb86558007f11b01f0b205fd832437d9f99d25e2e904c532fc24"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_green_enchanted_narrow_undo.json"
+hash = "ba0c19cb09924c49163b1da13218794c8aa46d388af8340f98e099af812f9e41"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_green_enchanted_undo.json"
+hash = "b8750686773271076d6758c643b3dc8768906fb3ed6885372d397dcab03987c5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_green_enchanted_wide.json"
+hash = "6fbdbf1af2d9b2125c33f0a2eee139af0eb613467b0fa40a601eae8549bef41b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_green_enchanted_wide_undo.json"
+hash = "cf703aabe683a1309e5b2a925f7b73a90930fd587059310f6e269e1935388684"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_holly.json"
+hash = "9213cb6ebf95265ea6f60331417f9d764fccf658018d504f829febd0c2d5c4bd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_holly_narrow.json"
+hash = "4522b2349edfdd02960ed310fcc80e009bc6b534bc7133d6f0d19ad060cb5697"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_holly_narrow_undo.json"
+hash = "3fb47d03937ff95a7de8a562e488b721eef8df031f63171ef4f56f9fb83bff2c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_holly_undo.json"
+hash = "788e83c86980275e69767ac13ba26b4fba2dfd96f10e8b839f0fd342cff74a8a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_holly_wide.json"
+hash = "bb31fa72916c5f7f7e856a2fe2d71ebca885d733863fc28ee6fc82475d4b66fb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_holly_wide_undo.json"
+hash = "0dbead11f22011979e32a01424f7e8684ec59681e91452845c26c46876e610cf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_imparius.json"
+hash = "fb48b9e360e8242ccb440f85fc53adb102cace7566aa20be7067f6dd5b1816df"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_imparius_narrow.json"
+hash = "222ff66b247c4facb8ac267812e3f3db08f8d3f0be460bf486bfe981ceef310e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_imparius_narrow_undo.json"
+hash = "658221c2343b41996843bf46049b11328990ad7c149571198cea080595e2117b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_imparius_undo.json"
+hash = "990499d5c88542382e4c607228b9010b9f3201f5611445366c568f684bdc76e9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_imparius_wide.json"
+hash = "1029fa54c949f7373d2d0de90c6351c387991e0bfced49e563910735bc4774fd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_imparius_wide_undo.json"
+hash = "1804d1efee47915ca27ed184dc7a11b6367b7ad5ac4b29d8f7a758cd430c356e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_jacaranda.json"
+hash = "ea70055c25be6c780911827cabbe110aaeca9fbab5a93e1b77e79f4a06cca784"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_jacaranda_narrow.json"
+hash = "b276700b575a1eafaba6c93f83d157bb34618cba94203efbe8fbe8dc47ada7c8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_jacaranda_narrow_undo.json"
+hash = "433b020c158812721787ee47ea5fccc32b406ddc399f15b26698ba38d98a04ce"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_jacaranda_undo.json"
+hash = "50d3911a7d4c91a2586e3d260018bbbe792530cfd58536005aa9a1b9f90454bd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_jacaranda_wide.json"
+hash = "7b3d79193ec908792a3821694c7f04e49dbf344142107504e89854abd20d06fa"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_jacaranda_wide_undo.json"
+hash = "4898135a1c3e2336ca6da4546c0bbc55b267c42e1ea00cbc912ae00884da9ce0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_lament.json"
+hash = "d3f1142327ab290ca165a9001e395a374c796733726747511e9523d5e663a430"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_lament_narrow.json"
+hash = "c34e1a1926bf3ed83e3420d143bfd615d8214d125dec529b847e69dfbc338276"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_lament_narrow_undo.json"
+hash = "eaf841f875103f3cf0aa95a81abfdb3ab21a9c4ada66ddf00da317a72f66bd89"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_lament_undo.json"
+hash = "cca97f0df67827c8696d15901a9faecfb79ddbcf0702cdc7b5eb07d90d2b83ab"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_lament_wide.json"
+hash = "8fea8d88c11d985fe89c21649fafb5824bd540abec6df1893b1a2b0345878870"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_lament_wide_undo.json"
+hash = "c67ba8fded940ed39cbbf0dad474b3b00a951a60376d1156942f8a9d90041c2e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_mahogany.json"
+hash = "da9d34b24e338e41b71406ba5678bcf673837ec93297d93c912e83cb07a06a0a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_mahogany_narrow.json"
+hash = "781c7e3392f258d9a9268bcdb99e8a5f2c070050942e3c1829dbbc3eb66f9604"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_mahogany_narrow_undo.json"
+hash = "c8140c7af726d185c84329cdcad767d17aecaa96f6105258aca092d67ec59870"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_mahogany_undo.json"
+hash = "d0f846adbc1c76081b1c5c1ec2e5611364bf7ad47b36d795697dc6ffcbbfec14"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_mahogany_wide.json"
+hash = "db3874bfe48049afc67ae3aff96e0b5b57488e5b14f73226f2e408226a1764d3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_mahogany_wide_undo.json"
+hash = "418974b96168a3117d127aa245060b3184bf8c5a55508201d7a247b73f4225a4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_maple.json"
+hash = "1798e4a1ca24dcd22e4160d0322dfabcc445f17ecead298be4e409a566c7750e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_maple_narrow.json"
+hash = "6932679535883b494fcfe76799499d8a9470bbd3858cee2f2a49afbc709ac848"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_maple_narrow_undo.json"
+hash = "78adb67f4cae9c5703658ccf079da445fa07abaf10a4e3c72a5e8ed72ed6fc76"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_maple_undo.json"
+hash = "3b8ef53d27a289bb51dc19c4715d5fcbfa0d53ef659cfd53d625cf391aae5888"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_maple_wide.json"
+hash = "68558be798fed396002e8abe4cd9cea6e5c3fd25da84939fb560948ef3c244e0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_maple_wide_undo.json"
+hash = "793af9520f67d4f004eabc89aed8eb0f0e668d69ae55eb8dd56fd5b15913bd83"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_nightshade.json"
+hash = "ebdbdac864761fc60cfbf8823e82e5dfcf5adf2afe531ff734ca0b10ca86d608"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_nightshade_narrow.json"
+hash = "9ca559f38a6420c31043e9ee23cc34bd119ec291c19532b3b5f4b1cf80841cf1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_nightshade_narrow_undo.json"
+hash = "bb22ca83033b57749fb08201a749eea4a10e13358b3d7c1110c8de967bd128de"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_nightshade_undo.json"
+hash = "904c129cc61fc5befd5604fa40d6b8479a920736fbf490c868cd05efc2227152"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_nightshade_wide.json"
+hash = "14335dea7f3f47185e6c1851664527a8624c84bd766475ce49a4c1e13ccd6dde"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_nightshade_wide_undo.json"
+hash = "0a344d3c8cef6ebc47b42f323fcb088b1b40d42d3316dad70b0e3e7824e8803b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_palm.json"
+hash = "864dc5575bdffc96a252bd7ae3fcb7ee7563dc82ab8e1cda8b25723242bb1db4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_palm_narrow.json"
+hash = "c4b82acadc0ff8539cbec640fa358cb540eae88c247a1ff3d434045dc9494bc7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_palm_narrow_undo.json"
+hash = "f655d50fe54e2dd254e476198cda98e5fab020d2d9a1624104c5b99360713df3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_palm_undo.json"
+hash = "7b1d8d84dc78df7674d32810ee66bff1f31ac815a44424df60a2c0d28273e29c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_palm_wide.json"
+hash = "b3ae2647e3e2c692e1554a1cced7e30d2f9e63c98cb96a245e240f46e0221982"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_palm_wide_undo.json"
+hash = "3ac3e3cf3683fd89d3cb25e7906ea4491a7150d7d2e591ee9a89665687f73977"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_pine.json"
+hash = "ec709fde03c06095ff8949b46f94e9afd9144e22cee598a92b4538e927255e31"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_pine_narrow.json"
+hash = "065f079c8d570ec07c18209996befabe7b9997e6a2d37a18c317b3dcf594ad70"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_pine_narrow_undo.json"
+hash = "1bd0a34748447595bb9c59f24db2b9b5b314a5d0b26ef4fad4d0b39f574c7738"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_pine_undo.json"
+hash = "db92fc9b9fc3f3a5ce1072c195b0207c2abb661082cada2aec859a9b54f882ec"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_pine_wide.json"
+hash = "9d0300a09b7ee56fdfaac6affbaae63761ae144cc00270a1a9c5be539ee03625"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_pine_wide_undo.json"
+hash = "2bd5600f5253c7629155a421de4022b9d9b386babd9072268d2af2bfb8446b60"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_rainbow_eucalyptus.json"
+hash = "673a4444d20813862500880d0d614423df51b1ecb13503a12bf2a4a4d32fac9a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_rainbow_eucalyptus_narrow.json"
+hash = "a80ba87676e89773c11111acc1a2e7bf9e29d7333ddd552f0583f242019cea54"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_rainbow_eucalyptus_narrow_undo.json"
+hash = "783bdbb5349ac5d92ebaa8111069beea7e9638aa5361174f36553f46a8d97875"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_rainbow_eucalyptus_undo.json"
+hash = "72f63aac12763c2889ee2f95fdc9b99a49836ff9fd200eec459362619a32d86d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_rainbow_eucalyptus_wide.json"
+hash = "e6453467b5e300e073b096004e241759a6db731136151d745c57693a8c1be7f4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_rainbow_eucalyptus_wide_undo.json"
+hash = "6c89c95420b6d5f7562fd348053ca98be75396c0dff2eb9822099ef444c4297e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_redwood.json"
+hash = "f4b43163d77ff3b44c78c55b3594d6eaa518cc15f7d021ee826f973b3658decc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_redwood_narrow.json"
+hash = "260b475fa4a2316a99ee0c1ff3119518642799f2363bc213fbe10b0e1996d371"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_redwood_narrow_undo.json"
+hash = "b72d11f2738ccab29aac26e4d82303d147393f0b36e07009dd514a9f5dcc7489"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_redwood_undo.json"
+hash = "12b77d8544178a4bb7d74449613e343b33b6ab97a4ce803d198cb8b4fb0f31ea"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_redwood_wide.json"
+hash = "50ea62c45dc7edfad2ba030dd983f570fde84786a6a082f3b46947df76b496cc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_redwood_wide_undo.json"
+hash = "866bd0cc8247be2c9d2355daa437006297cfee8ac3871aa38b9113d1e5f4f2f8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_skyris.json"
+hash = "6559ccd7bf83a86fac73e6546ba6032fd9ebddbae606164034173217cd9243f1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_skyris_narrow.json"
+hash = "9eadc1ec3b86966d2cab307b506f7692db451ee0830138486946b86be906c042"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_skyris_narrow_undo.json"
+hash = "d3dfad8956c050458c499fc9068a371c1406f86a664bb5519a8f6a4023a0d3c4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_skyris_undo.json"
+hash = "75e908ae7ecc46896a7dce39cc758a2cfd1ca8c0e2e770da0d52daf714ea2f3f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_skyris_wide.json"
+hash = "d42ea63524f2581641fbb7507719d21a1b16c18372317c06f056f505abbea18f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_skyris_wide_undo.json"
+hash = "98ad282d04cf8f644aff4ce4535f18f817409ff29cbdd67abc174c845f0c1c6f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_sythian.json"
+hash = "22f1e44cda527449cc345e5f162ec6211ee72754625f107c31a1976cf2c776c4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_sythian_narrow.json"
+hash = "4ebcdda750bc040ef00df6b64dba970b93230ee7c5f56d9a44b79425cf3b7a49"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_sythian_narrow_undo.json"
+hash = "94ae7fefdbdab1d0c9f63ab74ccc94019a807221be32f601d4cfc8b0ddb9ac08"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_sythian_undo.json"
+hash = "4db6f2ca008873bae04e5b4fe59010df3e14e66783f604bcbf865d83ad4a65c1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_sythian_wide.json"
+hash = "0d5b36f67867e2daf545c2176338a6819d4c74ea7459e9cbd3be5a3d8191b334"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_sythian_wide_undo.json"
+hash = "56be230f69b474b81c8a317699785a0d5120af02a017438e2c746ba8f797faf8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_white_mangrove.json"
+hash = "a2c2b61cd9174c5d78445f6ed69e98bf34f84892aa19fc3c8c1f351272dbd4ad"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_white_mangrove_narrow.json"
+hash = "e497bc08ab03c97f00b36df028089f6af0c305c5a0cb143e89dd75df118c4de3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_white_mangrove_narrow_undo.json"
+hash = "8b630565f3e9ab8bd0be8899a1e5cae31e6b30a6f9fc1194f160f484d06f0a19"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_white_mangrove_undo.json"
+hash = "46c24bbdec1c6fd18c126268e4d78a3f0f110058181c46c8c51e4dd03b94645a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_white_mangrove_wide.json"
+hash = "651137be2729cb9ccf2b4a4885643e294d7e9a44e2afff32bfc112f5dc2a20b2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_white_mangrove_wide_undo.json"
+hash = "bb31465c29774338e3a7f7e2da67cf273dbb2a9cd30ee3a1a919d6e1fed475c2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_willow.json"
+hash = "5c524e240c93935dbc97430a2b46341002923571b553d01fd0374afd5695c38e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_willow_narrow.json"
+hash = "b879de58c8143b79125fe89c97e57d9a951c957ee248f2bf7e5a8b870f281ae5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_willow_narrow_undo.json"
+hash = "c05e7004423c78479c9f906e787b3e468898ad04ebd5bbf6b0eb556c10d18374"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_willow_undo.json"
+hash = "29a9e7b85abdcd902cfbc204089f7cb5dc26bfc05187df796c53c660e4131bd4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_willow_wide.json"
+hash = "f07d12fc15715549190ef83c2efc9b9943fa8f7ae6712a72fa51ce6f5b38e3d5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_willow_wide_undo.json"
+hash = "2750241e3f1a031e7659c3f349f3b27fafe16b388ecb9c257b33031893893ac7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_witch_hazel.json"
+hash = "5c996dbb5fc8a37b1eb796e93eddca0676dc1b0bd4c7e4b0e299eb51d08d3ce7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_witch_hazel_narrow.json"
+hash = "661115ba7a4eebec8be2f04997b0efa21f72765b1229b7b7c7275b12f504d483"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_witch_hazel_narrow_undo.json"
+hash = "8787682d777d8646708d74b697d95e473ac6a3bab3f49c36b5f90bf99a3a9e75"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_witch_hazel_undo.json"
+hash = "6844d66f19b670ed04575f25bf2e57c8f9b93249db40f328575c56b1847e8d10"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_witch_hazel_wide.json"
+hash = "eb42ff27511c045d6d0fdf297940a4d3124e76e49fadabd84d6a8982db27be6c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_witch_hazel_wide_undo.json"
+hash = "b822cadc055e6595da1127057786a2966533378bfc6b1270e9f675b3eed6e56c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_zelkova.json"
+hash = "b0ca4818ce361f697dffc5fb8433b8a6bcd2ea70fe670aee11eed5309d75120f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_zelkova_narrow.json"
+hash = "4ab3850189d8b74a2a9a91891bb00b2d783c871bf862756a84016b501480cb2f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_zelkova_narrow_undo.json"
+hash = "22fd2076928e2e71246f15299ff7f7f3ec1a250af476ae8aeaf209f71a550175"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_zelkova_undo.json"
+hash = "1cbb9169b2028f938a43e128f6d7e33c02378140981859659af96e8583118c06"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_zelkova_wide.json"
+hash = "08f16a184d39018127ddcaf16048bf2001d853f751116d60306d045435f565dd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_byg_zelkova_wide_undo.json"
+hash = "1e4ab90448917e7b6e6c28f0a044dfcafaa13a8bb0c7ef8a995ac927106cd413"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_crimson.json"
+hash = "cca9b0baabe0c2815ac5c7ca3e81189822d4af4770e48c13fe15ff16a8eda8f5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_crimson_narrow.json"
+hash = "b0f2e5352e620aaaf04f2fc85d55d9d341b862632cbc241b4748a58079758568"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_crimson_narrow_undo.json"
+hash = "6925a7f1352e010ed8451c8065ab27c2711857867155149367fff45714a797ac"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_crimson_undo.json"
+hash = "1fb347d38e5de1a2909731a82e519e4d97615b85a679248f4f95f12b957fb3c5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_crimson_wide.json"
+hash = "a5e793051dbd8041ce70d3ac7a7ead31d85ad50a9308eb6baa28d591d4c34d6d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_crimson_wide_undo.json"
+hash = "8034e59cbf3e88650c02e34633fff66bdf6d2ecd3b07715cd74abd7e4e6c6854"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_dark_oak.json"
+hash = "91e999bf1af37c8138df9641682ef1e796dd115d0a0966b31c185f8b6985019a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_dark_oak_narrow.json"
+hash = "ee8fe0070fe5bafed8b3dbe1029128af3e7a0397ffcf4234b61e2906095ff3f0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_dark_oak_narrow_undo.json"
+hash = "047272fc1805b7c1b4f597022fa997da68841b8846872f24735919ce3bb298f0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_dark_oak_undo.json"
+hash = "b974c734379664e5c62948e060622c51241cba4f49ccb6d763ce5f6e7e59b1cb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_dark_oak_wide.json"
+hash = "200f9356c94031e5674950a94c4f10dcf8f1ac3d375b19d569832e6312eb0473"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_dark_oak_wide_undo.json"
+hash = "d5006579942a0109b9b7fae1d96eddae1e25e40fe459deeb5026e2804d2a866e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_ender.json"
+hash = "0262b084e89a2a6e5bdc97b3bf2327df9570de4750b4248201fd6e135e33017f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_ender_narrow.json"
+hash = "e98e8ac617384fea956ffb25822571270e1eb167ed6170ca03fa6df59b3d2c18"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_ender_narrow_undo.json"
+hash = "23d8d6db3b5358e0c7edcdf85c57c8c5b0d80afae71013d830b492916e662ae3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_ender_undo.json"
+hash = "53097b9a3a7ee046bec534b05339982460a1eb7c3697dbabd0793e878e4cce04"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_ender_wide.json"
+hash = "1dc1714d1b9491515c6dbd9a3faeaad3a79eee2a1c3612e97b2ebb4fb20e53a0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_ender_wide_undo.json"
+hash = "554b8a3c4a079cf638ba0107ae3b2aaa3c81579133cd54d69be86d2818e753ff"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_jungle.json"
+hash = "511702aa89250d9351327ea3c9ff207d30837fb6534b824fbaadbd1191f8efc1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_jungle_narrow.json"
+hash = "1d88ef6929ad34d62fb7b1a3ca87246c74abbaa3f259964745f38e98a8380ff9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_jungle_narrow_undo.json"
+hash = "61403a244ebc591d3b037b658d13bf073fc89e9a8ce4a917267c23236120c53f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_jungle_undo.json"
+hash = "306a96154cbd16cb2c87a00cf6dd09282b8670967204698d3632a941577cf141"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_jungle_wide.json"
+hash = "044843f9207afea725f03d1845c0f7f1bae6200909cc1a04c91f9de638d6a0ab"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_jungle_wide_undo.json"
+hash = "3a9e408fd658054aa6ca6e25ab06d89531957a4b8338fa4d527b8cd28b6be9e9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_monorail.json"
+hash = "b4a2a4549a54e38826f1defb978b5cb6666a4a4f59251403c4fa488be48d2325"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_oak.json"
+hash = "1e979bb33fc74bbada9875e6570626e1a3f0ee5651d8010a5532b10818163499"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_oak_narrow.json"
+hash = "c36d88ac05a9a1692bbbc6e3290ea3e8d216745ac7eefb7e6f8f274eca345538"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_oak_narrow_undo.json"
+hash = "89af60d8fcc6a99c1b1711e2518fefc18babd8fd12855f387599487839ed0ee2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_oak_undo.json"
+hash = "0a28e4162304a18c60ab18d54e4533f34b79bbe079db1bd28f00ad0ce3fec593"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_oak_wide.json"
+hash = "19fa8ccb2958ef6c26fb397444c263315a68ab1990c72d159d4d7bfe8ab59432"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_oak_wide_undo.json"
+hash = "818444b0d94346f4bd33daeb032854c8c509c6a32ef9a4f93037d51ede1c9d9f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_quark_ancient.json"
+hash = "75f5c7ac272db1ee1ce0f9a571d8c127f4e84934df93614aa9e18fde952380f1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_quark_ancient_narrow.json"
+hash = "9344b3005e1ccad2b814b56c5cdaf7b8d51ef81ff55df56c8e756d6ab31c3a7d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_quark_ancient_narrow_undo.json"
+hash = "de695410a78221a733d2766bf68d9051ea1dcb209376e689e1d1abc3d3b76db4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_quark_ancient_undo.json"
+hash = "29a9c46d6947e4919d04862489d9cfc4c041a3d98794246bfe97473e75d630e1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_quark_ancient_wide.json"
+hash = "20b94789e8e0a75defa95c39fb4077d25d922ad8cffb5e13bb0f86ab6d73cbcd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_quark_ancient_wide_undo.json"
+hash = "1435e47bb50fa003c5fd859bd172f1795d02f3f81ae6ffe140d8a9b313033d9b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_quark_azalea.json"
+hash = "d110c5e8ab1af27481116c956a9dcb079f8da29185237552f22b229e827e0dc9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_quark_azalea_narrow.json"
+hash = "4841e168ff71f589f86b544b80e466dd76f5b288c76cafd73cc921a6903571aa"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_quark_azalea_narrow_undo.json"
+hash = "583b7d75df61f8f7a4e6024b8196dabbf55d449648f81479c069a59fe0de1437"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_quark_azalea_undo.json"
+hash = "b2da9b840934c5dc4c87e20b55f8a45d221b5965a01bfb1aa71ad5354312cef5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_quark_azalea_wide.json"
+hash = "73eaa420f46a267201cc92f5bfbe8fceda629525b7e0ab500b1abc90c30fe563"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_quark_azalea_wide_undo.json"
+hash = "8c4ae58b3410e1d605f3de0441c64dd74ab9c24ee5e1aec6dc26d783c1cac56f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_quark_blossom.json"
+hash = "a20afa290815f167512d0a2b93f1a45fa1e8f6570b17d5b2ae49c286f9673677"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_quark_blossom_narrow.json"
+hash = "8d32e3aeb644c5f9f896ab979e884eb5d28e919e014f144cb32f06e38c5ea540"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_quark_blossom_narrow_undo.json"
+hash = "3ef62307522b352ac03de80d9e2496306afe85ee92f4055d2009516ec4d5e477"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_quark_blossom_undo.json"
+hash = "18676fc8585776a7317e9c4db9a181763cab1059c3c87d0be2dbd375ed5fbff3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_quark_blossom_wide.json"
+hash = "1d0db21d98c2b154188b8478ca705e378729b5cdaaa29dd9e6ade840f990241a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_quark_blossom_wide_undo.json"
+hash = "a3c7771acad756b87cf9ac63a7d0f798d8a753a40b30eeb94ed9fce41f43c9ec"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_spruce.json"
+hash = "c376b0d1e0fa27fe8db041eb70fef29060aaa1b374f48ba1f2da67226b7e2a58"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_spruce_narrow.json"
+hash = "e3a7ec8925ba38842a2005638989f21b03100154cef41772566f2f361560f22e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_spruce_narrow_undo.json"
+hash = "2f12489db4e1bc881d6d418272a045864584c3872cb3756bdb6e687607c00d2a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_spruce_undo.json"
+hash = "822dda8155cccd533f5c23e1bcfcdccd09f0726960b86eae53cae153e7bbb0b2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_spruce_wide.json"
+hash = "6b67543304528f2c03a27c293b24e4530cf2eae2184efa8b9e04262532890ef0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_spruce_wide_undo.json"
+hash = "eda076f313fe52d9137892dc4041a9561f6be51cd6726358555a2afc53f74d10"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_tieless.json"
+hash = "cd04e19b6f98ddc487a9a3bba72e14ef507c6e989d97122cc74da08226a36c39"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_tieless_narrow.json"
+hash = "3e85f69fa34ec97f4eee338f43178e15f75aae88a5accb8a1d6bb46bfae9b47d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_tieless_narrow_undo.json"
+hash = "ed62e7d5d7189094d2406d1533b547fd71f37d193d9454ef1e1216e07b66e36a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_tieless_undo.json"
+hash = "40755e200f894c56e288593175eb53afb67a0a7c93185df091820ba830010ea0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_tieless_wide.json"
+hash = "29317e69887b3b1efb3c29543d9b4f969300d0f5e14cad2aaef21286426ff0c0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_tieless_wide_undo.json"
+hash = "e1f7ca6a93544cae28db3b18d082ab4a1a7a7b4449047705ef10fd2d1455069c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_warped.json"
+hash = "ddb4568121071ac1a3f763f9d6d676146c0ff0cb06a663a51c8e9ac59cffc320"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_warped_narrow.json"
+hash = "e71863e8f7466547678b92d548d8f108a5eea3578c15a7a215fff4e6d0261aad"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_warped_narrow_undo.json"
+hash = "de4c9b698683e7930adf3f322d486e826ef02899c97f395351eece1b22f20ede"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_warped_undo.json"
+hash = "2ce9c7533d9eb30a5700b5c43402cfae00a9c4eab4ae1aa93559fab4ed217560"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_warped_wide.json"
+hash = "38f0bb8dc928af9f321ad7a96f53eb1ea04ccc678e441c31f50c1847ffb88d9c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_warped_wide_undo.json"
+hash = "a2e730d53379c3166a4f29166985f834b0fce0ac056447b1c5d3eb3b5698c41d"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/advanced_compacting_upgrade.json"
 hash = "0f74597aae6687739ebf5fcb95101e9b1a98df5251f65d38ce165e79788111d4"
 
@@ -9902,7 +10958,7 @@ hash = "8188c874873821d9b1c64cca94cd53be41472e875ca5bf7380fa6a01d9625f05"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
-hash = "2bbf12158004ad623045c775ec44200e8ceeb19309e067385264df1f3297dffc"
+hash = "ee5b276378e960f4cac3bfcff27e4ff1a7aaccfb83a5b3d72066666709764c31"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/compactcrafting.js"
@@ -10587,6 +11643,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "b0bb61105e0ac0c763edfa41ea5b0406f157bc17e421af1bf8b2cbb49325ced6"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "6c60f28ddec48a53161763304b35130ffc9cba2cc8f12cabb97dd9d483983bc4"
 metafile = true
 
 [[files]]

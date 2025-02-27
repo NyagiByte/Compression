@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "count": 1,
+    "ingredient": {
+      "item": "railways:track_oak_wide"
+    },
+    "result": "railways:track_oak"
+  }

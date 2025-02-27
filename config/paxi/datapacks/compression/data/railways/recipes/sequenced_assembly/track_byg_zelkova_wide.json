@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "count": 1,
+    "ingredient": {
+      "item": "railways:track_byg_zelkova"
+    },
+    "result": "railways:track_byg_zelkova_wide"
+  }

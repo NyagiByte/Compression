@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "count": 1,
+    "ingredient": {
+      "item": "railways:track_byg_pine"
+    },
+    "result": "railways:track_byg_pine_wide"
+  }

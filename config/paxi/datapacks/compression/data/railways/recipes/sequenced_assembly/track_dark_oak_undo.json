@@ -1,0 +1,19 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "railways:track_dark_oak"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "create:track"
+      },
+      {
+        "chance": 0.5,
+        "count": 1,
+        "item": "handcrafted:dark_oak_board"
+      }
+    ]
+  }

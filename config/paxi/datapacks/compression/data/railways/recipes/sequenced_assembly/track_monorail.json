@@ -1,0 +1,51 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "nyagibits_bytes:block_of_1080_high_carbon_steel"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "chance": 100.0,
+      "count": 64,
+      "item": "railways:track_monorail"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "nyagibits_bytes:block_of_1080_high_carbon_steel"
+        },
+        {
+          "item": "create:metal_girder"
+        }
+      ],
+      "results": [
+        {
+          "item": "nyagibits_bytes:block_of_1080_high_carbon_steel"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "nyagibits_bytes:block_of_1080_high_carbon_steel"
+        },
+        {
+          "item": "create:metal_bracket"
+        }
+      ],
+      "results": [
+        {
+          "item": "nyagibits_bytes:block_of_1080_high_carbon_steel"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "nyagibits_bytes:block_of_1080_high_carbon_steel"
+  }
+}

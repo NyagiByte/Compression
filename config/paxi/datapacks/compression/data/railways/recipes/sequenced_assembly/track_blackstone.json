@@ -1,0 +1,17 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "create:track"
+      },
+      {
+        "item": "minecraft:blackstone_slab"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "railways:track_blackstone"
+      }
+    ]
+  }
