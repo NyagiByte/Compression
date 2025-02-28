@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "count": 24,
+    "ingredient": {
+      "item": "create:brass_ingot"
+    },
+    "result": "copycats:copycat_ladder"
+  }

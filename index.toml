@@ -650,7 +650,7 @@ hash = "7d1f5a102e9909d72247369418c25e011aabf481220a9656716a08bcd025da93"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "8e1c3fc7f389a46dc8f374eb4c685b7cbaac7a90f17d05d98eb8666bca33c268"
+hash = "b3cd72ea8959d4768a79e3ecf034bcd79bd41d75ac08816050b88307220553f2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"
@@ -670,7 +670,7 @@ hash = "5eaa01737c46ffc31178fbfacbaaf71d9b0492e8a34838f1973905af60636bd4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "82f0105e207101f68972a283812b7748015c50f18e3c1dce5fc293fa2fa22892"
+hash = "7403a6bd1f782bfdd1f921c78637a2d0ae8a0a2cc2fa68fb6ce0954dfc3f9af6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -2531,6 +2531,250 @@ hash = "8163deddedb227702ae21d4604fa00114b5c7151698b1a03bf9df7dfb4994326"
 [[files]]
 file = "config/paxi/datapacks/compression/data/compressedmystconv/recipes/void_conversion/glowstone_from_redstone.json"
 hash = "59fd15e55b872881b9f7963ce3d2ded18b9022790f69f1a00d55789c8eb5f686"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_beam_t1.json"
+hash = "5893987f394ee57dbdd9191fcf802527e7b35d39fe01c3d3c7ed9882bbc4b076"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_block.json"
+hash = "678f4b9728e1239014184f435e100eab69d38b636c8015638ae4b65a82486d3f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_block_t1.json"
+hash = "691c9e1724a4ea0d32dd0f6465fa0f1abe48ca9eaf96ef253405241effc3860e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_board_t1.json"
+hash = "2e70c342c35ee1337a9aeffcb5a6c7c7ae91980ccaad07d68a9e0b6db29f1ba9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_byte_panel_t1.json"
+hash = "9c21f40a5425c629527b4aeafe8c5f8c2a8eb7111e5a0dfe03bd3c7ca663d902"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_byte_t1.json"
+hash = "8fa8c606322601b520a528394434500a90f3ee47f9682ca84e0085fc84f3dedb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_cogwheel.json"
+hash = "e04f518375b521566d4d8e9d161f3c3a56f3dc6f95f76819d6c8f9f32d188707"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_cogwheel_t1.json"
+hash = "85298f11ee6d7aaeba773d13a8eb565dfb6726c0bc56ace4f6a60d533d5db8d6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_corner_slice_t1.json"
+hash = "9a49ff35f67b002f0e6452cd1ba6422a5b4e9eaa275dfc6d1acabb44013712de"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_door.json"
+hash = "d21a8e541f8698ef6dc1f5d2827576c9ff0a840ca3cb87c64f010eb9ea15ac7b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_door_t1.json"
+hash = "de72b5688a08fc5287a88aa09ddd60092b4e4a9e2007dbb41c0ae6d607ebe0e4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_fence.json"
+hash = "940a99451757ab0c78963721036f45def42768dfb817f59720a4b4bbdff4a8db"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_fence_gate.json"
+hash = "2d239460925e0b4095233a4521e536543d3f214605c5f7d2d7c73941828931d0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_fence_gate_t1.json"
+hash = "07b97de7f2abe4edc73bba61b6732af763059c9dcc8e073ed1af065793a0ce4f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_fence_t1.json"
+hash = "289297b0db59ef3d23087f989b2e16a8a3fe763c88f6388cd2f24db472177be5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_flat_pane_t1.json"
+hash = "22fea58d22701cb1b3abc65cb416801cd6a5339fdf226e38f37761dcaf8413a4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_fluid_pipe.json"
+hash = "98fee2679ada2134a8ec89e3ea7c89f8e41ff847b5dd74d0eeb4da362e227c1e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_fluid_pipe_t1.json"
+hash = "2bb08fa41ddb148c9889bdfd5d65a6c314b2fffb1ec09a391bfaba27d6ccd917"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_folding_door.json"
+hash = "6b1d5927f9e2e03573720d43584358214c0ef73a29b5bc289f918c8fb2a750d1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_folding_door_t1.json"
+hash = "bd339d406df776a756259376c350416ff12e615021774205807dafbda8243521"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_ghost_block.json"
+hash = "73debaf61235cb948b224666c878a646109fe95f4ac4fafe039b950b7ae6701b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_half_layer_t1.json"
+hash = "c16ff13737396c9e67e27a4d8558e3c994e830c2356c73fbac4fc710dd252cc3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_half_panel_t1.json"
+hash = "eafc6a223a07488df90148680a076c9cfc9f7b7211f1b6fe9904a3f56564d376"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_heavy_weighted_pressure_plate_t1.json"
+hash = "9be64fc947a612bdbcba6e7bb5ffc8c6c21748bde4430f8c1fb8655da7d061f9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_iron_door.json"
+hash = "2363bd4d0a8934d7cd56013b59d6f1671ae91a07fd3a6700b13a24d2ef98c7c2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_iron_door_t1.json"
+hash = "c3030b327b188c3729d45050fb3b88094abcf00cd1cf439b091f7dad8a0d1e71"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_iron_trapdoor_t1.json"
+hash = "6cda383f387f8195d0bd977dcc0ddaf4bcc758c9487326f0a68b579991cbbdf6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_ladder_t1.json"
+hash = "343854b8d6018ebd58f7700b4efb89f430bba4f57e9180c0e1b4d4909b6feabf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_large_cogwheel.json"
+hash = "733171f6444fe0ce619ddd4c137742a6497c9d1ee26715ec56070105ead52c51"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_large_cogwheel_t1.json"
+hash = "8599d5ed5e76b7f0acc34e956e01ac4d46a3fac8cec8b80f99c78cf179eb82cc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_layer_t1.json"
+hash = "43568a87b0ab95da0210db6d57b6afa26fa00a355ce9d4b4a295ab7a47ab85d3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_light_weighted_pressure_plate_t1.json"
+hash = "550ad61d46d8cab9377ca56e8e531ab4fae6553844acb2f1186ed4ddfa19efbf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_pane_t1.json"
+hash = "86219e33696dfc2493fc35df9d99960d0788ed1ce6de23b1e8429f395e09e592"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_shaft.json"
+hash = "d4cde0ea9357f6145ace74c43fd5200f2bd3aad69c547ea8122bc24dc8162bcb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_shaft_t1.json"
+hash = "daa68169a8d48cfa4836d40158733f43f944feaf1a0e5c6f1007498d75007fc3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_slab.json"
+hash = "4e80d76ef3b9fb82102fc036be6d4ee081b04bc2adf5e97c037e94e197bc0891"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_slab_alt.json"
+hash = "45fcd1a9dfcf17dff95fc57aa9426a82acb2c4518bcb700a768d8a676c0428e2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_slab_t1.json"
+hash = "596fd0440ee25398fd48e71e817f77777f70b93bda789cc96d0dbf58503a4941"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_slice_t1.json"
+hash = "5b17b18f12163e730d934f9ca10e35e29886fc1658dda625671db0627efad07d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_sliding_door.json"
+hash = "358e07cbfefb4975842cdf216a94346b1397bd603194a59db659f34d9a5af3f5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_sliding_door_t1.json"
+hash = "e5d582aa7c5f8881f36aaec71fa5f690397335f9219c7639c4e6dc35f2a6f0c1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_slope.json"
+hash = "5f41c1e8a65deb64e308690981a2bd53d9c7abee97d3b8e543f790db5d57bdd7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_slope_layer_t1.json"
+hash = "bd826866e10e18ec623a51a5e2bb64c700b0ddcaf5a918e5a5b76f3c101e3065"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_slope_t1.json"
+hash = "c280988c2d04eeb3e8b76157f581fc0e0835bb53707662daf32c1c7d3c5f5d51"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_stacked_half_layer_t1.json"
+hash = "9da983ed8950cbb719c5f84dd91b0c069cc2f113e20a93299909f51a302592cb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_stairs.json"
+hash = "406781d5d7972b768c4787193bb5ee3fbaf36fce6bf5e45f617c09bb495e33c5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_stairs_t1.json"
+hash = "4dad07eed64fee7e4f87b56ceb48e88e8a382070e74ae330ef00dc26962d8eea"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_stairs_vertical_t1.json"
+hash = "cb388239dc8cec7fa6300c06c051f486f6209c3639d917340981e1169abd40a4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_stone_button_t1.json"
+hash = "1f4fa784b967785a283a967ef568907cdae989344319577f4a3789ccaa010add"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_stone_pressure_plate_t1.json"
+hash = "1e045d0e5cc845adf6072358a0399c994dcf083dd8d49d69cf47d5e86a30e83b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_trapdoor_t1.json"
+hash = "e76fc8fbfd4e71775067990ce8d0699c7ec799f72011bf7efaad001c758171c9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_vertical_half_layer_t1.json"
+hash = "0d585d56fe7498d812899f78bd8e2863988319221fbd4ffa5058ad99e21f2ccf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_vertical_slice_t1.json"
+hash = "4fc8006b0eacc6fe841ad10c38ae321bab38c46490df5be0917d75a7b806f351"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_vertical_slope.json"
+hash = "767087c6bd266aa09a397cc5fcff19913fb4f47d6b88e23ed9c05c92464b9fe3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_vertical_slope_t1.json"
+hash = "492dea65a9f1c772b5d99764280a15fc40fd3c1ab8c1cf5aed995d5c84630726"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_vertical_stairs.json"
+hash = "63f33ae8fa77047163183dc41568fed3524cd27cfe8553b43efab08ebc1cb940"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_vertical_step_t1.json"
+hash = "83dafc82b9d8404f87e16b4ef7959e49c71fb9882c58c40a6a10ab26d03605d0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_wall.json"
+hash = "93f9c830b90a8be4d6a401c66e180cc7491fe31cf7851424698650503ceeddb8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_wall_t1.json"
+hash = "4325b9e5158cb3d8f26cff736ec58c86a3d2036aa788a1ef8f207c5fe127356f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_wooden_button_t1.json"
+hash = "5e30c2257e761776e2de8c016c1c17aa5875fc3fccf558369b9f9b6f1bab4152"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_wooden_pressure_plate_t1.json"
+hash = "fca986598a7049d12e149df98fccc45d00df3d68773351556b5a85740ca4bc52"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/loot_tables/blocks/framed_glass.json"
@@ -11638,6 +11882,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "4bba62e583b6bdf59f8575197c1d1b82cf759e710f82703161e8040439c67486"
 metafile = true
 
 [[files]]

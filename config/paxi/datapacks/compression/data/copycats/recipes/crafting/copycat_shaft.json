@@ -1,0 +1,26 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "create:shaft"
+      },
+      {
+        "item": "create:shaft"
+      },
+      {
+        "item": "create:shaft"
+      },
+      {
+        "item": "create:shaft"
+      },
+      {
+        "item": "chemlib:zinc_ingot"
+      }
+    ],
+    "results": [
+      {
+        "count": 4,
+        "item": "copycats:copycat_shaft"
+      }
+    ]
+  }

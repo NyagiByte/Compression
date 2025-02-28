@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "count": 1,
+    "ingredient": {
+      "item": "botania:abstruse_platform"
+    },
+    "result": "copycats:copycat_ghost_block"
+  }

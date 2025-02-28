@@ -1,0 +1,62 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "create:large_cogwheel"
+      },
+      {
+        "item": "create:large_cogwheel"
+      },
+      {
+        "item": "create:large_cogwheel"
+      },
+      {
+        "item": "create:large_cogwheel"
+      },
+      {
+        "item": "create:large_cogwheel"
+      },
+      {
+        "item": "create:large_cogwheel"
+      },
+      {
+        "item": "create:large_cogwheel"
+      },
+      {
+        "item": "create:large_cogwheel"
+      },
+      {
+        "item": "create:large_cogwheel"
+      },
+      {
+        "item": "create:large_cogwheel"
+      },
+      {
+        "item": "create:large_cogwheel"
+      },
+      {
+        "item": "create:large_cogwheel"
+      },
+      {
+        "item": "create:large_cogwheel"
+      },
+      {
+        "item": "create:large_cogwheel"
+      },
+      {
+        "item": "create:large_cogwheel"
+      },
+      {
+        "item": "create:large_cogwheel"
+      },
+      {
+        "item": "create:brass_ingot"
+      }
+    ],
+    "results": [
+      {
+        "count": 16,
+        "item": "copycats:copycat_large_cogwheel"
+      }
+    ]
+  }

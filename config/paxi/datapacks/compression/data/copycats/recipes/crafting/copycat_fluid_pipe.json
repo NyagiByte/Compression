@@ -1,0 +1,26 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "create:fluid_pipe"
+      },
+      {
+        "item": "create:fluid_pipe"
+      },
+      {
+        "item": "create:fluid_pipe"
+      },
+      {
+        "item": "create:fluid_pipe"
+      },
+      {
+        "item": "chemlib:zinc_ingot"
+      }
+    ],
+    "results": [
+      {
+        "count": 4,
+        "item": "copycats:copycat_fluid_pipe"
+      }
+    ]
+  }
