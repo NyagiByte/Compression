@@ -2529,6 +2529,10 @@ file = "config/paxi/datapacks/compression/data/compressedengineering/recipes/ass
 hash = "8163deddedb227702ae21d4604fa00114b5c7151698b1a03bf9df7dfb4994326"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/compressedmystconv/recipes/void_conversion/glowstone_from_redstone.json"
+hash = "59fd15e55b872881b9f7963ce3d2ded18b9022790f69f1a00d55789c8eb5f686"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/create/loot_tables/blocks/framed_glass.json"
 hash = "1b9aafcf98921550935e7d11d7772fb6910c5c17b7d5f3e3dfc507aa7b8f0458"
 
@@ -12015,7 +12019,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "61831c2764ab3752600c98611f842e39f98af1b5710eb14dcf109e1d2611565d"
+hash = "0f59684c49be94dae7f96df7623c72e46d054de6d4ba2424a37869c06f6d781e"
 
 [[files]]
 file = "mods/oculus.pw.toml"
