@@ -12044,6 +12044,11 @@ hash = "c0405f2f156703f6c5a181c18e96dfdbad8760c04ff3be8c088853c7b14572df"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "f043146d37caf425f2dfbe8b434ee1ef0e233ba66bdd707e93ac37bf8e377536"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
 metafile = true
@@ -12353,6 +12358,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "3ef9dc22d90a53d4b20b1b26190d58b21a2639b8b20f7d295de4ea3b03e13f30"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "41e24e588f9f823bcf946f685c430114ad0d69c873607800e0b3a22a7672a824"
 metafile = true
 
 [[files]]
