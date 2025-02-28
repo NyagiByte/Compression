@@ -1,0 +1,12 @@
+{
+    "type": "compressed_create_recipes:void_conversion",
+    "input": {
+      "item": "minecraft:redstone_block",
+      "count": 1
+    },
+    "output": {
+      "item": "minecraft:glowstone",
+      "count": 1
+    }
+  }
+  
