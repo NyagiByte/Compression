@@ -9497,6 +9497,22 @@ file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assemb
 hash = "1e4ab90448917e7b6e6c28f0a044dfcafaa13a8bb0c7ef8a995ac927106cd413"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_create_andesite_narrow.json"
+hash = "298f56d1d5cf9adbb1f1e68327de4bcc7f2746e25c5816dd3232f9e8a3a03edd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_create_andesite_narrow_undo.json"
+hash = "321b3143eb3dc5edc6f37e66003d319ec27abccfccffcd8755165891503adc41"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_create_andesite_wide.json"
+hash = "873307e9bdc911db7e8404089c449707fc60ef7da239bf9de5f2990e53b6bd4b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_create_andesite_wide_undo.json"
+hash = "b9cfa9c0adb59e42ef3b3af2634707c4a3e311458fc67e69de69dd1d4a9fa74f"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_crimson.json"
 hash = "cca9b0baabe0c2815ac5c7ca3e81189822d4af4770e48c13fe15ff16a8eda8f5"
 
