@@ -3998,6 +3998,19 @@
 		}
 		{
 			dependencies: ["453481B45C1169E4"]
+			description: [
+				"Nuclear material decays via the ejection of a &bHelium-4&r nucleus, not very quickly mind you but over geological time you can get large deposits of it in porous rocks"
+				""
+				"&6Vein Information:&r"
+				"&dWeight (relative rarity): 10&r"
+				"&cFail Chance: 20%&r"
+				">100% Deepslate"
+				""
+				"&aSuccess Chance: 80%&r"
+				">95% Helium"
+				">4% Galena"
+				">1% Pitchblende"
+			]
 			id: "230A582D5ABD1DF2"
 			rewards: [{
 				id: "58FE8A559BA645C9"
@@ -4085,7 +4098,24 @@
 		}
 		{
 			dependencies: ["453481B45C1169E4"]
+			description: [
+				"&cI can... hear something down there... it's so faint&r"
+				""
+				"&6Vein Information:&r"
+				"&dWeight (relative rarity): 10&r"
+				"&cFail Chance: 99%&r"
+				">100% Nothing"
+				""
+				"&aSuccess Chance: 1%&r"
+				">99% Ender Air"
+				">1% Cosmic Irradiated Flake Fragment"
+			]
 			id: "013A60BF61FBD960"
+			rewards: [{
+				id: "057D086773901684"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2636DF55BC7DDF2E"
 				item: "nyagibits_bytes:cosmic_irradiated_flake_fragment"
