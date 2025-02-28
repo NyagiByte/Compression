@@ -1,0 +1,14 @@
+{
+    "type": "alchemistry:liquifier",
+    "group": "alchemistry:liquifier",
+    "input": {
+      "count": 8,
+      "ingredient": {
+        "item": "nyagibits_bytes:sample_methylmagnesium_chloride_solution"
+      }
+    },
+    "result": {
+      "amount": "500",
+      "fluid": "nyagibits_bytes:methylmagnesium_chloride_solution_fluid"
+    }
+  }

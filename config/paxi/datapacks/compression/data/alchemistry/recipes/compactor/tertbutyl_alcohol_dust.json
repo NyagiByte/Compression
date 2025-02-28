@@ -1,0 +1,13 @@
+{
+    "type": "alchemistry:compactor",
+    "group": "alchemistry:compactor",
+    "input": {
+      "count": 16,
+      "ingredient": {
+        "item": "nyagibits_bytes:sample_tertbutyl_alcohol"
+      }
+    },
+    "result": {
+      "item": "nyagibits_bytes:tert_butyl_alcohol_dust"
+    }
+  }

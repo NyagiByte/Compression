@@ -1,0 +1,12 @@
+{
+    "type": "alchemistry:atomizer",
+    "group": "alchemistry:atomizer",
+    "input": {
+      "amount": "500",
+      "fluid": "nyagibits_bytes:ketone_mixture_fluid"
+    },
+    "result": {
+      "count": 8,
+      "item": "nyagibits_bytes:sample_ketone_mixture"
+    }
+  }

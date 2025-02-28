@@ -1077,6 +1077,46 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/hept
 hash = "f51e433adcf61a6de2cabd9b78160e9244e56caf99df26d43cf5ee6c175c5979"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_cyclohexanone.json"
+hash = "d4c15ab5ecb0a61968e3d7cdf7909e67603a84cc886442eafbd9ae26e17b2cb0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_formaldehyde.json"
+hash = "4d698712a471dc321dc985b83e2431513de65994cb244e0ebc5a6ff66072d321"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_ketone_mixture.json"
+hash = "068d0a93148996fd7e0fc84d26f3e545ee895252cd32d6267871a7bf02c86107"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_lithium_carboxylate.json"
+hash = "62a2dc4a03a69c7262887a231dfff39a2c7bf01d4e55917421265b0aa825715f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_methanol.json"
+hash = "fcaaba33a4ebf64792f42c2bd915c93a2a74d4911878f2c54159538cae76b43e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_methylethyl_ketone.json"
+hash = "00e6b24f9c6d47e010aa10efff5da93601721935d5a389bcf168ae83f610c3eb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_methylmagnesium_chloride_mixture.json"
+hash = "8f21f926a7ff20b1147282400fecbdb6152510c39d223675e8256d27677c1266"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_tertbutyl_chloride.json"
+hash = "9931fc1cdb219d8fe4ca9310d200884c84f45926754cb6c7231343dc6f32f81d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_tertbutyl_lithium.json"
+hash = "659b8c78b7a957a66a6a356e8970ddf26072ac78981cc03ba733f993a16c2b22"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_tetrahydrofuran.json"
+hash = "ac86403284311394920e3d336fa6762a7f01f102dd53908c60e5c839f967627f"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/combiner/acetylene.json"
 hash = "e4f1eb377ce7dad78e4d9c8cd04f5835938e5e9039145255e789b251a33323e7"
 
@@ -1131,6 +1171,14 @@ hash = "a82169bde4ca0fb8cbe4e59f1f29fe45f4b937a0f95e957d4a9f467170c30a90"
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor.json"
 hash = "2b77c6a7082363dec68e7ecb3f255b36dd98e58108b6365eef8491d4e3ac5455"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/methylmagnesium_chloride_dust.json"
+hash = "f127c69ed9fdc15820cf0a31def8f2726e23263d0a6bb046541db0861f86c96a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/tertbutyl_alcohol_dust.json"
+hash = "52443ca10a104cf753239043fef5bf3ccf23d356c8001be50bd7a971d4bc1c71"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver.json"
@@ -1229,6 +1277,14 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sal
 hash = "2ba1a78f4cf4ff367069fd39882f114c0799597a326ea83e0b4ad1744cd741d3"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_methylmagnesium_chloride.json"
+hash = "0fb18b6c88451b7883d83d0f9705d3a8a1c04f62459e8798ef0a0eeef2ce10b2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_tertbutyl_alcohol.json"
+hash = "c4a983575cf58289145221b30c518899e953151299e5192c005d0bd3d806d323"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sodium_hydroxide.json"
 hash = "0af391d0682ad40a44733eb1464ac31dd682e8aaa9cbcee6582b90f4a1930e10"
 
@@ -1241,6 +1297,10 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier.jso
 hash = "d1c478dba6938ed37ebf71f7cda51c23d32dc1a3b402956b4c385997d8366847"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/cyclohexanone_fluid.json"
+hash = "c2bde0a27863a71a2adaf5e3cf6507dff08696aa2d2cac224424ee5c8f32fcd9"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/formaldehyde_fluid.json"
 hash = "49686a75d7017f8c3e654a6a66b2065559529200385d4c7494e0d45632d59ed7"
 
@@ -1249,8 +1309,36 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/hep
 hash = "89ea70f6b96dfd334932adb1aba600de78e787ca156f61e405db8d724077d28f"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/ketone_mixture_fluid.json"
+hash = "da9bc5e66c3725114c97903e246745a1072c9688245ef0ef844469996406c7af"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/lithium_carboxylate_fluid.json"
+hash = "2d458804ab9fd6061b4ea9bc37050356e46eeb361a4a32a21d96f81f3a1b7a1e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/methanol_fluid.json"
+hash = "54b0edaf9f2df161dd150d56949c1e5ac19f36033a44b5e237d2124a8e56cb8c"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/methylethyl_ketone_fluid.json"
 hash = "72265c01239f1bda80089c1ad34f9604ac2a7a834835107f62e1f0dbcac06180"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/methylmagnesium_chloride_mixture_fluid.json"
+hash = "bb09da6a26d9538120f7a807c849c834460a2ba60238f54073eefdfca18c175f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/tertbutyl_chloride_fluid.json"
+hash = "09cb8a983bf785dca1db4c33dee3a3c08fd4645f9e323d0723e82ea84194e131"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/tertbutyl_lithium_fluid.json"
+hash = "4b704f97a43e3ccc0aaa37e3416c5cae77b34e0c2b76a31cee21fd8e2f2bcb15"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/tetrahydrofuran_fluid.json"
+hash = "dec225b0d589e0faeaf69a13297424ee0b04476f1f1ee7acd8b22081aac8472f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/architects_palette/recipes/dripstone_lamp.json"
