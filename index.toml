@@ -10690,7 +10690,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "8be6fd1cc3a76ef97a86342181ab2cb8673152ccf8cf9bb43ec2f002954ad21c"
+hash = "a66562876f3562d53696e1b5ead3c9223d96243d63008ff09c893ca081e12a60"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -12273,7 +12273,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "0f59684c49be94dae7f96df7623c72e46d054de6d4ba2424a37869c06f6d781e"
+hash = "563b95c82d194bbb2aedb2d4720dd471412c38546b1af23ee40f17e6af8558b1"
 
 [[files]]
 file = "mods/oculus.pw.toml"
