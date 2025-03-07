@@ -1,0 +1,10 @@
+{
+  "type": "botania:pure_daisy",
+  "input": {
+    "type": "block",
+    "block": "minecraft:cobblestone"
+  },
+  "output": {
+    "name": "minecraft:tuff"
+  }
+}
