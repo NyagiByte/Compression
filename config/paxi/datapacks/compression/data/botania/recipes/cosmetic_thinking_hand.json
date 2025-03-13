@@ -5,7 +5,7 @@
       "block": "botania:alchemy_catalyst"
     },
     "input": {
-      "item": "botania:cosmetic_hyper_plus"
+      "item": "botania:cosmetic_questgiver_mark"
     },
     "mana": 500,
     "output": {
