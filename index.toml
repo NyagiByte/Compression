@@ -11940,7 +11940,7 @@ metafile = true
 
 [[files]]
 file = "mods/compressed-create-recipes.pw.toml"
-hash = "f9793cef9fa86ff3d5fdf68adc6ebf323b789fff5afc5365eb60e246f539b579"
+hash = "45c9c503e3a68960e3c81d794c4887ee2d910b0b0993c1f6c5705ba29211522c"
 metafile = true
 
 [[files]]
