@@ -1634,7 +1634,7 @@ hash = "a4f244d3ff5ac40fd4e0fff43a7f819f3bd59422dd49213cd03e2b7627865e71"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/cosmetic_thinking_hand.json"
-hash = "a2749ebeecfe8f64b4f7d58f6bc11b8e6bfa05090e37a8b0d44851a87a93cc21"
+hash = "a14ad43e08f1d041c4b780f61b6c567eea0627245d160e4c4d24526c65b9ebab"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/cosmetic_thinking_hand_to_pink_flower_bud.json"
@@ -2241,12 +2241,20 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/pump.json"
 hash = "ab6a3db257bb2095a672a61b07c9b2fe6accba8ea44131d4f681768787d58924"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/pure_daisy/cobble_to_tuff.json"
+hash = "e27a1c041936493991cf17630b4425b5cb409de75c1c92c358b4fd23df03abe6"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/pure_daisy/livingrock.json"
 hash = "c0890103bdc8e89367d5958ec6a7e432af739b5e832580c6735d508c93da0cd9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/pure_daisy/root.json"
 hash = "ce91ce0ade32aad6b265677a6ce720fbb2a2a272a5beaa2079b67ce12f87172c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/pure_daisy/tuff_to_andesite.json"
+hash = "e3a08dba49b62e254bb91c9641ee09589f3601702943e58209fcdb0b4eacea3f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/purple_floating_flower.json"
