@@ -1,0 +1,32 @@
+{
+    "type": "create:compacting",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "minecraft:gravel"
+      },
+      {
+        "item": "minecraft:flint"
+      },
+      {
+        "item": "minecraft:flint"
+      },
+      {
+        "item": "nyagibits_bytes:raw_basaltic_powder"
+      },
+      {
+        "amount": 100,
+        "fluid": "minecraft:lava"
+      }
+    ],
+    "results": [
+      {
+        "count": 8,
+        "item": "minecraft:andesite"
+      },
+      {
+        "count": 1,
+        "item": "chemlib:silicon_dust"
+      }
+    ]
+  }
