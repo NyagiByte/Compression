@@ -4438,7 +4438,7 @@ hash = "be58d7233011a2941ee50dcebe336e55f0b5b1eba50e735a2597a4be144ebe47"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/watermill.json"
-hash = "214e432ce4d2549cfe65c9d9ef2f1d1f6cbd0329a71448bde1b9096a10b97db4"
+hash = "421621c61efefd2cb7a7740799f379224f910e29bc44cac1d59d479ca215dafb"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/waterwheel_segment.json"
@@ -4877,6 +4877,14 @@ file = "config/paxi/datapacks/compression/data/minecraft/recipes/furnace.json"
 hash = "82a7fcaa21ca59b2c85b32642650920b92cc263ca5a06a6ba32c0ef7d4c980f0"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/furnace_t1.json"
+hash = "9cb5f58934234165a5003d9e531cdffa7a4b28be1c7a146bea02069467ec037f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/furnace_t2.json"
+hash = "0278ad5d9cccc16324c494d82c4922d5ea71124344f1d98447483f07bb3f9201"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/glass.json"
 hash = "29659f5fdebcdf74a0c9c7b1c6f9406b21cb5cf4c2e29b1d72449849d365d22c"
 
@@ -5167,6 +5175,10 @@ hash = "63ccd1ac0f58a9a005dcdbfb6d466e558b5eec085e4a7348aa05691e8459dfe5"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/alloy_zag.json"
 hash = "ab3cde9e2bb13efee17f247a975bcec7ef9a4cf49077f7fe2c623438952c3151"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/andesite_t1.json"
+hash = "1d55421cfdb35971d45081a31dc2299bbfd9d1a9fbc43193565ebf8e9f1242bc"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/bad_lead_acid_cell.json"
@@ -8375,6 +8387,10 @@ hash = "6331e53f45eff1361b7f3264289e92873e2ada80be8b2442b932dea7ceca6bba"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/matter_converters.json"
 hash = "38513e6fab4296a3d468953bb91b4ab53ae18ffa6a7c5915526c8d985beece9f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/mixed_seed_processing/mixed_to_beetroot.json"
+hash = "2baea5e792c7e8fbcc3a0a52521bb19ae6c99e19cc7c9fe2930e4ff6c31e3008"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/mixed_seed_processing/mixed_to_farmers_delight.json"
