@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "nyagibits_bytes:steel_casing"
+        },
+        {
+            "item": "minecraft:iron_nugget"
+        },
+        {
+            "item": "minecraft:iron_nugget"
+        },
+        {
+            "item": "minecraft:iron_nugget"
+        }
+    ],
+    "result": {
+        "count": 16,
+        "item": "create:encased_chain_drive"
+    }
+}

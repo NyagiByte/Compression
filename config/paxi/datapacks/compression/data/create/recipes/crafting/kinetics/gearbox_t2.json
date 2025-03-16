@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"create:cogwheel"},
+    "B": {"item":"nyagibits_bytes:steel_casing"}
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "count": 4, 
+    "item": "create:gearbox"
+}
+}

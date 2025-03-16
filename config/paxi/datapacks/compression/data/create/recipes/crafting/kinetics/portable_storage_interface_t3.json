@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "nyagibits_bytes:mana_infused_casing"
+        },
+        {
+            "item": "create:chute"
+        }
+    ],
+    "result": {
+        "count": 8,
+        "item": "create:portable_storage_interface"
+    }
+}

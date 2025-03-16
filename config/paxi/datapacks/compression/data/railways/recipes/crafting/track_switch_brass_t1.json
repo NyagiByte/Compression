@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"minecraft:lever"},
+    "B": {"item":"create:brass_casing"},
+    "C": {"item":"create:precision_mechanism"}
+  },
+  "pattern": [
+    "A",
+    "B",
+    "C"
+  ],
+  "result": {
+    "count": 32, 
+    "item": "railways:track_switch_brass"
+}
+}

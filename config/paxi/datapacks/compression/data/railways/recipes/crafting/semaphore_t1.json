@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"chemlib:iron_plate"},
+    "B": {"tag":"minecraft:fences"},
+    "C": {"item":"create:brass_casing"},
+    "D": {"item":"create:electron_tube"}
+  },
+  "pattern": [
+    " A ",
+    "BCD",
+    " A "
+  ],
+  "result": {
+    "count": 8, 
+    "item": "railways:semaphore"
+}
+}

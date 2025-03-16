@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"tag":"minecraft:wooden_slabs"},
+    "B": {"item":"nyagibits_bytes:steel_casing"},
+    "C": {"item":"create:cogwheel"}
+  },
+  "pattern": [
+    "A",
+    "B",
+    "C"
+  ],
+  "result": {
+    "count": 4, 
+    "item": "create:gantry_carriage"
+}
+}

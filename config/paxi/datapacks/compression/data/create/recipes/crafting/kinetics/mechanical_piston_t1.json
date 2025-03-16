@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"tag":"minecraft:wooden_slabs"},
+    "B": {"item":"create:brass_casing"},
+    "C": {"item":"create:piston_extension_pole"}
+  },
+  "pattern": [
+    "A",
+    "B",
+    "C"
+  ],
+  "result": {
+    "count": 2, 
+    "item": "create:mechanical_piston"
+}
+}

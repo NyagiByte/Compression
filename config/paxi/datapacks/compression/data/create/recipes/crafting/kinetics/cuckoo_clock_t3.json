@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"tag":"minecraft:planks"},
+    "B": {"item":"nyagibits_bytes:mana_infused_casing"},
+    "C": {"item":"minecraft:clock"}
+  },
+  "pattern": [
+    "A",
+    "B",
+    "C"
+  ],
+  "result": {
+    "count": 8, 
+    "item": "create:cuckoo_clock"
+}
+}

@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {"item":"create:shaft"},
-    "B": {"item":"botania:livingwood_planks_sla"},
+    "B": {"item":"botania:livingwood_planks_slab"},
     "C": {"item":"botania:livingwood_planks_stairs"},
     "D": {"item":"create:brass_nugget"}
   },
@@ -11,5 +11,8 @@
     "CBC",
     "DAC"
   ],
-  "result": {"count":16,"item": "create:cogwheel"}
+  "result": {
+    "count":16,
+    "item": "create:cogwheel"
+  }
 }

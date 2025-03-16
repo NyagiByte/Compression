@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"immersiveengineering:treated_wood_horizontal"},
+    "B": {"item":"nyagibits_bytes:livisite_cobble"},
+    "C": {"item":"create:piston_extension_pole"},
+    "D": {"item":"minecraft:redstone"}
+  },
+  "pattern": [
+    "AAA",
+    "BCB",
+    "BDB"
+  ],
+  "result": {
+    "count": 2,
+    "item":"minecraft:piston"
+}
+}

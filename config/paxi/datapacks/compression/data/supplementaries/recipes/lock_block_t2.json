@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"minecraft:comparator"},
+      "B": {"item":"create:filter"},
+      "C": {"item":"minecraft:iron_ingot"},
+      "D": {"item":"create:gearbox"},
+      "E": {"item":"nyagibits_bytes:steel_casing"},
+      "F": {"tag":"minecraft:planks"}
+    },
+    "pattern": [
+      "ABC",
+      "DEF",
+      "CFF"
+    ],
+    "result": {
+      "count": 4,
+      "item": "supplementaries:lock_block"
+    }
+  }

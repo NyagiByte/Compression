@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "nyagibits_bytes:mana_infused_casing"
+        },
+        {
+            "item": "create:cogwheel"
+        },
+        {
+            "item": "minecraft:redstone"
+        }
+    ],
+    "result": {
+        "count": 8,
+        "item": "create:gearshift"
+    }
+}
