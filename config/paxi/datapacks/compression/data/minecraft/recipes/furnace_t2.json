@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"immersiveengineering:slab_cokebrick"},
+    "B": {"item":"ae2:sky_stone_brick"}
+  },
+  "pattern": [
+    "AAA",
+    "B B",
+    "BBB"
+  ],
+  "result": {
+    "count": 64,
+    "item": "minecraft:furnace"
+  }
+}

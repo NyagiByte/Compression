@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"botania:livingrock_slab"},
+    "B": {"item":"nyagibits_bytes:livisite_cobble"}
+  },
+  "pattern": [
+    "AAA",
+    "B B",
+    "BBB"
+  ],
+  "result": {
+    "count": 8,
+    "item": "minecraft:furnace"
+  }
+}
