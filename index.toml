@@ -297,6 +297,10 @@ file = "config/byg/trades.json5"
 hash = "d47ebc1ac820033964440c028f599e3e73a912c69476902996cb1aeef9d09ff4"
 
 [[files]]
+file = "config/compressed_create_recipes-common.toml"
+hash = "b13e02a527636c1905b4e19cf6505bdb55362500d096a6cd01c661d033331362"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "667b50af91a4312360fac0502a25f9497e745e3e321b297ed4efb6e257e81db4"
 
@@ -12124,7 +12128,7 @@ metafile = true
 
 [[files]]
 file = "mods/compressed-create-recipes.pw.toml"
-hash = "45c9c503e3a68960e3c81d794c4887ee2d910b0b0993c1f6c5705ba29211522c"
+hash = "947cc7ed087a627fff5606e2b225f5635caf760267183acd3dee003aa72287ea"
 metafile = true
 
 [[files]]
