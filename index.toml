@@ -297,6 +297,10 @@ file = "config/byg/trades.json5"
 hash = "d47ebc1ac820033964440c028f599e3e73a912c69476902996cb1aeef9d09ff4"
 
 [[files]]
+file = "config/carryon-common.toml"
+hash = "4ee18ab96082bc7d86b01ff439ccfa7d86384505acfe5a7627d5b5a2b7973404"
+
+[[files]]
 file = "config/compressed_create_recipes-common.toml"
 hash = "b13e02a527636c1905b4e19cf6505bdb55362500d096a6cd01c661d033331362"
 
