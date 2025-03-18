@@ -11909,6 +11909,10 @@ file = "kubejs/server_scripts/chemlib_fusion_removals.js"
 hash = "785b5cc0d8f1e68fe4224df8ad6c06939086619cfe1cc734e02a6e936f625013"
 
 [[files]]
+file = "kubejs/server_scripts/input_replace.js"
+hash = "c2b883496a6eca188047e44b8467113962fe03221e93c3e0e9ffeeaf0ff94c0e"
+
+[[files]]
 file = "kubejs/server_scripts/item_removal.js"
 hash = "dd69646ee6bb9d819f4a22b1be3f65d2f14133a726953f527b36e5e47a4387f2"
 
