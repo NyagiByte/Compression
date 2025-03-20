@@ -6,13 +6,13 @@
         "item": "chemlib:ethylene"
       },
       {
-        "item": "nyagibits_bytes:chromium_trioxide"
+        "item": "nyagibits_bytes:sample_chromium_trioxide"
       }
     ],
     "results": [
       {
         "count": 1,
-        "item": "nyagibits_bytes:ethylene_oxide"
+        "item": "nyagibits_bytes:sample_ethylene_oxide"
       },
       {
         "chance": 0.95,

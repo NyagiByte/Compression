@@ -4,7 +4,7 @@
     "input": {
       "count": 8,
       "ingredient": {
-        "item": "nyagibits_bytes:heptafluoropropane_vial"
+        "item": "nyagibits_bytes:sample_heptafluoropropane"
       }
     },
     "result": {

@@ -3,16 +3,16 @@
     "heatRequirement": "heated",
     "ingredients": [
       {
-        "item": "nyagibits_bytes:methyl_chloride"
+        "item": "nyagibits_bytes:sample_methyl_chloride"
       },
       {
-        "item": "nyagibits_bytes:methyl_chloride"
+        "item": "nyagibits_bytes:sample_methyl_chloride"
       },
       {
-        "item": "nyagibits_bytes:methyl_chloride"
+        "item": "nyagibits_bytes:sample_methyl_chloride"
       },
       {
-        "item": "nyagibits_bytes:aluminum_trichloride"
+        "item": "nyagibits_bytes:sample_aluminum_trichloride"
       },
       {
         "amount": 1000,
@@ -22,7 +22,7 @@
     "results": [
       {
         "count": 3,
-        "item": "nyagibits_bytes:toluene"
+        "item": "nyagibits_bytes:sample_toluene"
       },
       {
         "count": 3,
@@ -30,7 +30,7 @@
       },
       {
         "chance": 0.95,
-        "item": "nyagibits_bytes:aluminum_trichloride"
+        "item": "nyagibits_bytes:sample_aluminum_trichloride"
       }
     ]
   }

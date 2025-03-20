@@ -6,15 +6,15 @@
         "item": "chemlib:nitric_acid"
       },
       {
-        "item": "nyagibits_bytes:oleum"
+        "item": "nyagibits_bytes:sample_oleum"
       },
       {
-        "item": "nyagibits_bytes:dinitrotoluene"
+        "item": "nyagibits_bytes:sample_dinitrotoluene"
       }
     ],
     "results": [
       {
-        "item": "nyagibits_bytes:trinitrotoluene"
+        "item": "nyagibits_bytes:sample_trinitrotoluene"
       }
     ]
   }

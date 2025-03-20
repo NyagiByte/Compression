@@ -6,12 +6,12 @@
         "item": "chemlib:nitric_acid"
       },
       {
-        "item": "nyagibits_bytes:toluene"
+        "item": "nyagibits_bytes:sample_toluene"
       }
     ],
     "results": [
       {
-        "item": "nyagibits_bytes:mononitrotoluene"
+        "item": "nyagibits_bytes:sample_mononitrotoluene"
       }
     ]
   }

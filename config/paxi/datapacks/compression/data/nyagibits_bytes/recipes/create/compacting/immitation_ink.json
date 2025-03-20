@@ -2,10 +2,10 @@
     "type": "create:compacting",
     "ingredients": [
       {
-        "item": "nyagibits_bytes:2_phenoxyethanol"
+        "item": "nyagibits_bytes:sample_2_phenoxyethanol"
       },
       {
-        "item": "nyagibits_bytes:benzyl_alcohol"
+        "item": "nyagibits_bytes:sample_benzyl_alcohol"
       },
       {
         "item": "chemlib:protein"
