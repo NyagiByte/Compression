@@ -1,0 +1,26 @@
+{
+  "type":"vintageimprovements:centrifugation",
+  "minimalRPM": 256,
+  "ingredients": [
+    {
+      "fluid": "nyagibits_bytes:bio_glycerol_mix",
+      "amount": 4000
+    }
+  ],
+  "results": [
+    {
+      "item": "nyagibits_bytes:mixed seeds",
+      "count": 1,
+      "chance": 0.2
+    },
+    {
+      "fluid": "nyagibits_bytes:crude_biodiesel",
+      "amount": 1000
+    },
+    {
+      "fluid": "nyagibits_bytes:crude_glycerol",
+      "amount": 500
+    }
+  ],
+  "processingTime": 2000
+}

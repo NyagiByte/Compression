@@ -1,0 +1,12 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {"item": "chemlib:sodium_hydroxide_dust"},
+      {"fluid": "nuclearcraft:methanol","amount": 2000},
+      {"fluid": "nyagibits_bytes:crude_plant_oil","amount": 1000}
+    ],
+    "results": [
+      {"fluid": "nyagibits_bytes:bio_glycerol_mix", "amount": 2000}
+    ]
+}
