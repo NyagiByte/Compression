@@ -3,7 +3,7 @@
   "conditions": [
     {
       "type": "sophisticatedcore:item_enabled",
-      "itemRegistryName": "sophisticatedbackpacks:backpack"
+      "itemRegistryName": "sophisticatedbackpacks:netherite_backpack"
     }
   ],
   "key": {
