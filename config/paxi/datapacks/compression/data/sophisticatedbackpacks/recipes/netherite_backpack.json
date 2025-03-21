@@ -1,5 +1,5 @@
 {
-  "type": "sophisticatedbackpacks:basic_backpack",
+  "type": "sophisticatedbackpacks:backpack_upgrade",
   "conditions": [
     {
       "type": "sophisticatedcore:item_enabled",
