@@ -1,13 +1,13 @@
 name = "Compressed Engineering"
-filename = "compressedengineering-1.3.0.jar"
+filename = "compressedengineering-1.3.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1fd3c63b0f785c16f46fdde4f4a5efe793f159f1"
+hash = "d3359bdc8071219763ac4e68510e63637f31619c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6164824
+file-id = 6331403
 project-id = 1052457
