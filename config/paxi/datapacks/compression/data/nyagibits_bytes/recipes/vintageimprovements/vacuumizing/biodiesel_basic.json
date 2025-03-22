@@ -2,9 +2,9 @@
     "type": "vintageimprovements:vacuumizing",
     "heatRequirement": "superheated",
     "ingredients": [
-      {"fluid": "nyagibits_bytes:wet_biodiesel","amount": 2000}
+      {"fluid": "nyagibits_bytes:wet_biodiesel_fluid","amount": 2000}
     ],
     "results": [
-      {"fluid": "nyagibits_bytes:biodiesel", "amount": 2000}
+      {"fluid": "immersiveengineering:biodiesel", "amount": 2000}
     ]
 }

@@ -4,9 +4,9 @@
     "ingredients": [
       {"item": "chemlib:sodium_hydroxide_dust"},
       {"fluid": "nuclearcraft:methanol","amount": 2000},
-      {"fluid": "nyagibits_bytes:crude_plant_oil","amount": 1000}
+      {"fluid": "nyagibits_bytes:crude_plant_oil_fluid","amount": 1000}
     ],
     "results": [
-      {"fluid": "nyagibits_bytes:bio_glycerol_mix", "amount": 2000}
+      {"fluid": "nyagibits_bytes:bio_glycerol_mix_fluid", "amount": 2000}
     ]
 }

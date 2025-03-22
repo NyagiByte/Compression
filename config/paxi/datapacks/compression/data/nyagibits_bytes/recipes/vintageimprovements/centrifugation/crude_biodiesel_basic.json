@@ -3,22 +3,22 @@
   "minimalRPM": 256,
   "ingredients": [
     {
-      "fluid": "nyagibits_bytes:bio_glycerol_mix",
+      "fluid": "nyagibits_bytes:bio_glycerol_mix_fluid",
       "amount": 4000
     }
   ],
   "results": [
     {
-      "item": "nyagibits_bytes:mixed seeds",
+      "item": "nyagibits_bytes:mixed_seeds",
       "count": 1,
       "chance": 0.2
     },
     {
-      "fluid": "nyagibits_bytes:crude_biodiesel",
+      "fluid": "nyagibits_bytes:crude_biodiesel_fluid",
       "amount": 1000
     },
     {
-      "fluid": "nyagibits_bytes:crude_glycerol",
+      "fluid": "nyagibits_bytes:crude_glycerol_fluid",
       "amount": 500
     }
   ],
