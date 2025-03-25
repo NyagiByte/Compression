@@ -1,6 +1,6 @@
 {
   "replace": true,
   "values": [
-    "chemlib:ethanol_fluid"
+    "immersiveengineering:biodiesel"
   ]
 }

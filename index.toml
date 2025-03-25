@@ -4029,20 +4029,52 @@ file = "config/paxi/datapacks/compression/data/forge/tags/fluids/ammonium.json"
 hash = "7d8023b869828da2cb1a37524702729b55066042ae02987d10cdb67889073381"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/fluids/biodiesel.json"
+hash = "5e2217d3b979246e662651575e31fa3358a928292c6f6e9865910edb32c7bc7d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/fluids/creosote.json"
+hash = "141204388356dec2c1a0f679244bc2d031705a15076c9ec927e8e5fba81c2874"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/fluids/crude_oil.json"
+hash = "aaf982bc304cf0ca02d359fcd0c59801c55d66147b1a92903bbd1f7f5875636c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/fluids/diesel.json"
+hash = "2845a309b4e9cc33e731983dcb468cd4294b29ad1f7365a2c1da28c04713ffb6"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/fluids/endstone_leach_water.json"
 hash = "b0468e08dda26d97b12266d986fa021b268910a353368030762305471462a356"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/fluids/ethanol.json"
-hash = "71923bdeb00b0539d230f0e3b31387c186fe94cdbb23ee52a65f29cb2d821280"
+hash = "b9764ccee0ea1ad825255f71aab79562e7c26e322cfcc45e064aa307b0f416e9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/fluids/fluorine.json"
 hash = "f12d8efc83928013dcf638225ab3def2bf0d85541fe917aca43b2155c82f136a"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/fluids/gasoline.json"
+hash = "e241ebe2269b177a027189f26293ef8af27c44bf267ca658770918f77233c8ad"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/fluids/hydrocarbon_tar.json"
 hash = "d56781787f466eb1051734ccb78ce27d3933314d23ef4bf77b050d3d6485b7b0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/fluids/kerosene.json"
+hash = "4b52bde05b867067d4e8cd495283258f0386f35ebfc8c38a85a32fe718af3ced"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/fluids/lubricant.json"
+hash = "64150e4db7e4c2c3d5fccec74301016ad787b77068f119c7d0bd10b4108d1d83"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/fluids/plantoil.json"
+hash = "afbbc23d27eca0efdb8e82fd2823472622000c72646496d54da6cae4fb183c17"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/fluids/propane.json"
@@ -4053,12 +4085,308 @@ file = "config/paxi/datapacks/compression/data/forge/tags/fluids/raw_wood_vinega
 hash = "dca71e136ed5a6d5e5415c304ae6bf4bc3d656974c3e2044867aecc6ac94a0b5"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/bitumen.json"
+hash = "d188b6d9a6aed50e27bbd56dc2fc35f8f96d257047abd44532eea6753b6c66b3"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/blackwood_log.json"
 hash = "d387f8722f7c3da769ea106553d10d3cb0da9b1c5140e74022399a07b381f5b6"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/cinnamon_log.json"
 hash = "9ca68cb16facd52cc23693d408696c8bcc44e9d4547a4144e7c02823fe1c8d76"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/coal_coke.json"
+hash = "c5181b675eedde5c1f864268329d3708c9b1c869c4f8ef8417b3f9ace83352a9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/coke.json"
+hash = "c5181b675eedde5c1f864268329d3708c9b1c869c4f8ef8417b3f9ace83352a9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/aluminum.json"
+hash = "fb866004e3d8c77048458207fdcf83868eb09b7f89d6413088fbeae14db00b64"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/arsenic.json"
+hash = "2ba63e37b218630f1b8be410afb17d0fdbe61776f021032ad73a1fdcbbcbe824"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/barium.json"
+hash = "6b73044f2a1121413a72a82801223d539d1df9d06dba79d44773e28f16467b8c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/beryllium.json"
+hash = "703d716cc6efef4df48bab9a79a6b14155b2d5e0d7932f0bbda24495a04e2cff"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/bismuth.json"
+hash = "e533cb1c847f9e118dbfd20e33182d3fa590a32dc6d3f33b80a299d57ba3ad57"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/boron.json"
+hash = "b03552b8f83ec73ebcf956b03b42b0ec6d72859d59f602ca34b476267b00a644"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/bronze.json"
+hash = "0c6f09d66300a94af6b6ac4161f6fbbc580373b9b637e4a426b1a94403602c56"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/calcium.json"
+hash = "97528530a70baef1f456973e0045bec2a6aa4456e15d021e234a029876a117ca"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/calcium_sulfate.json"
+hash = "2cc103cbd2d2cdb0d0ffbca4333f5d9b1fdf8d16e9f5a799dacde59786fddbd6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/charcoal.json"
+hash = "52c5d36cf6c35a4c78ff75c4a751880884ad15f3d7f70a2c503e1decb11e1053"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/chromium.json"
+hash = "a628731eaced74d4b6d2f26347af40d8f7b0a088f1e5da801f107b141ccd61be"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/cinnabar.json"
+hash = "ea98409ca47eb8395cda40c8457dd92a437cbccff361c3a84ba3648f662133a3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/coal.json"
+hash = "394f43d1bc25c986bf032724f45c3e4099c15f07e56f3e0f3534842c17bd22c3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/cobalt.json"
+hash = "3ad725be8d04d0621e5995defc8ca5cec03a179e70b6d62572142d0a5222220f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/constantan.json"
+hash = "aedfaf0784f18c05fc61746110531d47ee8b9fb02f05ddcffd890bc5cb943469"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/copper.json"
+hash = "8523d920209012104fd200c22f9c6b6b9daa12aaf04eb90f28daf7d4aad50f37"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/diamond.json"
+hash = "b0de8cda32e34c33b98eea0b4d7f579dc2fbe20272c1d62dfc913d615b1166fb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/electrum.json"
+hash = "bcb6de3d1940befa66c5444631b763d622604b0fcee04c89a0bb7ffd5885fa7d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/emerald.json"
+hash = "f43dc65fac15edd82286903015cc567e72440bd55695a79b43b2f26c41e0845b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/ender_pearl.json"
+hash = "bed2bb8830b032998d08ae31bd9d9208c58b99c2c05616cc2b8186e172afefa4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/enderium.json"
+hash = "d813ec62d8f734de4bd19109da7748ab2cce4b1244a462c8f58f7bf953018f4f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/erbium.json"
+hash = "d03ec60cfaa5823cf01a0bb8d8260da746107e32cee597c5b87a8615625da19b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/fluorite.json"
+hash = "9f3bda9f2a1f7fbddb84df0dcaceb2b870a7437b40b0ad5418b5633b1f83b0fa"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/gadolinium.json"
+hash = "4753659c702012f22e760598dadea6427ddbf3a67db317203f1f7d4289a3acc3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/germanium.json"
+hash = "22a4a8535b3599f1e60edcd5fa93087c91dd843253fef446876223dcb918d313"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/gold.json"
+hash = "1f8c218dfad2a963af501540d6f59c5f97691746dc3b9d9b8430199125a6eb2a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/graphite.json"
+hash = "dca9e6267846f3a092b865620064b3fd76858b1ac72da516bb20e1a7770b62d1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/hafnium.json"
+hash = "0cf9a0cf6eed16b29315ade64d53001b4b26de312264a7344355051b16d11e27"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/iodine.json"
+hash = "8ac851f6f9b05a7fea5fe0e7df0ecfbb25db787e0e5f5f6bfde2e15e42601d31"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/iron.json"
+hash = "b21de8eeaba5f5c70ed1488e3b79af81ff9484c8d95f84e554558782ff1b63b8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/lapis.json"
+hash = "74d8944a40e0a75841ef2b0d9ed7188813773ec47582246e10c2b86981c55221"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/lead.json"
+hash = "12dadd68a2ed11b000d185f57516b3061c15910640f5972066a1230f4437dbb8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/lithium.json"
+hash = "b4db1f8237ed4938b0e03477731ede4b5247f2f35f2dd861b4ae6da1cbb4f40e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/magnesium.json"
+hash = "87a831a5b0f681bcf684b10feada036962b01e5109a3100930774edb31a6711d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/manganese.json"
+hash = "70a01e6a6f8f72f0751c7ad807d05a33fc6267fd8a37e83a0338f578dd685fa8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/manganese_oxide.json"
+hash = "22539c7e7beee8a2495dcecfc2bc496e44ca9767a5b353d446670c17e42034af"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/molybdenum.json"
+hash = "54d63db8a2ef79334a229513f6b19130001634bbe256b40ef35e89421e70450e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/neodymium.json"
+hash = "fd0a3e8db25bf2d606fd1fd84fe0af16faa10d5f40097b617f3a87e14da982d5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/netherite.json"
+hash = "c82f18e881984a69e03d3b67d0ecbb5146cb36ecc46d528086e7d392224ef5f0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/nickel.json"
+hash = "0e13c2826d17c2750586b1ff2f785752a7c89c6bf51e27452871daf792c8089e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/niobium.json"
+hash = "a32d09bc0dd48ce6ed3979de201d06c52c79491dc6bae515cfb821f93750c2e9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/niter.json"
+hash = "6e81a2cf9c4ff51b287e53e6450b811eb18089ba0c61190252e3221cf191e12d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/obsidian.json"
+hash = "fddfcbde5da23e67c23cf46f751caf176994edd0283b1f0bb3e7b4c6cb335578"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/osmium.json"
+hash = "89efbbe3a6477a10b22323282c5ad815e0fdd54327568a10c68c0ad5bed78a5e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/palladium.json"
+hash = "fec6ed9f53f9a8886ea65169861d8953a3badd1d8a7213131db723921c91cd0b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/platinum.json"
+hash = "fb3c5cef702c19ceafcf4850d77fc94829d8f7e8a06b58f23971e364ba0cb2dc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/polonium.json"
+hash = "e87f9a25c98a5f27d5d35a31e12b73cdab80001843f476f7a2af71dd69593ac7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/potassium.json"
+hash = "3aa4b8ed29d485ae2412ad3eac1e8666bc895980ad86ae3d7fbb2e28e0337d06"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/potassium_hydroxide.json"
+hash = "e10ac30efe34e2fae519549b623a87d7ea3eca6b9f3d58e0983dcc69107488c9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/quartz.json"
+hash = "26a53f80ec24397f19d305b1f033efee2b10af7ab0d963cf63bb66fa7543c493"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/radium.json"
+hash = "0d6574f44d78b1ad9cc733cdf793a19f23fb074bfaae2956896ec084135ab153"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/samarium.json"
+hash = "5e2a5fe13a08515bbcd29437675a447c844ac1219859e4e6c3087c3a0974b36e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/silver.json"
+hash = "5f3433e430450fcd38aaf2a5ecfa94b7b8ae7967d3062f402fc60b60cc94803f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/sodium.json"
+hash = "ed02fe6536a3f3977984f71a35d289908c226085d29ae35838e911faf7d2ad19"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/sodium_hydroxide.json"
+hash = "fe5128b4b2966073288dd260225b2c6a3cefcaf84358ccef571072e995c43586"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/steel.json"
+hash = "0753c3ab55fec31a0ff88eb2861a67bf423fed54ac04e99e43ec03ef1bb45e32"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/strontium.json"
+hash = "22e2d1e8ea5210b31fdb90e0becb492d6c0762d25f2d7bc3d6e13727f4783e36"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/sulfur.json"
+hash = "6effa9e678e875f7e22378730f3ba987f625bf0ce65fd0571f15c8cff49ce1f7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/terbium.json"
+hash = "b74bc0589cbfbcd64d70cc2cc6bd3872645ef02de008a4f015b6c2a322cd5d57"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/thallium.json"
+hash = "4b664b5c8082fde2a5b7c3f3c5a74911d43474c1636889ca3a8dbcab34afc444"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/thorium.json"
+hash = "1f19caa0a08e62d9186ec10deb2608d3e772074feb2b95d2a28e712a0c430463"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/tin.json"
+hash = "da777bace2127459b53eab1bbccaa06eab8b78e879e0df4efbb5d9976f4669e1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/titanium.json"
+hash = "9e46e09ab9f1c239bc6dbcf7819e1e32bdeaf2f54760fc93ebfb45f305f858db"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/tungsten.json"
+hash = "1cd9f32c899de45fa7ef32182e40a333ac97ca1bc9c2959269b71e14899770c9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/uranium.json"
+hash = "7df5e53020ca25a7635973a91d6e2f451a7eff32fc9ea1140a0675fd278fb548"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/wood.json"
+hash = "4530467df119c134b0b2f86dc564733b8acfb98d77c93b38603ef876c1a36d39"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/ytterbium.json"
+hash = "241d26af14aa32407528901a6e068c2ef8206bc701ab26d10424979589e63eb8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/yttrium.json"
+hash = "86b801530a72615d8a8a1ce0570a4198f0f138125b168aaddc032deb442436d4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/zinc.json"
+hash = "25d8c56da57e09375281bc390da185561a9ba91a1fb5dc61eaddfdc0a5bf34d3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/zirconium.json"
+hash = "2f56c1f9794fa5b7a50219701840271cc4af27d127d830f4c6ca3c8a00edd8b1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dyes/yellow.json"
+hash = "95a443dc79675337338fba1a9c6279d6071063c172d25e3eec52492ce3c36b57"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/ender_pumice.json"
@@ -4069,12 +4397,492 @@ file = "config/paxi/datapacks/compression/data/forge/tags/items/fence_gates/wood
 hash = "9f04477c39d5845598414adffe3e8e182c3b18d014fc0ca43e6ce21bbeac181f"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/gems/fluorite.json"
+hash = "427122efef808d45ee0b72744df6bbfebfeeea083ed01fd21161980f41b8edf2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/gems/ruby.json"
+hash = "5d064ae676e53ec5d40032fc5b44c7ff657b38576648b520b78126b016e87e0d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/gems/sapphire.json"
+hash = "70384f7a9d9d1e185b91b843040135885f4cdcd7b1b84f0b81bcae1757e18381"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/gems/sulfur.json"
+hash = "99f8bb9b57e84dcd13efecb167cb42afed66f1093d71a75341dced0a7526481d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/aluminum.json"
+hash = "10d8740d2527d6238485c72846e2b6afecdf7a6c9c9ae6d7af80b30e5a595947"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/beryllium.json"
+hash = "439cca94799a69a1d2af53e7c6e8434cd2357e20557282cc9c75cb2b83f1b98d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/bronze.json"
+hash = "8b2dad5bedb7704047b2abe5051638ad2c0c29888bec4742ea138e40de543c53"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/calcium.json"
+hash = "40e3620c5723342d927a8a525e88acad225dcb059004d82f48eacbd22dfd1de1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/chromium.json"
+hash = "afe6b092fff5ff6ce24e511bdb748e2005c41841e66b44fcab10a6990c8351f4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/cobalt.json"
+hash = "d65b8bc08b03b4276decb7342f8b0ea9ef5d431aaa636681f684adab5abe8028"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/constantan.json"
+hash = "4ef49886fa293f5332afb4d378c5096135836b7ea17b3853d06d35203670e7fd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/electrum.json"
+hash = "5b16923e94b1f7d01b2a2fca49d850091d499838cd0613f5462b456b14e44a43"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/hafnium.json"
+hash = "7c66c1894df1722c55f6dce0b3b0bf2696422a85263fdeade52d578f9bf0b83c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/lead.json"
+hash = "61e16a421f7217d91c4ae7707e858aee9914bc02d326264e0f0564adfa565e28"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/lithium.json"
+hash = "c819bf55bdab8c726d450855687e1283d239e987e706e02b37c1b963585932e6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/magnesium.json"
+hash = "82d158459dde4f6ef7c65243727c55f81a5ce7bf9c32d016bbeffe53e344b6a0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/manganese.json"
+hash = "0c0316ba238cbc8790c1438ac605913f8a540a3112d5bb598cec873dd77991a2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/nickel.json"
+hash = "2878e12458e76611affc6077b1492887ae1cfcc8b7dccd0233720ac0a04a6e57"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/niobium.json"
+hash = "18de050a63fecc508a8bbbc61afcf47bbae6e85f15656cc43aba8c164f2cbdb3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/osmium.json"
+hash = "7ffd7289d30a4646a1c766af16213911f921ca415a26b07cbc23b88808499fae"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/palladium.json"
+hash = "4dd00b923c5c756aefde32aeefda1488ce94ef3ace3dcc89b5dc6eb05c72c4c7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/platinum.json"
+hash = "8aef51a474a4a088d114fde5f70dcbc20e84218a78fe4576c12c14d4b3399a06"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/potassium.json"
+hash = "d1c2d10c2780414d455976189a8f106646fd3e38435da07404efd97a4762a279"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/silver.json"
+hash = "dde5493dedb38d4024361c5b9b9714f9ab977187d4b5fc714bee14264dea0377"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/sodium.json"
+hash = "d75b220d3c77ca3915179d8d07de63d30d05fed22073705081767267bbff7879"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/steel.json"
+hash = "15bbf9811608ca57dd47e26e764255a0ee952502e576d8805d7980e6bd955dcb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/strontium.json"
+hash = "3feeb83b5b22b2f6db1e4a105679081f518c1725632c1a3695113d7603d47cce"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/thorium.json"
+hash = "500798b6b5c19fa113c4d9b57f03245693163bbc8b8829b4f074e2a9d377ae0f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/tin.json"
+hash = "a78e70165b6b097dd8935d3530bce28314d3c085559a82221e5a1c588c138ae7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/titanium.json"
+hash = "79ecb98c48a58d9394700ec91185715345d9b883d51c5c1e78aa0d9bf5d26146"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/tungsten.json"
+hash = "00cc209e8bfaaf19ee581a8c2bdb0a635409ff1ac29c9d4d8bab0e898333df05"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/uranium.json"
+hash = "9d835e151ff90e6d7e563d2e9f8e8df28ae4f463b634a3f5e011daedef9f3529"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/vanadium.json"
+hash = "fe220eb3652201b5c0a02b02b68b6a5bfa21f37e5033b3a240bf972cf658b5ec"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/yttrium.json"
+hash = "082142359e14aaa97444cfd26dcc87770a8d05629a76a6f4ded93fb4c752044c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/zinc.json"
+hash = "de2241d50dda4c4cef564e7296330321c1721de012313cd57209ea63934be1b6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ingots/zirconium.json"
+hash = "70cb292bfebb84e7fc83bffe382ac45e1b616ab479c1df2e141fbec91b0a2f2f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/leather.json"
+hash = "bc37cfc34700be7f9e47523597d4970b15917c5c0dae6beec5e294bc3c12de94"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/aluminum.json"
+hash = "e34b276bb224206ba551c653def2f10e9061e6e5d3666043036e67dba080a604"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/beryllium.json"
+hash = "294f485111768ac8ac5e083968ee3304174f61e3e15e47743f54f720aa64deee"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/bronze.json"
+hash = "4b7ddef083494acd28a19ee5e9599c83a507f2ace923c02b1e8212cdb744589a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/cobalt.json"
+hash = "b75ecbeda5a097ed8af2a00bdbce1b11f7713ba51e39163fc57c0a5b6ef9697d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/constantan.json"
+hash = "0de52fbed73fa052511e32c25310d58b37b1156e8abc7fa6cd17cc7cf05d253a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/copper.json"
+hash = "48808cec3987d6f9b4f4b2b0c76524ea6b7ea24bb34d15ef8257e341512ec656"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/electrum.json"
+hash = "ac3b69f1f4d31fdb91d62cc10aac33bc63cc432269d29eb911590393d7362d37"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/lead.json"
+hash = "65a6baed716330cc276373583e74c57d6ac416e6b4ce65823b6e783ef06eeec1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/lithium.json"
+hash = "b10bb7c6cc82ea9fde3e39d3cf55ba14ae298274501945bb8daf41d89c865943"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/magnesium.json"
+hash = "0bb26f515a8e61451e9c0ef593d89761661aaa51561aef75afcf676074d53464"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/netherite.json"
+hash = "8ff7dbba2461ad874522775c1c10cb5846256e77f2f389c189039cf3bcf45122"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/nickel.json"
+hash = "e93f73bc20aeed38400a9713a1f48c6f6f1199c54d1041dafbc501a4d5f75ddd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/osmium.json"
+hash = "a59f9f2ddd2c9bb060dcea9466aa7d589eaff5c0f5bea670048f778d58813f19"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/platinum.json"
+hash = "f671c89114cc1c6275afb4a738fe08dd3ebd05ac5823041df52d1cd76e3c87b3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/silver.json"
+hash = "5581b8068eac93791a98754a921ead3459a9e3cba589022f5bf9b769f6df3d2d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/steel.json"
+hash = "934f449dfbca57209cc2c6ff4a3074586103c1b57935d444f5ae1a183f6e47ba"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/thorium.json"
+hash = "d408bca287c42b4a6ed91613a48e972c2240c319c1f8710298dda71844bef596"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/tin.json"
+hash = "0d1d88b1d447b31b1fb081f127fd5cb3290db2e970cac521f1803a57668a54e8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/uranium.json"
+hash = "10282273fe7068aa380792c9c1cc678e3afa586e8534e08da0c3f5c52e0548cd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/vanadium.json"
+hash = "162cb298cdf89562e1c729cdcdf5041d4d71f0ed3b7f170022d8199a72f0e2fc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/zinc.json"
+hash = "476f87043de85393606c5dc5e4e37aff4409f60ce238d986b1c4d356fc55dc87"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/zirconium.json"
+hash = "735a64c2e18f9a2b50524ac495bc86d37e5d1cf908272cdd30db8afd501dc942"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/petal_apothecary.json"
 hash = "d3ff8c1dd93f89e025421e02b970e9c48f5bf13faadb3b0c7febd4b222b9d9a8"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/aluminum.json"
+hash = "ebdfc467cbdee8860b02af374bececfa31495cf749e04762bc1607ffe3a39a83"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/beryllium.json"
+hash = "13bdfb0120e8869f3114fd21aa1389dd6b3a32b630ab26e1dcb82cfa1106c5e9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/bronze.json"
+hash = "3f47f69de2f2c6cb6f081e0f9c78fff68e458f23aeff8203170292a6a363b1e7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/cast_iron.json"
+hash = "5b0e0d788679f88b286e892b3b99225712672673c4db7cb02fc3567aed1e735a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/cobalt.json"
+hash = "c0f3bd269fcc5b51ea24c5f7f53ce73f9ef7561cbef158a96ca586bf64351208"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/constantan.json"
+hash = "a2b860bfd47ba77687bb1e8c41bf6dc055cb81a293d7dfee23720c3e2b524954"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/copper.json"
+hash = "f0b6f9bcf8a0bbeb62e9de3b932b6e405679afa619e6243ae0678a38ca240a97"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/electrum.json"
+hash = "e0dc30dc6cfd386c22f8ac29f99386997fe83d08034e2dce885faf19b33b938b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/enderium.json"
+hash = "1a43f0d2c9cf188f5a21cc88da08700fc79f8e169ae413ecb656d5ea7ee5bcf5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/gold.json"
+hash = "ac589ca58d57b4d27794a9f0224ecfb76dd54d56698e3a90636b54cc43ebc191"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/invar.json"
+hash = "b1ad935901c34f5d9f1447d51eb981b064d461c363086beb5f7d182999db16ce"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/iron.json"
+hash = "9a6b6b3a26b43cefb9bacd84254f194f77506de79dbba99c6bb24e1d13dd5445"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/lithium.json"
+hash = "c7cd7f3a21b86129bd9f5a850e34fe69c6e2f3942d6f517ea3ef00e2286976a3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/lumium.json"
+hash = "34350cac7d7e4a4cd0bd4f845613f85b5f1c67e6272327c66d42a10f60d18f63"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/magnesium.json"
+hash = "258db320f225f6d0d281fb3527c044220b9ed6857bccced991a4972ee565b1a2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/manganese.json"
+hash = "422b6bc908d76aa71a9ef61e335b08fd6ed505a2f230e519f16182540a96b6cb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/netherite.json"
+hash = "3df60615f92b30e2f8c8ddc0edde46368e9a5864416054b80e4467df771ab41c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/nickel.json"
+hash = "1ec02ef5dd0796979a4a43df99944330de0e3caed35fecd07439d09e5893c3aa"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/osmium.json"
+hash = "4b16e012547835ecb78733d055ab357f8ff19f75de693963bfec1e0981c99bc9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/palladium.json"
+hash = "3ba0bffebb5dc2c8799401bcc100a9068e0d1ef7ddc2a9461ba78196a571b770"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/platinum.json"
+hash = "233297570fc05f90d64cc3e25e3ebcfa4040db48adf4655fd6ee2cf6c1344ea9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/rhodium.json"
+hash = "8776d915835f7b82a1569c92441b96674d854df5b581925dc2ac7d9b519c51bc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/signalum.json"
+hash = "be19a0f55136847dad573904f9c5a12639ec3de5eb500955f101e503e82f1838"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/silver.json"
+hash = "11ea1ed88d1365543d1f7b2442eb809c4e18b75eace7b714081b8e26034bd306"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/steel.json"
+hash = "cb33181f6d11a54318cd2eb9a70783fce65b7dd0568a02c13127ee0373c0bc4d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/thorium.json"
+hash = "b2f868a441aa91cedc12a2564705652e9f496910c90aba08724e1a29c84eb784"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/tin.json"
+hash = "f929927359463d368543a42e866057555c096eae5ad6564730fc7424b22618df"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/uranium.json"
+hash = "80be93f9f65b414023f0f546a9773068e3dea27c7c445d9523804060ca1ee575"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/vanadium.json"
+hash = "1fe8bd3452989fbe0bbf2e383aeede2dd6c8a988198dffef566442b36a09222a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/zinc.json"
+hash = "195b3995d55a938ab08ea097af59ccaefaabf9af127599da13ab5e66b240f985"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/zirconium.json"
+hash = "42eeb1f160753090e3f9bf2fe60b2beb158b7cc8febf1858f2d3488bb4a688ab"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/rods/aluminum.json"
+hash = "f9748addaec183dc0cdb17ff725e13b89b321f7e57f35d2120d667f3723eb847"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/rods/steel.json"
+hash = "1b48a65d1d366181f0792554e3304382df7ac029a4fd9e93d047d9586e69536d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/sawdust.json"
+hash = "4530467df119c134b0b2f86dc564733b8acfb98d77c93b38603ef876c1a36d39"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/slag.json"
+hash = "6e72d5b6a7d8ae5fb20b2e990275dc070fd880d1e23f107dce7574c9d1a59a72"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/aluminum.json"
+hash = "25a37380aec01715414767c1397d55b2ce61edf87cc243d8931346ac4d888aef"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/beryllium.json"
+hash = "6379e5639c4dd89b2325f5d9854b8620e550acdd1869fa8f19972e7f903373e5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/bronze.json"
+hash = "392cd35b9fe960511631eb0b04fecead8e7fba450911f09fbc95650d0a075c8b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/charcoal.json"
+hash = "6096a6cc3379978aab55662b235a4bc2b74e088ef673cf23ee687b1636ec215e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/coal_coke.json"
+hash = "169ceec01763dafc4d1c1c63ba318c883625ea1368933591e8fdde9e6f75170d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/cobalt.json"
+hash = "e352a19e6303608c5e8f5008074a8f73338cbe779f9400bb8d91833afa79de96"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/constantan.json"
+hash = "3212de01fa7a9c3b80ca7aa5d3fb0c622a3914bec9bf1e6e312e58ed0ed4721b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/electrum.json"
+hash = "5638b3ddfc42844ca04b057143b61a081ba4158944fc0807bc519461fcaf6a48"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/lead.json"
+hash = "4a5214d23764fd67f63f7a591cbcd99d728ac4198f9d53380d91ad6db20f8b76"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/lithium.json"
+hash = "88d3c8d8979c453c27916a1a18be3f1d0abde8d641c81e61231c8a53ba249629"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/magnesium.json"
+hash = "52f6efe0b252e9ec0c6ea4947a077b92bff25f6b5b1d0eb990a840d8e6aa8d12"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/nickel.json"
+hash = "6d6e1f5720f9c724798022247728cbc327b712ade2b96daaa38800b9ca4cbd50"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/osmium.json"
+hash = "ba99ef0cf79d8edc981a742af08b105dc5f71e528bd14039a7a6e89abc9f8014"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/platinum.json"
+hash = "ac01e5253ca463c20867fb2aa78e9e016f4742687bd58f588cf6680d0f276694"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/silver.json"
+hash = "ff9db0eb2bd512802f58b2aad313271f00fbe73f52f9fd2ec629edae77909106"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/steel.json"
+hash = "7c18c701d35ae93199590e8dc27d59e7e595c4bd569b9c57bbfc4ef3c04fa042"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/sulfur.json"
+hash = "f42c179a54ca7f60a01ad3cc664ee57da85ed185b38638a198401d2d0280f012"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/thorium.json"
+hash = "70e8a53ac9b9f3f0295b7fe0b17d6e55da8165dec361b39e3a273e89ad04224f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/tin.json"
+hash = "8fac24fb82ee65a39ce64a9966e4701b8f4a9a31853ed5d1775f5358f8053dfc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/uranium.json"
+hash = "5af65b9657e474f520a7521f63bacfc7c7204ee21e6d456658149bdc6d509f2c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/vanadium.json"
+hash = "1b3b5efe417a5e91ad4a4a95f6d27ccecfe8067bd4b6458b471ee951719215a3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/zinc.json"
+hash = "9c37d591d4bc926f2689ecdb8cedc3015a39f7d5f9c525fb1141079992a0b31d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/zirconium.json"
+hash = "3d2c1b22addc5cf9f3f94b48bcf8e1689cf040aa7e768c34d5d43a37cb16d8ca"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/whitewood_log.json"
 hash = "da5e031ac9a8ed63b3c80f1bb6370b18a0c8a088a4f04adeb0890c950987e245"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/wires/aluminum.json"
+hash = "202ef97a47c50141f2a6c076ca4740e7641295fa5c64ef687cdfdd50561e75fd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/wires/lead.json"
+hash = "d9f68bb6dd6c18e1d155813ecc08fca5bcddbcd5af2a638086953cbf42f4e558"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/wires/steel.json"
+hash = "fd1a57f2c5ddedfe8e83788ab522fc15e5983d70873d6e351183a4c7c83fb8b1"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/gardenofglass/loot_tables/extra_seeds.json"
@@ -4863,6 +5671,10 @@ hash = "6aff214d90619014b7d8d0639e7c6c6daadbc254dd211edd44a486a1bae2c01c"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/distillationtower/hydrocarbon_tar.json"
 hash = "3ea8ff7bc54363efa73352e070481f4cd3e170cf0f46157b5f2f6e0e7c5ffe70"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/distillationtower/oil.json"
+hash = "edf850c27d0d5a3fd3b4ee11ecd6abc74e8b939841be42415eaa9018af474ac9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/distillationtower/raw_wood_vinegar.json"
@@ -5682,7 +6494,7 @@ hash = "5310a6b233a7c0583cfeb36eb07cd9503d189685c28ce3bb8158f530d43424fd"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/synthetic_mica.json"
-hash = "a3ebb47084683c67ad7fa53a3d8d0f0277ef1c11ce56fa27ce32e540cbd203d3"
+hash = "f96c43109541938fbe6bb926dd488e046e489285950f14f84568a5080a741101"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/black_glazed_terracotta_t1.json"
