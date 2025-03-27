@@ -43,6 +43,8 @@
 		{"namespace": "thermal", "path": "recipes/fire_charge/invar_ingot_3.json"},
 		{"namespace": "thermal", "path": "recipes/fire_charge/constantan_ingot_2.json"},
 
+		{"namespace": "thermal", "path": "recipes/smelting/slag_from_smelting.json"},
+
 		{"namespace": "thermal", "path": "recipes/machines/press/packing3x3/press_carrot_packing.json"},
 		{"namespace": "thermal", "path": "recipes/machines/press/packing3x3/press_potato_packing.json"},
 
