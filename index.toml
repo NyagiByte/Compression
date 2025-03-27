@@ -3641,6 +3641,14 @@ file = "config/paxi/datapacks/compression/data/create/recipes/sequenced_assembly
 hash = "95170f33135908e0577183638fe204be003bb0b119fd61e148b0b8d24e52749f"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/sequenced_assembly/track_t0.json"
+hash = "43b34f0fa7d40d1d4f70b79e1db9f334b9af35a37959bd343d99956c36a9c820"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/sequenced_assembly/track_t1.json"
+hash = "24eaa243bb63debfdac07aaddc6eccc8988140177d64299fd4eac07ed6b42604"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/stonecutting/andesite_bars_from_metamorphic_alloy_stonecutting.json"
 hash = "64108150a68c254fc8f6f53046704ae3451e6fc4c31d1356260303b81f1da66b"
 
@@ -5334,7 +5342,7 @@ hash = "4c266bdadc119b8f8683c343a158a720effe3adfa74e6f4a9ec10249ae876570"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/stick_aluminum.json"
-hash = "7f59ec3d725319ec4b4b82c0cfbfc45bfe6dfb40b13118565153c15b50e01e90"
+hash = "533c26c2c35c6b02d41d9d1c6616769951ccf5a4b7ef7666804e1c9f9b38c1e8"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/stick_iron.json"
@@ -5426,7 +5434,7 @@ hash = "01f821fc5efec913da9698ab50a1c7e5bf1c6bffaa3493510b65ae543c051063"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/wirecoil_structure_steel.json"
-hash = "88a557d3080ac4daf74010c5279df9b3fbfa72d8f7ba3869e5b0338f75c402d1"
+hash = "3baa2fc7c4993d51e9fdd39f3ada7c3eb5688743e687b5aae359a2b33ff60a15"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/wirecutter.json"
@@ -10945,6 +10953,14 @@ file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assemb
 hash = "b4a2a4549a54e38826f1defb978b5cb6666a4a4f59251403c4fa488be48d2325"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_monorail_t0.json"
+hash = "723ac562482ff8a166fc8764af8bfcc8fdd079d16c6f1db1cfb08700e3b45fcf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_monorail_t1.json"
+hash = "485c091e8bcd4786b65603c3cfc56834745a2d87dcb53d2b55738748fed2412c"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_oak.json"
 hash = "1e979bb33fc74bbada9875e6570626e1a3f0ee5651d8010a5532b10818163499"
 
@@ -11786,7 +11802,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "a66562876f3562d53696e1b5ead3c9223d96243d63008ff09c893ca081e12a60"
+hash = "9a4c72a9400ad058c7be6e5883a1f0e0af3fe165ece97c2c3f4b9ab0afa85545"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
