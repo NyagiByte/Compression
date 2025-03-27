@@ -1,0 +1,51 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "immersiveengineering:storage_steel"
+    },
+    "loops": 1,
+    "results": [
+      {
+        "chance": 100.0,
+        "count": 8,
+        "item": "create:track"
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "immersiveengineering:storage_steel"
+          },
+          {
+            "item": "vintageimprovements:steel_rod"
+          }
+        ],
+        "results": [
+          {
+            "item": "immersiveengineering:storage_steel"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "immersiveengineering:storage_steel"
+          },
+          {
+            "item": "vintageimprovements:steel_rod"
+          }
+        ],
+        "results": [
+          {
+            "item": "immersiveengineering:storage_steel"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "immersiveengineering:storage_steel"
+    }
+  }
