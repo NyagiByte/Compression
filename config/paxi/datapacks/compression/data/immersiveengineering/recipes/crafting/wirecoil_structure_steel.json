@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "key": {
-      "A": {"item":"immersiveengineering:wire_steel"},
+      "A": {"item":"vintageimprovements:steel_wire"},
       "B": {"item":"immersiveengineering:stick_treated"}
     },
     "pattern": [

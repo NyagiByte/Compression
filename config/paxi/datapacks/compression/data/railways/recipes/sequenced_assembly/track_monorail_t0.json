@@ -1,0 +1,51 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:iron_block"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "chance": 100.0,
+      "count": 4,
+      "item": "railways:track_monorail"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:iron_block"
+        },
+        {
+          "item": "create:metal_girder"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:iron_block"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:iron_block"
+        },
+        {
+          "item": "create:metal_bracket"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:iron_block"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "minecraft:iron_block"
+  }
+}
