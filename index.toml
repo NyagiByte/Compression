@@ -5945,10 +5945,6 @@ file = "config/paxi/datapacks/compression/data/minecraft/recipes/yellow_concrete
 hash = "1ed80e30a06146320669258325d27f8d14a4828e836000496ae67caf2e380bc5"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/minecraft/tags/functions/tick.json"
-hash = "7181983036461306d27c95f652c825c3f1409b72888a77ddac8a21f45a0bd3dd"
-
-[[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/tags/items/planks.json"
 hash = "5d7bab78b8edc97ab80c5f624b31de09999a8fc745e44f090f5f0359f169c4f1"
 
