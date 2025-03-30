@@ -5950,7 +5950,7 @@ hash = "7181983036461306d27c95f652c825c3f1409b72888a77ddac8a21f45a0bd3dd"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/tags/items/planks.json"
-hash = "e3b763778d5e30c87df09268ebb9762e9f90b3b27e0903bd23a73ae08a6fd2b0"
+hash = "5d7bab78b8edc97ab80c5f624b31de09999a8fc745e44f090f5f0359f169c4f1"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/worldgen/configured_feature/fossil_coal.json"
@@ -10046,7 +10046,7 @@ hash = "6b33733aa6daef99313de852edcc974e21496f07d88482e527c878d91a7afb10"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/quark/tags/items/posts.json"
-hash = "10602cba320e3bc05e2066806f7c5a16c1d51b18b7490cf95fb2c328fc3c1fc1"
+hash = "795391ccb1c9dc286e69eefbc96906f1e6b980df0c15f4ae7f0e1c8fd3f74797"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/railways/recipes/crafting/semaphore_t1.json"
