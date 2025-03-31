@@ -1,7 +1,7 @@
 {
     "type": "create:sequenced_assembly",
     "ingredient": {"item": "nyagibits_bytes:crude_statics_test"},
-    "loops": 2,
+    "loops": 16,
     "results": [
       {"item": "nyagibits_bytes:used_crude_statics_test"}
     ],
@@ -13,7 +13,7 @@
             "item": "nyagibits_bytes:crude_statics_test"
           },
           {
-            "item": "nyagibits_bytes:torn_wool_ball"
+            "item": "nyagibits_bytes:torn_hemp_ball"
           }
         ],
         "results": [

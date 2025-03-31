@@ -1,0 +1,8 @@
+{
+    "replace": true,
+    "values": [
+        "nyagibits_bytes:torn_wool_ball",
+        "nyagibits_bytes:torn_flax_ball",
+        "nyagibits_bytes:torn_hemp_ball"
+    ]
+  }

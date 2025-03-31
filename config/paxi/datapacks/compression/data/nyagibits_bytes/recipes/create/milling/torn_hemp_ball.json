@@ -1,0 +1,16 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "immersiveengineering:hemp_fiber"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "chance": 0.5,
+        "count": 1,
+        "item": "nyagibits_bytes:torn_hemp_ball"
+      }
+    ]
+  }
