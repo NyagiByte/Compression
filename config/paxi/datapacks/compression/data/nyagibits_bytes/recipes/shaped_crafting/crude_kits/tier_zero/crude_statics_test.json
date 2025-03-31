@@ -3,7 +3,7 @@
     "key": {
       "A": {"item":"nyagibits_bytes:bucket_of_salt_water"},
       "B": {"item":"create:copper_nugget"},
-      "C": {"item":"nyagibits_bytes:torn_wool_ball"},
+      "C": {"tag":"forge:torn_fabric"},
       "D": {"item":"create:zinc_nugget"}
     },
     "pattern": [
