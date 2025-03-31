@@ -1,81 +1,81 @@
 {
-    "type": "create:mixing",
-    "heatRequirement": "superheated",
-    "ingredients": [
-      {
-        "item": "immersiveengineering:ingot_steel"
-      },
-      {
-        "item": "immersiveengineering:ingot_steel"
-      },
-      {
-        "item": "immersiveengineering:ingot_steel"
-      },
-      {
-        "item": "immersiveengineering:ingot_steel"
-      },
-      {
-        "item": "immersiveengineering:ingot_steel"
-      },
-      {
-        "item": "immersiveengineering:ingot_steel"
-      },
-      {
-        "item": "immersiveengineering:ingot_steel"
-      },
-      {
-        "item": "immersiveengineering:ingot_steel"
-      },
-      {
-        "item": "immersiveengineering:ingot_steel"
-      },
-      {
-        "item": "immersiveengineering:ingot_steel"
-      },
-      {
-        "item": "immersiveengineering:ingot_steel"
-      },
-      {
-        "item": "immersiveengineering:ingot_steel"
-      },
-      {
-        "item": "immersiveengineering:ingot_steel"
-      },
-      {
-        "item": "immersiveengineering:ingot_steel"
-      },
-      {
-        "item": "immersiveengineering:ingot_steel"
-      },
-      {
-        "item": "immersiveengineering:ingot_steel"
-      },
-      {
-        "item": "chemlib:phosphorus"
-      },
-      {
-        "item": "chemlib:silicon"
-      },
-      {
-        "item": "chemlib:chromium"
-      },
-      {
-        "item": "chemlib:chromium"
-      },
-      {
-        "item": "chemlib:chromium"
-      },
-      {
-        "item": "chemlib:chromium"
-      },
-      {
-        "item": "chemlib:molybdenum"
-      }
-    ],
-    "results": [
-      {
-        "count": 16,
-        "item": "nyagibits_bytes:steel_stainless"
-      }
-    ]
-  }
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "chemlib:iron_dust"
+    },
+    {
+      "item": "chemlib:iron_dust"
+    },
+    {
+      "item": "chemlib:iron_dust"
+    },
+    {
+      "item": "chemlib:iron_dust"
+    },
+    {
+      "item": "chemlib:iron_dust"
+    },
+    {
+      "item": "chemlib:iron_dust"
+    },
+    {
+      "item": "chemlib:iron_dust"
+    },
+    {
+      "item": "chemlib:iron_dust"
+    },
+    {
+      "item": "chemlib:iron_dust"
+    },
+    {
+      "item": "chemlib:iron_dust"
+    },
+    {
+      "item": "chemlib:iron_dust"
+    },
+    {
+      "item": "chemlib:iron_dust"
+    },
+    {
+      "item": "chemlib:iron_dust"
+    },
+    {
+      "item": "chemlib:iron_dust"
+    },
+    {
+      "item": "chemlib:iron_dust"
+    },
+    {
+      "item": "chemlib:iron_dust"
+    },
+    {
+      "item": "chemlib:chromium"
+    },
+    {
+      "item": "chemlib:chromium"
+    },
+    {
+      "item": "chemlib:chromium"
+    },
+    {
+      "item": "chemlib:chromium"
+    },
+    {
+      "item": "chemlib:silicon"
+    },
+    {
+      "item": "chemlib:phosphorus"
+    },
+    {
+      "item": "chemlib:molybdenum"
+    }
+  ],
+  "results": [
+    {
+      "count": 16,
+      "item": "nyagibits_bytes:mix_steel_stainless"
+    }
+  ]
+}

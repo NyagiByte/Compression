@@ -3,31 +3,40 @@
     "heatRequirement": "superheated",
     "ingredients": [
       {
-        "item": "immersiveengineering:ingot_steel"
+        "item": "chemlib:iron_dust"
       },
       {
-        "item": "chemlib:phosphorus"
+        "item": "chemlib:iron_dust"
+      },
+      {
+        "item": "chemlib:iron_dust"
+      },
+      {
+        "item": "chemlib:iron_dust"
+      },
+      {
+        "item": "chemlib:chromium"
+      },
+      {
+        "item": "chemlib:chromium"
+      },
+      {
+        "item": "chemlib:chromium"
+      },
+      {
+        "item": "chemlib:chromium"
       },
       {
         "item": "chemlib:silicon"
       },
       {
-        "item": "chemlib:chromium"
-      },
-      {
-        "item": "chemlib:chromium"
-      },
-      {
-        "item": "chemlib:chromium"
-      },
-      {
-        "item": "chemlib:chromium"
+        "item": "chemlib:phosphorus"
       }
     ],
     "results": [
       {
-        "count": 1,
-        "item": "nyagibits_bytes:steel_stainless"
+        "count": 4,
+        "item": "nyagibits_bytes:mix_steel_stainless"
       }
     ]
   }

@@ -1,18 +1,17 @@
 {
     "type": "create:mixing",
-    "heatRequirement": "superheated",
     "ingredients": [
       {
-        "item": "nyagibits_bytes:steel_high_carbon_1080"
+        "item": "nyagibits_bytes:mix_steel_1080"
       },
       {
-        "item": "thermal:nickel_ingot"
+        "item": "chemlib:nickel_dust"
       }
     ],
     "results": [
       {
         "count": 2,
-        "item": "nyagibits_bytes:steel_high_carbon_15n20"
+        "item": "nyagibits_bytes:mix_steel_15n20"
       }
     ]
   }

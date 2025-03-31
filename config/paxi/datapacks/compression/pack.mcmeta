@@ -462,7 +462,8 @@
 		{"namespace": "immersiveengineering", "path": "recipes/fermenter/beetroot.json"},
 		{"namespace": "farmersdelight", "path": "recipes/integration/immersiveengineering/fermenter/tomato.json"},
 
-
+		{"namespace": "immersivepetroleum", "path": "recipes/smelting/ingot_steel_from_dust.json"},
+		{"namespace": "immersivepetroleum", "path": "recipes/smelting/ingot_steel_from_dust_from_blasting.json"},
 
 		{"namespace": "immersivepetroleum", "path": "recipes/toolupgrade_drill_lube.json"},
 		{"namespace": "immersivepetroleum", "path": "recipes/ersatz_leather.json"},

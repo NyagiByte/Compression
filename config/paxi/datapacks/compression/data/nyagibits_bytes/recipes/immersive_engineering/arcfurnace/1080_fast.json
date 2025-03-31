@@ -1,7 +1,7 @@
 {"type":"immersiveengineering:arc_furnace",
     "additives":[
         {
-            "item":"immersiveengineering:ingot_steel"
+            "item":"nyagibits_bytes:mix_steel_1080"
         }
     ],
             "energy":10000,
@@ -14,4 +14,4 @@
                         "count":1,
                         "item":"nyagibits_bytes:steel_high_carbon_1080"
                         }],
-                            "time":100}
+                            "time":10}

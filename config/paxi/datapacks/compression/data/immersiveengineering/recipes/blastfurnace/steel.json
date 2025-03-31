@@ -4,7 +4,7 @@
         "item":"minecraft:iron_ingot"
             },
         "result":{
-            "item":"immersiveengineering:ingot_steel"
+            "item":"nyagibits_bytes:unprocessed_mild_steel"
                  },"slag":{
-                        "item":"thermal:rich_slag"
+                        "item":"nyagibits_bytes:carbon_residue"
                           },"time":100}

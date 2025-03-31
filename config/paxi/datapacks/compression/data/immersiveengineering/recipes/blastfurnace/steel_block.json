@@ -4,8 +4,9 @@
         "item":"minecraft:iron_block"
             },
         "result":{
-            "item":"immersiveengineering:storage_steel"
+            "count":9,
+            "item":"nyagibits_bytes:unprocessed_mild_steel"
                  },"slag":{
                         "count": 9,
-                        "item":"thermal:rich_slag"
+                        "item":"nyagibits_bytes:carbon_residue"
                           },"time":900}

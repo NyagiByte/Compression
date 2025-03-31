@@ -1,0 +1,16 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:unprocessed_mild_steel"
+    }
+  ],
+  "results": [
+    {
+      "item": "immersiveengineering:ingot_steel"
+    },
+    {
+      "item": "thermal:rich_slag"
+    }
+  ]
+}

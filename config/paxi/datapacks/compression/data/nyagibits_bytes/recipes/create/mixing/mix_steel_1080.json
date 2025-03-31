@@ -1,0 +1,65 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "chemlib:iron_dust"
+      },
+      {
+        "item": "chemlib:iron_dust"
+      },
+      {
+        "item": "chemlib:iron_dust"
+      },
+      {
+        "item": "chemlib:iron_dust"
+      },
+      {
+        "item": "chemlib:iron_dust"
+      },
+      {
+        "item": "chemlib:iron_dust"
+      },
+      {
+        "item": "chemlib:iron_dust"
+      },
+      {
+        "item": "chemlib:iron_dust"
+      },
+      {
+        "item": "chemlib:iron_dust"
+      },
+      {
+        "item": "chemlib:iron_dust"
+      },
+      {
+        "item": "chemlib:iron_dust"
+      },
+      {
+        "item": "chemlib:iron_dust"
+      },
+      {
+        "item": "chemlib:manganese"
+      },
+      {
+        "item": "chemlib:manganese"
+      },
+      {
+        "item": "chemlib:carbon"
+      },
+      {
+        "item": "chemlib:carbon"
+      },
+      {
+        "item": "chemlib:phosphorus"
+      },
+      {
+        "item": "chemlib:sulfur"
+      }
+    ],
+    "results": [
+      {
+        "count": 12,
+        "item": "nyagibits_bytes:mix_steel_1080"
+      }
+    ]
+  }
