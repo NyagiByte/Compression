@@ -3,7 +3,7 @@
     "acceptMirrored": true,
     "key": {
       "A": {
-        "item": "immersiveengineering:stick_steel"
+        "item": "vintageimprovements:steel_rod"
       },
       "B": {
         "item": "nyagibits_bytes:ceramic_encased_copper"

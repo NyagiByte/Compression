@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "key": {
-      "A": {"item":"immersiveengineering:stick_steel"},
+      "A": {"item":"vintageimprovements:steel_rod"},
       "B": {"item":"immersiveengineering:slab_sheetmetal_steel"}
     },
     "pattern": [

@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "key": {
-      "A": {"item":"immersiveengineering:stick_steel"},
+      "A": {"item":"vintageimprovements:steel_rod"},
       "B": {"item":"farmersdelight:canvas_rug"},
       "C": {"item":"immersiveengineering:component_iron"},
       "D": {"item":"nyagibits_bytes:v_belt"}
