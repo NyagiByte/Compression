@@ -1,0 +1,22 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "botania:manaweave_cloth"
+      },
+      {
+        "item": "thermal:bitumen"
+      },
+      {
+        "amount": 100,
+        "fluid": "nyagibits_bytes:hydrocarbon_tar_fluid"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "nyagibits_bytes:bitumen_tar_cloth"
+      }
+    ]
+  }

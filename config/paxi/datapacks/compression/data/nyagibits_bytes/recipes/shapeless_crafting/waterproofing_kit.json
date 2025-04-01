@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "nyagibits_bytes:sealant"
+        },
+        {
+            "item": "nyagibits_bytes:fasteners"
+        },
+        {
+            "item": "nyagibits_bytes:bitumen_tar_cloth"
+        },
+        {
+            "item": "create:super_glue"
+        }
+    ],
+    "result": {
+        "item": "nyagibits_bytes:waterproofing_kit"
+    }
+}

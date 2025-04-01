@@ -1,0 +1,22 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "immersiveengineering:hemp_fabric"
+      },
+      {
+        "item": "thermal:bitumen"
+      },
+      {
+        "amount": 100,
+        "fluid": "nyagibits_bytes:hydrocarbon_tar_fluid"
+      }
+    ],
+    "results": [
+      {
+        "count": 10,
+        "item": "nyagibits_bytes:bitumen_tar_cloth"
+      }
+    ]
+  }

@@ -1,0 +1,22 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:woven_cloth"
+      },
+      {
+        "item": "thermal:bitumen"
+      },
+      {
+        "amount": 100,
+        "fluid": "nyagibits_bytes:hydrocarbon_tar_fluid"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:bitumen_tar_cloth"
+      }
+    ]
+  }
