@@ -58,6 +58,10 @@ JEIEvents.hideItems(event => {
     'minecraft:netherite_boots',
     'minecraft:turtle_helmet',
     'minecraft:shield',
+    //Plates
+    'immersiveengineering:plate_iron',
+    'thermal:iron_plate',
+    'create:iron_sheet',
     //Ae2
     'ae2:certus_quartz_pickaxe',
     'ae2:certus_quartz_axe',
