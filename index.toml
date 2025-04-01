@@ -898,11 +898,11 @@ hash = "ebcb850f6e380c7e1c650f6c171e4961a6bbe9c05f50bc023ac55d7941897ebd"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/advancedcard.json"
-hash = "5cb7cecd8f15a5f07f987313bd7fcfdc4eefd5327eb162f04eeabb38025bacdd"
+hash = "3eb750ac6ae72d8fec5120f9e4964d00581b92228fa1e312b742ee55fd41a8b9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/basiccard.json"
-hash = "fa1019682bc61315e9542916694e1722fc2f3f2af2a0693bac0cefac216c30dc"
+hash = "9c92f1ed936f636fcb827560e0cd5675112224b96a03a433eac3efaac50272ce"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/misc/silicon_cutting_crude.json"
@@ -3633,6 +3633,10 @@ file = "config/paxi/datapacks/compression/data/create/recipes/mechanical_craftin
 hash = "dea7771459767868aecc7244857cbd59ff059ef908f67f8a816aebd666de6d72"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/pressing/iron_ingot.json"
+hash = "988d55b749e597379ae5fbaaf446a55c5ae73ca7b2feaf1016437c613df05d57"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/sequenced_assembly/precision_mechanism.json"
 hash = "c3dab91039b3fa186949661de230011572aa1a71b787ecf2fff60b8b29e77768"
 
@@ -5822,7 +5826,7 @@ hash = "06e99cc03b2e87cfe92503c6aa569057ca555c9d1be497c3e46d3607f0bacca8"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/blast_furnace.json"
-hash = "cd8b095f26b5cac506fb3a6f77d4895bb7bf9c63d8f295e6df637d88b5aab803"
+hash = "fcd156d765b951a1fb04b0aee5d515ffa566188df43e7d9ec30acb174b288df7"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/blue_concrete_powder.json"
@@ -5850,7 +5854,7 @@ hash = "41a4a864357ce9375abb31d27403906c52190a9f3557e673f917f52b4c1bc165"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/bucket.json"
-hash = "71b6e92498a39168df0ca12ba9d63ae5d1fc9805d2d06e9e708de4f59f5d3ae7"
+hash = "5a17a9f14d3dc8b7c55f30f8183781cd30197eb9adc3e63c4ac4d71256ba8f10"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/chests.json"
@@ -6437,6 +6441,18 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "8b91091aeb43b077d1eccbaced6e85189e29764bacfb2225c1cc4ff974dc7bf7"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/bitumen_tar_cloth.json"
+hash = "664e3bf90b7b47d5667f8fd130dd73b016286a544dcbbb214d6fb1c1aee25666"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/bitumen_tar_cloth_t1.json"
+hash = "81fc06e04890a29be4abee38b54b9c35df771b14ab761462ff782167a50224f9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/bitumen_tar_cloth_t2.json"
+hash = "949821708da577d179f5487fc9d9c56056f704bc8a826441740b6c60125bc04a"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/bottle_of_anthocyanin.json"
 hash = "4892dc87f6720a6f60bca5270a65d6e57de7a147ce05921ef6e12fe281e573fb"
 
@@ -6846,7 +6862,7 @@ hash = "b26e806de2761373b7dfc319bee6913e098330a95c9f43c9d31319546fb03282"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/tiny_spring.json"
-hash = "2edc43f1738fd0c8f612120b152d46fad591dfb55a01c4b981fa408c4bda2607"
+hash = "a87ae3d225b4d0e1dd280867deebb64edf1296d8b020c2966e9525778a5d3e1d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/used_basic_material_properties_test.json"
@@ -9438,7 +9454,7 @@ hash = "97c03d1b59ba816ffa64169d584379715fc12de8f75e7b7c929a8c6d3165eceb"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/processor_stack.json"
-hash = "4a3bf398074cd9f6f62c1867955630234f674854821711e22c671f69fd66e43d"
+hash = "892394e8f2f2021c5a9dc45db761b35fdd4f7eaa99ae1acbc399fbc1af3759e1"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/round_bottom_flask.json"
@@ -9571,6 +9587,10 @@ hash = "56128638c2ee13a4c460189e96c23de6e79501a6812b893010988630c53fe088"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/smectite_clay.json"
 hash = "814aa13ad2eeba27acb40ee39837c18d38ffcb0674de49475d7b7f175e353082"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/waterproofing_kit.json"
+hash = "fd8c21fbe0a18e8281e927a1084f54d8717a687357426bed735ae7d55f3a3d5d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/smelting/livisite.json"
@@ -10102,7 +10122,7 @@ hash = "28470b9f482265d22cff060920c5c0b854ad89f2abd877a8420329ab3df40eac"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/quark/recipes/compacting/iron_plate_one.json"
-hash = "61afd6154fae72237a0e74e02c0d7401ea3fa47e1e162e6ea177bf7702dddbe9"
+hash = "6ab1fe3943740dd106e5864b8e7f0c2f4b74b15a65a9a2f13bbf36cf651ac804"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/quark/tags/items/ancient_logs.json"
@@ -11458,7 +11478,11 @@ hash = "f69a8e7d81d324dcb7e882ba459809db942e9328534ddca84ea0d25676128b95"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/thermal/recipes/drill_head.json"
-hash = "3080a0a95e0e6c7bec0b8077e3b1fe3b5c166f07fbb86e67a0df44b12c326126"
+hash = "60b63deae83738b8da876d9d85be47dfac4e981182e5c7e1d4378b4286c8acc5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/drill_head_t1.json"
+hash = "3a815c54949e111da6922c5590d58ab9583c98269b5b3576e89c90bf7b19a29a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/thermal/recipes/rubber_3.json"
@@ -11466,7 +11490,7 @@ hash = "b70a08e3f756011b4580f4763468fe69d4cb1bfbc35623a5ba015cf8cc6c4260"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/thermal/recipes/saw_blade.json"
-hash = "8cc138cc6fca762bdf76cbe9e88959da0e770f0bb4468c6db0bc790325fc028f"
+hash = "2fb94e958a3e858e8d401f78b602f53cc2052a3ec147a672c24d993e1c17e2cd"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/arc_furnace_upgraded/cured_rubber_from_raw_sulfur.json"
@@ -12102,11 +12126,15 @@ hash = "c0956aba8bd98dddd3281f8e2f12feeac103c97c874d5c72232b19cd843ad672"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/lang/en_us.json"
-hash = "1563ac45c143c885e1c7f3b69c9e257ebe72c6ea9e67a6812011d64906f924b1"
+hash = "d68fba801cda0ebf24104c31c3b07bb89f7bfc96af17197a48407f9f63e6c3a6"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/textures/item/metal_plate_steel.png"
 hash = "4b767289e70b3489cb901569b15763e299ea8d139008355ea222619822e671a2"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/lang/en_us.json"
+hash = "19406b94c6373b72c54f16e22073e2866d240517b4ffee34278a50cc6d797a11"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/lang/en_us.json"
@@ -12414,7 +12442,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"
-hash = "8188c874873821d9b1c64cca94cd53be41472e875ca5bf7380fa6a01d9625f05"
+hash = "b8b6a25ecd9593d8591280e3b31a33663a993102cf18135d67cad8ad031a8bf5"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
