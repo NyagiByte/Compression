@@ -1,0 +1,20 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:leather_sheep"
+      }
+    ],
+    "result": [
+      {
+        "count": 8,
+        "item": "minecraft:leather"
+      },
+      {
+        "item": "nyagibits_bytes:scrap_meat"
+      }
+    ],
+    "tool": {
+      "tag": "forge:tools/knives"
+    }
+  }
