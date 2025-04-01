@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "key": {
-    "A": {"item":"create:andesite_alloy"},
+    "A": {"item":"nyagibits_bytes:metamorphic_alloy"},
     "B": {"item":"chemlib:iron_plate"},
     "C": {"item":"create:shaft"}
   },
@@ -10,5 +10,8 @@
     "BCB",
     "CB "
   ],
-  "result": {"item": "thermal:drill_head"}
+  "result": {
+    "count": 8,
+    "item": "thermal:drill_head"
+}
 }

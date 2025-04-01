@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "key": {
-    "A": {"item":"create:iron_sheet"},
+    "A": {"item":"chemlib:iron_plate"},
     "B": {"item":"create:shaft"}
   },
   "pattern": [

@@ -5,7 +5,7 @@
     "B": {"item":"minecraft:iron_trapdoor"},
     "C": {"item":"minecraft:furnace"},
     "D": {"item":"create:industrial_iron_block"},
-    "E": {"item":"create:iron_sheet"}
+    "E": {"item":"chemlib:iron_plate"}
   },
   "pattern": [
     "DEE",

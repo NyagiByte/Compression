@@ -1,6 +1,6 @@
 {
     "type": "create:sequenced_assembly",
-    "ingredient": {"item": "create:iron_sheet"},
+    "ingredient": {"item": "chemlib:iron_plate"},
     "loops": 1,
     "results": [
       {
@@ -13,13 +13,13 @@
         "type": "create:cutting",
         "ingredients": [
           {
-            "item": "create:iron_sheet"
+            "item": "chemlib:iron_plate"
           }
         ],
         "processingTime": 10,
         "results": [
             {
-                "item": "create:iron_sheet"
+                "item": "chemlib:iron_plate"
             }
         ]
       },
@@ -27,15 +27,15 @@
         "type": "create:pressing",
         "ingredients": [
           {
-            "item": "create:iron_sheet"
+            "item": "chemlib:iron_plate"
           }
         ],
         "results": [
           {
-            "item": "create:iron_sheet"
+            "item": "chemlib:iron_plate"
           }  
         ]
       }
     ],
-    "transitionalItem": {"item": "create:iron_sheet"}
+    "transitionalItem": {"item": "chemlib:iron_plate"}
   }
