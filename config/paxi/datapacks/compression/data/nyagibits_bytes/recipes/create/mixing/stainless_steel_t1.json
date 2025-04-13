@@ -1,6 +1,5 @@
 {
   "type": "create:mixing",
-  "heatRequirement": "superheated",
   "ingredients": [
     {
       "item": "chemlib:iron_dust"

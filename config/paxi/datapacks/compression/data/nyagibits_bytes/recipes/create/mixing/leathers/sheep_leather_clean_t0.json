@@ -1,0 +1,28 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:leather_unprocessed_sheep"
+      },
+      {
+        "amount": 100,
+        "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:leather_sheep"
+      },
+      {
+        "chance": 0.2,
+        "count": 1,
+        "item": "nyagibits_bytes:scrap_meat"
+      },
+      {
+        "chance": 0.5,
+        "count": 1,
+        "item": "nyagibits_bytes:torn_wool_ball"
+      }
+    ]
+  }

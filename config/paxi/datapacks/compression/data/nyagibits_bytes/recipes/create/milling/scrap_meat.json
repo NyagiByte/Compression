@@ -1,0 +1,22 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "tag": "forge:meat_to_scrap"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "nyagibits_bytes:scrap_meat"
+      },
+      {
+        "chance": 0.5,
+        "item": "nyagibits_bytes:scrap_meat"
+      },
+      {
+        "chance": 0.1,
+        "item": "minecraft:bone_meal"
+      }
+    ]
+  }

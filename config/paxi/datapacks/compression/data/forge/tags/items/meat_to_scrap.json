@@ -1,0 +1,20 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:cod",
+        "minecraft:salmon",
+        "minecraft:tropical_fish",
+        "minecraft:pufferfish",
+        "minecraft:beef",
+        "minecraft:rabbit",
+        "minecraft:chicken",
+        "minecraft:porkchop",
+        "minecraft:mutton",
+        "nyagibits_bytes:stomach",
+        "nyagibits_bytes:stomach_ruminant",
+        "nyagibits_bytes:intestines",
+        "nyagibits_bytes:heart",
+        "nyagibits_bytes:kidney",
+        "nyagibits_bytes:liver"
+    ]
+  }

@@ -1,7 +1,7 @@
 {
     "type": "create:sequenced_assembly",
     "ingredient": {"item": "ae2:certus_quartz_crystal"},
-    "loops": 8,
+    "loops": 2,
     "results": [
       {"item": "ae2:charged_certus_quartz_crystal"}
     ],
