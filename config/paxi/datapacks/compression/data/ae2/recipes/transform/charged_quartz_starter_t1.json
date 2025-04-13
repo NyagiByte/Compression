@@ -1,0 +1,30 @@
+{
+    "type": "ae2:transform",
+    "circumstance": {
+      "type": "fluid",
+      "tag": "minecraft:water"
+    },
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:used_crude_statics_test"
+      },
+      {
+        "item": "ae2:chiseled_quartz_block"
+      },
+      {
+        "item": "ae2:chiseled_quartz_block"
+      },
+      {
+        "item": "ae2:chiseled_quartz_block"
+      },
+      {
+        "item": "ae2:chiseled_quartz_block"
+      }
+    ],
+    "result": 
+      {
+        "count": 16,
+        "item": "ae2:charged_certus_quartz_crystal"
+      }
+    
+  }
