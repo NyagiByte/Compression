@@ -1073,6 +1073,10 @@ file = "config/paxi/datapacks/compression/data/ae2/recipes/tools/network_memory_
 hash = "e4963756ba27ce6fe8a1c7ccfb5ec3b18838d4d3289bc55ab3204650ffa014f9"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/transform/charged_quartz_starter_t1.json"
+hash = "b256beca37380934a41eda584e5a54c107ec7521cb385c27c4132d71aa07eff5"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/aiotbotania/recipes/livingrock_aiot.json"
 hash = "0cc73d080edf91fa625d5b958b613ec57c3c14018c269fd0ac7fcef8fd5b106e"
 
@@ -1283,6 +1287,10 @@ hash = "ddd2af068358a40ec1fb45bc9958ff03f173ee05182999cababe38c538dddd1f"
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/platinum_from_native_gold.json"
 hash = "faebd642153c14f387cbf540a1286719a4b9f2540385a7b96a2474fc9d8b1974"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/protein.json"
+hash = "267c9880b6c8d93d3e22ad3351fe364b192b2aa203e73ca57c709b64ee793b89"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/salt.json"
@@ -4573,6 +4581,10 @@ file = "config/paxi/datapacks/compression/data/forge/tags/items/leather.json"
 hash = "bc37cfc34700be7f9e47523597d4970b15917c5c0dae6beec5e294bc3c12de94"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/meat_to_scrap.json"
+hash = "69cb27614b603b6c6b5b259404afdaa077a0b0f5579dd9ab7426c4bc2057adab"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/nuggets/aluminum.json"
 hash = "e34b276bb224206ba551c653def2f10e9061e6e5d3666043036e67dba080a604"
 
@@ -6381,6 +6393,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "30f37c658e5405bf917d71c46790558fd31c789d39281d5ba9dc85b104c9b017"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/scrap_meat.json"
+hash = "f87484d6c4feff295a768a584d1de6cebc7f4df707c0874f2ac00600ae694084"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/soulsandl_to_soulsoil.json"
 hash = "71e7c3b6d9f9c6454d502d53e4f2380f57e868e604a9983e46bed34a7db1ef8a"
 
@@ -6481,6 +6497,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "184470c0ed3c74af2b02382377ec4bea4892f7cbbd9eee3272efeecf5c5be9d6"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/brain_to_lard.json"
+hash = "e0a3adac5334161066e0a687e70045480bd4dedf69fb59e3868ed4ccedc5e923"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/chromium_trioxide.json"
 hash = "1663491e60b18fda3c3e8828ce6609c2c02c10a0e8a89372d6cbf3f7b1c43f21"
 
@@ -6519,6 +6539,38 @@ hash = "5bc85d35756e1355b3b14c59a2cbdaaf5247f904a116b94e6a7daf7f4ab540ee"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/laventine_smelt.json"
 hash = "0fcd21cf49d04f7f277b673e48257614b38038e770eebc207bec7424d5e73081"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/leathers/cow_leather_clean_t0.json"
+hash = "8a1321d63d7fb073910c496ce1b91d3b3c6cd3f9e87a3d5cc3cbe5cefce700e7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/leathers/cow_leather_clean_t1.json"
+hash = "d4cce29fafc76d5ca5fe88a93cdf4cd27772e7568abbab47e992548bead51eca"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/leathers/equidae_leather_clean_t0.json"
+hash = "74d5d925268b86ac694ddb3b6e14dc089b8357dedc5219c1aeebda671b743395"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/leathers/equidae_leather_clean_t1.json"
+hash = "377889b15bf705e9c4cbff2e68120170e603fd65ead6a439ab7285453392de0b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/leathers/pig_leather_clean_t0.json"
+hash = "f943eb7d89ae06e130fa9e0e8ea22b665e2008bb51fea7392b82161867d885ff"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/leathers/pig_leather_clean_t1.json"
+hash = "c1086ccb88b0371e80d282852a0332aa2f88141e718cae055b17e745b8fcd333"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/leathers/sheep_leather_clean_t0.json"
+hash = "6037e9fd52b15fe11032d92e94941c7e2c3d8935c3f761ed18b3c9c6b655c80d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/leathers/sheep_leather_clean_t1.json"
+hash = "e23927caad3bcc6426d97d86e8a4024ab6ffced3f40e41373779dd5d6f6766c2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/lithium_alumino_solution_neutralization.json"
@@ -6586,11 +6638,11 @@ hash = "9326fce0cf29899be22124bf3a01412b8343908abd55b667a2ed9be2b512b304"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/stainless_steel_t0.json"
-hash = "1a2a5ce60a84a78145036bedf4e99532dd39de325f5021ca36b953c01fd7afc4"
+hash = "b94f23a5d068cdd8daf17b4a58c3127e51dec03c7627513435fbe1959f07822f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/stainless_steel_t1.json"
-hash = "93df1e8c9e35cc9fc2656ef10387630323e068959be27c842b8e01594410b0d4"
+hash = "e9d29bc229d4724f0ffadcd4df420b403575f46d8e242e12cd4fc6317ee8c1ae"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/synthetic_mica.json"
@@ -6794,7 +6846,7 @@ hash = "80ccda00778d4c1118a3a1a5b4d6b3afda79fa10876f74de4b891405eeb9c12f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/charged_certus_quartz_initial.json"
-hash = "e5d449d7cc0edee1f0eaac46d63866edfa73b2f4989464e663f1eb796c1caf17"
+hash = "1e8a1859a8813fd47fc511937733aaa3b938747033112a61f4f77b2893ecf46d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/crystal_harmonizer.json"
@@ -12145,6 +12197,10 @@ file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/lang/e
 hash = "d68fba801cda0ebf24104c31c3b07bb89f7bfc96af17197a48407f9f63e6c3a6"
 
 [[files]]
+file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/textures/item/material_plate_duroplast.png"
+hash = "ed283082b968d0a37d484b396cdb1968eb60c61d929e38c73c2d8e13be39f901"
+
+[[files]]
 file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/textures/item/metal_plate_steel.png"
 hash = "4b767289e70b3489cb901569b15763e299ea8d139008355ea222619822e671a2"
 
@@ -12199,6 +12255,22 @@ hash = "64059e37e0556c1638e8c5c73f01744a98977e17c83565bbd1cd3bdb378529b8"
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/part/plate_advanced.png"
 hash = "5b2629ce53eab9e6a0b10b42a247bc0a426a8a61194d80aecc5d381590abecd8"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/part/plate_basic.png"
+hash = "175d1ee5471a41bff6b04bd808b43241b7a903035bca66bc34eb48e9b170ec3f"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/part/plate_du.png"
+hash = "229de7abb1955f8c05450a65d4305d16de13299fbe9939263d53806afc43299b"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/part/plate_elite.png"
+hash = "46a9c39c16eb7a90289499e37f9d18eb0f40f276319634f6c8c399b25d902bce"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/part/plate_extreme.png"
+hash = "c12f8a4865aab6ca9193dc61cdcf2c06712fd959cf1065ddcc832cfba8aeb5e3"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/origins/lang/en_us.json"
