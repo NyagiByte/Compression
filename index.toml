@@ -1526,7 +1526,7 @@ hash = "d4ee64dc9ec7104dd6e01c72fc8519af81c6063a722116b2a7d4022204d022e4"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/cacophonium.json"
-hash = "1a4ddbbe3eda5ac08617d04fe1e6aecf449c5c40b2e0cb73260b63bbb52b36aa"
+hash = "cf338a3d10a9709a6e7a48d65dc0752575a10be1215dad5371f13235b2168aab"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/cacophonium_block.json"
@@ -2034,7 +2034,7 @@ hash = "46dbed273f52fe4c40ea0cb329271f6dda046263f9389812a9f3987b6601a757"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_spreader.json"
-hash = "914c7ecacc9c3a615a104b4bd018941079a4f02d42688e352e70cd71a8b5c619"
+hash = "4e5cd56a77a32629eaa1da553ae8490ff2183c665692c39fa4985e55da22c160"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_tablet.json"
@@ -3022,7 +3022,7 @@ hash = "6a328cd1e360a3656fceabe3fa9d6865212fd5ec15c25d3e0a68a63f5fe7d6c2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/controller_rail.json"
-hash = "5af931d13c49a428cab01a7332abac9d58e41cae09ac6eddadf41d342ef65c80"
+hash = "f26eacb0de7954b2c4677b66a6feccbbe2970894e37e00fad0348e5c8ae1ebd9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/copper_valve_handel_t1.json"
@@ -3506,7 +3506,7 @@ hash = "e6439aea125bfe291fb69e52f9a8673a6f914993809212d0f5c201f320657f17"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/wrench.json"
-hash = "f489fa5436875821b348d26db10c64526060e198c2f62cca1fe3ba130ffea70d"
+hash = "2c365867b57fd46d4da16c4bb48666c3ec13d4a2d54a9c5937950b5a1c5c61ab"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/logistics/andesite_funnel_t1.json"
@@ -3622,7 +3622,7 @@ hash = "8a0aaba4a9c77aa8b5b391eea1a3ed304cf1721e564095699e97d19ee20b6b20"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/item_application/copper_casing_from_log.json"
-hash = "9763cccf4d67b6c3dcde6b2992e90a2e8796dbdd71c0b73bf3b5761c22d520c0"
+hash = "89f8af199cdba8bd46cefafd4d15fc2943b91d0c9a2fdf0163a46856b6d011dd"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/item_application/smoke_in_a_bottle.json"
@@ -4725,6 +4725,10 @@ file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/iron.json
 hash = "9a6b6b3a26b43cefb9bacd84254f194f77506de79dbba99c6bb24e1d13dd5445"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/lead.json"
+hash = "35ede62ad534accbfb0085519e97752e47bce6e9938b23ea3e5cc2775f381437"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/plates/lithium.json"
 hash = "c7cd7f3a21b86129bd9f5a850e34fe69c6e2f3942d6f517ea3ef00e2286976a3"
 
@@ -5509,6 +5513,74 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crus
 hash = "e3211a5a568cbafbe01fc30772452f103b7cc89d1f65109d6a6be5e3eb26edfa"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/metalpress/plate_aluminum.json"
+hash = "9ce7508ccbea4804e40797a890e5e4aabf045b973f762c7b6e25d89fa570a369"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/metalpress/plate_brass.json"
+hash = "6851b142d2f08f8ff2d6176868d3051e0c8df978ae699c796f8632cd20c95157"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/metalpress/plate_bronze.json"
+hash = "6e6ca2f65ffb76514dc63651e183850c8646d8c2e13b293b27be9375f5a8f38f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/metalpress/plate_cobalt.json"
+hash = "bc94fcfcb1b4aa5bf8015779fd4e688d75197e490835587e42f2a253dd742577"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/metalpress/plate_constantan.json"
+hash = "f40a0295d60657d1b1b12a4e2db2aaae928c382e3e52ee4d5de2c26d4edcc247"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/metalpress/plate_copper.json"
+hash = "178641a13c55eb8231080868ac95b3c843fd242c91b50ab1e728e0fb8deb6c5c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/metalpress/plate_electrum.json"
+hash = "fe568bd676914b5197ecb32f00b6fd4566ec9200abed711b3a43b867ceceb3fe"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/metalpress/plate_gold.json"
+hash = "dab98b4e12915b297163d9f8cc17a5227c99637ab9f89535ed2be4eb5caeff88"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/metalpress/plate_iron.json"
+hash = "4433c1574708745ef285b27e17fd3bac1436f04c3b276a3c1f1453649d5bd1d2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/metalpress/plate_lead.json"
+hash = "458951455d0248910f41d624a8a6bb6715391c1876c23dd2265871c5d9e85804"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/metalpress/plate_nickel.json"
+hash = "7f8a34a4db30e12ee635333494c28aa5525ae064e3b2e7e1e182ae08f94d6796"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/metalpress/plate_osmium.json"
+hash = "dbbac305268e5fdf81277abf4c898baf465622fe4e50ace160b0e877a05a0edf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/metalpress/plate_platinum.json"
+hash = "e48126748ad360a70531c8ff933f5c5bc780459240f7fbdf60cc9c403b54b5bd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/metalpress/plate_steel.json"
+hash = "01eedb81f9523cce580c5ec2f7e3a5ddbdb2c40c15ce412bcfd0831dce913746"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/metalpress/plate_tin.json"
+hash = "2a3dbd518808c514b05d7f69d171d8e5e629f37ddb6103fcba53379e7b0a1033"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/metalpress/plate_trungsten.json"
+hash = "bc94fcfcb1b4aa5bf8015779fd4e688d75197e490835587e42f2a253dd742577"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/metalpress/plate_zinc.json"
+hash = "1c5b24731ce99e447bd5ea6d9be19a0ee508269319509016ef8bcb22999855a8"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mineral/ancient_debris.json"
 hash = "3ccb665f1c3a2c554e59656d66547edc5f84492ff1a8ed0adda0161db084d4f6"
 
@@ -6222,7 +6294,7 @@ hash = "712b9a6b2834186fbf7d1d88ee20ca9b1214d73f09c0a20de335cc2e49f34ef0"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/basic_composite_material.json"
-hash = "8da14951687e3b1202c27dba9f2deb28405ac20d1f5dee42a42d009122242ee6"
+hash = "f5494a2cd85eddfd8dd84ea6e52eae61926feb9a472ce862e79ac281b6750f8e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/blank_blueprint.json"
@@ -6801,8 +6873,28 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/po
 hash = "35b51cf5f206ac111ec66ae0ceeefa301bd813d6f92573de856cc1a4d0d7a692"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pressing/aluminum_plate_chemlib.json"
+hash = "2262941e59186f15caaba19a207bd06f1e4e578f62074ea221d22880f0247b68"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pressing/cobalt_plate_chemlib.json"
+hash = "ad6c95d2b44bdcb60a100d8ddcadbbe7b420467ea86174269505adbc6121b877"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pressing/copper_plate_chemlib.json"
+hash = "98336be753d51c4d460969e03323c152cfba5eff74eb23fe758f954d5ec1947e"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pressing/gallium_plate_chemlib.json"
 hash = "3b3cef7da8d8d86cf85ace63b80d11864fde534f2a394f18cad6192a742e2d90"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pressing/gold_plate_chemlib.json"
+hash = "42e398d2878403f25e18476077ab5038aeeedb65f75eb684ad63258ca4f314fe"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pressing/lead_plate_chemlib.json"
+hash = "75802a204ea1da3ea4aeaa1c5992e8777be1f3d8966119b1b5b07daa8e59c175"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pressing/magnesium_plate_chemlib.json"
@@ -6813,8 +6905,20 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pr
 hash = "5dd1e944fc7848538e5d7c34a176ee310cf67e500dfd0f35a02e707e296e7a42"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pressing/nickel_plate_chemlib.json"
+hash = "007e71b8367439f41231098bd0e72b5cb4bd1b87fd870cfbd909105ce30992c9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pressing/osmium_plate_chemlib.json"
+hash = "ef221fc322ce2c0e94d0a5d18781b3ccb91028bab8b1baaa70a80e63abb2a9a7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pressing/tin_plate_chemlib.json"
+hash = "ebfe7cf02e1cfa36c1099daf0690bab076645b9271cab6b456e197b17c9f56a1"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pressing/zinc_plate_chemlib.json"
-hash = "58f684dd232085de9542e8199d0216efc5ba237eec0e56e42acc60d7655b4432"
+hash = "bf2282451c4c7f928e5fe9af6e25b69e6845eba6bfb781ef09735b02275a7af7"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/saw_cutting/bad_aluminum_rod.json"
@@ -6886,7 +6990,7 @@ hash = "e7309b7a693092f35e8e43f4d0ece6cc39f94c2271455d2a98fd21a36dcabf06"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/logic_dud.json"
-hash = "9aa60cb608657e6e95f5b5e5940b86fb45712fcd92e7f5bb067f4bbcdcfc187e"
+hash = "7fbffae32c4300b7a63d6736b8daef4f81d39b9259d02cb1fbabef407bde4619"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/mystic_fertilizer.json"
@@ -6903,6 +7007,10 @@ hash = "5ba2dbf9908b482ae34dfb8622660d2a2bd7989cb468ad2d52109bd7bfd3e167"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/petri_dish_empty_t1.json"
 hash = "d6cf5dd85c91452fc9da11d0843f259659bcfb35eb964266266fde7c57c95c29"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/plate_hammering/plate_platinum_hammering.json"
+hash = "c94d9a6799d62c74bb17ff87f50bd937ca5468eb7b8e950f1f31c2432e067414"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/skystone_shielding.json"
@@ -9673,6 +9781,22 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageim
 hash = "ea3fb09207f8c3a26d50f251b1a008c03b554563fa5aabe73026fc6634ec0e98"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressing/bronze_ingot.json"
+hash = "7e6f923e1f7370cd32bc68895bca541301a12f2e9c98825ab981d3809485255f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressing/constantan_ingot.json"
+hash = "98d73e890a8b6cf2fb52b7461a31e43720586ea23d881f077e5785df98bbe84a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressing/electrum_ingot.json"
+hash = "db1fb14c494c93badbb2877b0bc2e217691c5f30b5a4fc622690549efce2e2dd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressing/nickel_ingot.json"
+hash = "007e71b8367439f41231098bd0e72b5cb4bd1b87fd870cfbd909105ce30992c9"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/deactivated_entropic_mush.json"
 hash = "8fa9e42cd7f1af4189cea0686696dc92a8cc4d0c61f3e69b200a53910580880c"
 
@@ -11970,7 +12094,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "39029d3444e25deed6deb9f25fc732009a224900291838dabe30a0c853b84c7f"
+hash = "e2431d37b5073c2ecd6d1a7e1eaddb3f8054b51fc325462d3f015e052d441e92"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -12530,7 +12654,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"
-hash = "b8b6a25ecd9593d8591280e3b31a33663a993102cf18135d67cad8ad031a8bf5"
+hash = "7fe14d076ae0caaa6caa099075f0ca2ccf7762b8110feabcfb55de39b1bef438"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
@@ -12958,7 +13082,7 @@ hash = "c2b883496a6eca188047e44b8467113962fe03221e93c3e0e9ffeeaf0ff94c0e"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "dd69646ee6bb9d819f4a22b1be3f65d2f14133a726953f527b36e5e47a4387f2"
+hash = "efbb6949323df3d80aa6a8dbdb6c7702bf93191036ce2a06ed98f9e04ac2f1cf"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
