@@ -2,7 +2,7 @@
   "type": "create:item_application",
   "ingredients": [
     {"item": "create:andesite_casing"},
-    {"item": "create:copper_sheet"}
+    {"item": "chemlib:copper_plate"}
   ],
   "results": [
     {"item": "create:copper_casing"}

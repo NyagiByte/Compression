@@ -1,0 +1,13 @@
+{
+    "type":"immersiveengineering:metal_press",
+        "energy":2400,
+            "input": { 
+                "item":"chemlib:lead_metal_block"
+                },
+                    "mold": "immersiveengineering:mold_plate",
+                        "result":
+                            { 
+                                "count": 9,
+                                "item":"chemlib:lead_plate"
+                            }
+}

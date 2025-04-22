@@ -2,7 +2,7 @@
     "type": "create:compacting",
     "ingredients": [
       {
-        "item": "create:copper_sheet"
+        "item": "chemlib:copper_plate"
       },
       {
         "item": "chemlib:iron_plate"

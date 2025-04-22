@@ -2,12 +2,12 @@
   "type": "create:pressing",
   "ingredients": [
     {
-      "item": "chemlib:zinc_ingot"
+      "item": "minecraft:gold_ingot"
     }
   ],
   "results": [
     {
-      "item": "chemlib:zinc_plate"
+      "item": "chemlib:gold_plate"
     }
   ]
 }

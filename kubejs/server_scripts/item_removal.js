@@ -329,9 +329,7 @@ ServerEvents.recipes(e => {
         e.remove({output: 'thermal:silver_gear'});
         e.remove({output: 'thermal:silver_plate'});
         e.remove({output: 'thermal:nickel_gear'});
-        e.remove({output: 'thermal:nickel_plate'});
         e.remove({output: 'thermal:bronze_gear'});
-        e.remove({output: 'thermal:bronze_plate'});
         e.remove({output: 'thermal:bronze_dust'});
         e.remove({output: 'thermal:electrum_gear'});
         e.remove({output: 'thermal:electrum_dust'});

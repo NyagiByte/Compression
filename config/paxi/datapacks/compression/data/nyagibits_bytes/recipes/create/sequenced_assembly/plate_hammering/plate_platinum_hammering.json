@@ -1,0 +1,28 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "chemlib:platinum_ingot"},
+    "loops": 4,
+    "results": [
+      {
+        "count": 1,
+        "item": "chemlib:platinum_plate"
+    }
+    ],
+    "sequence": [
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "chemlib:platinum_ingot"
+          }
+        ],
+        "processingTime": 60,
+        "results": [
+          {
+            "item": "chemlib:platinum_ingot"
+          }  
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "chemlib:platinum_ingot"}
+  }

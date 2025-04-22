@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "key": {
-    "A": {"item":"create:golden_sheet"},
+    "A": {"item":"chemlib:gold_plate"},
     "B": {"tag":"minecraft:wooden_fences"},
     "C": {"item":"create:cogwheel"},
     "D": {"item":"minecraft:gold_nugget"}

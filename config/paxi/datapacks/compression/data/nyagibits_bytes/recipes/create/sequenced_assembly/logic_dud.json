@@ -1,6 +1,6 @@
 {
     "type": "create:sequenced_assembly",
-    "ingredient": {"item": "create:golden_sheet"},
+    "ingredient": {"item": "chemlib:gold_plate"},
     "loops": 1,
     "results": [
       {"item": "nyagibits_bytes:logic_dud"}

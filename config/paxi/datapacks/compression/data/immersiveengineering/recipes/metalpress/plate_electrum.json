@@ -1,0 +1,13 @@
+{
+    "type":"immersiveengineering:metal_press",
+        "energy":2400,
+            "input": { 
+                "item":"thermal:electrum_block"
+                },
+                    "mold": "immersiveengineering:mold_plate",
+                        "result":
+                            { 
+                                "count": 9,
+                                "item":"thermal:electrum_plate"
+                            }
+}
