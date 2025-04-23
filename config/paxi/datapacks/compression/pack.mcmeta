@@ -55,6 +55,9 @@
 
 		{"namespace": "thermal", "path": "recipes/smelting/slag_from_smelting.json"},
 
+		{"namespace": "thermal", "path": "recipes/rockwool/white_rockwool_from_blasting"},
+		{"namespace": "thermal", "path": "recipes/rockwool/white_rockwool_from_smelting"},
+
 		{"namespace": "thermal", "path": "recipes/machines/press/press_bronze_ingot_to_plate.json"},
 		{"namespace": "thermal", "path": "recipes/machines/press/press_electrum_ingot_to_plate.json"},
 		{"namespace": "thermal", "path": "recipes/machines/press/press_constantan_ingot_to_plate.json"},
@@ -611,12 +614,26 @@
 
 		{"namespace": "immersivepetroleum", "path": "recipes/refinery/phenol.json"},
 		{"namespace": "immersivepetroleum", "path": "recipes/refinery/acetaldehyde.json"},
+		{"namespace": "immersivepetroleum", "path": "recipes/refinery/biodiesel.json"},
 
 		{"namespace": "immersivepetroleum", "path": "recipes/hydrotreater/ethylene_plastic.json"},
 		{"namespace": "immersivepetroleum", "path": "recipes/hydrotreater/propylene_plastic.json"},
 
-		{"namespace": "tmted", "path": "recipes/bottling/rich_soil.json"},
+		{"namespace": "immersiveengineering", "path": "loot_modifiers/hemp_from_grass.json"},
+		{"namespace": "immersiveengineering", "path": "loot_modifiers/hemp_from_tall_grass.json"},
 
+		{"namespace": "immersiveengineering", "path": "recipes/crafting/survey_tools.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/crafting/sample_drill.json"},
+
+		{"namespace": "immersiveengineering", "path": "recipes/squeezer/melon_seeds.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/squeezer/pumpkin_seeds.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/squeezer/beetroot_seeds.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/squeezer/wheat_seeds.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/squeezer/hemp_seeds.json"},
+		{"namespace": "farmersdelight", "path": "recipes/integration/immersiveengineering/squeezer/tomato_seeds.json"},
+		{"namespace": "farmersdelight", "path": "recipes/integration/immersiveengineering/squeezer/cabbage_seeds.json"},
+
+		{"namespace": "tmted", "path": "recipes/bottling/rich_soil.json"},
 
 		{"namespace": "quark", "path": "recipes/tools/crafting/pickarang_heart.json"},
 		{"namespace": "quark", "path": "recipes/automation/crafting/iron_rod.json"},
@@ -2008,13 +2025,8 @@
 		{"namespace": "sophisticatedbackpacks", "path": "recipes/stack_upgrade_tier_3.json"},
 		{"namespace": "sophisticatedbackpacks", "path": "recipes/stack_upgrade_tier_4.json"},
 
-
 		{"namespace": "phantomsandnightmares", "path": "recipes/insanity_pill.json"},
 		{"namespace": "phantomsandnightmares", "path": "recipes/sanity_pill.json"},
-		
-
-		{"namespace": "immersiveengineering", "path": "loot_modifiers/hemp_from_grass.json"},
-		{"namespace": "immersiveengineering", "path": "loot_modifiers/hemp_from_tall_grass.json"},
 
 		{"namespace": "pneumaticcraft", "path": "recipes/compressed_iron_helmet.json"},
 		{"namespace": "pneumaticcraft", "path": "recipes/compressed_iron_chestplate.json"},
@@ -2024,6 +2036,8 @@
 		{"namespace": "pneumaticcraft", "path": "recipes/pneumatic_chestplate.json"},
 		{"namespace": "pneumaticcraft", "path": "recipes/pneumatic_leggings.json"},
 		{"namespace": "pneumaticcraft", "path": "recipes/pneumatic_boots.json"},
+
+		{"namespace": "pneumaticcraft", "path": "recipes/fluid_mixer_biodiesel.json"},
 
 		{"namespace": "theoneprobe", "path": "recipes/probe.json"},
 		{"namespace": "theoneprobe", "path": "recipes/iron_helmet_probe.json"},
@@ -2036,13 +2050,6 @@
 
 		{"namespace": "blockofsky", "path": "recipes/void_block.json"},
 		{"namespace": "blockofsky", "path": "recipes/sky_block.json"},
-
-
-
-
-
-
-
 
 		{"namespace": "supplementaries", "path": "recipes/candy.json"},
 		{"namespace": "supplementaries", "path": "recipes/pancake.json"},
@@ -2081,8 +2088,6 @@
 
 		{"namespace": "minecraft", "path": "recipes/popped_chorus_fruit.json"},
 
-		
-
 		{"namespace": "pneumaticcraft", "path": "recipes/explosion_crafting/wheat_flour.json"},
 		{"namespace": "pneumaticcraft", "path": "recipes/pressure_chamber/wheat_flour.json"},
 
@@ -2092,23 +2097,14 @@
 		{"namespace": "pneumaticcraft", "path": "recipes/reinforced_stone.json"},
 
 		{"namespace": "pneumaticcraft", "path": "recipes/thermo_plant/chips.json"},
-
 		{"namespace": "pneumaticcraft", "path": "recipes/cod_n_chips.json"},
-
 		{"namespace": "pneumaticcraft", "path": "recipes/thermo_plant/salmon_tempura.json"},
 
-
-
 		{"namespace": "abyssal_decor", "path": "recipes/bog_apple_pie_recipe.json"},
-
 		{"namespace": "abyssal_decor", "path": "recipes/cinnamon_tea_recipe.json"},
-
 		{"namespace": "abyssal_decor", "path": "recipes/cinnamon_roll_recipe.json"},
-
 		{"namespace": "abyssal_decor", "path": "recipes/cinnamon_apple_recipe.json"},
-
 		{"namespace": "abyssal_decor", "path": "recipes/fever_blossom_tea_recipe.json"},
-
 		{"namespace": "abyssal_decor", "path": "recipes/muckroot_soup_recipe.json"},
 
 
@@ -2275,13 +2271,7 @@
 		{"namespace": "farmersdelight", "path": "recipes/integration/create/mixing/tomato_sauce_from_mixing.json"},
 		{"namespace": "farmersdelight", "path": "recipes/cooking/tomato_sauce.json"},
 		{"namespace": "tmted", "path": "recipes/bottling/tomato_sauce.json"},
-		{"namespace": "tmted", "path": "recipes/squeezer/tomato.json"},
-
-
-		{"namespace": "immersiveengineering", "path": "recipes/crafting/survey_tools.json"},
-		{"namespace": "immersiveengineering", "path": "recipes/crafting/sample_drill.json"}
-
-		
+		{"namespace": "tmted", "path": "recipes/squeezer/tomato.json"}
 
 	]}
 	
