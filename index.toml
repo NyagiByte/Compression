@@ -5697,6 +5697,10 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/refi
 hash = "ab3a8fcf1f4ee5145429a72238d1d468d7173c332447b3d712b9b933205a91d6"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/smelting/slag_glass_from_blasting.json"
+hash = "602b32070fb66110bee31544845b6960b69faf90b0b4476b938ea01477344e6c"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/structures/multiblocks/arcfurnace.nbt"
 hash = "614fce474fc4cd7aae8211c49c0b4b0bf6fa1e65f26b91cf090a80fc5d7ce52f"
 
@@ -12094,7 +12098,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "e2431d37b5073c2ecd6d1a7e1eaddb3f8054b51fc325462d3f015e052d441e92"
+hash = "bc9fbc2aa507ccb32174e61d2a999a77ccd672e56e1de52d974859c55efce163"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -13713,7 +13717,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "b65686a9391b3c9417d52e510a5b2abf8f10e110b9dd3b4241131121aaeaacaf"
+hash = "2285068ca88423dcb8bab1b99c11695386d9d7ef7e88796169d1de7393e77b12"
 
 [[files]]
 file = "mods/oculus.pw.toml"
