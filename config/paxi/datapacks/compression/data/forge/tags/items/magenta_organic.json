@@ -1,0 +1,14 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:allium",
+        "minecraft:lilac",
+        "botania:magenta_petal",
+        "botania:magenta_mushroom",
+        "byg:magenta_amaranth",
+        "byg:magenta_tulip",
+        "byg:lazarus_bellflower",
+        "byg:protea_flower",
+        "byg:fairy_slipper"
+    ]
+  }

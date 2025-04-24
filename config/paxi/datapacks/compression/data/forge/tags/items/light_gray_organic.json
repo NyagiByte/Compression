@@ -1,0 +1,11 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:azure_bluet",
+        "minecraft:white_tulip",
+        "minecraft:oxeye_daisy",
+        "botania:light_gray_petal",
+        "botania:light_gray_mushroom",
+        "byg:richea"
+    ]
+  }

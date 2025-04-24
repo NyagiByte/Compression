@@ -1,0 +1,22 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "tag": "forge:magenta_organic"
+      },
+      {
+        "item": "chemlib:sodium_hydroxide"
+      },
+      {
+        "amount": 10,
+        "fluid": "nyagibits_bytes:dinitrotoluene_fluid"
+      }
+    ],
+    "results": [
+      {
+        "count": 16,
+        "item": "minecraft:magenta_dye"
+      }
+    ]
+  }

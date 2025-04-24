@@ -1,0 +1,10 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:blue_orchid",
+        "botania:light_blue_petal",
+        "botania:light_blue_mushroom",
+        "byg:winter_scilla",
+        "byg:thereal_bellflower"
+    ]
+  }

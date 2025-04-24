@@ -1,0 +1,16 @@
+{
+    "replace": true,
+    "values": [
+        "botania:purple_petal",
+        "botania:purple_mushroom",
+        "byg:allium_flower_bush",
+        "byg:alpine_bellflower",
+        "byg:iris",
+        "byg:purple_sage",
+        "byg:purple_tulip",
+        "byg:purple_amaranth",
+        "byg:crocus",
+        "byg:tall_allium",
+        "abyssal_decor:aster"
+    ]
+  }

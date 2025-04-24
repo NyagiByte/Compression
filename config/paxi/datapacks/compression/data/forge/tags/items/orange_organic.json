@@ -1,0 +1,13 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:orange_tulip",
+        "botania:orange_petal",
+        "botania:orange_mushroom",
+        "byg:orange_amaranth",
+        "byg:orange_daisy",
+        "byg:guzmania",
+        "byg:incan_lily",
+        "byg:california_poppy"
+    ]
+  }

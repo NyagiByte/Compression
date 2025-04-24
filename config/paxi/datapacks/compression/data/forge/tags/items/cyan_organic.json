@@ -1,0 +1,14 @@
+{
+    "replace": true,
+    "values": [
+        "botania:cyan_petal",
+        "botania:cyan_mushroom",
+        "byg:cyan_amaranth",
+        "byg:cyan_rose",
+        "byg:cyan_tulip",
+        "byg:winter_cyclamen",
+        "byg:foxglove",
+        "byg:warped_cactus",
+        "abyssal_decor:fever_blossom"
+    ]
+  }

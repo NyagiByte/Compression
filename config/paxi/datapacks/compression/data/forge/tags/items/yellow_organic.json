@@ -1,0 +1,15 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:dandelion",
+        "minecraft:sunflower",
+        "minecraft:horn_coral",
+        "minecraft:horn_coral_fan",
+        "botania:yellow_petal",
+        "botania:yellow_mushroom",
+        "byg:lollipop_flower",
+        "byg:yellow_daffodil",
+        "byg:yellow_tulip",
+        "abyssal_decor:daffodil"
+    ]
+  }

@@ -1,0 +1,11 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:wither_rose",
+        "minecraft:charcoal",
+        "botania:black_petal",
+        "botania:black_mushroom",
+        "byg:black_rose",
+        "architects_palette:withered_bone"
+    ]
+  }

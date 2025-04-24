@@ -1,0 +1,16 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:cornflower",
+        "minecraft:tube_coral",
+        "minecraft:tube_coral_fan",
+        "botania:blue_petal",
+        "botania:blue_mushroom",
+        "byg:hydrangea_bush",
+        "byg:delphinium",
+        "byg:blue_rose_bush",
+        "byg:blue_sage",
+        "byg:violet_leather_flower",
+        "byg:blueberries"
+    ]
+  }

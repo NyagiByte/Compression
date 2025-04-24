@@ -1,0 +1,9 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:cocoa_beans",
+        "botania:brown_petal",
+        "botania:brown_mushroom",
+        "abyssal_decor:cinnamon_stick"
+    ]
+  }

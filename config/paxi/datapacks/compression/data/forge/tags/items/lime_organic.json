@@ -1,0 +1,9 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:sea_pickle",
+        "botania:lime_petal",
+        "botania:lime_mushroom",
+        "byg:green_tulip"
+    ]
+  }
