@@ -2,17 +2,15 @@
   "type": "botania:petal_apothecary",
   "ingredients": [
     {
-      "item": "minecraft:crafting_table"
+      "item": "minecraft:chest_minecart"
     },
     {
-      "item": "botania:blue_petal"
-    },
-    {
-      "item": "botania:cyan_petal"
+      "item": "botania:corporea_block"
     }
   ],
   "output": {
-    "item": "botania:crafting_halo"
+    "count": 1,
+    "item": "botania:corporea_index"
   },
   "reagent": {
     "tag": "botania:seed_apothecary_reagent"

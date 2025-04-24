@@ -17,6 +17,11 @@ ServerEvents.recipes(event => {
         C: 'create:zinc_nugget',
         D: 'nyagibits_bytes:bucket_of_salt_water'   
       }
-    ).replaceIngredient("nyagibits_bytes:bucket_of_salt_water", "minecraft:air")
+    ).replaceIngredient("nyagibits_bytes:bucket_of_salt_water", "minecraft:air"),
+
+    event.shapeless(Item.of('botania:lexicon', '{"botania:elven_unlock":1b}'), [
+      'botania:lexicon',
+      'botania:corporea_spark'
+  ])
 
 })

@@ -70,6 +70,8 @@ JEIEvents.hideItems(event => {
     'thermal:tin_plate',
     'vintageimprovements:tin_sheet',
     'nuclearcraft:tin_plate',
+    'immersiveengineering:plate_lead',
+    'thermal:lead_plate',
     'thermal:silver_plate',
     'immersiveengineering:plate_silver',
     'vintageimprovements:silver_sheet',

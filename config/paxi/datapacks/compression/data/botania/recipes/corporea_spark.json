@@ -2,17 +2,18 @@
   "type": "botania:petal_apothecary",
   "ingredients": [
     {
-      "item": "minecraft:crafting_table"
+      "item": "minecraft:gold_nugget"
     },
     {
-      "item": "botania:blue_petal"
+      "item": "botania:magenta_petal"
     },
     {
-      "item": "botania:cyan_petal"
+      "item": "botania:pink_petal"
     }
   ],
   "output": {
-    "item": "botania:crafting_halo"
+    "count": 4,
+    "item": "botania:corporea_spark"
   },
   "reagent": {
     "tag": "botania:seed_apothecary_reagent"

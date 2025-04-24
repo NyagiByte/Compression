@@ -135,9 +135,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:spark_upgrade_dominant'});
         e.remove({output: 'botania:spark_upgrade_recessive'});
         e.remove({output: 'botania:spark_upgrade_isolated'});
-        e.remove({output: 'botania:corporea_spark'});
-        e.remove({output: 'botania:corporea_spark_master'});
-        e.remove({output: 'botania:corporea_spark_creative'});
         e.remove({output: 'botania:black_lotus'});
         e.remove({output: 'botania:blacker_lotus'});
         e.remove({output: 'botania:overgrowth_seed'});

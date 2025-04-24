@@ -930,11 +930,6 @@
 
 		{"namespace": "botania", "path": "recipes/mana_fluxfield.json"},
 		{"namespace": "botania", "path": "recipes/crafty_crate.json"},
-		{"namespace": "botania", "path": "recipes/corporea_index.json"},
-		{"namespace": "botania", "path": "recipes/corporea_funnel.json"},
-		{"namespace": "botania", "path": "recipes/corporea_interceptor.json"},
-		{"namespace": "botania", "path": "recipes/corporea_crystal_cube.json"},
-		{"namespace": "botania", "path": "recipes/corporea_retainer.json"},
 		{"namespace": "botania", "path": "recipes/mossy_livingwood_planks_vine.json"},
 		{"namespace": "botania", "path": "recipes/lens_light_alt.json"},
 		{"namespace": "botania", "path": "recipes/floating_exoflame.json"},
