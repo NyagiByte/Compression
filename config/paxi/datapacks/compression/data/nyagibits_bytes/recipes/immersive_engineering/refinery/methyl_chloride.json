@@ -1,0 +1,14 @@
+{
+    "type":"immersiveengineering:refinery",
+    "energy":240,
+        "input0":{
+            "amount":25,
+            "tag":"forge:methane"
+            },
+        "input1":{
+            "amount":25,
+            "tag":"forge:chlorine"
+            },
+                "result":{
+                    "amount":50,"fluid":"nyagibits_bytes:methyl_chloride_fluid"
+                    }}

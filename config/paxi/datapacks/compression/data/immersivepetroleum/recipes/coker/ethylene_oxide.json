@@ -1,0 +1,23 @@
+{
+    "type": "immersivepetroleum:coker",
+    "energy": 10000,
+    "input": {
+      "base_ingredient": {
+        "tag": "forge:chromium_trioxide"
+      },
+      "count": 2
+    },
+    "inputfluid": {
+      "amount": 20000,
+      "tag": "forge:ethylene"
+    },
+    "result": {
+      "count": 31,
+      "item": "nyagibits_bytes:sample_chromium_trioxide"
+    },
+    "resultfluid": {
+      "amount": 20000,
+      "fluid": "nyagibits_bytes:ethylene_oxide_fluid"
+    },
+    "time": 30
+  }

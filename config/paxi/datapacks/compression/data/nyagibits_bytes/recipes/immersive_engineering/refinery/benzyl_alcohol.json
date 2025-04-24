@@ -1,0 +1,14 @@
+{
+    "type":"immersiveengineering:refinery",
+    "energy":240,
+        "input0":{
+            "amount":125,
+            "tag":"forge:ethanol"
+            },
+        "input1":{
+            "amount":100,
+            "tag":"forge:benzene"
+            },
+                "result":{
+                    "amount":125,"fluid":"nyagibits_bytes:benzyl_alcohol_fluid"
+                    }}
