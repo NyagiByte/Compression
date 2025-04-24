@@ -1,0 +1,17 @@
+{
+    "type": "create:emptying",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:bottle_of_malic_and_citric_acid"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:glass_bottle"
+      },
+      {
+        "amount": 250,
+        "fluid": "nyagibits_bytes:malic_and_citric_acid_fluid"
+      }
+    ]
+  }

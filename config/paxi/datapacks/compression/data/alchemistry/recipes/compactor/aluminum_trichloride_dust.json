@@ -1,0 +1,13 @@
+{
+    "type": "alchemistry:compactor",
+    "group": "alchemistry:compactor",
+    "input": {
+      "count": 16,
+      "ingredient": {
+        "item": "nyagibits_bytes:sample_aluminum_trichloride"
+      }
+    },
+    "result": {
+      "item": "nyagibits_bytes:aluminum_trichloride_dust"
+    }
+  }
