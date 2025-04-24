@@ -1,3 +1,20 @@
 {
+    "item.minecraft.white_dye": "Organic White Dye",
+    "item.minecraft.orange_dye": "Organic Orange Dye",
+    "item.minecraft.magenta_dye": "Organic Magenta Dye",
+    "item.minecraft.light_blue_dye": "Organic Light Blue Dye",
+    "item.minecraft.yellow_dye": "Organic Yellow Dye",
+    "item.minecraft.lime_dye": "Organic Lime Dye",
+    "item.minecraft.pink_dye": "Organic Pink Dye",
+    "item.minecraft.gray_dye": "Organic Gray Dye",
+    "item.minecraft.light_gray_dye": "Organic Light Gray Dye",
+    "item.minecraft.cyan_dye": "Organic Cyan Dye",
+    "item.minecraft.purple_dye": "Organic Purple Dye",
+    "item.minecraft.blue_dye": "Organic Blue Dye",
+    "item.minecraft.brown_dye": "Organic Brown Dye",
+    "item.minecraft.green_dye": "Organic Green Dye",
+    "item.minecraft.red_dye": "Organic Red Dye",
+    "item.minecraft.black_dye": "Organic Black Dye",
+    
     "item.minecraft.leather": "Working Leather"
 }
