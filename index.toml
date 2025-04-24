@@ -3269,6 +3269,14 @@ file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/
 hash = "c6202a989ea8dbcb763a0cfa5a5b2a9fa8bc5dc6069ac002dab40f9c330566c7"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/hose_pulley_t2.json"
+hash = "c1461a9855247da651cff9114bdd15d447c97e03c7f7f3e9ec26db4589cdbcce"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/item_drain_t1.json"
+hash = "f79bd5cc6ae87e17bc1fdb5b2223c2845ac779cd5a566866648807fa24bca990"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/item_vault_t1.json"
 hash = "d322fc103221726c83f2e2dd5328f92108f0270bb323518dc5275568f5c94423"
 
@@ -3477,6 +3485,10 @@ file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/
 hash = "b383d250a037e52669d83a6d4353f8c2f6adfbfba4773367ab4a53c1e62b8eb9"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/portable_fluid_interface_t1.json"
+hash = "586a50307fe63090a92ea89049086f572d0ad00c667f8f06c9e546476da7dd3a"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/portable_storage_interface_t1.json"
 hash = "461911a0354ed3261b1551a31b51041388ed71d6db9df829b7959d1268777f03"
 
@@ -3553,8 +3565,16 @@ file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/
 hash = "7a98b0e6c7f22de6487f246338b4368bec01b1ad90946ce75dd656321a4e5664"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/spout_t1.json"
+hash = "447952f1124d4afcb9fd335c07ed1ac50b20bf079ef4597e12b961119a8416d6"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/steam_engine.json"
 hash = "f66688c54e8f4e23c35893e4f34d8c1ffdb08346aeedeec83421789d2925b8fc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/steam_engine_t1.json"
+hash = "179a145e7f6a9e509a3690aea0651f6a5c65068c26e9e4fc5e2d5046d1c557c2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/kinetics/steam_whistle_t1.json"
@@ -3719,6 +3739,10 @@ hash = "d911d2fd2f45dbdd619eb87874695657a726695bdf65a6204de0ff86ccbda1ac"
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/item_application/steel_casing_from_brass_casing.json"
 hash = "a9a75008130646e9d428649f04ec2cf8cf7bbbe158a76cf68e71b1fb0fd2ced3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/item_application/waterproof_casing.json"
+hash = "8b9b665b5cc59bf0606eadc752d6296db54645480b22527c5515b163b2067dd9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/mechanical_crafting/crushing_wheel.json"

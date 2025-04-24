@@ -1,0 +1,10 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {"item": "create:copper_casing"},
+    {"item": "nyagibits_bytes:waterproofing_kit"}
+  ],
+  "results": [
+    {"item": "nyagibits_bytes:waterproof_casing"}
+  ]
+}

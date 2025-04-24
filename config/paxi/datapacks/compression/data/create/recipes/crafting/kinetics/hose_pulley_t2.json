@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item": "nyagibits_bytes:waterproof_casing"},
+      "B": {"item": "minecraft:dried_kelp_block"},
+      "C": {"item": "create:brass_sheet"}
+    },
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "result": {
+      "count": 16,
+      "item": "create:hose_pulley"
+    }
+  }
