@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "farmersdelight:cabbage_crate"
+      },
+      {
+        "amount": 2500,
+        "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+        "amount": 2500,
+        "fluid": "nyagibits_bytes:anthocyanin_fluid"
+      }
+    ]
+  }

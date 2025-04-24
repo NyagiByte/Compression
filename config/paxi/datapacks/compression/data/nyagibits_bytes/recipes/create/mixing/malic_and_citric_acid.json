@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "farmersdelight:tomato_crate"
+      },
+      {
+        "amount": 2500,
+        "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+        "amount": 2500,
+        "fluid": "nyagibits_bytes:malic_and_citric_acid_fluid"
+      }
+    ]
+  }
