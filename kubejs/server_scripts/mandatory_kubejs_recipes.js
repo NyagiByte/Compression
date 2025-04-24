@@ -8,6 +8,7 @@ ServerEvents.recipes(event => {
         'mekanism:salt'
     ]).replaceIngredient("minecraft:water_bucket", "minecraft:air"),
 
+    event.shaped('nyagibits_bytes:crude_statics_test', [
         'ABC', 
         ' D ' 
       ], {
