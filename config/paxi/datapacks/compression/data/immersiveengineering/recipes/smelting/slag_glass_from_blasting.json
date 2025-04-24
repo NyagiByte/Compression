@@ -3,7 +3,7 @@
   "experience":0.1,
   "ingredient":
   {
-    "tag":"forge:slag"
+    "item":"thermal:slag"
   },
   "result":"immersiveengineering:slag_glass"
 }
