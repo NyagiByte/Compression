@@ -298,7 +298,7 @@ hash = "d47ebc1ac820033964440c028f599e3e73a912c69476902996cb1aeef9d09ff4"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "4ee18ab96082bc7d86b01ff439ccfa7d86384505acfe5a7627d5b5a2b7973404"
+hash = "6a8f976a810f144e225a42e967b0274a2986a15de74e59f444f3f927ff5c1cec"
 
 [[files]]
 file = "config/compressed_create_recipes-common.toml"
@@ -1511,6 +1511,134 @@ hash = "ade7b1f3d818ab45a86c6ed00122bf598d1fa8eabf046f0f178c24f07f9d2711"
 [[files]]
 file = "config/paxi/datapacks/compression/data/architects_palette/tags/twisted_logs.json"
 hash = "f465d081c6423a8f0433563f5a815e2ceacbfd6fc38945854de457a471911789"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/dandelifeon.json"
+hash = "e70700a2e2aeefefec35e08fa82060b8b64e78cc8e6ba083f8c2ec4f6b338bc2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/endoflame.json"
+hash = "71a299ed3ef48a1717ba612cf3cbeb02016620687d7c35050700055bcf148563"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/entropinnyum.json"
+hash = "c76d9ea4fb8c2cf6166ec89e09dada995f472de9e5fa5a2e16527bec50867a5a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/feysynthia.json"
+hash = "0891c32f385cde53758f5c22d0223e75d405e6973dc25eb16ac6c34f40922b7e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/feysynthia_floating.json"
+hash = "521ab5e8f2ab42e8d53ce71f2d448ce1508c842685edb82a53369760f10f6a9a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/floating_dandelifeon.json"
+hash = "4325bce6a82db708cf9c7b6f2847b86a0a6ccb6560a79f33ed58d5475a7f43c0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/floating_endoflame.json"
+hash = "2fb22d12bc554cb88e36e9e272a2833ecea3d2e89ae69437dd196aeb92a97294"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/floating_entropinnyum.json"
+hash = "ab45b27ecbaf4886dfb41ed196420519d7e96e286a039340c74088430b7433ec"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/floating_gourmaryllis.json"
+hash = "c420d0c6ee6663c03f5ece592cbb46f11ba9149d417a84814c8fb976babb79e0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/floating_hydroangeas.json"
+hash = "0dc8a10c081f4c1e203ddeb524ec18059ccd5ba1c7f999606be3e5f7a0b91ee4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/floating_kekimurus.json"
+hash = "f0962a995e5fb6415273924ea5b6f7ea3bb8a9f1b1796e6285433376fbd52efb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/floating_munchdew.json"
+hash = "9d098a0ab6e9e48a53d5263b12de0d124b80a72c53be5ce9148a6be9744d370f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/floating_narslimmus.json"
+hash = "caea8b0e27a82d93f173c93cb0fd8611de9ccec695cc2e8ade8fb3e594a2fe5c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/floating_rafflowsia.json"
+hash = "a989dc92c8e963d4868e99e99769a9d74f2823caf76f74037699818a60086803"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/floating_rosa_arcana.json"
+hash = "e6c0c33f5d4a4f27fdb17205791bc790f0f24b02bdd6c60aecfdd08960760734"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/floating_shulk_me_not.json"
+hash = "7cbfd5960a9a79954926597a4ade0f410132990a2495adb540bf38c5248db025"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/floating_spectrolus.json"
+hash = "e2572280830a994e50bed0d608d9f9ea9559304c53225e893e42d49f068c9c49"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/floating_thermalily.json"
+hash = "59d84f34581d48aa59ac983ede1e5439b1b2db4b7d2886bd942f3b8386cf0291"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/gourmaryllis.json"
+hash = "e54ce12e722d2fd62b33243cd1abd9b5eecbb1ef5b10341650969a89a598462a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/hydroangeas.json"
+hash = "98eacd37f58234d0f8def09d47f23646ec0577e9d1bdcd74bdea5f675c2c16b3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/kekimurus.json"
+hash = "9ba654f4c3be9fe980ff181cef451bae1acf0e2c9e4fc1e0ab99b17d7cada481"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/munchdew.json"
+hash = "685ed4f02786aa5b49ab199aac54222ae96a2a87b95b7d3edac52afdd2d7d203"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/narslimmus.json"
+hash = "c920121e96ddc5c92bc7f3263d6f6c949f8f4e9392a1ba01cfb7fbcb1fafcb12"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/rafflowsia.json"
+hash = "3c4c202b6ed1cf1b2a5885182b275ba7f5b01752687d0850ea6146d47057f47a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/raindeletia.json"
+hash = "d6c4032932817fdd18efc7668c158c21bde957f8b68b753f745951c5b55def97"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/raindeletia_floating.json"
+hash = "f70496a0f146224cae07b837a83816e0ebda090cf78d33bd21d6b1907813ed89"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/rosa_arcana.json"
+hash = "a4f32be5cb1cb6a1681bcc243d8cf52698dcad62a0a95a2e096b03f07e7e8e39"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/shulk_me_not.json"
+hash = "59b7077f273a326bc945504db1790f83923a577331714dd1b6d383c532ffea9f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/spectrolus.json"
+hash = "9dde43826eb8bc5e9ef3e28101afb51f2274b33b58de104d9629261607588847"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/thermalily.json"
+hash = "b962bd7bfcacc1559e10d754660b44df194bed75bc8b275edcc4d3498b0035ef"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/wither_aconite.json"
+hash = "f753ead7e1c830c05875b3d905fb0cef029a819a2f1bb898e6a7c8f76733638e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/wither_aconite_floating.json"
+hash = "db555412ce86e741936c1fc1634c42514a1f3cc89bdfc921a55a71365789d128"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/abstruse_platform.json"
