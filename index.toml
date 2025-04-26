@@ -2817,6 +2817,10 @@ file = "config/paxi/datapacks/compression/data/compressed_create_recipes/recipes
 hash = "e513f9e47d1619f5a89919c3275f619647debb2c587e503d01455ab8582a5de7"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/compressed_create_recipes/recipes/void_conversion/glowstone_from_redstone.json"
+hash = "59fd15e55b872881b9f7963ce3d2ded18b9022790f69f1a00d55789c8eb5f686"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/compressed_create_recipes/recipes/void_conversion/shadow_steel.json"
 hash = "8e0623dbdf8082fc62522269c7365b21656447ae48e51fa26b4542284a5a937c"
 
@@ -2883,10 +2887,6 @@ hash = "e8eb8eb574fdae3934eec47a1e047bede3e277bff5da0297abe5bf34f8e8ef0e"
 [[files]]
 file = "config/paxi/datapacks/compression/data/compressedengineering/recipes/assembler/shaped/single_use_mana_ablatives_demonstration.json"
 hash = "8163deddedb227702ae21d4604fa00114b5c7151698b1a03bf9df7dfb4994326"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/compressedmystconv/recipes/void_conversion/glowstone_from_redstone.json"
-hash = "59fd15e55b872881b9f7963ce3d2ded18b9022790f69f1a00d55789c8eb5f686"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_beam_t1.json"
