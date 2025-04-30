@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item": "chemlib:zinc_ingot"}
+    },
+    "pattern": [
+      "AAA",
+      "AAA"
+    ],
+    "result": {
+      "count": 16,
+      "item": "createdeco:zinc_bars"
+    }
+  }

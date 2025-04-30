@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "key": {
-      "A": {"item":"immersiveengineering:stick_aluminum"},
+      "A": {"item":"vintageimprovements:aluminum_rod"},
       "B": {"item":"immersiveengineering:cushion"}
     },
     "pattern": [

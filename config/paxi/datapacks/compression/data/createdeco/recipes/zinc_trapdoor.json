@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item": "chemlib:zinc_ingot"}
+    },
+    "pattern": [
+      "AA ",
+      "AA "
+    ],
+    "result": {
+      "count": 4,
+      "item": "createdeco:zinc_trapdoor"
+    }
+  }
