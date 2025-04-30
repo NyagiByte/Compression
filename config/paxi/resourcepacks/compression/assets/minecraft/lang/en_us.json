@@ -15,6 +15,14 @@
     "item.minecraft.green_dye": "Organic Green Dye",
     "item.minecraft.red_dye": "Organic Red Dye",
     "item.minecraft.black_dye": "Organic Black Dye",
+
+    "item.minecraft.copper_ingot": "Impure Copper Ingot",
+    "block.minecraft.copper_block": "Block of Impure Copper",
+    "block.minecraft.waxed_copper_block": "Waxed Block of Impure Copper",
+
+    "item.minecraft.iron_ingot": "Impure Iron Ingot",
+    "item.minecraft.iron_nugget": "Impure Iron Nugget",
+    "block.minecraft.iron_block": "Block of Impure Iron",
     
     "item.minecraft.leather": "Working Leather"
 }
