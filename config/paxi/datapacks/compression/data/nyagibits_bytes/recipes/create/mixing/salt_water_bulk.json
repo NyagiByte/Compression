@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "mekanism:block_salt"
+      },
+      {
+        "amount": 4000,
+        "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+        "amount": 4000,
+        "fluid": "nyagibits_bytes:salt_water"
+      }
+    ]
+  }

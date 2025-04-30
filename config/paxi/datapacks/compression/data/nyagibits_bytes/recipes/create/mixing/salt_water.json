@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "tag": "forge:salt"
+      },
+      {
+        "amount": 1000,
+        "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+        "amount": 1000,
+        "fluid": "nyagibits_bytes:salt_water"
+      }
+    ]
+  }

@@ -813,6 +813,8 @@
 
 		{"namespace": "create", "path": "recipes/pressing/sugar_cane.json"},
 		{"namespace": "create", "path": "recipes/pressing/gold_ingot.json"},
+		{"namespace": "create", "path": "recipes/pressing/copper_ingot.json"},
+		{"namespace": "create", "path": "recipes/pressing/iron_ingot.json"},
 
 		{"namespace": "create", "path": "recipes/crafting/appliances/netherite_diving_helmet.json"},
 		{"namespace": "create", "path": "recipes/crafting/appliances/netherite_diving_helmet_from_netherite.json"},

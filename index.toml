@@ -3913,10 +3913,6 @@ file = "config/paxi/datapacks/compression/data/create/recipes/mixing/coarse_dirt
 hash = "2f6534c3fe9b4b4ef8889c8cddd23d5080b65a8fb5e3d0725dd1f7c3520713ab"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/create/recipes/pressing/iron_ingot.json"
-hash = "988d55b749e597379ae5fbaaf446a55c5ae73ca7b2feaf1016437c613df05d57"
-
-[[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/sequenced_assembly/precision_mechanism.json"
 hash = "c3dab91039b3fa186949661de230011572aa1a71b787ecf2fff60b8b29e77768"
 
@@ -7149,6 +7145,14 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "a3b2d867938908b2fc08bebf7b5e5fda551b3a41e638f9e1c16ea5d029d87b3b"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/salt_water.json"
+hash = "458c07d8bb1701f63e1c4f90d7fdaad0bd8cb24ceef5d377a326179909f93990"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/salt_water_bulk.json"
+hash = "b59c231a63b203e66d234c539a5320a2564c4a6a4d22f93633976b92453e4e35"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/sealant.json"
 hash = "16d2d233a4fbe2f2a8943267900a6e8ff7bd67b181f6eb34b89443a493907e87"
 
@@ -7351,6 +7355,10 @@ hash = "3b3cef7da8d8d86cf85ace63b80d11864fde534f2a394f18cad6192a742e2d90"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pressing/gold_plate_chemlib.json"
 hash = "42e398d2878403f25e18476077ab5038aeeedb65f75eb684ad63258ca4f314fe"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pressing/iron_plate_chemlib.json"
+hash = "988d55b749e597379ae5fbaaf446a55c5ae73ca7b2feaf1016437c613df05d57"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pressing/lead_plate_chemlib.json"
@@ -12582,7 +12590,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "93b6ddf6ee433419fab5b0eda479bb540cd838dbb50e634e6c464d56ca2d6e4c"
+hash = "899d4df2fd25c23c1becfa679ed9b413349ecb2d5380f952cf82acb8c07af811"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
