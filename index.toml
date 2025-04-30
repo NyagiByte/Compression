@@ -7146,11 +7146,11 @@ hash = "a3b2d867938908b2fc08bebf7b5e5fda551b3a41e638f9e1c16ea5d029d87b3b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/salt_water.json"
-hash = "458c07d8bb1701f63e1c4f90d7fdaad0bd8cb24ceef5d377a326179909f93990"
+hash = "92e2d8309508f720b52f7c4e7248c00ae843702c8691ce79339aa4201859697d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/salt_water_bulk.json"
-hash = "b59c231a63b203e66d234c539a5320a2564c4a6a4d22f93633976b92453e4e35"
+hash = "0d71cb8d51dd5c2fc4fbddacbc325513e099cf6a1b210e113d94be0d649102f3"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/sealant.json"

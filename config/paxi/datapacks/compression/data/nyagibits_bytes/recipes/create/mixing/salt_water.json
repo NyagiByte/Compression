@@ -12,7 +12,7 @@
     "results": [
       {
         "amount": 1000,
-        "fluid": "nyagibits_bytes:salt_water"
+        "fluid": "nyagibits_bytes:salt_water_fluid"
       }
     ]
   }
