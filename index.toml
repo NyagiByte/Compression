@@ -301,6 +301,10 @@ file = "config/carryon-common.toml"
 hash = "6a8f976a810f144e225a42e967b0274a2986a15de74e59f444f3f927ff5c1cec"
 
 [[files]]
+file = "config/chemlib-common.toml"
+hash = "93fb445ea5f9059a5831de8b3795f7a6f2b10093387fd61102f4c1acc3542154"
+
+[[files]]
 file = "config/compressed_create_recipes-common.toml"
 hash = "b13e02a527636c1905b4e19cf6505bdb55362500d096a6cd01c661d033331362"
 
@@ -12814,7 +12818,7 @@ hash = "c0956aba8bd98dddd3281f8e2f12feeac103c97c874d5c72232b19cd843ad672"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/lang/en_us.json"
-hash = "d68fba801cda0ebf24104c31c3b07bb89f7bfc96af17197a48407f9f63e6c3a6"
+hash = "1c3230157b90fa50e340e3243751bc98813ab0a9f2b6d1d163268b26fcc073bb"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/textures/item/material_plate_duroplast.png"
@@ -13808,6 +13812,11 @@ metafile = true
 [[files]]
 file = "mods/compressiontweaks-1.19.2-1.0.0.jar"
 hash = "ddb2afd50acce0a5362e0b3e95115790bc203ae275b4e9b960450c7cc69fb320"
+
+[[files]]
+file = "mods/compressiontweaks.pw.toml"
+hash = "4ac851d1b0094cd638a7a19b8b410691f83a2a6ccc04156bf1353deb7a0031f8"
+metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"

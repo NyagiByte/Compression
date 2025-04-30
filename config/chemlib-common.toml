@@ -1,0 +1,11 @@
+
+#
+#    These options are for rendering element abbreviations on different items in your inventory
+#    Disable rendering abbreviations on a per item type basis.
+#
+["Rendering Options"]
+	"dust abbreviations" = true
+	"nugget abbreviations" = true
+	"ingot abbreviations" = true
+	"element abbreviations" = true
+	"plate abbreviations" = true

@@ -1,0 +1,13 @@
+name = "CompressionTweaks"
+filename = "compressiontweaks-1.19.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bdf75e76e5658a47860ae02eb803b64821ad8ff0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6480829
+project-id = 999588
