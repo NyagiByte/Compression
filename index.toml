@@ -1021,6 +1021,10 @@ file = "config/paxi/datapacks/compression/data/ae2/recipes/network/parts/annihil
 hash = "6e48a280344659c6da1f59da8cdf3676519ad23222459c101da9703e2437fdd2"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/network/parts/cable_anchor.json"
+hash = "dcf215fa47c308645246665bf62dfb0d3c7ad459e12774ed838b1b7c83e250cc"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/parts/energy_level_emitter.json"
 hash = "a3f157a2c58cce3b3985dae4a4cd69cb6dc7846062d33620c7ac46f41135746a"
 
@@ -13920,7 +13924,7 @@ metafile = true
 
 [[files]]
 file = "mods/compressed-create-recipes.pw.toml"
-hash = "947cc7ed087a627fff5606e2b225f5635caf760267183acd3dee003aa72287ea"
+hash = "8e8c4d17d9daad9e820995d3cd8e5032b842d73115e99f283b1d55e1769abd94"
 metafile = true
 
 [[files]]
