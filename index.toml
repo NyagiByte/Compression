@@ -3897,6 +3897,10 @@ file = "config/paxi/datapacks/compression/data/create/recipes/item_application/s
 hash = "d911d2fd2f45dbdd619eb87874695657a726695bdf65a6204de0ff86ccbda1ac"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/item_application/smoke_in_a_bottle.txt"
+hash = "d911d2fd2f45dbdd619eb87874695657a726695bdf65a6204de0ff86ccbda1ac"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/item_application/steel_casing_from_brass_casing.json"
 hash = "a9a75008130646e9d428649f04ec2cf8cf7bbbe158a76cf68e71b1fb0fd2ced3"
 
@@ -5726,11 +5730,15 @@ hash = "ae01faff5904de66053e3e86c112351463f7006c762c7f5b7a46cda1fa01b3bd"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/connector_mv.json"
-hash = "14af4508e44de4f9bc749c7c03767b0621a0a2252db0ee476af841ea2ea1369d"
+hash = "19eeee53777bf3ba712e086eddcd1b7f895d43332b3ef148d5f1af65c1e8af3a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/connector_mv_relay.json"
 hash = "fc0a0bf8295ada92319a3e8592da205c9005bdb02650e3990c66d5238b7d1fb1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/constantan_mix.json"
+hash = "b04139a3620d3e5617956643bbc104453e4e12debde3f8b2078bf1423d36ad54"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/conveyor_basic.json"
@@ -5751,6 +5759,10 @@ hash = "92a87338e931e8a5857e27c16f64322ea59da3ecb99456a6fba492fc64a7958f"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/earmuffs.json"
 hash = "3267dda7eebfea81e120d98046cb7ecb6dd5669a54505ba108eeaeff0698e5f6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/electrum_mix.json"
+hash = "266f8ac9e2e3afdb144cac65876e891c61f384f0629bbc1c163b19b74d8fc301"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/ersatz_leather.json"
@@ -12722,7 +12734,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "981d892793b3f5a8f4aca9a59b2b65fd656ef3ed103d952627d33fd34f94569f"
+hash = "18ef00dd9880040f8e88d64183b28028eacd46804cce8f11ade26028d383d667"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -13282,7 +13294,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"
-hash = "8f570a6a73711d63e4a1e0268400603f07e42468576b0949e77e7c888877d723"
+hash = "bd5f539c88d9accc533bd4dbaf1c02c480e91e06df2c24bba30a3f02deae4c5b"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
@@ -13710,7 +13722,7 @@ hash = "c2b883496a6eca188047e44b8467113962fe03221e93c3e0e9ffeeaf0ff94c0e"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "0cbb776a2f976a3d741bd5d6475386dc4e47053d7e22b50b2459ea41402ca1bc"
+hash = "51ee0f065c015a67fe1838d97a55ec04410c955bc594a457aee3aa9c31b85a09"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
