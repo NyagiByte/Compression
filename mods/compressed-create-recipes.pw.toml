@@ -1,13 +1,13 @@
 name = "Compressed Create Recipes"
-filename = "compressed_create_recipes-1.1.2.jar"
+filename = "compressed_create_recipes-1.1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8d800fef8a61e037ab257d6134f1262b7273243d"
+hash = "ee13ddc12d36b8cb769a4b9d9cec559ef0a8a4e5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6319582
+file-id = 6485179
 project-id = 1079364
