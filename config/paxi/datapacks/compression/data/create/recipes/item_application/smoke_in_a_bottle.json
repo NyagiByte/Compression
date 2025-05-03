@@ -1,0 +1,10 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {"item": "minecraft:campfire"},
+    {"item": "minecraft:glass_bottle"}
+  ],
+  "results": [
+    {"item": "quark:bottled_cloud"}
+  ]
+}

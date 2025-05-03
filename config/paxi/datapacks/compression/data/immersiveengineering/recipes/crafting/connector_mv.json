@@ -3,11 +3,11 @@
     "key": {
       "A": {"item":"immersiveengineering:slab_sheetmetal_electrum"},
       "B": {"item":"nyagibits_bytes:ceramic"},
-      "C": {"item":"immersiveengineering:slab_storage_constantan"}
+      "C": {"item":"thermal:constantan_plate"}
     },
     "pattern": [
-      " A ",
-      "BCB"
+      " C ",
+      "BAB"
     ],
     "result": {
         "count": 2,

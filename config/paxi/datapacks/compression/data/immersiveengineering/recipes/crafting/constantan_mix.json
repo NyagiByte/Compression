@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "chemlib:copper_dust"
+        },
+        {
+            "item": "chemlib:nickel_dust"
+        }
+    ],
+    "result": {
+        "count": 2,
+        "item": "thermal:constantan_dust"
+    }
+}
