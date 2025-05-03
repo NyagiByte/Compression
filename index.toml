@@ -5065,6 +5065,10 @@ file = "config/paxi/datapacks/compression/data/forge/tags/items/orange_organic.j
 hash = "88eb3b189df46f25d79859734fe43dd162b322821c1384057e78926297094669"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/ores/gold.json"
+hash = "46c22588387c8cd095346c60a7191a9c60d780dfa7ab8a20dc50e7a002a54d62"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/ores/tin.json"
 hash = "4cec844a9ec8af7bad995fbd77c840d1fb84d2c4a3bc3cf530510725196a62f4"
 
@@ -6373,6 +6377,10 @@ file = "config/paxi/datapacks/compression/data/minecraft/loot_tables/entities/do
 hash = "4dc824fd6c4f17013059c0d174dbb6ac82c21d690e74237d129c4dfef1d929d3"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/loot_tables/entities/hoglin.json"
+hash = "a9987677bee398c9c32d51e5ff37a777d3a217feb28832c286a2404d75476c9e"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/loot_tables/entities/horse.json"
 hash = "4dc824fd6c4f17013059c0d174dbb6ac82c21d690e74237d129c4dfef1d929d3"
 
@@ -6395,6 +6403,14 @@ hash = "84e46a2c2aec3b8441d9d5bacaa79c521185c31317dccdcff47ecd87493458a2"
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/loot_tables/entities/squid.json"
 hash = "f738988fe9e2b5bf3fe1cb1c569cadf13d8f2ab44f99d7ec169ae50761032ba3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/loot_tables/entities/zoglin.json"
+hash = "e4226fae5851357013c9ff452cd99afc29c3bb4f714c5495d3d3d2dd8c32774b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/loot_tables/entities/zombie_horse.json"
+hash = "0c88a71d193af10d103cc90badb697f5b7f00ecfa4bcb2109eae0524efaacc90"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/beacon.json"
@@ -12734,7 +12750,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "18ef00dd9880040f8e88d64183b28028eacd46804cce8f11ade26028d383d667"
+hash = "4301bd2c513b06046500e537d97f89f4caf05af795f1914c353bb68ba80a5fde"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -13294,7 +13310,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"
-hash = "bd5f539c88d9accc533bd4dbaf1c02c480e91e06df2c24bba30a3f02deae4c5b"
+hash = "ce0ca9283068ee1e0453a7abd7d0344147481052815d750a604aaf7b6ede4195"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
