@@ -374,6 +374,11 @@ JEIEvents.hideItems(event => {
     'mekanism:dust_iron',
     'mekanism:dirty_dust_iron',
     'nuclearcraft:iron_dust',
+    'thermal:gold_dust',
+    'immersiveengineering:dust_gold',
+    'mekanism:dust_gold',
+    'mekanism:dirty_dust_gold',
+    'nuclearcraft:gold_dust',
     //Ae2
     'ae2:certus_quartz_pickaxe',
     'ae2:certus_quartz_axe',

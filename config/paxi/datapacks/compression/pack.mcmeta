@@ -729,6 +729,17 @@
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/ingot_constantan_to_nugget_constantan.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/nugget_constantan_to_ingot_constantan.json"},
 
+		{"namespace": "byg", "path": "recipes/gold_ingot_from_smelting_blue_nether_gold_ore.json"},
+		{"namespace": "byg", "path": "recipes/gold_ingot_from_smelting_brimstone_nether_gold_ore.json"},
+		{"namespace": "byg", "path": "recipes/gold_ingot_from_blasting_blue_nether_gold_ore.json"},
+		{"namespace": "byg", "path": "recipes/gold_ingot_from_blasting_brimstone_nether_gold_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/compat/byg/blue_nether_gold_ore.json"},
+		{"namespace": "create", "path": "recipes/crushing/compat/byg/brimstone_nether_gold_ore.json"},
+		{"namespace": "thermal", "path": "recipes/smelting/gold_ingot_from_dust_smelting.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/smelting/gold_ingot_from_dust.json"},
+		{"namespace": "thermal", "path": "recipes/smelting/gold_ingot_from_dust_blasting.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/smelting/gold_ingot_from_dust_from_blasting.json"},
+
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/plate_iron_hammering.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/plate_uranium_hammering.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/crafting/plate_gold_hammering.json"},
