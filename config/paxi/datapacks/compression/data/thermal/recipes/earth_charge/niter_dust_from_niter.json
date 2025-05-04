@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "thermal:niter"
+      }
+    ],
+    "processingTime": 100,
+    "results": [
+      {
+        "item": "chemlib:potassium_nitrate_dust"
+      }
+    ]
+  }
