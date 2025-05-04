@@ -193,6 +193,8 @@ JEIEvents.hideItems(event => {
     'mekanism:block_raw_uranium',
     'immersiveengineering:raw_uranium',
     'immersiveengineering:raw_block_uranium',
+    'thermal:niter_ore',
+    'thermal:deepslate_niter_ore',
     //Ingots
     'nuclearcraft:steel_ingot',
     'mekanism:ingot_steel',
@@ -315,6 +317,7 @@ JEIEvents.hideItems(event => {
     'mekanism:block_steel',
     'mekanism:block_charcoal',
     'quark:charcoal_block',
+    'thermal:gunpowder_block',
     //Dusts
     'nuclearcraft:zinc_dust',
     'nuclearcraft:cobalt_dust',

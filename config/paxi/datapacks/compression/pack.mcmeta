@@ -45,6 +45,9 @@
 		{"namespace": "thermal", "path": "recipes/rubber_from_dandalion.json"},
 		{"namespace": "thermal", "path": "recipes/rubber_from_vine.json"},
 		{"namespace": "thermal", "path": "recipes/explosive_grenade_4.json"},
+		{"namespace": "thermal", "path": "recipes/gunpowder_4.json"},
+		{"namespace": "thermal", "path": "recipes/storage/gunpowder_block.json"},
+		{"namespace": "thermal", "path": "recipes/storage/gunpowder_from_block.json"},
 		{"namespace": "thermal", "path": "recipes/storage/carrot_block.json"},
 		{"namespace": "thermal", "path": "recipes/storage/potato_block.json"},
 

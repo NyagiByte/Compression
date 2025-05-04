@@ -28,5 +28,6 @@
     "item.minecraft.gold_nugget": "Impure Gold Nugget",
     "block.minecraft.gold_block": "Block of Impure Gold",
     
-    "item.minecraft.leather": "Working Leather"
+    "item.minecraft.leather": "Working Leather",
+    "item.minecraft.gunpowder": "Low Grade Gunpowder"
 }
