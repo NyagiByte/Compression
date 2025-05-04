@@ -4701,6 +4701,10 @@ file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/potassium_
 hash = "e10ac30efe34e2fae519549b623a87d7ea3eca6b9f3d58e0983dcc69107488c9"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/potassium_nitrate.json"
+hash = "6e81a2cf9c4ff51b287e53e6450b811eb18089ba0c61190252e3221cf191e12d"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/dusts/quartz.json"
 hash = "26a53f80ec24397f19d305b1f033efee2b10af7ab0d963cf63bb66fa7543c493"
 
@@ -4799,6 +4803,10 @@ hash = "9f04477c39d5845598414adffe3e8e182c3b18d014fc0ca43e6ce21bbeac181f"
 [[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/gems/fluorite.json"
 hash = "427122efef808d45ee0b72744df6bbfebfeeea083ed01fd21161980f41b8edf2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/gems/niter.json"
+hash = "4e96df5e98945fe4d61fef30dc1d43760d10f3e52424ed8794eb2e81a28a6482"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/gems/ruby.json"
@@ -5795,6 +5803,10 @@ hash = "36c121304db6d619f45c247cf519799c75f0a2e02eacbbf026d43f14403aeaed"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/generator.json"
 hash = "8ed77d8a2ed50c0838ac3cbb1ac47c72d5b37632135cba1205c48d741ecba91d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/gunpowder_from_dusts.json"
+hash = "54592e9ef6314eb17aaa8dea14f7afd6f8d868b2c3a2cc754f50f6900f0aa6b8"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/hammer.json"
@@ -12333,6 +12345,10 @@ file = "config/paxi/datapacks/compression/data/thermal/recipes/drill_head_t1.jso
 hash = "3a815c54949e111da6922c5590d58ab9583c98269b5b3576e89c90bf7b19a29a"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/earth_charge/niter_dust_from_niter.json"
+hash = "8258c1b018ec6c429ee58c14607f0ddc4fb8455a726647f75db9178bcbec89a9"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/thermal/recipes/rubber_3.json"
 hash = "b70a08e3f756011b4580f4763468fe69d4cb1bfbc35623a5ba015cf8cc6c4260"
 
@@ -12750,7 +12766,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "e15b31a9a15e7e05d2a0053d463112f778189ffb755b05e84f5df0e24a325b35"
+hash = "eb170c1a86b6fab26633a688c3cf6c87225b371139e795b95060ea401e68fac6"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -12990,7 +13006,7 @@ hash = "4b767289e70b3489cb901569b15763e299ea8d139008355ea222619822e671a2"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/lang/en_us.json"
-hash = "b09dbbb8d900546cc2aa4bd3aa4e7af055bb36539925c276f65463ce7d0b8323"
+hash = "4948a703d57d3360f10b7147c52fe023feab0c080da90a490086a0395cf8ca6c"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/mythicbotany/lang/en_us.json"
@@ -13326,7 +13342,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"
-hash = "3bf3c44100898e38903b1f2b64ddc0cab5906f1fb8495d794f17b6adb5c26d7c"
+hash = "06ab82a4242dfbd51f457c0ebf6c6d2ab25e23c9d852142ffe27827fa2fb4d87"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
