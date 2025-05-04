@@ -175,6 +175,10 @@
 		{"namespace": "minecraft", "path": "recipes/shield.json"},
 		{"namespace": "minecraft", "path": "recipes/leather.json"},
 
+		{"namespace": "mekanism", "path": "recipes/storage_blocks/charcoal.json"},
+		{"namespace": "quark", "path": "recipes/building/crafting/compressed/charcoal_block.json"},
+		{"namespace": "quark", "path": "recipes/building/crafting/compressed/charcoal_block_uncompress.json"},
+
 		{"namespace": "byg", "path": "recipes/ametrine_helmet.json"},
 		{"namespace": "byg", "path": "recipes/ametrine_chestplate.json"},
 		{"namespace": "byg", "path": "recipes/ametrine_leggings.json"},

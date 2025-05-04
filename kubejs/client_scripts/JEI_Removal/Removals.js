@@ -313,6 +313,8 @@ JEIEvents.hideItems(event => {
     'thermal:nickel_block',
     'mekanism:block_osmium',
     'mekanism:block_steel',
+    'mekanism:block_charcoal',
+    'quark:charcoal_block',
     //Dusts
     'nuclearcraft:zinc_dust',
     'nuclearcraft:cobalt_dust',
@@ -383,6 +385,7 @@ JEIEvents.hideItems(event => {
     'mekanism:dirty_dust_gold',
     'nuclearcraft:gold_dust',
     'mekanism:dust_steel',
+    'nuclearcraft:charcoal_dust',
     //Ae2
     'ae2:certus_quartz_pickaxe',
     'ae2:certus_quartz_axe',
