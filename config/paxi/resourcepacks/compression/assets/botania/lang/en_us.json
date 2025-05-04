@@ -1,0 +1,13 @@
+{
+    "item.botania.manasteel_ingot": "FeC-Ω₁ Manasteel Ingot",
+    "item.botania.manasteel_nugget": "FeC-Ω₁ Manasteel Nugget",
+    "block.botania.manasteel_block": "FeC-Ω₁ Manasteel Block",
+
+    "item.botania.elementium_ingot": "SiO-Ω₂ Elementium Ingot",
+    "item.botania.elementium_nugget": "SiO-Ω₂ Elementium Nugget",
+    "block.botania.elementium_block": "SiO-Ω₂ Elementium Block",
+
+    "item.botania.terrasteel_ingot": "Cf☢SiO-Ω₃ Terrasteel Ingot",
+    "item.botania.terrasteel_nugget": "Cf☢SiO-Ω₃ Terrasteel Nugget",
+    "block.botania.terrasteel_block": "Cf☢SiO-Ω₃ Terrasteel Block"
+}

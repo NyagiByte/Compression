@@ -756,6 +756,9 @@
 		{"namespace": "immersiveengineering", "path": "recipes/metalpress/rod_steel.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/metalpress/blaze_rod.json"},
 
+		{"namespace": "nuclearcraft", "path": "recipes/steel_from_nugget.json"},
+		{"namespace": "mekanism", "path": "recipes/processing/steel/ingot/from_nuggets.json"},
+
 		{"namespace": "immersiveengineering", "path": "recipes/bottling/ersatz_leather.json"},
 
 		{"namespace": "immersiveengineering", "path": "recipes/cokeoven/coke_block.json"},
@@ -896,6 +899,9 @@
 		{"namespace": "immersiveengineering", "path": "recipes/blueprint/component_iron.json"},
 
 		{"namespace": "immersiveengineering", "path": "recipes/alloysmelter/insulating_glass.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/alloysmelter/brass.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/alloysmelter/invar.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/alloysmelter/bronze.json"},
 
 		{"namespace": "immersiveengineering", "path": "recipes/fermenter/potato.json"},
 		{"namespace": "immersiveengineering", "path": "recipes/fermenter/melon_slice.json"},

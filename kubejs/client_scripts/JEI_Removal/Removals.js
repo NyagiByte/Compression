@@ -148,6 +148,8 @@ JEIEvents.hideItems(event => {
     'vintageimprovements:refined_glowstone_sheet',
     'vintageimprovements:refined_obsidian_sheet',
     'vintageimprovements:vanadium_sheet',
+    'nuclearcraft:stainless_steel_ingot',
+    'nuclearcraft:steel_block',
     //Rods
     'immersiveengineering:stick_aluminum',
     //Wire
@@ -310,6 +312,7 @@ JEIEvents.hideItems(event => {
     'immersiveengineering:storage_nickel',
     'thermal:nickel_block',
     'mekanism:block_osmium',
+    'mekanism:block_steel',
     //Dusts
     'nuclearcraft:zinc_dust',
     'nuclearcraft:cobalt_dust',
@@ -379,6 +382,7 @@ JEIEvents.hideItems(event => {
     'mekanism:dust_gold',
     'mekanism:dirty_dust_gold',
     'nuclearcraft:gold_dust',
+    'mekanism:dust_steel',
     //Ae2
     'ae2:certus_quartz_pickaxe',
     'ae2:certus_quartz_axe',

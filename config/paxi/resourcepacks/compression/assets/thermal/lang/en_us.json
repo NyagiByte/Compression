@@ -1,0 +1,29 @@
+{
+    "item.thermal.bronze_ingot": "CuSn₂₅ Bronze Ingot",
+    "item.thermal.bronze_nugget": "CuSn₂₅ Bronze Nugget",
+    "item.thermal.bronze_dust": "CuSn₂₅ Bronze Dust",
+    "item.thermal.bronze_gear": "CuSn₂₅ Bronze Gear",
+    "item.thermal.bronze_plate": "CuSn₂₅ Bronze Plate",
+    "block.thermal.bronze_block": "CuSn₂₅ Bronze Block",
+
+    "item.thermal.electrum_ingot": "AuAg Electrum Ingot",
+    "item.thermal.electrum_nugget": "AuAg Electrum Nugget",
+    "item.thermal.electrum_dust": "AuAg Electrum Dust",
+    "item.thermal.electrum_gear": "AuAg Electrum Gear",
+    "item.thermal.electrum_plate": "AuAg Electrum Plate",
+    "block.thermal.electrum_block": "AuAg Electrum Block",
+
+    "item.thermal.invar_ingot": "FeNi₃₆ Invar Ingot",
+    "item.thermal.invar_nugget": "FeNi₃₆ Invar Nugget",
+    "item.thermal.invar_dust": "FeNi₃₆ Invar Dust",
+    "item.thermal.invar_gear": "FeNi₃₆ Invar Gear",
+    "item.thermal.invar_plate": "FeNi₃₆ Invar Plate",
+    "block.thermal.invar_block": "FeNi₃₆ Invar Block",
+
+    "item.thermal.constantan_ingot": "CuNi₄₅ Constantan Ingot",
+    "item.thermal.constantan_nugget": "CuNi₄₅ Constantan Nugget",
+    "item.thermal.constantan_dust": "CuNi₄₅ Constantan Dust",
+    "item.thermal.constantan_gear": "CuNi₄₅ Constantan Gear",
+    "item.thermal.constantan_plate": "CuNi₄₅ Constantan Plate",
+    "block.thermal.constantan_block": "CuNi₄₅ Constantan Block"
+}

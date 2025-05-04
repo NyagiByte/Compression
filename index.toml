@@ -12750,7 +12750,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "4301bd2c513b06046500e537d97f89f4caf05af795f1914c353bb68ba80a5fde"
+hash = "e15b31a9a15e7e05d2a0053d463112f778189ffb755b05e84f5df0e24a325b35"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -12953,6 +12953,10 @@ file = "config/paxi/resourcepacks/compression/assets/alchemistry/lang/en_us.json
 hash = "4b1c2817d28741ff7766c56ffe03f346f425c219b0ce4399474da9ae50fb9cd1"
 
 [[files]]
+file = "config/paxi/resourcepacks/compression/assets/botania/lang/en_us.json"
+hash = "b5f3ef5fd0bb0538d036904ec7a755330c422cb3699a6ce3c85f346206faad49"
+
+[[files]]
 file = "config/paxi/resourcepacks/compression/assets/chemlib/lang/en_us.json"
 hash = "80e62be37469b6fc605170a97bcb42a41fea415aad3c544dc4b6c383434cab99"
 
@@ -12966,7 +12970,7 @@ hash = "e982c032be7fe1bfec0ebd629aaaf1a0ae9579c9f2162da31f5d02011061c9ba"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/create/lang/en_us.json"
-hash = "de3e7ffe41d47556ca3017ce9b764687fba79e9b731b92cd5674f84fa390289c"
+hash = "f2b7a64ab6a87c0fcf91ee2059b4911c277a4a5375168d46f43fd67d8d6a8714"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/hnh/lang/en_us.json"
@@ -12974,7 +12978,7 @@ hash = "c0956aba8bd98dddd3281f8e2f12feeac103c97c874d5c72232b19cd843ad672"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/lang/en_us.json"
-hash = "1c3230157b90fa50e340e3243751bc98813ab0a9f2b6d1d163268b26fcc073bb"
+hash = "889be6f00e9af6c87d0c540fa88a8e056cdc61c4aee466aff3a873e3b549f70f"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/textures/item/material_plate_duroplast.png"
@@ -12986,7 +12990,11 @@ hash = "4b767289e70b3489cb901569b15763e299ea8d139008355ea222619822e671a2"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/lang/en_us.json"
-hash = "512894a8eb5cf448888b89d50ac895495cc87b71a21079cb3005118854719574"
+hash = "b09dbbb8d900546cc2aa4bd3aa4e7af055bb36539925c276f65463ce7d0b8323"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/mythicbotany/lang/en_us.json"
+hash = "c95a7612f077fdf35e58964fff208f48e1501610408a7fc56c45b4a6decc75b8"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/lang/en_us.json"
@@ -13053,12 +13061,20 @@ file = "config/paxi/resourcepacks/compression/assets/nuclearcraft/textures/item/
 hash = "c12f8a4865aab6ca9193dc61cdcf2c06712fd959cf1065ddcc832cfba8aeb5e3"
 
 [[files]]
+file = "config/paxi/resourcepacks/compression/assets/nyagibits_bytes/lang/en_us.json"
+hash = "345800f94af731e5cfdb851cb0c22163d1d0b312fc0cee2c64bda0a04b8296ab"
+
+[[files]]
 file = "config/paxi/resourcepacks/compression/assets/origins/lang/en_us.json"
 hash = "b2af91601b3f6fe13597d7427b2cf9b90d1eeeab4e29c23de63d6725c4bbdcf6"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/sophisticatedbackpacks/lang/en_us.json"
 hash = "097ee8629c5aebf5c30113f08dd8a4cd781e532d61beadf8f2eeebf3ef10e7b2"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/thermal/lang/en_us.json"
+hash = "3f223f9b5eef5be0b0454a83d12495195affc2efd8a2c6efc2450a0be7a5a518"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/thermal/textures/item/bronze_plate_0.png"
@@ -13310,7 +13326,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"
-hash = "ce0ca9283068ee1e0453a7abd7d0344147481052815d750a604aaf7b6ede4195"
+hash = "3bf3c44100898e38903b1f2b64ddc0cab5906f1fb8495d794f17b6adb5c26d7c"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"

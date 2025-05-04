@@ -1,0 +1,11 @@
+{
+    "item.nyagibits_bytes.steel_high_carbon_1080": "1080 High Carbon Steel Ingot",
+    "item.nyagibits_bytes.steel_high_carbon_15n20": "₁₅N₂₀ High Carbon Steel Ingot",
+    "item.nyagibits_bytes.steel_stainless": "PSiCrₓ₄ Stainless Steel Ingot",
+    "item.nyagibits_bytes.steel_damascus": "Damascus Steel Ingot",
+
+    "block.nyagibits_bytes.steel_high_carbon_1080": "1080 High Carbon Steel Block",
+    "block.nyagibits_bytes.steel_high_carbon_15n20": "₁₅N₂₀ High Carbon Steel Block",
+    "block.nyagibits_bytes.steel_stainless": "PSiCrₓ₄ Stainless Steel Block",
+    "block.nyagibits_bytes.steel_damascus": "Damascus Steel Block"
+}

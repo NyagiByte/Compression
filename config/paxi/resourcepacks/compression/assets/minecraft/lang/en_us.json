@@ -23,6 +23,10 @@
     "item.minecraft.iron_ingot": "Impure Iron Ingot",
     "item.minecraft.iron_nugget": "Impure Iron Nugget",
     "block.minecraft.iron_block": "Block of Impure Iron",
+
+    "item.minecraft.gold_ingot": "Impure Gold Ingot",
+    "item.minecraft.gold_nugget": "Impure Gold Nugget",
+    "block.minecraft.gold_block": "Block of Impure Gold",
     
     "item.minecraft.leather": "Working Leather"
 }

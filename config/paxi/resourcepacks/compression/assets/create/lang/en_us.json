@@ -2,5 +2,10 @@
     "item.create.electron_tube": "Crude Quartz Resonator",
     "item.create.rose_quartz": "Unpolished Rose Quartz",
 
-    "item.create.copper_nugget": "Impure Copper Nugget"
+    "item.create.copper_nugget": "Impure Copper Nugget",
+
+    "item.create.brass_ingot": "CuZn Brass Ingot",
+    "item.create.brass_nugget": "CuZn Brass Nugget",
+    "item.create.brass_sheet": "CuZn Brass Sheet",
+    "block.create.brass_block": "CuZn Brass Block"
 }
