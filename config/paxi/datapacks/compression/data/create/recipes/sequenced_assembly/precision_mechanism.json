@@ -16,7 +16,7 @@
       },
       {
         "chance": 8.0,
-        "item": "nyagibits_bytes:steel_high_carbon_15n20"
+        "item": "immersiveengineering:plate_steel"
       },
       {
         "chance": 5.0,
@@ -43,7 +43,7 @@
             "item": "create:incomplete_precision_mechanism"
           },
           {
-            "item": "nyagibits_bytes:steel_high_carbon_15n20"
+            "item": "immersiveengineering:plate_steel"
           }
         ],
         "results": [
