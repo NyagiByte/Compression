@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "mekanism:dust_charcoal"
+      },
+      {
+        "item": "minecraft:iron_ingot"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "createdeco:cast_iron_ingot"
+      }
+    ]
+  }
