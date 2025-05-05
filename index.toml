@@ -5509,12 +5509,20 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/functions/ti
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/alloysmelter/bronze.json"
+hash = "a7272f4b67890b99b1da3602b2fbdc92b822413b91b0d465bb12e4b45c67b748"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/alloysmelter/constantan.json"
 hash = "aa36516a07676e15b4623f8162c5f5a37b8aac4ce05238b8a87e4a32a837b874"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/alloysmelter/electrum.json"
 hash = "310d5e88e7ed3eb15df2a73ea26be34f653916ccd4bd548a94534b5f3da56c2e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/alloysmelter/invar.json"
+hash = "1ea82cee80abdf427f716349d25d85fb53d720e417439b436a7d0b09681feddb"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/arcfurnace/insulated_glass.txt"
@@ -7085,6 +7093,18 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "050e52fe250150ebc211e64d854911acefb83225eed2a49ce222a2b75c73b0ea"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/andesite_alloy_t1_mixing_invar.json"
+hash = "4bd4a204e7dd71db5dc1c51510ddbb7d919a513168eff478baead0438b1b3f88"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/andesite_alloy_t1_mixing_invar_cast.json"
+hash = "7016d63993968b2c8a51eeaa899662ce1830efae746c14b7a3071b7a6e06f3fc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/andesite_alloy_t1_mixing_invar_cast_steel.json"
+hash = "8431d27d3a3b7a01ad713a6b84a5de72a9688f4b0e394bbbfb3e66b1ce842f05"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/anthocyanin.json"
 hash = "658109a26de358f6aebcc24fcb9298a6205bae9b8ccbb2f45ea5407369d8462e"
 
@@ -7135,6 +7155,14 @@ hash = "184470c0ed3c74af2b02382377ec4bea4892f7cbbd9eee3272efeecf5c5be9d6"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/brain_to_lard.json"
 hash = "e0a3adac5334161066e0a687e70045480bd4dedf69fb59e3868ed4ccedc5e923"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/cast_iron_block.json"
+hash = "a363cace0681515a6cb0eecd1256997907af74c09e7db432e045d9712a82573a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/cast_iron_ingot.json"
+hash = "3a897fa45219d70c72636bcc0eef1e383c463d0bd866928b0111e426c06f50a9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/chromium_trioxide.json"
@@ -7219,6 +7247,18 @@ hash = "38e923e1f7b91305f2f47e50ce62abdbffba9cb63327aaf8619f8e74655e2f6d"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/livisite_alloy_t0_mixing_zinc.json"
 hash = "f74a7d238f487fbab525b4e20c0d55501a3fc8e0219212de679012018dde23e8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/livisite_alloy_t1_mixing_brass.json"
+hash = "f54bbc811504b90347dc1c306c725b93018545c95d4a57b79db60996e8c4454b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/livisite_alloy_t1_mixing_brass_bronze.json"
+hash = "8b040b17fc8622acac092df76905517f17d9e6b31a9d988b6ea99cdd8ae13aad"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/livisite_alloy_t1_mixing_brass_bronze_const.json"
+hash = "56af92b24ef67b34c033aef17bd908f7ad86bcd50634844d7924bc86968262da"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/malic_and_citric_acid.json"
