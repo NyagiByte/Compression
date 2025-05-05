@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "thermal:invar_nugget"
+      },
+      {
+        "item": "createdeco:cast_iron_nugget"
+      },
+      {
+        "item": "immersiveengineering:nugget_steel"
+      }
+    ],
+    "results": [
+      {
+        "count": 8,
+        "item": "create:andesite_alloy"
+      }
+    ]
+  }

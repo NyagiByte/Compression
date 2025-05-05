@@ -1,0 +1,20 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:livisite_stone"
+      },
+      {
+        "item": "create:brass_nugget"
+      },
+      {
+        "item": "thermal:bronze_nugget"
+      }
+    ],
+    "results": [
+      {
+        "count": 4,
+        "item": "nyagibits_bytes:livisite_alloy"
+      }
+    ]
+  }
