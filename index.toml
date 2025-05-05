@@ -14262,6 +14262,16 @@ hash = "e00e666fc6f0726fcca0f74f9252ba4b1022326ee65433b5aaa08bcd14f4390b"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "59bfe727c8345c80b01d0bd7c6fa194234ad3130187bb2fafffb5b6aab37285b"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "2857b1737b8debe4430c17f7f4fe75901710d9ddf5dc946777c6e8f219d595ed"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "7befc4718b205d760fedcef1aa160b3f7ebde248774f4a1eb79e0e2d352afe89"
 metafile = true
@@ -14596,11 +14606,6 @@ metafile = true
 [[files]]
 file = "mods/the-impossible-library.pw.toml"
 hash = "80c496c73b0f19043434515e2aa4bed0f2e1ea6dfae2c56868f38974f0b6addc"
-metafile = true
-
-[[files]]
-file = "mods/the-one-probe.pw.toml"
-hash = "e3130b1d0cc8bdcbdc5ddd4de720ec0c6d97996d90fdb5e3a77c17571709cede"
 metafile = true
 
 [[files]]
