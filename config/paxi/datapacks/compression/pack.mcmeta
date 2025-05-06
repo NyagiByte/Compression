@@ -25,6 +25,8 @@
 
 		{"namespace": "mekanism", "path": "recipes/sawing/item_frame.json"},
 
+		{"namespace": "mekanism", "path": "recipes/processing/lategame/polonium.json"},
+
 		{"namespace": "compressedcreativity", "path": "recipes/mixing/brass_gilded_lapis_lazuli.json"},
 		{"namespace": "compressedcreativity", "path": "recipes/crafting/mesh_empty.json"},
 		{"namespace": "compressedcreativity", "path": "recipes/item_application/compressed_iron_casing_from_wood.json"},
