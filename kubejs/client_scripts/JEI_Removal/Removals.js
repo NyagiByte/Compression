@@ -406,7 +406,6 @@ JEIEvents.hideItems(event => {
     'ae2:fluix_hoe',
     'ae2:fluix_sword',
     'ae2:charged_staff',
-    'ae2:entropy_manipulator',
     //Bedrockminer
     'bedrockminer:bedrock_pickaxe',
     'bedrockminer:bedrock_sword',

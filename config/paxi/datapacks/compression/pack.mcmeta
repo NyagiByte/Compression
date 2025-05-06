@@ -1177,8 +1177,14 @@
 
 		{"namespace": "ae2", "path": "recipes/network/cables/dense_smart_from_smart.json"},
 
-		{"namespace": "ae2", "path": "recipes/tools/misctools_entropy_manipulator.json"},
 		{"namespace": "ae2", "path": "recipes/tools/misctools_charged_staff.json"},
+
+		{"namespace": "ae2", "path": "recipes/entropy/cool/water_ice.json"},
+		{"namespace": "ae2", "path": "recipes/entropy/cool/lava_obsidian.json"},
+		{"namespace": "ae2", "path": "recipes/entropy/cool/stone_bricks_cracked_stone_bricks.json"},
+		{"namespace": "ae2", "path": "recipes/entropy/cool/flowing_water_snowball.json"},
+		{"namespace": "ae2", "path": "recipes/entropy/cool/grass_block_dirt.json"},
+		{"namespace": "ae2", "path": "recipes/entropy/cool/stone_cobblestone.json"},
 
 		{"namespace": "aiotbotania", "path": "recipes/livingwood_pickaxe.json"},
 		{"namespace": "aiotbotania", "path": "recipes/livingwood_sword.json"},

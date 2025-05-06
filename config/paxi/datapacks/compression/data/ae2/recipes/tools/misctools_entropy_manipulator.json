@@ -1,0 +1,118 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "ae2:fluix_block"},
+    "loops": 1,
+    "results": [
+      {"item": "ae2:entropy_manipulator"}
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "ae2:fluix_block"
+          },
+          {
+            "item": "immersiveengineering:stick_steel"
+          }  
+        ],
+        "results": [
+          {
+            "item": "ae2:fluix_block"
+        }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "ae2:fluix_block"
+          }
+        ],
+        "processingTime": 50,
+        "results": [
+          {
+            "item": "ae2:fluix_block"
+          }  
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "ae2:fluix_block"
+          },
+          {
+            "item": "nyagibits_bytes:lead_acid_cell"
+          }  
+        ],
+        "results": [
+          {
+            "item": "ae2:fluix_block"
+        }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "ae2:fluix_block"
+          },
+          {
+            "item": "nyagibits_bytes:matter_converters"
+          }  
+        ],
+        "results": [
+          {
+            "item": "ae2:fluix_block"
+        }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "ae2:fluix_block"
+          },
+          {
+            "item": "nyagibits_bytes:fasteners"
+          }  
+        ],
+        "results": [
+          {
+            "item": "ae2:fluix_block"
+        }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "ae2:fluix_block"
+          },
+          {
+            "item": "nyagibits_bytes:ae2_schematic"
+          }  
+        ],
+        "results": [
+          {
+            "item": "ae2:fluix_block"
+        }
+        ]
+      },
+      {
+          "type": "create:pressing",
+          "ingredients": [
+            {
+              "item": "ae2:fluix_block"
+            }
+          ],
+          "results": [
+            {
+              "item": "ae2:fluix_block"
+            }  
+          ]
+        }
+    ],
+    "transitionalItem": {"item": "ae2:fluix_block"}
+  }
