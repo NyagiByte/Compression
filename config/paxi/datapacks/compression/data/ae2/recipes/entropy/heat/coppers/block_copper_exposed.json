@@ -1,0 +1,14 @@
+{
+    "type": "ae2:entropy",
+    "input": {
+      "block": {
+        "id": "minecraft:copper_block"
+      }
+    },
+    "mode": "heat",
+    "output": {
+      "block": {
+        "id": "minecraft:exposed_copper"
+      }
+    }
+  }

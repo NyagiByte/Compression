@@ -1,0 +1,14 @@
+{
+    "type": "ae2:entropy",
+    "input": {
+      "block": {
+        "id": "create:weathered_copper_shingles"
+      }
+    },
+    "mode": "heat",
+    "output": {
+      "block": {
+        "id": "create:oxidized_copper_shingles"
+      }
+    }
+  }

@@ -1,0 +1,14 @@
+{
+    "type": "ae2:entropy",
+    "input": {
+      "block": {
+        "id": "create:exposed_copper_shingle_slab"
+      }
+    },
+    "mode": "heat",
+    "output": {
+      "block": {
+        "id": "create:weathered_copper_shingle_slab"
+      }
+    }
+  }

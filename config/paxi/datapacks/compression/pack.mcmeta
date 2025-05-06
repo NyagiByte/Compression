@@ -920,6 +920,12 @@
 		{"namespace": "immersiveengineering", "path": "recipes/fermenter/beetroot.json"},
 		{"namespace": "farmersdelight", "path": "recipes/integration/immersiveengineering/fermenter/tomato.json"},
 
+		{"namespace": "immersiveengineering", "path": "recipes/bottling/copper_aging.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/bottling/copper_aging2.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/bottling/copper_aging3.json"},
+
+		{"namespace": "immersiveengineering", "path": "recipes/mixer/redstone_acid.json"},
+
 		{"namespace": "immersivepetroleum", "path": "recipes/smelting/ingot_steel_from_dust.json"},
 		{"namespace": "immersivepetroleum", "path": "recipes/smelting/ingot_steel_from_dust_from_blasting.json"},
 

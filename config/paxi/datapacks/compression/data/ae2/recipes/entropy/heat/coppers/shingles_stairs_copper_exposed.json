@@ -1,0 +1,14 @@
+{
+    "type": "ae2:entropy",
+    "input": {
+      "block": {
+        "id": "create:copper_shingle_stairs"
+      }
+    },
+    "mode": "heat",
+    "output": {
+      "block": {
+        "id": "create:exposed_copper_shingle_stairs"
+      }
+    }
+  }
