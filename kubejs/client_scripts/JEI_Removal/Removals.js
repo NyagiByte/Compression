@@ -534,6 +534,22 @@ JEIEvents.hideItems(event => {
     //Thermal Expansion
     'thermal:carrot_block',
     'thermal:potato_block',
-    'thermal:sugar_cane_block'
+    'thermal:sugar_cane_block',
+    //Thermal Expansion Coins
+    'thermal:iron_coin',
+    'thermal:gold_coin',
+    'thermal:copper_coin',
+    'thermal:netherite_coin',
+    'thermal:signalum_coin',
+    'thermal:lumium_coin',
+    'thermal:enderium_coin',
+    'thermal:tin_coin',
+    'thermal:lead_coin',
+    'thermal:silver_coin',
+    'thermal:nickel_coin',
+    'thermal:bronze_coin',
+    'thermal:electrum_coin',
+    'thermal:invar_coin',
+    'thermal:constantan_coin'
   ])
 })
