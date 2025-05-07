@@ -52,6 +52,8 @@
 		{"namespace": "thermal", "path": "recipes/storage/gunpowder_from_block.json"},
 		{"namespace": "thermal", "path": "recipes/storage/carrot_block.json"},
 		{"namespace": "thermal", "path": "recipes/storage/potato_block.json"},
+		{"namespace": "thermal", "path": "recipes/storage/sugar_cane_block.json"},
+		{"namespace": "thermal", "path": "recipes/storage/sugar_cane_from_block.json"},
 
 		{"namespace": "thermal", "path": "recipes/fire_charge/electrum_ingot_2.json"},
 		{"namespace": "thermal", "path": "recipes/fire_charge/bronze_ingot_4.json"},
@@ -1688,6 +1690,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/carrot.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dried_kelp.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dried_kelp_block.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/sugar_cane.json"},
 
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},

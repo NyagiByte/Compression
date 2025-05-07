@@ -533,6 +533,7 @@ JEIEvents.hideItems(event => {
     'vintageimprovements:sulfuric_acid_bucket',
     //Thermal Expansion
     'thermal:carrot_block',
-    'thermal:potato_block'
+    'thermal:potato_block',
+    'thermal:sugar_cane_block'
   ])
 })
