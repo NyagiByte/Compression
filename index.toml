@@ -12934,7 +12934,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "5c6c5ee75c4baa797d0cd8d9f1fb287764985dbb4e2c8bdf5389a5e0fb66c191"
+hash = "2a638c858e517997304b13520cad1ac8d00957db2eee6099affe30b483f64429"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -13510,7 +13510,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"
-hash = "5662d6377e958ac2fafcb70683ac470b5c771d8d9c4a972c24567fe08954e3f2"
+hash = "dbdeeb39513195f709bd37831cfa7a99cb474f89b8e70f7f2b184c7e7368de30"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
