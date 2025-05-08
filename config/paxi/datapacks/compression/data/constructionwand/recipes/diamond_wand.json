@@ -1,0 +1,26 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "quark:gold_button"
+      },
+      {
+        "item": "botania:mana_diamond"
+      },
+      {
+        "item": "create:extendo_grip"
+      },
+      {
+        "item": "immersiveengineering:stick_treated"
+      },
+      {
+        "item": "constructionwand:iron_wand"
+      }
+    ],
+    "output": {
+      "item": "constructionwand:diamond_wand"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

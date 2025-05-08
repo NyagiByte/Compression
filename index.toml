@@ -3021,6 +3021,22 @@ file = "config/paxi/datapacks/compression/data/compressedengineering/recipes/ass
 hash = "8163deddedb227702ae21d4604fa00114b5c7151698b1a03bf9df7dfb4994326"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/constructionwand/recipes/diamond_wand.json"
+hash = "aea5e9e89786235d1e90f29da4ff3d6d045f441c9adfaabf21d35e68c129d55b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/constructionwand/recipes/infinity_wand.json"
+hash = "28ddb2d38b782e7c124cc57359c7db5832f7b07c1a44ad575a425b084f409f4f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/constructionwand/recipes/iron_wand.json"
+hash = "352632f0f85ab0f1e351e9c8830e0316c78e212d439ab3197733c0a558aa01a8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/constructionwand/recipes/stone_wand.json"
+hash = "f6d8c286379de922648e0c3c4839058ac48a76843da4b316a8044d965f342248"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/copycats/recipes/crafting/copycat_beam_t1.json"
 hash = "5893987f394ee57dbdd9191fcf802527e7b35d39fe01c3d3c7ed9882bbc4b076"
 
@@ -14178,6 +14194,11 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "d2493cda0721ddca80f37aff224e0291256176c6b940a06268fdd3eef45b92a1"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "ea50ffe105662eb20c7cdcad6c4a2f5643813716391649f2e134db94a6bb2e31"
 metafile = true
 
 [[files]]
