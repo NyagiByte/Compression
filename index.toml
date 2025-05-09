@@ -658,7 +658,7 @@ hash = "ffac074e14e40f9c6274b854e7022f28d8a36282c41a62c7db73188c85735576"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/6tier_0.snbt"
-hash = "9ea928b10497714c9bc449fd7e9985bd43d4ec3ef97034d7f946c314c481d3a8"
+hash = "568263a1b9d26905c4292e9b8b8431bc46146f4e79185e0fde8d3d022ee9acdd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/6tier_1.snbt"
@@ -12958,7 +12958,7 @@ hash = "6d380cbc0b44f41ba04be2ba23e4f72c095cb00dd62621ddebec770a6a420f6a"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/coal_boulder.nbt"
-hash = "706436dcba2611ffa657929e011e7a605896a0afd9de032d574b0b227e83b685"
+hash = "36aea5e30850c5d782cd6df4b14d0f5e7f93ccaeb533418dad291180c739dc7d"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/compression_end_city.nbt"
@@ -12966,7 +12966,7 @@ hash = "aa1123e7a2cde0e115fef7fbf622c7822ca4ac4e4401d55785203b30461288ed"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/copper_boulder.nbt"
-hash = "c7ea97bb9b486c68be9f42109c4e4245d0df41e73fd1c9a5be927a76ff931083"
+hash = "311597110450a89d792c5c2379f835ce88ef4b9acfff8dd34be5fdce8097a784"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/electrum_boulder.nbt"
@@ -12978,7 +12978,7 @@ hash = "f5c2c76940f52483414e57b81aa1f353e4ce56d8785533a47104cde906f948df"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/iron_boulder.nbt"
-hash = "35f9d5dc3a7dd71e607793d815f8e37e2dd05ed95bb24e328448b1c32f3b0aa0"
+hash = "a633f7241e671d8c0f3df286eaba1f3fad400cbd11a31da6ca2c2adcef63e101"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/lead_boulder.nbt"
