@@ -12954,7 +12954,7 @@ hash = "2a638c858e517997304b13520cad1ac8d00957db2eee6099affe30b483f64429"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
-hash = "6d380cbc0b44f41ba04be2ba23e4f72c095cb00dd62621ddebec770a6a420f6a"
+hash = "8ceddce4fba9fa5b9f24cd4f44b6700b83f5d3b916db21aa2922709a5514231d"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/coal_boulder.nbt"
@@ -12970,11 +12970,11 @@ hash = "311597110450a89d792c5c2379f835ce88ef4b9acfff8dd34be5fdce8097a784"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/electrum_boulder.nbt"
-hash = "59ff73824c91b40c7f1df965ef60ea129e9d6915409dbb6c5ed9c5012adeba1c"
+hash = "daa18f4e1582753a0cd062b8dbd71ad4d26cb9609d2d535bbd25ed6561313f1f"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/gemstone_boulder.nbt"
-hash = "f5c2c76940f52483414e57b81aa1f353e4ce56d8785533a47104cde906f948df"
+hash = "fcc747d4537ab4626b9f3dc5381287c256116041532ce56b9f965219d05f60ae"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/iron_boulder.nbt"
@@ -12982,7 +12982,7 @@ hash = "a633f7241e671d8c0f3df286eaba1f3fad400cbd11a31da6ca2c2adcef63e101"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/lead_boulder.nbt"
-hash = "1e56e33bf2bd9f7d37116a0466b7f76ef13ff5e2dafac110010e9551849586b6"
+hash = "1cecc530c771fd3e0ca6ff23402b4f1b9c7ae0465b4265c68fcab0ae54637d43"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/mangled_nether_fortress.nbt"
@@ -12990,11 +12990,11 @@ hash = "20698e3bb910a8d96eeb30d9e3d56b4b7aa73f72819bba4e424114d06d25c6f9"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/misc_boulder.nbt"
-hash = "ffc197f5c253221523cea3aefa643b679e9954e726fd5f4614b8724de626fb99"
+hash = "2d87ac95ba86650dd434d48f359329bcc7712aa46e98d9a62ffb215175bd20f0"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/nickel_boulder.nbt"
-hash = "66523a4f8375b46fe9311d5a8497373230daaa8055208b137a992e1057f49d09"
+hash = "7ae601b0692700871b06ad44dc69bf45762847405d13d1a12c5f7d7ed1401080"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/obelisk.nbt"
@@ -13002,23 +13002,23 @@ hash = "493c9eab0d2c63b8f729b54a578527eef1c88a65ad4637bd5fd9e816ac9dab70"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/quartz_boulder.nbt"
-hash = "26a071605a86b771ba63ccb0e8c710a804b8ac4d22cb6d0d29ac53d1329812df"
+hash = "1efcf105e42b955d9a11b6de535496b6b40447e4c7417482965ed57b5be5fd4a"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/redstone_boulder.nbt"
-hash = "84e62737b8c72a6991b241483c09f36ee61bc4af2fdc4090e5bfd6113a78703b"
+hash = "e11e7a70a6e8e3c876554f7430a93deb571494ceef50b5efcc76d998749be323"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/tin_boulder.nbt"
-hash = "469a1bd2fa316517449d8d58d0f28db287a92b87d174afb0ab50ff14256b227e"
+hash = "5b984187d58d249c454439727c1db7c06c5ee5bacf734e7ea9c5b52b675c0fe9"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/uranium_boulder.nbt"
-hash = "8d8bb4cdcdc2e3ec96e03f13f93f6187696ead98a2262d063ea9a507bcd089cb"
+hash = "b35ebdb09800c1c94a0566392daea5be9a55d76820a6639dd4d3b3447e0c07ae"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/zinc_boulder.nbt"
-hash = "3e04aa1bb46da157d91f2dd60edff5d4b0727c1cb2bc1e0fcdeb08740d8e2d03"
+hash = "54145d6ed6e921a6c3d534240555bbf12424f0cee8f1fd7a90f33e9f3c5f01c1"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/tags/worldgen/biome/boulders.json"
