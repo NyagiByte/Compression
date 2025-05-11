@@ -152,6 +152,7 @@ JEIEvents.hideItems(event => {
     'nuclearcraft:steel_block',
     //Rods
     'immersiveengineering:stick_aluminum',
+    'immersiveengineering:stick_steel',
     //Wire
     'immersiveengineering:wire_aluminum',
     'immersiveengineering:wire_lead',
