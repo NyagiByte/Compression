@@ -1,0 +1,16 @@
+{
+  "block.immersivepetroleum.diesel": "Diesel",
+	"block.immersivepetroleum.diesel_sulfur": "Sulfurized Diesel",
+	"block.immersivepetroleum.crudeoil": "Crude Oil",
+	"block.immersivepetroleum.lubricant": "Lubricant",
+	"block.immersivepetroleum.gasoline": "Gasoline",
+	"block.immersivepetroleum.napalm": "Napalm",
+	"block.immersivepetroleum.naphtha": "Naphtha",
+	"block.immersivepetroleum.naphtha_cracked": "Cracked Naphtha",
+	"block.immersivepetroleum.benzene": "Benzene",
+	"block.immersivepetroleum.propylene": "Propylene",
+	"block.immersivepetroleum.ethylene": "Ethylene",
+	"block.immersivepetroleum.lubricant_cracked": "Cracked Lubricant",
+	"block.immersivepetroleum.kerosene": "Kerosene",
+	"block.immersivepetroleum.gasoline_additives": "Gasoline Additives"
+}
