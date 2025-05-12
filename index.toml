@@ -13317,6 +13317,14 @@ file = "kubejs/assets/gardenofglass/lang/zh_tw.json"
 hash = "1d2fdca5df457ff19db6b21ea1a0904cd69b46a84e02d2a285948febc6889ad1"
 
 [[files]]
+file = "kubejs/assets/immersiveengineering/lang/en_us.json"
+hash = "9caecd4db2448a6c1eb455f4e7207d75db374e2b41cec5b47029b350cc790640"
+
+[[files]]
+file = "kubejs/assets/immersivepetroleum/lang/en_us.json"
+hash = "1b7a79c1d189cd0c25dc1add9c59716876759202846c4d0a582bb715dca38083"
+
+[[files]]
 file = "kubejs/assets/kubejs/ponder/arc_furnace_ponder.nbt"
 hash = "1be78102b3db3d1c03d47788bb8e9ccbb76f18e665abb3c31b1845287e34111f"
 
@@ -13339,6 +13347,10 @@ hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/nuclearcraft/lang/en_us.json"
+hash = "b92d61b2a2ec13c2cc0e24906cbe940fb95c322bde7e25cecbd6759f35353640"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"
