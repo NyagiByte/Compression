@@ -460,6 +460,11 @@ JEIEvents.hideItems(event => {
     'pneumaticcraft:pneumatic_chestplate',
     'pneumaticcraft:pneumatic_leggings',
     'pneumaticcraft:pneumatic_boots',
+    'pneumaticcraft:amadron_tablet',
+    'pneumaticcraft:small_tank',
+    'pneumaticcraft:medium_tank',
+    'pneumaticcraft:large_tank',
+    'pneumaticcraft:huge_tank',
     //The One Probe
     'theoneprobe:probe',
     'theoneprobe:iron_helmet_probe',
@@ -471,6 +476,8 @@ JEIEvents.hideItems(event => {
     'mekanism:mekasuit_pants',
     'mekanism:mekasuit_boots',
     'mekanism:sulfuric_acid_bucket',
+    'mekanism:creative_fluid_tank',
+    'mekanism:creative_chemical_tank',
     //Create
     'create:netherite_diving_helmet',
     //Nuclearcraft
