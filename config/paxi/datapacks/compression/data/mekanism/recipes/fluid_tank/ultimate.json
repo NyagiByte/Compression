@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"mekanism:steel_casing"},
+    "B": {"item":"nuclearcraft:pump"},
+    "C": {"item":"quark:purple_framed_glass"},
+    "D": {"item":"mekanism:elite_fluid_tank"}
+  },
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ADA"
+  ],
+  "result": {
+    "item": "mekanism:ultimate_fluid_tank"}
+}

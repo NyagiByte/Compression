@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"nyagibits_bytes:waterproof_casing"},
+    "B": {"item":"mekanism:electric_pump"},
+    "C": {"item":"quark:blue_framed_glass"},
+    "D": {"item":"mekanism:advanced_fluid_tank"}
+  },
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ADA"
+  ],
+  "result": {
+    "item": "mekanism:elite_fluid_tank"}
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"immersiveengineering:sheetmetal_iron"},
+    "B": {"item":"create:fluid_valve"},
+    "C": {"item":"quark:lime_framed_glass"},
+    "D": {"item":"create:fluid_tank"}
+  },
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ADA"
+  ],
+  "result": {
+    "item": "mekanism:basic_fluid_tank"}
+}
