@@ -13318,11 +13318,11 @@ hash = "1d2fdca5df457ff19db6b21ea1a0904cd69b46a84e02d2a285948febc6889ad1"
 
 [[files]]
 file = "kubejs/assets/immersiveengineering/lang/en_us.json"
-hash = "9caecd4db2448a6c1eb455f4e7207d75db374e2b41cec5b47029b350cc790640"
+hash = "0b80f68490fd0ea1f482e5d6ac14b48a8d67627fc4de91ac997b097bcf2dc24b"
 
 [[files]]
 file = "kubejs/assets/immersivepetroleum/lang/en_us.json"
-hash = "1b7a79c1d189cd0c25dc1add9c59716876759202846c4d0a582bb715dca38083"
+hash = "680bee502f1f92b92a6134191f2110c2218fba31604643b606bfb7cd54a4c7ea"
 
 [[files]]
 file = "kubejs/assets/kubejs/ponder/arc_furnace_ponder.nbt"
@@ -13350,7 +13350,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/assets/nuclearcraft/lang/en_us.json"
-hash = "b92d61b2a2ec13c2cc0e24906cbe940fb95c322bde7e25cecbd6759f35353640"
+hash = "76e5cd1349b170cac7efc2ad196fc5d4f211de8893bcb1bf1ef5f8aa43a4bf1d"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"

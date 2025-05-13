@@ -1,12 +1,12 @@
 {
-  "block.immersiveengineering.creosote": "Creosote Oil",
-  "block.immersiveengineering.plantoil": "Plant Oil",
-  "block.immersiveengineering.ethanol": "Ethanol",
-  "block.immersiveengineering.biodiesel": "Biodiesel",
-  "block.immersiveengineering.concrete": "Liquid Concrete",
-  "block.immersiveengineering.potion": "Potion",
-  "block.immersiveengineering.herbicide": "Herbicide",
-  "block.immersiveengineering.redstone_acid": "Redstone Acid",
-  "block.immersiveengineering.acetaldehyde": "Acetaldehyde",
-  "block.immersiveengineering.phenolic_resin": "Phenolic Resin"
+  "block.immersiveengineering.creosote_fluid_block": "Creosote Oil",
+  "block.immersiveengineering.plantoil_fluid_block": "Plant Oil",
+  "block.immersiveengineering.ethanol_fluid_block": "Ethanol",
+  "block.immersiveengineering.biodiesel_fluid_block": "Biodiesel",
+  "block.immersiveengineering.concrete_fluid_block": "Liquid Concrete",
+  "block.immersiveengineering.potion_fluid_block": "Potion",
+  "block.immersiveengineering.herbicide_fluid_block": "Herbicide",
+  "block.immersiveengineering.redstone_acid_fluid_block": "Redstone Acid",
+  "block.immersiveengineering.acetaldehyde_fluid_block": "Acetaldehyde",
+  "block.immersiveengineering.phenolic_resin_fluid_block": "Phenolic Resin"
 }
