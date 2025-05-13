@@ -13497,6 +13497,14 @@ file = "kubejs/assets/gardenofglass/lang/zh_tw.json"
 hash = "1d2fdca5df457ff19db6b21ea1a0904cd69b46a84e02d2a285948febc6889ad1"
 
 [[files]]
+file = "kubejs/assets/immersiveengineering/lang/en_us.json"
+hash = "0b80f68490fd0ea1f482e5d6ac14b48a8d67627fc4de91ac997b097bcf2dc24b"
+
+[[files]]
+file = "kubejs/assets/immersivepetroleum/lang/en_us.json"
+hash = "680bee502f1f92b92a6134191f2110c2218fba31604643b606bfb7cd54a4c7ea"
+
+[[files]]
 file = "kubejs/assets/kubejs/ponder/arc_furnace_ponder.nbt"
 hash = "1be78102b3db3d1c03d47788bb8e9ccbb76f18e665abb3c31b1845287e34111f"
 
@@ -13519,6 +13527,10 @@ hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/nuclearcraft/lang/en_us.json"
+hash = "76e5cd1349b170cac7efc2ad196fc5d4f211de8893bcb1bf1ef5f8aa43a4bf1d"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"
@@ -14447,6 +14459,16 @@ hash = "e00e666fc6f0726fcca0f74f9252ba4b1022326ee65433b5aaa08bcd14f4390b"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "59bfe727c8345c80b01d0bd7c6fa194234ad3130187bb2fafffb5b6aab37285b"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "2857b1737b8debe4430c17f7f4fe75901710d9ddf5dc946777c6e8f219d595ed"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "7befc4718b205d760fedcef1aa160b3f7ebde248774f4a1eb79e0e2d352afe89"
 metafile = true
@@ -14781,11 +14803,6 @@ metafile = true
 [[files]]
 file = "mods/the-impossible-library.pw.toml"
 hash = "80c496c73b0f19043434515e2aa4bed0f2e1ea6dfae2c56868f38974f0b6addc"
-metafile = true
-
-[[files]]
-file = "mods/the-one-probe.pw.toml"
-hash = "e3130b1d0cc8bdcbdc5ddd4de720ec0c6d97996d90fdb5e3a77c17571709cede"
 metafile = true
 
 [[files]]
