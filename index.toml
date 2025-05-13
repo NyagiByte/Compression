@@ -6509,6 +6509,22 @@ file = "config/paxi/datapacks/compression/data/mekanism/recipes/creatified/sawdu
 hash = "0c881faaa2a211c5cf341046ca718267aa3df9f47192f9ab30567455f78a0579"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/mekanism/recipes/fluid_tank/advanced.json"
+hash = "daa2d6a10c293a5b6180a91521ceee7c58dca3f5d31f788a90cb579c0efde556"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/mekanism/recipes/fluid_tank/basic.json"
+hash = "66e36bfbc74c6cad029074d514293e5be1f47ccb2ea6558f6537f1d652010a7e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/mekanism/recipes/fluid_tank/elite.json"
+hash = "8bb163a18abd7f2540c3e9cb8d131874d9fd00bfa488118b0a0488aa18274f1f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/mekanism/recipes/fluid_tank/ultimate.json"
+hash = "8c8efe9031c8753b83b88d111f360543a4defc418f6ff76168e467b5c2e8b494"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/dimension_type/overworld.json"
 hash = "ea9b7ac46af8993910e6c93e7a540a9e3bb82188cb41e4d4a4f260d0fad1ac5b"
 
@@ -6583,6 +6599,10 @@ hash = "06e99cc03b2e87cfe92503c6aa569057ca555c9d1be497c3e46d3607f0bacca8"
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/blast_furnace.json"
 hash = "fcd156d765b951a1fb04b0aee5d515ffa566188df43e7d9ec30acb174b288df7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/blast_furnace_t1.json"
+hash = "ff4795e7dd85d317efd99a9a657c6e41cd593f5ead25ab07878e97c47fa69979"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/blue_concrete_powder.json"
@@ -12946,7 +12966,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "2a638c858e517997304b13520cad1ac8d00957db2eee6099affe30b483f64429"
+hash = "26b2aece02e31a4db6fb379b702ed8a71210d92a10c39d11b12cee7afe3e18ae"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -13183,6 +13203,10 @@ hash = "ed283082b968d0a37d484b396cdb1968eb60c61d929e38c73c2d8e13be39f901"
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/textures/item/metal_plate_steel.png"
 hash = "4b767289e70b3489cb901569b15763e299ea8d139008355ea222619822e671a2"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/mekanism/lang/en_us.json"
+hash = "821b4410676f8039e050d592e79da35e1ce15a7104059c578d47e7bfd1aef2e2"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/lang/en_us.json"
@@ -13534,7 +13558,7 @@ hash = "76e5cd1349b170cac7efc2ad196fc5d4f211de8893bcb1bf1ef5f8aa43a4bf1d"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"
-hash = "26a4a1a7f15e22dc90e1fa92738b80b7340ba3dd5fc65c5b37409d129b4192a8"
+hash = "1d8893141ec025db7d9209432ae7798bc2ad13a4f5d1cac8eddc0349686a4e33"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
