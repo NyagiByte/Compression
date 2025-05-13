@@ -72,6 +72,8 @@
 				"No berries will be rewarded &b(outside of more key points)&r but you will be provided with as much context and information as needed. &6Vanilla mechanics will be explained&r, no knowledge assumptions will be made."
 				""
 				"Eventually ponders will be created for most things to reduce reliance on tabbing into the quest book but that is an ongoing project"
+				""
+				"&cThis set of quests also breaks from the story driven nature of the main line, including intentional misdirection. &4If you wish to avoid these quests&c, only the introductory quest for each respective tier will have a berry to claim. You have been warned"
 			]
 			icon: "botania:white_shiny_flower"
 			id: "12057422FF5BBB46"
@@ -424,6 +426,7 @@
 			id: "6FCB5BABEA5C0B68"
 			tasks: [{
 				id: "19FB7DD9AB8C857B"
+				title: "We'll get to the cluster in no time Δ"
 				type: "checkmark"
 			}]
 			title: "Breaking Blocks, One At A Time"
@@ -598,6 +601,7 @@
 			id: "58FEDD50B927AA01"
 			tasks: [{
 				id: "24ECD0732076BA15"
+				title: "Doctors hate this 1 weird trick to loosing 70 pounds (your legs are gone)"
 				type: "checkmark"
 			}]
 			title: "An Automatic Amputation Advancement!"
@@ -606,10 +610,23 @@
 		}
 		{
 			dependencies: ["16D01481957D30C3"]
+			description: [
+				"The &dMillstone!&r This small machine is able to grind up various materials into their powders. Some &emetals&r will gain a &bslight increased yield&r from passing them through."
+				""
+				"However the real power this grants at this stage of the game is allowing you to create &agravel&r"
+				""
+				"With automatic gravel you can pass it through once more to gain &aflint&r. With both of these components you are &e2/3rds of the way to a much &6faster&r &eandesite production"
+				""
+				"The &dmillstone&r can also boost the &bdye&r yields of most plants and let you source more crops from &bmixed seeds&r"
+				""
+				"&6Note:&r"
+				"It is worth pointing out the &dquartz rout&r exists once you automate soul sand. It can be just as fast but relies on &cautocrafting&r which isnt available at this stage"
+			]
 			icon: "create:millstone"
 			id: "4181778D139B2C3C"
 			tasks: [{
 				id: "474BC7B82491247E"
+				title: "Why are there so many finger crushing machines"
 				type: "checkmark"
 			}]
 			title: "The Daily Grind"
@@ -618,10 +635,18 @@
 		}
 		{
 			dependencies: ["16D01481957D30C3"]
+			description: [
+				"The &bMechanical Harvester&r!"
+				""
+				"When placed on a &emoving contraption&r these will collect crops the harvester collides with and automagically replants said crop"
+				""
+				"The most immediately relevant crops to harvest will be &akelp&r and &aindustrial hemp&r but if you are feeling extra ambitious some other relevant crops include &ewheat, cabbage, tomatoes, flax, carrots, and potatoes&r"
+			]
 			icon: "create:mechanical_harvester"
 			id: "1EFBCCBE696089FD"
 			tasks: [{
 				id: "1D654742A42A5381"
+				title: "Stardew Tractor Mod ahh"
 				type: "checkmark"
 			}]
 			title: "The Sumerians Would Of Loved This"
@@ -630,7 +655,11 @@
 		}
 		{
 			dependencies: ["4C1E98828193DC20"]
-			description: ["&aKelp&r yeah no thats it, start farming it"]
+			description: [
+				"&aKelp&r yeah no thats it, start farming it."
+				""
+				"Industrial fans with &cfire&r will smoke kelp in bulk"
+			]
 			icon: "minecraft:dried_kelp"
 			id: "5D9FCC6B40A02869"
 			tasks: [{
@@ -665,12 +694,25 @@
 				"5D9FCC6B40A02869"
 				"632B5FB5A7EDC8F3"
 			]
+			description: [
+				"&bBelts&r!!1!"
+				""
+				"Belts will be a factory component you will spam the living hell out of"
+				""
+				"They can &emove items&r around and even &etransfer rotational force&r"
+				""
+				"Their behaviors with certain loading/unloading components can be &esomewhat specific&r so make sure to consult the [w] ponder to see specifics"
+				""
+				"&dNote&r: Before you go off to try to make belts get a good &avine&r farm running. &bMechanical harvesters&r are &cunable&r to collect vines. &bDeployers with shears&r are able to do so, but thats &cunavailable at this stage&r. &aEarlier methods are possible&r with some out of the box thinking"
+			]
 			icon: "create:belt_connector"
 			id: "224ED8218767CAAA"
 			tasks: [{
 				id: "5720C480753ED402"
+				title: "We SHMOVIN'"
 				type: "checkmark"
 			}]
+			title: "Let the Spaghetti Begin!"
 			x: 3.0d
 			y: 8.5d
 		}
@@ -696,12 +738,21 @@
 				"5D9FCC6B40A02869"
 				"1EFBCCBE696089FD"
 			]
+			description: [
+				"A special note about &aHemp&r"
+				""
+				"1) You only need to harvest the &btop&r of the crop as it is a two tall crop"
+				""
+				"2) Please for the love of god &6scale this one up silly style&r. You &nwill&r use this in very large amounts. If you think your farm is large enough, add 50% and double it still"
+			]
 			icon: "immersiveengineering:hemp_fiber"
 			id: "632B5FB5A7EDC8F3"
 			tasks: [{
 				id: "527F869F3EA1D369"
+				title: "sadly not the fun type of hemp"
 				type: "checkmark"
 			}]
+			title: "Industrial Scales Of Rope"
 			x: 2.0d
 			y: 8.5d
 		}
@@ -725,12 +776,31 @@
 		}
 		{
 			dependencies: ["4181778D139B2C3C"]
+			description: [
+				"It's Gravlin' time."
+				""
+				"Hook up your &eautomatic cobblestone farm&r to your new &amillstones&r and bask in your endless gravel."
+				""
+				"As for the &bflint&r you can feed your new gravel into &aanother millstone&r to produce the flint. While that does work to supply flint, this gets into a &6new concept&r that will be important to ensuring your factory hums along smoothly and avoid falling into &cpitfalls&r players &dnew to automation styled packs&r tend to run into"
+				""
+				"By feeding your gravel generator into a flint generator you introduce a &cbottleneck&r into your system. If something ends up eating flint &etoo quickly&r other systems that rely on gravel will themselves be starved. "
+				""
+				"This can be solved by simply &6scaling up&r your gravel production to fully saturate your flint production. Or you could design &bparallelized&r systems"
+				""
+				"In short when you design systems to be &bparallelized&r you are treating them as self contained units. Why feed from the gravel maker to the flint maker when you can simply &6give the flint maker it's own gravel maker&r? That way both lines can produce without impacting eachother"
+				""
+				"This design concept for factories will help ensure &cbottlenecks&r are a lot &aeasier to resolve&r for very basic material production and will make for &asmoother expansions&r"
+				""
+				"Anyways thats probably the longest quest you've seen talking about making gravel, go on now, make it"
+			]
 			icon: "minecraft:gravel"
 			id: "02755BE7FF325275"
 			tasks: [{
 				id: "4D5C797E2A1043D6"
+				title: "Perfect to fall off your bike over at high speeds"
 				type: "checkmark"
 			}]
+			title: "Smaller Sharper Rocks"
 			x: 0.0d
 			y: 9.0d
 		}
@@ -815,12 +885,27 @@
 		}
 		{
 			dependencies: ["02755BE7FF325275"]
+			description: [
+				"With that concept of avoiding &cbottlenecks&r behind us we can start producing &bandesite&r!"
+				""
+				"With some &4lava&r in a basin your previously automated &eflint and gravel&r can be pressed into a fresh block of andesite"
+				""
+				"Oh but did you catch that about the recipe? It takes &a2&r flint and &a1&r gravel per craft"
+				""
+				"Say hello to a &bnew concept&r in your factory endevors called &6ratios&r"
+				""
+				"What does that mean? Well certain recipes do not consume ingredients at the same pace, in our example andesite is &a2:1&r on it's &eflint:gravel&r consumption rate. The hidden suggestion here is to simply &6double your flint production&r relative to your gravel production"
+				""
+				"And as an important point it's &cnot strictly necessary&r to math this out. Sure you could time how long each step makes and do a &6perfect ratio&r setup where &einput rates&r are exactly the same as &econsumption rate&r. You are allowed to just eyeball it and go \"eh good enough\""
+			]
 			icon: "minecraft:andesite"
 			id: "60A789A9FD9C1289"
 			tasks: [{
 				id: "2E66033937FAB433"
+				title: "I've always wanted to ratio a rock <3 18.7k"
 				type: "checkmark"
 			}]
+			title: "Igneously Ingenious"
 			x: 0.0d
 			y: 10.0d
 		}
@@ -837,12 +922,31 @@
 		}
 		{
 			dependencies: ["16D01481957D30C3"]
+			description: [
+				"Twice blasted cobble call that &bSmooth Stone&r"
+				""
+				"While easy to make, automating it via create is &esurprisingly tricky&r. No matter the speed of the &bindustrial fan&r the actual processing time remains the same"
+				""
+				"This is tricky to deal with since &cunlike the &bMechanical Press&r items on belts won't stop to be processed. Items will simply pass by without having enough time to cook"
+				""
+				"There are three main ways to solve this (&cone of them being quite bad&r)"
+				""
+				"1) &nThe &cbad &fone&r: Items moving on belts will &aretain their cooking progress&r so long as the next belt tile is being blasted by &eanother fan&r. This creates the terrible solution of spamming the living hell out of fans for the full length of the belt. This method of course being &cworse the faster your belt is&r"
+				""
+				"2) &nThe &eok &fone&r: Instead of fan spam you can &aslow down a segment of belt&r to its minimum speed and point a &asingular fan to blow &bhorizontally &aacross the belt&r so that the items sit in the blasting stream long enough"
+				""
+				"3) &nThe &abest &fone&r: By investing in some &bbrass funnels&r or &bsmart chutes&r you can allow items to park at a &bdepot&r and only be sent off after they finish cooking by &6filtering the output&r component"
+				""
+				"You could also just, keep using furnaces I guess"
+			]
 			icon: "minecraft:smooth_stone"
 			id: "5F863127930E520A"
 			tasks: [{
 				id: "2A0EF9C00B2D0234"
+				title: "aaaaaaain... *ding*"
 				type: "checkmark"
 			}]
+			title: "We're Blastin' Off Agaaaa"
 			x: 1.0d
 			y: 8.5d
 		}
@@ -854,6 +958,7 @@
 				id: "2787B0407B298C66"
 				type: "checkmark"
 			}]
+			title: "I Don't Like My Rocks Being Alive"
 			x: 1.0d
 			y: 9.5d
 		}
@@ -870,12 +975,21 @@
 		}
 		{
 			dependencies: ["58FEDD50B927AA01"]
+			description: [
+				"Without access to &bDeployers&r at this stage you may be tempted to forgo an automated farm until you can make one"
+				""
+				"This, however, is an &cunecessary burden&r upon yourself. Setting up the farm &bdeployerless&r will still aid massively in reducing your &epersonal labor involvement&r with collecting a basic resource. Running over to replant saplings is still &aless work&r than replanting and harvesting yourself"
+				""
+				"Also, thanks to the mod &bQuark&r dispensers are able to place blocks and crops. So if you are willing to make an &eunconventional farm&r and fiddle with redstone you can fully automate it at this stage"
+			]
 			icon: "minecraft:oak_sapling"
 			id: "663739E71D834D27"
 			tasks: [{
 				id: "3AD5F789DC4A2ABB"
+				title: "With this button all of the amazon will disappear!"
 				type: "checkmark"
 			}]
+			title: "Semiautomatic Deforestation"
 			x: -1.0d
 			y: 8.5d
 		}
@@ -887,6 +1001,7 @@
 				id: "08016D774DCA4EF6"
 				type: "checkmark"
 			}]
+			title: "Isn't... Wood Already Alive?"
 			x: -1.0d
 			y: 9.5d
 		}
@@ -940,6 +1055,80 @@
 			}]
 			x: 0.0d
 			y: 15.5d
+		}
+		{
+			dependencies: ["6E61C014A48DD33A"]
+			icon: "botania:corporea_spark"
+			id: "1BDC7381D6607E31"
+			tasks: [{
+				id: "7F1B5A8DA51F3038"
+				title: "Zappy"
+				type: "checkmark"
+			}]
+			title: "The Best Storage System"
+			x: 6.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1BDC7381D6607E31"]
+			icon: "botania:corporea_block"
+			id: "785652262D0F8C91"
+			tasks: [{
+				id: "651A918E5FCB1D7C"
+				title: "Sparkly Block"
+				type: "checkmark"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["785652262D0F8C91"]
+			icon: "botania:corporea_index"
+			id: "616464677ADE6DB4"
+			tasks: [{
+				id: "09D40251E15BA879"
+				title: "Hey! Gimmi!"
+				type: "checkmark"
+			}]
+			title: "Speaking Your Demands"
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["616464677ADE6DB4"]
+			icon: "botania:corporea_funnel"
+			id: "1829036099806630"
+			tasks: [{
+				id: "72C76F78F54F4570"
+				title: "Gimmi! But over here"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["616464677ADE6DB4"]
+			icon: "botania:corporea_interceptor"
+			id: "4FDDF94EC02A0D02"
+			tasks: [{
+				id: "21B47D2ED5678E91"
+				title: "Let me get that for you"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["616464677ADE6DB4"]
+			icon: "botania:corporea_retainer"
+			id: "56BAD950091D55D1"
+			tasks: [{
+				id: "1B6CBF03963F7EF1"
+				title: "Hold up where does this go again?"
+				type: "checkmark"
+			}]
+			x: 8.5d
+			y: 3.0d
 		}
 	]
 	title: " &6Tier 0"

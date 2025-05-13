@@ -1,0 +1,14 @@
+{
+    "type": "ae2:entropy",
+    "input": {
+      "block": {
+        "id": "minecraft:cut_copper_slab"
+      }
+    },
+    "mode": "heat",
+    "output": {
+      "block": {
+        "id": "minecraft:exposed_cut_copper_slab"
+      }
+    }
+  }

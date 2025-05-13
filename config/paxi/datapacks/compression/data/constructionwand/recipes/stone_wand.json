@@ -1,0 +1,26 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "minecraft:stone_button"
+      },
+      {
+        "item": "minecraft:dispenser"
+      },
+      {
+        "item": "botania:livingrock"
+      },
+      {
+        "item": "botania:livingwood_twig"
+      },
+      {
+        "item": "botania:livingwood_twig"
+      }
+    ],
+    "output": {
+      "item": "constructionwand:stone_wand"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

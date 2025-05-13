@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "thermal:invar_nugget"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "create:andesite_alloy"
+      }
+    ]
+  }

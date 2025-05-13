@@ -1,0 +1,24 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {"item": "create:brass_ingot"},
+      "B": {"item": "create:brass_sheet"},
+      "C": {"item": "create:brass_hand"},
+      "D": {"item": "create:piston_extension_pole"},
+      "E": {"item": "create:copper_valve_handle"},
+      "F": {"item": "create:smart_fluid_pipe"},
+      "G": {"item": "create:fluid_pipe"}
+    },
+    "pattern": [
+      "EA ",
+      "FB ",
+      "GGD",
+      "DGD",
+      " C "
+    ],
+    "result": {
+        "count": 1,
+        "item": "create:extendo_grip"
+    }
+  }

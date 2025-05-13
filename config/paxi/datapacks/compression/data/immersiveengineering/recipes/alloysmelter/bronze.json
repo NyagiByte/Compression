@@ -1,0 +1,24 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "minecraft:copper_ingot"
+      },
+      {
+        "item": "minecraft:copper_ingot"
+      },
+      {
+        "item": "minecraft:copper_ingot"
+      },
+      {
+        "item": "chemlib:tin_ingot"
+      }
+    ],
+    "results": [
+      {
+        "count": 4,
+        "item": "thermal:bronze_ingot"
+      }
+    ]
+  }

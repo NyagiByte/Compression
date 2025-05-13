@@ -152,6 +152,7 @@ JEIEvents.hideItems(event => {
     'nuclearcraft:steel_block',
     //Rods
     'immersiveengineering:stick_aluminum',
+    'immersiveengineering:stick_steel',
     //Wire
     'immersiveengineering:wire_aluminum',
     'immersiveengineering:wire_lead',
@@ -406,7 +407,6 @@ JEIEvents.hideItems(event => {
     'ae2:fluix_hoe',
     'ae2:fluix_sword',
     'ae2:charged_staff',
-    'ae2:entropy_manipulator',
     //Bedrockminer
     'bedrockminer:bedrock_pickaxe',
     'bedrockminer:bedrock_sword',
@@ -534,6 +534,23 @@ JEIEvents.hideItems(event => {
     'vintageimprovements:sulfuric_acid_bucket',
     //Thermal Expansion
     'thermal:carrot_block',
-    'thermal:potato_block'
+    'thermal:potato_block',
+    'thermal:sugar_cane_block',
+    //Thermal Expansion Coins
+    'thermal:iron_coin',
+    'thermal:gold_coin',
+    'thermal:copper_coin',
+    'thermal:netherite_coin',
+    'thermal:signalum_coin',
+    'thermal:lumium_coin',
+    'thermal:enderium_coin',
+    'thermal:tin_coin',
+    'thermal:lead_coin',
+    'thermal:silver_coin',
+    'thermal:nickel_coin',
+    'thermal:bronze_coin',
+    'thermal:electrum_coin',
+    'thermal:invar_coin',
+    'thermal:constantan_coin'
   ])
 })

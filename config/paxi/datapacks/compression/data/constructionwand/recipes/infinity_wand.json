@@ -1,0 +1,26 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "botania:animated_torch"
+      },
+      {
+        "item": "botania:corporea_index"
+      },
+      {
+        "item": "botania:floating_rannuncarpus"
+      },
+      {
+        "item": "vintageimprovements:steel_rod"
+      },
+      {
+        "item": "constructionwand:diamond_wand"
+      }
+    ],
+    "output": {
+      "item": "constructionwand:infinity_wand"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

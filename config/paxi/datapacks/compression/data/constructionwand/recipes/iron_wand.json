@@ -1,0 +1,26 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "quark:iron_button"
+      },
+      {
+        "item": "pneumaticcraft:compressed_iron_block"
+      },
+      {
+        "item": "create:brass_hand"
+      },
+      {
+        "item": "botania:livingwood_twig"
+      },
+      {
+        "item": "constructionwand:stone_wand"
+      }
+    ],
+    "output": {
+      "item": "constructionwand:iron_wand"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

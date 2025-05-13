@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "minecraft:iron_ingot"
+      },
+      {
+        "item": "minecraft:iron_ingot"
+      },
+      {
+        "item": "chemlib:nickel_ingot"
+      }
+    ],
+    "results": [
+      {
+        "count": 3,
+        "item": "thermal:invar_ingot"
+      }
+    ]
+  }

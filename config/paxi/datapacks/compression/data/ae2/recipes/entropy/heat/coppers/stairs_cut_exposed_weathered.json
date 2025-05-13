@@ -1,0 +1,14 @@
+{
+    "type": "ae2:entropy",
+    "input": {
+      "block": {
+        "id": "minecraft:exposed_cut_copper_stairs"
+      }
+    },
+    "mode": "heat",
+    "output": {
+      "block": {
+        "id": "minecraft:weathered_cut_copper_stairs"
+      }
+    }
+  }

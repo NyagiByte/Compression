@@ -25,6 +25,8 @@
 
 		{"namespace": "mekanism", "path": "recipes/sawing/item_frame.json"},
 
+		{"namespace": "mekanism", "path": "recipes/processing/lategame/polonium.json"},
+
 		{"namespace": "compressedcreativity", "path": "recipes/mixing/brass_gilded_lapis_lazuli.json"},
 		{"namespace": "compressedcreativity", "path": "recipes/crafting/mesh_empty.json"},
 		{"namespace": "compressedcreativity", "path": "recipes/item_application/compressed_iron_casing_from_wood.json"},
@@ -50,6 +52,8 @@
 		{"namespace": "thermal", "path": "recipes/storage/gunpowder_from_block.json"},
 		{"namespace": "thermal", "path": "recipes/storage/carrot_block.json"},
 		{"namespace": "thermal", "path": "recipes/storage/potato_block.json"},
+		{"namespace": "thermal", "path": "recipes/storage/sugar_cane_block.json"},
+		{"namespace": "thermal", "path": "recipes/storage/sugar_cane_from_block.json"},
 
 		{"namespace": "thermal", "path": "recipes/fire_charge/electrum_ingot_2.json"},
 		{"namespace": "thermal", "path": "recipes/fire_charge/bronze_ingot_4.json"},
@@ -920,6 +924,12 @@
 		{"namespace": "immersiveengineering", "path": "recipes/fermenter/beetroot.json"},
 		{"namespace": "farmersdelight", "path": "recipes/integration/immersiveengineering/fermenter/tomato.json"},
 
+		{"namespace": "immersiveengineering", "path": "recipes/bottling/copper_aging.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/bottling/copper_aging2.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/bottling/copper_aging3.json"},
+
+		{"namespace": "immersiveengineering", "path": "recipes/mixer/redstone_acid.json"},
+
 		{"namespace": "immersivepetroleum", "path": "recipes/smelting/ingot_steel_from_dust.json"},
 		{"namespace": "immersivepetroleum", "path": "recipes/smelting/ingot_steel_from_dust_from_blasting.json"},
 
@@ -1177,8 +1187,14 @@
 
 		{"namespace": "ae2", "path": "recipes/network/cables/dense_smart_from_smart.json"},
 
-		{"namespace": "ae2", "path": "recipes/tools/misctools_entropy_manipulator.json"},
 		{"namespace": "ae2", "path": "recipes/tools/misctools_charged_staff.json"},
+
+		{"namespace": "ae2", "path": "recipes/entropy/cool/water_ice.json"},
+		{"namespace": "ae2", "path": "recipes/entropy/cool/lava_obsidian.json"},
+		{"namespace": "ae2", "path": "recipes/entropy/cool/stone_bricks_cracked_stone_bricks.json"},
+		{"namespace": "ae2", "path": "recipes/entropy/cool/flowing_water_snowball.json"},
+		{"namespace": "ae2", "path": "recipes/entropy/cool/grass_block_dirt.json"},
+		{"namespace": "ae2", "path": "recipes/entropy/cool/stone_cobblestone.json"},
 
 		{"namespace": "aiotbotania", "path": "recipes/livingwood_pickaxe.json"},
 		{"namespace": "aiotbotania", "path": "recipes/livingwood_sword.json"},
@@ -1674,6 +1690,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/carrot.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dried_kelp.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dried_kelp_block.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/storage_blocks/sugar_cane.json"},
 
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/triglyceride.json"},
