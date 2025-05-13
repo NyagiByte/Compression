@@ -1194,7 +1194,7 @@ hash = "7f85b9b20b3adf5aca16301d22db71287c9a00309e621211c08578fd2cb32129"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/tools/misctools_entropy_manipulator.json"
-hash = "46e37ee73ddf1e26a054bdcfcfcfbcc90661fa1139aaa8af1c57ba9c481100e4"
+hash = "aaf81c17d6d286e52a187308120a4020a4176c936d13c67186c70a80b3dbd2a7"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/tools/network_color_applicator.json"
@@ -3026,7 +3026,7 @@ hash = "aea5e9e89786235d1e90f29da4ff3d6d045f441c9adfaabf21d35e68c129d55b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/constructionwand/recipes/infinity_wand.json"
-hash = "28ddb2d38b782e7c124cc57359c7db5832f7b07c1a44ad575a425b084f409f4f"
+hash = "93bafb32984845ec21ff542d5aaac69266b667905090dae84931dba01ffe5272"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/constructionwand/recipes/iron_wand.json"
@@ -4031,10 +4031,6 @@ hash = "8a0aaba4a9c77aa8b5b391eea1a3ed304cf1721e564095699e97d19ee20b6b20"
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/item_application/copper_casing_from_log.json"
 hash = "89f8af199cdba8bd46cefafd4d15fc2943b91d0c9a2fdf0163a46856b6d011dd"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/create/recipes/item_application/smoke_in_a_bottle.json"
-hash = "d911d2fd2f45dbdd619eb87874695657a726695bdf65a6204de0ff86ccbda1ac"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/item_application/smoke_in_a_bottle.txt"
@@ -13526,7 +13522,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"
-hash = "dbdeeb39513195f709bd37831cfa7a99cb474f89b8e70f7f2b184c7e7368de30"
+hash = "26a4a1a7f15e22dc90e1fa92738b80b7340ba3dd5fc65c5b37409d129b4192a8"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
