@@ -13438,11 +13438,11 @@ hash = "a0458c2f37a07e6b49327894db860899700bc7c4bea4f5f1267156d3020264f3"
 
 [[files]]
 file = "config/propertymodifier-common.toml"
-hash = "224ccae95f487bd222314621ef381eb9e282d27a3f107c69e2e0d1217cfde9ad"
+hash = "2fb70c0bec4ec738e688d37adbba9c2619558264f0878ddbd29e2ceec2db7289"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "c2bf75f49e23f325570ab6e0c83298ae0bfd6bba139a61616394fe732946d302"
+hash = "3e9bae9a63486e5c20768ee6d62ddbf1da8229dcc7463fd745b95bb1578c2dd4"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"

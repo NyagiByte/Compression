@@ -109,8 +109,7 @@
 	#Set the max damage (durability) of an item. Only items that already have durability can have this value altered. Example (without the leading #):
 	#"minecraft:diamond_.*" = 5000
 	[items.max_damage]
-		"immersive_armors:steampunk_.*" = 1200
-		"quark:forgotten_hat" = 750
+		test = 0
 
 	#Set the max stack size of an item. Only values between 2 and 64 are supported. Items that have durability cannot have this value altered. Example (without the leading #):
 	#"minecraft:ender_pearl" = 64
@@ -141,8 +140,7 @@
 	#Set the repair material of an item. May be an item or a tag containing multiple items, with a # before the tag id. Example (without the leading #):
 	#"minecraft:wooden_.*" = "#minecraft:fishes"
 	[items.repair_material]
-		"immersive_armors:steampunk_.*" = "create:sturdy_sheet"
-		"minecraft:elytra" = "immersive_aircraft:sail"
+		test = ""
 
 	#Set the values for armor.
 	[items.armor]

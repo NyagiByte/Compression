@@ -554,7 +554,7 @@
 	"No Durability On Cosmetics" = true
 	"More Banner Layers" = true
 	"Hoe Harvesting" = true
-	"Dragon Scales" = true
+	"Dragon Scales" = false
 	"Replace Scaffolding" = true
 	"Campfires Boost Elytra" = true
 	"Sign Editing" = true
