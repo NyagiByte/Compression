@@ -1,0 +1,13 @@
+name = "Property Modifier"
+filename = "propertymodifier-1.19.2-0.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e4f4d9c468ae6d9a5d8d003dcb23f03c40c0dbf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4553718
+project-id = 474822

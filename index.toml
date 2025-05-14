@@ -11173,6 +11173,10 @@ file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/y
 hash = "86744e9bf2d9672b030ed1f633728dab2fbc1f27341282507d44c7e17ebc74e6"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/propertymodifier/tags/items/elytra_repair_material.json"
+hash = "b21dc244d363d5f74edfc2851c321642c5835e1b9e540ca659153802a755e21e"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/quark/recipes/building/crafting/grate.json"
 hash = "74a6a695ed9ffd19f60a3db9b1099b6a50689ce614eb26136427a77e607ec4d4"
 
@@ -13433,6 +13437,10 @@ file = "config/phantomsandnightmares-common.toml"
 hash = "a0458c2f37a07e6b49327894db860899700bc7c4bea4f5f1267156d3020264f3"
 
 [[files]]
+file = "config/propertymodifier-common.toml"
+hash = "224ccae95f487bd222314621ef381eb9e282d27a3f107c69e2e0d1217cfde9ad"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "c2bf75f49e23f325570ab6e0c83298ae0bfd6bba139a61616394fe732946d302"
 
@@ -14712,6 +14720,11 @@ metafile = true
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
 hash = "29e6b478f6cd43867e9e3b5bd1f79fba7cc56005aeddd673ecaa6b4ac68f9fb4"
+metafile = true
+
+[[files]]
+file = "mods/property-modifier.pw.toml"
+hash = "3e09ee0f790b121b52ad868f379013394fe25a238bec4e58ea8364aa11472a49"
 metafile = true
 
 [[files]]
