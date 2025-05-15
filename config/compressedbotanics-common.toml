@@ -1,0 +1,8 @@
+
+["Compressed Botanics Config"]
+	#Whether Elytras can repair themselves with mana, like manasteel armor
+	"Enable Elytra Mana Repair" = true
+	#How much mana should the elytra draw instead of taking a point of durability. Manasteel armor is 70.
+	"Elytra Damage Negation Cost" = 750
+	#How much mana should the elytra draw to repair a previously lost point of durability. Manasteel armor is 140.
+	"Elytra Damage Repair Cost" = 1000

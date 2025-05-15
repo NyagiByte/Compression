@@ -1,13 +1,13 @@
 name = "Compressed Botanics"
-filename = "compressedbotanics-1-19-2-forge-1.0.1.jar"
+filename = "compressedbotanics-1.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3478445040babe6e6a21271f61ba6b2e18da1bda"
+hash = "1e15329c38b5478b30c8fbf9dcc6efcff5886cca"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5956560
+file-id = 6529903
 project-id = 1069144
