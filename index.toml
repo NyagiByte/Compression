@@ -2941,6 +2941,14 @@ file = "config/paxi/datapacks/compression/data/byg/tags/items/zelkova_logs.json"
 hash = "90bb51804e229ba4bda53aae42887f7cf7ba426e1c45fceacea2589c84d88de3"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/c/tags/items/README.md"
+hash = "5d8eb7e66e7721a8c013d31cb69bb75c39ec989adfd9cbb576febb07e195804e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/c/tags/items/hidden_from_recipe_viewers.json"
+hash = "fa237294f17c56db7ea1558563c4a4bab08fb6cadb61f92beeaf17f58fcdbd10"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/cb_microblock/recipes/diamond_saw.json"
 hash = "8cb027076ec360ddae0411962a959cfe80e761b8863dbb92c12066dc088c7a1e"
 
