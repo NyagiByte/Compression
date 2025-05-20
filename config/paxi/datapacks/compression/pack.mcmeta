@@ -767,7 +767,12 @@
 		{"namespace": "immersiveengineering", "path": "recipes/metalpress/blaze_rod.json"},
 
 		{"namespace": "nuclearcraft", "path": "recipes/steel_from_nugget.json"},
+		{"namespace": "nuclearcraft", "path": "recipes/steel_from_block.json"},
+		{"namespace": "nuclearcraft", "path": "recipes/steel_nugget.json"},
+		{"namespace": "nuclearcraft", "path": "recipes/steel_block.json"},
 		{"namespace": "mekanism", "path": "recipes/processing/steel/ingot/from_nuggets.json"},
+		{"namespace": "mekanism", "path": "recipes/nuggets/steel.json"},
+		{"namespace": "mekanism", "path": "recipes/storage_blocks/steel.json"},
 
 		{"namespace": "immersiveengineering", "path": "recipes/bottling/ersatz_leather.json"},
 

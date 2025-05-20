@@ -12982,7 +12982,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "26b2aece02e31a4db6fb379b702ed8a71210d92a10c39d11b12cee7afe3e18ae"
+hash = "c61376f630acb9b6c521120a92a6c5d863df1208add23fa30c7479ae7f4eca53"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -14014,7 +14014,7 @@ hash = "fb521c9f286201a786ded3f3a373cfa926b5ef010865bd04c6c0d8faf69bbe9f"
 
 [[files]]
 file = "kubejs/server_scripts/mandatory_kubejs_recipes.js"
-hash = "f3b11d38d0ead68ddbd087a76c85865af864bc2d1a3c9f29ae04f97dbe7b4432"
+hash = "505468d7bbf53b2f33896220b0f71a7bc0ce8afcf323066c59be6c4e03de293a"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes_ores.js"
@@ -14654,10 +14654,6 @@ metafile = true
 file = "mods/nuclearcraft-neoteric.pw.toml"
 hash = "a64a7f239c438513d1f92766d353cfe547b9a03eaa33b53c937e179bac2ca406"
 metafile = true
-
-[[files]]
-file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "f64a617dd39645747f31209dd285b0b70e83ee41f6650a3fa069db575a98b9f1"
 
 [[files]]
 file = "mods/nyagis-bits-bytes.pw.toml"

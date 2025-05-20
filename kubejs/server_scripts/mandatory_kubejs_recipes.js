@@ -14,7 +14,7 @@ ServerEvents.recipes(event => {
       ], {
         A: 'create:copper_nugget', 
         B: '#forge:torn_fabric',
-        C: 'create:zinc_nugget',
+        C: 'chemlib:zinc_nugget',
         D: 'nyagibits_bytes:bucket_of_salt_water'   
       }
     ).replaceIngredient("nyagibits_bytes:bucket_of_salt_water", "minecraft:air"),
