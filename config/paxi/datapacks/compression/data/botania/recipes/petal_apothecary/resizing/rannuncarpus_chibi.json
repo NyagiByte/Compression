@@ -1,0 +1,17 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "botania:rannuncarpus"
+      },
+      {
+        "item": "minecraft:poisonous_potato"
+      }
+    ],
+    "output": {
+      "item": "botania:rannuncarpus_chibi"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

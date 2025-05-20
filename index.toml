@@ -662,7 +662,7 @@ hash = "ffac074e14e40f9c6274b854e7022f28d8a36282c41a62c7db73188c85735576"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/6tier_0.snbt"
-hash = "568263a1b9d26905c4292e9b8b8431bc46146f4e79185e0fde8d3d022ee9acdd"
+hash = "203136a279c316cfa6a3fd76d8b95a3a4e75a41fa8a1b8b345bffd1a524685b0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/6tier_1.snbt"
@@ -690,7 +690,7 @@ hash = "5eaa01737c46ffc31178fbfacbaaf71d9b0492e8a34838f1973905af60636bd4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "7403a6bd1f782bfdd1f921c78637a2d0ae8a0a2cc2fa68fb6ce0954dfc3f9af6"
+hash = "95c61e387dc5f365030d069b9c8ac3a396736192496b8eb23128efb9efec2f57"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -2587,6 +2587,86 @@ hash = "4642bd7c1d95cec14c2effe7431b55f9780ed2e03bc656e3de888fa7d6169aae"
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/rannuncarpus.json"
 hash = "b77a172ec8513fd425fbd5b9d62679671fc1d31c6a3100a5cffd6d59472939f9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/agricarnation.json"
+hash = "650dc018570f4911adaa56770790f021b1d291211d688ab37f84076e6da85351"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/agricarnation_chibi.json"
+hash = "e71da532153f2c4315b8d64692a189e7e13f5ad75575420d965cc38c7e8d54a5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/bellethorn.json"
+hash = "40e04c84c6f1d4684d6816cffe78ccc4566a9d49db9fd763a708e680806ead1c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/bellethorn_chibi.json"
+hash = "a3aa0c6fa4931e3561a58faf3a3ee1ac41c82dcd38ce45f8e9654b4c23c94464"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/bubbell.json"
+hash = "836950f6ca7146917217ddae99a08dd2e0d39f536214bb335ae3348273a3a011"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/bubbell_chibi.json"
+hash = "8d66f80e3eb2eca7d1905a083340876b04fd227217c9550fe57d762e060cc3bc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/clayconia.json"
+hash = "8a9253fa301ac190cfd73d21501be105ad2008c92399df6675dda31067aaa87b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/clayconia_chibi.json"
+hash = "4ba58b92175e1f360b13f422f121aa5d9fa146c6f751ac6f9906332bc9b8fabe"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/hopperhock.json"
+hash = "92d7b35acf6a193f069ff600b9bc651ad937335b65a29ae53878db7cbcf46200"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/hopperhock_chibi.json"
+hash = "97711482eddc09e88a3d66f36a18bd93f1a0d36d8b13e74722af1ad74f1f320a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/jiyuulia.json"
+hash = "d7de3543fd07a978b0831d128089893118b1281af0958ad5cc7ab06ce63c88eb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/jiyuulia_chibi.json"
+hash = "15cddd6361899142574f4fa6c70f8f0e4ed961e57986b4a00559e5737aa5b852"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/marimorphosis.json"
+hash = "69a3287e050fddc416053239e82cac5c24b4858a1cddbeb04c810e709d52e0f3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/marimorphosis_chibi.json"
+hash = "1b99c432a228ddf209f39b5b48bb63007abbe5b1d1229b2cb458315d2b78a58a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/rannuncarpus.json"
+hash = "418023a44c47710ce74691157212cd9cf8c3ca85a1b36583b60e6e9cca35d3be"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/rannuncarpus_chibi.json"
+hash = "e60d6f40e0d14a0f9bde292e672ce79615785d3e5fad4f677f655786a6e5e457"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/solegnolia.json"
+hash = "c8113fe09efc51648875178cc8eb319817714aefa413fe7ad2e19abd420223e5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/solegnolia_chibi.json"
+hash = "f02f8ebe75224bc454b6d24f3bc2c3995ff60e670fb605c57be7ad177ccbaa63"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/tangleberrie.json"
+hash = "b1809bfcaf0e524eca18d684f505a6d1e80874d26a526d78fb3bdc6fa7836730"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/resizing/tangleberrie_chibi.json"
+hash = "5a310c57180a41a6ff13d724e0ac1a6cf8d880eac4eaf12fd3ac7c3895f55e4c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/petal_apothecary/rosa_arcana.json"
@@ -12982,7 +13062,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "c61376f630acb9b6c521120a92a6c5d863df1208add23fa30c7479ae7f4eca53"
+hash = "41a56625cdaa23e4368c539c3bead6d3dacfa612655b60f8eb717a27aeb99a9c"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -13450,7 +13530,7 @@ hash = "a0458c2f37a07e6b49327894db860899700bc7c4bea4f5f1267156d3020264f3"
 
 [[files]]
 file = "config/propertymodifier-common.toml"
-hash = "2fb70c0bec4ec738e688d37adbba9c2619558264f0878ddbd29e2ceec2db7289"
+hash = "a507afd9f00ea830495b3729dbddc6cf30272b2f0a5216e74bc75b26848264cf"
 
 [[files]]
 file = "config/quark-common.toml"

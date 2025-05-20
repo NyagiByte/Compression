@@ -1,0 +1,17 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "botania:clayconia"
+      },
+      {
+        "item": "minecraft:poisonous_potato"
+      }
+    ],
+    "output": {
+      "item": "botania:clayconia_chibi"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

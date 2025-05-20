@@ -1,0 +1,17 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "botania:clayconia_chibi"
+      },
+      {
+        "item": "botania:fertilizer"
+      }
+    ],
+    "output": {
+      "item": "botania:clayconia"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

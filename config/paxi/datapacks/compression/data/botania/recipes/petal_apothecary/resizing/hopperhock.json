@@ -1,0 +1,17 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "botania:hopperhock_chibi"
+      },
+      {
+        "item": "botania:fertilizer"
+      }
+    ],
+    "output": {
+      "item": "botania:hopperhock"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }
