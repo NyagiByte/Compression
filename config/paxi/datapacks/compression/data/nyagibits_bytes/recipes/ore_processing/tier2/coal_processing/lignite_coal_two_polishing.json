@@ -2,7 +2,7 @@
     "type": "create:sandpaper_polishing",
     "ingredients": [
       {
-        "item": "nyagibits_bytes:de_mineralized_cannel_lignite"
+        "item": "nyagibits_bytes:de_mineralized_lignite"
       }
     ],
     "results": [

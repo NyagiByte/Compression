@@ -7882,7 +7882,7 @@ hash = "f736878a7e93861a7321fdb6a2b2bd432792a3e99ce3ed64843ad79e8d3467cd"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/sterilized_quartz_glass_t1.json"
-hash = "571e1acd409cd4a55534fa30db56e0a6812b9d912575e645244d52b35cc4bff4"
+hash = "ad15be36d0d91c04e92258cf2c212404ff5519900b7aff3b6229d17e6c33cc60"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/sturdy_tray.json"
@@ -7894,7 +7894,7 @@ hash = "a87ae3d225b4d0e1dd280867deebb64edf1296d8b020c2966e9525778a5d3e1d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/used_basic_material_properties_test.json"
-hash = "cf3c0914b7b6532ad4c6161dbc90e72ddaccf6b4ef646da82a7bd65caf815dbd"
+hash = "fa519cbd3a57632460559284c7c6072ac22e83b443ba54233373716f5631e38f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/used_crude_material_properties_test.json"
@@ -9438,7 +9438,7 @@ hash = "91b199e109c1cdf94f9c38452ff7c84e2c54768ac35961bad004c702dec3aaf1"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/lignite_coal_two_polishing.json"
-hash = "267cf4ef702ae41202b6a8aad0e146d556812651591ed0c8b74a1d2c312bc253"
+hash = "85eb3723bdd960e685787e7af707f111f20947d8d3a933f9a8140bfaafff98e8"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/ore_processing/tier2/coal_processing/lignite_two_demineralizing.json"
@@ -12518,7 +12518,7 @@ hash = "a400a53594a32785a128fb6a69cb673c63c6ef0e4fc532add4338535ef520fc8"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/supplementaries/recipes/soap.json"
-hash = "6468ae2ed63f558973e97c2323320fff16dafd2630ad639583273924529ede92"
+hash = "12bb2da46fbbf3b07439ad2ea79e42111d6d17a0b77238a345f425c4e2939423"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/supplementaries/recipes/speaker_block.json"
