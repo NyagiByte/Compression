@@ -1,10 +1,13 @@
+//Forgive me, for i am about to sin.
+const WispParticleData = Java.loadClass("vazkii.botania.client.fx.WispParticleData")
+
 Ponder.tags((e) => {e.createTag("compression:botania", "botania:lexicon", "Botania", "For all your floral needs", ["#forge:petal_apothecary", "botania:pure_daisy"])})
 //------------------------------------------------------------------
 Ponder.registry((e) => {
 //------------------------------------------------------------------
     //Petal Apothecary
         e.create("#forge:petal_apothecary")
-            .scene("Apothecary", "Crafting Using Apothecary", "kubejs:botania_5x5", (scene, util) => {
+            .scene("apothecary", "Crafting Using Apothecary", "kubejs:botania_5x5", (scene, util) => {
                 scene.showBasePlate();
                 scene.idle(10);
                 scene.world.setBlock([2,1,2], "botania:apothecary_default", false);
@@ -61,7 +64,7 @@ Ponder.registry((e) => {
             });
     //Pure Daisy
         e.create("botania:pure_daisy")
-            .scene("PureDaisy", "Utilising The Pure Daisy", "kubejs:botania_7x7", (scene, util) => {
+            .scene("pure_daisy", "Utilising The Pure Daisy", "kubejs:botania_7x7", (scene, util) => {
                 scene.showBasePlate();
                 scene.idle(10);
                 scene.world.setBlock([3,1,3], "botania:pure_daisy", false);
@@ -123,9 +126,9 @@ Ponder.registry((e) => {
                 scene.markAsFinished()
             });
     //Endoflame
-    /*
+
         e.create("botania:endoflame")
-            .scene("Endoflame", "Generating Mana", "kubejs:botania_7x7", (scene, util) => {
+            .scene("endoflame", "Generating Mana", "kubejs:botania_7x7", (scene, util) => {
                 scene.showBasePlate();
                 scene.idle(10);
                 scene.world.setBlock([3,1,3], "botania:endoflame", false);
@@ -137,7 +140,7 @@ Ponder.registry((e) => {
                 const coal = scene.world.createItemEntity([3.5, 3, 3.5], [0, 0, 0], "minecraft:coal");
                 scene.idle(10);
                 scene.world.modifyEntity(coal, (r) => { r.discard()});
-                scene.particles.simple(40, "flame", [3.5,2.5,3.5]).density(2);
+                scene.particles.simple(40, "flame", [3.2,1.75,3.4]).density(1);
                 scene.text(60, "Dropping fuel such as coal infront of the Endoflame will cause it to be consumed by the flower and generate mana", [3,1.5,3]);
                 scene.idle(70);
                 scene.addKeyframe();
@@ -145,21 +148,49 @@ Ponder.registry((e) => {
                 scene.world.setBlock([5,1,3], "botania:endoflame", false);
                 scene.world.showSection([5,1,3], Facing.down);
                 scene.idle(10);
-                scene.world.setBlock([3,1,3], "botania:mana_spreader", false);
-                scene.world.showSection([3,1,3], Facing.east);
+                scene.world.setBlock([4,1,3], "botania:mana_spreader", false);
+                scene.world.showSection([4,1,3], Facing.east);
                 scene.idle(10);
                 scene.world.setBlock([1,1,3], "botania:mana_pool", false);
                 scene.world.showSection([1,1,3], Facing.down);
                 scene.idle(10);
-                //scene.particles.dust(10, "#5fcf14", [3.5,1.5,3.5]).density(10).physics(false).motion([0,0,-1]).area([3,1,3], [1,1,3]).roll(10);
-                scene.particles.simple(20, "glow", [3, 1.5, 3]).physics(false).area([1,1.5,3])
+                
+                //Oh boy here we go.
+                //First off, look at the const at the top of this file, and add it if you don't have it in yours.
+                //Spawn a mana burst, position is irrelevant, it doesn't work.
+                const burst = scene.world.createEntity("botania:mana_burst", [0,0,0], b => {
+                    //All of these are needed for the burst to show up. Set the starting position here.
+                    //It's slightly offset because it looks nicer. Fiddle with it until it looks nice
+                    b.load("{color: 2162464,Pos:[4.75d,0.55d,4.55d], startingMana: 160, mana: 160, shooterUUID: 0}")
+                })
+                //Adjust the loop size and travel step for your burst.
+                const travelStep = 0.1
+                for(let i = 0; i<20;i++){
+                    scene.world.modifyEntity(burst, (r) => {
+                        //Spawn the missing central particle at the burst's location.
+                        r.getLevel().addParticle(WispParticleData.wisp(0.25,0.1,1,0.1,false),r.getX(),r.getY(),r.getZ(), 0,0,0)
+                        //This will depend on the direction of your burst.
+                        r.setX(r.getX()-travelStep)
+                    });
+                    //Pass one tick
+                    scene.idle(1)
+                }
+                //At this moment, the burst should have made contact with the pool. Put a bit of mana in it...
+                scene.world.modifyBlockEntityNBT([1,1,3], true, (nbt) => {
+                    nbt.mana = 160;
+                })
+                //...and destroy the burst, otherwise it will linger there.
+                scene.world.modifyEntity(burst, (r) => {
+                    r.discard()
                 });
+
                 scene.markAsFinished()
-            })*/
-            //.scene("Endoflame Decay","Decaying Flowers", "kubejs:botania_7x7", (scene, util) => {
+                });
+                //.scene("Endoflame Decay","Decaying Flowers", "kubejs:botania_7x7", (scene, util) => {
 
 
 
             //})
-});
+        });
+            
 //------------------------------------------------------------------
