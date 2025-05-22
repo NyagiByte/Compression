@@ -1,0 +1,17 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "botania:bubbell_chibi"
+      },
+      {
+        "item": "botania:fertilizer"
+      }
+    ],
+    "output": {
+      "item": "botania:bubbell"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

@@ -1,0 +1,17 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "botania:tangleberrie_chibi"
+      },
+      {
+        "item": "botania:fertilizer"
+      }
+    ],
+    "output": {
+      "item": "botania:tangleberrie"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

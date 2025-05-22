@@ -1,0 +1,17 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "botania:tangleberrie"
+      },
+      {
+        "item": "minecraft:poisonous_potato"
+      }
+    ],
+    "output": {
+      "item": "botania:tangleberrie_chibi"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

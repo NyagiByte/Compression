@@ -109,7 +109,8 @@
 	#Set the max damage (durability) of an item. Only items that already have durability can have this value altered. Example (without the leading #):
 	#"minecraft:diamond_.*" = 5000
 	[items.max_damage]
-		test = 0
+		"create:sand_paper" = 32
+		"create:red_sand_paper" = 32
 
 	#Set the max stack size of an item. Only values between 2 and 64 are supported. Items that have durability cannot have this value altered. Example (without the leading #):
 	#"minecraft:ender_pearl" = 64

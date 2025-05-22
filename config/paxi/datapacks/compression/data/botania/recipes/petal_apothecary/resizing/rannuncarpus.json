@@ -1,0 +1,17 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "botania:rannuncarpus_chibi"
+      },
+      {
+        "item": "botania:fertilizer"
+      }
+    ],
+    "output": {
+      "item": "botania:rannuncarpus"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

@@ -1,0 +1,17 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "botania:floating_bubbell"
+      },
+      {
+        "item": "minecraft:poisonous_potato"
+      }
+    ],
+    "output": {
+      "item": "botania:floating_bubbell_chibi"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }

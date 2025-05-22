@@ -1719,7 +1719,7 @@
 		}
 		{
 			dependencies: ["2672B8CBD2F58BC7"]
-			description: ["Still not enough power?! HV might be needed, however be warned &cHV wires can not be insulated and can insta' kill you!&r A transformer might be a good saftey measure"]
+			description: ["Still not enough power?! HV might be needed, however be warned &cHV wires can not be insulated and can insta' kill you!&r A transformer might be a good safety measure"]
 			icon: "immersiveengineering:capacitor_hv"
 			id: "3CB6EFD66F335C89"
 			rewards: [{

@@ -1262,6 +1262,17 @@
 		{"namespace": "botania", "path": "recipes/mana_infusion/coarse_dirt.json"},
 		{"namespace": "botania", "path": "recipes/mana_infusion/chiseled_stone_bricks.json"},
 
+		{"namespace": "botania", "path": "recipes/mana_infusion/bellethorn_chibi.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/tangleberrie_chibi.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/clayconia_chibi.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/solegnolia_chibi.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/agricarnation_chibi.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/jiyuulia_chibi.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/marimorphosis_chibi.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/hopperhock_chibi.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/rannuncarpus_chibi.json"},
+		{"namespace": "botania", "path": "recipes/mana_infusion/bubbell_chibi.json"},
+
 		{"namespace": "botania", "path": "recipes/stonecutting/livingrock_to_polished_livingrock.json"},
 
 		{"namespace": "botania", "path": "recipes/mana_fluxfield.json"},
