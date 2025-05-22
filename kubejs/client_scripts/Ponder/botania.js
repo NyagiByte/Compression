@@ -154,35 +154,15 @@ Ponder.registry((e) => {
                 scene.world.setBlock([1,1,3], "botania:mana_pool", false);
                 scene.world.showSection([1,1,3], Facing.down);
                 scene.idle(10);
-                
-                //Oh boy here we go.
-                //First off, look at the const at the top of this file, and add it if you don't have it in yours.
-                //Spawn a mana burst, position is irrelevant, it doesn't work.
-                const burst = scene.world.createEntity("botania:mana_burst", [0,0,0], b => {
-                    //All of these are needed for the burst to show up. Set the starting position here.
-                    //It's slightly offset because it looks nicer. Fiddle with it until it looks nice
-                    b.load("{color: 2162464,Pos:[4.75d,0.55d,4.55d], startingMana: 160, mana: 160, shooterUUID: 0}")
-                })
-                //Adjust the loop size and travel step for your burst.
-                const travelStep = 0.1
-                for(let i = 0; i<20;i++){
-                    scene.world.modifyEntity(burst, (r) => {
-                        //Spawn the missing central particle at the burst's location.
-                        r.getLevel().addParticle(WispParticleData.wisp(0.25,0.1,1,0.1,false),r.getX(),r.getY(),r.getZ(), 0,0,0)
-                        //This will depend on the direction of your burst.
-                        r.setX(r.getX()-travelStep)
-                    });
-                    //Pass one tick
-                    scene.idle(1)
-                }
-                //At this moment, the burst should have made contact with the pool. Put a bit of mana in it...
+
+                //It's slightly offset because it looks nicer. Fiddle with it if needed
+                //NOTE: this calls scene.idle, take that into account
+                manaBurst(scene, [4.75, 0.55, 4.55], [2.75, 0.55, 4.55], 20, 1)
+               
+                //At this moment, the burst should have made contact with the pool. Put a bit of mana in it
                 scene.world.modifyBlockEntityNBT([1,1,3], true, (nbt) => {
                     nbt.mana = 160;
                 })
-                //...and destroy the burst, otherwise it will linger there.
-                scene.world.modifyEntity(burst, (r) => {
-                    r.discard()
-                });
 
                 scene.markAsFinished()
                 });
@@ -192,5 +172,56 @@ Ponder.registry((e) => {
 
             //})
         });
+
+
+
+//Oh boy here we go.
+//First off, look at the const at the top of this file, and add it if you don't have it in yours.
+//Parameters in order. Scene object, start position x, y, z, end position x, y, z, time in ticks to get from start to end and size multiplier (optional)
+function manaBurst(scene, start, end, time, size){
+    //Calculate the travel distance in each of the 3 axis
+    var dX = end[0]-start[0]
+    var dY = end[1]-start[1]
+    var dZ = end[2]-start[2]
+    //And the step size
+    dX = (dX/time)
+    dY = (dY/time)
+    dZ = (dZ/time)
+
+    //Spawn a mana burst, position is irrelevant, it doesn't work.
+    const burst = scene.world.createEntity("botania:mana_burst", [0,0,0], b => {
+        //All of these are needed for the burst to show up. We set the starting position here.        
+        b.load("{color: 2162464, Pos:["+start[0]+"d,"+start[1]+"d,"+start[2]+"d], startingMana: 160, mana: "+(160*size)+", shooterUUID: 0}")
+    })
+    //This is just for a bit of visual flair at the start of the burst
+    for(let n = 0; n<5; n++){
+        scene.world.modifyEntity(burst, (r) => {
+            r.getLevel().addParticle(WispParticleData.wisp(0.25*size,0.125,1,0.125,false),r.getX(),r.getY(),r.getZ(), (Math.random()-0.5)/25,(Math.random()-0.5)/25,(Math.random()-0.5)/25)
+        });
+    }
+
+    for(let i = 0; i<time; i++){
+        scene.world.modifyEntity(burst, (r) => {
+            //Spawn the missing central particle at the burst's location.
+            r.getLevel().addParticle(WispParticleData.wisp(0.25*size,0.125,1,0.125,false),r.getX(),r.getY(),r.getZ(), 0,0,0)
+            //Move the burst. This is jank. Just setting it to the value of a variable won't work.
+            r.setX(r.getX()+dX)
+            r.setY(r.getY()+dY)
+            r.setZ(r.getZ()+dZ)
+        });
+        //Wait until the next tick
+        scene.idle(1)
+    }
+    //I don't want to import the other particle. So just spawn a bunch of particles to indicate impact.
+    for(let n = 0; n<10; n++){
+        scene.world.modifyEntity(burst, (r) => {
+            r.getLevel().addParticle(WispParticleData.wisp(0.15*size,0.125,1,0.125,false),r.getX(),r.getY(),r.getZ(), (Math.random()-0.5)/25,(Math.random()-0.5)/25,(Math.random()-0.5)/25)
+        });
+    }
+    //Finally, discard the burst so that it doesn't linger.
+    scene.world.modifyEntity(burst, (r) => r.discard())
+
+}
+
             
 //------------------------------------------------------------------
