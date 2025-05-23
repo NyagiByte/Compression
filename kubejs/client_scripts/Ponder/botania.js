@@ -2,7 +2,7 @@
 const WispParticleData = Java.loadClass("vazkii.botania.client.fx.WispParticleData")
 const ParticleTypes = Java.loadClass("net.minecraft.core.particles.ParticleTypes")
 
-Ponder.tags((e) => {e.createTag("compression:botania", "botania:lexicon", "Botania", "For all your floral needs", ["#forge:petal_apothecary", "botania:pure_daisy", "botania:endoflame"])})
+Ponder.tags((e) => {e.createTag("compression:botania", "botania:lexicon", "Botania", "For all your floral needs", ["#forge:petal_apothecary", "botania:pure_daisy", "botania:endoflame", "botania:entropinnyum", "botania:munchdew", "botania:gourmaryllis", "botania:narslimmus"])})
 //------------------------------------------------------------------
 Ponder.registry((e) => {
 //------------------------------------------------------------------
@@ -128,57 +128,324 @@ Ponder.registry((e) => {
             });
     //Endoflame
 
-        e.create("botania:endoflame")
-            .scene("endoflame", "Generating Mana", "kubejs:botania_7x7", (scene, util) => {
-                scene.showBasePlate();
-                scene.idle(10);
-                scene.world.setBlock([3,1,3], "botania:endoflame", false);
-                scene.world.showSection([3,1,3], Facing.down);
-                scene.idle(20);
-                scene.text(50, "This is an Endoflame, one of the many mana generating flowers", [3,1.5,3]);
-                scene.idle(55);
-                const coal = scene.world.createItemEntity([2.5, 3, 2.5], [0, 0, 0], "minecraft:coal");
-                scene.idle(10);
-                //Looks like using the scene particle spawner inside of this is a no-go.
-                scene.world.modifyEntity(coal, (r) => { 
-                    r.getLevel().addParticle(ParticleTypes.FLAME, r.getX(), r.getY(), r.getZ(), 0,0,0)
-                    r.getLevel().addParticle(ParticleTypes.LARGE_SMOKE, r.getX(), r.getY()+0.1, r.getZ(), 0,0,0)
-                    r.discard(); 
-                });
-                scene.particles.simple(40, "flame", [3.2,1.75,3.4]).density(1);
-                scene.text(60, "Dropping fuel such as coal near the Endoflame will cause it to be consumed by the flower and generate mana", [3,1.5,3]);
-                scene.idle(70);
-                scene.addKeyframe()
-                scene.text(80, "The flower will consume most furnace fuel in a 7x7 square, centered on itself\n(Consumption sped up for demonstration)", [3,1.5,3]);
-                var fuels = ["oak_log", "oak_planks", "stick", "bamboo", "charcoal", "dried_kelp_block", "oak_stairs", "blaze_rod"]
-                var items = []
-                fuels.forEach((fuel) => {
-                    items.push(scene.world.createItemEntity([Math.random()*7, 1, Math.random()*7], [0, 0.2, 0], "minecraft:"+fuel))
-                    scene.idle(1)
-                })
-                scene.idle(30)
-                items.forEach((item) => {
-                    scene.world.modifyEntity(item, (r) => { 
+            e.create("botania:endoflame")
+                .scene("endoflame", "Generating Mana", "kubejs:botania_7x7", (scene, util) => {
+                    scene.showBasePlate();
+                    scene.idle(10);
+                    scene.world.setBlock([3,1,3], "botania:endoflame", false);
+                    scene.world.showSection([3,1,3], Facing.down);
+                    scene.idle(20);
+                    scene.text(50, "This is an Endoflame, one of the many mana generating flowers", [3,1.5,3]);
+                    scene.idle(55);
+                    const coal = scene.world.createItemEntity([2.5, 3, 2.5], [0, 0, 0], "minecraft:coal");
+                    scene.idle(10);
+                    //Looks like using the scene particle spawner inside of this is a no-go.
+                    scene.world.modifyEntity(coal, (r) => { 
                         r.getLevel().addParticle(ParticleTypes.FLAME, r.getX(), r.getY(), r.getZ(), 0,0,0)
                         r.getLevel().addParticle(ParticleTypes.LARGE_SMOKE, r.getX(), r.getY()+0.1, r.getZ(), 0,0,0)
                         r.discard(); 
                     });
-                    scene.particles.simple(5, "flame", [3.2,1.75,3.4]).density(1);
+                    scene.particles.simple(40, "flame", [3.2,1.75,3.4]).density(1);
+                    scene.text(60, "Dropping fuel such as coal near the Endoflame will cause it to be consumed by the flower and generate mana", [3,1.5,3]);
+                    scene.idle(70);
+                    scene.addKeyframe()
+                    scene.text(80, "The flower will consume most furnace fuel in a 7x7 square, centered on itself\n(Consumption sped up for demonstration)", [3,1.5,3]);
+                    var fuels = ["oak_log", "oak_planks", "stick", "bamboo", "charcoal", "dried_kelp_block", "oak_stairs", "blaze_rod"]
+                    var items = []
+                    fuels.forEach((fuel) => {
+                        items.push(scene.world.createItemEntity([Math.random()*7, 1, Math.random()*7], [0, 0.2, 0], "minecraft:"+fuel))
+                        scene.idle(1)
+                    })
+                    scene.idle(30)
+                    items.forEach((item) => {
+                        scene.world.modifyEntity(item, (r) => { 
+                            r.getLevel().addParticle(ParticleTypes.FLAME, r.getX(), r.getY(), r.getZ(), 0,0,0)
+                            r.getLevel().addParticle(ParticleTypes.LARGE_SMOKE, r.getX(), r.getY()+0.1, r.getZ(), 0,0,0)
+                            r.discard(); 
+                        });
+                        scene.particles.simple(5, "flame", [3.2,1.75,3.4]).density(1);
+                        scene.idle(5)
+                    })           
                     scene.idle(5)
-                })           
-                scene.idle(5)
-                scene.world.hideSection([3,1,3], Facing.up)
-                scene.idle(20)
-                scene.world.modifyBlock([3,1,3], () => Block.id("minecraft:air"), false)
-                scene.addKeyframe();
-                spreaderLinking(scene, "endoflame")
-                scene.markAsFinished()
-                })
-                .scene("endoflame_decay","Decaying Flowers", "kubejs:botania_7x7", (scene, util) => {
-                    scene.showBasePlate();
-                    floralEntropy(scene, "endoflame", ["nyagibits_bytes:endoflame_mush", "create:empty_blaze_burner", "supplementaries:ash"], "minecraft:campfire")
+                    scene.world.hideSection([3,1,3], Facing.up)
+                    scene.idle(20)
+                    scene.world.modifyBlock([3,1,3], () => Block.id("minecraft:air"), false)
+                    scene.addKeyframe();
+                    spreaderLinking(scene, "endoflame")
                     scene.markAsFinished()
-                });
+                    })
+                    .scene("endoflame_decay","Decaying Flowers", "kubejs:botania_7x7", (scene, util) => {
+                        scene.showBasePlate();
+                        floralEntropy(scene, "endoflame", ["nyagibits_bytes:endoflame_mush", "create:empty_blaze_burner", "supplementaries:ash"], "minecraft:campfire")
+                        scene.markAsFinished()
+                    });
+
+
+    //Entropinnyum                    
+            e.create("botania:entropinnyum")
+                .scene("entropinnyum", "Generating Mana", "kubejs:botania_7x7", (scene, util) => {
+                    scene.showBasePlate();
+                    scene.idle(10);
+                    scene.world.setBlock([3,1,3], "botania:entropinnyum", false);
+                    scene.world.showSection([3,1,3], Facing.down);
+                    scene.idle(20);
+                    scene.text(50, "This is an Entropinnyum, one of the many mana generating flowers", [3,1.5,3]);
+                    scene.idle(55);
+                    scene.addKeyframe()
+                    scene.world.setBlock([3,1,2], "minecraft:tnt", false);
+                    scene.world.showSection([3,1,2], Facing.down);
+                    scene.idle(25);
+                    scene.world.setBlock([3,1,2], "minecraft:air", false);
+                    scene.world.createEntity("minecraft:tnt", [3.5,1,2.5])
+                    scene.idle(20)
+                    scene.text(60, "It generates sizeable chunks of mana by absorbing TNT explosions", [3,1.5,3]);
+                    scene.idle(60)
+                    for(let i = 0;i<10; i++){
+                        scene.particles.simple(5, "smoke", [3.5, 1, 2.5])
+                        scene.idle(1)
+                    }
+                    scene.text(60, "TNT generated from a duplicator machine will function, but yield far less mana.", [3,1.5,3]);
+                    scene.idle(30)
+                    scene.world.createEntity("minecraft:tnt", [3.5,1,2.5])
+                    scene.idle(50)
+                    scene.text(60, "It will §cNOT§r absorb the explosion if its mana buffer is not empty!", [3,1.5,3]);
+                    scene.addKeyframe()
+                    scene.idle(30)
+                    scene.world.modifyBlock([3,1,3], () => Block.id("minecraft:air"), true)
+                    //kablooey
+                    for(let i = 0;i<5;i++){
+                        scene.particles.simple(1, "explosion", [3.5+(Math.random()*6-3),1+(Math.random()),2.5+(Math.random()*6-3)])
+                    }
+                    scene.idle(2)
+                    for(let i = 0;i<5;i++){
+                        scene.particles.simple(1, "explosion", [3.5+(Math.random()*6-3),1+(Math.random()),2.5+(Math.random()*6-3)])
+                    }
+                    scene.idle(30)
+                    scene.addKeyframe()
+                    spreaderLinking(scene, "entropinnyum")
+                    scene.markAsFinished()
+                    })
+                    .scene("entropinnyum_decay","Decaying Flowers", "kubejs:botania_7x7", (scene, util) => {
+                        scene.showBasePlate();
+                        floralEntropy(scene, "entropinnyum", ["nyagibits_bytes:entropinnyum_mush", "immersiveengineering:blastbrick", "minecraft:gunpowder"], "minecraft:tnt")
+                        scene.idle(45)
+                        scene.addKeyframe()
+                        scene.text(60, "I sure hope you got something to shut off the flow of primed tnt when that happens.", [3,1.5,3]).placeNearTarget();
+                        scene.idle(40)
+                        scene.world.createEntity("minecraft:tnt", [3.5,1,2.5])
+                        scene.idle(25)
+                        scene.text(60, "Otherwise...", [3,1.5,3]).placeNearTarget();
+                        scene.idle(55)
+                        scene.world.modifyBlock([3,1,3], () => Block.id("minecraft:air"), false)
+                        //kablooey
+                        for(let i = 0;i<5;i++){
+                            scene.particles.simple(1, "explosion", [3.5+(Math.random()*6-3),1+(Math.random()),3.5+(Math.random()*6-3)])
+                        }
+                        scene.idle(2)
+                        for(let i = 0;i<5;i++){
+                            scene.particles.simple(1, "explosion", [3.5+(Math.random()*6-3),1+(Math.random()),3.5+(Math.random()*6-3)])
+                        }
+                        scene.markAsFinished()
+                    });
+
+
+
+        //Munchdew
+
+            e.create("botania:munchdew")
+                .scene("munchdew", "Generating Mana", "kubejs:botania_7x7", (scene, util) => {
+                    scene.showBasePlate();
+                    scene.idle(10);
+                    scene.world.setBlock([3,1,3], "botania:munchdew", false);
+                    scene.world.showSection([3,1,3], Facing.down);
+                    scene.idle(20);
+                    scene.text(50, "This is a Munchdew, one of the many mana generating flowers", [3,1.5,3]);
+                    scene.idle(55);
+                    scene.addKeyframe()
+                    var leaves = []
+                    for(let x = 1; x<6; x++){
+                        for(let z = 1; z<6; z++){
+                            var pos = [x, 1, z]
+                            if(!(x == 3 && z == 3)){
+                                leaves.push(pos)
+                                scene.world.setBlock(pos, "minecraft:oak_leaves", false);
+                                scene.world.showSection(pos, Facing.down);
+                                scene.idle(1)
+                            }
+                        }
+                    }
+                    leaves.sort(() => Math.random() - 0.5)
+                    scene.text(100, "It generates mana by devouring any leaves in a\n17x16x17 cube at a rate of 5 blocks per second.", [3,1.5,3]);
+                    scene.idle(10)
+                    leaves.forEach((leaf) => {
+                        scene.world.setBlock(leaf, "minecraft:air", true);
+                        scene.idle(4)
+                    })
+                    scene.world.hideSection([3,1,1], Facing.down);
+                    scene.world.hideSection([3,1,2], Facing.down);
+                    scene.idle(20)
+                    scene.addKeyframe();
+                    scene.text(80, "Once it misses a chance to eat, it will stop and enter a 80s cooldown.", [3,1.5,3]);
+                    scene.world.setBlock([3,1,1], "minecraft:oak_leaves", false)
+                    scene.world.showSection([3,1,1], Facing.down);
+                    scene.idle(10)
+                    scene.world.setBlock([3,1,1], "minecraft:air", true)
+                    scene.idle(20)
+                    scene.world.setBlock([3,1,2], "minecraft:oak_leaves", false)
+                    scene.world.showSection([3,1,2], Facing.down);
+                    scene.idle(40)
+
+                    scene.world.hideSection(util.select.layer(1), Facing.up);
+                    scene.idle(15)
+                    scene.addKeyframe()
+                    spreaderLinking(scene, "munchdew")
+                    scene.markAsFinished()
+                    })
+                    .scene("munchdew_decay","Decaying Flowers", "kubejs:botania_7x7", (scene, util) => {
+                        scene.showBasePlate();
+                        floralEntropy(scene, "munchdew", ["nyagibits_bytes:munchdew_mush", "nyagibits_bytes:raw_petrified_wood", "byg:leaf_pile"], "minecraft:mangrove_propagule")
+                        scene.markAsFinished()
+                    });
+
+        //Gourmaryllis
+
+            e.create("botania:gourmaryllis")
+                .scene("gourmaryllis", "Generating Mana", "kubejs:botania_7x7", (scene, util) => {
+                    scene.showBasePlate();
+                    scene.idle(10);
+                    scene.world.setBlock([3,1,3], "botania:gourmaryllis", false);
+                    scene.world.showSection([3,1,3], Facing.down);
+                    scene.idle(20);
+                    scene.text(50, "This is a Gourmaryllis, one of the many mana generating flowers", [3,1.5,3]);
+                    scene.idle(55);
+                    scene.addKeyframe()
+                    const apple = scene.world.createItemEntity([2.5, 4, 2.5], [0, 0.1, 0], "minecraft:apple");
+                    scene.idle(10)
+                    scene.world.modifyEntity(apple, (r) => { r.discard() });
+                    scene.text(60, "It generates mana by consuming food items dropped within a block of it.", [3,1.5,3]);
+                    for(let i = 0;i<10;i++){
+                        scene.particles.item(2, "minecraft:apple", [3.1, 1.8, 3.3]).motion([(Math.random()-0.5)/5,(Math.random())/5,(Math.random()-0.5)/5])
+                        scene.idle(4)
+                    }
+                    scene.idle(25)
+                    scene.addKeyframe()
+                    const steak = scene.world.createItemEntity([2.5, 4, 2.5], [0, 0.1, 0], "minecraft:cooked_beef");
+                    scene.idle(10)
+                    scene.world.modifyEntity(steak, (r) => { r.discard() });
+                    scene.text(80, "The more nutritious a food is, the longer it takes to digest.\nHowever, the generated mana scales up exponentially.", [3,1.5,3]);
+                    for(let i = 0;i<20;i++){
+                        scene.particles.item(2, "minecraft:cooked_beef", [3.1, 1.8, 3.3]).motion([(Math.random()-0.5)/5,(Math.random())/5,(Math.random()-0.5)/5])
+                        scene.idle(4)
+                    }
+                    scene.idle(10)
+                    scene.addKeyframe()
+                    const steak2 = scene.world.createItemEntity([2.5, 4, 2.5], [0, 0.1, 0], "minecraft:cooked_beef");
+                    scene.idle(10)
+                    scene.world.modifyEntity(steak2, (r) => { r.discard() });
+                    scene.text(80, "Only a single item at a time can be digested.\nAny more food in the meantime\n§cwill be wasted.", [3,1.5,3]);
+                    var steak3
+                    for(let i = 0;i<20;i++){
+                        
+                        if(i==10) steak3 = scene.world.createItemEntity([2.5, 4, 2.5], [0, 0.1, 0], "minecraft:cooked_beef");
+                        if(i==12) scene.world.modifyEntity(steak3, (r) => { r.discard() });
+                        scene.particles.item(2, "minecraft:cooked_beef", [3.1, 1.8, 3.3]).motion([(Math.random()-0.5)/5,(Math.random())/5,(Math.random()-0.5)/5])
+                        scene.idle(4)
+                    }
+                    scene.idle(10)
+                    scene.addKeyframe()
+                    var foods = ["minecraft:cod", "minecraft:cookie", "minecraft:glow_berries", "minecraft:sweet_berries", "farmersdelight:minced_beef", "farmersdelight:bacon", "minecraft:mutton", "minecraft:chicken"]
+                    scene.text(80, "Variety is key. The more varied the foods are, the more mana it will produce, capping out at 8 different foods.", [3,1.5,3]);
+                    foods.forEach((food) => {
+                        var foodItem = scene.world.createItemEntity([2.5, 3, 2.5], [0, 0.1, 0], food);
+                        scene.idle(5)
+                        scene.world.modifyEntity(foodItem, (r) => { r.discard() });
+                        for(let i = 0;i<5;i++){
+                            scene.particles.item(1, food, [3.1, 1.8, 3.3]).motion([(Math.random()-0.5)/5,(Math.random())/5,(Math.random()-0.5)/5])
+                            scene.idle(1)
+                        }
+                    })
+                    scene.idle(15)
+                    scene.addKeyframe()
+                    scene.text(80, "However, using the same food multiple times in a row slows digestion and gives severely diminishing returns.", [3,1.5,3]);
+                    var bread = scene.world.createItemEntity([2.5, 3, 2.5], [0, 0.1, 0], "minecraft:bread");
+                    scene.idle(5)
+                    scene.world.modifyEntity(bread, (r) => { r.discard() });
+                    for(let i = 0;i<5;i++){
+                        scene.particles.item(2, "minecraft:bread", [3.1, 1.8, 3.3]).motion([(Math.random()-0.5)/5,(Math.random())/5,(Math.random()-0.5)/5])
+                        scene.idle(4)
+                    }
+                    scene.idle(5)
+                    var bread2 = scene.world.createItemEntity([2.5, 3, 2.5], [0, 0.1, 0], "minecraft:bread");
+                    scene.idle(5)
+                    scene.world.modifyEntity(bread2, (r) => { r.discard() });
+                    for(let i = 0;i<5;i++){
+                        scene.particles.item(2, "minecraft:bread", [3.1, 1.8, 3.3]).motion([(Math.random()-0.5)/5,(Math.random())/5,(Math.random()-0.5)/5])
+                        scene.idle(8)
+                    }
+                    scene.idle(10)
+                    scene.world.hideSection([3,1,3], Facing.up)
+                    scene.idle(15)
+                    scene.addKeyframe()
+                    spreaderLinking(scene, "gourmaryllis")
+                    scene.markAsFinished()
+                    })
+                    .scene("gourmaryllis_decay","Decaying Flowers", "kubejs:botania_7x7", (scene, util) => {
+                        scene.showBasePlate();
+                        floralEntropy(scene, "gourmaryllis", ["nyagibits_bytes:gourmaryllis_mush", "nyagibits_bytes:mixed_seeds", "farmersdelight:rotten_tomato"], "architects_palette:bread_slab")
+                        scene.markAsFinished()
+                    });
+
+
+
+                //Munchdew
+
+                e.create("botania:narslimmus")
+                .scene("narslimmus", "Generating Mana", "kubejs:botania_7x7", (scene, util) => {
+                    scene.showBasePlate();
+                    scene.idle(10);
+                    scene.world.setBlock([3,1,3], "botania:narslimmus", false);
+                    scene.world.showSection([3,1,3], Facing.down);
+                    scene.idle(20);
+                    scene.text(50, "This is a Narslimmus, one of the many mana generating flowers", [3,1.5,3]);
+                    scene.idle(55);
+                    scene.addKeyframe()
+                    scene.text(70, "It generates mana by absorbing any slime mobs that wander within 2 blocks of the flower", [3,1.5,3]);
+                    scene.idle(20)
+                    const slime = scene.world.createEntity("minecraft:slime", [2.5,1,2.5], b => {
+                        b.load("{Size: 1, Pos: [2.5d, 1d, 2.5d], Rotation: [135.0f, 0.0f]}")
+                    })
+                    scene.idle(30)
+                    scene.world.modifyEntity(slime, (r) => { r.discard() });
+                    for(let i = 0;i<10;i++) scene.particles.item(1, "minecraft:slime_ball", [2.5,1,2.5]).motion([(Math.random()-0.5)/3, (Math.random())/3, (Math.random()-0.5)/3])
+                    scene.idle(25)
+                    scene.addKeyframe()
+                    scene.text(60, "Larger slimes will produce more mana.", [3,1.5,3]);
+                    scene.idle(20)
+                    const slimeBig = scene.world.createEntity("minecraft:slime", [2.5,1,2.5], b => {
+                        b.load("{Size: 3, Pos: [2.5d, 1d, 2.5d], Rotation: [135.0f, 0.0f]}")
+                    })
+                    scene.idle(30)
+                    scene.world.modifyEntity(slimeBig, (r) => { r.discard() });
+                    for(let i = 0;i<30;i++) scene.particles.item(1, "minecraft:slime_ball", [2.5,1,2.5]).motion([(Math.random()-0.5)/2, (Math.random())/2, (Math.random()-0.5)/2])
+                    scene.idle(25)
+                    scene.addKeyframe()
+                    scene.showControls(80, [3,2,3], "down").withItem(Item.of("botania:slime_bottle", "{active:1b}"));
+                    scene.text(80, "The slime must be naturally spawned. Use the slime in a bottle to find a suitable location.", [3,1.5,3]);
+                    scene.idle(75)
+                    scene.world.hideSection([3,1,3], Facing.up)
+                    scene.idle(15)
+                    scene.addKeyframe()
+                    spreaderLinking(scene, "narslimmus")
+                    scene.markAsFinished()
+                    })
+                    .scene("narslimmus_decay","Decaying Flowers", "kubejs:botania_7x7", (scene, util) => {
+                        scene.showBasePlate();
+                        floralEntropy(scene, "narslimmus", ["nyagibits_bytes:narslimmus_mush", "minecraft:slime_ball", "botania:rune_wrath"], "minecraft:slime_block")
+                        scene.markAsFinished()
+                    });                    
+
+
+            
         });
 
 
@@ -196,20 +463,24 @@ function floralEntropy(scene, flower, items, block){
     scene.addKeyframe()
     scene.text(15, "§c§kgibberishtextgobrrr\n§c§knoneedtotranslatethis\n§c§kitisjustforvisualflair", [3,1.5,3]).placeNearTarget();
     scene.world.setBlock([3,1,3], block, true);
+    var itemEntities = []
     items.forEach((item) => {
-        scene.world.createItemEntity([3.5, 1.5, 3.5], [(Math.random()-0.5)/3,(Math.random()/2),(Math.random()-0.5)/3], item)
+        itemEntities.push(scene.world.createItemEntity([3.5, 1.5, 3.5], [(Math.random()-0.5)/3,(Math.random()/2),(Math.random()-0.5)/3], item))
     })
     scene.idle(20)
     scene.text(65, "It will crumble into a pile of mush and some other items.", [3,1.5,3]).placeNearTarget();
     //Yeah, you can just do this to show an item without any controls. neat, huh
-    scene.showControls(55, [3.5,2,3.5], "down")
+    scene.showControls(100, [3.5,2,3.5], "down")
                     .withItem(items[0]);
     scene.idle(70) 
     //Ngl, the timings around these keep feeling off. Adjust as needed.
     scene.text(65, "A block can also get left behind where the flower once stood.", [3,1.5,3]).placeNearTarget();
     scene.idle(70)
-    scene.text(90, "You will need the mush for progression.\nBetter automate flower production!", [3,1.5,3]).placeNearTarget();
+    scene.text(70, "You will need the mush for progression.\nBetter automate flower production!", [3,1.5,3]).placeNearTarget();
     scene.idle(30)
+    itemEntities.forEach((item) => {
+        scene.world.modifyEntity(item, (r) => { r.discard() })
+    })
 }
 
 // This function can be called to generate the sequence explaining linking flowers to spreaders.
