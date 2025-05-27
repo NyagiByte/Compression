@@ -2348,6 +2348,11 @@
 		{"namespace": "projectred_transmission", "path": "recipes/black_framed_insulated_wire.json"},
 		{"namespace": "projectred_transmission", "path": "recipes/black_insulated_wire.json"},
 
+		{"namespace": "vintageimprovements", "path": "recipes/craft/sulfur_items_to_block.json"},
+		{"namespace": "vintageimprovements", "path": "recipes/craft/sulfur_item_to_nuggets.json"},
+		{"namespace": "vintageimprovements", "path": "recipes/craft/sulfur_nuggets_to_item.json"},
+		{"namespace": "vintageimprovements", "path": "recipes/craft/sulfur_block_to_items.json"},
+
 		{"namespace": "vintageimprovements", "path": "recipes/crushing/basalt_recycling.json"},
 		{"namespace": "vintageimprovements", "path": "recipes/crushing/basalt.json"},
 		{"namespace": "vintageimprovements", "path": "recipes/crushing/scoria_recycling.json"},
