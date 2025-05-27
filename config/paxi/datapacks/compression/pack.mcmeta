@@ -26,9 +26,14 @@
 
 		{"namespace": "mekanism", "path": "recipes/processing/lategame/polonium.json"},
 
-		{"namespace": "compressedcreativity", "path": "recipes/mixing/brass_gilded_lapis_lazuli.json"},
 		{"namespace": "compressedcreativity", "path": "recipes/crafting/mesh_empty.json"},
+		
+		{"namespace": "compressedcreativity", "path": "recipes/mixing/brass_gilded_lapis_lazuli.json"},
+		
+		{"namespace": "compressedcreativity", "path": "recipes/compacting/brass_coated_upgrade_matrix.json"},
+
 		{"namespace": "compressedcreativity", "path": "recipes/item_application/compressed_iron_casing_from_wood.json"},
+		{"namespace": "compressedcreativity", "path": "recipes/item_application/compressed_iron_casing_from_log.json"},
 		{"namespace": "compressedcreativity", "path": "recipes/item_application/compressed_iron_casing_from_log.json"},
 
 		{"namespace": "ironchests", "path": "recipes/diamond_dolly.json"},
@@ -58,6 +63,24 @@
 		{"namespace": "thermal", "path": "recipes/fire_charge/bronze_ingot_4.json"},
 		{"namespace": "thermal", "path": "recipes/fire_charge/invar_ingot_3.json"},
 		{"namespace": "thermal", "path": "recipes/fire_charge/constantan_ingot_2.json"},
+
+		{"namespace": "thermal", "path": "recipes/earth_charge/quartz_from_quartz_block.json"},
+		{"namespace": "thermal", "path": "recipes/earth_charge/prismarine_shard_from_prismarine.json"},
+		{"namespace": "thermal", "path": "recipes/earth_charge/prismarine_shard_from_prismarine_bricks.json"},
+		{"namespace": "thermal", "path": "recipes/earth_charge/apatite_dust_from_apatite.json"},
+		{"namespace": "thermal", "path": "recipes/earth_charge/cinnabar_dust_from_cinnabar.json"},
+		{"namespace": "thermal", "path": "recipes/earth_charge/sulfur_dust_from_sulfur.json"},
+		{"namespace": "thermal", "path": "recipes/earth_charge/ender_pearl_dust_from_ender_pearl.json"},
+		{"namespace": "thermal", "path": "recipes/earth_charge/lapis_dust_from_lapis.json"},
+		{"namespace": "thermal", "path": "recipes/earth_charge/diamond_dust_from_diamond.json"},
+		{"namespace": "thermal", "path": "recipes/earth_charge/emerald_dust_from_emerald.json"},
+		{"namespace": "thermal", "path": "recipes/earth_charge/quartz_dust_from_quartz.json"},
+
+		{"namespace": "thermal", "path": "recipes/ice_charge/obsidian_from_lava_bucket.json"},
+		{"namespace": "thermal", "path": "recipes/ice_charge/ice_from_water_bucket.json"},
+
+		{"namespace": "thermal", "path": "recipes/lightning_charge/witch_from_villager.json"},
+		{"namespace": "thermal", "path": "recipes/lightning_charge/zombified_piglin_from_pig.json"},
 
 		{"namespace": "thermal", "path": "recipes/smelting/slag_from_smelting.json"},
 
@@ -2386,6 +2409,9 @@
 		{"namespace": "pneumaticcraft", "path": "recipes/pneumatic_chestplate.json"},
 		{"namespace": "pneumaticcraft", "path": "recipes/pneumatic_leggings.json"},
 		{"namespace": "pneumaticcraft", "path": "recipes/pneumatic_boots.json"},
+
+		{"namespace": "pneumaticcraft", "path": "recipes/speed_upgrade_from_glycerol.json"},
+		{"namespace": "pneumaticcraft", "path": "recipes/scuba_upgrade.json"},
 
 		{"namespace": "pneumaticcraft", "path": "recipes/fluid_mixer_biodiesel.json"},
 
