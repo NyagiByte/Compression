@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shaped",
     "key": {
       "A": {"item":"immersiveengineering:hemp_fiber"},
-      "B": {"item":"minecraft:string"},
+      "B": {"tag":"forge:string_group"},
       "C": {"item":"minecraft:paper"},
       "D": {"item":"minecraft:leather"}
     },

@@ -21,6 +21,7 @@
 		{"namespace": "mekanism", "path": "recipes/rails.json"},
 		{"namespace": "mekanism", "path": "recipes/paper.json"},
 		{"namespace": "mekanism", "path": "recipes/dye_base.json"},
+		{"namespace": "mekanism", "path": "recipes/electric_bow.json"},
 
 		{"namespace": "mekanism", "path": "recipes/sawing/item_frame.json"},
 
@@ -1151,6 +1152,7 @@
 		{"namespace": "create", "path": "recipes/crushing/diamond_horse_armor.json"},
 		{"namespace": "create", "path": "recipes/crushing/amethyst_block.json"},
 		{"namespace": "create", "path": "recipes/crushing/amethyst_cluster.json"},
+		{"namespace": "create", "path": "recipes/crushing/wool.json"},
 
 		{"namespace": "create", "path": "recipes/compat/byg/crushing/blue_nether_quartz_ore.json"},
 		{"namespace": "create", "path": "recipes/compat/byg/crushing/brimstone_nether_quartz_ore.json"},
@@ -2220,6 +2222,7 @@
 		{"namespace": "abyssal_decor", "path": "recipes/ammonite_ore_smelting.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/bread_block.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/laventine_smelt.json"},
+		{"namespace": "abyssal_decor", "path": "recipes/scrimshaw_altar_recipe.json"},
 
 		{"namespace": "architects_palette", "path": "recipes/charcoal_from_charcoal_blocks.json"},
 
@@ -2428,9 +2431,12 @@
 		{"namespace": "supplementaries", "path": "recipes/crank.json"},
 		{"namespace": "supplementaries", "path": "recipes/faucet.json"},
 		{"namespace": "supplementaries", "path": "recipes/bed_from_feather_block.json"},
+		{"namespace": "supplementaries", "path": "recipes/spiky_bomb_2.json"},
 
 		{"namespace": "blockofsky", "path": "recipes/void_block.json"},
 		{"namespace": "blockofsky", "path": "recipes/sky_block.json"},
+
+		{"namespace": "yuushya", "path": "recipes/plain_gift_box.json"},
 
 		{"namespace": "supplementaries", "path": "recipes/candy.json"},
 		{"namespace": "supplementaries", "path": "recipes/pancake.json"},

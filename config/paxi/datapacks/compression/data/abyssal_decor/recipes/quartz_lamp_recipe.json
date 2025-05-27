@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"minecraft:glass_pane"},
+      "B": {"tag":"forge:string_group"},
+      "C": {"tag":"minecraft:coals"},
+      "D": {"item":"minecraft:gold_nugget"}
+    },
+    "pattern": [
+      "ABA",
+      "ACA",
+      "DDD"
+    ],
+    "result": {
+        "count": 4,
+        "item": "abyssal_decor:quartz_lamp_item"
+    }
+  }

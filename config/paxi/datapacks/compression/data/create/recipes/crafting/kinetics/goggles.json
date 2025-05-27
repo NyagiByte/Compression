@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"tag":"forge:string_group"},
+    "B": {"tag":"forge:glass"},
+    "C": {"item":"chemlib:gold_plate"}
+  },
+  "pattern": [
+    " A ",
+    "BCB"
+  ],
+  "result": {
+    "count": 1, 
+    "item": "create:goggles"
+}
+}

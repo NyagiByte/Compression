@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"book",
+  "key": {
+    "A": {"tag":"forge:string_group"},
+    "B": {"tag":"minecraft:planks"}
+  },
+  "pattern": [
+    "AA",
+    "BB"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:loom"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"chemlib:lead_ingot"},
+      "B": {"tag":"forge:string_group"},
+      "C": {"item":"minecraft:tnt"}
+    },
+    "pattern": [
+      " AB",
+      "ACA",
+      " A "
+    ],
+    "result": {
+      "count": 4,
+      "item": "supplementaries:bomb_spiky"
+    }
+  }

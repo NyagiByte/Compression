@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"book",
+  "key": {
+    "A": {"tag":"forge:rods/wooden"},
+    "B": {"tag":"forge:string_group"}
+  },
+  "pattern": [
+    "  A",
+    " AB",
+    "A B"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:fishing_rod"
+  }
+}
