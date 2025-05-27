@@ -1033,6 +1033,74 @@ file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/basiccard.j
 hash = "9c92f1ed936f636fcb827560e0cd5675112224b96a03a433eac3efaac50272ce"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/cardcapacity.json"
+hash = "ea5f22f3244c5c92d687ad1dbc34f64ea1ac48a02b1c17027153f04dc93f132e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/cardcapacity_t1.json"
+hash = "91097f73f12ea99a8ecc8a4e61d71afd6e80d5fe031274d49319011ba265117f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/cardcrafting.json"
+hash = "58f712d89e4cbfa3ea11915210114429528e4b83988405fdb1d7d35526b0d219"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/carddistribution.json"
+hash = "70478ce6932a594768d4077263ccca127d943be168a19884e944faf6bdc31955"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/carddistribution_t1.json"
+hash = "483f5becf90dd5f0ee719b36c0f9d5fd565c34e28bd0b467d1e9b901b7fc1b3d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/cardenergy.json"
+hash = "57edea2e388fca2ea7e56b1bb84c9c551568d098cfa7aa187ff1d4caac2569ca"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/cardenergy_t1.json"
+hash = "97941aeec2fee8413c78691d415047cef0c64df16d7697c583f5988efff472de"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/cardfuzzy.json"
+hash = "9239f1097c7c23c4f815327e1eddf135b9a9b83ddb3e51211cac70a890874b80"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/cardfuzzy_t1.json"
+hash = "ffa28ef7575c459edcf8207b31ef607ab97fc8f87a5bb0b033853f3e470d0b0b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/cardinverter.json"
+hash = "c88c11280ee9cba3d35d060f7f6bb3641a79f517469116dbb2370be26a34ab9f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/cardinverter_t1.json"
+hash = "aac68ac4cf7b232c5dcd439d08b1da36991e0ec5cb66eba1b0204397d3e794a1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/cardredstone.json"
+hash = "f97902260d3d5e1f89b821dad781f5c7cea2c8934615010c4686690c2463ead0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/cardredstone_t1.json"
+hash = "14f5636b70460f7c91d044c0e0b3d0631d192608c0e50215bed067b9bfceb84a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/cardspeed.json"
+hash = "e2c1f098b0fa574f745e6a39fa84f972d0030fca595e7b7c1e4d243865e6a0d4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/cardspeed_t1.json"
+hash = "e7724cb2cdb0c032c6b7d91da5ffd912c86c90ea2c60e92b629c530340f2f4e2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/cardvoid.json"
+hash = "6266d314d5a37b902a6166358a9b9f1907ac2fc3189f44b07a869e93a0c63579"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/materials/cardvoid_t1.json"
+hash = "fa7db3993d819104e0c985593f28fc3fd46ca264e81522e23f749fcaf6e2f50f"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/misc/silicon_cutting_crude.json"
 hash = "10ff3e9372c132afa4036984aa51994b90b13be5cc50cfb9afe08de516de1581"
 
@@ -10897,8 +10965,16 @@ file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/assembly/f
 hash = "f3b98ed5e911d936464e25eee41fc68514b3a8f942b86b733457d3eff29c332d"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/dispenser_upgrade.json"
+hash = "1763bec6fbc91505c760a268a212cc4d83a605967c3ba11af90acf9b79a391b3"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/drill_pipe.json"
 hash = "fb84726a5d0b904c5339c40f098272b0137a37c7a42cd4a96e5a77a00fd4980f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/entity_tracker_upgrade.json"
+hash = "8001492055c45c62d8a2b2f31fd6f4778f2c69cf0dc5c07c7dfb102eea5febe8"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/explosion_crafting/chromatic_compound.json"
@@ -10913,8 +10989,20 @@ file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/heat_sink.
 hash = "0d9b86f64f5768f49a28937f03a35dbef87a98d46c2679dc28a2e068c46e4bcf"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/speed_upgrade.json"
+hash = "ac5fa5c1fa8a014c416074d96489ac0cf7bcae27277cae5fadbc7a1887c2eb21"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/speed_upgrade_t1.json"
+hash = "c960badaa1d2af6e50231f3f3a037af471ee6ca9215f251dca6215a39aef9303"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/thermo_plant/fossil_dissolving.json"
 hash = "c529e3d16051c7b0090d68244d572436e7ac3237bcbb75111ca4a909e57f0bb1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/thermo_plant/upgrade_matrix.json"
+hash = "0f841a8fb189ee94787fa20e9f3311d8f298cd6cb59f6b0ec0ef85cf0d63156b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/thermo_plant/yeast_culture.json"
@@ -14170,7 +14258,7 @@ hash = "c2b883496a6eca188047e44b8467113962fe03221e93c3e0e9ffeeaf0ff94c0e"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "aaaff5931605124774ed257a11ae2c6d4511bf8266be96092b252505789529c8"
+hash = "468729508010ad12c9a35eac030d452904ef00571b89307b47d4f74bd213634d"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
