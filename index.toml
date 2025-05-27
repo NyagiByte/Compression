@@ -5717,6 +5717,10 @@ file = "config/paxi/datapacks/compression/data/forge/tags/items/sawdust.json"
 hash = "4530467df119c134b0b2f86dc564733b8acfb98d77c93b38603ef876c1a36d39"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/seeds.json"
+hash = "e1854e47707041cdad63cdf49d9665e01a11d2985d2dea3f55130d1cc99d0a4a"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/slag.json"
 hash = "6e72d5b6a7d8ae5fb20b2e990275dc070fd880d1e23f107dce7574c9d1a59a72"
 
@@ -6371,6 +6375,10 @@ hash = "b6617a3b68e8ff7a787bf4ca2619a238a7e7fa00ae7db22200e632c0a98eba0e"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/toolupgrade_drill_waterproof.json"
 hash = "2dd871efcb6478cc1112d35c5a28750ac220bcb2c7f84363e2b347320e7a9b8a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/toolupgrade_powerpack_antenna.json"
+hash = "e39e389b723afa2494fbb4822c06967fb21df0141537f32f3eb83ae269786c80"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/transformer.json"
@@ -8131,6 +8139,10 @@ hash = "c4e8517ea057dd341c04bfbe08ea0e1831884ee12765e96e6a170baa02c69cf6"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/saw_cutting/bad_iron_rod.json"
 hash = "acba8352afec32ceaa4a742bd48e1b68a9dba08ae78cc6c875d243f708c402c6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/saw_cutting/bad_silver_rod.json"
+hash = "1fe8f586d823eda6ff895cb51b02b93fb901fd8f7b0cf3b750ebfce2643d1b7a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/saw_cutting/paper_block_paper.json"
@@ -11509,6 +11521,10 @@ file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/r
 hash = "84dd8972f64a9779f2375117884163a0ae826f042cd2d6448db724dd27e1d60a"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/red_alloy_wire_bad.json"
+hash = "ed8f3c580b7d7fc6cfdf511b833f588c8121ac82c81c13e51644d1b590e4d462"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/projectred_transmission/recipes/red_bundled_wire_re_color.json"
 hash = "8d3bdc7de0119ce26fc8bd4d3e30f1c986b6e32d5146ce2490bf585cbd8eaf7a"
 
@@ -11627,6 +11643,62 @@ hash = "5df2fb8e07306275af61ceed4027e28b01b658a5e76431c5cf199e17d13bc515"
 [[files]]
 file = "config/paxi/datapacks/compression/data/railways/recipes/crafting/track_switch_brass_t1.json"
 hash = "8d9bb68bb7a02add4cd8b2543d1747f43bde96ed44332c5dc3d2b77495887f39"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/black_conductor_cap.json"
+hash = "ba2fbf187f955a65bb708b710e57039ed9bb800cbf23f6604c2163cd8f91b8fc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/blue_conductor_cap.json"
+hash = "30d156de6819af6fa36b3f1be697e90459556ef5bfa5774cdcd79ed6781d65d0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/brown_conductor_cap.json"
+hash = "58951ec73f1245124f3768a1d46a8309e9f8a9adedafe5b1430c181a88fb821a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/cyan_conductor_cap.json"
+hash = "d25d38347925a14b6a6d2f10170e4ad91a120166f518d82171bb78ffbfb9764d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/gray_conductor_cap.json"
+hash = "97752a624cafb822f8defbe5456d3cfd56f68b85ccdcaa455a0e250a51845556"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/green_conductor_cap.json"
+hash = "38897c2906fa5fec7a4a4ea3c49ba31de4d428d72f4b21981fde6fb485cd6321"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/light_blue_conductor_cap.json"
+hash = "eb6604a9163bf3b3dbe6914490a7200175339a4a4b73104bfb4aa1899713051f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/light_gray_conductor_cap.json"
+hash = "5cf3f52fa76c4ccc7836fbfa1e5523a8bd01370901b8ba04be6dfd4addffbc4d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/lime_conductor_cap.json"
+hash = "05d067925c591705ea56d5cf4f58359b9f01848ea2f71545e7ff6a400a8156cd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/magenta_conductor_cap.json"
+hash = "e6e8d4ed6be9cbe26a123d4a8492b81223fb1dabeb4112d56de313a2c1ac00f4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/orange_conductor_cap.json"
+hash = "2981586b88a0d02daa328eacd76fe3756288f54ed14ea50ec7333c7f40e125aa"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/pink_conductor_cap.json"
+hash = "e327e59ba42250c154e47158fb04a40c9db874b4bab593fd6fb19ac006fcb62a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/purple_conductor_cap.json"
+hash = "0c24cef9ff3ec18595330fe1b9247cf39f6359151ca4604342e209404d993609"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/red_conductor_cap.json"
+hash = "b66361d18d8ad840f964d0ce206a87bc47682d72866e70e43c1edabd3462b3fa"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_acacia.json"
@@ -12687,6 +12759,14 @@ hash = "38f0bb8dc928af9f321ad7a96f53eb1ea04ccc678e441c31f50c1847ffb88d9c"
 [[files]]
 file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/track_warped_wide_undo.json"
 hash = "a2e730d53379c3166a4f29166985f834b0fce0ac056447b1c5d3eb3b5698c41d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/white_conductor_cap.json"
+hash = "5f0ae6ba896a60eeff65b98c9cee28a70f2aade01306b99f003fc78f2c2d4e05"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/yellow_conductor_cap.json"
+hash = "128f030a67335817ed0e5d584727c8186beca56e88d64754c709e6c5a590df6d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/advanced_compacting_upgrade.json"
