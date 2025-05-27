@@ -74,56 +74,19 @@ Ponder.registry((e) => {
                 scene.overlay.showOutline(PonderPalette.WHITE, "airgap", [3,1,3], 60);
                 scene.text(60, "This is a Pure Daisy it is a Functional Flower that changes blocks or fluids placed around it", [3,1.5,3]);
                 scene.idle(70);
-                scene.world.setBlock([2,1,2], "minecraft:smooth_stone",true);
-                scene.world.showSection([2,1,2], Facing.down);
-                scene.idle(5);
-                scene.world.setBlock([3,1,2], "minecraft:smooth_stone",true);
-                scene.world.showSection([3,1,2], Facing.down);
-                scene.idle(5);
-                scene.world.setBlock([4,1,2], "minecraft:smooth_stone",true);
-                scene.world.showSection([4,1,2], Facing.down);
-                scene.idle(5);
-                scene.world.setBlock([4,1,3], "minecraft:smooth_stone",true);
-                scene.world.showSection([4,1,3], Facing.down);
-                scene.idle(5);
-                scene.world.setBlock([4,1,4], "minecraft:smooth_stone",true);
-                scene.world.showSection([4,1,4], Facing.down);
-                scene.idle(5);
-                scene.world.setBlock([3,1,4], "minecraft:smooth_stone",true);
-                scene.world.showSection([3,1,4], Facing.down);
-                scene.idle(5);
-                scene.world.setBlock([2,1,4], "minecraft:smooth_stone",true);
-                scene.world.showSection([2,1,4], Facing.down);
-                scene.idle(5);
-                scene.world.setBlock([2,1,3], "minecraft:smooth_stone",true);
-                scene.world.showSection([2,1,3], Facing.down);
-                scene.idle(5);
+                var positions = [[2,1,2], [3,1,2], [4,1,2], [4,1,3], [4,1,4], [3,1,4], [2,1,4], [2,1,3]];
+                positions.forEach((pos) => {
+                    scene.world.setBlock(pos, "minecraft:smooth_stone",true);
+                    scene.world.showSection(pos, Facing.down);
+                    scene.idle(5);
+                });
                 scene.text(60, "Now we wait for a short period of time and the smooth stone should be changed into livingrock", [3,1.5,3]);
                 scene.idle(70);
-                scene.particles.block(5, "botania:livingrock", [2.5,1.5,2.5]).density(5);
-                scene.world.modifyBlock([2,1,2], () => Block.id("botania:livingrock"), true);
-                scene.idle(5);
-                scene.particles.block(5, "botania:livingrock", [3.5,1.5,2.5]).density(5);
-                scene.world.modifyBlock([3,1,2], () => Block.id("botania:livingrock"), true);
-                scene.idle(5);
-                scene.particles.block(5, "botania:livingrock", [4.5,1.5,2.5]).density(5);
-                scene.world.modifyBlock([4,1,2], () => Block.id("botania:livingrock"), true);
-                scene.idle(5);
-                scene.particles.block(5, "botania:livingrock", [4.5,1.5,3.5]).density(5);
-                scene.world.modifyBlock([4,1,3], () => Block.id("botania:livingrock"), true);
-                scene.idle(5);
-                scene.particles.block(5, "botania:livingrock", [4.5,1.5,4.5]).density(5);
-                scene.world.modifyBlock([4,1,4], () => Block.id("botania:livingrock"), true);
-                scene.idle(5);
-                scene.particles.block(5, "botania:livingrock", [3.5,1.5,4.5]).density(5);
-                scene.world.modifyBlock([3,1,4], () => Block.id("botania:livingrock"), true);
-                scene.idle(5);
-                scene.particles.block(5, "botania:livingrock", [2.5,1.5,4.5]).density(5);
-                scene.world.modifyBlock([2,1,4], () => Block.id("botania:livingrock"), true);
-                scene.idle(5);
-                scene.particles.block(5, "botania:livingrock", [2.5,1.5,3.5]).density(5);
-                scene.world.modifyBlock([2,1,3], () => Block.id("botania:livingrock"), true);
-                scene.idle(5);
+                positions.forEach((pos) => {
+                    scene.particles.block(5, "botania:livingrock", [pos[0]+0.5, pos[1]+0.5, pos[2]+0.5]).density(5);
+                    scene.world.modifyBlock(pos, () => Block.id("botania:livingrock"), true);
+                    scene.idle(5);
+                });
                 scene.markAsFinished()
             });
     //Endoflame
@@ -397,9 +360,9 @@ Ponder.registry((e) => {
 
 
 
-                //Munchdew
+            //Narslimmus
 
-                e.create("botania:narslimmus")
+            e.create("botania:narslimmus")
                 .scene("narslimmus", "Generating Mana", "kubejs:botania_7x7", (scene, util) => {
                     scene.showBasePlate();
                     scene.idle(10);
@@ -444,6 +407,52 @@ Ponder.registry((e) => {
                         scene.markAsFinished()
                     });                    
 
+
+            //Hydroangeas
+
+            e.create("botania:hydroangeas")
+                .scene("hydroangeas", "Generating Mana", "kubejs:botania_7x7", (scene, util) => {
+                    scene.showBasePlate();
+                    scene.idle(10);
+                    scene.world.setBlock([3,1,3], "botania:hydroangeas", false);
+                    scene.world.showSection([3,1,3], Facing.down);
+                    scene.idle(20);
+                    scene.text(50, "This is a Hydroangeas, one of the many mana generating flowers", [3,1.5,3]);
+                    scene.idle(55);
+                    scene.addKeyframe()
+                    var positions = [[2,1,3], [2,1,3], [4,1,3], [3,1,4], [2,1,1], [4,1,1], [2,1,5], [4,1,5], [1,1,2], [1,1,4], [5,1,2], [5,1,4]]
+                    positions.forEach((pos) => {
+                        scene.world.setBlock(pos, "minecraft:cobblestone",true);
+                        scene.world.showSection(pos, Facing.down);
+                        scene.idle(2);
+                    });
+                    var water = [[2,1,2], [2,1,4], [4,1,2], [4,1,4]]
+                    water.forEach((pos) => {
+                        scene.world.setBlock(pos, "minecraft:water",true);
+                        scene.world.showSection(pos, Facing.down);
+                        scene.idle(2);
+                    });
+                    scene.text(70, "It generates small amounts of mana by absorbing source water blocks around it.", [3,1.5,3]);
+                    scene.idle(75)
+                    water.forEach((pos) => {
+                        scene.world.setBlock(pos, "minecraft:air",true);
+                        scene.idle(15);
+                    });
+                    scene.idle(10)
+                    scene.text(70, "Rainy weather can speed up the production rate, but it is still meager.", [3,1.5,3]);
+                    scene.idle(75)
+                    scene.addKeyframe()
+                    spreaderLinking(scene, "hydroangeas")
+                    scene.markAsFinished()
+                    })
+                    .scene("hydroangeas_decay","Decaying Flowers", "kubejs:botania_7x7", (scene, util) => {
+                        scene.showBasePlate();
+                        floralEntropy(scene, "hydroangeas", ["nyagibits_bytes:hydroangeas_mush", "minecraft:pufferfish", "minecraft:seagrass"], "minecraft:tube_coral_block")
+                        scene.idle(45)
+                        scene.text(70, "Note: The normal 3-day decay timer of the hydroangeas is disabled here.", [3,1.5,3]);
+                        scene.idle(75)
+                        scene.markAsFinished()
+                    });                          
 
             
         });
