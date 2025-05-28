@@ -1,6 +1,7 @@
 //Forgive me, for i am about to sin.
 const WispParticleData = Java.loadClass("vazkii.botania.client.fx.WispParticleData")
 const ParticleTypes = Java.loadClass("net.minecraft.core.particles.ParticleTypes")
+const Minecraft = Java.loadClass("net.minecraft.client.Minecraft")
 
 Ponder.tags((e) => {e.createTag("compression:botania", "botania:lexicon", "Botania", "For all your floral needs", ["#forge:petal_apothecary", "botania:pure_daisy", "botania:endoflame", "botania:entropinnyum", "botania:munchdew", "botania:gourmaryllis", "botania:narslimmus"])})
 //------------------------------------------------------------------
@@ -420,27 +421,35 @@ Ponder.registry((e) => {
                     scene.text(50, "This is a Hydroangeas, one of the many mana generating flowers", [3,1.5,3]);
                     scene.idle(55);
                     scene.addKeyframe()
-                    var positions = [[2,1,3], [2,1,3], [4,1,3], [3,1,4], [2,1,1], [4,1,1], [2,1,5], [4,1,5], [1,1,2], [1,1,4], [5,1,2], [5,1,4]]
+                    var positions = [[2,1,3], [3,1,2], [4,1,3], [3,1,4], [2,1,1], [4,1,1], [2,1,5], [4,1,5], [1,1,2], [1,1,4], [5,1,2], [5,1,4]]
                     positions.forEach((pos) => {
                         scene.world.setBlock(pos, "minecraft:cobblestone",true);
                         scene.world.showSection(pos, Facing.down);
                         scene.idle(2);
                     });
                     var water = [[2,1,2], [2,1,4], [4,1,2], [4,1,4]]
+                    water.forEach((pos) => scene.world.showSection(pos, Facing.down));
+                    scene.idle(10)
                     water.forEach((pos) => {
                         scene.world.setBlock(pos, "minecraft:water",true);
-                        scene.world.showSection(pos, Facing.down);
+                        scene.particles.simple(5, "splash", [pos[0]+0.5, pos[1]+1, pos[2]+0.5]).density(2);
                         scene.idle(2);
                     });
                     scene.text(70, "It generates small amounts of mana by absorbing source water blocks around it.", [3,1.5,3]);
                     scene.idle(75)
                     water.forEach((pos) => {
                         scene.world.setBlock(pos, "minecraft:air",true);
+                        scene.particles.simple(15, "splash", [pos[0]+0.5, pos[1]+1, pos[2]+0.5]).density(3);
                         scene.idle(15);
                     });
                     scene.idle(10)
                     scene.text(70, "Rainy weather can speed up the production rate, but it is still meager.", [3,1.5,3]);
                     scene.idle(75)
+                    scene.world.hideSection(util.select.layer(1), Facing.up);
+                    scene.idle(15)
+                    positions.forEach((pos) => {
+                        scene.world.setBlock(pos, "minecraft:air",false);
+                    });
                     scene.addKeyframe()
                     spreaderLinking(scene, "hydroangeas")
                     scene.markAsFinished()
@@ -449,13 +458,192 @@ Ponder.registry((e) => {
                         scene.showBasePlate();
                         floralEntropy(scene, "hydroangeas", ["nyagibits_bytes:hydroangeas_mush", "minecraft:pufferfish", "minecraft:seagrass"], "minecraft:tube_coral_block")
                         scene.idle(45)
-                        scene.text(70, "Note: The normal 3-day decay timer of the hydroangeas is disabled here.", [3,1.5,3]);
+                        scene.text(70, "Note: The normal 3-day decay timer of the hydroangeas is disabled here.", [3,1.5,3]).placeNearTarget();
                         scene.idle(75)
                         scene.markAsFinished()
-                    });                          
+                    });                       
+                    
+                    
+        //Thermalily
+
+        e.create("botania:thermalily")
+            .scene("thermalily", "Generating Mana", "kubejs:botania_7x7", (scene, util) => {
+                    scene.showBasePlate();
+                    scene.idle(10);
+                    scene.world.setBlock([3,1,3], "botania:thermalily", false);
+                    scene.world.showSection([3,1,3], Facing.down);
+                    scene.idle(20);
+                    scene.text(50, "This is a Thermalily, one of the many mana generating flowers", [3,1.5,3]);
+                    scene.idle(55);
+                    scene.addKeyframe()
+                    scene.world.showSection([2,1,3], Facing.down)
+                    scene.idle(10)
+                    scene.world.setBlock([2,1,3], "minecraft:lava", false)
+                    scene.particles.block(1, "minecraft:lava", [2.5, 2, 3.5]).density(5);
+                    scene.idle(10)
+                    scene.text(70, "It generates a lot of mana by absorbing nearby lava source blocks.", [3,1.5,3]);
+                    scene.idle(15)
+                    scene.world.setBlock([2,1,3], "minecraft:air", true)
+                    scene.particles.block(10, "minecraft:lava", [2.5, 1.5, 3.5]).density(3);
+                    
+                    thermalilyParticles(scene, 60, false)
+
+                    scene.text(70, "After absorbing lava, it will generate mana for about 45 seconds.", [3,1.5,3]);
+                    thermalilyParticles(scene, 70, false)
+                    scene.idle(20)
+                    scene.addKeyframe()
+                    scene.text(70, "When it stops generating mana, it will enter a cooldown period.", [3,1.5,3]);
+                    thermalilyParticles(scene, 80, true)
+
+                    scene.world.hideSection([2,1,3], Facing.up)
+
+                    scene.text(70, "The cooldown can vary from 20 seconds to 5 whole minutes", [3,1.5,3]);
+                    thermalilyParticles(scene, 80, true)
+                    scene.idle(10)
+                    scene.addKeyframe()
+                    scene.text(70, "The cooldown can be read with a comparator.", [2.5,1.5,3]);
+                    scene.world.setBlock([2,1,3], "minecraft:comparator", false)
+                    scene.world.modifyBlock([2,1,3], (cmp) => cmp.with("facing", "east"), false)
+                    scene.world.showSection([2,1,3], Facing.down)
+                    scene.idle(5)
+                    scene.world.setBlock([1,1,3], "create:nixie_tube", false)
+                    scene.world.modifyBlock([1,1,3], (nix) => nix.with("facing", "west"), false)
+                    scene.world.showSection([1,1,3], Facing.down)
+                    scene.idle(75)
+                    scene.text(70, "The comparator output is off only while generating mana", [2.5,1.5,3]);
+                    thermalilyParticles(scene, 80, false)
+                    scene.text(70, "When the cooldown starts, the comparator outputs a signal based on the length", [2.5,1.5,3]);
+                    scene.world.modifyBlock([2,1,3], (cmp) => cmp.with("powered", true), false)
+                    scene.world.modifyBlockEntityNBT([1,1,3], false, (nbt) => nbt.RedstoneStrength = 4 )
+                    thermalilyParticles(scene, 80, true)
+                    scene.text(70, "The signal strength grows by 1 for every 20 seconds of cooldown", [2.5,1.5,3]);
+                    scene.world.modifyBlock([2,1,3], (cmp) => cmp.with("powered", true), false)
+                    scene.world.modifyBlockEntityNBT([1,1,3], false, (nbt) => nbt.RedstoneStrength = 12 )
+                    thermalilyParticles(scene, 80, true)
+                    scene.text(90, "The comparator signal does NOT tick down. It is up to the player to figure out how to use this value to delay the next lava block.", [2.5,1.5,3]);
+                    scene.idle(100)
+                    scene.world.hideSection([2,1,3, 1,1,3], Facing.up)
+                    scene.idle(20)
+                    scene.world.setBlocks([2,1,3, 1,1,3], "minecraft:air", false)
+                    scene.addKeyframe()
+                    scene.text(70, "The thermalily can only absorb one block of lava at a time.", [3,1.5,3]);
+                    scene.idle(75)
+                    scene.world.setBlock([2,1,3], "minecraft:lava", false)
+                    //For some reason, it plays the showsection animation anyway. So we're just adding it.
+                    scene.world.showSection([2,1,3], Facing.down)
+                    scene.particles.block(1, "minecraft:lava", [2.5, 2, 3.5]).density(5);
+                    scene.text(70, "If you try to place more lava while it's generating or on cooldown...", [2.5,1.5,3]);
+                    var positions = [[3,1,3], [1,1,3], [2,1,2], [2,1,4]]
+                    scene.world.showSection([2,1,2, 1,1,4], Facing.down)
+                    scene.idle(40)
+                    positions.forEach((pos) => {
+                        scene.world.setBlock(pos, "minecraft:lava", true)
+                        scene.world.modifyBlock(pos, (lava) => lava.with("level", "1"), false)
+                    })
+                    scene.idle(40)
+                    scene.world.hideSection(util.select.layer(1), Facing.up);
+                    scene.idle(20)
+                    
+                    scene.addKeyframe()
+                    spreaderLinking(scene, "thermalily")
+                    scene.markAsFinished()
+                    })
+                    .scene("thermalily_decay","Decaying Flowers", "kubejs:botania_7x7", (scene, util) => {
+                        scene.showBasePlate();
+                        floralEntropy(scene, "thermalily", ["nyagibits_bytes:thermalily_mush", "nyagibits_bytes:raw_volcanic_sulfur", "botania:rune_fire"], "minecraft:obsidian")
+                        scene.markAsFinished()
+                    });    
+
+            //Rosa Arcana
+
+            e.create("botania:rosa_arcana")
+                .scene("rosa_arcana", "Generating Mana", "kubejs:botania_7x7", (scene, util) => {
+                    scene.showBasePlate();
+                    scene.idle(10);
+                    scene.world.setBlock([3,1,3], "botania:rosa_arcana", false);
+                    scene.world.showSection([3,1,3], Facing.down);
+                    scene.idle(20);
+                    scene.text(50, "This is a Rosa Arcana, one of the many mana generating flowers", [3,1.5,3]);
+                    scene.idle(55);
+                    scene.addKeyframe()
+                    scene.text(70, "It generates mana from experience. It will drain XP from players standing next to it.", [3,1.5,3]);
+                    scene.showControls(70, [3.5,2,3.5], "down")
+                        .withItem("minecraft:player_head");
+                    scene.idle(80)
+                    scene.text(70, "It will also absorb any experience orb within one block of itself.", [3,1.5,3]);
+                    scene.showControls(70, [3.5,2,3.5], "down")
+                        .withItem("minecraft:experience_bottle");
+                    scene.idle(80)
+                    scene.addKeyframe()
+                    scene.text(120, "Enchanted items dropped near it will have the enchantments stripped from them and turned into xp orbs, like with a grindstone. Does not affect curses.", [3,1.5,3]);
+                    var items = ["immersiveengineering:armor_faraday_chest", "aiotbotania:livingrock_aiot", "minecraft:elytra", "immersiveengineering:survey_tools"]
+                    var enchanted = scene.world.createItemEntity([2.5, 3, 2.5], [0, 0.2, 0], "minecraft:enchanted_book");
+                        scene.idle(15)
+                        scene.world.modifyEntity(enchanted, (e => e.discard()))
+                        var unenchanted = scene.world.createItemEntity([2.5, 1, 2.5], [0, 0.2, 0], "minecraft:book");
+                        scene.idle(10)
+                        scene.world.modifyEntity(unenchanted, (e => e.discard()))
+                    items.forEach((item) => {
+                        var enchanted = scene.world.createItemEntity([2.5, 3, 2.5], [0, 0.2, 0], Item.of(item).enchant("mending", 1));
+                        scene.idle(15)
+                        scene.world.modifyEntity(enchanted, (e => e.discard()))
+                        var unenchanted = scene.world.createItemEntity([2.5, 1, 2.5], [0, 0.2, 0], item);
+                        scene.idle(10)
+                        scene.world.modifyEntity(unenchanted, (e => e.discard()))
+                    })
+                    scene.idle(10)
+                    scene.world.hideSection([3,1,3], Facing.up)
+                    scene.idle(15)
+                    scene.addKeyframe()
+                    spreaderLinking(scene, "rosa_arcana")
+                    scene.markAsFinished()
+                    })
+                    .scene("rosa_arcana_decay","Decaying Flowers", "kubejs:botania_7x7", (scene, util) => {
+                        scene.showBasePlate();
+                        floralEntropy(scene, "rosa_arcana", ["nyagibits_bytes:rosa_arcana_mush", "minecraft:experience_bottle", "minecraft:glass_bottle"], "botania:enchanter")
+                        scene.idle(45)
+                        scene.addKeyframe()
+                        scene.idle(15)
+                        scene.text(80, "If the enchanter block appears outside of a valid structure, you have one tick of time...", [3,1.5,3]).placeNearTarget();
+                        scene.idle(45)
+                        //TODO: again, ugly ass hack to access the level directly!
+                        const burst = scene.world.createEntity("botania:mana_burst", [0,0,0])
+                        for(let i = 0;i<100;i++){
+                            scene.world.modifyEntity(burst, (b) => {
+                                b.getLevel().addParticle(WispParticleData.wisp(Math.random()/4,Math.random(),Math.random(),Math.random(),true),
+                                3.5 + (Math.random() * 0.2 - 0.1), 1.9 + (Math.random() * 0.2 - 0.1), 3.5 + (Math.random() * 0.2 - 0.1),
+                                Math.random()/5-0.1, Math.random()/5-0.1, Math.random()/5-0.1)
+                            })
+                        }
+                        scene.world.setBlock([3,1,3], "minecraft:lapis_block", true)
+                        scene.idle(40)
+                        scene.markAsFinished()
+                    }); 
+
 
             
         });
+
+//This is to condense the repeated blocks of particle spawning for the thermalily.
+//Cooldown is a boolean. False makes the burn particles, true makes the cooldown "smoke"
+function thermalilyParticles(scene, time, cooldown){
+    //TODO: This is jank. figure out how to access the level object without spawning in an entity.
+    var burst = scene.world.createEntity("botania:mana_burst", [0,0,0])
+    var r = cooldown ? 0.1 : 0.7;
+    var gb = cooldown ? 0.1 : 0.05;
+
+    for(let i = 0; i<time; i++){
+        scene.world.modifyEntity(burst, (b) => {
+            b.getLevel().addParticle(WispParticleData.wisp(Math.random()/2,r,gb,gb,false),
+            3.25 + (Math.random() * 0.2 - 0.1), 1.9 + (Math.random() * 0.2 - 0.1), 3.5 + (Math.random() * 0.2 - 0.1),
+            0, Math.random()/40, 0)
+        })
+        scene.idle(1)
+    }
+
+    scene.world.modifyEntity(burst, (b) => {b.discard()})
+
+}
 
 
 //This function sets up a scene that illustrates the floral entropy mechanic
