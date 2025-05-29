@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"book",
+  "key": {
+    "A": {"tag":"forge:string_group"}
+  },
+  "pattern": [
+    "AA ",
+    "AA ",
+    "  A"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:lead"
+  }
+}

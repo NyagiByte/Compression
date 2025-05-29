@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"vintageimprovements:silver_rod"},
+      "B": {"item":"nyagibits_bytes:ceramic_encased_copper"},
+      "C": {"item":"quark:iron_plate_slab"}
+    },
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "result": {
+        "item": "immersiveengineering:toolupgrade_powerpack_antenna"
+    }
+  }

@@ -390,6 +390,14 @@ JEIEvents.hideItems(event => {
     'nuclearcraft:gold_dust',
     'mekanism:dust_steel',
     'nuclearcraft:charcoal_dust',
+    'nuclearcraft:sulfur_dust',
+    'thermal:sulfur_dust',
+    'immersiveengineering:dust_sulfur',
+    'mekanism:dust_sulfur',
+    //Gems
+    'vintageimprovements:sulfur_block',
+    'vintageimprovements:sulfur',
+    'vintageimprovements:sulfur_chunk',
     //Ae2
     'ae2:certus_quartz_pickaxe',
     'ae2:certus_quartz_axe',

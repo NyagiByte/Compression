@@ -1,0 +1,16 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "immersiveengineering:sheetmetal_silver"
+      }
+    ],
+    "processingTime": 10,
+    "results": [
+      {
+        "chance": 0.25,
+        "count": 1,
+        "item": "vintageimprovements:silver_rod"
+      }
+    ]
+  }

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "ae2:basic_card"
+        },
+        {
+            "item": "create:andesite_tunnel"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "item": "ae2:equal_distribution_card"
+    }
+}

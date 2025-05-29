@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"book",
+  "key": {
+    "A": {"tag":"forge:string_group"},
+    "B": {"item":"minecraft:leather"},
+    "C": {"item":"nyagibits_bytes:mixed_seeds"}
+  },
+  "pattern": [
+    "A",
+    "C",
+    "B"
+  ],
+  "result": {
+    "count": 1,
+    "item": "quark:seed_pouch"
+  }
+}

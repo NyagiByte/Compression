@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"tag":"forge:rods/wooden"},
+      "B": {"tag":"forge:string_group"}
+    },
+    "pattern": [
+      "ABA",
+      "ABA",
+      "A A"
+    ],
+    "result": {
+        "count": 6,
+        "item": "abyssal_decor:rope_barrier_base"
+    }
+  }

@@ -2,7 +2,7 @@
   "type": "create:mechanical_crafting",
   "acceptMirrored": true,
   "key": {
-    "A": {"item": "minecraft:string"},
+    "A": {"tag": "forge:string_group"},
     "B": {"item": "minecraft:gunpowder"},
     "C": {"item": "nyagibits_bytes:sample_trinitrotoluene"}
   },

@@ -1,0 +1,59 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "minecraft:lapis_block"},
+    "loops": 1,
+    "results": [
+      {
+        "count": 1,
+        "item": "pneumaticcraft:upgrade_matrix"
+    }
+    ],
+    "sequence": [
+        {
+            "type": "create:filling",
+            "ingredients": [
+              {
+                "item": "minecraft:lapis_block"
+              },
+              {
+                "amount": 500,
+                "fluid": "minecraft:water",
+                "nbt": {}
+              }
+            ],
+            "results": [
+              {
+                "item": "minecraft:lapis_block"
+              }
+            ]
+          },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "minecraft:lapis_block"
+          }
+        ],
+        "processingTime": 50,
+        "results": [
+          {
+            "item": "minecraft:lapis_block"
+          }  
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "minecraft:lapis_block"
+          }
+        ],
+        "results": [
+          {
+            "item": "minecraft:lapis_block"
+          }  
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "minecraft:lapis_block"}
+  }

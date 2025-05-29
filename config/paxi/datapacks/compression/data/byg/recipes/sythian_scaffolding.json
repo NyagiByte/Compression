@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"byg:sythian_stalk_block"},
+      "B": {"tag":"forge:string_group"}
+    },
+    "pattern": [
+      "ABA",
+      "A A",
+      "A A"
+    ],
+    "result": {
+        "count": 6,
+        "item": "byg:sythian_scaffolding"
+    }
+  }

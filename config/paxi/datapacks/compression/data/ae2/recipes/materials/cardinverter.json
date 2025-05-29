@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "ae2:basic_card"
+        },
+        {
+            "item": "minecraft:redstone_torch"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "item": "ae2:inverter_card"
+    }
+}
