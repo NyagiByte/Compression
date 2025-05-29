@@ -1,0 +1,22 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "pneumaticcraft:upgrade_matrix"
+    },
+    {
+      "amount": 250,
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "minecraft:strong_swiftness"
+      }
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "pneumaticcraft:speed_upgrade"
+    }
+  ]
+}

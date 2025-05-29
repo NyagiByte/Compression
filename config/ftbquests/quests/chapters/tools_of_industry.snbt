@@ -1,0 +1,568 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tools_of_industry"
+	group: "1C682695BB4A0B06"
+	icon: "create:precision_mechanism"
+	id: "1130B5911F3BD6E9"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["6F66FCCD63752DC8"]
+			description: [
+				"&6Copper Diving Boots&r are part of your OSHA compliant gear"
+				""
+				"These snazzy boots are able to &akeep you firmly in place&r while standing on &ecreate belts&r"
+				""
+				"These boots also allow you to &bsink to the bottom of bodies of liquid&r, but without a &ddiving helmet&r and &dback tank&r this feature is more of a mafia benefit than a player benefit"
+			]
+			id: "2169A5DFADF3C694"
+			rewards: [{
+				id: "33CC723F2F3A4098"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7C3F5601A2CD4C0C"
+				item: {
+					Count: 1b
+					id: "create:copper_diving_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Go Go Gadget Falling"
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"6F66FCCD63752DC8"
+				"50AB8E6C2E4F9E7B"
+			]
+			description: [
+				"A &6Copper Diving Helmet&r!"
+				""
+				"With some pressurized air from a &dback tank&r this helmet can sustain &bbreathing underwater&r"
+				""
+				"A full back tank can sustain up to &a15 minutes&r of underwater activities"
+			]
+			id: "733244871BA6D327"
+			rewards: [{
+				id: "2A85CAE5F646DCD1"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7609FD0E2AD1B0C1"
+				item: {
+					Count: 1b
+					id: "create:copper_diving_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "I Am Unda Da Water"
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2169A5DFADF3C694"]
+			description: [
+				"The &6Copper Back Tank&r is a chestplate slot wearable that supplies you with &dair&r"
+				""
+				"This &dair&r is used to allow for &adiving helmet usage&r (breathing) or &aavoid &cdurability loss &aon extendo grips"
+				""
+				"To fill the tank with air simply apply &drotational force to the top&r portion of the tank. A large puff of &7white particles&r will signify that the tank is full"
+			]
+			id: "50AB8E6C2E4F9E7B"
+			rewards: [{
+				id: "75F58A7DD2CEF39F"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "362E94AACCCC240D"
+				item: {
+					Count: 1b
+					id: "create:copper_backtank"
+					tag: {
+						Air: 900
+					}
+				}
+				type: "item"
+			}]
+			title: "Wearable Pipebomb"
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"50AB8E6C2E4F9E7B"
+				"4296F49981434BC7"
+			]
+			description: [
+				"&dThe best tool ever&r"
+				""
+				"The &6Extendo Grip&r is able to dramatically extend your reach when placed in your &eoffhand&r"
+				""
+				"Normally using the extendo grip &ccosts durability&r, but with the use of &dpressurized air&r from a back tank this &adurability loss can be entirely mitigated&r"
+			]
+			id: "54FEBD95BDC60291"
+			rewards: [{
+				id: "783841DDC9EAF54D"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "11C9FDC9ACB8A34E"
+				item: {
+					Count: 1b
+					id: "create:extendo_grip"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Yoink"
+			x: -7.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5E7D0899ECE970A7"]
+			id: "6B38747E1261448A"
+			rewards: [{
+				id: "1C92FBAAF2D2C811"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3B0DF80BCC3A9FBE"
+				item: "botania:crafting_halo"
+				type: "item"
+			}]
+			title: "Crafting With My MIND"
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6B38747E1261448A"]
+			id: "7B60C57A676C7900"
+			rewards: [{
+				id: "494D5AAE27BFD324"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "27AEEBD51D559E2B"
+				item: "botania:auto_crafting_halo"
+				type: "item"
+			}]
+			title: "Factorio Crafting"
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			id: "09856F3153B884AB"
+			rewards: [{
+				id: "6D4F9EFF6FD2838D"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "762D51687E198544"
+				item: "botania:lexicon"
+				type: "item"
+			}]
+			title: "What Are All These Flowers?"
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			id: "110B66C3FF649B2A"
+			tasks: [{
+				id: "6B2D9073EB1332F1"
+				item: "immersiveengineering:manual"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4B89973C8D23D164"]
+			id: "593F4B6288E939F1"
+			rewards: [{
+				id: "44519A3179B6DF6B"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "42F80AA7191FE6C9"
+				item: "create:wrench"
+				type: "item"
+			}]
+			title: "I'm not making another wrench joke"
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4B89973C8D23D164"]
+			id: "6C0B5F102BFD0F5A"
+			rewards: [{
+				id: "505EC822E51DDF49"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "439F115D3BFBDD47"
+				item: "create:brown_toolbox"
+				type: "item"
+			}]
+			title: "DIY Logibots"
+			x: -5.0d
+			y: 0.5d
+		}
+		{
+			id: "4252BCA134E2B9CD"
+			tasks: [{
+				id: "6210E7C27B313F1B"
+				item: "phantomsandnightmares:insanity_pill"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			id: "77E74284B97A98A3"
+			tasks: [{
+				id: "4FA0A1409107CC5A"
+				item: "phantomsandnightmares:sanity_pill"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["12356B8E644A1A52"]
+			description: [
+				"A &bStone Wand&r!"
+				""
+				"The stone wand can place &a9 blocks&r at a time and has a &edurability of 131&r"
+			]
+			id: "65D8FAD51F6EE4C6"
+			rewards: [{
+				id: "7D56219D4DF54B2F"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "30C6D0659F7FC965"
+				item: {
+					Count: 1b
+					id: "constructionwand:stone_wand"
+					tag: {
+						Damage: 0
+						wand_options: { }
+					}
+				}
+				type: "item"
+			}]
+			title: "Itty Bitty Placer"
+			x: -8.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"65D8FAD51F6EE4C6"
+				"4CBFDFBD1A71E6B4"
+			]
+			description: [
+				"An &bIron Wand&r!"
+				""
+				"The iron wand can place &a27 blocks&r at a time and has a &edurability of 250&r"
+			]
+			id: "1D6933CE4A08E94A"
+			rewards: [{
+				id: "0BF97FA3FA427FEB"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3D09B673B437F5FF"
+				item: {
+					Count: 1b
+					id: "constructionwand:iron_wand"
+					tag: {
+						Damage: 0
+						wand_options: { }
+					}
+				}
+				type: "item"
+			}]
+			title: "More Place, More Block"
+			x: -8.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"1D6933CE4A08E94A"
+				"6B5E13C2D13D548F"
+			]
+			description: [
+				"A &bDiamond Wand&r!"
+				""
+				"The diamond wand can place &a128 blocks&r at a time and has a &edurability of 1561&r"
+			]
+			id: "37A3FF5A19605671"
+			rewards: [{
+				id: "3345AE808819790C"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4827E4F21B39D325"
+				item: {
+					Count: 1b
+					id: "constructionwand:diamond_wand"
+					tag: {
+						Damage: 0
+						wand_options: { }
+					}
+				}
+				type: "item"
+			}]
+			title: "Placing Blocks n Shit"
+			x: -8.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"37A3FF5A19605671"
+				"681E32095BFCA886"
+			]
+			description: [
+				"An &bInfinite Wand&r!"
+				""
+				"The infinite wand can place &a1024 blocks&r at a time and is &dunbreakable&r!"
+			]
+			id: "36088C57178B084B"
+			rewards: [{
+				id: "0F9212AEF9F7ABFE"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2152496664FDC83E"
+				item: {
+					Count: 1b
+					id: "constructionwand:infinity_wand"
+					tag: {
+						wand_options: { }
+					}
+				}
+				type: "item"
+			}]
+			title: "Oh God The Lag"
+			x: -8.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["4296F49981434BC7"]
+			description: ["This quest name makes zero sense if you haven't seen Soul Eater"]
+			id: "28831D522C6F3026"
+			rewards: [{
+				id: "647244CA1B5A4BA3"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "384D53E488CE6E23"
+				item: "create:wand_of_symmetry"
+				type: "item"
+			}]
+			title: "A Certain Anime Boy's Favorite Tool"
+			x: -9.5d
+			y: -1.5d
+		}
+		{
+			id: "04B6D86B67F5DEBB"
+			tasks: [{
+				id: "3EB3521FD5433F4D"
+				item: {
+					Count: 1b
+					id: "immersiveengineering:hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4B89973C8D23D164"]
+			id: "1A196A00B2031141"
+			rewards: [{
+				id: "5C3C4477E3CCE007"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1D4244197244E026"
+				item: "mekanism:basic_fluid_tank"
+				type: "item"
+			}]
+			title: "Big Bucket"
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"4ABA1A64E5BE1E94"
+				"1A196A00B2031141"
+			]
+			id: "0965C7866CDFEAB1"
+			rewards: [{
+				id: "0540845A5DC10E06"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "02AB30C63C52A3F9"
+				item: "mekanism:advanced_fluid_tank"
+				type: "item"
+			}]
+			title: "Really Big Bucket"
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			id: "4CB1DD26B38D5409"
+			tasks: [{
+				id: "02356C80535C3A18"
+				item: "ae2:network_tool"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			id: "3D98C3DA7C9397AA"
+			tasks: [{
+				id: "71E817E386540DD3"
+				item: {
+					Count: 1b
+					id: "ae2:memory_card"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			id: "0EE2E7E8CBB6B1BA"
+			tasks: [{
+				id: "08F5C72CB76C85E2"
+				item: {
+					Count: 1b
+					id: "ae2:color_applicator"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			id: "6003B9F9A146B2E1"
+			tasks: [{
+				id: "3E5CA83EE98E81AD"
+				item: "ae2:entropy_manipulator"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			id: "32143CB000A0B687"
+			tasks: [{
+				id: "14D15D14712F0293"
+				item: {
+					Count: 1b
+					id: "ae2:matter_cannon"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			id: "13496F0256112C9B"
+			rewards: [{
+				id: "34A6975C196EC7BA"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4C77FD85523245F0"
+				item: {
+					Count: 1b
+					id: "botania:twig_wand"
+					tag: {
+						color1: 0
+						color2: 0
+					}
+				}
+				match_nbt: false
+				type: "item"
+			}]
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["13496F0256112C9B"]
+			id: "368F287E4599A9E4"
+			tasks: [{
+				id: "7F9E02254066AFF9"
+				item: "botania:obedience_stick"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["02903DDEA28657F2"]
+			description: [
+				"A &bHaunted Bell&r! Spooky"
+				""
+				"By &eholding this bell in hand&r a small area will be revealed where &cmobs can spawn&r"
+				""
+				"&ePlacing and ringing the bell&r will show a much larger area where &cmobs can spawn&r"
+			]
+			id: "59616C9D29302D30"
+			rewards: [{
+				id: "443BEFD43D306A15"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5ABB40073B53D6BF"
+				item: "create:haunted_bell"
+				type: "item"
+			}]
+			title: "Pest Control"
+			x: -7.0d
+			y: 0.5d
+		}
+	]
+	title: " &fTools Of Industry"
+}

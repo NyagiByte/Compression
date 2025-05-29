@@ -1,0 +1,22 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {"item": "botania:livingwood_slab"},
+      "B": {"item": "quark:white_framed_glass"},
+      "C": {"item": "pneumaticcraft:wall_lamp_inverted_white"},
+      "D": {"item": "create:brass_block"},
+      "E": {"item": "minecraft:obsidian"}
+    },
+    "pattern": [
+      " A ",
+      "BCB",
+      " D ",
+      " D ",
+      " E "
+    ],
+    "result": {
+        "count": 1,
+        "item": "create:wand_of_symmetry"
+    }
+  }

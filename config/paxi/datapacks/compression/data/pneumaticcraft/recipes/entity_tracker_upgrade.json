@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "pneumaticcraft:upgrade_matrix"
+        },
+        {
+            "item": "create:content_observer"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "item": "pneumaticcraft:entity_tracker_upgrade"
+    }
+}

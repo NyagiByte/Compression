@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"book",
+  "key": {
+    "A": {"tag":"forge:string_group"},
+    "B": {"item":"immersivepetroleum:paraffin_wax"}
+  },
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "result": {
+    "count": 8,
+    "item": "minecraft:candle"
+  }
+}

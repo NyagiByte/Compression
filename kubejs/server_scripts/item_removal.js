@@ -1,6 +1,8 @@
 ServerEvents.recipes(e => {
 //------------------------------------------------------------------    
 //------------------------------------------------------------------
+    //Potions are hardcoded, pack.mcmeta is unable to remove them
+            e.remove({output: 'minecraft:potion'});
     //Hiding processes from unimplemented mods
             e.remove({type: 'pneumaticcraft:amadron' }),
             e.remove({type: 'thermal:bottler' }),
@@ -417,7 +419,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'pneumaticcraft:programming_puzzle'});
         e.remove({output: 'pneumaticcraft:module_expansion_card'});
         e.remove({output: 'pneumaticcraft:logistics_core'});
-        e.remove({output: 'pneumaticcraft:upgrade_matrix'});
         e.remove({output: 'pneumaticcraft:spawner_core_shell'});
         e.remove({output: 'pneumaticcraft:reinforced_chest_kit'});
         e.remove({output: 'pneumaticcraft:smart_chest_kit'});
@@ -495,11 +496,8 @@ ServerEvents.recipes(e => {
         e.remove({output: 'pneumaticcraft:redstone_module'});
         e.remove({output: 'pneumaticcraft:vacuum_module'});
         e.remove({output: 'pneumaticcraft:volume_upgrade'});
-        e.remove({output: 'pneumaticcraft:dispenser_upgrade'});
         e.remove({output: 'pneumaticcraft:item_life_upgrade'});
-        e.remove({output: 'pneumaticcraft:entity_tracker_upgrade'});
         e.remove({output: 'pneumaticcraft:block_tracker_upgrade'});
-        e.remove({output: 'pneumaticcraft:speed_upgrade'});
         e.remove({output: 'pneumaticcraft:search_upgrade'});
         e.remove({output: 'pneumaticcraft:coordinate_tracker_upgrade'});
         e.remove({output: 'pneumaticcraft:range_upgrade'});

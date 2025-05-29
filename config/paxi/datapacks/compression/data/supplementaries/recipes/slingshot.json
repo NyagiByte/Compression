@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"tag":"forge:string_group"},
+      "B": {"item":"minecraft:leather"},
+      "C": {"tag":"forge:rods/wooden"},
+      "D": {"item":"nyagibits_bytes:tiny_spring"}
+    },
+    "pattern": [
+      "ABA",
+      "CDC",
+      " C "
+    ],
+    "result": {
+      "count": 1,
+      "item": "supplementaries:slingshot"
+    }
+  }

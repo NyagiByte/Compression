@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "pneumaticcraft:upgrade_matrix"
+        },
+        {
+            "item": "botania:open_crate"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "item": "pneumaticcraft:dispenser_upgrade"
+    }
+}

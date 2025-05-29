@@ -1,0 +1,38 @@
+{
+    "type":"create:sequenced_assembly",
+    "ingredient":{
+        "item":"minecraft:orange_wool"
+        },
+        "loops":1,
+        "results":[{"item":"railways:orange_conductor_cap"
+        }],
+        "sequence":[{
+
+            "type":"create:deploying",
+                "ingredients":[{"item":"railways:orange_incomplete_conductor_cap"
+                },{
+                "item":"immersiveengineering:toolupgrade_powerpack_antenna"
+                }],
+                "results":[{"item":"railways:orange_incomplete_conductor_cap"
+                    }]},
+                    {
+
+            "type":"create:deploying",
+                "ingredients":[{"item":"railways:orange_incomplete_conductor_cap"
+                },{
+                "item":"create:redstone_link"
+                }],
+                "results":[{"item":"railways:orange_incomplete_conductor_cap"
+                    }]},
+                    {
+
+            "type":"create:deploying",
+                "ingredients":[{"item":"railways:orange_incomplete_conductor_cap"
+                },{
+                "item":"create:content_observer"
+                }],
+                "results":[{"item":"railways:orange_incomplete_conductor_cap"
+                    }]}
+
+                ],
+        "transitionalItem":{"item":"railways:orange_incomplete_conductor_cap"}}

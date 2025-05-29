@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "create:super_glue"
+        },
+        {
+            "item": "immersiveengineering:wirecoil_redstone"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "item": "projectred_transmission:red_alloy_wire"
+    }
+}

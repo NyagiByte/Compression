@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"book",
+  "key": {
+    "A": {"item":"minecraft:bamboo"},
+    "B": {"tag":"forge:string_group"}
+  },
+  "pattern": [
+    "ABA",
+    "A A",
+    "A A"
+  ],
+  "result": {
+    "count": 6,
+    "item": "minecraft:scaffolding"
+  }
+}

@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "key": {
-      "A": {"item":"minecraft:string"},
+      "A": {"tag":"forge:string_group"},
       "B": {"item":"supplementaries:flax"},
       "C": {"item":"nyagibits_bytes:sealed_pouch"}
     },
