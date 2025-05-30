@@ -986,7 +986,7 @@
 				}
 				{
 					id: "42EBB5A9C6CF78D9"
-					item: "minecraft:hopper"
+					item: "create:chute"
 					type: "item"
 				}
 			]
@@ -1845,19 +1845,19 @@
 			}]
 			tasks: [
 				{
-					count: 8L
+					count: 13L
 					id: "470A32284EB31307"
-					item: "immersiveengineering:sheetmetal_steel"
+					item: "nyagibits_bytes:block_of_1080_high_carbon_steel"
 					type: "item"
 				}
 				{
-					count: 6L
+					count: 13L
 					id: "4CED4EDD03960539"
 					item: "immersiveengineering:storage_steel"
 					type: "item"
 				}
 				{
-					count: 5L
+					count: 15L
 					id: "4F364AA4BC3C6958"
 					item: "immersiveengineering:heavy_engineering"
 					type: "item"
@@ -1865,12 +1865,6 @@
 				{
 					id: "0D6516823BAB1815"
 					item: "immersiveengineering:rs_engineering"
-					type: "item"
-				}
-				{
-					count: 10L
-					id: "0500692534FE45CC"
-					item: "immersiveengineering:light_engineering"
 					type: "item"
 				}
 				{
@@ -1883,12 +1877,6 @@
 					count: 14L
 					id: "2D9538069391A95B"
 					item: "immersiveengineering:slab_sheetmetal_steel"
-					type: "item"
-				}
-				{
-					count: 5L
-					id: "1370B3C574B0328B"
-					item: "immersiveengineering:steel_scaffolding_standard"
 					type: "item"
 				}
 				{
@@ -1996,7 +1984,7 @@
 				"76CD51F5EE2F47AC"
 				"418B5928BC9515CA"
 			]
-			description: ["This large 2 part machine is able to scoop incredibly high volumes of earth for a high energy cost. This allows for the extraction of \"rare earth\" elements, which arn't actually very rare, just very spread across the crust. &6You may even find unique resource sources"]
+			description: ["This large 2 part machine is able to scoop incredibly high volumes of earth for a high energy cost. This allows for the extraction of \"rare earth\" elements, which aren't actually very rare, just very spread across the crust. &6You may even find unique resource sources"]
 			id: "1955E60B51E911ED"
 			rewards: [{
 				id: "5A0334038A223C69"
@@ -2005,9 +1993,9 @@
 			}]
 			tasks: [
 				{
-					count: 16L
+					count: 14L
 					id: "177485CAFFF828F2"
-					item: "immersiveengineering:sheetmetal_steel"
+					item: "nyagibits_bytes:block_of_1080_high_carbon_steel"
 					type: "item"
 				}
 				{
@@ -2017,30 +2005,24 @@
 					type: "item"
 				}
 				{
-					count: 9L
-					id: "23502814A58A5BAF"
-					item: "immersiveengineering:light_engineering"
-					type: "item"
-				}
-				{
 					id: "3DDA88B17C41B32D"
 					item: "immersiveengineering:rs_engineering"
 					type: "item"
 				}
 				{
-					count: 4L
+					count: 14L
 					id: "04A2F5672C9DAB7B"
 					item: "immersiveengineering:heavy_engineering"
 					type: "item"
 				}
 				{
-					count: 26L
+					count: 20L
 					id: "5BE928085420DAB5"
 					item: "immersiveengineering:steel_scaffolding_standard"
 					type: "item"
 				}
 				{
-					count: 9L
+					count: 16L
 					id: "0770681D54BDF20A"
 					item: "immersiveengineering:storage_steel"
 					type: "item"

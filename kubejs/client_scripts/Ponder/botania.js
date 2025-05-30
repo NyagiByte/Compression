@@ -1,9 +1,8 @@
 //Forgive me, for i am about to sin.
 const WispParticleData = Java.loadClass("vazkii.botania.client.fx.WispParticleData")
 const ParticleTypes = Java.loadClass("net.minecraft.core.particles.ParticleTypes")
-const Minecraft = Java.loadClass("net.minecraft.client.Minecraft")
 
-Ponder.tags((e) => {e.createTag("compression:botania", "botania:lexicon", "Botania", "For all your floral needs", ["#forge:petal_apothecary", "botania:pure_daisy", "botania:endoflame", "botania:entropinnyum", "botania:munchdew", "botania:gourmaryllis", "botania:narslimmus"])})
+Ponder.tags((e) => {e.createTag("compression:botania", "botania:lexicon", "Botania", "For all your floral needs", ["#forge:petal_apothecary", "botania:pure_daisy", "botania:endoflame", "botania:entropinnyum", "botania:munchdew", "botania:gourmaryllis", "botania:narslimmus", "botania:hydroangeas", "botania:thermalily", "botania:rosa_arcana"])})
 //------------------------------------------------------------------
 Ponder.registry((e) => {
 //------------------------------------------------------------------
@@ -28,30 +27,14 @@ Ponder.registry((e) => {
                 scene.particles.simple(5, "splash", [2.5,2.5,2.5]).density(5);
                 scene.world.modifyBlock([2,1,2], () => Block.id("botania:apothecary_default").with("fluid", "water"), true);
                 scene.idle(40);
-                const petal1 = scene.world.createItemEntity([2.5, 5, 2.5], [0, 0, 0], "botania:white_petal");
-                scene.idle(10);
-                scene.particles.simple(5, "splash", [2.5,2.5,2.5]).density(1);
-                scene.idle(5);
-                scene.world.modifyEntity(petal1, (r) => { r.discard()});
-                scene.idle(10);
-                const petal2 = scene.world.createItemEntity([2.5, 5, 2.5], [0, 0, 0], "botania:white_petal");
-                scene.idle(10);
-                scene.particles.simple(5, "splash", [2.5,2.5,2.5]).density(1);
-                scene.idle(5);
-                scene.world.modifyEntity(petal2, (r) => { r.discard()});
-                scene.idle(10);
-                const petal3 = scene.world.createItemEntity([2.5, 5, 2.5], [0, 0, 0], "botania:white_petal");
-                scene.idle(10);
-                scene.particles.simple(5, "splash", [2.5,2.5,2.5]).density(1);
-                scene.idle(5);
-                scene.world.modifyEntity(petal3, (r) => { r.discard()});
-                scene.idle(10);
-                const petal4 = scene.world.createItemEntity([2.5, 5, 2.5], [0, 0, 0], "botania:white_petal");
-                scene.idle(10);
-                scene.particles.simple(5, "splash", [2.5,2.5,2.5]).density(1);
-                scene.idle(5);
-                scene.world.modifyEntity(petal4, (r) => { r.discard()});
-                scene.idle(10);
+                for(let i = 0;i<4;i++){
+                    var petal = scene.world.createItemEntity([2.5, 5, 2.5], [0, 0, 0], "botania:white_petal");
+                    scene.idle(10);
+                    scene.particles.simple(5, "splash", [2.5,2.5,2.5]).density(1);
+                    scene.idle(5);
+                    scene.world.modifyEntity(petal, (r) => { r.discard()});
+                    scene.idle(10);
+                }
                 scene.text(60, "With all the resources added we then need to add our catalyst to combine them", [2,1.5,2])
                     .attachKeyFrame();
                 scene.idle(70);
@@ -75,7 +58,7 @@ Ponder.registry((e) => {
                 scene.overlay.showOutline(PonderPalette.WHITE, "airgap", [3,1,3], 60);
                 scene.text(60, "This is a Pure Daisy it is a Functional Flower that changes blocks or fluids placed around it", [3,1.5,3]);
                 scene.idle(70);
-                var positions = [[2,1,2], [3,1,2], [4,1,2], [4,1,3], [4,1,4], [3,1,4], [2,1,4], [2,1,3]];
+                var positions = [[2,1,2], [3,1,2], [4,1,2], [4,1,3], [4,1,4], [3,1,4], [2,1,4], [2,1,3]]; //This represents the 8 surrounding block positions, in a circle.
                 positions.forEach((pos) => {
                     scene.world.setBlock(pos, "minecraft:smooth_stone",true);
                     scene.world.showSection(pos, Facing.down);
@@ -103,15 +86,20 @@ Ponder.registry((e) => {
                     scene.idle(55);
                     const coal = scene.world.createItemEntity([2.5, 3, 2.5], [0, 0, 0], "minecraft:coal");
                     scene.idle(10);
-                    //Looks like using the scene particle spawner inside of this is a no-go.
+                    //Inside of a modifyEntity is a different context, it runs during the ponder instead of beforehand and grants access to calling some java stuff.
+                    //This limits certain actions. For example, we cannot invoke the scene's particle creator and have to do it the java way.
                     scene.world.modifyEntity(coal, (r) => { 
                         r.getLevel().addParticle(ParticleTypes.FLAME, r.getX(), r.getY(), r.getZ(), 0,0,0)
                         r.getLevel().addParticle(ParticleTypes.LARGE_SMOKE, r.getX(), r.getY()+0.1, r.getZ(), 0,0,0)
                         r.discard(); 
                     });
+                    //This line will show up many times in these ponders. If the flower has mana inside, it will sparkle. This number was chosen to maximise the sparkling.
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 60000)
                     scene.particles.simple(40, "flame", [3.2,1.75,3.4]).density(1);
                     scene.text(60, "Dropping fuel such as coal near the Endoflame will cause it to be consumed by the flower and generate mana", [3,1.5,3]);
                     scene.idle(70);
+                    //Likewise, this one stops the sparkling.
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 0)
                     scene.addKeyframe()
                     scene.text(80, "The flower will consume most furnace fuel in a 7x7 square, centered on itself\n(Consumption sped up for demonstration)", [3,1.5,3]);
                     var fuels = ["oak_log", "oak_planks", "stick", "bamboo", "charcoal", "dried_kelp_block", "oak_stairs", "blaze_rod"]
@@ -121,6 +109,7 @@ Ponder.registry((e) => {
                         scene.idle(1)
                     })
                     scene.idle(30)
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 60000)
                     items.forEach((item) => {
                         scene.world.modifyEntity(item, (r) => { 
                             r.getLevel().addParticle(ParticleTypes.FLAME, r.getX(), r.getY(), r.getZ(), 0,0,0)
@@ -135,11 +124,15 @@ Ponder.registry((e) => {
                     scene.idle(20)
                     scene.world.modifyBlock([3,1,3], () => Block.id("minecraft:air"), false)
                     scene.addKeyframe();
+                    //This calls a function at the bottom of this file to generate the sequence showcasing linking the flower to a mana spreader.
+                    //The sequence is the same for all flowers, the only difference being which flower is shown.
                     spreaderLinking(scene, "endoflame")
                     scene.markAsFinished()
                     })
                     .scene("endoflame_decay","Decaying Flowers", "kubejs:botania_7x7", (scene, util) => {
                         scene.showBasePlate();
+                        //This function generates a sequence that explains the floral decay mechanic.
+                        //Parameters are the flower, item drops (the first one will be highlighted) and the leftover block
                         floralEntropy(scene, "endoflame", ["nyagibits_bytes:endoflame_mush", "create:empty_blaze_burner", "supplementaries:ash"], "minecraft:campfire")
                         scene.markAsFinished()
                     });
@@ -160,10 +153,11 @@ Ponder.registry((e) => {
                     scene.world.showSection([3,1,2], Facing.down);
                     scene.idle(25);
                     scene.world.setBlock([3,1,2], "minecraft:air", false);
-                    scene.world.createEntity("minecraft:tnt", [3.5,1,2.5])
+                    scene.world.createEntity("minecraft:tnt", [3.5,1,2.5]) //The time to explode is 80 ticks
                     scene.idle(20)
                     scene.text(60, "It generates sizeable chunks of mana by absorbing TNT explosions", [3,1.5,3]);
                     scene.idle(60)
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 60000)
                     for(let i = 0;i<10; i++){
                         scene.particles.simple(5, "smoke", [3.5, 1, 2.5])
                         scene.idle(1)
@@ -194,6 +188,7 @@ Ponder.registry((e) => {
                         floralEntropy(scene, "entropinnyum", ["nyagibits_bytes:entropinnyum_mush", "immersiveengineering:blastbrick", "minecraft:gunpowder"], "minecraft:tnt")
                         scene.idle(45)
                         scene.addKeyframe()
+                        //The generated scene is not capped off in the function. This allows adding more afterwards.
                         scene.text(60, "I sure hope you got something to shut off the flow of primed tnt when that happens.", [3,1.5,3]).placeNearTarget();
                         scene.idle(40)
                         scene.world.createEntity("minecraft:tnt", [3.5,1,2.5])
@@ -227,7 +222,7 @@ Ponder.registry((e) => {
                     scene.idle(55);
                     scene.addKeyframe()
                     var leaves = []
-                    for(let x = 1; x<6; x++){
+                    for(let x = 1; x<6; x++){ //Fill in a 5x5 square with leaves, except the middle tile, which has the flower.
                         for(let z = 1; z<6; z++){
                             var pos = [x, 1, z]
                             if(!(x == 3 && z == 3)){
@@ -238,28 +233,31 @@ Ponder.registry((e) => {
                             }
                         }
                     }
-                    leaves.sort(() => Math.random() - 0.5)
+                    leaves.sort(() => Math.random() - 0.5) //This is a simple method to scramble an array. Doing this lets us remove the leaves in a random order.
                     scene.text(100, "It generates mana by devouring any leaves in a\n17x16x17 cube at a rate of 5 blocks per second.", [3,1.5,3]);
                     scene.idle(10)
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 60000)
                     leaves.forEach((leaf) => {
                         scene.world.setBlock(leaf, "minecraft:air", true);
                         scene.idle(4)
                     })
-                    scene.world.hideSection([3,1,1], Facing.down);
+                    scene.world.hideSection([3,1,1], Facing.down); //To replay the showSection animation, the positions must be "hidden" again first.
                     scene.world.hideSection([3,1,2], Facing.down);
                     scene.idle(20)
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 0)
                     scene.addKeyframe();
                     scene.text(80, "Once it misses a chance to eat, it will stop and enter a 80s cooldown.", [3,1.5,3]);
                     scene.world.setBlock([3,1,1], "minecraft:oak_leaves", false)
                     scene.world.showSection([3,1,1], Facing.down);
                     scene.idle(10)
                     scene.world.setBlock([3,1,1], "minecraft:air", true)
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 60000)
                     scene.idle(20)
                     scene.world.setBlock([3,1,2], "minecraft:oak_leaves", false)
                     scene.world.showSection([3,1,2], Facing.down);
                     scene.idle(40)
 
-                    scene.world.hideSection(util.select.layer(1), Facing.up);
+                    scene.world.hideSection(util.select.layer(1), Facing.up); //This just hides the entire layer. Remember, we showed a whole 5x5 earlier, keeping it shown would mess with the next sequence.
                     scene.idle(15)
                     scene.addKeyframe()
                     spreaderLinking(scene, "munchdew")
@@ -287,21 +285,26 @@ Ponder.registry((e) => {
                     scene.idle(10)
                     scene.world.modifyEntity(apple, (r) => { r.discard() });
                     scene.text(60, "It generates mana by consuming food items dropped within a block of it.", [3,1.5,3]);
+                    //Food particles, more or less accurate to the real behaviour. Debating moving them to a function, this part repeats a fair bit.
                     for(let i = 0;i<10;i++){
                         scene.particles.item(2, "minecraft:apple", [3.1, 1.8, 3.3]).motion([(Math.random()-0.5)/5,(Math.random())/5,(Math.random()-0.5)/5])
                         scene.idle(4)
                     }
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 60000)
                     scene.idle(25)
                     scene.addKeyframe()
                     const steak = scene.world.createItemEntity([2.5, 4, 2.5], [0, 0.1, 0], "minecraft:cooked_beef");
                     scene.idle(10)
                     scene.world.modifyEntity(steak, (r) => { r.discard() });
+                    //Note: the fact that the scaling is exponential already reveals more than the lexica botania.
+                    //But for reference, saturation is ignored and it gives foodValue*foodValue*70 base mana. So a steak (8 points) will give 4 times the base mana than an apple (4 points)
                     scene.text(80, "The more nutritious a food is, the longer it takes to digest.\nHowever, the generated mana scales up exponentially.", [3,1.5,3]);
                     for(let i = 0;i<20;i++){
                         scene.particles.item(2, "minecraft:cooked_beef", [3.1, 1.8, 3.3]).motion([(Math.random()-0.5)/5,(Math.random())/5,(Math.random()-0.5)/5])
                         scene.idle(4)
                     }
                     scene.idle(10)
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 0)
                     scene.addKeyframe()
                     const steak2 = scene.world.createItemEntity([2.5, 4, 2.5], [0, 0.1, 0], "minecraft:cooked_beef");
                     scene.idle(10)
@@ -315,8 +318,10 @@ Ponder.registry((e) => {
                         scene.particles.item(2, "minecraft:cooked_beef", [3.1, 1.8, 3.3]).motion([(Math.random()-0.5)/5,(Math.random())/5,(Math.random()-0.5)/5])
                         scene.idle(4)
                     }
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 60000)
                     scene.idle(10)
                     scene.addKeyframe()
+                    //I tried to pick out a list of foods with one drumstick of food value.
                     var foods = ["minecraft:cod", "minecraft:cookie", "minecraft:glow_berries", "minecraft:sweet_berries", "farmersdelight:minced_beef", "farmersdelight:bacon", "minecraft:mutton", "minecraft:chicken"]
                     scene.text(80, "Variety is key. The more varied the foods are, the more mana it will produce, capping out at 8 different foods.", [3,1.5,3]);
                     foods.forEach((food) => {
@@ -329,8 +334,10 @@ Ponder.registry((e) => {
                         }
                     })
                     scene.idle(15)
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 0)
                     scene.addKeyframe()
                     scene.text(80, "However, using the same food multiple times in a row slows digestion and gives severely diminishing returns.", [3,1.5,3]);
+                    //Again, for context, repeating the same food applies a 1/<times repeated> multiplier. So yeah, alternate at least 2 foods!
                     var bread = scene.world.createItemEntity([2.5, 3, 2.5], [0, 0.1, 0], "minecraft:bread");
                     scene.idle(5)
                     scene.world.modifyEntity(bread, (r) => { r.discard() });
@@ -338,6 +345,7 @@ Ponder.registry((e) => {
                         scene.particles.item(2, "minecraft:bread", [3.1, 1.8, 3.3]).motion([(Math.random()-0.5)/5,(Math.random())/5,(Math.random()-0.5)/5])
                         scene.idle(4)
                     }
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 60000)
                     scene.idle(5)
                     var bread2 = scene.world.createItemEntity([2.5, 3, 2.5], [0, 0.1, 0], "minecraft:bread");
                     scene.idle(5)
@@ -376,10 +384,13 @@ Ponder.registry((e) => {
                     scene.text(70, "It generates mana by absorbing any slime mobs that wander within 2 blocks of the flower", [3,1.5,3]);
                     scene.idle(20)
                     const slime = scene.world.createEntity("minecraft:slime", [2.5,1,2.5], b => {
+                        //Loads an nbt tag. Position is repeated here otherwise it might get messed up)
                         b.load("{Size: 1, Pos: [2.5d, 1d, 2.5d], Rotation: [135.0f, 0.0f]}")
                     })
                     scene.idle(30)
                     scene.world.modifyEntity(slime, (r) => { r.discard() });
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 60000)
+                    //This...does not happen with the actual flower. So much for the lexica botania saying it makes a sticky mess! But yeah, this is just visual flair.
                     for(let i = 0;i<10;i++) scene.particles.item(1, "minecraft:slime_ball", [2.5,1,2.5]).motion([(Math.random()-0.5)/3, (Math.random())/3, (Math.random()-0.5)/3])
                     scene.idle(25)
                     scene.addKeyframe()
@@ -393,7 +404,7 @@ Ponder.registry((e) => {
                     for(let i = 0;i<30;i++) scene.particles.item(1, "minecraft:slime_ball", [2.5,1,2.5]).motion([(Math.random()-0.5)/2, (Math.random())/2, (Math.random()-0.5)/2])
                     scene.idle(25)
                     scene.addKeyframe()
-                    scene.showControls(80, [3,2,3], "down").withItem(Item.of("botania:slime_bottle", "{active:1b}"));
+                    scene.showControls(80, [3,2,3], "down").withItem(Item.of("botania:slime_bottle", "{active:1b}")); //The active nbt tag switches it to the version where the slime is bouncing around.
                     scene.text(80, "The slime must be naturally spawned. Use the slime in a bottle to find a suitable location.", [3,1.5,3]);
                     scene.idle(75)
                     scene.world.hideSection([3,1,3], Facing.up)
@@ -421,6 +432,7 @@ Ponder.registry((e) => {
                     scene.text(50, "This is a Hydroangeas, one of the many mana generating flowers", [3,1.5,3]);
                     scene.idle(55);
                     scene.addKeyframe()
+                    //This was probably overcomplicated. could have directly placed the water next to it like i did for the thermalily and lava.
                     var positions = [[2,1,3], [3,1,2], [4,1,3], [3,1,4], [2,1,1], [4,1,1], [2,1,5], [4,1,5], [1,1,2], [1,1,4], [5,1,2], [5,1,4]]
                     positions.forEach((pos) => {
                         scene.world.setBlock(pos, "minecraft:cobblestone",true);
@@ -430,6 +442,7 @@ Ponder.registry((e) => {
                     var water = [[2,1,2], [2,1,4], [4,1,2], [4,1,4]]
                     water.forEach((pos) => scene.world.showSection(pos, Facing.down));
                     scene.idle(10)
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 60000)
                     water.forEach((pos) => {
                         scene.world.setBlock(pos, "minecraft:water",true);
                         scene.particles.simple(5, "splash", [pos[0]+0.5, pos[1]+1, pos[2]+0.5]).density(2);
@@ -439,16 +452,17 @@ Ponder.registry((e) => {
                     scene.idle(75)
                     water.forEach((pos) => {
                         scene.world.setBlock(pos, "minecraft:air",true);
+                        //More visual flair!
                         scene.particles.simple(15, "splash", [pos[0]+0.5, pos[1]+1, pos[2]+0.5]).density(3);
                         scene.idle(15);
                     });
                     scene.idle(10)
                     scene.text(70, "Rainy weather can speed up the production rate, but it is still meager.", [3,1.5,3]);
                     scene.idle(75)
-                    scene.world.hideSection(util.select.layer(1), Facing.up);
+                    scene.world.hideSection(util.select.layer(1), Facing.up); //We placed a lot of blocks, so this is faster.
                     scene.idle(15)
                     positions.forEach((pos) => {
-                        scene.world.setBlock(pos, "minecraft:air",false);
+                        scene.world.setBlock(pos, "minecraft:air",false); //And cleanup the cobblestone.
                     });
                     scene.addKeyframe()
                     spreaderLinking(scene, "hydroangeas")
@@ -485,9 +499,10 @@ Ponder.registry((e) => {
                     scene.idle(15)
                     scene.world.setBlock([2,1,3], "minecraft:air", true)
                     scene.particles.block(10, "minecraft:lava", [2.5, 1.5, 3.5]).density(3);
-                    
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 60000)
+                    //This function is to separate out making a stream of particles. Note that scene.idle will get called for that long.
+                    //false spawns the red burn particles, true spawns the gray cooldown smoke. Also, the particles are exaggerated a bit for better visibility.
                     thermalilyParticles(scene, 60, false)
-
                     scene.text(70, "After absorbing lava, it will generate mana for about 45 seconds.", [3,1.5,3]);
                     thermalilyParticles(scene, 70, false)
                     scene.idle(20)
@@ -500,6 +515,7 @@ Ponder.registry((e) => {
                     scene.text(70, "The cooldown can vary from 20 seconds to 5 whole minutes", [3,1.5,3]);
                     thermalilyParticles(scene, 80, true)
                     scene.idle(10)
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 0)
                     scene.addKeyframe()
                     scene.text(70, "The cooldown can be read with a comparator.", [2.5,1.5,3]);
                     scene.world.setBlock([2,1,3], "minecraft:comparator", false)
@@ -511,6 +527,7 @@ Ponder.registry((e) => {
                     scene.world.showSection([1,1,3], Facing.down)
                     scene.idle(75)
                     scene.text(70, "The comparator output is off only while generating mana", [2.5,1.5,3]);
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 60000)
                     thermalilyParticles(scene, 80, false)
                     scene.text(70, "When the cooldown starts, the comparator outputs a signal based on the length", [2.5,1.5,3]);
                     scene.world.modifyBlock([2,1,3], (cmp) => cmp.with("powered", true), false)
@@ -521,10 +538,11 @@ Ponder.registry((e) => {
                     scene.world.modifyBlockEntityNBT([1,1,3], false, (nbt) => nbt.RedstoneStrength = 12 )
                     thermalilyParticles(scene, 80, true)
                     scene.text(90, "The comparator signal does NOT tick down. It is up to the player to figure out how to use this value to delay the next lava block.", [2.5,1.5,3]);
+                    //I don't think i can add anything here to visualize this further.
                     scene.idle(100)
-                    scene.world.hideSection([2,1,3, 1,1,3], Facing.up)
+                    scene.world.hideSection([1,1,3, 2,1,3], Facing.up)
                     scene.idle(20)
-                    scene.world.setBlocks([2,1,3, 1,1,3], "minecraft:air", false)
+                    scene.world.setBlocks([1,1,3, 2,1,3], "minecraft:air", false)
                     scene.addKeyframe()
                     scene.text(70, "The thermalily can only absorb one block of lava at a time.", [3,1.5,3]);
                     scene.idle(75)
@@ -534,9 +552,9 @@ Ponder.registry((e) => {
                     scene.particles.block(1, "minecraft:lava", [2.5, 2, 3.5]).density(5);
                     scene.text(70, "If you try to place more lava while it's generating or on cooldown...", [2.5,1.5,3]);
                     var positions = [[3,1,3], [1,1,3], [2,1,2], [2,1,4]]
-                    scene.world.showSection([2,1,2, 1,1,4], Facing.down)
+                    scene.world.showSection([1,1,2, 2,1,4], Facing.down)
                     scene.idle(40)
-                    positions.forEach((pos) => {
+                    positions.forEach((pos) => { //This was...weird to setup right. Idk why.
                         scene.world.setBlock(pos, "minecraft:lava", true)
                         scene.world.modifyBlock(pos, (lava) => lava.with("level", "1"), false)
                     })
@@ -567,28 +585,69 @@ Ponder.registry((e) => {
                     scene.idle(55);
                     scene.addKeyframe()
                     scene.text(70, "It generates mana from experience. It will drain XP from players standing next to it.", [3,1.5,3]);
+                    //Well, you can't summon a player in a ponder. This will have to do.
                     scene.showControls(70, [3.5,2,3.5], "down")
                         .withItem("minecraft:player_head");
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 60000)
                     scene.idle(80)
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 0)
+                    scene.addKeyframe()
                     scene.text(70, "It will also absorb any experience orb within one block of itself.", [3,1.5,3]);
-                    scene.showControls(70, [3.5,2,3.5], "down")
-                        .withItem("minecraft:experience_bottle");
+                    var values = [1,3,7,17,37,73,149,307,617,1237,2477] //These are the minimum values for each orb size. 
+                    var orbs = []
+                    values.forEach(xp => {
+                        var x = Math.random()*2+2.5;
+                        var y = Math.random()*30+15;
+                        var z = Math.random()*2+2.5;
+                        //WARNING: This only works because i hijacked the experience orb rendering in compressed create recipes!
+                        //Otherwise, they would use the actual player's camera angle instead of the ponder's.
+                        orbs.push(scene.world.createEntity("minecraft:experience_orb", [x,y,z], o => {
+                            o.load("{Pos:["+x+"d,"+y+"d,"+z+"d], Value:"+xp+"}")
+                        }))
+                        scene.idle(2)
+                    })
+                    scene.idle(60)
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 60000)
+                    orbs.forEach((orb) => {
+                        scene.world.modifyEntity(orb, o => {
+                            o.discard()
+                        })
+                        scene.idle(2)
+                    })
+
                     scene.idle(80)
                     scene.addKeyframe()
+                    scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 0)
                     scene.text(120, "Enchanted items dropped near it will have the enchantments stripped from them and turned into xp orbs, like with a grindstone. Does not affect curses.", [3,1.5,3]);
-                    var items = ["immersiveengineering:armor_faraday_chest", "aiotbotania:livingrock_aiot", "minecraft:elytra", "immersiveengineering:survey_tools"]
+                    var items = ["immersiveengineering:armor_faraday_chest", "aiotbotania:livingrock_aiot", "minecraft:elytra", "immersiveengineering:survey_tools"] //Just 4 random enchantable items.
+                    //The book is done separately because it turns into a different item instead of "itself, but witout enchants"
                     var enchanted = scene.world.createItemEntity([2.5, 3, 2.5], [0, 0.2, 0], "minecraft:enchanted_book");
                         scene.idle(15)
                         scene.world.modifyEntity(enchanted, (e => e.discard()))
                         var unenchanted = scene.world.createItemEntity([2.5, 1, 2.5], [0, 0.2, 0], "minecraft:book");
-                        scene.idle(10)
+                        //And yeah it actually does spawn a burst of xp orbs, like a grindstone.
+                        var orbs2 = []
+                        for(let i = 0;i<5;i++){
+                            //Note that the orbs have some innate deltaMovement on their own upon spawning.
+                            orbs2.push(scene.world.createEntity("minecraft:experience_orb", [3.5, 1, 3.5], o => o.setMotion(Math.random()/5+0.1,-0.5,Math.random()/5+0.1)))
+                        }
+                        scene.idle(5)
+                        orbs2.forEach(orb => scene.world.modifyEntity(orb, o => o.discard()))
+                        scene.world.modifyBlockEntityNBT([3,1,3], flower => flower.mana = 60000)
+                        scene.idle(15)
                         scene.world.modifyEntity(unenchanted, (e => e.discard()))
                     items.forEach((item) => {
                         var enchanted = scene.world.createItemEntity([2.5, 3, 2.5], [0, 0.2, 0], Item.of(item).enchant("mending", 1));
                         scene.idle(15)
                         scene.world.modifyEntity(enchanted, (e => e.discard()))
                         var unenchanted = scene.world.createItemEntity([2.5, 1, 2.5], [0, 0.2, 0], item);
-                        scene.idle(10)
+                        var orbs3 = []
+                        for(let i = 0;i<5;i++){
+                            orbs3.push(scene.world.createEntity("minecraft:experience_orb", [3.5, 1, 3.5], o => o.setMotion(Math.random()/5+0.1,-0.5,Math.random()/5+0.1)))
+                        }
+                        scene.idle(5)
+                        orbs3.forEach(orb => scene.world.modifyEntity(orb, o => o.discard()))
+                        scene.idle(15)
                         scene.world.modifyEntity(unenchanted, (e => e.discard()))
                     })
                     scene.idle(10)
@@ -610,7 +669,7 @@ Ponder.registry((e) => {
                         const burst = scene.world.createEntity("botania:mana_burst", [0,0,0])
                         for(let i = 0;i<100;i++){
                             scene.world.modifyEntity(burst, (b) => {
-                                b.getLevel().addParticle(WispParticleData.wisp(Math.random()/4,Math.random(),Math.random(),Math.random(),true),
+                                b.getLevel().addParticle(WispParticleData.wisp(Math.random()/3,Math.random(),Math.random(),Math.random(),true),
                                 3.5 + (Math.random() * 0.2 - 0.1), 1.9 + (Math.random() * 0.2 - 0.1), 3.5 + (Math.random() * 0.2 - 0.1),
                                 Math.random()/5-0.1, Math.random()/5-0.1, Math.random()/5-0.1)
                             })

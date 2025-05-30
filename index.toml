@@ -298,7 +298,7 @@ hash = "d47ebc1ac820033964440c028f599e3e73a912c69476902996cb1aeef9d09ff4"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "6a8f976a810f144e225a42e967b0274a2986a15de74e59f444f3f927ff5c1cec"
+hash = "b6743ac23a7ef2d7deaa7c7f2e88656abed5a6151f95860cf7fe1f206fef2777"
 
 [[files]]
 file = "config/chemlib-common.toml"
@@ -690,7 +690,7 @@ hash = "5eaa01737c46ffc31178fbfacbaaf71d9b0492e8a34838f1973905af60636bd4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "95c61e387dc5f365030d069b9c8ac3a396736192496b8eb23128efb9efec2f57"
+hash = "bc4e780cb632ae9c5639ec65e069a38df119545dcacf871024ddf63f59539ec9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -13462,7 +13462,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "ad13246696036f661e28d47fbb0f3084f9af8570991dfe7360715d27caf3087a"
+hash = "54e733d19d12940d8398f5399a75458de38a59fe840fdce56ee4138a4aac4cb4"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -13938,7 +13938,7 @@ hash = "a507afd9f00ea830495b3729dbddc6cf30272b2f0a5216e74bc75b26848264cf"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "3e9bae9a63486e5c20768ee6d62ddbf1da8229dcc7463fd745b95bb1578c2dd4"
+hash = "1343e59d74dbf5895eabc1cd5203e1beefa0390c5284bc5b2bae5f66adda4e27"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
@@ -14066,7 +14066,7 @@ hash = "21d2bc85a125c64d258f50bed489949fda3e6c7fa2cc6a4518db9a528b7c4f00"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
-hash = "c3bc9dea77c7b8a5ee9650cce707c681f33cf2a09a84f522f5e3682ec99ed6d8"
+hash = "1e3a2f4cd07d5f216f90e9723a462610f8cde48adb7d92b1bad08dfb7a3e32dc"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/compactcrafting.js"
@@ -14704,7 +14704,7 @@ metafile = true
 
 [[files]]
 file = "mods/compressed-create-recipes.pw.toml"
-hash = "8e8c4d17d9daad9e820995d3cd8e5032b842d73115e99f283b1d55e1769abd94"
+hash = "62abc076d63fc9ff2918b87c0d6c0f82cf1671779596194ffa1a14220286a519"
 metafile = true
 
 [[files]]
