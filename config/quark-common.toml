@@ -74,7 +74,7 @@
 		"Enable Gold" = true
 
 	[automation.dispensers_place_blocks]
-		Blacklist = ["minecraft:water", "minecraft:lava", "minecraft:fire"]
+		Blacklist = ["minecraft:water", "minecraft:lava", "minecraft:fire", "packages:package"]
 		#Set to false to refrain from registering any behaviors for blocks that have optional dispense behaviors already set.
 		#An optional behavior is one that will defer to the generic dispense item behavior if its condition fails.
 		#e.g. the Shulker Box behavior is optional, because it'll throw out the item if it fails, whereas TNT is not optional.

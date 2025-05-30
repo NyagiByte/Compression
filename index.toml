@@ -690,7 +690,7 @@ hash = "5eaa01737c46ffc31178fbfacbaaf71d9b0492e8a34838f1973905af60636bd4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "95c61e387dc5f365030d069b9c8ac3a396736192496b8eb23128efb9efec2f57"
+hash = "bc4e780cb632ae9c5639ec65e069a38df119545dcacf871024ddf63f59539ec9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -13938,7 +13938,7 @@ hash = "a507afd9f00ea830495b3729dbddc6cf30272b2f0a5216e74bc75b26848264cf"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "3e9bae9a63486e5c20768ee6d62ddbf1da8229dcc7463fd745b95bb1578c2dd4"
+hash = "1343e59d74dbf5895eabc1cd5203e1beefa0390c5284bc5b2bae5f66adda4e27"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
