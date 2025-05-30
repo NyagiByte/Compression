@@ -1,0 +1,21 @@
+{
+    "item.immersiveengineering.component_electronic": "Placa de Tubo Único",
+    "item.immersiveengineering.component_electronic_adv": "Placa Di-Modular",
+    "item.immersiveengineering.logic_circuit": "Placa de Ensaio de Uso Único",
+    "item.immersiveengineering.ingot_steel": "Aço Macio",
+    "item.immersiveengineering.nugget_steel": "Pepita de Aço Macio",
+    "block.immersiveengineering.storage_steel": "Bloco de Aço Macio",
+    "block.immersiveengineering.slab_storage_steel": "Laje de Aço Macio",
+    "item.immersiveengineering.plate_steel": "Placa de Aço Macio",
+    "item.immersiveengineering.dust_steel": "Pó de aõ Macio",
+    "desc.immersiveengineering.info.mineral.fossil_deposit": "Deposito de Fóssil",
+    "desc.immersiveengineering.info.mineral.endermorphic_deposit": "Depósito Endermórfico",
+    "desc.immersiveengineering.info.mineral.hydrocarbon_rich_deposit": "Depósito Rico em Hidrocarbonos",
+    "desc.immersiveengineering.info.mineral.carbonate_igneous_deposit": "Depósito de Carbonato Ígneo",
+    "desc.immersiveengineering.info.mineral.ancient_mineral_spring_deposit": "Depósito de Fonte Mineral Antiga",
+    "desc.immersiveengineering.info.mineral.lanthanithic_deposit": "Depósito Lantanítico",
+    "desc.immersiveengineering.info.mineral.core_seam": "Costura do Núcleo",
+    "desc.immersiveengineering.info.mineral.argyrodite_deposit": "Depósito de Argirodita",
+    "desc.immersiveengineering.info.mineral.void_seam": "Costura do Vácuo",
+    "desc.immersiveengineering.info.mineral.helium_deposit": "Depósito de Hélio"
+}

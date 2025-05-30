@@ -1,0 +1,11 @@
+{
+    "item.create.electron_tube": "Ressonador de Quartzo Rudimentar",
+    "item.create.rose_quartz": "Quartzo Rosa Não Polido",
+
+    "item.create.copper_nugget": "Pepita de Cobre Impuro",
+
+    "item.create.brass_ingot": "CuZn Barra de Latão",
+    "item.create.brass_nugget": "CuZn Pepita de Latão",
+    "item.create.brass_sheet": "CuZn Chapa de Latão",
+    "block.create.brass_block": "CuZn Bloco de Latão"
+}

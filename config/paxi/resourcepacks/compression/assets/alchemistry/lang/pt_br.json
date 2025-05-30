@@ -1,6 +1,6 @@
 {
-  "block.alchemistry.fission_chamber_controller": "Reator de Fissão de Pesquisa em Pequena Escala",
-  "block.alchemistry.fusion_chamber_controller": "Reator de Fusão de Pesquisa em Pequena Escala",
+  "block.alchemistry.fission_chamber_controller": "Reator de Fissão de Pesquisa de Pequena Escala",
+  "block.alchemistry.fusion_chamber_controller": "Reator de Fusão de Pesquisa de Pequena Escala",
 
   "block.chemlib.acetic_acid": "Ácido Acético",
   "block.chemlib.acetylene": "Gás Acetileno",
