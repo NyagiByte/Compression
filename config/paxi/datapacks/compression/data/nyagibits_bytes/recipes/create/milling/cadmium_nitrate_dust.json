@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:cadmium_nitrate_crystal"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chemlib:cadmium_nitrate_dust"
+      }
+    ]
+  }

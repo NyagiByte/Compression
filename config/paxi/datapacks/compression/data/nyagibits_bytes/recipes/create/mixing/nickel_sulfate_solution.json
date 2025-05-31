@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "chemlib:nickel_dust"
+      },
+      {
+        "amount": 100,
+        "fluid": "chemlib:sulfuric_acid_fluid"
+      }
+    ],
+    "results": [
+      {
+        "amount": 250,
+        "fluid": "nyagibits_bytes:solution_nickel_sulfate_fluid"
+      }
+    ]
+  }

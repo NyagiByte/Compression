@@ -1,0 +1,36 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:nickel_ii_hydroxide_dust"
+      },
+      {
+        "item": "nyagibits_bytes:nickel_ii_hydroxide_dust"
+      },
+      {
+        "item": "chemlib:potassium_hydroxide_dust"
+      },
+      {
+        "item": "chemlib:potassium_hydroxide_dust"
+      },
+      {
+        "amount": 1000,
+        "fluid": "chemlib:bromine_fluid"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "nyagibits_bytes:nickel_iii_oxy_hydroxide_dust"
+      },
+      {
+        "count": 2,
+        "item": "nyagibits_bytes:potassium_bromide_dust"
+      },
+      {
+        "amount": 500,
+        "fluid": "minecraft:water"
+      }
+    ]
+  }
