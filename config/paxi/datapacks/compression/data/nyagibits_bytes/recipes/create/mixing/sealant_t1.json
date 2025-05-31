@@ -1,0 +1,29 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "thermal:cured_rubber"
+      },
+      {
+        "item": "chemlib:ammonium_chloride"
+      },
+      {
+        "item": "nyagibits_bytes:mana_imbued_oobleck"
+      },
+      {
+        "amount": 250,
+        "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+        "count": 4,
+        "item": "nyagibits_bytes:sealant"
+      },
+      {
+        "chance": 0.95,
+        "item": "nyagibits_bytes:mana_imbued_oobleck"
+      }
+    ]
+  }
