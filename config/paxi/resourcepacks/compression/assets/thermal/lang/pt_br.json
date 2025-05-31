@@ -1,0 +1,29 @@
+{
+    "item.thermal.bronze_ingot": "Barra de Bronze CuSn₂₅",
+    "item.thermal.bronze_nugget": "Pepita de Bronze CuSn₂₅",
+    "item.thermal.bronze_dust": "Pó de Bronze CuSn₂₅",
+    "item.thermal.bronze_gear": "Engrenagem de Bronze CuSn₂₅",
+    "item.thermal.bronze_plate": "Placa de Bronze CuSn₂₅",
+    "block.thermal.bronze_block": "Bloco de Bronze CuSn₂₅",
+
+    "item.thermal.electrum_ingot": "Barra de Eletro AuAg",
+    "item.thermal.electrum_nugget": "Pepita de Eletro AuAg",
+    "item.thermal.electrum_dust": "Pó de Eletro AuAg",
+    "item.thermal.electrum_gear": "Engrenagem de Eletro AuAg",
+    "item.thermal.electrum_plate": "Placa de Eletro AuAg",
+    "block.thermal.electrum_block": "Bloco de Eletro AuAg",
+
+    "item.thermal.invar_ingot": "Barra de Invar FeNi₃₆",
+    "item.thermal.invar_nugget": "Pepita de Invar FeNi₃₆",
+    "item.thermal.invar_dust": "Pó de Invar FeNi₃₆",
+    "item.thermal.invar_gear": "Engrenagem de Invar FeNi₃₆",
+    "item.thermal.invar_plate": "Placa de Invar FeNi₃₆",
+    "block.thermal.invar_block": "Bloco de Invar FeNi₃₆",
+
+    "item.thermal.constantan_ingot": "Barra de Constantan CuNi₄₅",
+    "item.thermal.constantan_nugget": "Pepita de Constantan CuNi₄₅",
+    "item.thermal.constantan_dust": "Pó de Constantan CuNi₄₅",
+    "item.thermal.constantan_gear": "Engrenagem de Constantan CuNi₄₅",
+    "item.thermal.constantan_plate": "Placa de Constantan CuNi₄₅",
+    "block.thermal.constantan_block": "Bloco de Constantan CuNi₄₅"
+}

@@ -1,0 +1,33 @@
+{
+    "item.minecraft.white_dye": "Corante Branco Orgânico",
+    "item.minecraft.orange_dye": "Corange Laranja Orgânico",
+    "item.minecraft.magenta_dye": "Corante Magenta Orgânico",
+    "item.minecraft.light_blue_dye": "Corante Azul Claro Orgânico",
+    "item.minecraft.yellow_dye": "Corante Amarelo Orgânico",
+    "item.minecraft.lime_dye": "Corante Verde-Limão Orgânico",
+    "item.minecraft.pink_dye": "Corante Rosa Orgânico",
+    "item.minecraft.gray_dye": "Corante Cinza Orgânico",
+    "item.minecraft.light_gray_dye": "Corante Cinza-Claro Orgânico",
+    "item.minecraft.cyan_dye": "Corante Ciano Orgânico",
+    "item.minecraft.purple_dye": "Corante Roxo Orgânico",
+    "item.minecraft.blue_dye": "Corante Azul Orgânico",
+    "item.minecraft.brown_dye": "Corante Marrom Orgânico",
+    "item.minecraft.green_dye": "Corante Verde Orgânico",
+    "item.minecraft.red_dye": "Corante Vermelho Orgânico",
+    "item.minecraft.black_dye": "Corante Preto Orgânico",
+
+    "item.minecraft.copper_ingot": "Barra de Cobre Impuro",
+    "block.minecraft.copper_block": "Bloco de Cobre Impuro",
+    "block.minecraft.waxed_copper_block": "Bloco de Cobre Impuro Encerado",
+
+    "item.minecraft.iron_ingot": "Barra de Ferro Impuro",
+    "item.minecraft.iron_nugget": "Pepita de Ferro Impuro",
+    "block.minecraft.iron_block": "Bloco de Ferro Impuro",
+
+    "item.minecraft.gold_ingot": "Barra de Ouro Impuro",
+    "item.minecraft.gold_nugget": "Pepita de Ouro Impuro",
+    "block.minecraft.gold_block": "Bloco de Ouro Impuro",
+    
+    "item.minecraft.leather": "Couro de Trabalho",
+    "item.minecraft.gunpowder": "Pólvora de Baixa Qualidade"
+}
