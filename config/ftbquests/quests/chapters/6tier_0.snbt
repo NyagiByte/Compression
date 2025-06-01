@@ -5,7 +5,7 @@
 	group: "1C682695BB4A0B06"
 	icon: "ae2:energy_acceptor"
 	id: "3132E1AF7B578CC7"
-	order_index: 1
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -22,15 +22,10 @@
 			y: 18.0d
 		}
 		{
-			dependencies: ["12057422FF5BBB46"]
+			dependencies: ["1D8A454B0BE4AF89"]
 			description: ["As a note, the tutorials won't go over how to do create automations that the internal ponder system is able to show. These tabs are for pack specific choke points"]
 			icon: "create:goggles"
 			id: "18F5C12EAF8B07CB"
-			rewards: [{
-				id: "293B020FA43DA2D3"
-				item: "nyagibits_bytes:tier_zero_strawberry"
-				type: "item"
-			}]
 			tasks: [{
 				id: "70AF4FB1D571ED33"
 				title: "[W] To Ponder!"
@@ -38,7 +33,7 @@
 			}]
 			title: "[W] To Ponder!"
 			x: 0.0d
-			y: -7.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["18F5C12EAF8B07CB"]
@@ -90,7 +85,7 @@
 			}]
 			title: "&dThe Tutorial-Tutorial"
 			x: 0.0d
-			y: -9.0d
+			y: -13.0d
 		}
 		{
 			dependencies: ["18F5C12EAF8B07CB"]
@@ -101,11 +96,6 @@
 			]
 			icon: "botania:overgrowth_seed"
 			id: "4BE7C54B1F7E2DBB"
-			rewards: [{
-				id: "7A86CF1257873053"
-				item: "nyagibits_bytes:tier_zero_strawberry"
-				type: "item"
-			}]
 			tasks: [{
 				id: "34299759064CD574"
 				title: "And also, dont forget, scale!"
@@ -113,10 +103,10 @@
 			}]
 			title: "Scale Scale Scale!"
 			x: 0.0d
-			y: -6.5d
+			y: -1.0d
 		}
 		{
-			dependencies: ["4BE7C54B1F7E2DBB"]
+			dependencies: ["10A6343D18D3A913"]
 			description: [
 				"You may be tempted to avoid setting up a tree plot this early on. Do not give in to such temptations in this modpack. Without exception &deverything will be needed at scale&r. Get into the mindset when a &enew material is introduced to the chain&r to look to large scale collection or generation"
 				""
@@ -131,12 +121,12 @@
 			}]
 			title: "Do Not Avoid Farms!"
 			x: -0.5d
-			y: -5.5d
+			y: -9.5d
 		}
 		{
 			dependencies: [
 				"21625928069FF7FA"
-				"4BE7C54B1F7E2DBB"
+				"10A6343D18D3A913"
 			]
 			description: [
 				"The entire concept of mining for resources in Compression has been &cremoved."
@@ -152,10 +142,13 @@
 			}]
 			title: "Landscaping Pro"
 			x: 0.5d
-			y: -5.5d
+			y: -9.5d
 		}
 		{
-			dependencies: ["21625928069FF7FA"]
+			dependencies: [
+				"21625928069FF7FA"
+				"7182388FCC361CB0"
+			]
 			description: ["Waiting for sugarcane to grow early game can be rather annoying and soft lock progression on servers. So early game paper just needs bark now! &bI'd recommend doing this in batches of 63 at a time&r"]
 			icon: "farmersdelight:tree_bark"
 			id: "1E28F7EFBEC2EC36"
@@ -166,10 +159,13 @@
 			}]
 			title: "Peeling Logs"
 			x: -1.5d
-			y: -5.0d
+			y: -7.0d
 		}
 		{
-			dependencies: ["136DCA2889C96A65"]
+			dependencies: [
+				"136DCA2889C96A65"
+				"7182388FCC361CB0"
+			]
 			description: ["Furnace taking forever? Have you considered simply making &dmore&r?"]
 			icon: "minecraft:furnace"
 			id: "27A36AE6319647D5"
@@ -180,7 +176,7 @@
 			}]
 			title: "Supa' Smelter"
 			x: 1.5d
-			y: -5.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["1E28F7EFBEC2EC36"]
@@ -194,7 +190,7 @@
 			}]
 			title: "Technically Edible"
 			x: -2.0d
-			y: -4.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["27A36AE6319647D5"]
@@ -208,7 +204,7 @@
 			}]
 			title: "If you do a lot at once, it sucks less"
 			x: 2.0d
-			y: -4.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["036E9DF57584653C"]
@@ -232,7 +228,7 @@
 			}]
 			title: "Chipping Away"
 			x: 0.5d
-			y: -4.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["1800AA593EB0F020"]
@@ -258,7 +254,7 @@
 			}]
 			title: "You will use this for a while"
 			x: 0.0d
-			y: -3.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["0DBAF3F8573D1C7D"]
@@ -278,7 +274,7 @@
 			}]
 			title: "Omnomnom- wait no thats not.."
 			x: -0.5d
-			y: -4.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["342544B909351001"]
@@ -292,7 +288,7 @@
 			}]
 			title: "1 grit smoothness"
 			x: -1.0d
-			y: -3.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["343ECB22C2C6AB2E"]
@@ -306,7 +302,7 @@
 			}]
 			title: "The most stable element"
 			x: 1.0d
-			y: -3.5d
+			y: -5.5d
 		}
 		{
 			dependencies: [
@@ -328,7 +324,7 @@
 			}]
 			title: "Gonna need a lot of these"
 			x: 0.0d
-			y: -2.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["07342BD3CA400AA9"]
@@ -342,7 +338,7 @@
 			}]
 			title: "Your Factory's Bones"
 			x: 0.0d
-			y: -1.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["3E7BB1B6448D05B6"]
@@ -823,7 +819,7 @@
 			y: 2.5d
 		}
 		{
-			dependencies: ["1D8A454B0BE4AF89"]
+			dependencies: ["4BE7C54B1F7E2DBB"]
 			description: [
 				"You very likely don't have access to a &eBucket&r yet so just cram this &bwater wheel&r literally anywhere you can with some flowing water."
 				""
@@ -1129,6 +1125,96 @@
 			}]
 			x: 8.5d
 			y: 3.0d
+		}
+		{
+			dependencies: ["12057422FF5BBB46"]
+			description: [
+				"Why is the crafting table recipe &cchanged&r?!"
+				""
+				"Compression is an &dexpert pack&r! Meaning the mechanics from base game and other mods are &bHEAVILY modified&r and cross-integrated to produce a unique experience"
+				""
+				"&eGranted the experience here is like living in a room where the floor is a sand paper conveyor belt, but do not fear, the &6Tutorial-Tutorial quest line&e will gently beat you instead of un-gently beating you <3&r"
+			]
+			icon: "minecraft:crafting_table"
+			id: "6F181CBD1F58B946"
+			tasks: [{
+				id: "567009DA0DF35843"
+				title: "0.1.0, how time flies"
+				type: "checkmark"
+			}]
+			title: "The Crafting Thing From The Hit Game Minecraft"
+			x: 0.0d
+			y: -11.5d
+		}
+		{
+			dependencies: ["6F181CBD1F58B946"]
+			description: [
+				"You may have noticed the beautiful &cr&6a&ei&an&bb&9o&dw&r up in the sky. This is an indicator that the world is of the &6Garden Of Glass&r variety."
+				""
+				"This means 1 important thing. &dShift right click &5dirt&d for pebbles!&r"
+				""
+				"Pebbles can be crafted into &bcobblestone&r"
+			]
+			icon: "minecraft:cobblestone"
+			id: "10A6343D18D3A913"
+			tasks: [{
+				id: "720B2AE71E75F8CC"
+				title: "Using an auto clicker for this is incredibly loud"
+				type: "checkmark"
+			}]
+			title: "Pound The Ground"
+			x: 0.0d
+			y: -10.5d
+		}
+		{
+			dependencies: [
+				"21625928069FF7FA"
+				"136DCA2889C96A65"
+			]
+			description: [
+				"The &dPetal Apothecary&r will be your second main crafer "
+				""
+				"To use it, simply fill it with &bwater&r using a &ebowl&r and toss items into the apothecary corresponding to the recipe"
+				""
+				"Finally a &ereagent item &6(finishing item)&r will be requested by the apothecary, toss it in and the craft will complete"
+			]
+			icon: "botania:apothecary_default"
+			id: "56B11633B6E55BF8"
+			tasks: [{
+				id: "79DA56623F6003CD"
+				title: "Don't forget the water, it needs water"
+				type: "checkmark"
+			}]
+			title: "Your Other Crafting Table"
+			x: 0.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["56B11633B6E55BF8"]
+			description: [
+				"&6Small note about the bowl of water:&r"
+				""
+				"Water can only be collected in &e1 block deep portions of water&r as the interaction requires the right-click target to be a block under the water source block"
+			]
+			icon: {
+				Count: 1b
+				id: "botania:water_bowl"
+				tag: {
+					Fluid: {
+						Amount: 1000
+						FluidName: "minecraft:water"
+					}
+				}
+			}
+			id: "7182388FCC361CB0"
+			tasks: [{
+				id: "4C7D97DC908013F0"
+				title: "bou' o' wo'ta'"
+				type: "checkmark"
+			}]
+			title: "Wamter"
+			x: 0.0d
+			y: -7.5d
 		}
 	]
 	title: " &6Tier 0"

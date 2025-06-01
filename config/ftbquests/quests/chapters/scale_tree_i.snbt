@@ -523,7 +523,7 @@
 			description: [
 				"This is the scale tree for all pure daisy conversions"
 				""
-				"&eThe \"scaling\" with pure daisy conversion has to do with SPEED. More specifically using more consutrcted blocks to engage in the process that both take less time and yield more product"
+				"&eThe \"scaling\" with pure daisy conversion has to do with SPEED. More specifically using more constructed blocks to engage in the process that both take less time and yield more product"
 			]
 			icon: "botania:pure_daisy"
 			id: "600D1BF0A4506C5F"

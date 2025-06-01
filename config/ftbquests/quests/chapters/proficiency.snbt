@@ -175,7 +175,6 @@
 				}
 				{
 					consume_items: true
-					count: 3L
 					id: "3BB2537A76BC51E8"
 					item: "nyagibits_bytes:tier_zero_strawberry"
 					title: "T0 Tutorials"
