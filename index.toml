@@ -662,11 +662,11 @@ hash = "ffac074e14e40f9c6274b854e7022f28d8a36282c41a62c7db73188c85735576"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/6tier_0.snbt"
-hash = "203136a279c316cfa6a3fd76d8b95a3a4e75a41fa8a1b8b345bffd1a524685b0"
+hash = "ab8f6d0ef52fc84ca67e7e72d5c062f801d03cb270541905bcf3106450a343aa"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/6tier_1.snbt"
-hash = "7d1f5a102e9909d72247369418c25e011aabf481220a9656716a08bcd025da93"
+hash = "5970205172655c92261cc61c721512cd50c4e85129cdad6c3f3572564ce7082c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
@@ -678,11 +678,11 @@ hash = "215021877f879657aa15f9e8ce59c7acaa809b34ccc589a527d7c5efeba81674"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/proficiency.snbt"
-hash = "54b320f822abd107bbc1c492141971927deaeb5c4419fa074eb350df3ca714ca"
+hash = "2d41f6e6831eb3e0314cf5a56029269897f005aba23a1ff9ac9dfbfa03773244"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
-hash = "303ead03cffe35f2ff135266e59711165754ace3a5a11f1648a85333af448b1a"
+hash = "883914ff2e513ab33b74e93c5926a7f44bfa5906b41894d2dba555d1fc67f494"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
@@ -15270,10 +15270,6 @@ metafile = true
 file = "mods/nuclearcraft-neoteric.pw.toml"
 hash = "a64a7f239c438513d1f92766d353cfe547b9a03eaa33b53c937e179bac2ca406"
 metafile = true
-
-[[files]]
-file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "6b8ea1fb29b90a8b4893a99d86758934faecea73a6fab437557c9cdd5325ec70"
 
 [[files]]
 file = "mods/nyagis-bits-bytes.pw.toml"
