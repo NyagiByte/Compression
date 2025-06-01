@@ -1,0 +1,24 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "chemlib:nickel_sulfate_dust"
+      },
+      {
+        "item": "chemlib:sodium_hydroxide_dust"
+      },
+      {
+        "amount": 250,
+        "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:nickel_ii_hydroxide_dust"
+      },
+      {
+        "item": "chemlib:sodium_sulfate_dust"
+      }
+    ]
+  }

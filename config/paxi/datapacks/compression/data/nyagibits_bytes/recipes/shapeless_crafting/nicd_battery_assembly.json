@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "nyagibits_bytes:nicd_jelly_roll"
+        },
+        {
+            "item": "nyagibits_bytes:insulating_washer"
+        },
+        {
+            "item": "nyagibits_bytes:small_pipe_steel"
+        },
+        {
+            "item": "nyagibits_bytes:wrought_tiny_spring"
+        },
+        {
+            "item": "immersiveengineering:graphite_electrode"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "item": "nyagibits_bytes:nicd_battery_assembly"
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"type":"vintageimprovements:coiling",
+	"ingredients": [ {
+      "item": "nyagibits_bytes:unrolled_nicd_stack"
+    }
+  ],
+	"results": [
+		{
+			"item": "nyagibits_bytes:nicd_jelly_roll",
+			"count": 1
+		}
+	],
+  "processingTime": 60
+}

@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "amount": 250,
+        "fluid": "minecraft:water"
+      },
+      {
+        "amount": 250,
+        "fluid": "nyagibits_bytes:solution_nickel_sulfate_fluid"
+      }
+    ],
+    "results": [
+      {
+        "item": "chemlib:nickel_sulfate_dust"
+      },
+      {
+        "amount": 500,
+        "fluid": "nyagibits_bytes:diluted_sulfuric_acid_fluid"
+      }
+    ]
+  }

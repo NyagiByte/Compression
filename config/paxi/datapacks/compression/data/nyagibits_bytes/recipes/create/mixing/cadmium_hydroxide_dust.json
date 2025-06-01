@@ -1,0 +1,29 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "chemlib:cadmium_nitrate_dust"
+      },
+      {
+        "item": "chemlib:sodium_hydroxide_dust"
+      },
+      {
+        "item": "chemlib:sodium_hydroxide_dust"
+      },
+      {
+        "amount": 100,
+        "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "chemlib:cadmium_hydroxide_dust"
+      },
+      {
+        "count": 2,
+        "item": "chemlib:sodium_nitrate_dust"
+      }
+    ]
+  }

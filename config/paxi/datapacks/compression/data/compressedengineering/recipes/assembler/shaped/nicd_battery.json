@@ -1,0 +1,15 @@
+{
+    "type": "compressedengineering:assembler_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:nicd_battery_assembly"},
+      "B": {"item":"nyagibits_bytes:sealant"},
+      "C": {"item":"minecraft:red_dye"}
+    },
+    "pattern": [
+      "ABC"
+    ],
+    "result": {
+      "count": 1, 
+      "item": "nyagibits_bytes:nicd_battery"
+  }
+  }

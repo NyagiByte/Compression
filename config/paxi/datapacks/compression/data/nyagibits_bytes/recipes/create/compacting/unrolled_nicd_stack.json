@@ -1,0 +1,22 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "immersiveengineering:plate_duroplast"
+      },
+      {
+        "item": "immersiveengineering:plate_duroplast"
+      },
+      {
+        "item": "nyagibits_bytes:nickel_iii_oxy_hydroxide_dust"
+      },
+      {
+        "item": "chemlib:cadmium_hydroxide_dust"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:unrolled_nicd_stack"
+      }
+    ]
+  }

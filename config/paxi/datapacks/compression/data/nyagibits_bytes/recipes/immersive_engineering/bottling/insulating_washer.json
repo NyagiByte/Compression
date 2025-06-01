@@ -1,0 +1,17 @@
+{
+    "type":"immersiveengineering:bottling_machine",
+    "fluid":
+        {
+        "amount":50,
+        "tag":"forge:phenolic_resin"
+    },
+    "input":
+        {
+            "item":"nyagibits_bytes:mold_insulating_washer"
+            },
+            "results":[{
+                "item":"nyagibits_bytes:insulating_washer"
+                },
+                {"item":"nyagibits_bytes:mold_insulating_washer"}
+                ]
+            }

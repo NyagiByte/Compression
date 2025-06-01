@@ -1,0 +1,10 @@
+{
+    "type":"immersiveengineering:blast_furnace",
+    "input":{
+        "item":"chemlib:cadmium_dust"
+            },
+        "result":{
+            "item":"nyagibits_bytes:cadmium_oxide_dust"
+                 },"slag":{
+                        "item":"supplementaries:ash"
+                          },"time":20}

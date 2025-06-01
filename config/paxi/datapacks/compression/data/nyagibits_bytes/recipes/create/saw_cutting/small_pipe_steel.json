@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:rolled_mild_steel"
+      }
+    ],
+    "processingTime": 10,
+    "results": [
+      {
+        "count": 16,
+        "item": "nyagibits_bytes:small_pipe_steel"
+      }
+    ]
+  }

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:narslimmus_mush"},
+      "B": {"item":"botania:manaweave_cloth"},
+      "C": {"item":"botania:mana_powder"}
+    },
+    "pattern": [
+      " A ",
+      "BCB",
+      " B "
+    ],
+    "result": {
+        "count": 32,
+        "item": "nyagibits_bytes:rune_binder"
+    }
+  }

@@ -1,0 +1,14 @@
+{
+	"type":"vintageimprovements:coiling",
+	"ingredients": [ {
+      "item": "immersiveengineering:plate_steel"
+    }
+  ],
+	"results": [
+		{
+			"item": "nyagibits_bytes:rolled_mild_steel",
+			"count": 1
+		}
+	],
+  "processingTime": 60
+}

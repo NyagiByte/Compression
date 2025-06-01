@@ -1,0 +1,77 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "nyagibits_bytes:nicd_battery"},
+    "loops": 1,
+    "results": [
+      {
+        "item": "nyagibits_bytes:nicd_battery_bank"
+    }
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:nicd_battery"
+          },
+          {
+            "item": "nyagibits_bytes:nicd_battery"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:nicd_battery"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:nicd_battery"
+          },
+          {
+            "item": "nyagibits_bytes:nicd_battery"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:nicd_battery"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:nicd_battery"
+          },
+          {
+            "item": "nyagibits_bytes:nicd_battery"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:nicd_battery"
+            }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:nicd_battery"
+          },
+          {
+            "item": "nyagibits_bytes:solder_wire"
+          }
+        ],
+        "results": [
+            {
+                "item": "nyagibits_bytes:nicd_battery"
+            }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:nicd_battery"}
+  }
