@@ -39,12 +39,12 @@
     },
     {
       "item": "nyagibits_bytes:shadow_steel"
-    },
-    {
-      "item": "nyagibits_bytes:rune_binder"
     }
   ],
   "mana": 10400,
+  "catalyst": {
+    "item": "nyagibits_bytes:rune_binder"
+  },
   "output": {
     "count": 2,
     "item": "botania:rune_mana"

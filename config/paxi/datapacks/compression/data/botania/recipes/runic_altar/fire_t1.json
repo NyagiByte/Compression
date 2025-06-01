@@ -24,12 +24,12 @@
     },
     {
       "item": "chemlib:phosphorus_dust"
-    },
-    {
-      "item": "nyagibits_bytes:rune_binder"
     }
   ],
   "mana": 2500,
+  "catalyst": {
+    "item": "nyagibits_bytes:rune_binder"
+  },
   "output": {
     "count": 2,
     "item": "botania:rune_fire"

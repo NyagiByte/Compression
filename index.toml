@@ -2958,35 +2958,35 @@ hash = "9e43d5e45b8f0aa1607731da898803c5fb457d81aff98cb43278439ae3e3831a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/air.json"
-hash = "49caff7c71af2ec2f01649dcb6f476770ebec742bf0ab97c5eae644eb6198d10"
+hash = "74e68fea90c780c6e06fa4306a688fefb69d486ad06cc65fdabfa1f26287a3df"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/catalytic.json"
-hash = "318688e2d82208697e39b9ac2e870295ce02fda4a0f1723c9494d9d9fa12f7bb"
+hash = "ec8430e2325fa5e16a3f597d9a425ea26046e8467550bffcbd9d9e041aeaba50"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/earth.json"
-hash = "37331ea733e15fcb59a6057e2cabde1a849cd9254f11350c49a58ba897090e3f"
+hash = "7e067b94ecd8812b4c657d97c4f495d6c13cbc6cfad42a3ed38538dac7f3f11e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/fire.json"
-hash = "671478b9b96da0d3b1ae8d35a97c0bb53fd231712f812f69bab95cfcaeb0f1f3"
+hash = "18039539d201f99df51bb306ba0b17f1ed53042934c3b9bfa3b0eb8cb8f03a74"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/fire_t1.json"
-hash = "e8a52b44097ee7cb75bc6277175537b389b2dfdb5a65741b391d8c31e566235e"
+hash = "f9a4b19c568e85550115e689c5bb100e149e090c868a35c1c503ec0f3f56985f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/magnetic.json"
-hash = "f43f11c50df5654d97f91d5036f38fd21a52422f7b529c38e26346c9ba3daba9"
+hash = "50a51e214e9085a00345f14c15ab3a1228c60cc9de3bd1da8c836f8b17cacdc6"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/mana.json"
-hash = "8147c7553932f54b595d87f47ad983d90c38a46a51fb4504bda44ef166a476d8"
+hash = "184402def17f4758a8dc676ca1e011b3c3d1060d3ad50d6a261017ab4b9be494"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/water.json"
-hash = "c90593ee84caef0f0128cc15fcf168e13f1cca0a017d58723b99a09c21c1492c"
+hash = "5f52a2fb93771d05a6af6f782ca6332f904499cecd2889cb656b2c6093d42d86"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar_alt.json"
@@ -7306,19 +7306,19 @@ hash = "c45c69950a65a858a000636d8f358bd347d6f57d9e222ab5572ffeed37145d53"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/runic_altar/lexicon.json"
-hash = "e959fe5756247cd3c064818149e38e34960faf5c56095ac21ddd278426b77216"
+hash = "21c6344fd5c0e2bbffa19a8484cbbd80bf8e95302cd76dab4fab906f7395b55f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/runic_altar/mana_infused_casing.json"
-hash = "e7bea22f22a6bbcc37ab2690e3e15a90964fee78a18230538c97e18af9589251"
+hash = "a4004376c42d5cc4aa37d81ecc7d9aa9ba452870579af2c6bca419a04f26344a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/runic_altar/metamorphic_alloy.json"
-hash = "c1b6263e86a67a519508be9e7bc59448142ef81e61d9f4b79a21d8bb617a31d5"
+hash = "4391e7b38ab228d6ce576adacd959c945abcf85973929f1337f31824a6f29129"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/runic_altar/ore_extraction_plate.json"
-hash = "9a0b6cdb559f5d4b6a3c0fffe5f03e5d41adaeb54ac18d86d3cb8a4c92102dc7"
+hash = "ca1051c43dc4a90ee205d3e94d02f71c7128b9d227c2ed895d99d66efdfda6c4"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/agar_gel.json"
@@ -14831,7 +14831,7 @@ metafile = true
 
 [[files]]
 file = "mods/compressed-botanics.pw.toml"
-hash = "9c4d2aeb328504af83f7624552291852fef6c6c0161b7b4363c26db8bfee5b32"
+hash = "d6403e226208daaf346a5a6df7c9eeda93c733f4a2992961352474cd6b214bea"
 metafile = true
 
 [[files]]
