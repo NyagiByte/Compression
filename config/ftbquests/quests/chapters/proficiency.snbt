@@ -195,6 +195,14 @@
 					title: "?"
 					type: "item"
 				}
+				{
+					consume_items: true
+					count: 14L
+					id: "4E13BBED8B51742F"
+					item: "nyagibits_bytes:tier_zero_strawberry"
+					title: "Tools Of Industry"
+					type: "item"
+				}
 			]
 			title: "Tier 0 Mastery"
 			x: 0.0d

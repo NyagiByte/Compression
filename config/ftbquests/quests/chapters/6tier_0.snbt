@@ -116,7 +116,7 @@
 			id: "21625928069FF7FA"
 			tasks: [{
 				id: "1CC98EA7493C4FF2"
-				title: "Or do, i'm not your parent"
+				title: "Or do, I'm not your parent"
 				type: "checkmark"
 			}]
 			title: "Do Not Avoid Farms!"
@@ -235,7 +235,7 @@
 			description: [
 				"Your first beautiful aiot"
 				""
-				"Now, before you scurry off and use it until failure &ait is recommended to use this tool to help you stock up a few more tools&r, just incase yaknow"
+				"Now, before you scurry off and use it until failure &ait is recommended to use this tool to help you stock up a few more tools&r, just in case yaknow"
 				""
 				"&dShift Right-click to change modes"
 			]
@@ -278,7 +278,7 @@
 		}
 		{
 			dependencies: ["342544B909351001"]
-			description: ["A singular sand paper is able to yield about &e8&r polished stones. I'd recommend making &ba stack or two&r of these at a time"]
+			description: ["A singular sand paper is able to yield about &e32&r polished stones. I'd recommend making &ba stack or two&r of &dPolished Livisite&r at a time"]
 			icon: "botania:polished_livingrock"
 			id: "21EBC179B83DE39D"
 			tasks: [{
@@ -292,7 +292,7 @@
 		}
 		{
 			dependencies: ["343ECB22C2C6AB2E"]
-			description: ["Iron! &cI cant wait for every mod to use 7 trillion of it"]
+			description: ["Iron! &cI can't wait for every mod to use 7 trillion of it"]
 			icon: "minecraft:iron_ingot"
 			id: "1800AA593EB0F020"
 			tasks: [{
@@ -449,9 +449,9 @@
 				"74717735BC45A113"
 			]
 			description: [
-				"For anyone that hasnt been graced by the agony of accidentally making obsidian on a skyblock &ehere is a fairly simple setup that will work:&r"
+				"For anyone that hasn't been graced by the agony of accidentally making obsidian on a skyblock &ehere is a fairly simple setup for a &6cobblestone generator&r that will work:&r"
 				""
-				"&cDo Note:&r The setup written below is to be &bvisualized being vertical&r, 3 blocks tall, so the drill is uptop and the hopper is below"
+				"&cDo Note:&r The setup written below is to be &bvisualized being vertical&r, 3 blocks tall, so the drill is up top and the hopper is below"
 				""
 				"&c[L] - Lava Source Block&r"
 				"&7[C] - Where the cobblestone forms&r"
@@ -488,7 +488,7 @@
 				""
 				"By placing &bWater, &cLava,&r or &6Fire&r directly infront of an encased fan pushing air forward, that gust of wind can &bwash, &cblast,&r or &6smoke&r items dropped in front of it."
 				""
-				"The amount you drop at once does affect the processing times, but is fairly small"
+				"The amount you drop at once does affect the processing times, but the effect is fairly small"
 				""
 				"Much like mechanical presses &adepots&r work here too, but outside of manual use, the &breal automation solution&r is to have one blow over a long belt moving towards it &6slowly&r to ensure the items process"
 			]
@@ -521,7 +521,7 @@
 				title: "Splish Splash I'm Takin' A Bath"
 				type: "checkmark"
 			}]
-			title: "Washing Vigerously"
+			title: "Washing Vigorously "
 			x: -1.0d
 			y: 6.5d
 		}
@@ -652,7 +652,7 @@
 		{
 			dependencies: ["4C1E98828193DC20"]
 			description: [
-				"&aKelp&r yeah no thats it, start farming it."
+				"&aKelp&r yeah no that's it, start farming it."
 				""
 				"Industrial fans with &cfire&r will smoke kelp in bulk"
 			]
@@ -803,7 +803,7 @@
 		{
 			dependencies: ["05C0FBBDDC62201D"]
 			description: [
-				"&dHuzza!&r Something to forever take up an inventory slot"
+				"&dHuzza a &6Wrench&d!&r Something to forever take up an inventory slot"
 				""
 				"These can instantly collect create components upon a &eshift right-click&r, or simply rotate them with a &eright click&r"
 			]
@@ -814,7 +814,7 @@
 				title: "I already lost the 10mm socket dammit"
 				type: "checkmark"
 			}]
-			title: "I think i already made the dodging joke"
+			title: "I think I already made the dodging joke"
 			x: 0.0d
 			y: 2.5d
 		}
@@ -841,7 +841,7 @@
 			description: [
 				"While &bQuartz boulders&r have high amounts of quartz themselves in addition to multiple unique items, sometimes you just need regular ol' quartz to get those unpolished rose quartz."
 				""
-				"Thankfully if you already have found either &esoul sand or soul soil&r they can be converted into eachother, and more importantly, used in an &aencased fan&r in place of &cnetherrack&r to give it a &3soul fire&r instead."
+				"Thankfully if you already have found either &esoul sand or soul soil&r they can be converted into each other, and more importantly, used in an &aencased fan&r in place of &cnetherrack&r to give it a &3soul fire&r instead."
 				""
 				"This allows for \"haunting\" recipes, sand can now become soul sand and washed into &dquartz"
 			]
