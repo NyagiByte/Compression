@@ -14657,10 +14657,6 @@ file = "kubejs/startup_scripts/worldgen.js"
 hash = "e36d34120d86356da340083fbccf6161629e61a2e40946fa633b2d1bbf10012a"
 
 [[files]]
-file = "mods/3dskinlayers-forge-1.5.2-mc1.19.1.jar"
-hash = "30e7d9018e0ba50dee18cb8a4101c0f139a30b980194179ff486d579c52ae694"
-
-[[files]]
 file = "mods/Create-Construction-Wands.zip"
 hash = "a0d23a32a13d95434239dcf16a5334489be694e3c13cd6384021d17220eadb34"
 
@@ -15145,12 +15141,8 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "657ae63e2d5f25867c9d179784eaae3b53ff5e1ba31533781b476c93becb5264"
+hash = "56b130b6b7462bcff9085d43e7d53a1d5c5f0ee1744f63c4faee093538bc3825"
 metafile = true
-
-[[files]]
-file = "mods/konkrete_forge_1.8.0_MC_1.19-1.19.2.jar"
-hash = "2c1902deb1587f28a35874b0e9c4a367111ebb3ea7e39838dd0050b37b483832"
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
@@ -15223,8 +15215,9 @@ hash = "f6cc47777418eada79b50d6cdd57bd6dc35017f8e46defd5e888a2d6215be0e1"
 metafile = true
 
 [[files]]
-file = "mods/melody_forge_1.0.1_MC_1.19.2.jar"
-hash = "c9ce1a75bf33ff10bd1dd6074a7b39ed49fc7e03173e7ea9dc7d61715bd3d11b"
+file = "mods/melody.pw.toml"
+hash = "313e8d86888699c1b31c8440938b7512171ad7f123f0ef4689878f933eff188e"
+metafile = true
 
 [[files]]
 file = "mods/mod-name-tooltip.pw.toml"
@@ -15272,8 +15265,9 @@ hash = "a64a7f239c438513d1f92766d353cfe547b9a03eaa33b53c937e179bac2ca406"
 metafile = true
 
 [[files]]
-file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "6b8ea1fb29b90a8b4893a99d86758934faecea73a6fab437557c9cdd5325ec70"
+file = "mods/nyagis-bits-bytes.pw.toml"
+hash = "e94bcb3b0e72132b61817638c5b41777f1bf556b852edf71edf43a230a661736"
+metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
@@ -15398,6 +15392,11 @@ metafile = true
 [[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "0f1b9970b4dddf8ff69a778c25dcadda8e91e0305c26581ebb7c1d7f54c3b7f9"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "acc025d2146d6f489546a4d679d7af3f559c7ca8cc9b0fc2ccb4fa19a3ddbc37"
 metafile = true
 
 [[files]]
