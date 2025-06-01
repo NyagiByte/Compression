@@ -14976,8 +14976,9 @@ hash = "f98f11d8a4bd35925c2be8efe43a6c853d34955abc7273aa4e8e76170e9c2884"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu_forge_3.3.1_MC_1.19.2.jar"
-hash = "f0d3d73c00b0181355cd392a4495c0e9d50c587cae26993e593f992427e8effb"
+file = "mods/fancymenu.pw.toml"
+hash = "88ae621ba8d7485996c9110b02357e24b2e519439aaaea99b278e16cf9b01466"
+metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
@@ -15271,7 +15272,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "ad5ea7db099e46fb75851c3ec91393256006c78e55eb4615ca7c764f1668e2e8"
+hash = "e7843e20e052f74f69cb82db6613b83ff2394f25541b1b501ae8838cab755ca4"
 metafile = true
 
 [[files]]
