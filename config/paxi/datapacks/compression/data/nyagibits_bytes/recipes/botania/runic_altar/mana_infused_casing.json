@@ -15,12 +15,12 @@
     },
     {
       "item": "pneumaticcraft:plastic"
-    },
-    {
-      "item": "pneumaticcraft:printed_circuit_board"
     }
   ],
   "mana": 20000,
+  "catalyst": {
+    "item": "pneumaticcraft:printed_circuit_board"
+  },
   "output": {
     "count": 1,
     "item": "nyagibits_bytes:mana_infused_casing"

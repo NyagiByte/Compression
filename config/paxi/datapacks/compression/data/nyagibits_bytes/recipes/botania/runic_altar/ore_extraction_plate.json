@@ -12,6 +12,7 @@
     }
   ],
   "mana": 10000,
+  "use_catalyst": false,
   "output": {
     "count": 1,
     "item": "nyagibits_bytes:ore_extraction_plate"
