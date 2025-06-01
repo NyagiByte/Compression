@@ -4506,7 +4506,7 @@ hash = "175d97d79e54716052929a2393cfc684ba0f0958f31d3402051add920fc5fe39"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/entangled/recipes/block.json"
-hash = "fe6f304026a26d62bcffbd7d70288da6d1e9b8c6aedc1143df4141c4c24eb8a1"
+hash = "50c15f72179b9de95549bfc35e1c7dd9424cfb98d00d889aeee7040b5d2caa9d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/entangled/recipes/item.json"
@@ -10789,22 +10789,6 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_cr
 hash = "036fbf56973dccfb9c37df821f5cbdbf15e25aaeb764ca6bd89af1e6bede89b2"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/block_of_1080_high_carbon_steel.json"
-hash = "4705770003bd93c97182d6a64692e97fb169815654773f14946aac95671c0d48"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/block_of_15n20_high_carbon_steel.json"
-hash = "6c691f4717bb3c247e08cfaebae2d1c3fedbc8c82457688085b272361580133b"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/block_of_damascus_steel.json"
-hash = "f2a4aa00ee0aac1fbbcb663728f1167dcf3e86f160a4260e9dc045229421cabe"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/block_of_stainless_steel.json"
-hash = "f314d327aa3335c3896d9470f2319072e0839116542d9fffc64e4f9c2b0d8cc9"
-
-[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/botanical_core.json"
 hash = "8803044548b221ac04a12ad6d8191e736780dbd7a35569a32eba4bf19f2e47cb"
 
@@ -10871,6 +10855,22 @@ hash = "493d381c43b8408f25b36d963ac0bdcb15cae6b2ca3d9431d8c084502e9b9aae"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/item_to_block/bixbite.json"
 hash = "34f399f75fc569ae37f1ea877e7e11733f5f428b0549caabc20d085fae49e03e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/item_to_block/block_of_1080_high_carbon_steel.json"
+hash = "4705770003bd93c97182d6a64692e97fb169815654773f14946aac95671c0d48"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/item_to_block/block_of_15n20_high_carbon_steel.json"
+hash = "6c691f4717bb3c247e08cfaebae2d1c3fedbc8c82457688085b272361580133b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/item_to_block/block_of_damascus_steel.json"
+hash = "f2a4aa00ee0aac1fbbcb663728f1167dcf3e86f160a4260e9dc045229421cabe"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/item_to_block/block_of_stainless_steel.json"
+hash = "f314d327aa3335c3896d9470f2319072e0839116542d9fffc64e4f9c2b0d8cc9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/item_to_block/goshenite.json"
@@ -11023,6 +11023,22 @@ hash = "77d63243c4972a4a70e8be7f07a0d52c574c2e32aa037b6a6f21c04e616b66f6"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/block_to_item/block_morganite.json"
 hash = "9073004b1bdcb89912fb89cce29db4c12f8e591e2742f2b081cd4b4d4cddcb61"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/block_to_item/block_of_1080_high_carbon_steel.json"
+hash = "ea8d481fa7827423c6952850d013f71c847b0cff8c07a7b263c957a1d28a1979"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/block_to_item/block_of_15n20_high_carbon_steel.json"
+hash = "ee1e25e3a3ac39c0d5cad26fa1cc14ce0204d69cf3656f21bacbf5ec9957c1df"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/block_to_item/block_of_damascus_steel.json"
+hash = "8aa2f77735efafaacf33ef15e69850e0611a7eb70b84015cb47fd1d7cc793b3b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/block_to_item/block_of_stainless_steel.json"
+hash = "8bd2c61e26b3dbd81342f8503021e915b6590b97b132353a67873d76ff8680ce"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/block_to_item/block_pezzottaite.json"
