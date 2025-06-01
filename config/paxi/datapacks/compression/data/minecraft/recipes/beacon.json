@@ -20,13 +20,13 @@
         "item": "botania:mana_mirror"
       },
       {
-        "item": "minecraft:sea_lantern"
-      },
-      {
         "item": "immersiveengineering:floodlight"
       }
     ],
     "mana": 200000,
+    "catalyst": {
+      "item": "minecraft:sea_lantern"
+    },
     "output": {
       "item": "minecraft:beacon"
     }

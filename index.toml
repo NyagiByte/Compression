@@ -1954,7 +1954,7 @@ hash = "765a0a23f6546cd48b76a5dc9f10f799bad6cab412472e7abdebd299c3323e76"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/brewery.json"
-hash = "d98a4a8e2419d82316fd08798ff976f66d73b7dfc0a7e7fcd1ee10d24d0b34d6"
+hash = "ac6fa512ce49f5adfe951995296c00626390251521c55ca5d282b4f1e3cd1d0e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/brown_floating_flower.json"
@@ -2442,11 +2442,11 @@ hash = "83bc92c2d71c45fd6a37862a97b4afb5db4e33e2bcb621ca09f67314f45085de"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_gun.json"
-hash = "9844f062b26d59dfdfc3a1c0500e2c7e5228796453b183a26866b606a97595dd"
+hash = "2e4a47b087e029b34e2a49c220c5610c87843cd886fe309280fbf07fbba925e0"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_gun_t1.json"
-hash = "4df717e4d8110cc7925c215164b19a4b3d525bbe0cae2110f67a19a579133bb9"
+hash = "481e072b632f5f102ab3d8c6170b91e0f10999cd499aa984c284532088a4c666"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_infusion/mana_diamond.json"
@@ -2486,7 +2486,7 @@ hash = "8957f73e3415cd96b1165237a5fa7a29457b80780b66c0c27361514340db1f12"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_infusion/tiny_potato.json"
-hash = "086bd376bbe640290f20015361aca8a01a5070760b2ea10b9c1d5e2b4a10e3df"
+hash = "998649aae04031aed64b1a0b73c9e487c2b2e65e8ba74653d66d7840a00801e2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_mirror.json"
@@ -2498,7 +2498,7 @@ hash = "f5b360a1916ceb76e946582ee3a28583d2317e21020304b03a954f5ae9cd8caf"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_pylon.json"
-hash = "cc5b8e2fae9ea5fa2734eec4729118fb22a13102aa4f76904d2de4e0eb3cbb97"
+hash = "f8fd705900ccb281f80629c35fa6b4ccd733651d29ae7fa5a86a11b0e1ff1ed6"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_ring.json"
@@ -2510,7 +2510,7 @@ hash = "4e5cd56a77a32629eaa1da553ae8490ff2183c665692c39fa4985e55da22c160"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_tablet.json"
-hash = "f2d33740e037a80e9c4b0ab02fc162fe523d883284a743d678247a542efc810a"
+hash = "76375f675dece8b1c6633dc2b3907ffb9417d1ada52edc3d8b00c7bcbddb3fa2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_void.json"
@@ -4510,7 +4510,7 @@ hash = "fe6f304026a26d62bcffbd7d70288da6d1e9b8c6aedc1143df4141c4c24eb8a1"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/entangled/recipes/item.json"
-hash = "fe50a1a029469c95480d0df244061687b100076c95872c0ad5cc0b42e93a0501"
+hash = "466d45bebf58981d9024a4aa15576741ca6d7d48de28267e88de45777e6abfb3"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/farmersdelight/recipes/cutting/ancient_birch_log.json"
@@ -6934,7 +6934,7 @@ hash = "0c88a71d193af10d103cc90badb697f5b7f00ecfa4bcb2109eae0524efaacc90"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/beacon.json"
-hash = "568827ad9a89fde94ddf6759c3f1f53ab7db1b4cedbc4da49f1a39e57f4e43d1"
+hash = "c95278eea2a784fabf8828bbb82f6ff539fce1cf0a6df0cea56d86af61a59bc9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/black_concrete_powder.json"
@@ -7006,11 +7006,11 @@ hash = "da518aa51bb6044d8407db91c7c6ee204d6ae45ac6c775006450c0e25dba365a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/enchanting_table.json"
-hash = "11134fce91f24b4c3b4866542472535929a1f1b56187dc7dfeaf00238ddc1240"
+hash = "859e8b525b0cb13a792a66da0796f6e6a39f3fe747fd209b08ff8ddfa64ce4ad"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/ender_chest.json"
-hash = "4b28cd60a83bb8aa4b5dc518d2756a771682b89260b62a18767b186cb7479a89"
+hash = "681aeb8a7d8d4ba7ea2a14cc14501d80e99889cebc49148e1cabbeb5a331b450"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/fishing_rod.json"

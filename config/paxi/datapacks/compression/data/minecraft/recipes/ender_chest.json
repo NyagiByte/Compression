@@ -30,6 +30,9 @@
       }
     ],
     "mana": 100000,
+    "catalyst":{
+      "item": "ae2:sky_stone_chest"
+    },
     "output": {
       "item": "minecraft:ender_chest"
     }

@@ -9,12 +9,12 @@
       },
       {
         "item": "botania:prism"
-      },
-      {
-        "item": "nyagibits_bytes:metamorphic_alloy"
       }
     ],
     "mana": 5000,
+    "catalyst": {
+      "item": "nyagibits_bytes:metamorphic_alloy"
+    },
     "output": {
       "count": 2,
       "item": "botania:mana_tablet"
