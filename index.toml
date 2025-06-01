@@ -4297,6 +4297,10 @@ file = "config/paxi/datapacks/compression/data/create/recipes/cutting/andesite_a
 hash = "fafda37d1766ba01415c1b52132aa84a54f19b03b670ab5dc5818f6652ddb198"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/cutting/andesite_alloy_t1.json"
+hash = "494720253af40bf75a103c445d713de8887329540dbbcbc86c658e59f9fc452b"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/filling/blaze_cake_fuel.json"
 hash = "17565253989f9459f81dcf499ec8b79e2880224f7e4b3306a0c0e40222a2c070"
 
@@ -11059,6 +11063,10 @@ hash = "780bce1b2d8ee09b80e5243e6a6382ea0b04ea159ae4a9a32b4f44df56de69eb"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/pen_assembly.json"
 hash = "1e2dd01c535101247be954a3062a054944316c62c0ec599699a92dc3585205b1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/pen_assembly_t1.json"
+hash = "e5667ff56b7f4023318e0d17085c37f68761ad56786ec2c2d2c993dd397aa855"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/petri_dish_agar_agar.json"
