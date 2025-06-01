@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "nyagibits_bytes:wrought_ball_bearing"
+        },
+        {
+            "item": "nyagibits_bytes:small_pipe_steel"
+        },
+        {
+            "item": "nyagibits_bytes:wrought_tiny_spring"
+        },
+        {
+            "item": "nyagibits_bytes:ink_cartridge"
+        }
+    ],
+    "result": {
+        "count": 4,
+        "item": "nyagibits_bytes:pen_assembly"
+    }
+}
