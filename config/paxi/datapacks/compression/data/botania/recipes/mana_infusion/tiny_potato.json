@@ -23,13 +23,13 @@
         "item": "nuclearcraft:californium_rtg"
       },
       {
-        "item": "ae2:singularity"
-      },
-      {
         "item": "minecraft:rabbit_foot"
       }
     ],
     "mana": 100000000,
+    "catalyst": {
+      "item": "ae2:singularity"
+    },
     "output": {
       "item": "botania:tiny_potato"
     }

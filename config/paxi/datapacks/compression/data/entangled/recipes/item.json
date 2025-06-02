@@ -12,12 +12,12 @@
       },
       {
         "item": "botania:red_string"
-      },
-      {
-        "item": "create:redstone_link"
       }
     ],
     "mana": 10000,
+    "catalyst": {
+      "item": "create:redstone_link"
+    },
     "output": {
       "count": 1,
       "item": "entangled:item"

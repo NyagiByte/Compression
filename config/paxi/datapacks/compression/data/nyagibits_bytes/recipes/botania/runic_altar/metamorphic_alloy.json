@@ -5,9 +5,6 @@
       "item": "create:andesite_alloy_block"
     },
     {
-      "item": "nyagibits_bytes:livisite_alloy"
-    },
-    {
       "item": "botania:metamorphic_forest_stone"
     },
     {
@@ -33,6 +30,9 @@
     }
   ],
   "mana": 1000,
+  "catalyst": {
+    "item": "nyagibits_bytes:livisite_alloy"
+  },
   "output": {
     "count": 2,
     "item": "nyagibits_bytes:metamorphic_alloy"

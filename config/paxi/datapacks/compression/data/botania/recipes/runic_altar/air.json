@@ -24,12 +24,12 @@
     },
     {
       "item": "create:steam_engine"
-    },
-    {
-      "item": "nyagibits_bytes:rune_binder"
     }
   ],
   "mana": 5200,
+  "catalyst": {
+    "item": "nyagibits_bytes:rune_binder"
+  },
   "output": {
     "count": 2,
     "item": "botania:rune_air"

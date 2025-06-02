@@ -11,9 +11,6 @@
         "item": "minecraft:brewing_stand"
       },
       {
-        "item": "botania:rune_mana"
-      },
-      {
         "item": "vintageimprovements:aluminum_rod"
       },
       {
@@ -36,6 +33,9 @@
       }
     ],
     "mana": 100000,
+    "catalyst": {
+      "item": "botania:rune_mana"
+    },
     "output": {
       "item": "botania:brewery"
     }

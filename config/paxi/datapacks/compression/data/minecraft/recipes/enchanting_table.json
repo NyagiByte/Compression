@@ -17,9 +17,6 @@
         "item": "minecraft:red_carpet"
       },
       {
-        "item": "minecraft:book"
-      },
-      {
         "item": "nyagibits_bytes:rosa_arcana_mush"
       },
       {
@@ -27,6 +24,9 @@
       }
     ],
     "mana": 200000,
+    "catalyst": {
+      "item": "minecraft:book"
+    },
     "output": {
       "item": "minecraft:enchanting_table"
     }

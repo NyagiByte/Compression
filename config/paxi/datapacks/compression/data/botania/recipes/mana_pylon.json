@@ -14,9 +14,6 @@
         "item": "nyagibits_bytes:manasteel_lattice"
       },
       {
-        "item": "nyagibits_bytes:rune_magnetic"
-      },
-      {
         "item": "nyagibits_bytes:botanical_core"
       },
       {
@@ -27,6 +24,9 @@
       }
     ],
     "mana": 50000,
+    "catalyst": {
+      "item": "nyagibits_bytes:rune_magnetic"
+    },
     "output": {
       "count": 4,
       "item": "botania:mana_pylon"

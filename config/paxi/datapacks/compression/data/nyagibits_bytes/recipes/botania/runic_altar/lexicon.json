@@ -8,9 +8,6 @@
       "item": "nyagibits_bytes:sodium_hypochlorite"
     },
     {
-      "item": "nyagibits_bytes:rune_binder"
-    },
-    {
       "item": "nyagibits_bytes:lab_notebook"
     },
     {
@@ -30,6 +27,9 @@
     }
   ],
   "mana": 5000,
+  "catalyst": {
+    "item": "nyagibits_bytes:rune_binder"
+  },
   "output": {
     "count": 1,
     "item": "nyagibits_bytes:lexicon"

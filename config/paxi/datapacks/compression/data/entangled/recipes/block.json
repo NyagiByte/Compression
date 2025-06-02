@@ -21,12 +21,12 @@
       },
       {
         "item": "nyagibits_bytes:steel_casing"
-      },
-      {
-        "item": "botania:rune_mana"
       }
     ],
     "mana": 100000,
+    "catalyst": {
+      "item": "botania:rune_mana"
+    },
     "output": {
       "count": 8,
       "item": "entangled:block"
