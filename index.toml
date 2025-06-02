@@ -13770,7 +13770,7 @@ hash = "4b1c2817d28741ff7766c56ffe03f346f425c219b0ce4399474da9ae50fb9cd1"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/alchemistry/lang/pt_br.json"
-hash = "bc155655c773886ab9c69e8479bc9b3b06db24ffd96db987777d7c942b638573"
+hash = "fe17fa937974d85bc7431f2a92b241e619d827f718168ec73912460da9504d4c"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/botania/lang/en_us.json"
@@ -13786,7 +13786,7 @@ hash = "80e62be37469b6fc605170a97bcb42a41fea415aad3c544dc4b6c383434cab99"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/chemlib/lang/pt_br.json"
-hash = "a132291ca3b9dd51d97fc681104ccef1d1c2a630495df8840c12bf7dc65851a2"
+hash = "99d61d5dd8ae0b3a3b3df3e33bac9d20319d785179783fee80cc98afb8832531"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/chemlib/textures/items/ingot.png"
@@ -14234,7 +14234,7 @@ hash = "4d6af63cfec0d06dc2097b9c4ca76501a312f3d4ffcbe0876fba2e47da257fb4"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/minecraft.js"
-hash = "4e7daeb4ef5ef878c26411df6fdbcfa28202407ebbeeae8e21e0b6a314c91244"
+hash = "e944c55f1de0b3e9da797e588dc36ccccb8a824155bb023edee63101868f724d"
 
 [[files]]
 file = "kubejs/config/client.properties"
