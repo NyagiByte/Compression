@@ -7517,6 +7517,18 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "d8b1981e8d1871c965e226b08da64e031194680aaa6c6efd58c2ac92b2c61cbc"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/crushed_copper_to_dust.json"
+hash = "66b7c1e58725e47a9cf94002cc7a82406a8d063c946004540463f23a16050112"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/crushed_gold_to_dust.json"
+hash = "68b082811652fe1dc09ca16458dbd76f2db1caf4f3cc857484ee7869333e10b1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/crushed_iron_to_dust.json"
+hash = "0424ed3bfd62faefff0a38ab56f0b0f481d25494209b49d51b20cf6b4ec0c97e"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/crushed_lead_to_dust.json"
 hash = "b3711af34fa52875d848f893fd0e6298092a0fc4513be160b4e2edfc5bf4a1e6"
 
@@ -14222,7 +14234,7 @@ hash = "21d2bc85a125c64d258f50bed489949fda3e6c7fa2cc6a4518db9a528b7c4f00"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
-hash = "1e3a2f4cd07d5f216f90e9723a462610f8cde48adb7d92b1bad08dfb7a3e32dc"
+hash = "d3ae1b2401e1557a216b5e2882975203b3835c9be163212a001dd0ea5a11635d"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/compactcrafting.js"
