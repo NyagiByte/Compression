@@ -6,3 +6,11 @@
 	"Elytra Damage Negation Cost" = 750
 	#How much mana should the elytra draw to repair a previously lost point of durability. Manasteel armor is 140.
 	"Elytra Damage Repair Cost" = 1000
+	"No Villagers from Cocoon" = true
+	#Whether to block chorus fruits from being used on the Cocoon of Caprice, making it unable to spawn shulkers
+	"No Shulkers from Cocoon" = false
+	#Whether to block gaia spirits from being used on the Cocoon of Caprice, forcing players to use the normal rare mob chances
+	"No guaranteed rares from Cocoon" = false
+	#The chance that a Cocoon of Caprice spawns from the rare list instead of the common list. Default is 0.075 or 7.5%
+	#Range: 0.0 ~ 1.0
+	"Cocoon Rare Chance" = 0.075

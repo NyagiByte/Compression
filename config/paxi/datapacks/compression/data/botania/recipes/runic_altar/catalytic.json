@@ -42,6 +42,9 @@
     }
   ],
   "mana": 30000,
+  "catalyst": {
+    "item": "create:super_glue"
+  },
   "output": {
     "count": 1,
     "item": "nyagibits_bytes:rune_catalytic"

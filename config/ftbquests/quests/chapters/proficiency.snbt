@@ -175,7 +175,6 @@
 				}
 				{
 					consume_items: true
-					count: 3L
 					id: "3BB2537A76BC51E8"
 					item: "nyagibits_bytes:tier_zero_strawberry"
 					title: "T0 Tutorials"
@@ -194,6 +193,14 @@
 					id: "2F71CB70899D9A99"
 					item: "nyagibits_bytes:tier_zero_strawberry"
 					title: "?"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 14L
+					id: "4E13BBED8B51742F"
+					item: "nyagibits_bytes:tier_zero_strawberry"
+					title: "Tools Of Industry"
 					type: "item"
 				}
 			]

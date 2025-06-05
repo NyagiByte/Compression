@@ -2,7 +2,7 @@
 const WispParticleData = Java.loadClass("vazkii.botania.client.fx.WispParticleData")
 const ParticleTypes = Java.loadClass("net.minecraft.core.particles.ParticleTypes")
 
-Ponder.tags((e) => {e.createTag("compression:botania", "botania:lexicon", "Botania", "For all your floral needs", ["#forge:petal_apothecary", "botania:pure_daisy", "botania:endoflame", "botania:entropinnyum", "botania:munchdew", "botania:gourmaryllis", "botania:narslimmus", "botania:hydroangeas", "botania:thermalily", "botania:rosa_arcana"])})
+Ponder.tags((e) => {e.createTag("compression:botania", "botania:lexicon", "Botania", "For all your floral needs", ["#forge:petal_apothecary", "botania:pure_daisy", "botania:fel_pumpkin", "botania:cocoon", "botania:endoflame", "botania:entropinnyum", "botania:munchdew", "botania:gourmaryllis", "botania:narslimmus", "botania:hydroangeas", "botania:thermalily", "botania:rosa_arcana"])})
 //------------------------------------------------------------------
 Ponder.registry((e) => {
 //------------------------------------------------------------------
@@ -680,8 +680,200 @@ Ponder.registry((e) => {
                     }); 
 
 
+        e.create("botania:fel_pumpkin")
+            .scene("fel_pumpkin", "No Fortress? No Problem. (kinda)", "kubejs:botania_7x7", (scene, util) => {
+                scene.showBasePlate();
+                scene.idle(10);
+                scene.world.setBlock([3,1,3], "botania:fel_pumpkin", false)
+                scene.world.modifyBlock([3,1,3], (cur) => cur.with("facing", "north"), false)
+                scene.world.showSection([3,1,3], Facing.down)
+                scene.text(80, "The Fel Pumpkin can help you get a reliable supply of blaze powder even without a fortress available.", [3.5,1.5,3.5]).placeNearTarget();
+                scene.idle(65)
+                scene.world.hideSection([3,1,3], Facing.up)
+                scene.idle(20)
+                scene.world.setBlock([3,1,3], "minecraft:iron_bars", false)
+                scene.idle(10) 
+                scene.addKeyframe()
+                scene.text(80, "To use it, place it on top of two iron bars, in the same way you would build a snowman.", [3.5,3.5,3.5]).placeNearTarget();
+                scene.idle(20)
+                scene.world.showSection([3,1,3], Facing.down)
+                scene.idle(20)
+                scene.world.setBlock([3,2,3], "minecraft:iron_bars", false)
+                scene.world.showSection([3,2,3], Facing.down)
+                scene.idle(20)
+                scene.world.setBlock([3,3,3], "botania:fel_pumpkin", false)
+                scene.world.modifyBlock([3,3,3], (cur) => cur.with("facing", "north"), false)
+                scene.world.showSection([3,3,3], Facing.down)
+                scene.idle(20)
+                scene.world.setBlocks([3,1,3, 3,3,3], "minecraft:air", true)
+                const blaze = scene.world.createEntity("minecraft:blaze", [3.5,1,3.5])
+                scene.text(60, "A blaze will spawn. But it is not an ordinary blaze.", [3.5,1.5,3.5]).placeNearTarget();
+                scene.idle(65)
+                scene.world.modifyEntity(blaze, (b) => {
+                    b.discard();
+                })
+                for(let i = 0;i<100;i++){ //lol, blaze go kablooey
+                    scene.particles.simple(1, "flame", [3.5,1.75,3.5]).density(1).motion([Math.random()/5-0.1, Math.random()/5-0.1, Math.random()/5-0.1]);
+                }
+                const powder = scene.world.createItemEntity([3.5, 1.5, 3.5], [-0.1, 0.2, -0.1], Item.of("minecraft:blaze_powder", 10))
+                scene.idle(20)
+                scene.text(60, "It won't drop blaze rods, but a handful of blaze powder.", [3,1,3]).placeNearTarget();
+                scene.idle(65)
+                scene.world.modifyEntity(powder, e => e.discard())
+                scene.world.hideSection([3,1,3, 3,3,3], Facing.down)
+                scene.idle(10)
+                scene.addKeyframe()
+                scene.idle(10)
+                scene.world.setBlock([3,1,3], "minecraft:iron_bars", false)
+                scene.world.setBlock([3,2,3], "minecraft:iron_bars", false)
+                scene.world.setBlock([3,3,3], "botania:fel_pumpkin", false)
+                scene.world.modifyBlock([3,3,3], (cur) => cur.with("facing", "north"), false)
+                scene.world.showSection([3,1,3, 3,3,3], Facing.east)
+                scene.idle(15)
+                scene.world.setBlocks([3,1,3, 3,3,3], "minecraft:air", true)
+                const blaze2 = scene.world.createEntity("minecraft:blaze", [3.5,1,3.5])
+                scene.idle(10)
+                scene.text(100, "Blazes from fel pumpkins can be used for blaze burners as usual.", [3.5,1.5,3.5]).placeNearTarget();
+                scene.showControls(60, [3.5,3,3.5], "down")
+                    .rightClick()
+                    .withItem("create:empty_blaze_burner");
+                scene.idle(50)
+                scene.world.modifyEntity(blaze2, b => b.discard())
+                scene.particles.simple(20, "smoke", [3.5, 1.5, 3.5])
+                scene.world.createItemEntity([3.5, 1.5, 3.5], [-0.1, 0.2, -0.1], "create:blaze_burner")
+                scene.idle(50)
+                scene.markAsFinished()
+            });
+
+
+        e.create("botania:cocoon")
+            .scene("cocoon_of_caprice", "New World, Perfect World", "kubejs:botania_7x7", (scene, util) => {
+                scene.showBasePlate();
+                scene.idle(10);
+                scene.world.setBlock([3,1,3], "botania:cocoon", false)
+                scene.world.showSection([3,1,3], Facing.down)
+                scene.text(60, "To use the Cocoon of Caprice, it must be placed on the ground.", [3.5,1.5,3.5]).placeNearTarget();
+                scene.idle(65)
+                scene.addKeyframe()
+                scene.idle(5)
+                scene.text(60, "After a couple of minutes...", [3.5,1.5,3.5]).placeNearTarget();
+                scene.idle(50)
+                scene.world.setBlock([3,1,3], "minecraft:air", true)
+                const piglet = scene.world.createEntity("minecraft:pig", [3.5,1,3.5], (p) => p.setAge(-24000))
+                scene.idle(15)
+                scene.world.hideSection([3,1,3], Facing.up)
+                scene.text(60, "A mob will spawn from it! This mob will be a baby if possible.", [3.5,1.5,3.5]).placeNearTarget();
+                scene.idle(65)
+                scene.world.modifyEntity(piglet, (p) => p.discard())
+                scene.particles.simple(3, "poof", [3.5, 1, 3.5]).density(3)
+                scene.particles.simple(3, "smoke", [3.5, 1, 3.5]).density(3)
+                scene.idle(5)
+                scene.addKeyframe()
+                scene.idle(5)
+                scene.world.setBlock([3,1,3], "botania:cocoon", false)
+                scene.world.showSection([3,1,3], Facing.down)
+                scene.text(60, "Most of the time, you will get a common farm animal.", [3.5,1.5,3.5]).placeNearTarget();
+                scene.idle(65)
+                scene.world.setBlock([3,1,3], "minecraft:air", true)
+                const panda = scene.world.createEntity("minecraft:panda", [3.5,1,3.5], (p) => p.setAge(-24000))
+                scene.text(75, "But there's a small chance to instead pick from an assortment of rarer animals!", [3.5,1.5,3.5]).placeNearTarget();
+                scene.idle(80)
+                scene.world.hideSection([3,1,3], Facing.up)
+                scene.world.modifyEntity(panda, (p) => p.discard())
+                scene.particles.simple(3, "poof", [3.5, 1, 3.5]).density(3)
+                scene.particles.simple(3, "smoke", [3.5, 1, 3.5]).density(3)
+                scene.idle(5)
+                scene.addKeyframe()
+                scene.idle(10)
+                scene.world.setBlocks([0,1,0, 6,1,6], "botania:mana_glass", false)
+                scene.world.setBlocks([1,1,1, 5,1,5], "minecraft:water", false)
+                scene.world.setBlock([3,1,3], "botania:cocoon", false)
+                scene.world.modifyBlock([3,1,3], (cur) => cur.with("waterlogged", "true"), false)
+                scene.world.showSection([0,1,0,6,1,6], Facing.down)
+                scene.idle(10)
+                scene.text(55, "If the cocoon is placed in water or next to water...", [3.5,1.5,3.5]).placeNearTarget();
+                scene.idle(60)
+                scene.world.setBlock([3,1,3], "minecraft:water", true)
+                const puffer = scene.world.createEntity("minecraft:pufferfish", [3.5,1,3.5], p => p.setPuffState(2))
+                scene.idle(5)
+                scene.text(55, "An acquatic mob will appear instead!", [3.5,1.5,3.5]).placeNearTarget();
+                scene.idle(60)
+                scene.world.modifyEntity(puffer, (p) => p.discard())
+                scene.particles.simple(3, "poof", [3.5, 1, 3.5]).density(3)
+                scene.particles.simple(3, "smoke", [3.5, 1, 3.5]).density(3)
+                scene.idle(5)
+                scene.world.setBlocks([0,2,0, 6,2,6], "botania:mana_glass", false)
+                scene.world.setBlocks([1,2,1, 5,2,5], "minecraft:water", false)
+                scene.world.setBlock([3,2,3], "botania:cocoon", false)
+                scene.world.modifyBlock([3,2,3], (cur) => cur.with("waterlogged", "true"), false)
+                scene.world.showSection([0,2,0,6,2,6], Facing.down)
+                scene.idle(30)
+                scene.world.setBlock([3,2,3], "minecraft:water", true)
+                const dolphin = scene.world.createEntity("minecraft:dolphin", [3.5,1.5,3.5])
+                scene.idle(5)
+                scene.text(60, "Acquatic cocoons have their own set of rarer mobs to spawn.", [3.5,2,3.5]).placeNearTarget();
+                scene.idle(30)
+                scene.markAsFinished()
+            })
+            .scene("cocoon_manipulation", "Bending the Odds", "kubejs:botania_7x7", (scene, util) => {
+                scene.showBasePlate()
+                scene.idle(5)
+                scene.world.setBlock([3,1,3], "botania:cocoon", false)
+                scene.world.showSection([3,1,3], Facing.down)
+                scene.text(70, "The cocoon reacts to certain items, either dropped on it, or interacted with.", [3.5,1.5,3.5]).placeNearTarget();
+                scene.idle(75)
+                scene.addKeyframe()
+                scene.text(90, "Using chorus fruits increases the chance to get a Shulker! §cUseful...", [3.5,1.5,3.5]).placeNearTarget();
+                scene.showControls(90, [3.5,2,3.5], "down")
+                    .rightClick()
+                    .withItem("minecraft:chorus_fruit");
+                scene.idle(30)
+                scene.world.setBlock([3,1,3], "minecraft:air", true)
+                const shulker = scene.world.createEntity("minecraft:shulker", [3.5,1,3.5])
+                scene.idle(50)
+                scene.world.hideSection([3,1,3], Facing.up)
+                scene.world.modifyEntity(shulker, (p) => p.discard())
+                scene.particles.simple(3, "poof", [3.5, 1, 3.5]).density(3)
+                scene.particles.simple(3, "smoke", [3.5, 1, 3.5]).density(3)
+                scene.idle(5)
+                scene.addKeyframe()
+                scene.idle(10)
+                scene.world.setBlock([3,1,3], "botania:cocoon", false)
+                scene.world.showSection([3,1,3], Facing.down)
+                scene.text(90, "While using a Gaia Spirit will guarantee a rare spawn. Not sure why you would do this...", [3.5,1.5,3.5]).placeNearTarget();
+                scene.showControls(90, [3.5,2,3.5], "down")
+                    .rightClick()
+                    .withItem("botania:life_essence");
+                scene.idle(30)
+                scene.world.setBlock([3,1,3], "minecraft:air", true)
+                const cat = scene.world.createEntity("minecraft:cat", [3.5,1,3.5], g => {
+                    g.setAge(-24000)
+                })
+                scene.idle(50)
+                scene.world.hideSection([3,1,3], Facing.up)
+                scene.world.modifyEntity(cat, (p) => p.discard())
+                scene.particles.simple(3, "poof", [3.5, 1, 3.5]).density(3)
+                scene.particles.simple(3, "smoke", [3.5, 1, 3.5]).density(3)
+                scene.idle(5)
+                scene.addKeyframe()
+                scene.idle(10)
+                scene.world.setBlock([3,1,3], "botania:cocoon", false)
+                scene.world.showSection([3,1,3], Facing.down)
+                scene.text(90, "The Lexica Botania mentions the cocoon reacting to emeralds, but it doesn't seem to be the case.", [3.5,1.5,3.5]).placeNearTarget();
+                scene.showControls(90, [3.5,2,3.5], "down")
+                    .rightClick()
+                    .withItem("minecraft:emerald");
+                scene.idle(45)
+                scene.particles.simple(1, "angry_villager", [3, 1.5, 3])
+                scene.idle(50)
+                scene.markAsFinished()
+            });
             
         });
+
+        
+
+
 
 //This is to condense the repeated blocks of particle spawning for the thermalily.
 //Cooldown is a boolean. False makes the burn particles, true makes the cooldown "smoke"
