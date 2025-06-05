@@ -14693,6 +14693,11 @@ file = "kubejs/startup_scripts/worldgen.js"
 hash = "e36d34120d86356da340083fbccf6161629e61a2e40946fa633b2d1bbf10012a"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "f971e00fdadfb0983ef64ca6a23734530900d7462c52bbf727c1e036482bc9d3"
+metafile = true
+
+[[files]]
 file = "mods/Create-Construction-Wands.zip"
 hash = "a0d23a32a13d95434239dcf16a5334489be694e3c13cd6384021d17220eadb34"
 
@@ -15429,11 +15434,6 @@ metafile = true
 [[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "0f1b9970b4dddf8ff69a778c25dcadda8e91e0305c26581ebb7c1d7f54c3b7f9"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "acc025d2146d6f489546a4d679d7af3f559c7ca8cc9b0fc2ccb4fa19a3ddbc37"
 metafile = true
 
 [[files]]
