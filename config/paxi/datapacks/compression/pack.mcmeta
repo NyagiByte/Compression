@@ -2206,6 +2206,11 @@
 		{"namespace": "abyssal_decor", "path": "recipes/bread_block.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/laventine_smelt.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/scrimshaw_altar_recipe.json"},
+		{"namespace": "abyssal_decor", "path": "recipes/seabrass_ingot_recipe.json"},
+		{"namespace": "abyssal_decor", "path": "recipes/seabrass_ore_smelting.json"},
+		{"namespace": "abyssal_decor", "path": "recipes/raw_seabrass_smelt.json"},
+		{"namespace": "abyssal_decor", "path": "recipes/seabrass_block_ore_recipe.json"},
+		{"namespace": "abyssal_decor", "path": "recipes/deepbronze_ingot_temp_recipe.json"},
 
 		{"namespace": "architects_palette", "path": "recipes/charcoal_from_charcoal_blocks.json"},
 

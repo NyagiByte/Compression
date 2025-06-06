@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "create:brass_block"
+      },
+      {
+        "item": "minecraft:gold_block"
+      }
+    ],
+    "results": [
+      {
+        "count": 8,
+        "item": "abyssal_decor:seabrass_block"
+      }
+    ]
+  }
