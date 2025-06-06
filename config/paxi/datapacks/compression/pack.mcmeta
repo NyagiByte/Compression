@@ -290,6 +290,7 @@
 		{"namespace": "nuclearcraft", "path": "recipes/spaxelhoe_tough.json"},
 
 		{"namespace": "nuclearcraft", "path": "recipes/nuclearcraft_magnesium_dust.json"},
+		{"namespace": "nuclearcraft", "path": "recipes/nuclearcraft_steel_plate.json"},
 
 		{"namespace": "nuclearcraft", "path": "recipes/cobalt_from_nugget.json"},
 		{"namespace": "nuclearcraft", "path": "recipes/cobalt_from_block.json"},
