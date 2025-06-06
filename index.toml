@@ -813,6 +813,22 @@ file = "config/paxi/datapack_load_order.json"
 hash = "54e1940f6a7748855dbe5d69ac348b0256ccb4633058b4c49aa80803499c3f5c"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/decorative_alloys/deepbronze_block.json"
+hash = "a2b522e0a7cf6b63305ec306643600f115c2bf11ab9849f97742b50505c8be74"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/decorative_alloys/deepbronze_ingot.json"
+hash = "3880fb9a18140180dbc5c4797b81ef4d88e2f79f3690b8c79ab0540f1439a9a1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/decorative_alloys/seabrass_block.json"
+hash = "c752f79deafc658e9b81ac35e90e861175a28d34407d80f77a436a4fb4de1a01"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/decorative_alloys/seabrass_ingot.json"
+hash = "a7e0a8b8170fa68d17996201e5557f8860b0e91d196e988dbd4c197371d350a5"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/life_preserver_recipe.json"
 hash = "5c3a735145c78d04826b3c8238a7f0d29e143a56705922a8e641bba8258aec13"
 
@@ -13578,7 +13594,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "c5f4e040683bb89dc65d58d063b06d93997c8865bc528203e0a89c7734223a1c"
+hash = "cdf9a502968569a86aa6512d877aa0b9da8351d66d4dc57e2e38c0c1c90578e6"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
