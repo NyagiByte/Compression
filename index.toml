@@ -801,6 +801,10 @@ file = "config/incontrol/summonaid.json"
 hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
+file = "config/lmft.json"
+hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
+
+[[files]]
 file = "config/packtweaker-common.toml"
 hash = "2f9032b38c0d562bcbf977a75b8d77e31de701871c8e96c2e3421e57979b8a96"
 
