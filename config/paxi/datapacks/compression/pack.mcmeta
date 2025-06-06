@@ -187,6 +187,7 @@
 		{"namespace": "minecraft", "path": "recipes/spectral_arrows.json"},
 		{"namespace": "minecraft", "path": "recipes/shield.json"},
 		{"namespace": "minecraft", "path": "recipes/leather.json"},
+		{"namespace": "minecraft", "path": "recipes/white_wool_from_string.json"},
 
 		{"namespace": "mekanism", "path": "recipes/storage_blocks/charcoal.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/compressed/charcoal_block.json"},
