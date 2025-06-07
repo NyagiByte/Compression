@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "thermal:bronze_ingot"
+      },
+      {
+        "item": "minecraft:iron_ingot"
+      }
+    ],
+    "results": [
+      {
+        "count": 8,
+        "item": "abyssal_decor:deepbronze_ingot"
+      }
+    ]
+  }

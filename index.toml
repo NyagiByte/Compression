@@ -310,7 +310,7 @@ hash = "b13e02a527636c1905b4e19cf6505bdb55362500d096a6cd01c661d033331362"
 
 [[files]]
 file = "config/compressedbotanics-common.toml"
-hash = "e8a42e9831fe58c28af8f075a1dacd0cc9f2803e0804fc2f82b4ae8fd3f0d7a1"
+hash = "f0cee423158ff654dbaffdadee1aac025a2258ca5d9a7002c798ba08bdcf56be"
 
 [[files]]
 file = "config/compressedengineering-common.toml"
@@ -801,12 +801,32 @@ file = "config/incontrol/summonaid.json"
 hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
+file = "config/lmft.json"
+hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
+
+[[files]]
 file = "config/packtweaker-common.toml"
 hash = "2f9032b38c0d562bcbf977a75b8d77e31de701871c8e96c2e3421e57979b8a96"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "54e1940f6a7748855dbe5d69ac348b0256ccb4633058b4c49aa80803499c3f5c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/decorative_alloys/deepbronze_block.json"
+hash = "a2b522e0a7cf6b63305ec306643600f115c2bf11ab9849f97742b50505c8be74"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/decorative_alloys/deepbronze_ingot.json"
+hash = "3880fb9a18140180dbc5c4797b81ef4d88e2f79f3690b8c79ab0540f1439a9a1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/decorative_alloys/seabrass_block.json"
+hash = "c752f79deafc658e9b81ac35e90e861175a28d34407d80f77a436a4fb4de1a01"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/decorative_alloys/seabrass_ingot.json"
+hash = "a7e0a8b8170fa68d17996201e5557f8860b0e91d196e988dbd4c197371d350a5"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/life_preserver_recipe.json"
@@ -7517,6 +7537,18 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "d8b1981e8d1871c965e226b08da64e031194680aaa6c6efd58c2ac92b2c61cbc"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/crushed_copper_to_dust.json"
+hash = "66b7c1e58725e47a9cf94002cc7a82406a8d063c946004540463f23a16050112"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/crushed_gold_to_dust.json"
+hash = "68b082811652fe1dc09ca16458dbd76f2db1caf4f3cc857484ee7869333e10b1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/crushed_iron_to_dust.json"
+hash = "0424ed3bfd62faefff0a38ab56f0b0f481d25494209b49d51b20cf6b4ec0c97e"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/crushed_lead_to_dust.json"
 hash = "b3711af34fa52875d848f893fd0e6298092a0fc4513be160b4e2edfc5bf4a1e6"
 
@@ -13562,7 +13594,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "c5f4e040683bb89dc65d58d063b06d93997c8865bc528203e0a89c7734223a1c"
+hash = "cdf9a502968569a86aa6512d877aa0b9da8351d66d4dc57e2e38c0c1c90578e6"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -13770,7 +13802,7 @@ hash = "4b1c2817d28741ff7766c56ffe03f346f425c219b0ce4399474da9ae50fb9cd1"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/alchemistry/lang/pt_br.json"
-hash = "bc155655c773886ab9c69e8479bc9b3b06db24ffd96db987777d7c942b638573"
+hash = "fe17fa937974d85bc7431f2a92b241e619d827f718168ec73912460da9504d4c"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/botania/lang/en_us.json"
@@ -13786,7 +13818,7 @@ hash = "80e62be37469b6fc605170a97bcb42a41fea415aad3c544dc4b6c383434cab99"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/chemlib/lang/pt_br.json"
-hash = "a132291ca3b9dd51d97fc681104ccef1d1c2a630495df8840c12bf7dc65851a2"
+hash = "99d61d5dd8ae0b3a3b3df3e33bac9d20319d785179783fee80cc98afb8832531"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/chemlib/textures/items/ingot.png"
@@ -14222,7 +14254,7 @@ hash = "21d2bc85a125c64d258f50bed489949fda3e6c7fa2cc6a4518db9a528b7c4f00"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
-hash = "1e3a2f4cd07d5f216f90e9723a462610f8cde48adb7d92b1bad08dfb7a3e32dc"
+hash = "d3ae1b2401e1557a216b5e2882975203b3835c9be163212a001dd0ea5a11635d"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/compactcrafting.js"
@@ -14234,7 +14266,7 @@ hash = "4d6af63cfec0d06dc2097b9c4ca76501a312f3d4ffcbe0876fba2e47da257fb4"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/minecraft.js"
-hash = "4e7daeb4ef5ef878c26411df6fdbcfa28202407ebbeeae8e21e0b6a314c91244"
+hash = "e944c55f1de0b3e9da797e588dc36ccccb8a824155bb023edee63101868f724d"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -14855,7 +14887,7 @@ metafile = true
 
 [[files]]
 file = "mods/compressed-botanics.pw.toml"
-hash = "d6403e226208daaf346a5a6df7c9eeda93c733f4a2992961352474cd6b214bea"
+hash = "0ea18e0234135b2ab094459044fa69d9efad3e005af74d263c0b87b64c6a58be"
 metafile = true
 
 [[files]]
