@@ -805,12 +805,32 @@ file = "config/jade/plugins.json"
 hash = "4f92cb225f4a5fc4e8463500e8f2cfe5a7b46ac3d99e553d2c8eaa414ce870e8"
 
 [[files]]
+file = "config/lmft.json"
+hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
+
+[[files]]
 file = "config/packtweaker-common.toml"
 hash = "2f9032b38c0d562bcbf977a75b8d77e31de701871c8e96c2e3421e57979b8a96"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "54e1940f6a7748855dbe5d69ac348b0256ccb4633058b4c49aa80803499c3f5c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/decorative_alloys/deepbronze_block.json"
+hash = "a2b522e0a7cf6b63305ec306643600f115c2bf11ab9849f97742b50505c8be74"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/decorative_alloys/deepbronze_ingot.json"
+hash = "3880fb9a18140180dbc5c4797b81ef4d88e2f79f3690b8c79ab0540f1439a9a1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/decorative_alloys/seabrass_block.json"
+hash = "c752f79deafc658e9b81ac35e90e861175a28d34407d80f77a436a4fb4de1a01"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/decorative_alloys/seabrass_ingot.json"
+hash = "a7e0a8b8170fa68d17996201e5557f8860b0e91d196e988dbd4c197371d350a5"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/life_preserver_recipe.json"
@@ -13578,7 +13598,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "c5f4e040683bb89dc65d58d063b06d93997c8865bc528203e0a89c7734223a1c"
+hash = "cdf9a502968569a86aa6512d877aa0b9da8351d66d4dc57e2e38c0c1c90578e6"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -15312,9 +15332,8 @@ hash = "a64a7f239c438513d1f92766d353cfe547b9a03eaa33b53c937e179bac2ca406"
 metafile = true
 
 [[files]]
-file = "mods/nyagis-bits-bytes.pw.toml"
-hash = "e94bcb3b0e72132b61817638c5b41777f1bf556b852edf71edf43a230a661736"
-metafile = true
+file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
+hash = "de9b369825d3d8a907f1480ae0abc4102f628e877cefb4fbd0cd622d340ee156"
 
 [[files]]
 file = "mods/oculus.pw.toml"

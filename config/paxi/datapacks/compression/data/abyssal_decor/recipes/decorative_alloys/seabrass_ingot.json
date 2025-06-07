@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "create:brass_ingot"
+      },
+      {
+        "item": "minecraft:gold_ingot"
+      }
+    ],
+    "results": [
+      {
+        "count": 8,
+        "item": "abyssal_decor:seabrass_ingot"
+      }
+    ]
+  }
