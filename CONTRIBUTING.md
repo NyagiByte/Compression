@@ -37,7 +37,7 @@ Options for `[Link]`:
 - For testing, you can use the `packwiz serve` command to run a local HTTP server, that serves your pack at http://localhost:8080/pack.toml - it'll refresh the index whenever it's queried so you don't need to refresh it manually!
 -> https://packwiz.infra.link/tutorials/installing/packwiz-installer/
 
-- To load the pack from a specific tag/release you can use https://github.com/NyagiByte/Compression/blob/[tag]/pack.toml
+- To load the pack from a specific tag/release you can use https://raw.githubusercontent.com/NyagiByte/Compression/refs/tags/[tag]/pack.toml
 
 
 After that, select the right Java version and launch the instance. Packwiz will automatically download all mods and files in the instance for you. 
