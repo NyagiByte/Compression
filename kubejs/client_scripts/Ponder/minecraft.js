@@ -1,6 +1,6 @@
 Ponder.tags((e) => {
 	e.createTag("compression:minecraft", "minecraft:crafting_table", "Minecraft Basics.", "The Basics of Basics!",
-	["minecraft:cobblestone", "minecraft:glass",
+	["minecraft:cobblestone", "minecraft:glass", "minecraft:stone", "minecraft:basalt", "minecraft:respawn_anchor",
 	]);
 });
 //------------------------------------------------------------------
@@ -287,6 +287,137 @@ Ponder.registry((e) => {
 			scene.idle(20);
 			scene.text(60, "...basalt will be generated!", [3.5,2,3.5]);
 			scene.idle(50);
+			scene.markAsFinished();
+        });
+    //Respawn Anchor--------------------------------------------------
+    e.create("minecraft:respawn_anchor")
+		.scene("respawn_anchor", "What are beds for anyway?", "kubejs:botania_7x7", (scene, util) => {
+            scene.showBasePlate();
+            scene.idle(5);
+            scene.world.setBlock([3,1,3], "minecraft:respawn_anchor", false);
+            scene.world.showSection([3,1,3], Facing.down);
+            scene.idle(10);
+            scene.text(70, "This is a Respawn Anchor. It allows you to set your respawn point.", [3.5,2,3.5]);
+            scene.idle(80);
+			scene.text(70, "To use it, simply right click it with a block of glowstone.");
+			scene.idle(30);
+			scene.showControls(20, [3.5,2,3.5], "down")
+                .rightClick()
+				.withItem("glowstone")
+			scene.idle(30);
+			scene.world.modifyBlock([3,1,3], (anchor) => anchor.with("charges", "1"), false)
+			for(let i = 0; i<8;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
+			scene.addKeyframe();
+			scene.text(70, "In total, it'll hold 4 charges, meaning 4 glowstone blocks.");
+			for(let i = 0; i<20;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
+			scene.showControls(80, [3.5,2,3.5], "down")
+                .rightClick()
+				.withItem("glowstone")
+			for(let i = 0; i<4;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
+			scene.world.modifyBlock([3,1,3], (anchor) => anchor.with("charges", "2"), false)
+			for(let i = 0; i<4;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
+			scene.world.modifyBlock([3,1,3], (anchor) => anchor.with("charges", "3"), false)
+			for(let i = 0; i<4;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
+			scene.world.modifyBlock([3,1,3], (anchor) => anchor.with("charges", "4"), false)
+			for(let i = 0; i<4;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
+			scene.addKeyframe();
+			scene.text(70, "Upon respawn, the Respawn anchor will lose one charge.");
+			for(let i = 0; i<16;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
+			scene.world.modifyBlock([3,1,3], (anchor) => anchor.with("charges", "3"), false)
+			scene.text(70, "You can see how many charges remain in this here circle.", [3.5,1.7,3]);
+			for(let i = 0; i<16;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
+			scene.addKeyframe();
+			scene.text(70, "You can add glowstone autonomously via a dispenser facing the Respawn Anchor.")
+			for(let i = 0; i<10;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
+			scene.world.setBlock([3,1,4], "minecraft:dispenser", false);
+            scene.world.showSection([3,1,4], Facing.down);
+			for(let i = 0; i<4;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
+			scene.world.modifyBlock([3,1,3], (anchor) => anchor.with("charges", "4"), false)
+			for(let i = 0; i<6;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
+			scene.text(70, "And you may either use a comparator to calculate how many uses the Anchor has...")
+			for(let i = 0; i<10;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
+			scene.world.setBlock([3,1,2], "minecraft:comparator", false);
+			scene.world.modifyBlock([3,1,2], (c) => c.with("facing", "south"), false)
+            scene.world.showSection([3,1,2], Facing.down);
+			for(let i = 0; i<2;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
+			scene.world.modifyBlock([3,1,2], (c) => c.with("powered", "true"), false)
+			for(let i = 0; i<4;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
+			scene.text(70, "...or you may use an observer to emit a pulse whenever you respawn.")
+			for(let i = 0; i<10;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
+			scene.world.setBlock([4,1,3], "minecraft:observer", false);
+			scene.world.modifyBlock([4,1,3], (c) => c.with("facing", "west"), false)
+			scene.world.showSection([4,1,3], Facing.down);
+			for(let i = 0; i<5;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
+			scene.world.setBlock([5,1,3], "minecraft:redstone_lamp", false);
+			scene.world.showSection([5,1,3], Facing.down);
+			for(let i = 0; i<5;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
+			scene.world.modifyBlock([3,1,3], (anchor) => anchor.with("charges", "3"), false)
+			scene.world.modifyBlock([5,1,3], (lamp) => lamp.with("lit", "true"), false)
+			for(let i = 0; i<1;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
+			scene.world.modifyBlock([5,1,3], (lamp) => lamp.with("lit", "false"), false)
+			for(let i = 0; i<10;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
+			scene.text(70, "Oh, and don't worry about beds. §cTrust me.§r");
+			for(let i = 0; i<12;i++){
+				scene.particles.simple(1, "reverse_portal", [Math.random()+3,2,Math.random()+3]).density(1).motion([0, 0.05, 0]);
+				scene.idle(5);
+			}
 			scene.markAsFinished();
         });
 });
