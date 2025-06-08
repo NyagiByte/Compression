@@ -1,0 +1,32 @@
+{
+    "type": "create:compacting",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "ae2:sky_dust"
+      },
+      {
+        "item": "nyagibits_bytes:raw_basaltic_powder"
+      },
+      {
+        "item": "nyagibits_bytes:glimmering_stone"
+      },
+      {
+        "amount": 20,
+        "fluid": "minecraft:lava"
+      }
+    ],
+    "results": [
+      {
+        "item": "ae2:sky_stone_block"
+      },
+      {
+        "chance": 0.75,
+        "item": "ae2:sky_stone_block"
+      },
+      {
+        "chance": 0.25,
+        "item": "nyagibits_bytes:sample_lithic_tailings_generic"
+      }
+    ]
+  }

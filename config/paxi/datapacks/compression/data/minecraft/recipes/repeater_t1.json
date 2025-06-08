@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"book",
+  "key": {
+    "A": {"item":"minecraft:redstone_torch"},
+    "B": {"item":"minecraft:redstone"},
+    "C": {"item":"nyagibits_bytes:glimmering_andesite"}
+  },
+  "pattern": [
+    "ABA",
+    "CCC"
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:repeater"
+  }
+}
