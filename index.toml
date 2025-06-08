@@ -14717,8 +14717,9 @@ file = "kubejs/startup_scripts/worldgen.js"
 hash = "e36d34120d86356da340083fbccf6161629e61a2e40946fa633b2d1bbf10012a"
 
 [[files]]
-file = "mods/3dskinlayers-forge-1.5.2-mc1.19.1.jar"
-hash = "30e7d9018e0ba50dee18cb8a4101c0f139a30b980194179ff486d579c52ae694"
+file = "mods/3dskinlayers.pw.toml"
+hash = "f971e00fdadfb0983ef64ca6a23734530900d7462c52bbf727c1e036482bc9d3"
+metafile = true
 
 [[files]]
 file = "mods/Create-Construction-Wands.zip"
@@ -15040,8 +15041,9 @@ hash = "f98f11d8a4bd35925c2be8efe43a6c853d34955abc7273aa4e8e76170e9c2884"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu_forge_3.3.1_MC_1.19.2.jar"
-hash = "f0d3d73c00b0181355cd392a4495c0e9d50c587cae26993e593f992427e8effb"
+file = "mods/fancymenu.pw.toml"
+hash = "cd834c11c3272bd5660acb8ca0ce9642bff41daaae794869d763aa9830270e43"
+metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
@@ -15205,12 +15207,8 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "657ae63e2d5f25867c9d179784eaae3b53ff5e1ba31533781b476c93becb5264"
+hash = "56b130b6b7462bcff9085d43e7d53a1d5c5f0ee1744f63c4faee093538bc3825"
 metafile = true
-
-[[files]]
-file = "mods/konkrete_forge_1.8.0_MC_1.19-1.19.2.jar"
-hash = "2c1902deb1587f28a35874b0e9c4a367111ebb3ea7e39838dd0050b37b483832"
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
@@ -15244,7 +15242,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "30d9b915a74959678742d9c0862e3efebcad4db4f87978ae0b6b29d9ef539923"
+hash = "4cac5d8387cffeb890454f909e58e88a29c5c4a373a82c93810619255bbb6db9"
 metafile = true
 
 [[files]]
@@ -15283,8 +15281,9 @@ hash = "f6cc47777418eada79b50d6cdd57bd6dc35017f8e46defd5e888a2d6215be0e1"
 metafile = true
 
 [[files]]
-file = "mods/melody_forge_1.0.1_MC_1.19.2.jar"
-hash = "c9ce1a75bf33ff10bd1dd6074a7b39ed49fc7e03173e7ea9dc7d61715bd3d11b"
+file = "mods/melody.pw.toml"
+hash = "313e8d86888699c1b31c8440938b7512171ad7f123f0ef4689878f933eff188e"
+metafile = true
 
 [[files]]
 file = "mods/mod-name-tooltip.pw.toml"
@@ -15337,7 +15336,7 @@ hash = "de9b369825d3d8a907f1480ae0abc4102f628e877cefb4fbd0cd622d340ee156"
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "ad5ea7db099e46fb75851c3ec91393256006c78e55eb4615ca7c764f1668e2e8"
+hash = "e7843e20e052f74f69cb82db6613b83ff2394f25541b1b501ae8838cab755ca4"
 metafile = true
 
 [[files]]
