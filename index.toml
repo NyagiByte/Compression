@@ -849,6 +849,10 @@ file = "config/paxi/datapacks/compression/data/ae2/recipes/blasting/skystone_loo
 hash = "d2405306a60df4439b09673bd955a1aa1ca6833189771b0d06e4914303802c0f"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/ae2/recipes/blasting/skystone_looping_recipe_t1.json"
+hash = "4c97d20ca1f8b4030e17ebb50898beb7c6812cba3c6eece3561f578c6c3ba955"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/decorative/light_detector.json"
 hash = "5a45250bf9b876afc22d9fabf14efea4f2091c49fa1ee9b0f32e1a21144772df"
 
@@ -5309,6 +5313,10 @@ file = "config/paxi/datapacks/compression/data/forge/tags/items/gems/sulfur.json
 hash = "99f8bb9b57e84dcd13efecb167cb42afed66f1093d71a75341dced0a7526481d"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/glimmering_woods.json"
+hash = "d4bc3e0cd72fcbe0fc6d778d2061f0f0ca6a358e4bd89323ceda2970cba79114"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/gray_organic.json"
 hash = "aced4c0c369c1a62e6f5b3e8b14ee98b3bebadbd63a0d452692f6a35d18dd3e2"
 
@@ -7017,6 +7025,10 @@ file = "config/paxi/datapacks/compression/data/minecraft/recipes/cobblestone_sla
 hash = "f1d66815e3f83007c914f06edac76a73746a5f880e3f66fa78bf242a8bef2bae"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/comparator.json"
+hash = "46344004d283d74cf7020bff5f62b35899675b50357edef7c5f1ec47ef6704ed"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/crafting_table.json"
 hash = "ab70cd2d04dfd983a4a484d51680f5e182ca710a42ec20c697d0a57ff46b2adf"
 
@@ -7127,6 +7139,10 @@ hash = "88d79535d399d166a2c031bff6373dfa0ce9bb410d6a8bf08dae941536dea189"
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/red_concrete_powder.json"
 hash = "46db191cab74f677ada0683da94b73bf36f6b8eceb53ec1595fa17ee71f55793"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/repeater_t1.json"
+hash = "89637b419c57a101769ca1114b946a5f2f4700ab26d7fa5cd3da63349e6bff2b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/respawn_anchor.json"
@@ -7317,8 +7333,20 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/p
 hash = "9cddca6cc3e21c6f34dc0b6f82972b4590c8de7dac2f81d1d3757d3429a027af"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/pure_daisy/livingrock_t1.json"
+hash = "619395b14b2d075fec2a3d208ee4fcf72f1ed394e2a5c7a2c13db4e0ee2963e3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/pure_daisy/livingwood_t1.json"
+hash = "5eafdaa3cfa6da76f6502b796875aa4cdcb4856016581125cb36d9e6fe6ffd04"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/pure_daisy/livisite_stone.json"
 hash = "aba6e4775e94f2f845b350b5fc2b3dd0f6944207a90389849ad98437c49dcc5b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/pure_daisy/livisite_stone_t1.json"
+hash = "f1afdc22f7142c124c7567c5cb4a86788dcc59dec600746c23b4db953647f2e5"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/pure_daisy/pulp_paper.json"
@@ -7787,6 +7815,18 @@ hash = "de9a7fd3a034e8ed4206ad55bc40b3e2f88dd2157dadbad64e3a40fcf6182bbe"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/gemstone_polish.json"
 hash = "dfd9bc1e808a48e1fdc775af8a97e89d172e644f769f002242971c0b9057e17d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/glimmering_andesite.json"
+hash = "575ab6d340e33406f382071b944f404f306c27c24edd36c9168fee6bc5f8fda2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/glimmering_log.json"
+hash = "cc56e74a24824e973eaf4981b6dc71b6a1efcb1155b42cee12f7ee2f69c1052b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/glimmering_stone.json"
+hash = "18aee820843a949b9fae2cc601313f3a084b15b36e9daa6a108aefc0b8a16c64"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/ink.json"
@@ -11037,6 +11077,14 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_cr
 hash = "65c1566f18718e12fdf0748b0ff11758f97e59ed61bf928d3d26df6b82f284bd"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/wood_2_by_2/glimmering_stripped_wood_from_stripped_log.json"
+hash = "7816a956d91c8c6add0d4b4c0c8156d98edd6d0d9fad898f1df6b743ec870284"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/wood_2_by_2/glimmering_wood_from_log.json"
+hash = "e7f95e75cdf37c7a1d04f0693b3a212865336882acf4e93d32eb1c87c01055d6"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/woven_cloth.json"
 hash = "eff877d630eaccb5b2d542ebbc6dc3f10a91440fa2f23575ed85aaa95acc4a78"
 
@@ -11739,6 +11787,10 @@ hash = "d672cbf3aa49d06a23c65711cf00cd1650e4cc736f400c57d273205ff754e773"
 [[files]]
 file = "config/paxi/datapacks/compression/data/quark/recipes/tweaks/crafting/utility/misc/dispenser_no_bow.json"
 hash = "a34694233de38f98f7df83fdff0a5637d62fc6f35cb89b8af8f78349a8176015"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/quark/recipes/tweaks/crafting/utility/misc/repeater_t1.json"
+hash = "7c0b359fc0a34df47757a5a889ea1f7b1908a4fedfa7c57b98c6829226600a9a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/quark/tags/items/ancient_logs.json"
