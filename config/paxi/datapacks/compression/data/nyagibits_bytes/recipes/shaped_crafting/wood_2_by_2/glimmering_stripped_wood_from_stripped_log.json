@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:glimmering_stripped_log"}
+    },
+    "pattern": [
+      "AA",
+      "AA"
+    ],
+    "result": {
+        "count": 4,
+        "item": "nyagibits_bytes:glimmering_stripped_wood"
+    }
+  }

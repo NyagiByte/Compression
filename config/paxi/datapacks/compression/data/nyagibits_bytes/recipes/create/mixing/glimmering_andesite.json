@@ -1,0 +1,63 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "thermal:quartz_dust"
+      },
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "minecraft:andesite"
+      }
+    ],
+    "results": [
+      {
+        "count": 16,
+        "item": "nyagibits_bytes:glimmering_andesite"
+      }
+    ]
+  }

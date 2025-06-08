@@ -1,0 +1,11 @@
+{
+  "type": "botania:pure_daisy",
+  "input": {
+    "type": "block",
+    "block": "nyagibits_bytes:glimmering_log"
+  },
+  "time": 38,
+  "output": {
+    "name": "botania:livingwood_log"
+  }
+}

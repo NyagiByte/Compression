@@ -1,0 +1,9 @@
+{
+    "replace": true,
+    "values": [
+        "nyagibits_bytes:glimmering_log",
+        "nyagibits_bytes:glimmering_wood",
+        "nyagibits_bytes:glimmering_stripped_log",
+        "nyagibits_bytes:glimmering_stripped_wood"
+    ]
+  }

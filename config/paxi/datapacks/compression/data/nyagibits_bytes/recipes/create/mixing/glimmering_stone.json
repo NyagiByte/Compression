@@ -1,0 +1,63 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "thermal:electrum_dust"
+      },
+      {
+        "item": "minecraft:smooth_stone"
+      },
+      {
+        "item": "minecraft:smooth_stone"
+      },
+      {
+        "item": "minecraft:smooth_stone"
+      },
+      {
+        "item": "minecraft:smooth_stone"
+      },
+      {
+        "item": "minecraft:smooth_stone"
+      },
+      {
+        "item": "minecraft:smooth_stone"
+      },
+      {
+        "item": "minecraft:smooth_stone"
+      },
+      {
+        "item": "minecraft:smooth_stone"
+      },
+      {
+        "item": "minecraft:smooth_stone"
+      },
+      {
+        "item": "minecraft:smooth_stone"
+      },
+      {
+        "item": "minecraft:smooth_stone"
+      },
+      {
+        "item": "minecraft:smooth_stone"
+      },
+      {
+        "item": "minecraft:smooth_stone"
+      },
+      {
+        "item": "minecraft:smooth_stone"
+      },
+      {
+        "item": "minecraft:smooth_stone"
+      },
+      {
+        "item": "minecraft:smooth_stone"
+      }
+    ],
+    "results": [
+      {
+        "count": 16,
+        "item": "nyagibits_bytes:glimmering_stone"
+      }
+    ]
+  }

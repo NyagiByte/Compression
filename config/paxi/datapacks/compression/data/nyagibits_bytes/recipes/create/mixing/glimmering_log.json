@@ -1,0 +1,62 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "botania:fertilizer"
+      },
+      {
+        "tag": "minecraft:logs"
+      },
+      {
+        "tag": "minecraft:logs"
+      },
+      {
+        "tag": "minecraft:logs"
+      },
+      {
+        "tag": "minecraft:logs"
+      },
+      {
+        "tag": "minecraft:logs"
+      },
+      {
+        "tag": "minecraft:logs"
+      },
+      {
+        "tag": "minecraft:logs"
+      },
+      {
+        "tag": "minecraft:logs"
+      },
+      {
+        "tag": "minecraft:logs"
+      },
+      {
+        "tag": "minecraft:logs"
+      },
+      {
+        "tag": "minecraft:logs"
+      },
+      {
+        "tag": "minecraft:logs"
+      },
+      {
+        "tag": "minecraft:logs"
+      },
+      {
+        "tag": "minecraft:logs"
+      },
+      {
+        "tag": "minecraft:logs"
+      },
+      {
+        "tag": "minecraft:logs"
+      }
+    ],
+    "results": [
+      {
+        "count": 16,
+        "item": "nyagibits_bytes:glimmering_log"
+      }
+    ]
+  }

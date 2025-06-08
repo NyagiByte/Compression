@@ -1,0 +1,11 @@
+{
+  "type": "botania:pure_daisy",
+  "input": {
+    "type": "block",
+    "block": "nyagibits_bytes:glimmering_andesite"
+  },
+  "time": 38,
+  "output": {
+    "name": "nyagibits_bytes:livisite_stone"
+  }
+}
