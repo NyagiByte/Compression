@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CONTRIBUTING.md"
-hash = "5a6eaabb4599adde6d946dad14015a4f35f133855dd2183ae68f67d2378d63ad"
+hash = "4fc1f857493095e2873bd68f022bfadff32949b52937efd0ff5cc2b9c4edfe8e"
 
 [[files]]
 file = "README.md"
@@ -14270,7 +14270,7 @@ hash = "4d6af63cfec0d06dc2097b9c4ca76501a312f3d4ffcbe0876fba2e47da257fb4"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/minecraft.js"
-hash = "e944c55f1de0b3e9da797e588dc36ccccb8a824155bb023edee63101868f724d"
+hash = "0fda6ace081efd0f1dcef6c5f535b5e7312259b23fa0e49956b64262a8ea7362"
 
 [[files]]
 file = "kubejs/config/client.properties"
