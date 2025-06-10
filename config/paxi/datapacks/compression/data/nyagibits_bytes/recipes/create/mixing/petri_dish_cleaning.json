@@ -1,0 +1,22 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:petri_dish_contaminated"
+      },
+      {
+        "amount": 1000,
+        "fluid": "minecraft:water",
+        "nbt": {}
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:petri_dish_empty"
+      },
+      {
+        "item": "nyagibits_bytes:sample_organic_tailings_light"
+      }
+    ]
+  }

@@ -1,0 +1,20 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "amount": 2000,
+        "fluid": "minecraft:water"
+      },
+      {
+        "amount": 100,
+        "fluid": "nyagibits_bytes:vinegar_starter_fluid"
+      }
+    ],
+    "results": [
+      {
+        "amount": 2000,
+        "fluid": "nyagibits_bytes:vinegar_fluid"
+      }
+    ]
+  }

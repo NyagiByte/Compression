@@ -1,0 +1,11 @@
+{
+    "type": "vintageimprovements:vacuumizing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {"fluid": "nyagibits_bytes:vinegar_fluid","amount": 2500}
+    ],
+    "results": [
+      {"fluid": "chemlib:acetic_acid_fluid", "amount": 250},
+      {"fluid": "minecraft:water", "amount": 2250}
+    ]
+}

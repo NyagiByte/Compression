@@ -1,0 +1,85 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "nyagibits_bytes:petri_dish_agar_agar"},
+    "loops": 1,
+    "results": [
+      {
+        "chance": 100.0,
+        "item": "nyagibits_bytes:petri_dish_acetobacter"
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:incomplete_petri_dish_acetobacter_reclaim"
+          },
+          {
+            "amount": 200,
+            "fluid": "nyagibits_bytes:vinegar_starter_fluid",
+            "nbt": {}
+          }
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:incomplete_petri_dish_acetobacter_reclaim"
+          }
+        ]
+      },
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:incomplete_petri_dish_acetobacter_reclaim"
+          },
+          {
+            "amount": 500,
+            "fluid": "pneumaticcraft:yeast_culture",
+            "nbt": {}
+          }
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:incomplete_petri_dish_acetobacter_reclaim"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:incomplete_petri_dish_acetobacter_reclaim"
+          },
+          {
+            "item": "chemlib:ethanol"
+          }  
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:incomplete_petri_dish_acetobacter_reclaim"
+        }
+        ]
+      },
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "nyagibits_bytes:incomplete_petri_dish_acetobacter_reclaim"
+          },
+          {
+            "amount": 50,
+            "fluid": "nyagibits_bytes:vinegar_fluid",
+            "nbt": {}
+          }
+        ],
+        "results": [
+          {
+            "item": "nyagibits_bytes:incomplete_petri_dish_acetobacter_reclaim"
+          }
+        ]
+      }
+
+    ],
+    "transitionalItem": {"item": "nyagibits_bytes:incomplete_petri_dish_acetobacter_reclaim"}
+  }

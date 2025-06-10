@@ -7770,7 +7770,11 @@ hash = "b139cf3867c62bd02c017178960c1b8428ac907d02f6a4bbcea1931fc60632b8"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/bottle_of_vinegar.json"
-hash = "184470c0ed3c74af2b02382377ec4bea4892f7cbbd9eee3272efeecf5c5be9d6"
+hash = "349ff727d5c1f008a3a3e16e8e9a7f4994a02d46c4576fbc10641375b80de55d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/bottle_of_vinegar_from_yeast_bucket.json"
+hash = "f31d90a1423b529841167287c21d76c29a8960d8e5da61691ee4aba4ad0386a2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/brain_to_lard.json"
@@ -8005,6 +8009,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "4fed022291d58116865e577d0a9ae1e549cb390b085fefae38a7e5db6c24a67e"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/petri_dish_cleaning.json"
+hash = "e7ef93d1070542f065027dd212637a5613959ad5bd29814bddca8e124c6de4e1"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/ph_strip.json"
 hash = "a3b2d867938908b2fc08bebf7b5e5fda551b3a41e638f9e1c16ea5d029d87b3b"
 
@@ -8197,6 +8205,26 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "97c4a640cdbfc2a91a384dafc21c517f1b15c90855343d15bca31877d31d6d66"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/vinegar_cooking.json"
+hash = "e2e7ee6c48c5b5f738582226406f076db0370733eb8b7ad78fd3b53e30ebd38e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/vinegar_from_acetic_acid.json"
+hash = "40827650b5ced060a352f9829d0bea7a395841a151b68767d183a5195c4ea326"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/vinegar_starter_initial.json"
+hash = "2094b79a711d5e689c277c8a450359c2914f1f97904ff0c3dc1dee5017c74d79"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/vinegar_starter_loop.json"
+hash = "28d7f3f6701b2cdc22bc5f592b8f142ea47da7579adab95cbe012fddfe6aa160"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/vinegar_starter_loop_t1.json"
+hash = "be237e736c009189aee84d5a7798320f4bfee52b473dbd123f8ea9735b7fbdd8"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/wet_biodiesel_basic.json"
 hash = "ce98aa40ba0acbdd17068959dae7eeef43412dd5280e4fb6c4f8f40035646842"
 
@@ -8279,6 +8307,14 @@ hash = "e46cacd3e3310d5d0defb3ba1e156f27516eb012c7a2d1ece61c853963bc676c"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/saw_cutting/thin_casing.json"
 hash = "8f33c4a71acaf9636c70ea6c325611141b3797406d26ed4eddd6fc050a5f717a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/acetobacter_capture_attempt.json"
+hash = "488ee2be71dbef665d0a3d51284e4f770bbc456d32616717c5b6630ed0bc6b37"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/acetobacter_from_vinegar_starter.json"
+hash = "bc65d92b680eca96f05d29a94b474b25a1e7dc3b00fd1678ac27c952cef6b790"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/bad_copper_wire.json"
@@ -11255,6 +11291,10 @@ hash = "03d4a7a273ed8579c763d78cb886e743764933148413ae861556f2bc4966d47d"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/used_mana_bomb_calorimeter.json"
 hash = "034dc34762e666d96725b5c37d0d0f44d4dd71c59f39d7151cc36fd5296d80c2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/acetic_acid_distillation.json"
+hash = "3b46508228450724acac9da5344b9ee2daa6167c341ab274b9a95f560ea1d280"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/biodiesel_basic.json"
@@ -15384,7 +15424,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "f0a170db344e91928e9a57e12614619157c5affab62c6e34871f7f5ea8390802"
+hash = "68dcaa9d46ce6ee87fee02d5c44bddf34063d77fba699ffb9f6d42cf605d39be"
 
 [[files]]
 file = "mods/oculus.pw.toml"

@@ -3,7 +3,8 @@
     "heatRequirement": "heated",
     "ingredients": [
       {
-        "item": "pneumaticcraft:yeast_culture_bucket"
+        "amount": 250,
+        "fluid": "pneumaticcraft:yeast_culture"
       },
       {
         "item": "nyagibits_bytes:bottle_of_malic_and_citric_acid"

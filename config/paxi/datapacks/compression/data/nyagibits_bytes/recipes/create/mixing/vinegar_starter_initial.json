@@ -1,0 +1,55 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:petri_dish_acetobacter"
+      },
+      {
+        "item": "chemlib:ethanol"
+      },
+      {
+        "item": "chemlib:ethanol"
+      },
+      {
+        "item": "chemlib:ethanol"
+      },
+      {
+        "item": "chemlib:ethanol"
+      },
+      {
+        "item": "chemlib:ethanol"
+      },
+      {
+        "item": "chemlib:ethanol"
+      },
+      {
+        "item": "chemlib:ethanol"
+      },
+      {
+        "item": "chemlib:ethanol"
+      },
+      {
+        "item": "supplementaries:sugar_cube"
+      },
+      {
+        "item": "supplementaries:sugar_cube"
+      },
+      {
+        "amount": 500,
+        "fluid": "nyagibits_bytes:malic_and_citric_acid_fluid"
+      },
+      {
+        "amount": 500,
+        "fluid": "pneumaticcraft:yeast_culture"
+      }
+    ],
+    "results": [
+      {
+        "amount": 1000,
+        "fluid": "nyagibits_bytes:vinegar_starter_fluid"
+      },
+      {
+        "item": "nyagibits_bytes:petri_dish_empty"
+      }
+    ]
+  }
