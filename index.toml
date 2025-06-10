@@ -8206,7 +8206,7 @@ hash = "97c4a640cdbfc2a91a384dafc21c517f1b15c90855343d15bca31877d31d6d66"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/vinegar_cooking.json"
-hash = "e2e7ee6c48c5b5f738582226406f076db0370733eb8b7ad78fd3b53e30ebd38e"
+hash = "7c22d1e8fd7c21aa343ec445d0e8d06337068ed99e76a749a6e8a61b8ad0171a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/vinegar_from_acetic_acid.json"
@@ -8218,11 +8218,11 @@ hash = "2094b79a711d5e689c277c8a450359c2914f1f97904ff0c3dc1dee5017c74d79"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/vinegar_starter_loop.json"
-hash = "28d7f3f6701b2cdc22bc5f592b8f142ea47da7579adab95cbe012fddfe6aa160"
+hash = "85fd5d87f3015e6e47ab3eabdb71dc7fab40ea6f7129ad12ca9d399b0582c0da"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/vinegar_starter_loop_t1.json"
-hash = "be237e736c009189aee84d5a7798320f4bfee52b473dbd123f8ea9735b7fbdd8"
+hash = "c42c9cf07d69d42701e518a7e1536be9b9308c85d785a4a089780742831ccfd2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/wet_biodiesel_basic.json"
@@ -8314,7 +8314,7 @@ hash = "488ee2be71dbef665d0a3d51284e4f770bbc456d32616717c5b6630ed0bc6b37"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/acetobacter_from_vinegar_starter.json"
-hash = "bc65d92b680eca96f05d29a94b474b25a1e7dc3b00fd1678ac27c952cef6b790"
+hash = "dfb5c89e83be72f0557d358bf9ab3bcb3063e1541a635ca79ecd4c8f7a17b253"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/sequenced_assembly/bad_copper_wire.json"

@@ -16,7 +16,7 @@
             "item": "nyagibits_bytes:incomplete_petri_dish_acetobacter_reclaim"
           },
           {
-            "amount": 200,
+            "amount": 1000,
             "fluid": "nyagibits_bytes:vinegar_starter_fluid",
             "nbt": {}
           }

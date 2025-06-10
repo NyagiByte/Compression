@@ -38,17 +38,17 @@
         "item": "nyagibits_bytes:bottle_of_malic_and_citric_acid"
       },
       {
-        "amount": 1000,
+        "amount": 500,
         "fluid": "pneumaticcraft:yeast_culture"
       },
       {
-        "amount": 100,
+        "amount": 500,
         "fluid": "nyagibits_bytes:vinegar_starter_fluid"
       }
     ],
     "results": [
       {
-        "amount": 200,
+        "amount": 1000,
         "fluid": "nyagibits_bytes:vinegar_starter_fluid"
       },
       {

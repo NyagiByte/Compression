@@ -7,7 +7,7 @@
         "fluid": "minecraft:water"
       },
       {
-        "amount": 100,
+        "amount": 500,
         "fluid": "nyagibits_bytes:vinegar_starter_fluid"
       }
     ],
