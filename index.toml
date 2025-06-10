@@ -654,7 +654,7 @@ hash = "acfdb749a28106463b96980100a7e542b0b2bc3f9c9464196e0765a4f1c39061"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "6a8e15e1dfa078de2b7fb6ed0000c0a54afbdbb7073f0b4ea16e2af1d0785bb7"
+hash = "6b32e1bd05ce02d27a5aa4bd415ee788d9dfd1eaf1e7e2161e5c0bb4321e8210"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/6t0_20_8_5_16_18_9_19_15_14.snbt"
@@ -678,11 +678,11 @@ hash = "215021877f879657aa15f9e8ce59c7acaa809b34ccc589a527d7c5efeba81674"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/proficiency.snbt"
-hash = "2d41f6e6831eb3e0314cf5a56029269897f005aba23a1ff9ac9dfbfa03773244"
+hash = "46b1656d34ea0e8457b3556d64887ffe14e99e9e87e3cca6a1999ac0c98c5c88"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
-hash = "883914ff2e513ab33b74e93c5926a7f44bfa5906b41894d2dba555d1fc67f494"
+hash = "8d5d5b829c2c0adafeba27d18e979bac4b8555585cc475b619fe262ea91ed479"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
@@ -762,7 +762,7 @@ hash = "68dc64a8f54227c7b773e419ae8ab08e63f88bb737cf3f030b8f2a7a5ea24fe5"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "8478c60f8a6d27bb200a6984e6fcd8e4f44eb4a8240e9d5fc786c535afb8f1af"
+hash = "525cccf91dfcc6f57eea52d4ffcd970f7ae29ff2d690d3ebaa043635fb40da31"
 
 [[files]]
 file = "config/hungy_config.json"
@@ -7838,7 +7838,11 @@ hash = "6fd592b16c1eace8abd5c3adf45314384316891f6f1ef8c0bf817f99456e8ddf"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/ink_t1.json"
-hash = "5bc85d35756e1355b3b14c59a2cbdaaf5247f904a116b94e6a7daf7f4ab540ee"
+hash = "588a6057c9d3b387fd7ddf64bd0c98b9bd779bd957183c24aa410fd66000f0d0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/ink_t1_5.json"
+hash = "47eeccfd666800b5350ca92cd1d209cbcfd0d0fdb17df87f114cd0bc0a6e9ad3"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/laventine_smelt.json"
@@ -8459,6 +8463,10 @@ hash = "92b10162b3007faf4f5450830954237d153686bef77c21ed135e0cc3488a2fea"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/filling/anthocyanin.json"
 hash = "55be4204280d10cbcab421996e72a1b2e1ab33741daf05777c1c263f98befd0d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/filling/ink_congealing.json"
+hash = "84cd88dc8940d7fac6771e3806803f6c27566082ffa7e5bc04b776885621d59e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/filling/malic_and_citric_acid.json"
@@ -15424,7 +15432,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "68dcaa9d46ce6ee87fee02d5c44bddf34063d77fba699ffb9f6d42cf605d39be"
+hash = "885a3df31d94ceb3b39488ee9009b034a77cf95576c234c991a97c615fab0b30"
 
 [[files]]
 file = "mods/oculus.pw.toml"

@@ -596,7 +596,7 @@
 				"Ethced Wood --> Living Roots"
 				"Andesite --> Livisite"
 				""
-				"&bStandard Processing Time"
+				"&b1x Processing Time (60 Seconds)"
 			]
 			id: "07E1088AA73FF590"
 			rewards: [{
@@ -1296,7 +1296,7 @@
 			}]
 			tasks: [{
 				id: "366089499C3C2AB2"
-				item: "nyagibits_bytes:2_phenoxyethanol"
+				item: "nyagibits_bytes:sample_2_phenoxyethanol"
 				type: "item"
 			}]
 			title: "two-ph-eno-thy-eth-anol"
@@ -1784,11 +1784,11 @@
 			y: -9.0d
 		}
 		{
-			dependencies: ["7AFFA55BBF8B8AEF"]
+			dependencies: ["3B5BF8BC78509E4D"]
 			description: [
-				"With some industrial scale oil refinement and many thousands of steel ingots later, we can finally process ink sacs better"
+				"With some industrial scale oil refinement and many thousands of steel ingots later, we can finally process ink more efficiently"
 				""
-				"&b8 Ink per craft"
+				"&b12 Ink per craft"
 			]
 			id: "0D62B2C09E734557"
 			rewards: [{
@@ -1802,8 +1802,8 @@
 				type: "item"
 			}]
 			title: "My nail polish D:"
-			x: -2.5d
-			y: -9.5d
+			x: -1.5d
+			y: -10.0d
 		}
 		{
 			description: ["&cThis Is You"]
@@ -2067,12 +2067,86 @@
 			}]
 			tasks: [{
 				id: "27B0B1BE50039602"
-				item: "nyagibits_bytes:heptafluoropropane_vial"
+				item: "nyagibits_bytes:sample_heptafluoropropane"
 				type: "item"
 			}]
 			title: "Hepeptetetptep what the hell"
 			x: 3.0d
 			y: 1.5d
+		}
+		{
+			dependencies: ["07E1088AA73FF590"]
+			description: [
+				"Each of these converts like its non-glimmering counterpart."
+				"Glimmering Log/Wood --> Living Wood"
+				"Glimmering Stone --> Living Stone"
+				"Glimmering Andesite --> Livisite"
+				""
+				"&b4x Processing Time (15 Seconds)"
+			]
+			id: "7C224523A761D075"
+			rewards: [{
+				id: "7CE7EB587A087627"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "4DA0A488A20CFB7E"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "forge:glimmering_woods"
+						}
+					}
+					title: "Any #forge:glimmering_woods"
+					type: "item"
+				}
+				{
+					id: "49D2DEED005AE61A"
+					item: "nyagibits_bytes:glimmering_stone"
+					type: "item"
+				}
+				{
+					id: "0D682A98DEB6C225"
+					item: "nyagibits_bytes:glimmering_andesite"
+					type: "item"
+				}
+			]
+			title: "Glimmering with Efficiency"
+			x: -5.5d
+			y: -12.5d
+		}
+		{
+			dependencies: ["7AFFA55BBF8B8AEF"]
+			description: [
+				"All that sooty residue from making steel can be added to the mix to make ink far more efficiently!"
+				"However, it is way too runny to be used as-is, need something to congeal it somewhat..."
+				""
+				"&b6 Ink per craft"
+			]
+			id: "3B5BF8BC78509E4D"
+			rewards: [{
+				id: "3AF94D66146F1F09"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "423D28451DD8C4D0"
+					item: "nyagibits_bytes:carbon_residue"
+					type: "item"
+				}
+				{
+					id: "7FF93481B5126336"
+					item: "nyagibits_bytes:bucket_of_thin_ink"
+					type: "item"
+				}
+			]
+			title: "On Thin Ic- Ink. Thin Ink."
+			x: -2.5d
+			y: -9.5d
 		}
 	]
 	subtitle: ["I NEED MORE STUFF"]

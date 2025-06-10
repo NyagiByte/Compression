@@ -1,0 +1,18 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "amount": 25,
+        "fluid": "nyagibits_bytes:thin_ink_fluid",
+        "nbt": {}
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:ink"
+      }
+    ]
+  }
