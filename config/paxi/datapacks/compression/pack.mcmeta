@@ -22,6 +22,9 @@
 		{"namespace": "mekanism", "path": "recipes/paper.json"},
 		{"namespace": "mekanism", "path": "recipes/dye_base.json"},
 		{"namespace": "mekanism", "path": "recipes/electric_bow.json"},
+		{"namespace": "mekanism", "path": "recipes/transmitter/restrictive_transporter.json"},
+		{"namespace": "mekanism", "path": "recipes/transmitter/diversion_transporter.json"},
+		{"namespace": "mekanism", "path": "recipes/transmitter/thermodynamic_conductor/basic.json"},
 
 		{"namespace": "mekanism", "path": "recipes/sawing/item_frame.json"},
 
