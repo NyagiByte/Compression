@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"create:analog_lever"},
+    "B": {"item":"create:railway_casing"},
+    "C": {"item":"create:contraption_controls"}
+  },
+  "pattern": [
+    "AA",
+    "BC"
+  ],
+  "result": {
+    "count": 1, 
+    "item": "create:controls"
+}
+}
