@@ -51,6 +51,7 @@
     }
   ],
   "output": {
+    "count": 16,
     "item": "botania:cocoon"
   },
   "reagent": {
