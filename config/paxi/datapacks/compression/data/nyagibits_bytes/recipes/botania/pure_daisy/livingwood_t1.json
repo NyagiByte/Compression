@@ -1,11 +1,9 @@
 {
-  "type": "botania:pure_daisy",
+  "type": "botania:state_copying_pure_daisy",
   "input": {
-    "type": "block",
-    "block": "nyagibits_bytes:glimmering_log"
+    "type": "tag",
+    "tag": "forge:glimmering_woods"
   },
   "time": 38,
-  "output": {
-    "name": "botania:livingwood_log"
-  }
+  "output": "botania:livingwood_log"
 }

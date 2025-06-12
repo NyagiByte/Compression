@@ -377,6 +377,29 @@
 			x: -6.0d
 			y: 4.5d
 		}
+		{
+			description: [
+				"Used to make the first batch of vinegar starter."
+				"A good source of the bacteria is rotten tomatoes."
+				"However, even with good conditions, isolating it will take many attempts and most of the time, you'll get a contaminated petri dish. "
+				"Don't worry, just wash it in some hot water, apply some new agar-agar and try again...as long as the petri dish is still intact. Keep a few spares."
+				"Thankfully, you only need one to begin with, and more can be made without failure once you've setup vinegar starter production."
+			]
+			id: "2BA50FC3C3EAAC75"
+			rewards: [{
+				id: "56B92D532550ED34"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "491894DAF7A17632"
+				item: "nyagibits_bytes:petri_dish_acetobacter"
+				type: "item"
+			}]
+			title: "Mother of Vinegar, Borderline Sisyphean Edition™"
+			x: 4.0d
+			y: 3.5d
+		}
 	]
 	subtitle: ["I've been farming for 100 hours"]
 	title: " &aOrganics"

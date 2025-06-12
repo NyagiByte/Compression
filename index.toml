@@ -674,15 +674,15 @@ hash = "b3cd72ea8959d4768a79e3ecf034bcd79bd41d75ac08816050b88307220553f2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"
-hash = "215021877f879657aa15f9e8ce59c7acaa809b34ccc589a527d7c5efeba81674"
+hash = "8b07f3f03466788ed8bff2b85ee45045f427ee756b597609c8fee26b32d6d669"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/proficiency.snbt"
-hash = "46b1656d34ea0e8457b3556d64887ffe14e99e9e87e3cca6a1999ac0c98c5c88"
+hash = "eaa8e1c55ab7a37d4724baac2d581bf6fd42a5663b61284c1b2f79cf4310ad75"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
-hash = "8d5d5b829c2c0adafeba27d18e979bac4b8555585cc475b619fe262ea91ed479"
+hash = "6c8004d0eb29ddfce9e0028ffe4f7fb913eebacffb0fd4013732a1f8fcc6b8bf"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
@@ -4873,6 +4873,10 @@ file = "config/paxi/datapacks/compression/data/farmersdelight/recipes/mixing/str
 hash = "c697c815e2dd313e2f9f45270da5678056616d678dd71601e84592cceb160643"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/blocks/glimmering_woods.json"
+hash = "a4c7c3b52e7fe3dbc2988ddfe36632b0416874998567cd10ff02a163a3254e03"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/fluids/ammonium.json"
 hash = "7d8023b869828da2cb1a37524702729b55066042ae02987d10cdb67889073381"
 
@@ -7342,7 +7346,7 @@ hash = "619395b14b2d075fec2a3d208ee4fcf72f1ed394e2a5c7a2c13db4e0ee2963e3"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/pure_daisy/livingwood_t1.json"
-hash = "5eafdaa3cfa6da76f6502b796875aa4cdcb4856016581125cb36d9e6fe6ffd04"
+hash = "c55b840cf27467790b73cd0e3205bcd0652730c79e440a9a520366240182d5c0"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/pure_daisy/livisite_stone.json"

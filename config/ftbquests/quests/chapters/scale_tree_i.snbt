@@ -1500,8 +1500,8 @@
 				type: "checkmark"
 			}]
 			title: "Homemade Gravel"
-			x: -11.5d
-			y: 1.5d
+			x: -12.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["6E25827A414FCAC6"]
@@ -1522,8 +1522,8 @@
 				type: "item"
 			}]
 			title: "Slag? No you're a slag"
-			x: -12.5d
-			y: 1.0d
+			x: -13.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["75BDDB33D26E3E34"]
@@ -1544,8 +1544,8 @@
 				type: "item"
 			}]
 			title: "Slag but Bourgeoisie"
-			x: -13.5d
-			y: 0.5d
+			x: -14.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["472213B0CD3A8117"]
@@ -1920,8 +1920,8 @@
 				type: "checkmark"
 			}]
 			title: "Setting my table on fire"
-			x: -11.0d
-			y: 0.5d
+			x: -11.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["15B68BB7170FFDFE"]
@@ -1942,8 +1942,8 @@
 				type: "item"
 			}]
 			title: "Angry Tomato Juice"
-			x: -12.0d
-			y: 0.0d
+			x: -12.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["639B2FF66B0FB1B4"]
@@ -1961,8 +1961,8 @@
 				type: "checkmark"
 			}]
 			title: "Hellish item requirements yay!"
-			x: -12.0d
-			y: 2.5d
+			x: -12.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["0F19705DACECC023"]
@@ -1983,8 +1983,8 @@
 				type: "item"
 			}]
 			title: "Plant Corpses"
-			x: -13.0d
-			y: 2.0d
+			x: -13.5d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -2008,8 +2008,8 @@
 				type: "item"
 			}]
 			title: "Hehehe, it spin"
-			x: -14.0d
-			y: 1.5d
+			x: -14.5d
+			y: 2.5d
 		}
 		{
 			dependencies: ["66DDC75CB8C3D557"]
@@ -2147,6 +2147,122 @@
 			title: "On Thin Ic- Ink. Thin Ink."
 			x: -2.5d
 			y: -9.5d
+		}
+		{
+			description: ["This is the scaling tree for vinegar"]
+			icon: "nyagibits_bytes:bottle_of_vinegar"
+			id: "61409154D028F9A4"
+			rewards: [{
+				id: "37E2EC7A5437C6D3"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4233DAB7E6BC1F0F"
+				title: "Not balsamic, unfortunately"
+				type: "checkmark"
+			}]
+			title: "(Usually) Edible Acid"
+			x: -11.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["61409154D028F9A4"]
+			description: [
+				"Just blend it all together and something is bound to stick."
+				"...why did it ferment so quickly?"
+				""
+				"&b1 Bottle of Vinegar per craft"
+			]
+			id: "5C72FB750A0192BC"
+			rewards: [{
+				id: "4E80F04440E4A85C"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "4AFE167D2DC4BAF1"
+					item: "pneumaticcraft:yeast_culture_bucket"
+					type: "item"
+				}
+				{
+					id: "2A782E5FAF795729"
+					item: "nyagibits_bytes:bottle_of_malic_and_citric_acid"
+					type: "item"
+				}
+				{
+					id: "0F59CEEB685A47F8"
+					item: "minecraft:sugar"
+					type: "item"
+				}
+			]
+			title: "Homebrewing"
+			x: -12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5C72FB750A0192BC"]
+			description: [
+				"A culture of Acetobacter will let you make Vinegar starter."
+				"Feed the vinegar starter to get more, then split some of it off and cook it to kill the bacteria inside and get vinegar, which you can then bottle up."
+				"&cMaking the initial starter is not easy! Do not use it all up!"
+				""
+				"&b8 Bottles of Vinegar per craft*"
+				""
+				"&7*(A craft means using the net gain of vinegar starter to make vinegar)"
+			]
+			id: "170BE4DB9EBBA2E6"
+			rewards: [{
+				id: "1935F132ED398DDC"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "69640773EF129B9F"
+					item: "nyagibits_bytes:petri_dish_acetobacter"
+					type: "item"
+				}
+				{
+					id: "75C5AAC9A032D90A"
+					item: "nyagibits_bytes:bucket_of_vinegar_starter"
+					type: "item"
+				}
+				{
+					id: "2D30D54A38D3A59B"
+					item: "chemlib:ethanol"
+					type: "item"
+				}
+			]
+			title: "Rinse and Repeat"
+			x: -13.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["170BE4DB9EBBA2E6"]
+			description: [
+				"Using processed munchdew mush instead of sugar cubes (and adding a lot more yeast culture) gives way more vinegar starter per batch."
+				"In fact, after removing the portion to cycle back in, you get 8 times as much!"
+				""
+				"&b64 Bottles of Vinegar per craft*"
+				""
+				"&7*(A craft means using the net gain of vinegar starter to make vinegar)"
+			]
+			id: "0FBF65F88D63B7A8"
+			rewards: [{
+				id: "02208CA1334E714B"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "66EFAB8D993231E1"
+				item: "nyagibits_bytes:mana_imbued_glucose_crystal"
+				type: "item"
+			}]
+			title: "Sugar Rush (wait no, it's sour)"
+			x: -14.0d
+			y: -1.0d
 		}
 	]
 	subtitle: ["I NEED MORE STUFF"]
