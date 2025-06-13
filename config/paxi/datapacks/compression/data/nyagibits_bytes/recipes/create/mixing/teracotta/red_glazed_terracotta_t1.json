@@ -3,7 +3,7 @@
     "heatRequirement": "superheated",
     "ingredients": [
       {
-        "item": "nyagibits_bytes:de_mineralized_chalk"
+        "item": "nyagibits_bytes:raw_chalk"
       },
       {
         "item": "minecraft:red_terracotta"
