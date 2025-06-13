@@ -2122,6 +2122,7 @@
 			dependencies: ["7AFFA55BBF8B8AEF"]
 			description: [
 				"All that sooty residue from making steel can be added to the mix to make ink far more efficiently!"
+				""
 				"However, it is way too runny to be used as-is, need something to congeal it somewhat..."
 				""
 				"&b6 Ink per craft"
@@ -2205,7 +2206,9 @@
 			dependencies: ["5C72FB750A0192BC"]
 			description: [
 				"A culture of Acetobacter will let you make Vinegar starter."
+				""
 				"Feed the vinegar starter to get more, then split some of it off and cook it to kill the bacteria inside and get vinegar, which you can then bottle up."
+				""
 				"&cMaking the initial starter is not easy! Do not use it all up!"
 				""
 				"&b8 Bottles of Vinegar per craft*"
@@ -2243,6 +2246,7 @@
 			dependencies: ["170BE4DB9EBBA2E6"]
 			description: [
 				"Using processed munchdew mush instead of sugar cubes (and adding a lot more yeast culture) gives way more vinegar starter per batch."
+				""
 				"In fact, after removing the portion to cycle back in, you get 8 times as much!"
 				""
 				"&b64 Bottles of Vinegar per craft*"

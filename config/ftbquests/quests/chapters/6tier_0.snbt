@@ -1054,6 +1054,15 @@
 		}
 		{
 			dependencies: ["6E61C014A48DD33A"]
+			description: [
+				"Botania is a tech mod, so it has a...well it can be a storage system, but it's more of a &ologistics&r system."
+				"This is corporea, a system usually ignored by most due to requiring lategame resources. Not here, it is available very early on."
+				""
+				"To begin, make a &3Master Corporea Spark&r and a few &dCorporea Sparks&r."
+				"Then, place the sparks over any inventory you want your corporea network to access."
+				""
+				"There must be one master spark somewhere in the network, but it will not be able to access an inventory itself."
+			]
 			icon: "botania:corporea_spark"
 			id: "1BDC7381D6607E31"
 			tasks: [{
@@ -1067,6 +1076,15 @@
 		}
 		{
 			dependencies: ["1BDC7381D6607E31"]
+			description: [
+				"To connect to each other, two corporea sparks must be within 8 blocks of eachother."
+				""
+				"To place sparks just to bridge a gap, you can use Corporea blocks and extend the network without needlessly adding more inventories."
+				""
+				"They're also perfect to place the master corporea spark on, since it can't access an inventory anyway, but is subject to the same placement restrictions."
+				""
+				"They also just look cool."
+			]
 			icon: "botania:corporea_block"
 			id: "785652262D0F8C91"
 			tasks: [{
@@ -1074,11 +1092,23 @@
 				title: "Sparkly Block"
 				type: "checkmark"
 			}]
-			x: 7.0d
+			x: 7.5d
 			y: 2.0d
 		}
 		{
 			dependencies: ["785652262D0F8C91"]
+			description: [
+				"The Corporea Index is the main method for a player to withdraw items from a corporea network."
+				""
+				"To use it, stand near it, and start talking (send a chat message)"
+				"If the index is ready to use, you will see a circle of sparks near it and a message while the chat box is open."
+				""
+				"Instead of being sent out to the world, your message will be interpreted as a request and the item will be withdrawn from a "
+				"connected inventory and pop out of the index."
+				""
+				"Example: Saying \"3 iron ingots\" will pop 3 iron ingots from the network."
+				"The full possibilities of requests are quite complex, so it's recommended to consult the lexica botania for more info."
+			]
 			icon: "botania:corporea_index"
 			id: "616464677ADE6DB4"
 			tasks: [{
@@ -1092,6 +1122,17 @@
 		}
 		{
 			dependencies: ["616464677ADE6DB4"]
+			description: [
+				"The corporea funnel is your main method of automatically transporting items with the corporea network."
+				""
+				"To use it, place it over an inventory, then place a corporea spark on it to connect it to the network."
+				""
+				"Place an item frame on the funnel, then put the item to request in the frame. Rotate it to select the amount."
+				""
+				"Amounts: 1, 2, 4, 8, 16, 32, 48, 64"
+				""
+				"Finally, give it a redstone pulse to request the item and put it in the inventory underneath"
+			]
 			icon: "botania:corporea_funnel"
 			id: "1829036099806630"
 			tasks: [{
@@ -1099,11 +1140,19 @@
 				title: "Gimmi! But over here"
 				type: "checkmark"
 			}]
-			x: 8.0d
-			y: 4.0d
+			x: 6.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["616464677ADE6DB4"]
+			description: [
+				"The Corporea Interceptor emits a redstone pulse whenever a corporea request cannot be fulfilled."
+				"Placing an item frame on it will filter its action to just the item within the frame."
+				""
+				"The redstone pulse can be used for anything, but the intended use is to activate a system that crafts the item."
+				""
+				"Deceptively useful for automation."
+			]
 			icon: "botania:corporea_interceptor"
 			id: "4FDDF94EC02A0D02"
 			tasks: [{
@@ -1112,10 +1161,20 @@
 				type: "checkmark"
 			}]
 			x: 7.5d
-			y: 5.0d
+			y: 4.0d
 		}
 		{
-			dependencies: ["616464677ADE6DB4"]
+			dependencies: ["4FDDF94EC02A0D02"]
+			description: [
+				"The Interceptor is useful for automation, but it doesn't handle fulfulling the original request once the item has been resupplied."
+				""
+				"That task does to the Corporea Retainer."
+				"Place it next to a Corporea Interceptor. No need to place a spark on the retainer."
+				""
+				"When the interceptor activates, the retainer will remember what the original request was. Sending a redstone pulse to it will re-trigger the original request, from wherever in the network it came from, be it a funnel, index or cube."
+				""
+				"In other words, its purpose is to signal to the network when an item has been resupplied and to try to fulfill the request again."
+			]
 			icon: "botania:corporea_retainer"
 			id: "56BAD950091D55D1"
 			tasks: [{
@@ -1123,8 +1182,8 @@
 				title: "Hold up where does this go again?"
 				type: "checkmark"
 			}]
-			x: 8.5d
-			y: 3.0d
+			x: 7.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["12057422FF5BBB46"]
@@ -1215,6 +1274,53 @@
 			title: "Wamter"
 			x: 0.0d
 			y: -7.5d
+		}
+		{
+			dependencies: ["616464677ADE6DB4"]
+			description: [
+				"To use the Corporea Crystal Cube, place it anywhere and connect it to the network with a corporea spark."
+				""
+				"Then, right click it with an item. The cube will now show the amount of that item in its corporea network."
+				""
+				"Left-Clicking it will request one of said item and pop it near the cube. Shift-Left-Clicking will request a stack."
+				""
+				"To prevent accidentially changing the viewed item, shift-right-click the cube with a Wand of the Forest to lock it."
+			]
+			icon: "botania:corporea_crystal_cube"
+			id: "71893BAA75FC3D55"
+			tasks: [{
+				id: "5676DF0C1A4544BD"
+				title: "Pondering the...Cube?"
+				type: "checkmark"
+			}]
+			x: 8.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["1BDC7381D6607E31"]
+			description: [
+				"Some of these blocks are too complex to explain in a reasonable amount of words."
+				""
+				"The Lexica Botania contains all the information about all things Botania."
+				"Craft the basic one with a book and a sapling, then combine it with a Corporea Spark to see most entries right away."
+				""
+				"Corporea is explained in the \"Ender Artifacts\" section."
+			]
+			icon: {
+				Count: 1b
+				id: "botania:lexicon"
+				tag: {
+					"botania:elven_unlock": 1b
+				}
+			}
+			id: "2A713A1369B51963"
+			tasks: [{
+				id: "76957459384BF856"
+				title: "Patchouli is a mod by Vazkii!"
+				type: "checkmark"
+			}]
+			x: 8.5d
+			y: 1.0d
 		}
 	]
 	title: " &6Tier 0"
