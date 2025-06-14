@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shaped",
     "key": {
       "A": {"item":"nyagibits_bytes:metamorphic_alloy"},
-      "B": {"item":"nyagibits_bytes:block_of_1080_high_carbon_steel"}
+      "B": {"item":"immersiveengineering:storage_steel"}
     },
     "pattern": [
       " A ",

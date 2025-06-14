@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "key": {
-      "A": {"item":"nyagibits_bytes:steel_high_carbon_1080"},
+      "A": {"item":"immersiveengineering:ingot_steel"},
       "B": {"item":"vintageimprovements:spring_coiling_machine_wheel"},
       "C": {"item":"nyagibits_bytes:mana_infused_casing"},
       "D": {"item":"create:gearbox"}
