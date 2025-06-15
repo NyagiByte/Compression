@@ -3373,6 +3373,62 @@ file = "config/paxi/datapacks/compression/data/compressedengineering/recipes/ass
 hash = "8163deddedb227702ae21d4604fa00114b5c7151698b1a03bf9df7dfb4994326"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/aluminum_boulder.json"
+hash = "c182e8a5108c9bdb46a3c7f20bcfd07009772c0ca55a70b26d0d335f6cd88bc0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/coal_boulder.json"
+hash = "744001bdf0f7f48eeb221fd25737c36b3ed98779b9eb41e1e1857670dac06ec7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/copper_boulder.json"
+hash = "4f893f4f50bd1d53c37ed9be3bf1fad9f9c5d8dae98b23c949ec2405ac1e867c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/electrum_boulder.json"
+hash = "331a9016791043afec32bcde433176207a095e143f7c6317c1a1c878c431619e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/gemstone_boulder.json"
+hash = "4354b0d2b0bbdc944e0112be3f1f8fa6941105522871512a09527cc7f4b77ad5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/iron_boulder.json"
+hash = "9772b724a748e23c09974e83c1ceb5607f4d2483f82ea319dac7368b67cd7061"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/lead_boulder.json"
+hash = "bd1e9dbbf49c2ecdc25b16cbb30c1785bbfab363377d6e5374397f32840bf25c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/misc_boulder.json"
+hash = "41aaa2e6b0f9e2fd5d8a3c7c998dbd39d29e2db0fd578c072321ebe79723431d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/nickel_boulder.json"
+hash = "7d5bb8dcb5316192e73ffd5426b0a329e5bdf0758c98cf2ea95c549a09ed98e2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/quartz_boulder.json"
+hash = "2d2fcf19cec29a09eddb99fc0a1e1171db8b38cf44d61f0dd11351bf0d7e20d7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/redstone_boulder.json"
+hash = "4837608aca69435eb2d377cf8811764bf5e079c59bc7d3b6ca04c976d504ca68"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/tin_boulder.json"
+hash = "ce4d28af04cbf0299004b797e52f228070e3fdae28f631b8822675d2b0a52890"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/uranium_boulder.json"
+hash = "0751ab7c7cc7090c2fcf9ef391e568cb7d4d4bbb9e3a2dd180036f4359e2a3fc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/zinc_boulder.json"
+hash = "dc2281b65936ce6cd2aff4d84dc8451d1c00d0c4bec144924488a2f8997b3221"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/constructionwand/recipes/diamond_wand.json"
 hash = "aea5e9e89786235d1e90f29da4ff3d6d045f441c9adfaabf21d35e68c129d55b"
 
@@ -15068,7 +15124,7 @@ metafile = true
 
 [[files]]
 file = "mods/compressiontweaks.pw.toml"
-hash = "2569c3a0062dfc181979ffae2a61165b557823748ac957a6146118c4357d4e94"
+hash = "24551f6904989a04a155e966c282e07d41806757e3a8332f338ad1c12a1d2b51"
 metafile = true
 
 [[files]]

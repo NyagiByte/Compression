@@ -1,0 +1,40 @@
+{
+    "type": "compressiontweaks:boulder_info",
+    "ores":[
+        {"item": "minecraft:emerald_ore", "count": 115},
+        {"item": "minecraft:deepslate_emerald_ore", "count": 46},
+        {"item": "minecraft:emerald"},
+        {"item": "minecraft:diamond_ore", "count": 165},
+        {"item": "minecraft:deepslate_diamond_ore", "count": 44},
+        {"item": "minecraft:diamond"},
+        {"item": "minecraft:lapis_ore", "count": 423},      
+        {"item": "minecraft:deepslate_lapis_ore", "count": 150},
+        {"item": "minecraft:lapis_lazuli"}
+    ],
+    "conglomerates":[
+        {"item": "nyagibits_bytes:conglomerate_gemstones_ore", "count": 592},
+        {"item": "nyagibits_bytes:dense_conglomerate_gemstones_ore", "count": 361},
+        {"item": "nyagibits_bytes:hyper_conglomerate_gemstones_ore", "count": 233},
+        {"item": "nyagibits_bytes:tectonic_conglomerate_gemstones_ore", "count": 189},
+        {"item": "nyagibits_bytes:core_conglomerate_gemstones_ore", "count": 64}
+    ],
+    "primary_resources": [
+        {"item": "nyagibits_bytes:raw_lapis_lazuli"},
+        {"item": "nyagibits_bytes:raw_lazurite"},
+        {"item": "nyagibits_bytes:raw_kimberlite"},
+        {"item": "nyagibits_bytes:raw_lamproite"},
+        {"item": "nyagibits_bytes:raw_prime_beryllic_cluster"},
+        {"item": "nyagibits_bytes:raw_chalcogenide_crystal_cluster"},
+        {"item": "nyagibits_bytes:raw_fluorite"},
+        {"item": "nyagibits_bytes:raw_salt_cluster"}
+    ],
+    "secondary_resources":[
+        {"item": "minecraft:snow_block", "count": 198},
+        {"item": "minecraft:packed_ice", "count": 893},
+        {"item": "minecraft:blue_ice", "count": 295},
+        {"item": "minecraft:powder_snow_bucket", "count": 201}
+    ],
+    "secondary_fluids":[
+        {"fluid": "nuclearcraft:cryotheum", "amount": 107000}
+    ]
+}

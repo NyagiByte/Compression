@@ -1,0 +1,34 @@
+{
+    "type": "compressiontweaks:boulder_info",
+    "ores":[
+        {"item": "minecraft:iron_ore", "count": 695},
+        {"item": "minecraft:deepslate_iron_ore", "count": 141},
+        {"item": "minecraft:raw_iron_block", "count": 30},
+        {"item": "minecraft:raw_iron"}
+    ],
+    "conglomerates":[
+        {"item": "nyagibits_bytes:conglomerate_iron_ore", "count": 669},
+        {"item": "nyagibits_bytes:dense_conglomerate_iron_ore", "count": 824},
+        {"item": "nyagibits_bytes:hyper_conglomerate_iron_ore", "count": 383},
+        {"item": "nyagibits_bytes:tectonic_conglomerate_iron_ore", "count": 196},
+        {"item": "nyagibits_bytes:core_conglomerate_iron_ore", "count": 65}
+    ],
+    "primary_resources": [
+        {"item": "nyagibits_bytes:raw_bog_iron"},
+        {"item": "nyagibits_bytes:raw_magnetite"},
+        {"item": "nyagibits_bytes:raw_siderite"},
+        {"item": "nyagibits_bytes:raw_limonite"},
+        {"item": "nyagibits_bytes:raw_banded_iron"},
+        {"item": "nyagibits_bytes:raw_meteoric_iron"},
+        {"item": "nyagibits_bytes:raw_hematite"},
+        {"item": "nyagibits_bytes:raw_pyrite"}
+    ],
+    "secondary_resources":[
+        {"item": "minecraft:magma_block", "count": 51},
+        {"item": "minecraft:tuff", "count": 60},
+        {"item": "immersiveengineering:slag_gravel", "count": 143}
+    ],
+    "secondary_fluids":[
+        {"fluid": "minecraft:lava", "amount": 63000}
+    ]
+}

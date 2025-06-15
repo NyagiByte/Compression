@@ -1,0 +1,40 @@
+{
+    "type": "compressiontweaks:boulder_info",
+    "ores":[
+        {"item": "minecraft:gold_ore", "count": 501},
+        {"item": "minecraft:raw_gold"},
+        {"item": "thermal:silver_ore", "count": 163},
+        {"item": "thermal:raw_silver_block", "count": 65},
+        {"item": "thermal:raw_silver"}
+    ],
+    "conglomerates":[
+        {"item": "nyagibits_bytes:conglomerate_electrum_ore", "count": 508},
+        {"item": "nyagibits_bytes:dense_conglomerate_electrum_ore", "count": 402},
+        {"item": "nyagibits_bytes:hyper_conglomerate_electrum_ore", "count": 387},
+        {"item": "nyagibits_bytes:tectonic_conglomerate_electrum_ore", "count": 307},
+        {"item": "nyagibits_bytes:core_conglomerate_electrum_ore", "count": 64}
+    ],
+    "primary_resources": [
+        {"item": "nyagibits_bytes:raw_electrum"},
+        {"item": "nyagibits_bytes:raw_kustelite_electrum"},
+        {"item": "nyagibits_bytes:native_cluster"},
+        {"item": "nyagibits_bytes:raw_argentite"},
+        {"item": "nyagibits_bytes:raw_chlorargyrite"},
+        {"item": "nyagibits_bytes:raw_polybasite"},
+        {"item": "nyagibits_bytes:raw_proustite"},
+        {"item": "nyagibits_bytes:alluvial_slush"}
+    ],
+    "secondary_resources":[
+        {"item": "minecraft:calcite", "count": 542},
+        {"item": "minecraft:diorite", "count": 460},
+        {"item": "byg:blue_sand", "count": 323},
+        {"item": "byg:white_sand", "count": 472},
+        {"item": "minecraft:dead_brain_coral_block", "count": 22},
+        {"item": "minecraft:dead_bubble_coral_block", "count": 46},
+        {"item": "minecraft:dead_fire_coral_block", "count": 76},
+        {"item": "minecraft:dead_tube_coral_block", "count": 2}
+    ],
+    "secondary_fluids":[
+        {"fluid": "nuclearcraft:aqua_regia_acid", "amount": 130000}
+    ]
+}

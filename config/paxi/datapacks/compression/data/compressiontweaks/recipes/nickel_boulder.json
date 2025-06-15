@@ -1,0 +1,33 @@
+{
+    "type": "compressiontweaks:boulder_info",
+    "ores":[
+        {"item": "thermal:nickel_ore", "count": 573},
+        {"item": "thermal:deepslate_nickel_ore", "count": 59},
+        {"item": "thermal:raw_nickel"}
+    ],
+    "conglomerates":[
+        {"item": "nyagibits_bytes:conglomerate_nickel_ore", "count": 537},
+        {"item": "nyagibits_bytes:dense_conglomerate_nickel_ore", "count": 377},
+        {"item": "nyagibits_bytes:hyper_conglomerate_nickel_ore", "count": 245},
+        {"item": "nyagibits_bytes:tectonic_conglomerate_nickel_ore", "count": 198},
+        {"item": "nyagibits_bytes:core_conglomerate_nickel_ore", "count": 65}
+    ],
+    "primary_resources": [
+        {"item": "nyagibits_bytes:raw_millerite"},
+        {"item": "nyagibits_bytes:raw_meteoric_kamacite"},
+        {"item": "nyagibits_bytes:raw_meteoric_taenite"},
+        {"item": "nyagibits_bytes:raw_garnierite"},
+        {"item": "nyagibits_bytes:raw_saprolite"},
+        {"item": "nyagibits_bytes:raw_hardened_sulfide_flow"},
+        {"item": "nyagibits_bytes:raw_nickeline"},
+        {"item": "nyagibits_bytes:raw_pentlandite"}
+    ],
+    "secondary_resources":[
+        {"item": "minecraft:pufferfish", "count": 3},
+        {"item": "minecraft:shroomlight", "count": 4},
+        {"item": "byg:windswept_sand", "count": 392},
+        {"item": "byg:pink_sand", "count": 353},
+        {"item": "byg:quartzite_sand", "count": 111}
+    ],
+    "secondary_fluids":[]
+}
