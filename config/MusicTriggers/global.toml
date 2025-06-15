@@ -1,0 +1,45 @@
+#  Global header!
+#  Line 2
+
+toggles_path = "toggles"
+
+[channels]
+	[channels.example]
+		commands = "commands"
+		explicitly_overrides = false
+		has_paused_music = false
+		jukebox = "jukebox"
+		local_folder = "config/MusicTriggers/songs"
+		main = "main"
+		overrides_music = true
+		paused_by_jukebox = true
+		pauses_overrides = false
+		redirect = "redirect"
+		renders = "renders"
+		sound_category = "music"
+
+[debug]
+	allow_timestamps = false
+	block_sound_effects = true
+	blocked_sound_categories = [ "minecraft;music" ]
+	client_only = false
+	enable_debug_info = false
+	enable_discs = true
+	encoding_quality = 10
+	gui_fuzz = true
+	independent_audio_pools = false
+	interrupted_sound_categories = [ "music" ]
+	pause_unless_focused = true
+	play_normal_music = false
+	resampling_quality = "HIGH"
+	reverse_priority = false
+	show_channel_info = true
+	show_position_info = true
+	show_song_info = false
+	show_status_info = true
+	show_target_info = true
+	show_trigger_info = true
+	slow_tick_factor = 5.0
+	tick_rate = 20
+	write_default_values = [ "channel", "from", "image", "interrupt_handler", "main", "songs", "title", "toggle", "triggers", "universal_audio", "universal_triggers" ]
+

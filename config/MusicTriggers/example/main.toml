@@ -1,43 +1,63 @@
-# Please refer to the wiki page located at https://github.com/TheComputerizer/Music-Triggers/wiki
-# or the discord server located at https://discord.gg/FZHXFYp8fc
-# for any specific questions you might have regarding the main config file
+#  Main header!
+#  Line 2
 
-[triggers]
-	[triggers.time]
-		start_hour = "16"
-		priority = "10"
-		time_bundle = "night"
-		identifier = "Night"
-		fade_in = "40"
-		fade_out = "40"
-		end_hour = "0"
-	[triggers.generic]
-		fade_in = "40"
-		fade_out = "40"
 [songs]
-	[songs.relic9]
-		triggers = [ "time-Night" ]
-	[songs.relic6]
-		triggers = [ "time-Night" ]
-	[songs.relic4_2]
-		triggers = [ "time-Night" ]
-	[songs.relic4_1]
-		triggers = [ "time-Night" ]
-	[songs.relic2]
-		triggers = [ "time-Night" ]
-	[songs.universal]
-	[songs.silicontransmitterdecay]
-		triggers = [ "generic" ]
-	[songs.silicontransmitterruin]
-		triggers = [ "time-Night" ]
-	[songs.silicontransmittercompress]
 	[songs.godseyesarelikemymotherseyes]
 		triggers = [ "menu" ]
 	[songs.heavenexistsandisfullofpoorpeople]
 		triggers = [ "generic" ]
+	[songs.hydra]
+		triggers = [ "Generic" ]
+	[songs.lastmoonlaststars]
+		triggers = [ "Time-Night" ]
+	[songs.metamorphoses]
+		triggers = [ "Time-Night" ]
+	[songs.mobius]
+		triggers = [ "Time-Night" ]
+	[songs.relic12]
+		triggers = [ "Time-Night" ]
+	[songs.relic2]
+		triggers = [ "time-Night" ]
+	[songs.relic4_1]
+		triggers = [ "time-Night" ]
+	[songs.relic4_2]
+		triggers = [ "time-Night" ]
+	[songs.relic6]
+		triggers = [ "time-Night" ]
+	[songs.relic9]
+		triggers = [ "time-Night" ]
+	[songs.silicontransmittercompress]
+		triggers = [ ]
+	[songs.silicontransmitterdecay]
+		triggers = [ "generic" ]
+	[songs.silicontransmitterruin]
+		triggers = [ "time-Night" ]
 	[songs.thankyouforgivingsomuch]
 		triggers = [ "generic" ]
 	[songs.thegloriousexperienceofdyingpeacefully]
 		triggers = [ "generic" ]
+	[songs.tobeahuman]
+		triggers = [ "Time-Night" ]
 	[songs.wheredoyouhideinthebrightlight]
 		triggers = [ "generic" ]
+
+[triggers]
+	[triggers.generic]
+		fade_in = 40
+		fade_out = 40
+	[triggers.time]
+		fade_in = 40
+		fade_out = 40
+		identifier = "Night"
+		priority = 10
+		start_hour = 16.0
+		time_bundle = "night"
+	[triggers.universal]
+		active_cooldown = "0"
+		fade_in = "0"
+		fade_out = "0"
+		persistence = "0"
+		ticks_before_active = "0"
+		ticks_before_audio = "0"
+		ticks_between_audio = "0"
+
