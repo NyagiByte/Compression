@@ -690,7 +690,7 @@ hash = "5eaa01737c46ffc31178fbfacbaaf71d9b0492e8a34838f1973905af60636bd4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "bc4e780cb632ae9c5639ec65e069a38df119545dcacf871024ddf63f59539ec9"
+hash = "c6c113b1e35e7636c6938a3f3183b4bca9cba566de1efd75a994188dbd01fe08"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -13754,7 +13754,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "82f87e51cf04beb2b0c34e6a4661187b53fece5a28b40c3699c5203ba9a72150"
+hash = "f81a8b2b761c97def2d058b8f26613ebdf846039838b5b5e9388a905cb3519f6"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
