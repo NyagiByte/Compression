@@ -34,7 +34,7 @@ hash = "a1a5822f28ad5c597498ee532838cef17a747f020f21c72fcc8a419f5134d53b"
 
 [[files]]
 file = "config/MusicTriggers/example/main.toml"
-hash = "096ac4a4d4a4d0d8f1311bf5248756ea5e95c389d86d0fcf163042079fe2d365"
+hash = "8b165271f2da023d2c602cc3f775e917671eb902dcecf197824e23b0265dfd3f"
 
 [[files]]
 file = "config/MusicTriggers/example/redirect.txt"
@@ -49,6 +49,10 @@ file = "config/MusicTriggers/example/transitions.toml"
 hash = "b013fb3249c811335a1f75baee19ad0e7012f4e7c404b7947103fdb7b95fcfbe"
 
 [[files]]
+file = "config/MusicTriggers/global.toml"
+hash = "69e6c09837e4894feb2b0150ca1570004ef746bcb98fb2c41c9b572896304fd0"
+
+[[files]]
 file = "config/MusicTriggers/registration.toml"
 hash = "d674ad8b711aea989e45dcc154feda2c42a1c61127b56f8b2992faab965d9b9a"
 
@@ -61,8 +65,36 @@ file = "config/MusicTriggers/songs/heavenexistsandisfullofpoorpeople.mp3"
 hash = "c33951a5e91a566d8b6590b44cc1c8190c1f58d39257607726bda9a8057fbff1"
 
 [[files]]
+file = "config/MusicTriggers/songs/hydra.mp3"
+hash = "16adb9754f5dfae81884dd7900942268283c03ea315ff0330d7e8b1032f3d639"
+
+[[files]]
+file = "config/MusicTriggers/songs/lastmoonlaststars.mp3"
+hash = "d79243d392c9fc58c379219a3f9b3e88ccec708707e3c4b30f1bae9c0a84c7b4"
+
+[[files]]
 file = "config/MusicTriggers/songs/mainmenu.mp3"
 hash = "b81df3feabafe86791ccbcc422e8ba26a82b8823b9999a2a202bb3c6fcbd2d79"
+
+[[files]]
+file = "config/MusicTriggers/songs/metamorphoses.mp3"
+hash = "b86bee90e2f96d7368f0ec907ccdfc2123609fd659dcfeae9b526eb0bd98fce2"
+
+[[files]]
+file = "config/MusicTriggers/songs/mobius.mp3"
+hash = "607d4fd1ab2419918b537584fb72098c0ebcfbf966a4ee7123e095cba7f79075"
+
+[[files]]
+file = "config/MusicTriggers/songs/pyramid.mp3"
+hash = "ba668d26a5a8714ccb4f93359534f5766e7bd2eb9ac8e924d7d8c85d13b72929"
+
+[[files]]
+file = "config/MusicTriggers/songs/relic12.mp3"
+hash = "2c126e564a20aeac2debc77204f5046862fadfb570688951bab98c32185c1b9b"
+
+[[files]]
+file = "config/MusicTriggers/songs/relic16.mp3"
+hash = "82300b2723ac26e22b43eb0e852ca5955c35cf9d4ba37e81b8d620049fb95efa"
 
 [[files]]
 file = "config/MusicTriggers/songs/relic2.mp3"
@@ -103,6 +135,10 @@ hash = "b81df3feabafe86791ccbcc422e8ba26a82b8823b9999a2a202bb3c6fcbd2d79"
 [[files]]
 file = "config/MusicTriggers/songs/thegloriousexperienceofdyingpeacefully.mp3"
 hash = "207b5eed80335e42a6719c66d8eba262171587b507fa829fcfb377f6a4f4aa77"
+
+[[files]]
+file = "config/MusicTriggers/songs/tobeahuman.mp3"
+hash = "93704a15794541f411239b97b090a02073d25dd115b530e931f0e55aeca67f55"
 
 [[files]]
 file = "config/MusicTriggers/songs/wheredoyouhideinthebrightlight.mp3"
@@ -570,7 +606,7 @@ hash = "d36396ec9ea6d5ca128f561904df2911b8694c3ff5852fc9431cdaf2d5596f4d"
 
 [[files]]
 file = "config/fancymenu/customization/credits_layout.txt"
-hash = "9a2579dd7d5695e01d16e15ce94c3716dc2b965bad0c3f8c3adb091c648e4cd8"
+hash = "f9ed99359261961a2ee44fd7a73c8f06a355cb389f2ae058b03a07534711daf9"
 
 [[files]]
 file = "config/fancymenu/customization/menu_music.txt"
@@ -5087,6 +5123,10 @@ hash = "6a7070ba40828f8980eb91a34059a5c3cd8614c59158a56f7a578c07fd81d1b9"
 [[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/brown_organic.json"
 hash = "c2761ebe098563848327767580ce15da450733d6d3cfb57e3af52e1a29754296"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/items/chitin_sources.json"
+hash = "cc5bf8569eea47ad95dca515727e13d700f4d0b51d39acdabb3b38d1c9d09a79"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/chromium_trioxide.json"
@@ -13438,19 +13478,19 @@ hash = "328625587e80f73602786a4501238495b46c3183b91a7e6d91e2168113851713"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/spring_coiling_machine.json"
-hash = "4cfad7fe696878245b9df7d129ae9ef5cbc32a711eca948a47cb3f65f6a580f1"
+hash = "89d807da924d560eb644ec6494e0d095040f3c77988c73e759438597a926d66e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/spring_coiling_machine_t1.json"
-hash = "7dce496a18dee64ad47f68766545056efc4910c3bae513c6fd26f42a7f820935"
+hash = "120b59d3d1dbb7369d940559e1c1b454fef8af0a95010b177d01a456b3dc26f8"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/spring_coiling_machine_t2.json"
-hash = "032f936f75bb9d5425c36d83f309a81488da3deec91fce395560d48b9351955e"
+hash = "d768dcd2acf41a886e907fe0a2171ddd3049f8775a9b180be3bf3bc340197a86"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/spring_coiling_machine_wheel.json"
-hash = "2d9a2b938676a7b98acc775f84161083ca5d0ec82ee8a50d934f3a763d844a47"
+hash = "b128564b36a544d5b850a7910019285e71c004f553c08cc5bac3f631d67e2b67"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/vacuum_chamber.json"
@@ -14022,11 +14062,23 @@ hash = "fe17fa937974d85bc7431f2a92b241e619d827f718168ec73912460da9504d4c"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/botania/lang/en_us.json"
-hash = "b5f3ef5fd0bb0538d036904ec7a755330c422cb3699a6ce3c85f346206faad49"
+hash = "3e385faae3c38630f6ade8a6f8e90e1adbe1080dc78142503f0b4d74e980933e"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/botania/lang/pt_br.json"
 hash = "ac2cb78cd7bd5995d9fcda195d3c093900897fe592a1152d739a76589bf9f49c"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/botania/textures/block/apothecary_default_bottom.png"
+hash = "d90e5860ff5932919712616e50ec409249ac29dac227c8b1089302c41130c25f"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/botania/textures/block/apothecary_default_side.png"
+hash = "b15752d8ef4503d685fe27643395fb8e2c9475adfc02b118578ad5e565e850d0"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/botania/textures/block/apothecary_default_top.png"
+hash = "c1f9fa16145dba2f1aabb25477efca821dab046828bc7061d5c64feb43deb708"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/chemlib/lang/en_us.json"
