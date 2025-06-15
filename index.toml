@@ -11429,6 +11429,14 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageim
 hash = "51711bd717c713346faadfb3f20bc040305521428a73ceffbf631cadda1d1dcf"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/hydrochloric_acid_fluid.json"
+hash = "2b40b3a737f49933c2900ae2820fa38817f4e4db6093063fe71ab931aa77ef14"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/hydrogen_peroxide_003_fluid.json"
+hash = "2b40b3a737f49933c2900ae2820fa38817f4e4db6093063fe71ab931aa77ef14"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/lithium_alumino_solution_fluid.json"
 hash = "e8aeecfd3972db5c79e8e64787b0ece5fa523765ead491ae10594a3f1e97be82"
 
@@ -15596,7 +15604,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "885a3df31d94ceb3b39488ee9009b034a77cf95576c234c991a97c615fab0b30"
+hash = "f00ef2a2123e9e6c8781e83b1892059db991c49c8f7e8af1f90ed0e35d74ad0a"
 
 [[files]]
 file = "mods/oculus.pw.toml"
