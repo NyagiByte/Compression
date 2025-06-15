@@ -1,0 +1,30 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"secondaryFluidInput": 1,
+    "heatRequirement": "heated",
+	"ingredients": [
+		{
+			"fluid": "chemlib:chlorine_fluid",
+			"amount": 125
+		},
+		{
+			"fluid": "chemlib:hydrogen_fluid",
+			"amount": 125
+		},
+		{
+			"fluid": "minecraft:water",
+			"amount": 125
+		}
+	],
+	"results": [
+		{
+			"amount": 125,
+			"fluid": "chemlib:hydrochloric_acid_fluid"
+		},
+		{
+			"amount": 1250,
+			"fluid": "nuclearcraft:low_pressure_steam"
+		}
+	],
+	"processingTime": 200
+}
