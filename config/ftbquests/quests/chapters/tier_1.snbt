@@ -2337,6 +2337,7 @@
 		}
 		{
 			dependencies: ["078D5F3DD8BD448E"]
+			description: ["If you are reading this, you probably need a &oCompactor&r instead."]
 			id: "2591E9EC898378B9"
 			rewards: [{
 				id: "0EBAEC9010D1EEA0"
