@@ -1,0 +1,26 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "chemlib:potassium_permanganate"
+      },
+      {
+        "amount": 250,
+        "fluid": "nyagibits_bytes:solution_unbleached_chitin_fluid"
+      },
+      {
+        "amount": 50,
+        "fluid": "chemlib:hydrochloric_acid_fluid"
+      },
+      {
+        "amount": 50,
+        "fluid": "nyagibits_bytes:hydrogen_peroxide_015_fluid"
+      }
+    ],
+    "results": [
+      {
+        "amount": 250,
+        "fluid": "nyagibits_bytes:solution_decolorized_chitin_fluid"
+      }
+    ]
+  }

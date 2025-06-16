@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "chemlib:sodium_hydroxide"
+      },
+      {
+        "amount": 1000,
+        "fluid": "nyagibits_bytes:solution_chitosan_fluid"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:chitosan_dust"
+      }
+    ]
+  }

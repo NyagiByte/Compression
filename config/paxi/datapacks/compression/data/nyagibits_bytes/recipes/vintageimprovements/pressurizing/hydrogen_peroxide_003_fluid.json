@@ -1,0 +1,32 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"secondaryFluidOutput": 0,
+    "heatRequirement": "heated",
+	"ingredients": [
+		{
+			"fluid": "nyagibits_bytes:diluted_sulfuric_acid_fluid",
+			"amount": 250
+		},
+		{
+			"item": "nyagibits_bytes:electrolytic_core"
+		}
+	],
+	"results": [
+		{
+			"amount": 125,
+			"fluid": "chemlib:hydrogen_fluid"
+		},
+		{
+			"amount": 125,
+			"fluid": "nyagibits_bytes:hydrogen_peroxide_003_fluid"
+		},
+		{
+            "chance": 0.95,
+			"item": "nyagibits_bytes:electrolytic_core"
+		},
+		{
+			"item": "nyagibits_bytes:sample_sulfate"
+		}
+	],
+	"processingTime": 200
+}

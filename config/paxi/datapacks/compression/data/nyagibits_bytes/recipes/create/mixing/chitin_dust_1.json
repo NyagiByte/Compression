@@ -1,0 +1,16 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "amount": 1000,
+        "fluid": "nyagibits_bytes:solution_decolorized_chitin_fluid"
+      }
+    ],
+    "results": [
+      {
+        "count": 4,
+        "item": "chemlib:chitin_dust"
+      }
+    ]
+  }

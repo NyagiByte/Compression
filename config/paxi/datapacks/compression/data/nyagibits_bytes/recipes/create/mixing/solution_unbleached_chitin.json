@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "tag": "forge:chitin_sources"
+      },
+      {
+        "item": "chemlib:sodium_hydroxide"
+      },
+      {
+        "amount": 100,
+        "fluid": "chemlib:hydrochloric_acid_fluid"
+      }
+    ],
+    "results": [
+      {
+        "amount": 100,
+        "fluid": "nyagibits_bytes:solution_unbleached_chitin_fluid"
+      }
+    ]
+  }

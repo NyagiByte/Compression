@@ -1,0 +1,16 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "amount": 1000,
+        "fluid": "nyagibits_bytes:hydrogen_peroxide_003_fluid"
+      }
+    ],
+    "results": [
+      {
+        "amount": 125,
+        "fluid": "nyagibits_bytes:hydrogen_peroxide_015_fluid"
+      }
+    ]
+  }

@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "chemlib:potassium_permanganate"
+      },
+      {
+        "amount": 100,
+        "fluid": "nyagibits_bytes:solution_decolorized_chitin_fluid"
+      }
+    ],
+    "results": [
+      {
+        "amount": 100,
+        "fluid": "nyagibits_bytes:solution_chitosan_fluid"
+      }
+    ]
+  }
