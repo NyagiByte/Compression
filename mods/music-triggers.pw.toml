@@ -1,13 +1,13 @@
 name = "Music Triggers"
-filename = "musictriggers-7.0.4.jar"
+filename = "musictriggers-1.19.2-6.3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a859a17a6c7504639413133e869014544744c350"
+hash = "10bc4d845c4558d2d1a81c6fcd53b5cd93d3821e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6497407
+file-id = 4836499
 project-id = 518410
