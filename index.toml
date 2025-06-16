@@ -7945,6 +7945,18 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "3a897fa45219d70c72636bcc0eef1e383c463d0bd866928b0111e426c06f50a9"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/chitin_dust_0.json"
+hash = "a47f8f41366d84907635169071c5e1d52dd7d27b60113be64dd6661cf151f688"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/chitin_dust_1.json"
+hash = "42b9331fc75f58d2fd4298c44df02dec25fcdcd009f9c53bd717787388ec3438"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/chitosan_dust_0.json"
+hash = "78ff4b20675e217e4d15ecba1c870d414c172a8a26d87e01bd1a2cf38f982e03"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/chromium_trioxide.json"
 hash = "1663491e60b18fda3c3e8828ce6609c2c02c10a0e8a89372d6cbf3f7b1c43f21"
 
@@ -7983,6 +7995,14 @@ hash = "cc56e74a24824e973eaf4981b6dc71b6a1efcb1155b42cee12f7ee2f69c1052b"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/glimmering_stone.json"
 hash = "18aee820843a949b9fae2cc601313f3a084b15b36e9daa6a108aefc0b8a16c64"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/hydrogen_peroxide_003_to_015.json"
+hash = "ddb2684abdf75d1d6cf0933dadf61cde038cb93f6829c26a7a02eac19b4697c4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/hydrogen_peroxide_015_to_003.json"
+hash = "51ca186403e3a083ff6bf6f756833912176ffffbd2c5820f1f16faced25726cb"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/ink.json"
@@ -8199,6 +8219,22 @@ hash = "b00a3aa618382d886023b5aad585f5bc80bda38c841c3363bab1f358c32bb9e0"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/soil_sample.json"
 hash = "ed777d2c5bfffe12125458762dc90ea8e7d7757aef1c5f8e3fa8c67b3acfdbaf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/solution_chitosan.json"
+hash = "15456660a8b2e79970fe904a29e11da282ccbe5a651e157208e0f2d094f024d5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/solution_decolorized_chitin_1.json"
+hash = "46813fa43b5e7eaacec498a2ce3549fb5a756a8bfaf1bd29467e7292e7332dc5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/solution_decolorized_chitin_2.json"
+hash = "271f88634215951d97a56eefb066feaa7a1ff0f4f69ea341d4b4e36dea21db5e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/solution_unbleached_chitin.json"
+hash = "004f3bae039d3b4ddf9d4ce3b1405efabe5f328321e5a107f954f02827e2b4c6"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/sponged_steel.json"
@@ -11434,7 +11470,7 @@ hash = "2b40b3a737f49933c2900ae2820fa38817f4e4db6093063fe71ab931aa77ef14"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/hydrogen_peroxide_003_fluid.json"
-hash = "2b40b3a737f49933c2900ae2820fa38817f4e4db6093063fe71ab931aa77ef14"
+hash = "f6c7657e6eb0db2929490f41801d780f507ee825456dc31720eef6921db2dd4f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/lithium_alumino_solution_fluid.json"
@@ -15604,7 +15640,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "f00ef2a2123e9e6c8781e83b1892059db991c49c8f7e8af1f90ed0e35d74ad0a"
+hash = "b74e480dcd7b8a37aaf236d0bfc44aecc3d8984e5df097607916399d6fe5b426"
 
 [[files]]
 file = "mods/oculus.pw.toml"
