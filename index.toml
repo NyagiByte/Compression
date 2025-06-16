@@ -15430,7 +15430,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "cd834c11c3272bd5660acb8ca0ce9642bff41daaae794869d763aa9830270e43"
+hash = "88ae621ba8d7485996c9110b02357e24b2e519439aaaea99b278e16cf9b01466"
 metafile = true
 
 [[files]]
@@ -15690,7 +15690,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-triggers.pw.toml"
-hash = "117f4ee58b26cabd9943e19352b770a9ab569fb0711270028917129194e6bdda"
+hash = "d712fd7cce1d501eff90624d6130f11f7e8a9debf0538095a1e793826c331755"
 metafile = true
 
 [[files]]
@@ -15915,7 +15915,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-impossible-library.pw.toml"
-hash = "80c496c73b0f19043434515e2aa4bed0f2e1ea6dfae2c56868f38974f0b6addc"
+hash = "bd98378c4089d275e7d094cc939cfbd451abbefe2a5c3c4a055eec784fa05842"
 metafile = true
 
 [[files]]
