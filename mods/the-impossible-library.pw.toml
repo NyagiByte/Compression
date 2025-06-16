@@ -1,6 +1,6 @@
 name = "The Impossible LIbrary"
 filename = "theimpossiblelibrary-0.4.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
