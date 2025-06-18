@@ -2100,7 +2100,7 @@
 							value: "forge:glimmering_woods"
 						}
 					}
-					title: "Any #forge:glimmering_woods"
+					title: "Any Glimmering Wood"
 					type: "item"
 				}
 				{
@@ -2127,6 +2127,7 @@
 				""
 				"&b6 Ink per craft"
 			]
+			icon: "nyagibits_bytes:bucket_of_thin_ink"
 			id: "3B5BF8BC78509E4D"
 			rewards: [{
 				id: "3AF94D66146F1F09"
@@ -2175,6 +2176,7 @@
 				""
 				"&b1 Bottle of Vinegar per craft"
 			]
+			icon: "pneumaticcraft:yeast_culture_bucket"
 			id: "5C72FB750A0192BC"
 			rewards: [{
 				id: "4E80F04440E4A85C"
@@ -2215,6 +2217,7 @@
 				""
 				"&7*(A craft means using the net gain of vinegar starter to make vinegar)"
 			]
+			icon: "nyagibits_bytes:petri_dish_acetobacter"
 			id: "170BE4DB9EBBA2E6"
 			rewards: [{
 				id: "1935F132ED398DDC"
@@ -2267,6 +2270,152 @@
 			title: "Sugar Rush (wait no, it's sour)"
 			x: -14.0d
 			y: -1.0d
+		}
+		{
+			dependencies: ["37FAB0261BCDF974"]
+			description: ["This is the scaling tree for samples of chitin"]
+			icon: "chemlib:chitin"
+			id: "3530206414F3F62A"
+			rewards: [{
+				id: "541495252774117A"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1F3BE315195369D9"
+				title: "Carcinization"
+				type: "checkmark"
+			}]
+			title: "Parasect Soup"
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3530206414F3F62A"]
+			description: [
+				"Take some Mycelite produced by the Marimorphosis and toss it in an atomizer."
+				"Simple, but the yield is not great."
+				""
+				"&b15% chance to get a Sample of Chitin"
+			]
+			id: "0BDF4685AD5AA392"
+			rewards: [{
+				id: "5DC89882F7B8F06D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0864F26ED58A3461"
+				item: "botania:metamorphic_fungal_stone"
+				type: "item"
+			}]
+			title: "Stoned on Shrooms"
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0BDF4685AD5AA392"]
+			description: [
+				"Mix together something that contains chitin, with sodium hydroxide and hydrochloric acid."
+				""
+				"Most fungi can be used, although some shellfish will also work."
+				""
+				"Heat a bucket of the resulting solution to get Impure Chitin Dust, which you can dissolve into Samples of Chitin."
+				""
+				"&b8 Samples of Chitin per bucket of unbleached solution*"
+				""
+				"&7*Since the next steps involve varying ratios, a bucket of unbleached solution is used as the reference point."
+			]
+			icon: "nyagibits_bytes:bucket_of_solution_unbleached_chitin"
+			id: "61558C9879828CE9"
+			rewards: [{
+				id: "6A3D6CC660E21B6C"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "790BD6C8EF0B5CE5"
+					item: "nyagibits_bytes:bucket_of_solution_unbleached_chitin"
+					type: "item"
+				}
+				{
+					icon: "minecraft:brown_mushroom"
+					id: "4277CB8A0EB3B746"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "forge:chitin_sources"
+						}
+					}
+					title: "Any Chitin Source"
+					type: "item"
+				}
+				{
+					id: "2BD7E0C95D948E7D"
+					item: "chemlib:chitin_dust"
+					type: "item"
+				}
+			]
+			title: "Yummy Chitin &mSoup&rSolution"
+			x: 3.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["61558C9879828CE9"]
+			description: [
+				"Purify the chitin solution with some Potassium Permanganate and a bit more HCL."
+				""
+				"This conversion is not efficient and a good chunk of the solution is irrecoverable, but overall yield is still improved."
+				""
+				"&b12.8 Samples of Chitin per bucket of unbleached solution"
+			]
+			icon: "nyagibits_bytes:bucket_of_solution_decolorized_chitin"
+			id: "4B80B3418A01F813"
+			rewards: [{
+				id: "2DEB6E514A019428"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "2EC71C5507FA7B35"
+					item: "chemlib:potassium_permanganate"
+					type: "item"
+				}
+				{
+					id: "2B17035D679F2E33"
+					item: "nyagibits_bytes:bucket_of_solution_decolorized_chitin"
+					type: "item"
+				}
+			]
+			title: "Not so yummy anymore"
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4B80B3418A01F813"]
+			description: [
+				"Add a bit of concentrated hydrogen peroxide while cleaning up the chitin solution to drastically increase the efficiency of the process."
+				""
+				"&b32 Samples of Chitin per bucket of unbleached solution"
+			]
+			id: "51178277EB505E79"
+			rewards: [{
+				id: "11D293710B6DF510"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			subtitle: "For legal purposes, that is not actual advice"
+			tasks: [{
+				id: "5242E48DCDF58A8F"
+				item: "nyagibits_bytes:bucket_of_hydrogen_peroxide_015"
+				type: "item"
+			}]
+			title: "When in doubt, add dangerous chemicals"
+			x: 5.5d
+			y: 1.5d
 		}
 	]
 	subtitle: ["I NEED MORE STUFF"]

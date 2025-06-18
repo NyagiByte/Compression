@@ -698,7 +698,7 @@ hash = "ffac074e14e40f9c6274b854e7022f28d8a36282c41a62c7db73188c85735576"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/6tier_0.snbt"
-hash = "b0e785b8c21d2ff937d4c30c093d453cf11f6c1bbbc2aba341cc3bb80fb0b33a"
+hash = "5c3c0aefcaaf03e59bd9032dadf149f6b093275de0c0a8161a615678bdbf1a7a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/6tier_1.snbt"
@@ -718,7 +718,7 @@ hash = "eaa8e1c55ab7a37d4724baac2d581bf6fd42a5663b61284c1b2f79cf4310ad75"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
-hash = "e94a09a4adbb28337e89a31d9501d06c155f852ab9759a898959b580537fac16"
+hash = "0ec64d2e5c151989c32fde5f6d083771aed0e8c4a72d8321d0a1635829d71195"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
@@ -726,7 +726,7 @@ hash = "5eaa01737c46ffc31178fbfacbaaf71d9b0492e8a34838f1973905af60636bd4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "c6c113b1e35e7636c6938a3f3183b4bca9cba566de1efd75a994188dbd01fe08"
+hash = "69a5d7782316bad60c6384b0d000932da2f756eca18adafc8990f7c462fc6038"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"

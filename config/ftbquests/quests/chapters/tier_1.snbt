@@ -2530,6 +2530,32 @@
 			x: 3.5d
 			y: -1.5d
 		}
+		{
+			dependencies: ["37FAB0261BCDF974"]
+			description: [
+				"Yup. It's an animal &megg&rcocoon."
+				""
+				"Surprisingly useful to setup a supply of pufferfish to feed back into more botania assemblies."
+				""
+				"The supply of ink sacs is also nothing to scoff at."
+				""
+				"&bHold [w] to ponder!"
+			]
+			id: "22C167C42B7CFAAB"
+			rewards: [{
+				id: "4422B519F676A604"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "760DF506978F7FF0"
+				item: "botania:cocoon"
+				type: "item"
+			}]
+			title: "The Chicken or the Cocoon?"
+			x: -1.5d
+			y: 0.0d
+		}
 	]
 	subtitle: ["Machines greased with mana"]
 	title: " &6Tier 1&b - Magitech Revolution"

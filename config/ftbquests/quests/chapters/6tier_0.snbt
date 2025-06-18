@@ -85,7 +85,7 @@
 			}]
 			title: "&dThe Tutorial-Tutorial"
 			x: 0.0d
-			y: -13.0d
+			y: -14.0d
 		}
 		{
 			dependencies: ["18F5C12EAF8B07CB"]
@@ -121,7 +121,7 @@
 			}]
 			title: "Do Not Avoid Farms!"
 			x: -0.5d
-			y: -9.5d
+			y: -10.5d
 		}
 		{
 			dependencies: [
@@ -142,7 +142,7 @@
 			}]
 			title: "Landscaping Pro"
 			x: 0.5d
-			y: -9.5d
+			y: -10.5d
 		}
 		{
 			dependencies: [
@@ -1203,7 +1203,7 @@
 			}]
 			title: "The Crafting Thing From The Hit Game Minecraft"
 			x: 0.0d
-			y: -11.5d
+			y: -12.5d
 		}
 		{
 			dependencies: ["6F181CBD1F58B946"]
@@ -1223,13 +1223,10 @@
 			}]
 			title: "Pound The Ground"
 			x: 0.0d
-			y: -10.5d
+			y: -11.5d
 		}
 		{
-			dependencies: [
-				"21625928069FF7FA"
-				"136DCA2889C96A65"
-			]
+			dependencies: ["322E8B40B0197798"]
 			description: [
 				"The &dPetal Apothecary&r will be your second main crafer "
 				""
@@ -1321,6 +1318,34 @@
 			}]
 			x: 8.5d
 			y: 1.0d
+		}
+		{
+			dependencies: [
+				"21625928069FF7FA"
+				"136DCA2889C96A65"
+			]
+			description: [
+				"You can find &aMystical flowers&r scattered all over the world."
+				"Typically found in small clusters, there's 16 different colors, and each one has both a short and a tall variant."
+				""
+				"They're easily recognizable from their unique colorful look and the wisp-like sparkles they emit."
+				""
+				"They all craft into &2Mystical Petals&r which you'll need to make the pure daisy and progress."
+				""
+				"&aTo get more, plant a petal in the ground and use bonemeal on it."
+				""
+				"&eNote: The pure daisy is craftable with any color petal instead of just white."
+				"&cYou will however eventually need the full spectrum of them."
+			]
+			icon: "botania:white_mystical_flower"
+			id: "322E8B40B0197798"
+			tasks: [{
+				id: "6C0F8A288A4D0E0C"
+				title: "So Sparkly!"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -9.5d
 		}
 	]
 	title: " &6Tier 0"
