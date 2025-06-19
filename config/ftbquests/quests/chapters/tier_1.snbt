@@ -263,7 +263,7 @@
 				""
 				"Do not despair quite yet as the crafting recipe for the ovens yields all 27 required bricks and features &bsignificantly reduced processing times!"
 			]
-			icon: "immersiveengineering:cokebrick"
+			icon: "immersiveengineering:coke_oven"
 			id: "28B78F18CDBAEB65"
 			rewards: [{
 				id: "2CA0CC3C49B1498C"
@@ -299,6 +299,7 @@
 				"7457EE5BA59A0BDB"
 			]
 			description: ["Much like the coke bricks, these also get batch crafted in 27 at a time. You will need industrial grade coke in order to run this furnace for the time being, better fuels will be available later"]
+			icon: "immersiveengineering:blast_furnace"
 			id: "4ABA1A64E5BE1E94"
 			rewards: [{
 				id: "105A6450F4CA9DC6"
@@ -964,7 +965,7 @@
 				"64B7C87F4FB6406C"
 			]
 			description: ["Uses far less coke to create the same quantity of steel!"]
-			icon: "immersiveengineering:blastbrick_reinforced"
+			icon: "immersiveengineering:advanced_blast_furnace"
 			id: "01F2A64C70A46882"
 			rewards: [{
 				id: "3C8B65C55BEDD8FC"
@@ -1749,7 +1750,7 @@
 				"3CB6EFD66F335C89"
 			]
 			description: ["This big hunk of machine can use diesel to make a nice 4,096FE/t. A single HV line can carry away said power"]
-			icon: "immersiveengineering:biodiesel_bucket"
+			icon: "immersiveengineering:diesel_generator"
 			id: "57C915CC52E428B6"
 			rewards: [{
 				id: "3C389092F83761DB"
@@ -1837,6 +1838,7 @@
 				"57C915CC52E428B6"
 			]
 			description: ["This is it! The real big guns of immersive. With this you can now enjoy the wonderful &bx16 ore yield&r from the scaling tree as well as make new specialty materials"]
+			icon: "immersiveengineering:arc_furnace"
 			id: "418B5928BC9515CA"
 			rewards: [{
 				id: "4BB3D7FC87776BD9"
@@ -1985,6 +1987,7 @@
 				"418B5928BC9515CA"
 			]
 			description: ["This large 2 part machine is able to scoop incredibly high volumes of earth for a high energy cost. This allows for the extraction of \"rare earth\" elements, which aren't actually very rare, just very spread across the crust. &6You may even find unique resource sources"]
+			icon: "immersiveengineering:excavator"
 			id: "1955E60B51E911ED"
 			rewards: [{
 				id: "5A0334038A223C69"
