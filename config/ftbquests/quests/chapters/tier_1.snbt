@@ -2408,8 +2408,8 @@
 			y: 11.0d
 		}
 		{
-			dependencies: ["1EE4A07531120ED5"]
-			description: ["I got all these new larger drives! How do I move the items off the smaller more pathetic drives? The IO port lets you shuffel up your drives to clear them!"]
+			dependencies: ["3B26CEFA5BEC5331"]
+			description: ["I got all these new larger drives! How do I move the items off the smaller more pathetic drives? The IO port lets you shuffle up your drives to clear them!"]
 			id: "196E30A73AB60893"
 			rewards: [{
 				id: "6C127A244ECDBFB6"
@@ -2422,8 +2422,8 @@
 				type: "item"
 			}]
 			title: "Shuffling Items"
-			x: 1.5d
-			y: -4.5d
+			x: 8.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["299A7421330CF038"]
@@ -2441,7 +2441,7 @@
 			}]
 			title: "Do not bring this into a shower"
 			x: -1.5d
-			y: -4.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["57C915CC52E428B6"]
@@ -2558,6 +2558,46 @@
 			title: "The Chicken or the Cocoon?"
 			x: -1.5d
 			y: 0.0d
+		}
+		{
+			dependencies: ["299A7421330CF038"]
+			description: [
+				"Fragile presses!? That's right, the processor presses will break after using them in the inscriber. "
+				"Make copies, you get more with better materials!"
+				""
+				"The silicon press is a lot more sturdy and won't break with usage."
+			]
+			id: "49BF3200DF3FF1ED"
+			rewards: [{
+				id: "5BEE8F7C4630D770"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "4FE9249EAA6D312B"
+					item: "ae2:calculation_processor_press"
+					type: "item"
+				}
+				{
+					id: "39907CC34014A404"
+					item: "ae2:engineering_processor_press"
+					type: "item"
+				}
+				{
+					id: "1023002E321B4195"
+					item: "ae2:logic_processor_press"
+					type: "item"
+				}
+				{
+					id: "138833534C1C2AB2"
+					item: "ae2:silicon_press"
+					type: "item"
+				}
+			]
+			title: "They don't make these presses like they used to..."
+			x: 1.5d
+			y: -5.0d
 		}
 	]
 	subtitle: ["Machines greased with mana"]
