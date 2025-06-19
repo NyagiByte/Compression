@@ -2106,7 +2106,14 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "330F4923DB14471A"
-				item: "botania:black_floating_flower"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "botania:floating_flowers"
+					}
+				}
+				title: "Any Floating Flower"
 				type: "item"
 			}]
 			title: "Look! I'm Floatin'!"
@@ -2563,7 +2570,8 @@
 			dependencies: ["299A7421330CF038"]
 			description: [
 				"Fragile presses!? That's right, the processor presses will break after using them in the inscriber. "
-				"Make copies, you get more with better materials!"
+				""
+				"Make copies, you get more with better materials! You keep the original press when making a copy, so dedicate a few inscribers and automate production of copies."
 				""
 				"The silicon press is a lot more sturdy and won't break with usage."
 			]
