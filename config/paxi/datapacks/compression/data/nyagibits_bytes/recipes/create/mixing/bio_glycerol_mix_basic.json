@@ -8,5 +8,6 @@
     ],
     "results": [
       {"fluid": "nyagibits_bytes:bio_glycerol_mix_fluid", "amount": 2000}
-    ]
+    ],
+    "processingTime": 600
 }

@@ -1,0 +1,15 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "count": 1,
+      "tag": "forge:seeds/high"
+    }
+  ],
+  "results": [
+    {
+      "amount": 75,
+      "fluid": "nyagibits_bytes:crude_plant_oil_fluid"
+    }
+  ]
+}
