@@ -2,12 +2,12 @@
 const WispParticleData = Java.loadClass("vazkii.botania.client.fx.WispParticleData")
 const ParticleTypes = Java.loadClass("net.minecraft.core.particles.ParticleTypes")
 
-Ponder.tags((e) => {e.createTag("compression:botania", "botania:lexicon", "Botania", "For all your floral needs", ["#forge:petal_apothecary", "botania:pure_daisy", "botania:fel_pumpkin", "botania:cocoon", "botania:endoflame", "botania:entropinnyum", "botania:munchdew", "botania:gourmaryllis", "botania:narslimmus", "botania:hydroangeas", "botania:thermalily", "botania:rosa_arcana"])})
+Ponder.tags((e) => {e.createTag("compression:botania", "botania:lexicon", "Botania", "For all your floral needs", ["botania:apothecary_default", "botania:pure_daisy", "botania:fel_pumpkin", "botania:cocoon", "botania:endoflame", "botania:entropinnyum", "botania:munchdew", "botania:gourmaryllis", "botania:narslimmus", "botania:hydroangeas", "botania:thermalily", "botania:rosa_arcana"])})
 //------------------------------------------------------------------
 Ponder.registry((e) => {
 //------------------------------------------------------------------
     //Petal Apothecary
-        e.create("#forge:petal_apothecary")
+        e.create("botania:apothecary_default")
             .scene("apothecary", "Crafting Using Apothecary", "kubejs:botania_5x5", (scene, util) => {
                 scene.showBasePlate();
                 scene.idle(10);
