@@ -3265,6 +3265,10 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/yellow_floating_f
 hash = "4824334ed5170c064a792365d830d3f00dccb7b33cc6e962935b64733a664542"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/tags/blocks/unwandable.json"
+hash = "0c08ab78db9e4fc4ed71ff65ee45725a1e22078718b8044812d97eb04efaedb2"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/tags/items/dreamwood_logs.json"
 hash = "86255d58f472b0cd100d5f128bce4968eabccd0afd0b8485599999f4a9b1fe21"
 
