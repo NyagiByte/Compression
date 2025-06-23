@@ -15487,6 +15487,11 @@ hash = "c0405f2f156703f6c5a181c18e96dfdbad8760c04ff3be8c088853c7b14572df"
 metafile = true
 
 [[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "37aab98aeda32b1c8223495bb54c4aae4acb2948f95ad9847f478712f72a7a7e"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "f043146d37caf425f2dfbe8b434ee1ef0e233ba66bdd707e93ac37bf8e377536"
 metafile = true
@@ -15608,7 +15613,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-create.pw.toml"
-hash = "b031093f843c1f7d382d41750bccb584f7b2022bb294eb5b3f84c0b6f60c0418"
+hash = "e684c8fa38f3b965abf0f8982b158e72689be99d1c87a5eb5994af3137727f08"
 metafile = true
 
 [[files]]
@@ -15618,7 +15623,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "fc1d144633d760ad8d000ebf2c9463243c02491aaf9bedc5e8900403bb9afca8"
+hash = "f9a0baff44b25f6462f60b23876c677ba4c4c093fe2e7dd2793c9be55672e75d"
 metafile = true
 
 [[files]]
