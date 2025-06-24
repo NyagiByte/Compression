@@ -1,0 +1,16 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "byg:fir_planks"
+    }
+  ],
+  "processingTime": 200,
+  "results": [
+    {
+      "chance": 0.25,
+      "count": 2,
+      "item": "everycomp:hc/byg/fir_board"
+    }
+  ]
+}

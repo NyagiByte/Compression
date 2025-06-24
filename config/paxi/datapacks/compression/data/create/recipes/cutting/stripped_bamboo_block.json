@@ -1,0 +1,10 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {"item": "quark:stripped_bamboo_block"}
+  ],
+  "processingTime": 200,
+  "results": [
+    {"count": 3, "item": "quark:bamboo_planks"}
+  ]
+}

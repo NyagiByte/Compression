@@ -1,0 +1,10 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {"item": "abyssal_decor:stripped_blackwood_log"}
+  ],
+  "processingTime": 200,
+  "results": [
+    {"count": 6, "item": "abyssal_decor:blackwood_planks"}
+  ]
+}
