@@ -3265,6 +3265,10 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/yellow_floating_f
 hash = "4824334ed5170c064a792365d830d3f00dccb7b33cc6e962935b64733a664542"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/tags/blocks/unwandable.json"
+hash = "7ff7a71ab20902e45ae3169cbd77b68f0326c802a227d99e7a6174145a612109"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/tags/items/dreamwood_logs.json"
 hash = "86255d58f472b0cd100d5f128bce4968eabccd0afd0b8485599999f4a9b1fe21"
 
@@ -3398,7 +3402,7 @@ hash = "5d8eb7e66e7721a8c013d31cb69bb75c39ec989adfd9cbb576febb07e195804e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "fa237294f17c56db7ea1558563c4a4bab08fb6cadb61f92beeaf17f58fcdbd10"
+hash = "cd7bb7d68c24232fb153bf74004d2f82677654efa343639d6159533399ee08d2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/cb_microblock/recipes/diamond_saw.json"
@@ -13525,6 +13529,10 @@ file = "config/paxi/datapacks/compression/data/supplementaries/recipes/turn_tabl
 hash = "416cfc153c80bf5b8eb36cbc027ab08a2a0cdb9553f2ac2f68f7447c1e5556e5"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/tags/blocks/un_rotatable.json"
+hash = "8979baf98ce1a2c878936c484e517cc6d65431a68f2f4753ab104299af6ef7a6"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/thermal/recipes/device_fisher.json"
 hash = "aaddc3a09d33411c0a956f15e37dafc4de73750c62f1de79846b5d557b2b56aa"
 
@@ -15483,6 +15491,11 @@ hash = "c0405f2f156703f6c5a181c18e96dfdbad8760c04ff3be8c088853c7b14572df"
 metafile = true
 
 [[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "37aab98aeda32b1c8223495bb54c4aae4acb2948f95ad9847f478712f72a7a7e"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "f043146d37caf425f2dfbe8b434ee1ef0e233ba66bdd707e93ac37bf8e377536"
 metafile = true
@@ -15604,7 +15617,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-create.pw.toml"
-hash = "b031093f843c1f7d382d41750bccb584f7b2022bb294eb5b3f84c0b6f60c0418"
+hash = "e684c8fa38f3b965abf0f8982b158e72689be99d1c87a5eb5994af3137727f08"
 metafile = true
 
 [[files]]
@@ -15614,7 +15627,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "fc1d144633d760ad8d000ebf2c9463243c02491aaf9bedc5e8900403bb9afca8"
+hash = "f9a0baff44b25f6462f60b23876c677ba4c4c093fe2e7dd2793c9be55672e75d"
 metafile = true
 
 [[files]]
