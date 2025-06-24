@@ -1,9 +1,9 @@
 {
     "type": "create:sandpaper_polishing",
     "ingredients": [
-      {"item": "minecraft:acacia_planks"}
+      {"item": "byg:cypress_planks"}
     ],
     "results": [
-      {"item": "hnh:acacia_sanded_wood"}
+      {"item": "everycomp:hnh/byg/cypress_sanded_wood"}
     ]
 }

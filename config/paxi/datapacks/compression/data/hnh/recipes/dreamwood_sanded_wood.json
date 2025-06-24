@@ -1,0 +1,9 @@
+{
+    "type": "create:sandpaper_polishing",
+    "ingredients": [
+      {"item": "botania:dreamwood_planks"}
+    ],
+    "results": [
+      {"item": "everycomp:hnh/botania/dreamwood_sanded_wood"}
+    ]
+}

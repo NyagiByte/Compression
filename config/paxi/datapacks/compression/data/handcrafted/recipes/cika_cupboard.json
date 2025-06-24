@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"everycomp:hc/byg/cika_board"},
+      "B": {"item":"byg:cika_planks"},
+      "C": {"tag":"c:wooden_chests"}
+    },
+    "pattern": [
+      "AAA",
+      "BCB",
+      "AAA"
+    ],
+    "result": {
+      "count": 2,
+      "item": "everycomp:hc/byg/cika_cupboard"
+  }
+}

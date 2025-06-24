@@ -1,0 +1,9 @@
+{
+    "type": "create:sandpaper_polishing",
+    "ingredients": [
+      {"item": "byg:blue_enchanted_planks"}
+    ],
+    "results": [
+      {"item": "everycomp:hnh/byg/blue_enchanted_sanded_wood"}
+    ]
+}

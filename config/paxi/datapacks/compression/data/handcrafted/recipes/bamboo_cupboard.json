@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"everycomp:hc/quark/bamboo_board"},
+      "B": {"item":"quark:bamboo_planks"},
+      "C": {"tag":"c:wooden_chests"}
+    },
+    "pattern": [
+      "AAA",
+      "BCB",
+      "AAA"
+    ],
+    "result": {
+      "count": 2,
+      "item": "everycomp:hc/quark/bamboo_cupboard"
+  }
+}

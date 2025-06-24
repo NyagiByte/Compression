@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"everycomp:hc/byg/green_enchanted_board"},
+      "B": {"item":"byg:green_enchanted_planks"},
+      "C": {"tag":"c:wooden_chests"}
+    },
+    "pattern": [
+      "AAA",
+      "BCB",
+      "AAA"
+    ],
+    "result": {
+      "count": 2,
+      "item": "everycomp:hc/byg/green_enchanted_cupboard"
+  }
+}
