@@ -1,5 +1,5 @@
 {
-  "__comment": "This adds to the blacklist of blocks that should not be rotated by the wand of the forest.",
+  "__comment": "This adds to the blacklist to prevent rotating blocks with the supplementaries copper wrench.",
   "replace": false,
   "values": [
     "immersiveengineering:coke_oven",
@@ -30,7 +30,6 @@
     "immersivepetroleum:hydrotreater",
     "immersivepetroleum:coker_unit",
     "immersivepetroleum:oiltank",
-    "create:belt",
     "#create:tracks"
   ]
 }

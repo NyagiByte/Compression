@@ -3266,7 +3266,7 @@ hash = "4824334ed5170c064a792365d830d3f00dccb7b33cc6e962935b64733a664542"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/tags/blocks/unwandable.json"
-hash = "0c08ab78db9e4fc4ed71ff65ee45725a1e22078718b8044812d97eb04efaedb2"
+hash = "7ff7a71ab20902e45ae3169cbd77b68f0326c802a227d99e7a6174145a612109"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/tags/items/dreamwood_logs.json"
@@ -3402,7 +3402,7 @@ hash = "5d8eb7e66e7721a8c013d31cb69bb75c39ec989adfd9cbb576febb07e195804e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "fa237294f17c56db7ea1558563c4a4bab08fb6cadb61f92beeaf17f58fcdbd10"
+hash = "cd7bb7d68c24232fb153bf74004d2f82677654efa343639d6159533399ee08d2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/cb_microblock/recipes/diamond_saw.json"
@@ -13527,6 +13527,10 @@ hash = "c2e1e2913cb60d74d088a672c84918e950027e9c6d1a16ba3fcbea7e116e813e"
 [[files]]
 file = "config/paxi/datapacks/compression/data/supplementaries/recipes/turn_table.json"
 hash = "416cfc153c80bf5b8eb36cbc027ab08a2a0cdb9553f2ac2f68f7447c1e5556e5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/supplementaries/tags/blocks/un_rotatable.json"
+hash = "8979baf98ce1a2c878936c484e517cc6d65431a68f2f4753ab104299af6ef7a6"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/thermal/recipes/device_fisher.json"
