@@ -29,14 +29,14 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			size: 2.0d
+			size: 3.0d
 			tasks: [{
 				id: "673D2F83CF8DC78B"
 				type: "checkmark"
 			}]
 			title: "&6The End of the Tutorial"
 			x: 0.0d
-			y: 0.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["472213B0CD3A8117"]
@@ -48,6 +48,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
+			size: 2.0d
 			tasks: [{
 				id: "771E709133C2B556"
 				item: "nyagibits_bytes:ae2_assembly"
@@ -55,7 +56,7 @@
 			}]
 			title: "&dSome Assembly Required"
 			x: 0.0d
-			y: -1.5d
+			y: -10.5d
 		}
 		{
 			dependencies: [
@@ -71,6 +72,7 @@
 				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
+			size: 2.0d
 			tasks: [
 				{
 					id: "481A203D7947955D"
@@ -92,8 +94,8 @@
 				}
 			]
 			title: "&dEvery Tech Mod has a Pile of Wood"
-			x: -1.5d
-			y: 1.0d
+			x: -2.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["472213B0CD3A8117"]
@@ -104,6 +106,7 @@
 				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
+			size: 2.0d
 			tasks: [{
 				id: "1C8417A73C1B175E"
 				item: "nyagibits_bytes:alchemistry_assembly"
@@ -111,13 +114,13 @@
 			}]
 			title: "&dYeah You're On a List Now"
 			x: 0.0d
-			y: 1.5d
+			y: -4.0d
 		}
 		{
 			dependencies: [
-				"66DDC75CB8C3D557"
 				"564AB0DF80D53015"
 				"0B221BE78ECA364A"
+				"00252987E3B16C8F"
 			]
 			description: ["HÅLL DINA HÄNDER BORTA FRÅN DE MEKANISMER VI INTE HAR OSHA - Få en fyraåring att sticka in händerna i fack sju för att vrida på vredet"]
 			id: "64B7C87F4FB6406C"
@@ -126,17 +129,18 @@
 				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
+			size: 2.0d
 			tasks: [{
 				id: "2C9CB40E40B2379F"
 				item: "nyagibits_bytes:immersive_assembly"
 				type: "item"
 			}]
 			title: "&dOh F- Thats so many items"
-			x: 6.5d
-			y: 1.0d
+			x: 8.5d
+			y: -5.0d
 		}
 		{
-			dependencies: ["37FAB0261BCDF974"]
+			dependencies: ["6B5E13C2D13D548F"]
 			description: ["This flower loves the industrial revolution. Give it burnables NOW!"]
 			id: "1237E149EAD883A2"
 			rewards: [{
@@ -150,11 +154,11 @@
 				type: "item"
 			}]
 			title: "Mmmmmmm, Charcoal"
-			x: -2.5d
-			y: 0.0d
+			x: -8.5d
+			y: -5.0d
 		}
 		{
-			dependencies: ["37FAB0261BCDF974"]
+			dependencies: ["611BC6ECDD43744E"]
 			description: ["The \"batteries\" in the well known \"tech mod\" Botania"]
 			id: "6B5E13C2D13D548F"
 			rewards: [{
@@ -168,8 +172,8 @@
 				type: "item"
 			}]
 			title: "Good Soup"
-			x: -2.5d
-			y: 1.0d
+			x: -5.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["37FAB0261BCDF974"]
@@ -186,14 +190,12 @@
 				type: "item"
 			}]
 			title: "Definitely a Power Cable"
-			x: -2.5d
-			y: 2.0d
+			x: -3.5d
+			y: -6.0d
 		}
 		{
 			dependencies: [
-				"1237E149EAD883A2"
 				"6B5E13C2D13D548F"
-				"611BC6ECDD43744E"
 				"30AD364BEED4DD5E"
 			]
 			description: ["Dripping with mana this new material has the capacity to regenerate itself. Possibly has good uses for durable machines"]
@@ -203,15 +205,15 @@
 				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
-			size: 1.5d
+			size: 2.0d
 			tasks: [{
 				id: "4017E713FB5F4876"
 				item: "botania:manasteel_ingot"
 				type: "item"
 			}]
 			title: "&bWill This Stain My Hands?"
-			x: -4.5d
-			y: 2.5d
+			x: -3.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["05CC38E1E327BA2E"]
@@ -226,6 +228,7 @@
 				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
+			size: 1.5d
 			tasks: [{
 				id: "1AC8F02ED361E02F"
 				item: "alchemistry:dissolver"
@@ -233,13 +236,10 @@
 			}]
 			title: "GET ATOMIZED NERD"
 			x: 0.0d
-			y: 2.5d
+			y: -2.0d
 		}
 		{
-			dependencies: [
-				"256F108BD683D592"
-				"66DDC75CB8C3D557"
-			]
+			dependencies: ["66DDC75CB8C3D557"]
 			description: ["With some chemical wizardry, we have punched many microscopic holes within an ingot of steel allowing it to absorb whatever liquids we want through capillary action"]
 			id: "30AD364BEED4DD5E"
 			rewards: [{
@@ -253,8 +253,8 @@
 				type: "item"
 			}]
 			title: "It doesn't live in a pineapple under the sea"
-			x: 0.0d
-			y: 4.5d
+			x: -1.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["472213B0CD3A8117"]
@@ -290,14 +290,11 @@
 				}
 			]
 			title: "Oh god not this again"
-			x: 1.5d
-			y: 1.0d
+			x: 2.0d
+			y: -5.0d
 		}
 		{
-			dependencies: [
-				"28B78F18CDBAEB65"
-				"7457EE5BA59A0BDB"
-			]
+			dependencies: ["7457EE5BA59A0BDB"]
 			description: ["Much like the coke bricks, these also get batch crafted in 27 at a time. You will need industrial grade coke in order to run this furnace for the time being, better fuels will be available later"]
 			icon: "immersiveengineering:blast_furnace"
 			id: "4ABA1A64E5BE1E94"
@@ -313,8 +310,8 @@
 				type: "item"
 			}]
 			title: "Oof Ouchy Hot Furnace"
-			x: 3.0d
-			y: 2.0d
+			x: 4.0d
+			y: -3.0d
 		}
 		{
 			dependencies: [
@@ -342,13 +339,13 @@
 				}
 			]
 			title: "No not that kind of coke!"
-			x: 2.0d
-			y: 2.0d
+			x: 3.0d
+			y: -4.0d
 		}
 		{
 			dependencies: [
-				"256F108BD683D592"
 				"28B78F18CDBAEB65"
+				"256F108BD683D592"
 			]
 			description: [
 				"TNT?! What for? "
@@ -369,8 +366,8 @@
 				type: "item"
 			}]
 			title: "2,4,6-Trinitrotoluene"
-			x: 1.0d
-			y: 3.0d
+			x: 2.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["4ABA1A64E5BE1E94"]
@@ -381,15 +378,15 @@
 				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
-			size: 1.5d
+			size: 2.0d
 			tasks: [{
 				id: "46889FB8072272B5"
 				item: "immersiveengineering:ingot_steel"
 				type: "item"
 			}]
 			title: "Symbol of Industry"
-			x: 4.450340136054415d
-			y: 2.394897959183666d
+			x: 0.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["28B78F18CDBAEB65"]
@@ -406,8 +403,8 @@
 				type: "item"
 			}]
 			title: "Hydrocarbon Soup?"
-			x: 2.5d
-			y: 1.0d
+			x: 3.5d
+			y: -6.0d
 		}
 		{
 			dependencies: ["256F108BD683D592"]
@@ -424,14 +421,11 @@
 				type: "item"
 			}]
 			title: "Crime Scene Cleaning Solutions!"
-			x: -1.0d
-			y: 3.0d
+			x: -2.0d
+			y: -3.0d
 		}
 		{
-			dependencies: [
-				"2B1226794C380C3A"
-				"003E374B8B915CB9"
-			]
+			dependencies: ["003E374B8B915CB9"]
 			description: ["This uhm.. Techy crafter uh... wait why is stuff floating there's no magnets in this"]
 			id: "639B2FF66B0FB1B4"
 			rewards: [{
@@ -445,8 +439,8 @@
 				type: "item"
 			}]
 			title: "Technologmomically Crafting"
-			x: -6.0d
-			y: 2.5d
+			x: -3.5d
+			y: 4.5d
 		}
 		{
 			dependencies: [
@@ -466,8 +460,8 @@
 				type: "item"
 			}]
 			title: "I know it's a powder... don't"
-			x: -1.5d
-			y: 2.0d
+			x: -5.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["0ACB4AD3B480F954"]
@@ -484,11 +478,14 @@
 				type: "item"
 			}]
 			title: "Somehow not sticky!"
-			x: -4.5d
-			y: 4.0d
+			x: -5.5d
+			y: 0.5d
 		}
 		{
-			dependencies: ["52D6A6706C04ED84"]
+			dependencies: [
+				"4A052E691A3B799A"
+				"52D6A6706C04ED84"
+			]
 			description: ["This may look like a vanilla wafer, but it is mostly rock and metal, please don't put it in your mouth"]
 			id: "003E374B8B915CB9"
 			rewards: [{
@@ -502,13 +499,13 @@
 				type: "item"
 			}]
 			title: "NOT EDIBLE"
-			x: -7.0d
-			y: 2.5d
+			x: -5.5d
+			y: 4.5d
 		}
 		{
 			dependencies: [
 				"639B2FF66B0FB1B4"
-				"4A052E691A3B799A"
+				"003E374B8B915CB9"
 			]
 			description: ["Yippie we can finally make runes!"]
 			id: "68300CAEDAC23F73"
@@ -540,13 +537,13 @@
 				}
 			]
 			title: "Keep an eye on the fire one..."
-			x: -6.0d
-			y: 4.0d
+			x: -5.5d
+			y: 5.5d
 		}
 		{
 			dependencies: [
 				"2B1226794C380C3A"
-				"6B5E13C2D13D548F"
+				"247A2F1774D0E89F"
 			]
 			description: ["A sturdy frame to channel totally technological energies and improve the structural stability of semi alive rock"]
 			id: "52D6A6706C04ED84"
@@ -561,8 +558,8 @@
 				type: "item"
 			}]
 			title: "Tic-Tac-Toe"
-			x: -6.0d
-			y: 1.0d
+			x: -3.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["638BCB657E1B5F7D"]
@@ -579,11 +576,11 @@
 				type: "item"
 			}]
 			title: "Very Flammable"
-			x: 4.4438775510204d
-			y: 1.0020408163265202d
+			x: 5.5d
+			y: -6.5d
 		}
 		{
-			dependencies: ["68300CAEDAC23F73"]
+			dependencies: ["6B5E13C2D13D548F"]
 			description: ["An interesting flower able to chemically alter any stone placed near it. The new resulting types probably have good uses"]
 			icon: "botania:marimorphosis"
 			id: "28208E9BB8763E5C"
@@ -605,11 +602,11 @@
 				}
 			]
 			title: "Wonder if this flower enjoys rock"
-			x: -8.0d
-			y: 5.0d
+			x: -6.5d
+			y: -3.0d
 		}
 		{
-			dependencies: ["68300CAEDAC23F73"]
+			dependencies: ["6B5E13C2D13D548F"]
 			description: ["This flower will bring around itself mystical flowers through super techy methods using mana"]
 			id: "2AC05C5C4441E035"
 			rewards: [{
@@ -623,11 +620,11 @@
 				type: "item"
 			}]
 			title: "Flowaaaaas"
-			x: -8.0d
-			y: 4.0d
+			x: -6.0d
+			y: -5.0d
 		}
 		{
-			dependencies: ["68300CAEDAC23F73"]
+			dependencies: ["6B5E13C2D13D548F"]
 			description: ["This trio of flowers does a fantastic low effort job breeding and butchering your livestock"]
 			id: "2CE0B59988943259"
 			rewards: [{
@@ -653,8 +650,8 @@
 				}
 			]
 			title: "I NEED LEATHER"
-			x: -8.0d
-			y: 3.0d
+			x: -4.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["28208E9BB8763E5C"]
@@ -719,8 +716,8 @@
 				}
 			]
 			title: "Fancy Multicolored Rocks"
-			x: -8.0d
-			y: 6.0d
+			x: -6.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["2D6CEF818A4E4FDD"]
@@ -737,15 +734,11 @@
 				type: "item"
 			}]
 			title: "This isn't even my final form!"
-			x: -6.0d
-			y: 5.0d
+			x: -7.5d
+			y: 2.0d
 		}
 		{
-			dependencies: [
-				"2D6CEF818A4E4FDD"
-				"256F108BD683D592"
-				"2B1226794C380C3A"
-			]
+			dependencies: ["2D6CEF818A4E4FDD"]
 			description: [
 				"As it turns out these rocks tend to have some useful components to them when you crack them open and subject them to acid"
 				""
@@ -824,14 +817,11 @@
 				}
 			]
 			title: "Rock Chemistry"
-			x: -1.0d
-			y: 6.0d
+			x: -6.5d
+			y: 7.5d
 		}
 		{
-			dependencies: [
-				"256F108BD683D592"
-				"66DDC75CB8C3D557"
-			]
+			dependencies: ["3B8EFB77D5F4D3B7"]
 			description: ["Steel is a wonderful material as the ratio between added elements can dramatically alter the properties of it. A few flavors of steel should be made to strengthen machines further "]
 			id: "5B109E7F50E8EBC2"
 			rewards: [{
@@ -839,6 +829,7 @@
 				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
+			size: 2.0d
 			tasks: [
 				{
 					id: "5CAD38DDC4A16816"
@@ -862,8 +853,8 @@
 				}
 			]
 			title: "Flavors of Steel"
-			x: 1.0d
-			y: 6.0d
+			x: 3.538095238095252d
+			y: 1.5095238095237775d
 		}
 		{
 			dependencies: ["66DDC75CB8C3D557"]
@@ -880,8 +871,8 @@
 				type: "item"
 			}]
 			title: "Steel Casings?"
-			x: 5.5d
-			y: 3.5d
+			x: -2.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["2B1226794C380C3A"]
@@ -904,14 +895,13 @@
 				type: "item"
 			}]
 			title: "Finally an Upgrade"
-			x: -4.5d
+			x: -2.0d
 			y: 0.0d
 		}
 		{
 			dependencies: [
 				"560765E7C460F28A"
-				"30AD364BEED4DD5E"
-				"5B109E7F50E8EBC2"
+				"68300CAEDAC23F73"
 			]
 			description: ["This rune seems to be able to drive forward reactions without itself being used... usually.."]
 			id: "6147C880915EF20D"
@@ -926,11 +916,11 @@
 				type: "item"
 			}]
 			title: "Give and Take"
-			x: 0.0d
-			y: 7.0d
+			x: -3.5d
+			y: 5.5d
 		}
 		{
-			dependencies: ["28B78F18CDBAEB65"]
+			dependencies: ["4ABA1A64E5BE1E94"]
 			description: ["These old iron components wont survive inside of these machines. Better raise that carbon content before they get used"]
 			id: "0B221BE78ECA364A"
 			rewards: [{
@@ -956,15 +946,17 @@
 				}
 			]
 			title: "It's iron but now in brown"
-			x: 2.5d
-			y: 0.0d
+			x: 4.0d
+			y: -5.0d
 		}
 		{
-			dependencies: [
-				"66DDC75CB8C3D557"
-				"64B7C87F4FB6406C"
+			dependencies: ["004C5BBDCDBA33BA"]
+			description: [
+				"Uses far less coke to create the same quantity of steel!"
+				""
+				"You can also actually automate it."
+				"&eUsing preheaters will increase fuel efficiency even more, at the cost of needing power."
 			]
-			description: ["Uses far less coke to create the same quantity of steel!"]
 			icon: "immersiveengineering:advanced_blast_furnace"
 			id: "01F2A64C70A46882"
 			rewards: [{
@@ -992,8 +984,8 @@
 				}
 			]
 			title: "More Steel More Better"
-			x: 6.514285714285727d
-			y: 2.3816326530612315d
+			x: 9.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["64B7C87F4FB6406C"]
@@ -1046,11 +1038,11 @@
 				}
 			]
 			title: "Blocks of Industry"
-			x: 8.0d
-			y: 1.0d
+			x: 11.5d
+			y: -2.5d
 		}
 		{
-			dependencies: ["004C5BBDCDBA33BA"]
+			dependencies: ["5CBD2601022F5420"]
 			description: ["A nice sturdy foundation to lay down wires and basic electronic components"]
 			id: "692B02745BB6435E"
 			rewards: [{
@@ -1064,12 +1056,12 @@
 				type: "item"
 			}]
 			title: "Not Bread Sadly"
-			x: 8.0d
-			y: -0.5d
+			x: 4.0d
+			y: 7.0d
 		}
 		{
 			dependencies: [
-				"692B02745BB6435E"
+				"4CFC6292BA365120"
 				"103B984BD274E9AF"
 			]
 			description: ["Still the same type limit, but you can have more per cell. Also 1:1 upgrades! Horray!"]
@@ -1084,8 +1076,8 @@
 				item: "ae2:cell_component_4k"
 				type: "item"
 			}]
-			x: 8.0d
-			y: -3.5d
+			x: 5.5d
+			y: -12.5d
 		}
 		{
 			dependencies: ["1EE4A07531120ED5"]
@@ -1103,8 +1095,8 @@
 				type: "item"
 			}]
 			title: "Ugh type limits"
-			x: 7.0d
-			y: -3.5d
+			x: 4.5d
+			y: -12.5d
 		}
 		{
 			dependencies: ["46FF0B8D87309F93"]
@@ -1123,7 +1115,7 @@
 			}]
 			title: "The Clouuuuuuuuud..."
 			x: 1.5d
-			y: -3.5d
+			y: -12.5d
 		}
 		{
 			dependencies: ["1EE4A07531120ED5"]
@@ -1141,8 +1133,8 @@
 				title: "It's like a box but expensive"
 				type: "item"
 			}]
-			x: 7.0d
-			y: -4.5d
+			x: 4.5d
+			y: -13.5d
 		}
 		{
 			dependencies: ["129782E3C29EAD6A"]
@@ -1159,8 +1151,8 @@
 				type: "item"
 			}]
 			title: "I wonder if I can drink it.."
-			x: 7.0d
-			y: -5.5d
+			x: 4.5d
+			y: -14.5d
 		}
 		{
 			dependencies: ["46FF0B8D87309F93"]
@@ -1178,7 +1170,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -4.0d
+			y: -13.0d
 		}
 		{
 			dependencies: ["299A7421330CF038"]
@@ -1201,7 +1193,7 @@
 			}]
 			title: "&bThe heart and the brain"
 			x: 0.0d
-			y: -6.0d
+			y: -15.0d
 		}
 		{
 			dependencies: ["46FF0B8D87309F93"]
@@ -1221,7 +1213,7 @@
 			}]
 			title: "Where's my autocrafting?"
 			x: -1.5d
-			y: -3.5d
+			y: -12.5d
 		}
 		{
 			dependencies: ["09F509541A68BB2B"]
@@ -1245,8 +1237,8 @@
 				}
 			]
 			title: "Ying and Yang"
-			x: -7.0d
-			y: -3.5d
+			x: -4.5d
+			y: -12.5d
 		}
 		{
 			dependencies: ["09F509541A68BB2B"]
@@ -1275,14 +1267,11 @@
 				}
 			]
 			title: "Bussin' Around"
-			x: -7.0d
-			y: -4.5d
+			x: -4.5d
+			y: -13.5d
 		}
 		{
-			dependencies: [
-				"5B109E7F50E8EBC2"
-				"004C5BBDCDBA33BA"
-			]
+			dependencies: ["538D53C172321F33"]
 			description: ["Incredibly durable slabs of steel able to be forced through materials to create new shapes! I wonder of any of them go into the square hole"]
 			id: "247A2F1774D0E89F"
 			rewards: [{
@@ -1313,17 +1302,13 @@
 				}
 			]
 			title: "Metal Cookie Cutters"
-			x: 8.0d
-			y: 6.0d
+			x: 0.0d
+			y: 3.5d
 		}
 		{
-			dependencies: [
-				"6147C880915EF20D"
-				"247A2F1774D0E89F"
-				"4A385D5A92592D0A"
-			]
+			dependencies: ["6147C880915EF20D"]
 			dependency_requirement: "one_completed"
-			description: ["A plate coated in various materials able to undero generalized material sintering. Perfect for ore processing"]
+			description: ["A plate coated in various materials able to undergo generalized material sintering. Perfect for ore processing"]
 			id: "08CB5877D8F65C34"
 			rewards: [{
 				id: "356449FE9D903B43"
@@ -1336,15 +1321,11 @@
 				type: "item"
 			}]
 			title: "&dQuadrupling Ores Again"
-			x: 9.0d
-			y: 7.0d
+			x: -2.0d
+			y: 4.5d
 		}
 		{
-			dependencies: [
-				"6147C880915EF20D"
-				"2D6CEF818A4E4FDD"
-				"6DF5980B895DEEC2"
-			]
+			dependencies: ["50FDF49B52314764"]
 			description: ["A rather energetic core, probably useful for some more arcane constructions"]
 			id: "163ECE113A4F686B"
 			rewards: [{
@@ -1358,8 +1339,8 @@
 				type: "item"
 			}]
 			title: "Oh god it keeps zapping me"
-			x: -9.0d
-			y: 7.0d
+			x: -12.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["1237E149EAD883A2"]
@@ -1376,14 +1357,13 @@
 				type: "item"
 			}]
 			title: "Decay?!"
-			x: -3.5d
-			y: 0.0d
+			x: -11.5d
+			y: -2.5d
 		}
 		{
 			dependencies: [
 				"0236A82047151FD5"
-				"560765E7C460F28A"
-				"6147C880915EF20D"
+				"6DF5980B895DEEC2"
 			]
 			description: ["&cIt doesn't stop burning... Interesting"]
 			id: "50FDF49B52314764"
@@ -1398,14 +1378,13 @@
 				type: "item"
 			}]
 			title: "Where is my fire extinguisher?!"
-			x: -3.5d
-			y: 8.0d
+			x: -12.5d
+			y: 1.5d
 		}
 		{
 			dependencies: [
-				"163ECE113A4F686B"
-				"52D6A6706C04ED84"
-				"6DF5980B895DEEC2"
+				"7483F87F4311A3CA"
+				"35A20FFD1692F737"
 			]
 			description: ["As it turns out the rocks themselves seem to push themselves off the ground treating the object as a whole as an arcane magnet. Probably quite useful"]
 			id: "45E43BF51EC35414"
@@ -1420,15 +1399,11 @@
 				type: "item"
 			}]
 			title: "Floating Funny FMetal"
-			x: -9.0d
-			y: 1.0d
+			x: 0.0d
+			y: 4.5d
 		}
 		{
-			dependencies: [
-				"6147C880915EF20D"
-				"5B109E7F50E8EBC2"
-				"00252987E3B16C8F"
-			]
+			dependencies: ["68300CAEDAC23F73"]
 			description: ["It seems that by filling up a rune with a ton of metal and blasting it with electricity it can become intrinsically magnetic"]
 			id: "7483F87F4311A3CA"
 			rewards: [{
@@ -1442,13 +1417,12 @@
 				type: "item"
 			}]
 			title: "Finger Pincher 9000"
-			x: 3.5d
-			y: 8.0d
+			x: 1.0d
+			y: 5.5d
 		}
 		{
 			dependencies: [
 				"256F108BD683D592"
-				"21C63543DE36AAB7"
 				"66DDC75CB8C3D557"
 			]
 			description: ["Time to store up that juicy power to better handle spikes in demand"]
@@ -1464,11 +1438,14 @@
 				type: "item"
 			}]
 			title: "Dont lick the top"
-			x: 3.5119047619047308d
-			y: 4.149659863945573d
+			x: 4.0d
+			y: 0.0d
 		}
 		{
-			dependencies: ["64B7C87F4FB6406C"]
+			dependencies: [
+				"00252987E3B16C8F"
+				"5B109E7F50E8EBC2"
+			]
 			description: ["This rather simple generator creates its power by having a temperature difference between the sides of it"]
 			id: "21C63543DE36AAB7"
 			rewards: [{
@@ -1482,14 +1459,15 @@
 				type: "item"
 			}]
 			title: "Doesn't get simpler than this"
-			x: 8.722108843537384d
-			y: 4.177891156462614d
+			x: 6.0d
+			y: 0.5d
 		}
 		{
 			dependencies: [
-				"163ECE113A4F686B"
-				"50FDF49B52314764"
 				"3DEB55D883E126E6"
+				"35A20FFD1692F737"
+				"163ECE113A4F686B"
+				"080D76D1638818DE"
 			]
 			description: ["The pulses of energy through this seem to be in a semi chaotic equilibrium. &cI can probably use this for better science kits"]
 			id: "244C2C768C2432AC"
@@ -1504,14 +1482,11 @@
 				type: "item"
 			}]
 			title: "Basic Arcana Core"
-			x: -9.0d
-			y: 8.0d
+			x: -11.5d
+			y: 7.5d
 		}
 		{
-			dependencies: [
-				"7483F87F4311A3CA"
-				"393955B19363A53C"
-			]
+			dependencies: ["393955B19363A53C"]
 			description: ["Gizmos, Gadgets, Whatchamacallits, and Thingamabobs"]
 			id: "69E02A020327EEA0"
 			rewards: [{
@@ -1525,13 +1500,11 @@
 				type: "item"
 			}]
 			title: "A Thingamabob!"
-			x: 9.0d
-			y: 8.0d
+			x: 4.0d
+			y: 8.5d
 		}
 		{
 			dependencies: [
-				"50FDF49B52314764"
-				"7483F87F4311A3CA"
 				"393955B19363A53C"
 				"3DEB55D883E126E6"
 			]
@@ -1549,7 +1522,7 @@
 			}]
 			title: "Sometimes an empty thing is useful"
 			x: 0.0d
-			y: 9.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["283B51981AAE92DC"]
@@ -1573,8 +1546,8 @@
 				type: "item"
 			}]
 			title: "Oh wow that gets so bright- *bang*"
-			x: 10.5d
-			y: 5.0d
+			x: 12.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["004C5BBDCDBA33BA"]
@@ -1591,8 +1564,8 @@
 				type: "item"
 			}]
 			title: "An absolute pain in the a-"
-			x: 8.725850340136049d
-			y: 2.9639455782312893d
+			x: 12.0d
+			y: -1.0d
 		}
 		{
 			dependencies: [
@@ -1613,7 +1586,7 @@
 			}]
 			title: "Crude Fluid Dynamics Test"
 			x: 0.0d
-			y: 12.0d
+			y: 11.5d
 		}
 		{
 			dependencies: ["7483F87F4311A3CA"]
@@ -1629,11 +1602,11 @@
 				type: "item"
 			}]
 			title: "Expensive Fidget Toy"
-			x: 1.0d
-			y: 10.0d
+			x: 1.5d
+			y: 9.5d
 		}
 		{
-			dependencies: ["50FDF49B52314764"]
+			dependencies: ["68300CAEDAC23F73"]
 			description: ["&cWonder what running other flowers would yield..."]
 			id: "3DEB55D883E126E6"
 			rewards: [{
@@ -1664,8 +1637,8 @@
 				}
 			]
 			title: "Floral Burning"
-			x: -1.0d
-			y: 10.0d
+			x: -1.5d
+			y: 9.5d
 		}
 		{
 			dependencies: [
@@ -1686,10 +1659,13 @@
 			}]
 			title: "Used Crude Fluid Dynamic Test"
 			x: 0.0d
-			y: 14.0d
+			y: 12.5d
 		}
 		{
-			dependencies: ["00252987E3B16C8F"]
+			dependencies: [
+				"00252987E3B16C8F"
+				"6DF50A424345839D"
+			]
 			description: [
 				"Still not enough storage? No worries you can store more with this accumulator."
 				""
@@ -1715,11 +1691,14 @@
 				}
 			]
 			title: "More Juice'"
-			x: 4.5d
-			y: 5.0d
+			x: 6.0d
+			y: -0.5d
 		}
 		{
-			dependencies: ["2672B8CBD2F58BC7"]
+			dependencies: [
+				"2672B8CBD2F58BC7"
+				"21C63543DE36AAB7"
+			]
 			description: ["Still not enough power?! HV might be needed, however be warned &cHV wires can not be insulated and can insta' kill you!&r A transformer might be a good safety measure"]
 			icon: "immersiveengineering:capacitor_hv"
 			id: "3CB6EFD66F335C89"
@@ -1741,14 +1720,11 @@
 				}
 			]
 			title: "This is a bit dangerous..."
-			x: 6.0d
-			y: 5.0d
+			x: 8.0d
+			y: 0.0d
 		}
 		{
-			dependencies: [
-				"21C63543DE36AAB7"
-				"3CB6EFD66F335C89"
-			]
+			dependencies: ["19B0AEB26A2D2EE4"]
 			description: ["This big hunk of machine can use diesel to make a nice 4,096FE/t. A single HV line can carry away said power"]
 			icon: "immersiveengineering:diesel_generator"
 			id: "57C915CC52E428B6"
@@ -1795,14 +1771,11 @@
 				}
 			]
 			title: "Engine go brrrrrrrr"
-			x: 9.5d
+			x: 12.0d
 			y: 5.0d
 		}
 		{
-			dependencies: [
-				"244C2C768C2432AC"
-				"36D7F43B1E51F721"
-			]
+			dependencies: ["244C2C768C2432AC"]
 			description: [
 				"Where is the testing kit for basic arcana?"
 				"Sciences as they progress become &eincresingly too difficult to test as one unit&r, and thus require &6smaller individualized experiments&r to derive useful data"
@@ -1828,16 +1801,20 @@
 				}
 			]
 			title: "Basic Natural Arcana Test?"
-			x: -8.5d
-			y: 9.0d
+			x: -9.5d
+			y: 8.5d
 		}
 		{
 			dependencies: [
-				"004C5BBDCDBA33BA"
 				"4A385D5A92592D0A"
 				"57C915CC52E428B6"
+				"19B0AEB26A2D2EE4"
 			]
-			description: ["This is it! The real big guns of immersive. With this you can now enjoy the wonderful &bx16 ore yield&r from the scaling tree as well as make new specialty materials"]
+			description: [
+				"This is it! The real big guns of immersive. With this you can now enjoy the wonderful &bx16 ore yield&r from the scaling tree as well as make new specialty materials"
+				""
+				"&eNote: Electrodes can be inserted automatically in the top holder."
+			]
 			icon: "immersiveengineering:arc_furnace"
 			id: "418B5928BC9515CA"
 			rewards: [{
@@ -1888,11 +1865,14 @@
 				}
 			]
 			title: "The biggon'"
-			x: 10.5d
-			y: 1.0d
+			x: 12.5d
+			y: 1.5d
 		}
 		{
-			dependencies: ["69E02A020327EEA0"]
+			dependencies: [
+				"69E02A020327EEA0"
+				"70B6189903B70145"
+			]
 			description: [
 				"More advanced materials to test and probably blow up somehow"
 				""
@@ -1910,8 +1890,8 @@
 				type: "item"
 			}]
 			title: "Basic Materials Properties Test"
-			x: 8.5d
-			y: 9.0d
+			x: 6.5d
+			y: 8.5d
 		}
 		{
 			dependencies: ["7C5EF41D53181AFB"]
@@ -1928,7 +1908,7 @@
 			}]
 			title: "Crude Hydrocarbon Chemistry Test"
 			x: -3.5d
-			y: 11.0d
+			y: 10.5d
 		}
 		{
 			dependencies: ["7C5EF41D53181AFB"]
@@ -1945,14 +1925,14 @@
 			}]
 			title: "Crude Polymer Chemistry Test"
 			x: 3.5d
-			y: 11.0d
+			y: 10.5d
 		}
 		{
 			dependencies: [
 				"66B145565EE4836D"
-				"4A385D5A92592D0A"
+				"70B6189903B70145"
 			]
-			description: ["Taking a sample of ground lets you determin which harder to access materials are present, allowing for less guesswork in excavator installations"]
+			description: ["Taking a sample of ground lets you determine which harder to access materials are present, allowing for less guesswork in excavator installations"]
 			id: "76CD51F5EE2F47AC"
 			rewards: [{
 				id: "2FF66D3D46253C90"
@@ -1978,14 +1958,11 @@
 				}
 			]
 			title: "Sampling the world"
-			x: 11.5d
-			y: 5.0d
+			x: 8.0d
+			y: 7.0d
 		}
 		{
-			dependencies: [
-				"76CD51F5EE2F47AC"
-				"418B5928BC9515CA"
-			]
+			dependencies: ["76CD51F5EE2F47AC"]
 			description: ["This large 2 part machine is able to scoop incredibly high volumes of earth for a high energy cost. This allows for the extraction of \"rare earth\" elements, which aren't actually very rare, just very spread across the crust. &6You may even find unique resource sources"]
 			icon: "immersiveengineering:excavator"
 			id: "1955E60B51E911ED"
@@ -2032,8 +2009,8 @@
 				}
 			]
 			title: "Drill Baby Drill"
-			x: 11.5d
-			y: 4.0d
+			x: 8.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["28208E9BB8763E5C"]
@@ -2087,15 +2064,11 @@
 				}
 			]
 			title: "Exomorphosis"
-			x: -10.0d
-			y: 5.0d
+			x: -9.5d
+			y: 0.5d
 		}
 		{
-			dependencies: [
-				"6DF5980B895DEEC2"
-				"45E43BF51EC35414"
-				"2AC05C5C4441E035"
-			]
+			dependencies: ["45E43BF51EC35414"]
 			description: ["Floating flowers &bdon't have placement restrictions!&r Do keep in mind tho generating flowers will still &crot away"]
 			id: "681E32095BFCA886"
 			rewards: [{
@@ -2117,14 +2090,15 @@
 				type: "item"
 			}]
 			title: "Look! I'm Floatin'!"
-			x: -10.5d
-			y: 4.0d
+			x: -1.0d
+			y: 4.5d
 		}
 		{
 			dependencies: [
-				"76CD51F5EE2F47AC"
 				"0096F28CB0BC9933"
 				"66B145565EE4836D"
+				"1955E60B51E911ED"
+				"247B763D4F03257C"
 			]
 			id: "7175C712B2A94D90"
 			rewards: [{
@@ -2138,8 +2112,8 @@
 				type: "item"
 			}]
 			title: "Crude Geology Test"
-			x: 11.5d
-			y: 9.0d
+			x: 10.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["026E4A3182733337"]
@@ -2155,8 +2129,8 @@
 				type: "item"
 			}]
 			title: "Used Basic Material Properties Test"
-			x: 8.0d
-			y: 10.0d
+			x: 7.5d
+			y: 10.5d
 		}
 		{
 			dependencies: ["0E2F79E22394F9E2"]
@@ -2174,14 +2148,14 @@
 					type: "item"
 				}
 				{
-					id: "214CD051A59AD07D"
+					id: "07C0D5A0DEE5852D"
 					item: "nyagibits_bytes:used_mana_bomb_calorimeter"
 					type: "item"
 				}
 			]
-			title: "A Slew Of Used Tests"
-			x: -8.0d
-			y: 10.0d
+			title: "A slew of used tests"
+			x: -8.5d
+			y: 9.5d
 		}
 		{
 			dependencies: ["27A9C9F48FFDB7EA"]
@@ -2198,7 +2172,7 @@
 			}]
 			title: "Used Crude Hydrocarbon Chemistry Test"
 			x: -4.5d
-			y: 10.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["276300336054718E"]
@@ -2215,15 +2189,15 @@
 			}]
 			title: "Used Crude Polymer Chemistry Test"
 			x: 4.5d
-			y: 10.5d
+			y: 10.0d
 		}
 		{
 			dependencies: [
 				"2D9751C9547372D3"
 				"6C4D86C7A06F3BD4"
 				"7AEA117AE047A311"
-				"6657035C06A91C38"
 				"4ADFC2717D02EB20"
+				"6657035C06A91C38"
 			]
 			id: "43BF36460BEA05DE"
 			rewards: [{
@@ -2239,7 +2213,7 @@
 			}]
 			title: "Pneumatic Schematic"
 			x: 0.0d
-			y: 17.5d
+			y: 16.0d
 		}
 		{
 			dependencies: ["7C5EF41D53181AFB"]
@@ -2256,7 +2230,7 @@
 			}]
 			title: "Lab Notebook With Crude Fluid Dynamics Data"
 			x: 0.0d
-			y: 15.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["38486B956BEE4D84"]
@@ -2273,7 +2247,7 @@
 			}]
 			title: "Lab Notebook With Crude Polymer Chemistry Data"
 			x: 1.0d
-			y: 16.0d
+			y: 14.5d
 		}
 		{
 			dependencies: ["56496F9343BD6021"]
@@ -2290,10 +2264,13 @@
 			}]
 			title: "Lab Notebook With Crude Hydrocarbon Chemistry Data"
 			x: -1.0d
-			y: 16.0d
+			y: 14.5d
 		}
 		{
-			dependencies: ["0096F28CB0BC9933"]
+			dependencies: [
+				"0096F28CB0BC9933"
+				"55A43DC5FB887F23"
+			]
 			id: "6657035C06A91C38"
 			rewards: [{
 				id: "43EF930590FAC8B6"
@@ -2306,11 +2283,14 @@
 				type: "item"
 			}]
 			title: "Lexicon With Basic Material Properties Data"
-			x: 1.5d
-			y: 17.0d
+			x: 2.0d
+			y: 16.0d
 		}
 		{
-			dependencies: ["06B6BFB0D1106B34"]
+			dependencies: [
+				"6657035C06A91C38"
+				"28DE7A5DED1FF0C1"
+			]
 			description: ["Mana seems to both be a &esubstance&r and itself a form of &benergy&r not like gasoline but itself *is* the energy... More investigation needed"]
 			id: "4ADFC2717D02EB20"
 			rewards: [{
@@ -2324,11 +2304,11 @@
 				type: "item"
 			}]
 			title: "Lexicon With Basic Natural Arcana Data"
-			x: -1.5d
-			y: 17.0d
+			x: 0.0d
+			y: 18.0d
 		}
 		{
-			dependencies: ["681E32095BFCA886"]
+			dependencies: ["244C2C768C2432AC"]
 			description: ["Very large books imbued with &bmana based calligraphy&r to more compactly store written information. Much needed to describe the results of more sophisticated science tests"]
 			id: "36D7F43B1E51F721"
 			rewards: [{
@@ -2342,8 +2322,8 @@
 				type: "item"
 			}]
 			title: "Lexicons"
-			x: -10.5d
-			y: 9.0d
+			x: -10.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["078D5F3DD8BD448E"]
@@ -2354,21 +2334,20 @@
 				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
-			size: 1.5d
+			size: 2.0d
 			tasks: [{
 				id: "501A28BBB9B42097"
 				item: "alchemistry:combiner"
 				type: "item"
 			}]
 			x: 0.0d
-			y: 22.0d
+			y: 21.5d
 		}
 		{
 			dependencies: [
-				"36D7F43B1E51F721"
 				"56725DB290555B13"
 				"4ADFC2717D02EB20"
-				"6657035C06A91C38"
+				"36D7F43B1E51F721"
 			]
 			id: "078D5F3DD8BD448E"
 			rewards: [{
@@ -2383,7 +2362,7 @@
 			}]
 			title: "Crude Element Data Lexicon"
 			x: 0.0d
-			y: 20.5d
+			y: 20.0d
 		}
 		{
 			dependencies: ["7175C712B2A94D90"]
@@ -2399,8 +2378,8 @@
 				type: "item"
 			}]
 			title: "Used Crude Geology Test"
-			x: 10.5d
-			y: 10.0d
+			x: 5.5d
+			y: 15.0d
 		}
 		{
 			dependencies: ["374180986ED91A0D"]
@@ -2411,8 +2390,8 @@
 				type: "item"
 			}]
 			title: "Lab Notebook With Crude Geology Data"
-			x: 9.5d
-			y: 11.0d
+			x: 2.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["3B26CEFA5BEC5331"]
@@ -2429,8 +2408,8 @@
 				type: "item"
 			}]
 			title: "Shuffling Items"
-			x: 8.0d
-			y: -5.0d
+			x: 5.5d
+			y: -14.0d
 		}
 		{
 			dependencies: ["299A7421330CF038"]
@@ -2448,11 +2427,15 @@
 			}]
 			title: "Do not bring this into a shower"
 			x: -1.5d
-			y: -5.0d
+			y: -14.0d
 		}
 		{
-			dependencies: ["57C915CC52E428B6"]
-			description: ["With that new fuel hungry generator, you may want to consider cracking &bcrude oil&r into new products. You will also get some &elubricant&r as a side product which will prove to be very useful"]
+			dependencies: ["247B763D4F03257C"]
+			description: [
+				"Ah, the sweet, flammable smell of progress!"
+				""
+				"Some products of processing crude oil can be used as-is, while others can be further refined."
+			]
 			id: "66B145565EE4836D"
 			rewards: [{
 				id: "29CE36491BDE7CB1"
@@ -2482,7 +2465,7 @@
 				}
 			]
 			title: "Lube! Hey where did your pants go"
-			x: 10.5d
+			x: 10.0d
 			y: 7.0d
 		}
 		{
@@ -2500,7 +2483,7 @@
 				type: "item"
 			}]
 			title: "Replace Oil Every 5000 Recipes"
-			x: 10.0d
+			x: 9.0d
 			y: 8.0d
 		}
 		{
@@ -2518,27 +2501,35 @@
 				type: "item"
 			}]
 			title: "Kinda Terrible Plastic"
-			x: 9.0d
-			y: 6.0d
+			x: 2.5d
+			y: 5.5d
 		}
 		{
 			dependencies: ["00252987E3B16C8F"]
-			description: ["Look I'm sorry I lied to you. They made me do it, please stop trying to advance, I am &cBEGGING&r you to stop. The path you lead forward will only bring untold suffering &cPLEASE STOP&r. I'm sorry they put you here, please please please stop. For the sake of all that is find it within you to listen. Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop &cPlease stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop "]
+			description: [
+				"Look I'm sorry I lied to you. They made me do it, please stop trying to advance, I am &cBEGGING&r you to stop. The path you lead forward will only bring untold suffering &cPLEASE STOP&r. I'm sorry they put you here, please please please stop. For the sake of all that is find it within you to listen. Please. Please stop Please stop Please stop Please stop Please stop Please stop Please stop &cPlease stop Please stop Please stop "
+				"&cPlease stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please s&k&4t&r&cop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Ple&k&4a&r&cse stop \\nPlease stop Please stop Please stop \\nPlease stop Please sto&k&4p&r&c Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please s&k&4t&r&cop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please st&k&4o&r&cp \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop&k&4ii&r&cPlease &k&4s&r&ctop Please stop \\nPlease stop Please stop Please&k&4ii&r&cstop \\nPlease stop Please stop Please stop \\nPlease stop Please&k&4ii&r&cstop &k&4P&r&clease stop \\nPlease &k&4s&r&ctop Please stop Please stop \\nPlease stop Please sto&k&4p&r&c Please stop \\nPlease stop Please stop Please stop \\nPlease stop Plea&k&4s&r&ce stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Plea&k&4s&r&ce stop Please stop \\nPlea&k&4s&r&ce stop Please stop &k&4P&r&clease stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Pl&k&4e&r&case stop \\nPlease sto&k&4p&r&c Please stop Please stop \\nPlease stop Please stop Please st&k&4o&r&cp \\nPle&k&4a&r&cse stop Please sto&k&4p&r&c Please stop \\nPlease stop &k&4P&r&clease stop Please stop \\nPlease stop Please stop Please stop \\nPlease sto&k&4p&r&c Please stop Pl&k&4e&r&case stop \\nPleas&k&4e&r&c stop Please stop&k&4ii&r&cPlease stop \\nPlease&k&4ii&r&cstop Please stop Please sto&k&4p&r&c \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please stop Please stop&k&4ii&r&c\\nPlease st&k&4o&r&cp Please stop Please stop \\nPlease stop Please stop Please stop \\nP&k&4l&r&cease stop Please stop&k&4ii&r&cPlease st&k&4o&r&cp \\nPlease stop Pl&k&4e&r&case stop Ple&k&4a&r&cse stop \\nPlea&k&4s&r&ce stop Please stop Please sto&k&4p&r&c \\nPlease stop Please stop&k&4ii&r&cPlease stop \\nPlease stop Pl&k&4e&r&case stop Please stop \\nPlease stop Please&k&4ii&r&cstop Please stop \\nPlease stop &k&4P&r&clease stop P&k&4l&r&cease stop \\nP&k&4l&r&cease stop Please stop Please stop &k&4\\nP&r&clease stop Please stop Pl&k&4ea&r&cse stop \\nPlease st&k&4o&r&cp Please&k&4ii&r&cstop Please stop \\nPlease &k&4s&r&ctop &k&4P&r&clease stop Please s&k&4t&r&cop \\nPlease stop Please &k&4s&r&ctop Please &k&4s&r&ctop \\nPlease stop Please stop Please stop \\nPlea&k&4se&r&c stop Please stop Please s&k&4t&r&cop&k&4ii&r&c\\nPlease stop Please stop Please stop \\nPlease stop Please sto&k&4p&r&c Please stop \\nPlease stop P&k&4l&r&cease stop Please stop&k&4ii&r&c\\nPlease s&k&4t&r&cop Please stop &k&4P&r&clease st&k&4o&r&cp \\nPlease&k&4ii&r&cstop&k&4ii&r&cPleas&k&4e&r&c &k&4s&r&ctop Please&k&4ii&r&cstop &k&4\\nP&r&clease stop P&k&4l&r&cease stop &k&4P&r&clease sto&k&4p&r&c \\nPlease stop Please&k&4ii&r&cstop P&k&4l&r&cease&k&4ii&r&cstop \\nPlease stop &k&4P&r&clease stop Pl&k&4e&r&ca&k&4s&r&ce stop \\nPlease sto&k&4p&r&c P&k&4l&r&cease s&k&4t&r&cop Pl&k&4ea&r&cse sto&k&4p&r&c \\nPlease stop Pleas&k&4e&r&c stop P&k&4l&r&ce&k&4a&r&cse sto&k&4p&r&c \\nPlease stop Please stop Plea&k&4s&r&ce stop \\nP&k&4l&r&ceas&k&4e&r&c stop &k&4P&r&clease s&k&4t&r&cop Please stop \\nPleas&k&4e&r&c &k&4s&r&ctop &k&4P&r&clease sto&k&4p&r&c Please sto&k&4p&r&c \\nPle&k&4as&r&ce stop P&k&4l&r&cease stop Please stop \\nPlease stop Please stop Please stop \\nPlease stop Please sto&k&4p&r&c Please stop \\nPlease stop Please stop Pl&k&4e&r&cas&k&4e&r&c sto&k&4p&r&c \\nPlease &k&4s&r&ctop P&k&4le&r&case stop Pl&k&4e&r&ca&k&4s&r&ce stop \\nPlease &k&4s&r&ctop Pleas&k&4e&r&c stop Please stop \\nPle&k&4a&r&cse&k&4ii&r&cstop P&k&4l&r&ceas&k&4e&r&c s&k&4t&r&co&k&4p&r&c &k&4P&r&cleas&k&4e&r&c &k&4s&r&ctop \\nPlease stop &k&4P&r&clease s&k&4t&r&cop&k&4iiP&r&clease stop \\nPlease stop&k&4ii&r&cPlease stop Ple&k&4a&r&cse stop&k&4ii&r&c\\nPlease &k&4s&r&ctop Pl&k&4e&r&case stop &k&4P&r&clea&k&4s&r&ce stop \\nP&k&4l&r&ce&k&4a&r&cse st&k&4o&r&cp&k&4ii&r&cPle&k&4a&r&cse stop&k&4iiPl&r&cease sto&k&4p&r&c &k&4\\nP&r&cleas&k&4e&r&c stop Ple&k&4a&r&cse stop&k&4ii&r&cPlease stop \\nPlease&k&4ii&r&cstop Pl&k&4e&r&ca&k&4s&r&ce&k&4ii&r&cstop Please stop&k&4ii\\nP&r&clea&k&4s&r&ce stop Plea&k&4s&r&ce st&k&4o&r&cp Please stop \\nPl&k&4e&r&case stop Please&k&4ii&r&cstop P&k&4l&r&cease stop \\nPleas&k&4e&r&c stop Pl&k&4e&r&case stop Please stop \\nPleas&k&4e&r&c s&k&4t&r&cop Pl&k&4e&r&case stop Please stop \\nPle&k&4a&r&cse s&k&4t&r&cop&k&4ii&r&cPlease &k&4s&r&ctop Pleas&k&4e&r&c stop \\nPlease stop Please &k&4s&r&cto&k&4p&r&c P&k&4l&r&cease&k&4ii&r&cstop \\nPlease&k&4ii&r&cstop P&k&4l&r&cease&k&4ii&r&cstop&k&4iiP&r&clease &k&4s&r&ctop&k&4ii\\nP&r&clease stop Please stop Plea&k&4s&r&ce &k&4s&r&ct&k&4op&r&c \\nPleas&k&4e&r&c st&k&4o&r&cp&k&4iiP&r&clease&k&4ii&r&cstop Pl&k&4ea&r&cse&k&4ii&r&cst&k&4op&r&c \\nPlease&k&4ii&r&cstop Please st&k&4o&r&cp&k&4ii&r&cP&k&4le&r&ca&k&4se&r&c &k&4s&r&ctop \\nP&k&4l&r&cease stop P&k&4l&r&ceas&k&4eiis&r&ctop Please stop \\nPlease stop Please stop Pleas&k&4eii&r&cs&k&4t&r&cop \\nPlease s&k&4t&r&cop Please sto&k&4p&r&c Pl&k&4e&r&case stop &k&4\\nP&r&cle&k&4a&r&cse s&k&4t&r&cop&k&4iiP&r&clease stop&k&4ii&r&cPlease stop &k&4\\nP&r&clease sto&k&4p&r&c Pleas&k&4e&r&c stop&k&4ii&r&cP&k&4l&r&ceas&k&4e&r&c sto&k&4p&r&c \\nPlease stop Please&k&4ii&r&cs&k&4t&r&co&k&4pii&r&cP&k&4l&r&cease &k&4s&r&ctop \\nP&k&4l&r&ceas&k&4eii&r&cs&k&4t&r&cop Plea&k&4seii&r&cstop Please sto&k&4pii&r&c\\nPl&k&4e&r&case &k&4s&r&ctop Pleas&k&4eii&r&cstop Pl&k&4e&r&ca&k&4s&r&ce stop \\nP&k&4le&r&case &k&4s&r&ctop Ple&k&4a&r&cse sto&k&4p&r&c P&k&4l&r&cea&k&4s&r&ce&k&4ii&r&cstop&k&4ii&r&c\\nP&k&4l&r&cease st&k&4op&r&c Ple&k&4a&r&cse stop &k&4P&r&clea&k&4s&r&ce&k&4ii&r&cst&k&4op&r&c \\nPlease stop Please st&k&4o&r&cp Ple&k&4a&r&cse s&k&4t&r&cop \\nPle&k&4a&r&cse&k&4ii&r&cstop P&k&4l&r&ceas&k&4e&r&c st&k&4o&r&cp Ple&k&4a&r&cs&k&4e&r&c &k&4s&r&ctop \\nPle&k&4a&r&cse s&k&4t&r&cop Pleas&k&4e&r&c stop&k&4ii&r&cPle&k&4a&r&cse sto&k&4p&r&c \\nP&k&4l&r&cease stop Ple&k&4a&r&cse stop &k&4P&r&cl&k&4e&r&case st&k&4o&r&cp \\nP&k&4l&r&ce&k&4ase&r&c stop&k&4ii&r&cPlea&k&4s&r&ce&k&4ii&r&cs&k&4to&r&cp P&k&4l&r&cease sto&k&4p&r&c \\nPle&k&4as&r&ce s&k&4t&r&cop Ple&k&4as&r&ce stop &k&4P&r&clease s&k&4t&r&cop &k&4\\nP&r&clease stop Plea&k&4s&r&ce &k&4s&r&ctop&k&4ii&r&cPl&k&4e&r&cas&k&4eiis&r&ctop &k&4\\nP&r&cl&k&4e&r&case stop &k&4Pl&r&cease sto&k&4p&r&c Plea&k&4s&r&ce stop \\nPlease stop&k&4ii&r&cPl&k&4e&r&cas&k&4eii&r&cst&k&4op&r&c Please sto&k&4p&r&c \\nPlea&k&4s&r&ce st&k&4op&r&c P&k&4l&r&ceas&k&4e&r&c &k&4s&r&ct&k&4o&r&cp Pleas&k&4e&r&c sto&k&4pii\\nPl&r&ce&k&4ase&r&c &k&4s&r&ct&k&4o&r&cp Plea&k&4s&r&ce stop&k&4iiP&r&cle&k&4a&r&cse &k&4sto&r&cp \\nPle&k&4as&r&ce&k&4iistop&r&c Pleas&k&4e&r&c &k&4s&r&ctop Please st&k&4o&r&cp \\nP&k&4l&r&ceas&k&4eii&r&cstop P&k&4l&r&ceas&k&4e&r&c stop &k&4Pl&r&cease s&k&4to&r&cp&k&4ii\\nPl&r&ceas&k&4e&r&c stop&k&4ii&r&cPle&k&4a&r&cse s&k&4t&r&cop Plea&k&4s&r&ce stop &k&4\\nP&r&cl&k&4e&r&ca&k&4se&r&c stop Pl&k&4e&r&ca&k&4s&r&ce s&k&4to&r&cp Please s&k&4t&r&cop \\nPlea&k&4s&r&ce st&k&4o&r&cp&k&4iiP&r&cle&k&4ase&r&c &k&4st&r&cop Pleas&k&4eii&r&cstop \\nPl&k&4ea&r&cse s&k&4t&r&co&k&4p&r&c &k&4P&r&clease &k&4st&r&cop&k&4ii&r&cPle&k&4ase&r&c st&k&4o&r&cp&k&4ii\\nP&r&cl&k&4ea&r&cse&k&4ii&r&cs&k&4t&r&cop&k&4iiP&r&cle&k&4as&r&ce sto&k&4p&r&c Please stop \\nPle&k&4as&r&ce st&k&4op&r&c &k&4P&r&cle&k&4a&r&cse&k&4ii&r&csto&k&4p&r&c &k&4P&r&clea&k&4se&r&c stop \\nP&k&4l&r&cease stop &k&4Ple&r&case &k&4sto&r&cp &k&4Pl&r&cea&k&4s&r&ce&k&4iist&r&co&k&4p&r&c \\nPle&k&4a&r&cs&k&4e&r&c &k&4st&r&cop Ple&k&4a&r&cs&k&4eiis&r&ctop Please s&k&4t&r&cop&k&4ii&r&c\\nPle&k&4as&r&ce&k&4iis&r&ct&k&4o&r&cp Ple&k&4a&r&cse &k&4s&r&ct&k&4o&r&cp Pl&k&4e&r&ca&k&4s&r&ce s&k&4t&r&co&k&4pii&r&c\\nPle&k&4a&r&cse stop&k&4ii&r&cPlease&k&4ii&r&cst&k&4op&r&c Ple&k&4a&r&cse s&k&4top&r&c &k&4\\nP&r&cl&k&4e&r&ca&k&4s&r&ce &k&4sto&r&cp &k&4P&r&cl&k&4ea&r&cse st&k&4op&r&c Pleas&k&4e&r&c &k&4s&r&ctop &k&4\\nP&r&cl&k&4e&r&ca&k&4s&r&ce st&k&4o&r&cp &k&4P&r&cleas&k&4eii&r&cs&k&4t&r&cop &k&4P&r&clease st&k&4o&r&cp&k&4ii&r&c\\nP&k&4leas&r&ce &k&4s&r&ct&k&4o&r&cp&k&4ii&r&cPle&k&4a&r&cse &k&4s&r&ct&k&4o&r&cp&k&4ii&r&cPleas&k&4e&r&c &k&4s&r&ct&k&4o&r&cp \\nP&k&4le&r&case&k&4iist&r&cop Please&k&4ii&r&cst&k&4o&r&cp Pl&k&4e&r&case&k&4ii&r&cst&k&4opii&r&c\\nPl&k&4ea&r&cse &k&4s&r&ctop&k&4ii&r&cPle&k&4aseii&r&cst&k&4op&r&c &k&4P&r&clease st&k&4opii&r&c\\nP&k&4l&r&ce&k&4ase&r&c stop&k&4ii&r&cP&k&4l&r&cease &k&4st&r&co&k&4p&r&c P&k&4lea&r&cse st&k&4op&r&c \\nPl&k&4e&r&case&k&4ii&r&cst&k&4o&r&cp P&k&4lea&r&cse st&k&4op&r&c &k&4P&r&clea&k&4se&r&c &k&4stopii&r&c\\nP&k&4le&r&case s&k&4t&r&co&k&4p&r&c &k&4P&r&clea&k&4se&r&c &k&4st&r&cop P&k&4l&r&ceas&k&4e&r&c &k&4st&r&co&k&4pii\\nP&r&cleas&k&4e&r&c s&k&4to&r&cp Pl&k&4e&r&ca&k&4se&r&c s&k&4to&r&cp Please&k&4ii&r&cstop&k&4ii\\nP&r&clease st&k&4opii&r&cPlea&k&4se&r&c sto&k&4p&r&c &k&4Plea&r&cse &k&4stopii\\nP&r&cl&k&4ease&r&c st&k&4op&r&c &k&4Pl&r&ceas&k&4e&r&c sto&k&4p&r&c Plea&k&4s&r&ce st&k&4o&r&cp \\nP&k&4l&r&ce&k&4ase&r&c stop&k&4ii&r&cP&k&4l&r&ce&k&4as&r&ce st&k&4o&r&cp P&k&4lea&r&cse&k&4ii&r&cstop&k&4ii\\nPl&r&ce&k&4as&r&ce &k&4st&r&cop &k&4P&r&clease&k&4ii&r&cstop P&k&4l&r&ce&k&4as&r&ce s&k&4to&r&cp &k&4\\nPle&r&ca&k&4s&r&ce stop&k&4ii&r&cPl&k&4e&r&case stop&k&4iiPl&r&ce&k&4a&r&cs&k&4e&r&c s&k&4to&r&cp &k&4\\nP&r&cl&k&4ea&r&cse&k&4ii&r&cstop &k&4P&r&clease &k&4st&r&cop Ple&k&4aseii&r&cst&k&4op&r&c &k&4\\nP&r&cl&k&4ea&r&cse&k&4ii&r&cs&k&4t&r&cop Pl&k&4e&r&ca&k&4s&r&ce &k&4s&r&ctop &k&4Plea&r&cse s&k&4t&r&cop \\nPle&k&4a&r&cs&k&4eii&r&csto&k&4piiP&r&cleas&k&4e&r&c st&k&4o&r&cp &k&4Pl&r&cease &k&4s&r&ct&k&4o&r&cp &k&4\\nPl&r&cea&k&4se&r&c st&k&4op&r&c Please &k&4s&r&cto&k&4pii&r&cP&k&4l&r&cea&k&4s&r&ce sto&k&4p&r&c \\nPle&k&4aseii&r&cs&k&4topii&r&cP&k&4le&r&cas&k&4e&r&c s&k&4t&r&co&k&4piiP&r&cl&k&4e&r&ca&k&4s&r&ce&k&4ii&r&cst&k&4op&r&c &k&4\\nP&r&cl&k&4ea&r&cse &k&4s&r&ct&k&4opiiPle&r&cas&k&4e&r&c &k&4s&r&cto&k&4piiPl&r&ce&k&4as&r&ce&k&4ii&r&cst&k&4o&r&cp \\nP&k&4lea&r&cse&k&4ii&r&cstop &k&4Pl&r&cease&k&4iis&r&cto&k&4p&r&c P&k&4l&r&cease stop \\nPl&k&4e&r&ca&k&4s&r&ce &k&4stop&r&c Ple&k&4a&r&cs&k&4eii&r&cstop Pleas&k&4eii&r&cs&k&4top&r&c \\nPlea&k&4se&r&c sto&k&4piiP&r&cl&k&4ea&r&cs&k&4eiis&r&ctop&k&4ii&r&cP&k&4le&r&ca&k&4se&r&c st&k&4o&r&cp&k&4ii&r&c\\nP&k&4le&r&ca&k&4s&r&ce&k&4ii&r&cs&k&4top&r&c Pl&k&4ea&r&cse&k&4iis&r&cto&k&4p&r&c &k&4P&r&cle&k&4as&r&ce&k&4ii&r&cst&k&4o&r&cp \\nP&k&4l&r&ce&k&4as&r&ce &k&4s&r&ctop&k&4ii&r&cPl&k&4e&r&cas&k&4e&r&c s&k&4top&r&c Pleas&k&4e&r&c &k&4st&r&cop &k&4\\nPl&r&ce&k&4a&r&cse s&k&4t&r&co&k&4piiPl&r&ce&k&4as&r&ce stop&k&4iiP&r&cle&k&4ase&r&c sto&k&4p&r&c &k&4\\nPl&r&ce&k&4a&r&cse&k&4iis&r&ct&k&4o&r&cp P&k&4l&r&ce&k&4a&r&cs&k&4eiist&r&cop&k&4ii&r&cP&k&4l&r&cea&k&4s&r&ce s&k&4t&r&cop \\nP&k&4lea&r&cse st&k&4op&r&c &k&4P&r&clea&k&4s&r&ce&k&4ii&r&cs&k&4t&r&co&k&4piiPl&r&ce&k&4aseiis&r&ct&k&4o&r&cp&k&4ii&r&c\\nP&k&4le&r&case s&k&4to&r&cp&k&4ii&r&cPle&k&4ase&r&c &k&4st&r&co&k&4p&r&c &k&4Please&r&c st&k&4o&r&cp \\nPl&k&4ea&r&cse&k&4iis&r&ct&k&4opii&r&cP&k&4l&r&ceas&k&4eii&r&cs&k&4t&r&cop Pl&k&4e&r&ca&k&4s&r&ce sto&k&4p&r&c \\nPle&k&4a&r&cse&k&4iist&r&co&k&4pii&r&cP&k&4leaseiis&r&ct&k&4op&r&c &k&4P&r&cle&k&4as&r&ce &k&4sto&r&cp \\nP&k&4le&r&ca&k&4se&r&c &k&4st&r&co&k&4piiPl&r&ceas&k&4e&r&c &k&4stop&r&c P&k&4l&r&ce&k&4aseiis&r&ct&k&4opii&r&c\\nPleas&k&4e&r&c sto&k&4pii&r&cP&k&4le&r&ca&k&4s&r&ce&k&4ii&r&cs&k&4t&r&co&k&4p&r&c Pl&k&4ea&r&cs&k&4eii&r&cst&k&4op&r&c \\nP&k&4l&r&ceas&k&4e&r&c &k&4st&r&co&k&4p&r&c P&k&4l&r&cea&k&4seiistop&r&c &k&4Plea&r&cs&k&4e&r&c &k&4stop&r&c \\nP&k&4l&r&ce&k&4a&r&cs&k&4eiis&r&ctop&k&4iiPle&r&ca&k&4seiis&r&cto&k&4piiP&r&cle&k&4a&r&cs&k&4e&r&c &k&4stopii&r&c\\nP&k&4le&r&case &k&4st&r&cop &k&4Pl&r&cea&k&4s&r&ce &k&4stopiiP&r&cl&k&4ea&r&cs&k&4eiist&r&cop&k&4ii&r&c\\nP&k&4l&r&ce&k&4as&r&ce&k&4ii&r&cstop &k&4P&r&cle&k&4a&r&cs&k&4eii&r&cstop Pl&k&4eas&r&ce s&k&4topii\\nPlea&r&cs&k&4eiistopii&r&cP&k&4l&r&ceas&k&4e&r&c &k&4st&r&cop&k&4iiP&r&cle&k&4a&r&cs&k&4eii&r&cs&k&4topii&r&c\\nP&k&4leas&r&ce&k&4ii&r&cst&k&4opiiP&r&cl&k&4eas&r&ce &k&4s&r&ctop P&k&4le&r&ca&k&4seii&r&cst&k&4op&r&c \\nPl&k&4ea&r&cs&k&4eiis&r&ct&k&4op&r&c Ple&k&4as&r&ce&k&4ii&r&csto&k&4pii&r&cP&k&4l&r&ce&k&4ase&r&c st&k&4op&r&c &k&4\\nPl&r&ce&k&4as&r&ce&k&4iis&r&ctop&k&4iiPl&r&cea&k&4se&r&c &k&4st&r&cop&k&4iiPl&r&ce&k&4aseii&r&csto&k&4p&r&c \\nPl&k&4e&r&cas&k&4e&r&c sto&k&4p&r&c &k&4Ple&r&ca&k&4s&r&ce s&k&4topiiPle&r&cas&k&4eiisto&r&cp &k&4\\nPle&r&cas&k&4e&r&c &k&4sto&r&cp&k&4iiPl&r&ce&k&4as&r&ce&k&4ii&r&cs&k&4to&r&cp&k&4ii&r&cP&k&4lease&r&c &k&4s&r&ct&k&4opii\\nP&r&clea&k&4se&r&c &k&4s&r&ct&k&4o&r&cp &k&4P&r&cl&k&4ea&r&cs&k&4e&r&c &k&4s&r&ct&k&4opiiP&r&cl&k&4ea&r&cs&k&4eii&r&cs&k&4topii\\nP&r&cle&k&4as&r&ce &k&4st&r&co&k&4piiPlea&r&cse s&k&4t&r&co&k&4piiP&r&cle&k&4as&r&ce&k&4ii&r&cs&k&4t&r&cop&k&4ii\\nPle&r&ca&k&4s&r&ce&k&4ii&r&cs&k&4topiiPle&r&ca&k&4seii&r&cs&k&4to&r&cp&k&4ii&r&cP&k&4le&r&case&k&4iist&r&co&k&4pii\\nPlea&r&cse&k&4iistopiiPlea&r&cse&k&4ii&r&cst&k&4o&r&cp&k&4iiPl&r&ce&k&4aseii&r&cst&k&4o&r&cp &k&4\\nPl&r&ce&k&4aseii&r&cs&k&4topiiPle&r&ca&k&4seiis&r&ct&k&4op&r&c &k&4Pl&r&cea&k&4se&r&c &k&4s&r&ct&k&4o&r&cp&k&4ii\\nP&r&cle&k&4as&r&ce &k&4stopiiPl&r&ceas&k&4e&r&c &k&4s&r&ct&k&4opiiP&r&cleas&k&4e&r&c &k&4st&r&co&k&4pii\\nPlease&r&c s&k&4top&r&c &k&4Plea&r&cs&k&4e&r&c &k&4s&r&ct&k&4op&r&c Plea&k&4seiist&r&co&k&4p&r&c \\nP&k&4leas&r&ce &k&4st&r&co&k&4piiPleaseiisto&r&cp&k&4iiPle&r&ca&k&4se&r&c s&k&4top&r&c &k&4\\nPle&r&cas&k&4e&r&c &k&4st&r&co&k&4p&r&c P&k&4leaseiistopiiP&r&cle&k&4as&r&ce&k&4ii&r&cs&k&4topii&r&c\\nPl&k&4easeiist&r&co&k&4piiPl&r&ce&k&4a&r&cs&k&4eiistop&r&c &k&4Pl&r&cea&k&4se&r&c &k&4s&r&cto&k&4p&r&c &k&4\\nPl&r&cea&k&4seiistopiiPle&r&cas&k&4eiist&r&co&k&4piiPlea&r&cse&k&4iis&r&ct&k&4opii&r&c\\nP&k&4le&r&case s&k&4to&r&cp&k&4ii&r&cP&k&4l&r&cea&k&4seiis&r&ct&k&4op&r&c P&k&4leaseiistop&r&c &k&4\\nPleaseiis&r&cto&k&4piiPleaseiist&r&co&k&4piiPleaseii&r&cs&k&4topii&r&c\\nPle&k&4a&r&cse&k&4ii&r&cs&k&4t&r&co&k&4pii&r&cPl&k&4ea&r&cs&k&4eiistopiiPlea&r&cs&k&4eii&r&cs&k&4to&r&cp &k&4\\nPleaseiistopiiP&r&cl&k&4ease&r&c &k&4stop&r&c &k&4Pleas&r&ce sto&k&4pii&r&c\\nP&k&4leaseiistopiiPl&r&ce&k&4ase&r&c &k&4stopii&r&cP&k&4l&r&ce&k&4a&r&cs&k&4eii&r&cs&k&4t&r&co&k&4pii&r&c\\nP&k&4leaseiis&r&ct&k&4opiiP&r&cle&k&4ase&r&c &k&4s&r&ct&k&4opii&r&cP&k&4leaseiistopii\\nPlea&r&cs&k&4eii&r&cst&k&4opiiPl&r&ce&k&4aseiist&r&co&k&4pii&r&cP&k&4leaseiistopii&r&c\\nP&k&4leaseiis&r&cto&k&4piiPl&r&ce&k&4aseiistop&r&c Pl&k&4easeiist&r&co&k&4pii&r&c\\nPl&k&4ea&r&cs&k&4eiistopii&r&cPle&k&4a&r&cs&k&4eiisto&r&cp&k&4iiPlease&r&c &k&4sto&r&cp&k&4ii\\nPle&r&ca&k&4seiistopiiPleaseii&r&cs&k&4topiiPleaseiist&r&cop &k&4\\nPleaseiistopiiPl&r&ce&k&4aseiisto&r&cp&k&4iiP&r&cl&k&4easeii&r&csto&k&4pii\\nPleas&r&ce s&k&4t&r&co&k&4piiPlea&r&cs&k&4eiistop&r&c &k&4P&r&cl&k&4e&r&ca&k&4seiistopii\\nPleaseiisto&r&cp&k&4iiPl&r&ce&k&4a&r&cs&k&4eiistop&r&c &k&4Ple&r&ca&k&4seiistopii\\nPleaseiistop&r&c &k&4Plea&r&cs&k&4eiist&r&co&k&4p&r&c &k&4Ple&r&ca&k&4s&r&ce&k&4iistopii\\nPleaseiist&r&co&k&4piiP&r&cl&k&4easeiistopiiPleaseiis&r&ct&k&4opii\\nPlease&r&c s&k&4topiiPle&r&ca&k&4s&r&ce&k&4iistopiiPleaseiistopii\\nPle&r&cas&k&4eiistopiiPleaseiistopiiPleas&r&ce&k&4iistopii\\nPle&r&cas&k&4eiis&r&ct&k&4opii&r&cP&k&4leaseiistopiiPleaseiistop&r&c &k&4\\nP&r&cl&k&4ea&r&cs&k&4eiistop&r&c &k&4Pleaseiisto&r&cp&k&4iiPlease&r&c &k&4s&r&ct&k&4op&r&c &k&4\\nPleaseiistopiiPleaseiistopiiPl&r&ce&k&4aseiistopii\\nPleaseiistopiiPleaseiistopiiP&r&cl&k&4easeiistopii\\nPleaseii&r&cs&k&4topiiPleaseiistopiiPleaseiistopii\\nPleaseiistopiiPleaseiistopiiPleaseiistopii\\nPleaseiistopiiPleaseiistopiiPleaseiist&r&co&k&4pii\\nPleas&r&ce&k&4iistopiiPleaseiistopiiPleaseiistopii\\nPleaseiistopiiPleaseiistopiiPleaseiistopii"
+				"&k&4PleaseiistopiiPleaseiistopiiPleaseiistopii\\nPleaseiistopiiPleaseiistopiiPleaseiistopii\\nPleaseiistopiiPleaseiistopiiPleaseiistopii\\nPleaseiistopiiPleaseiistopiiPleaseiistopii\\nPleaseiistopiiPleaseiistopiiPleaseiistopii\\nPleaseiistopiiPleaseiistopiiPleaseiistopii\\nPleaseiistopiiPleaseiistopiiPleaseiistopii\\nPleaseiistopiiPleaseiistopiiPleaseiistopii\\nPleaseiistopiiPleaseiistopiiPleaseiistopii\\nPleaseiistopiiPleaseiistopiiPleaseiistopii"
+			]
 			hide: true
+			hide_dependency_lines: true
+			icon: "botania:cosmetic_questgiver_mark"
 			id: "552C4872868114FD"
 			rewards: [{
 				id: "1EF2C1D4DEA553DC"
 				item: "minecraft:poppy"
+				title: "&cA plea for mercy"
 				type: "item"
 			}]
+			size: 1.5d
 			tasks: [{
-				id: "5E9C55EB208C35D3"
-				item: "botania:cosmetic_questgiver_mark"
-				type: "item"
+				id: "68D1A0EAA69E0E91"
+				title: "&cDisregard."
+				type: "checkmark"
 			}]
 			title: "Hey"
-			x: 3.5d
-			y: -1.5d
+			x: 2.5d
+			y: -7.5d
 		}
 		{
 			dependencies: ["37FAB0261BCDF974"]
@@ -2563,8 +2554,8 @@
 				type: "item"
 			}]
 			title: "The Chicken or the Cocoon?"
-			x: -1.5d
-			y: 0.0d
+			x: -3.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["299A7421330CF038"]
@@ -2605,7 +2596,959 @@
 			]
 			title: "They don't make these presses like they used to..."
 			x: 1.5d
-			y: -5.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["66DDC75CB8C3D557"]
+			description: [
+				"You need manganese to make certain specialized steel variants."
+				""
+				"But the \"simple\" route needs specific machinery, which requires said steel variants."
+				""
+				"&cThere must be another way..."
+			]
+			id: "3B8EFB77D5F4D3B7"
+			rewards: [{
+				id: "40125027FF590840"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "54FD3C5F0B67F273"
+				item: "chemlib:manganese"
+				type: "item"
+			}]
+			title: "Suspiciously Foreboding"
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"5B109E7F50E8EBC2"
+				"004C5BBDCDBA33BA"
+				"3CB6EFD66F335C89"
+			]
+			description: ["To make more advanced machines, you will need more advanced blocks of steel."]
+			id: "19B0AEB26A2D2EE4"
+			tasks: [
+				{
+					id: "2E3BB42D198CDA77"
+					item: "nyagibits_bytes:block_of_1080_high_carbon_steel"
+					type: "item"
+				}
+				{
+					id: "4E10848950C138D7"
+					item: "nyagibits_bytes:block_of_15n20_high_carbon_steel"
+					type: "item"
+				}
+			]
+			title: "I got blocks of steel!"
+			x: 8.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["692B02745BB6435E"]
+			description: ["Stick some vacuum tubes on a backplane to make some simple circuits. Nothing too fancy, but will get the job done."]
+			id: "70B6189903B70145"
+			rewards: [{
+				id: "72DEFE9ED6C3684F"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6D978743997098FA"
+					item: "immersiveengineering:component_electronic"
+					type: "item"
+				}
+				{
+					id: "1A85D1F552C71DFB"
+					item: "immersiveengineering:component_electronic_adv"
+					type: "item"
+				}
+				{
+					id: "28D2F8C2DBD6F77A"
+					item: "immersiveengineering:logic_circuit"
+					type: "item"
+				}
+			]
+			title: "One (1) ULV Circuit"
+			x: 6.5d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"7F547C6C8CC1328F"
+				"003E374B8B915CB9"
+			]
+			description: [
+				"Place this under a mana pool, and it will transmute certain items thrown inside!"
+				""
+				"A good amount of transmutations are part of cyclical loops."
+				"Example: Cod -> Salmon -> Tropical Fish -> &ePufferfish&r -> Cod"
+			]
+			id: "080D76D1638818DE"
+			rewards: [{
+				id: "51C34AFAEC29B32E"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "450720739C379612"
+				item: "botania:alchemy_catalyst"
+				type: "item"
+			}]
+			title: "Full Mana Alchemist"
+			x: -7.5d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"06B6BFB0D1106B34"
+				"36D7F43B1E51F721"
+			]
+			description: ["And as usual, write it all down."]
+			id: "28DE7A5DED1FF0C1"
+			rewards: [{
+				id: "00B7B336249053BC"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "009F36AC39F6ECA3"
+					item: "nyagibits_bytes:lexicon_with_mbc_data"
+					type: "item"
+				}
+				{
+					id: "6C37977E2CFBC9AB"
+					item: "nyagibits_bytes:lexicon_with_sumad_data"
+					type: "item"
+				}
+			]
+			title: "Basic Arcana Test Lexicons"
+			x: -7.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["004C5BBDCDBA33BA"]
+			description: [
+				"These thingabamobs can be reconfigured into a wide array of redstone logic components."
+				""
+				"&cLooks like it could really come in handy later on..."
+			]
+			id: "2D6237D40061E766"
+			rewards: [{
+				id: "6FAA604A9B4986AB"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "36674D000E10C664"
+				item: "vintageimprovements:redstone_module"
+				type: "item"
+			}]
+			title: "Yup, that's redstone engineering, alright"
+			x: 9.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["64B7C87F4FB6406C"]
+			description: [
+				"Bulk crafting is good."
+				"Automation is better."
+				""
+				"Make a bunch of these, and automate components made in the Engineer's Workbench!"
+			]
+			icon: "immersiveengineering:auto_workbench"
+			id: "7CB40D8055D58D51"
+			rewards: [{
+				id: "3360E902EDE19BF9"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "102594B334AF61FD"
+					item: "create:brass_casing"
+					type: "item"
+				}
+				{
+					id: "0AF3A446E631C752"
+					item: "create:redstone_contact"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "1C0A34320FD02A5C"
+					item: "nyagibits_bytes:steel_casing"
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "190D780066A96070"
+					item: "immersiveengineering:alu_scaffolding_standard"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "1537BED931791CC3"
+					item: "immersiveengineering:slab_treated_wood_horizontal"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "7F18B2FCE439A974"
+					item: "immersiveengineering:conveyor_basic"
+					type: "item"
+				}
+			]
+			title: "The Nauvis Experience"
+			x: 8.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["57C915CC52E428B6"]
+			description: [
+				"It's time to get some &bCRUDE OIL&r."
+				"We'll need lubricant for crafting and fuel for our engines."
+				""
+				"However, we need some lubricant to get oil in the first place, so for now, just blend some creosote and steel grade coke, close enough."
+				""
+				"When you're done, pipe that into a distillation tower to separate it into its various parts."
+				"&eENSURE VERTICAL CLEARANCE FIRST"
+			]
+			icon: "immersivepetroleum:distillation_tower"
+			id: "247B763D4F03257C"
+			tasks: [
+				{
+					count: 13L
+					id: "5EBD484EFBEA7D13"
+					item: "immersiveengineering:storage_steel"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "0290D57EDA040B85"
+					item: "immersiveengineering:heavy_engineering"
+					type: "item"
+				}
+				{
+					id: "4A409D6769CAE50D"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					count: 60L
+					id: "695AACFB78368B2F"
+					item: "immersiveengineering:sheetmetal_iron"
+					type: "item"
+				}
+				{
+					count: 12L
+					id: "6A0702E4C135B98E"
+					item: "immersiveengineering:steel_scaffolding_standard"
+					type: "item"
+				}
+				{
+					count: 30L
+					id: "272E675FFBE8ACF6"
+					item: "immersiveengineering:slab_steel_scaffolding_standard"
+					type: "item"
+				}
+				{
+					count: 17L
+					id: "6F83845AAA8AC5CD"
+					item: "immersiveengineering:fluid_pipe"
+					type: "item"
+				}
+			]
+			title: "No more hours of EBF time"
+			x: 11.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["66B145565EE4836D"]
+			description: [
+				"Under the bedrock, there's fluid reservoirs you can tap into."
+				"Some are water, some are lava. And some are glorious black gold (oil)."
+				""
+				"To locate them, place down the &eSeismic Survey Tool&r and load it up with a buckshot cartridge."
+				""
+				"Then interact with the tool. It will give you a map of nearby reservoirs. It is a 64x64 square, centered on the tool."
+				"White areas represent reservoirs."
+				""
+				"If you instead placed the tool ON a reservoir, you will get a survey reading with information about the reservoir."
+			]
+			id: "61BB0BE47F3A6F46"
+			rewards: [{
+				id: "4B78D79215BC1CA7"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6B8041D66204E8F5"
+					item: "immersivepetroleum:seismic_survey"
+					type: "item"
+				}
+				{
+					id: "3EEF0A638173B2C2"
+					item: "immersiveengineering:buckshot"
+					type: "item"
+				}
+			]
+			title: "Digita, Orava \\& Koni"
+			x: 10.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["61BB0BE47F3A6F46"]
+			description: [
+				"Before you start drilling, &6PREPARE ENOUGH FLUID STORAGE."
+				""
+				"No, really. Look at the reservoir amount, and make at least half that in oil tanks or other fluid storage."
+				""
+				"(You can use interfaces and fluid cells if you want, but a row of oil tank does look cool and industrial. Consult the manual on proper usage)"
+			]
+			icon: "immersivepetroleum:oiltank"
+			id: "5DEF56EF65A1EAF8"
+			rewards: [{
+				id: "114F0749C9C1FB4F"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1EA9579F348A7FF9"
+				title: "I acknowledge that i need\\nimmediate fluid storage\\nand promise to not complain\\nwhen i inevitably forget and\\nlose tons of oil."
+				type: "checkmark"
+			}]
+			title: "Full of OYUL"
+			x: 10.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["5DEF56EF65A1EAF8"]
+			description: [
+				"Once you have everything in place, build a &bDerrick&r over the spot you want to drill."
+				"Supply it with power, liquid concrete, water and fluid pipes."
+				""
+				"&6Connect your fluid storage to it before it finishes drilling!"
+				""
+				"The moment it finishes drilling, fluid will start rushing out of the output."
+				""
+				"I guess now would be a good moment to mention that it will NOT stop until the reservoir is at half capacity. Hope you brought enough storage, i told you!"
+			]
+			icon: "thermal:crude_oil_bucket"
+			id: "2A7872F50D8B06DE"
+			tasks: [
+				{
+					count: 17L
+					id: "3E0518579B8AA98B"
+					item: "immersiveengineering:storage_steel"
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "0280C9C724D3B1A9"
+					item: "immersiveengineering:heavy_engineering"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "69C4AF50D3CDB60A"
+					item: "immersiveengineering:light_engineering"
+					type: "item"
+				}
+				{
+					id: "2E2BD8BF60C12E9A"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "3CDC160B09E5B46E"
+					item: "immersiveengineering:steel_scaffolding_standard"
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "3D7C05824B2D70FC"
+					item: "immersiveengineering:steel_fence"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "7D5CA83A0FF1E346"
+					item: "immersiveengineering:slab_steel_scaffolding_standard"
+					type: "item"
+				}
+				{
+					count: 9L
+					id: "4D7D1F71F972ED9D"
+					item: "immersiveengineering:fluid_pipe"
+					type: "item"
+				}
+			]
+			title: "Strike the Earth! Or well, bedrock."
+			x: 8.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"2A7872F50D8B06DE"
+				"19B0AEB26A2D2EE4"
+			]
+			description: [
+				"After the reservoir's pressure drops low enough that the derrick stops outputting, you can dismantle it."
+				"A wellhead will be left behind, &6DO NOT BREAK IT."
+				""
+				"Instead, build a &bPumpjack&r over it! It will slowly extract the rest of the reservoir."
+				""
+				"Once a reservoir gets low enough, it will start replenishing up to a minimum level, meaning you can just leave the pumpjack there and keep extracting the liquid black gold."
+			]
+			icon: "immersivepetroleum:pumpjack"
+			id: "2649BAE4AC7E8259"
+			rewards: [{
+				id: "5B00BAE7F30DB348"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 15L
+					id: "0A9BEE7442590455"
+					item: "immersiveengineering:storage_steel"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "225A8F8B00791B29"
+					item: "immersiveengineering:heavy_engineering"
+					type: "item"
+				}
+				{
+					id: "318817D50F29BFA3"
+					item: "immersiveengineering:rs_engineering"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "7A0A9AFC521CAE42"
+					item: "nyagibits_bytes:block_of_1080_high_carbon_steel"
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "3118C8F63D29EECA"
+					item: "immersiveengineering:treated_fence"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "2916FD2ABA5C395A"
+					item: "immersiveengineering:fluid_pipe"
+					type: "item"
+				}
+			]
+			title: "She pump on my j- ok it's not funny anymore."
+			x: 7.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["004C5BBDCDBA33BA"]
+			description: [
+				"The projector lets you choose a multiblock and show a hologram of the blocks in-world."
+				"See exactly what you need to place down without having to look at the manual all the time."
+				""
+				"You should read the manual though, you could find special uses for some things..."
+				"Still. Make the projector and save yourself some of the hassle."
+			]
+			id: "21FACDF7A17D4CEB"
+			rewards: [{
+				id: "436E471435F552AB"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "66B0BAA4E4001215"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 0
+						}
+					}
+					id: "immersivepetroleum:projector"
+				}
+				type: "item"
+			}]
+			title: "How do you build this multiblock again?"
+			x: 9.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["4ABA1A64E5BE1E94"]
+			description: [
+				"Slag and Rich Slag can be processed into some very useful stuff!"
+				""
+				"With slag gravel, you can make concrete, or plant kelp on it to boost its growth. Yes, really."
+				""
+				"Slag glass lets less light through and is used to insulate MV wires"
+			]
+			id: "6DF50A424345839D"
+			rewards: [{
+				id: "44DFD40486E4FBD5"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "7CC67D89BF02A639"
+					item: "thermal:slag"
+					type: "item"
+				}
+				{
+					id: "1C001F00A264A2E3"
+					item: "thermal:rich_slag"
+					type: "item"
+				}
+				{
+					id: "05D67701EBFD6E66"
+					item: "immersiveengineering:slag_gravel"
+					type: "item"
+				}
+				{
+					id: "589759492808786B"
+					item: "immersiveengineering:slag_glass"
+					type: "item"
+				}
+			]
+			title: "Slag Is Not Trash!"
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3DEB55D883E126E6"]
+			description: ["After quenching the &eThermalily mush&r and crushing it with immense force this strange highly compacted volcanic glass is revealed within. It seems that attempting to &ecrush it further&r causes an unatural amount of powder to flake off while the shard mostly remains intact"]
+			id: "51796E30BAC6C264"
+			rewards: [{
+				id: "5E1B9A9F86D1B143"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "650839A30069C6E4"
+				item: "nyagibits_bytes:mana_imbued_obsidian_shard"
+				type: "item"
+			}]
+			title: "Glowstick For The Vocaloid Concert"
+			x: 0.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["3DEB55D883E126E6"]
+			description: ["Denaturing and neutralizing the &eMunchdew Mush&r leaves behind a very potent form of sugar. This sugar seems to dramatically affect the growth rate of &6microbial life&r. Time to get absurdly &ddrunk&r"]
+			id: "18ADFE4041E3A4C8"
+			rewards: [{
+				id: "72212B096C238B9C"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "55B403FC0526ADA4"
+				item: "nyagibits_bytes:mana_imbued_glucose_crystal"
+				type: "item"
+			}]
+			title: "A Jawbreaker You Will Actually Finish"
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["3DEB55D883E126E6"]
+			description: ["Mixing in some starch with the &eHydrangea Mush&r gives this goopy stuff that is a bizarrely tough substance that hardens when pressured and liquifies when left alone. The mana present within the substance appears to aid in the solidification of &aglues and sealing materials&r as well, while itself barely being consumed"]
+			id: "167D155667D483BB"
+			rewards: [{
+				id: "46C9C4098888D5CB"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0983F0AD8A191586"
+				item: "nyagibits_bytes:mana_imbued_oobleck"
+				type: "item"
+			}]
+			title: "Da Goop"
+			x: -1.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["3DEB55D883E126E6"]
+			id: "402D0B637DFB19CA"
+			rewards: [{
+				id: "04791CA91A778134"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "69556D181B5194E0"
+				item: "nyagibits_bytes:mana_imbued_primary_explosive"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["3DEB55D883E126E6"]
+			id: "072820BBE1B7ABD3"
+			rewards: [{
+				id: "3550D2F8EEC56709"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0AD4E399094D4D0B"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["66DDC75CB8C3D557"]
+			description: [
+				"The Coiling Machine!"
+				""
+				"After all your hard work you get the immense joy of... &bmaking springs&r"
+				""
+				"The coiler is also capable of flattening other bits of metal too, like &esandwiches&r"
+			]
+			id: "538D53C172321F33"
+			rewards: [{
+				id: "58DA632594D75DD8"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3E2FB890FCD72C86"
+				item: "vintageimprovements:spring_coiling_machine"
+				type: "item"
+			}]
+			title: "Will It Flatten?"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["538D53C172321F33"]
+			description: [
+				"Your first real &bbattery&r. NiCd's are known for their high reliability maintaining high performance for a long time. "
+				""
+				"Now you may be some fun hating environmentalist saying cadmium is toxic or whatever but I can assure you &cthat does not matter here..."
+			]
+			id: "15C8DE8540CCA057"
+			rewards: [{
+				id: "46FB5D9E78EAE5C8"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "37337A21CF7EDF1A"
+				item: "nyagibits_bytes:nicd_battery_bank"
+				type: "item"
+			}]
+			title: "Very Powerful, Very Toxic"
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["15C8DE8540CCA057"]
+			description: [
+				"Placing &bEnergy Cells&r on your network connecting to a wire will allow the cell to connect and function as &aenergy storage&r for your system"
+				""
+				"Energy cells also retain their charge when broken. Might be useful to stash a few for &6blackout prevention&r"
+			]
+			id: "1657BE3C80A2517E"
+			rewards: [{
+				id: "04947C2B914211E1"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "671608856FD75836"
+				item: {
+					Count: 1b
+					id: "ae2:energy_cell"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "Latent Energy"
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"1657BE3C80A2517E"
+				"4469B83C42AADAE0"
+			]
+			description: ["Wirelessly &eaccessing your items&r wirelessly with wireless technology driven wirelessly by wirelessly powered wireless corporea-tech and wired-charging of your &ewireless terminal&r connected wirelessly to a &esecurity terminal&r which is wired to your system that now has wireless connections to your wireless terminal"]
+			id: "28B7CCB9E6E6B1DD"
+			rewards: [{
+				id: "4AAD1B2DF6E6888E"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6CEC41061598096D"
+					item: "ae2:wireless_crafting_terminal"
+					type: "item"
+				}
+				{
+					id: "6362A43821DF64C5"
+					item: "ae2:wireless_receiver"
+					type: "item"
+				}
+				{
+					id: "6C991BCEC5FB311B"
+					item: "ae2:wireless_access_point"
+					type: "item"
+				}
+				{
+					id: "339819ECF0AF7E24"
+					item: "ae2:wireless_booster"
+					type: "item"
+				}
+				{
+					id: "425D690B628D4961"
+					item: "ae2:security_station"
+					type: "item"
+				}
+				{
+					id: "6B7777F527779B8C"
+					item: "ae2:biometric_card"
+					type: "item"
+				}
+			]
+			title: "Energy Bill Increaser"
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"7483F87F4311A3CA"
+				"5CBD2601022F5420"
+			]
+			description: [
+				"By the power of your industry you have created a &dCorporea Tunneler&r"
+				""
+				"This object is able to shuttle items much longer distances than the regular corporea range using energy"
+			]
+			id: "4469B83C42AADAE0"
+			rewards: [{
+				id: "3537BCA5B437977F"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1B1B6B20756EA6E4"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Corpa-fi 5G"
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"6147C880915EF20D"
+				"402D0B637DFB19CA"
+			]
+			id: "1CA760A59FE35544"
+			rewards: [{
+				id: "4ECFF8182F6819B7"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0B92F8668FD00C5C"
+				item: "nyagibits_bytes:rune_velocity"
+				type: "item"
+			}]
+			title: "Nyooooom"
+			x: -3.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["1CA760A59FE35544"]
+			id: "3F993B3BFCADC86E"
+			rewards: [{
+				id: "107C21687B527829"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "628A7692164D9B46"
+				item: {
+					Count: 1b
+					id: "botania:flight_tiara"
+					tag: {
+						variant: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "I Believe I Can F- My Manaaaa"
+			x: -5.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["2D6237D40061E766"]
+			description: [
+				"Each &cRed Stringed&r block connects to a specific type of block, up to 8 blocks away and remotely interacts with it."
+				"Note that this connection can go through other blocks, including other red stringed blocks."
+				""
+				"Pretty useful for unique automation setups. &cContainers&r let you input/output items from further away. &cSpoofers&r let you shift a flower's area of effect, or perhaps concentrate a bunch of flowers' effects in one spot."
+				""
+				"&aAll red stringed blocks are explained in the Lexica Botania!"
+			]
+			id: "0DF4A5D93043E618"
+			rewards: [{
+				id: "6676B70F47AF6E38"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6A9F50667CE9ED14"
+					item: "botania:red_string_container"
+					type: "item"
+				}
+				{
+					id: "5B91F678A7F77F3C"
+					item: "botania:red_string_dispenser"
+					type: "item"
+				}
+				{
+					id: "131D2E3C3888714D"
+					item: "botania:red_string_fertilizer"
+					type: "item"
+				}
+				{
+					id: "70035DCB63DE58A1"
+					item: "botania:red_string_comparator"
+					type: "item"
+				}
+				{
+					id: "7C036D820DA3E03A"
+					item: "botania:red_string_relay"
+					type: "item"
+				}
+				{
+					id: "25493A20970ADA22"
+					item: "botania:red_string_interceptor"
+					type: "item"
+				}
+			]
+			title: "Superposition!? How does that even w- ooo pretty string"
+			x: 8.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5B109E7F50E8EBC2"]
+			description: [
+				"Yes, That is &aCorrect&r, This is not a typo"
+				""
+				"Steam Engines are buffed to high hell, enjoy!"
+				""
+				"Oh and minor note, they are used to produce &bAir Runes&r so get to it buddy"
+			]
+			id: "1BBAE9C94DC2A0F8"
+			rewards: [{
+				id: "7710DA188353C480"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "600B14D13567A260"
+				item: "create:steam_engine"
+				type: "item"
+			}]
+			title: "4 Million SU?!"
+			x: 6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["61BB0BE47F3A6F46"]
+			id: "3F03967719FCBD5D"
+			tasks: [{
+				id: "0E838525782B04AA"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 21
+						}
+					}
+					id: "immersiveengineering:revolver"
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["61BB0BE47F3A6F46"]
+			description: ["Cordite Line - Future Ozy gun implementation"]
+			id: "07BB274AC9656DA0"
+			tasks: [{
+				id: "7C2DDFE18C712B44"
+				item: "ftbquests:missing_item"
+				type: "item"
+			}]
+			title: "Cording my ite"
+			x: 8.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0DF4A5D93043E618"]
+			description: [
+				"Entangled blocks can be connected to any complex block, and will behave like it's that block."
+				""
+				"&eThere is no range limit. Go nuts."
+			]
+			id: "24F3BADD3B1AEE0F"
+			rewards: [{
+				id: "0BFED3C800FD7845"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "69C59A42783E3B96"
+					item: {
+						Count: 1b
+						id: "entangled:block"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "046D31A807171B9D"
+					item: {
+						Count: 1b
+						id: "entangled:item"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "This is where the shenanigans truly begin"
+			x: 7.5d
+			y: -2.5d
 		}
 	]
 	subtitle: ["Machines greased with mana"]
