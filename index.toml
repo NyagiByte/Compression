@@ -16219,9 +16219,8 @@ hash = "a64a7f239c438513d1f92766d353cfe547b9a03eaa33b53c937e179bac2ca406"
 metafile = true
 
 [[files]]
-file = "mods/nyagis-bits-bytes.pw.toml"
-hash = "b1aa06c568d1d833ce3501cb4b397ee5b2850727e79c1bf42878feca065d2b88"
-metafile = true
+file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
+hash = "16a4656c4dd365ec8cd7db770a05284828d17c779afc7638999a1601a02f101e"
 
 [[files]]
 file = "mods/oculus.pw.toml"
