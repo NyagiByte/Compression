@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "mob": "minecraft:skeleton",
+    "result": "deny"
+  }
+]
