@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "chemlib:nickel_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "chemlib:nickel_plate"
+    }
+  ]
+}

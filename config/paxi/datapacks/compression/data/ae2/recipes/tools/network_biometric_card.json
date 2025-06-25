@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "A": {"item":"immersiveengineering:plate_steel"},
+        "B": {"item":"immersiveengineering:plate_duroplast"},
+        "C": {"item":"nyagibits_bytes:etched_redstone_plate"},
+        "D": {"item":"nyagibits_bytes:solenoid_component"},
+        "E": {"item":"ae2:logic_processor"},
+        "F": {"tag":"ae2:memory_cards"},
+        "G": {"item":"nyagibits_bytes:nicd_battery"}
+    },
+    "pattern": [
+      "ABA",
+      "CDA",
+      "EFG"
+    ],
+    "result": {
+      "item": "ae2:biometric_card"
+    }
+  }

@@ -6,6 +6,5 @@
     ],
     "results": [
       {"fluid": "nyagibits_bytes:wet_biodiesel_fluid", "amount": 2500}
-    ],
-    "processingTime": 200
+    ]
 }

@@ -1202,6 +1202,8 @@
 
 		{"namespace": "ae2", "path": "recipes/blasting/sky_stone_block.json"},
 
+		{"namespace": "ae2", "path": "recipes/network/wireless_terminal.json"},
+		{"namespace": "ae2", "path": "recipes/network/upgrade_wireless_crafting_terminal.json"},
 		{"namespace": "ae2", "path": "recipes/network/cables/dense_smart_from_smart.json"},
 
 		{"namespace": "ae2", "path": "recipes/tools/misctools_charged_staff.json"},

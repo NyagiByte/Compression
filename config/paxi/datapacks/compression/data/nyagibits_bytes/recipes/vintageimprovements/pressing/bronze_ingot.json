@@ -1,0 +1,13 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+      {
+        "item": "thermal:bronze_ingot"
+      }
+    ],
+    "results": [
+      {
+        "item": "thermal:bronze_plate"
+      }
+    ]
+  }

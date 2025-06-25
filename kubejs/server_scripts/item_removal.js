@@ -49,7 +49,6 @@ ServerEvents.recipes(e => {
     //Sequenced Assembly
         //To-be-added
             e.remove({output: 'ae2:wireless_access_point'});
-            e.remove({output: 'ae2:security_station'});
             e.remove({output: 'ae2:quantum_ring'});
             e.remove({output: 'ae2:quantum_link'});
             e.remove({output: 'ae2:spatial_pylon'});
@@ -77,9 +76,6 @@ ServerEvents.recipes(e => {
             e.remove({output: 'ae2:item_storage_cell_16k'});
             e.remove({output: 'ae2:item_storage_cell_64k'});
             e.remove({output: 'ae2:item_storage_cell_256k'});
-            e.remove({output: 'ae2:wireless_terminal'});
-            e.remove({output: 'ae2:wireless_crafting_terminal'});
-            e.remove({output: 'ae2:biometric_card'});
             e.remove({output: 'ae2:wireless_receiver'});
             e.remove({output: 'ae2:wireless_booster'});
             e.remove({output: 'ae2:pattern_encoding_terminal'});
@@ -173,7 +169,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:invisibility_cloak'});
         e.remove({output: 'botania:third_eye'});
         e.remove({output: 'botania:diva_charm'});
-        e.remove({output: 'botania:flight_tiara'});
         e.remove({output: 'botania:laputa_shard'});
         e.remove({output: 'botania:spark'});
         e.remove({output: 'botania:spark_upgrade_dispersive'});

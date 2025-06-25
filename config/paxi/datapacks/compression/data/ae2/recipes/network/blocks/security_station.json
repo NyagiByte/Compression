@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "A": {"item":"immersiveengineering:sheetmetal_colored_orange"},
+        "B": {"tag":"ae2:smart_cable"},
+        "C": {"item":"ae2:chest"},
+        "D": {"item":"immersiveengineering:plate_steel"},
+        "E": {"item":"immersiveengineering:logic_circuit"}
+    },
+    "pattern": [
+      "AAA",
+      "BCD",
+      "DED"
+    ],
+    "result": {
+      "item": "ae2:security_station"
+    }
+  }

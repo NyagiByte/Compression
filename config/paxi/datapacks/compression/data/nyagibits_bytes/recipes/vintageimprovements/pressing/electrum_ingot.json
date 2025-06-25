@@ -1,0 +1,13 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+      {
+        "item": "thermal:electrum_ingot"
+      }
+    ],
+    "results": [
+      {
+        "item": "thermal:electrum_plate"
+      }
+    ]
+  }

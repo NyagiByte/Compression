@@ -1,0 +1,13 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+      {
+        "item": "thermal:constantan_ingot"
+      }
+    ],
+    "results": [
+      {
+        "item": "thermal:constantan_plate"
+      }
+    ]
+  }
