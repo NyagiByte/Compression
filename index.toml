@@ -3414,7 +3414,7 @@ hash = "5d8eb7e66e7721a8c013d31cb69bb75c39ec989adfd9cbb576febb07e195804e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "fa237294f17c56db7ea1558563c4a4bab08fb6cadb61f92beeaf17f58fcdbd10"
+hash = "cd7bb7d68c24232fb153bf74004d2f82677654efa343639d6159533399ee08d2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/cb_microblock/recipes/diamond_saw.json"
