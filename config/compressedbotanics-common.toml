@@ -14,3 +14,5 @@
 	#The chance that a Cocoon of Caprice spawns from the rare list instead of the common list. Default is 0.075 or 7.5%
 	#Range: 0.0 ~ 1.0
 	"Cocoon Rare Chance" = 0.075
+	#Whether to disable runes being returned from runic altar recipes
+	"Disable Runic Altar Rune Refund" = true

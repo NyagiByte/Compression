@@ -346,7 +346,7 @@ hash = "b13e02a527636c1905b4e19cf6505bdb55362500d096a6cd01c661d033331362"
 
 [[files]]
 file = "config/compressedbotanics-common.toml"
-hash = "f0cee423158ff654dbaffdadee1aac025a2258ca5d9a7002c798ba08bdcf56be"
+hash = "f3024f3c9e9c100b7ee21213cd90548874f6011d8918e06aea1b5e945ad6c086"
 
 [[files]]
 file = "config/compressedengineering-common.toml"
@@ -15804,7 +15804,7 @@ metafile = true
 
 [[files]]
 file = "mods/compressed-botanics.pw.toml"
-hash = "0ea18e0234135b2ab094459044fa69d9efad3e005af74d263c0b87b64c6a58be"
+hash = "c9abc39e1ea553d6325111e04e70dd95bb3773c5c437da52fcf449e38e7c8adf"
 metafile = true
 
 [[files]]
