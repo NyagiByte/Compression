@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"botania:mana_glass"},
+    "B": {"item":"thermal:cured_rubber"}
+  },
+  "pattern": [
+    " B ",
+    "A A",
+    " A "
+  ],
+  "result": {
+    "count": 64,
+    "item": "minecraft:glass_bottle"
+}
+}
