@@ -48,13 +48,11 @@ ServerEvents.recipes(e => {
             e.remove({type: 'mekanism:purifying' }),
     //Sequenced Assembly
         //To-be-added
-            e.remove({output: 'ae2:wireless_access_point'});
             e.remove({output: 'ae2:quantum_ring'});
             e.remove({output: 'ae2:quantum_link'});
             e.remove({output: 'ae2:spatial_pylon'});
             e.remove({output: 'ae2:spatial_io_port'});
             e.remove({output: 'ae2:condenser'});
-            e.remove({output: 'ae2:energy_cell'});
             e.remove({output: 'ae2:dense_energy_cell'});
             e.remove({output: 'ae2:crafting_unit'});
             e.remove({output: 'ae2:crafting_accelerator'});
@@ -76,8 +74,6 @@ ServerEvents.recipes(e => {
             e.remove({output: 'ae2:item_storage_cell_16k'});
             e.remove({output: 'ae2:item_storage_cell_64k'});
             e.remove({output: 'ae2:item_storage_cell_256k'});
-            e.remove({output: 'ae2:wireless_receiver'});
-            e.remove({output: 'ae2:wireless_booster'});
             e.remove({output: 'ae2:pattern_encoding_terminal'});
             e.remove({output: 'ae2:cabel_pattern_provider'});
             e.remove({output: 'ae2:pattern_access_terminal'});
@@ -232,7 +228,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:homing'});
         e.remove({output: 'immersiveengineering:wolfpack'});
         e.remove({output: 'immersiveengineering:jerrycan'});
-        e.remove({output: 'immersiveengineering:blueprint'});
         e.remove({output: 'immersiveengineering:graphite_electrode'});
         e.remove({output: 'immersiveengineering:fluorescent_tube'});
         e.remove({output: 'immersiveengineering:powerpack'});
