@@ -1290,7 +1290,7 @@ hash = "f84d6f65c09c488213adacea128636ad08cf78266734d726777cf831aad48222"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/cells/item_storage_components_cell_4k_part.json"
-hash = "c25ca83573b9273ed8b49f4899809969186186273feb85e7ffe5a06c3ba59464"
+hash = "3393a47525a701c72c35131d30ea573f504080638926e8d2ae7489830e5acb29"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/ae2/recipes/network/crafting/patterns_blank.json"
@@ -7097,10 +7097,6 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/craf
 hash = "4a58e7b8779607fb9fd83ceb126cf4e2fbbf0a7df482bb3f6efe8b35790b7448"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/plate_aluminum_hammering.json"
-hash = "34e0b9fc06717bad6c15809ca9844d989795b6f7a54b91d4213ac603c3dc9615"
-
-[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/plate_steel_hammering.json"
 hash = "9efba00b7be3dc541e94a113edbcb0ee362c3a2b8355f0dd4541e25e6f0146c9"
 
@@ -7819,6 +7815,18 @@ hash = "0278ad5d9cccc16324c494d82c4922d5ea71124344f1d98447483f07bb3f9201"
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/glass.json"
 hash = "29659f5fdebcdf74a0c9c7b1c6f9406b21cb5cf4c2e29b1d72449849d365d22c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/glass_bottle_t1.json"
+hash = "6139625ff33ff411f210b2a7ea977754c734bdaa449dce134cebd65a5328d98f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/glass_bottle_t2.json"
+hash = "0f9678a479c777273da404ffc438c3cff743475186ff1d43929cd38a08e39c59"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/glass_bottle_t3.json"
+hash = "cac71832c901d48e4559b61693db72acf38c53f8aba373668b53531de27af782"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/gray_concrete_powder.json"
