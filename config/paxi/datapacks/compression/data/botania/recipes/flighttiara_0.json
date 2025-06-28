@@ -1,0 +1,46 @@
+{
+  "type": "botania:runic_altar",
+  "ingredients": [
+    {
+      "item": "botania:manaweave_cloth"
+    },
+    {
+      "item": "botania:manaweave_cloth"
+    },
+    {
+      "item": "nyagibits_bytes:fume_fan"
+    },
+    {
+      "item": "botania:rune_air"
+    },
+    {
+      "item": "minecraft:elytra"
+    },
+    {
+      "item": "botania:rune_air"
+    },
+    {
+      "item": "nyagibits_bytes:fume_fan"
+    },
+    {
+      "item": "botania:manaweave_cloth"
+    },
+    {
+      "item": "botania:manaweave_cloth"
+    },
+    {
+      "item": "ae2:pink_lumen_paint_ball"
+    },
+    {
+      "item": "nyagibits_bytes:botania_assembly"
+    }
+  ],
+  "mana": 100000,
+  "catalyst": {
+    "item": "nyagibits_bytes:rune_velocity"
+  },
+  "output": {
+    "count": 1,
+    "item": "botania:flight_tiara"
+  }
+}

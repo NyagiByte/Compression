@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"botania:corporea_spark_master"},
+      "B": {"item":"nyagibits_bytes:manasteel_lattice"},
+      "C": {"item":"ae2:fluix_crystal"},
+      "D": {"item":"botania:monocle"},
+      "E": {"item":"nyagibits_bytes:blank_blueprint"}
+    },
+    "pattern": [
+      " A ",
+      "BEC",
+      " D "
+    ],
+    "result": {
+        "item":"immersiveengineering:blueprint",
+        "nbt":{"blueprint":"magitech"}
+    }
+}

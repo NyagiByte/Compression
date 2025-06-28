@@ -1,0 +1,34 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "nyagibits_bytes:ae2_assembly"},
+  "loops": 1,
+  "results": [
+    {
+        "count": 4,
+        "item": "ae2:energy_cell"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "nyagibits_bytes:incomplete_energy_cell"},
+        {"item": "nyagibits_bytes:nicd_battery_bank"}  
+      ],
+      "results": [
+        {"item": "nyagibits_bytes:incomplete_energy_cell"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "nyagibits_bytes:incomplete_energy_cell"},
+        {"item": "nyagibits_bytes:ae2_schematic"}
+      ],
+      "results": [
+        {"item": "nyagibits_bytes:incomplete_energy_cell"}
+      ]
+    }
+  ],
+  "transitionalItem": {"item": "nyagibits_bytes:incomplete_energy_cell"}
+}

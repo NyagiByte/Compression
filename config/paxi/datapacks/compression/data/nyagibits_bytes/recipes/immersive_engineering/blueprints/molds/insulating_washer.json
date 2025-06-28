@@ -1,0 +1,17 @@
+{
+    "type":"immersiveengineering:blueprint",
+    "category":"molds",
+    
+    "inputs":[
+        {
+            "base_ingredient":{
+                "item":"immersiveengineering:plate_steel"},
+                "count":3},
+        {
+            "base_ingredient":{
+                "item":"immersiveengineering:wirecutter"},
+                "count":1}
+            ],
+    "result":{
+            "item":"nyagibits_bytes:mold_insulating_washer"
+        }}

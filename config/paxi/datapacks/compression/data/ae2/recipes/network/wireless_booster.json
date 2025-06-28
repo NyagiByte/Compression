@@ -1,0 +1,18 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {"item": "ae2:fluix_wall"},
+      "B": {"item": "ae2:engineering_processor"},
+      "C": {"item": "immersiveengineering:plate_steel"},
+      "D": {"item": "nyagibits_bytes:corporea_tunneler"},
+      "E": {"item": "ae2:fluix_slab"}
+    },
+    "pattern": [
+      "A A",
+      "ABA",
+      "CDC",
+      "CEC"
+    ],
+    "result": {"item": "ae2:wireless_booster"}
+  }

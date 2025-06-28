@@ -1,0 +1,28 @@
+{
+  "type": "botania:runic_altar",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:rune_catalytic"
+    },
+    {
+      "item": "nyagibits_bytes:mini_mana_driven_kiwi"
+    },
+    {
+      "item": "botania:lens_speed"
+    },
+    {
+      "item": "ae2:speed_card"
+    },
+    {
+      "item": "ae2:magenta_lumen_paint_ball"
+    }
+  ],
+  "mana": 30000,
+  "catalyst": {
+    "item": "create:super_glue"
+  },
+  "output": {
+    "count": 1,
+    "item": "nyagibits_bytes:rune_velocity"
+  }
+}

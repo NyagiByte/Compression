@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "A": {"item":"ae2:wireless_access_point"},
+        "B": {"item":"immersiveengineering:plate_steel"},
+        "C": {"item":"ae2:wireless_booster"},
+        "D": {"item":"ae2:crafting_terminal"},
+        "E": {"item":"botania:auto_crafting_halo"},
+        "F": {"item":"botania:corporea_index"},
+        "G": {"item":"ae2:energy_cell"}
+    },
+    "pattern": [
+      "ABB",
+      "CDE",
+      "FGB"
+
+    ],
+    "result": {
+      "count": 1,
+      "item": "ae2:wireless_crafting_terminal"
+    }
+  }
