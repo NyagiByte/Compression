@@ -1,0 +1,20 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "thermal:raw_silver"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "count": 1,
+        "item": "create:crushed_raw_silver"
+      },
+      {
+        "chance": 0.25,
+        "count": 1,
+        "item": "create:crushed_raw_silver"
+      }
+    ]
+  }

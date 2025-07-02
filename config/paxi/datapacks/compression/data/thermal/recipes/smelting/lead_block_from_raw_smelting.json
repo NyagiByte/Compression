@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 6.3,
+  "ingredient": {
+    "tag": "forge:storage_blocks/raw_lead"
+  },
+  "result": "chemlib:lead_metal_block"
+}
