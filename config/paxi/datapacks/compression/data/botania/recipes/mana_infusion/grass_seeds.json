@@ -1,0 +1,21 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "quark:moss_paste"
+    },
+    {
+      "item": "minecraft:grass"
+    },
+    {
+      "item": "botania:fertilizer"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "botania:grass_seeds"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}
