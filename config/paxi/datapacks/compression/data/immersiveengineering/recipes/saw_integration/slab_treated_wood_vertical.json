@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "count": 2,
+    "ingredient": {
+      "item": "immersiveengineering:treated_wood_vertical"
+    },
+    "result": "immersiveengineering:slab_treated_wood_vertical"
+  }
