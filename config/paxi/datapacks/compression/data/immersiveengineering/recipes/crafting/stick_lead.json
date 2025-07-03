@@ -1,0 +1,44 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "immersiveengineering:sheetmetal_lead"},
+    "loops": 1,
+    "results": [
+      {
+        "count": 8,
+        "item": "vintageimprovements:lead_rod"
+    }
+    ],
+    "sequence": [
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "immersiveengineering:sheetmetal_lead"
+          }
+        ],
+        "processingTime": 60,
+        "results": [
+          {
+            "item": "immersiveengineering:sheetmetal_lead"
+          }  
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "immersiveengineering:sheetmetal_lead"
+          },
+          {
+            "item": "nyagibits_bytes:acetylene_tank"
+          }  
+    ],
+        "results": [
+          {
+            "item": "immersiveengineering:sheetmetal_lead"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {"item": "immersiveengineering:sheetmetal_lead"}
+  }
