@@ -2677,6 +2677,10 @@ file = "config/paxi/datapacks/compression/data/botania/recipes/mana_gun_t1.json"
 hash = "481e072b632f5f102ab3d8c6170b91e0f10999cd499aa984c284532088a4c666"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/mana_infusion/grass_seeds.json"
+hash = "eb3c6fbf97d8b3c7b608b2f82525be18dce5c998635bcbea723f2e42e14d334e"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_infusion/mana_diamond.json"
 hash = "d9454a9f5188cd12050e61eb6844a7bb13c15eff29f23d68c747c782112f74c3"
 
@@ -6841,6 +6845,10 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blas
 hash = "2ac8ff6c75f244a3868615cce1f91e470db59d0ad9bb09c6859ae2e96beddeea"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blueprint/bullet_buckshot.json"
+hash = "9f95a24a5bc99e78e2a06b89dc376c3f547ad218be8c1d9723c63db29f78aeb7"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blueprint/circuit_board.json"
 hash = "212dead418535f9e84880afa0c6e9510bbfd59939d9ef6fabab60062fd6432ce"
 
@@ -6927,6 +6935,10 @@ hash = "3708f08e96553089f0cb067c3b3cdc1e2400ca614792ea2864fc1fde2d1fe661"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blastfurnace_preheater.json"
 hash = "02a2ce003751ee947aaa385978bab81babbe95c628253df6de7949bfec4f4b6c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blueprint_bullets.json"
+hash = "eac2ee6c786a05c0793a891ba35cb1804c12b203d48ea0000963f9c88d6ddf71"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blueprint_components.json"
@@ -7041,6 +7053,14 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/craf
 hash = "266f8ac9e2e3afdb144cac65876e891c61f384f0629bbc1c163b19b74d8fc301"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/empty_shell.json"
+hash = "41ffec7b2a55e94852e8e44654d35b3bb9243543a0156762d3520dab62790cb0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/empty_shell_t1.json"
+hash = "5a784de3f7462c94fb047bff1ece03a32031d664d3d2b04d78db5f5506ff3522"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/ersatz_leather.json"
 hash = "6eaa7655836c592c3ed4a599dbc5a49d35bf5a7a684ea2d0b6d8874ae6c83f1b"
 
@@ -7139,6 +7159,10 @@ hash = "533c26c2c35c6b02d41d9d1c6616769951ccf5a4b7ef7666804e1c9f9b38c1e8"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/stick_iron.json"
 hash = "4edcf17c3a06116c997d90c9340a3be7d4824c99446aa6b50c5a7946d9336c6f"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/stick_lead.json"
+hash = "d1a7f8d11b45be25a71171406e22fe6f03ae9e065ff3961366c8c71ec979aa97"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/stick_steel.json"
@@ -7443,6 +7467,34 @@ hash = "dd47002df9c67b9c759e4bb83d50abdcd61c5f506ab9daad903dbdd331422375"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/refinery/chemlib_ethanol_to_acetaldehyde.json"
 hash = "ab3a8fcf1f4ee5145429a72238d1d468d7173c332447b3d712b9b933205a91d6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/saw_integration/slab_treated_wood_horizontal.json"
+hash = "a0b421a486fe752d11a19dc182a83c89f41d0a8349630842a9cea53a0d9e6c4a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/saw_integration/slab_treated_wood_packaged.json"
+hash = "79605b460a59b0087b6f39c18d778f039859ed93b52efc528a9b695cfa52552d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/saw_integration/slab_treated_wood_vertical.json"
+hash = "904cc8649ff981c0fdc203c79d00f36ab3cbf52d1861dbf3e4337a1cd29a5920"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/smelting/block_aluminum.json"
+hash = "0419c564c3b5434636e39d4c86904c3bf7819c4a7a0fa518174c53c2e5ba01c2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/smelting/block_aluminum_from_blasting.json"
+hash = "9abbbc451a9bafc76257877a76f1acd9a51aa5221565f9fe34185b7daf2a558b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/smelting/ingot_aluminum3.json"
+hash = "008942bff133f0b066df81b419b6b8c08a8f126ad50dccb4e059b1f1e792b128"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/smelting/ingot_aluminum_from_blasting3.json"
+hash = "c9735c91b409a3071f57687eaf7d4924131f979308445f0d00df38ba2b1bbccc"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/smelting/slag_glass_from_blasting.json"
@@ -8409,12 +8461,28 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "572f49daa482c970f40c400a4cca78f9f16a9609aa58035ccf2541072a3da7ac"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/raw_copper_to_crushed_copper.json"
+hash = "cdf2998c3e71201926c90e8de3077fd1f0b67e9c6147e51477dd3658c633c69e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/raw_gold_to_crushed_gold.json"
+hash = "907a8ca399821a149f60c321c231a025060892290972c7e8d54fd03a67b7d774"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/raw_iron_to_crushed_iron.json"
+hash = "7730b0769b615636c04227615c19934cec929c48cdbf7dcbd17ba7d1994c0997"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/raw_lead_to_crushed_lead.json"
 hash = "110197854e02a446887f89bf01834c4bf26e8357bceccb21bf418bda02ea11ab"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/raw_nickel_to_crushed_nickel.json"
 hash = "861d7fd41091d56fb171d4a366c3170620ef522613d3911060f53efaf8ed3de7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/raw_silver_to_crushed_silver.json"
+hash = "dd53f4c93e5e4ce2d40d5ee6c20bb843b144afb2f36891777a951dc6c38ecd6b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/raw_tin_to_crushed__tin.json"
@@ -9119,6 +9187,10 @@ hash = "c4e8517ea057dd341c04bfbe08ea0e1831884ee12765e96e6a170baa02c69cf6"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/saw_cutting/bad_iron_rod.json"
 hash = "acba8352afec32ceaa4a742bd48e1b68a9dba08ae78cc6c875d243f708c402c6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/saw_cutting/bad_lead_rod.json"
+hash = "993cc161286744526dd8f3c9a9d2b843b64955d273d0b514449629e111144b60"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/saw_cutting/bad_silver_rod.json"
@@ -14141,6 +14213,70 @@ file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/arc_furn
 hash = "70a278e3332ec3c81f5289ae72a5c5e8313c585399afdc3bd9d10f1d6e00aef3"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/lead_block_from_raw_blasting.json"
+hash = "a9c69fe5be5dcbee207581896fd25bfed48e49485cdb1f602f52b1a09ad4d8ec"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/lead_block_from_raw_smelting.json"
+hash = "6f31015869753395e0e73deb25ee75fc6732afb9655efc5ee1c32b7890e01d8b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/lead_ingot_from_raw_blasting.json"
+hash = "a67d28f8475dfbdd234ed4c1f8a112028d22b23d30b8e20a4dc4a44fb5399b0d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/lead_ingot_from_raw_smelting.json"
+hash = "f3208099ff7bc262c076234d1c281fffd4f48104c2d58e6d280d483b81208b00"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/nickel_block_from_raw_blasting.json"
+hash = "8cdc7e62c6e619200efeeb5acb4374f89d733bff7f5848d1c506c01881d178ba"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/nickel_block_from_raw_smelting.json"
+hash = "311681050578ee5871a8da41c0dfc6649ef3dbd97b091e13c737691d2ee8dff1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/nickel_ingot_from_raw_blasting.json"
+hash = "15eae0654df74a65b5483ef0f82fa03c52fed5b0cc86aa50ad11d1c9fee30f8a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/nickel_ingot_from_raw_smelting.json"
+hash = "7588208e748eb0e3e31a5104828b8abd27f98397556302ec3ec860e517964ab9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/silver_block_from_raw_blasting.json"
+hash = "61faf706c149fb914bbbb241a19d675f3a7f1b7d962274c732ef78ae6d237917"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/silver_block_from_raw_smelting.json"
+hash = "3c619f4e9e7c09d42d7e895476475f625dc384e0f0cedc993c96a85a5a1d015c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/silver_ingot_from_raw_blasting.json"
+hash = "e0d19f8449924eae0d7760729b5accf1fd06121901e65d5fd8b4a5e7548258f2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/silver_ingot_from_raw_smelting.json"
+hash = "779f3765c90c02afa81803b33b8a4f1dc4756dda1acf9b45dc65553b7894e118"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/tin_block_from_raw_blasting.json"
+hash = "1f066f0f5fa7034cf8def0d8c912c51dab693baafce272bbff78e8a6e66302fc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/tin_block_from_raw_smelting.json"
+hash = "18530c2ca2e21b2e15d792714c214d74738fb7e49e7ec9ee1508f4f567383cf3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/tin_ingot_from_raw_blasting.json"
+hash = "e87703ab08725b23f7f45bf3b051a5cd959dcfb311e08dea6718946347f21314"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/tin_ingot_from_raw_smelting.json"
+hash = "f1e6380b27f0c8a7b2719163235dbf7e035f5d12d1e0ee4141a209e08cc09a48"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/belt_grinder.json"
 hash = "ffe370adcfe660cdf5ab644ee0380c46981c8c1b30fd2e4f4e63de4152c388f7"
 
@@ -14546,7 +14682,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "53e4a6835ba29284cdb23892cc2a7cd4d3702316e921fc6e4446062e0961321b"
+hash = "284b2737ffcd6a1adec9b1cf5520aa3eb2720b53fa429eb37d398250cb636ea1"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -15218,7 +15354,7 @@ hash = "76e5cd1349b170cac7efc2ad196fc5d4f211de8893bcb1bf1ef5f8aa43a4bf1d"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"
-hash = "21d2bc85a125c64d258f50bed489949fda3e6c7fa2cc6a4518db9a528b7c4f00"
+hash = "be4a190979ad969c2f0144ba2472d22be570c58680cc3d940713c1c301b75e0e"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
@@ -15646,7 +15782,7 @@ hash = "c2b883496a6eca188047e44b8467113962fe03221e93c3e0e9ffeeaf0ff94c0e"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "bfd36eb1eb75c3ebe39169d480bc10c73d057c810492c063eae755eb4221d1fb"
+hash = "e011688022805e35d103cd3e89e4d56449e42cafa7c9d674849f29eaf383f199"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
