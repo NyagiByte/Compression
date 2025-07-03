@@ -1695,10 +1695,7 @@
 			y: -0.5d
 		}
 		{
-			dependencies: [
-				"2672B8CBD2F58BC7"
-				"21C63543DE36AAB7"
-			]
+			dependencies: ["2672B8CBD2F58BC7"]
 			description: ["Still not enough power?! HV might be needed, however be warned &cHV wires can not be insulated and can insta' kill you!&r A transformer might be a good safety measure"]
 			icon: "immersiveengineering:capacitor_hv"
 			id: "3CB6EFD66F335C89"
@@ -1775,7 +1772,10 @@
 			y: 5.0d
 		}
 		{
-			dependencies: ["244C2C768C2432AC"]
+			dependencies: [
+				"244C2C768C2432AC"
+				"64AEE0FAC662A7CD"
+			]
 			description: [
 				"Where is the testing kit for basic arcana?"
 				"Sciences as they progress become &eincresingly too difficult to test as one unit&r, and thus require &6smaller individualized experiments&r to derive useful data"
@@ -2065,7 +2065,7 @@
 			]
 			title: "Exomorphosis"
 			x: -9.5d
-			y: 0.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["45E43BF51EC35414"]
@@ -3353,8 +3353,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "1B1B6B20756EA6E4"
-				item: "ftbquests:missing_item"
+				id: "596AD258DBB4DF31"
+				item: "nyagibits_bytes:corporea_tunneler"
 				type: "item"
 			}]
 			title: "Corpa-fi 5G"
@@ -3549,6 +3549,143 @@
 			title: "This is where the shenanigans truly begin"
 			x: 7.5d
 			y: -2.5d
+		}
+		{
+			dependencies: ["19B0AEB26A2D2EE4"]
+			id: "588049E3E2FCC836"
+			rewards: [{
+				id: "08436CDD2F5457D6"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "707D20FA10E333BB"
+				item: "vintageimprovements:lathe"
+				type: "item"
+			}]
+			title: "Blue Chips and Limb Ripping Disasters"
+			x: 11.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["19B0AEB26A2D2EE4"]
+			id: "0E8862B024DEA98F"
+			rewards: [{
+				id: "077081BF252522CE"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4FAA3020BA529F24"
+				item: "vintageimprovements:helve_hammer"
+				type: "item"
+			}]
+			title: "BONK! (But louder)"
+			x: 11.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["28208E9BB8763E5C"]
+			id: "46FF70F9589255FA"
+			rewards: [{
+				id: "6EB5F366B43EE32F"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "022326164569FB91"
+				item: "minecraft:amethyst_shard"
+				type: "item"
+			}]
+			title: "Abnormally Short"
+			x: -7.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"080D76D1638818DE"
+				"456DDF788CC6CC81"
+			]
+			description: [
+				"&bMana Blasters&r are able to be crafted with a lens of your choice. The blast from the gun will inheret the properties of the lens and also works with combined lenses"
+				""
+				"Be careful about the &centropic lens&r ok?.."
+			]
+			id: "64AEE0FAC662A7CD"
+			rewards: [{
+				id: "3B8DB938D6D8D4A8"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1A743A788CA6842A"
+				item: {
+					Count: 1b
+					id: "botania:mana_gun"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "For My Neutral Special, GUN!"
+			x: -10.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["080D76D1638818DE"]
+			description: ["Lenses can now be cycled through &6all versions&r in an alchemy catalyst, entirely removing the gating they normally have, go nuts!"]
+			id: "456DDF788CC6CC81"
+			rewards: [{
+				id: "4DAE71258FF8AAFE"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "352EC7F1C4B2954E"
+				item: "botania:lens_normal"
+				type: "item"
+			}]
+			title: "Botanical Optometrist"
+			x: -10.5d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"080D76D1638818DE"
+				"456DDF788CC6CC81"
+			]
+			description: ["Similar to lenses, the &bBand of Mana&r can be cycled with the alchemy catalyst. The available selection is &cslightly more restricted&r but includes some bands that would be &dtier-skips&r classically"]
+			id: "5337D14DA60409E8"
+			rewards: [{
+				id: "66657CF689C5B846"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3BBED2764E74537B"
+				item: "botania:mana_ring"
+				type: "item"
+			}]
+			title: "Blinged Out"
+			x: -10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["080D76D1638818DE"]
+			description: ["With the &ealchemy catalyst&r all of that spare fish laying around can be converted to puffer fish, dramatically aiding in production of &bsemi-organic substrate&r"]
+			id: "721F0A27F6E0E658"
+			rewards: [{
+				id: "69D323AFB9E50884"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "58653AD14D0DD5E5"
+				item: "minecraft:pufferfish"
+				type: "item"
+			}]
+			title: "Become Poison Ball"
+			x: -9.0d
+			y: 0.5d
 		}
 	]
 	subtitle: ["Machines greased with mana"]
