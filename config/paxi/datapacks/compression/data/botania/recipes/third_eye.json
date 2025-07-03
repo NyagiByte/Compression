@@ -1,0 +1,24 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "nyagibits_bytes:botania_schematic"
+    },
+    {
+      "item": "ae2:red_lumen_paint_ball"
+    },
+    {
+      "item": "minecraft:glow_ink_sac"
+    },
+    {
+      "item": "ae2:light_detector"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "botania:third_eye"
+  },
+  "reagent": {
+    "item": "botania:forest_eye"
+  }
+}

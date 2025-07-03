@@ -163,7 +163,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:unholy_cloak'});
         e.remove({output: 'botania:balance_cloak'});
         e.remove({output: 'botania:invisibility_cloak'});
-        e.remove({output: 'botania:third_eye'});
         e.remove({output: 'botania:diva_charm'});
         e.remove({output: 'botania:laputa_shard'});
         e.remove({output: 'botania:spark'});
