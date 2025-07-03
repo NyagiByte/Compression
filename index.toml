@@ -714,11 +714,11 @@ hash = "d41650ac8977588bc65e57517ad314e769931f7b792f39f096f4134cd421d8fc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/proficiency.snbt"
-hash = "eaa8e1c55ab7a37d4724baac2d581bf6fd42a5663b61284c1b2f79cf4310ad75"
+hash = "0728bc7e5a4f9993b0d3ae894cfcb8dbecd33cb4c63dbf7f01983d34f29aa1f2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
-hash = "0ec64d2e5c151989c32fde5f6d083771aed0e8c4a72d8321d0a1635829d71195"
+hash = "0cd4d1919115f5e498f74edaef125e02fba69cd5b76f81952a4e14240a390580"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
@@ -726,7 +726,7 @@ hash = "5eaa01737c46ffc31178fbfacbaaf71d9b0492e8a34838f1973905af60636bd4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "175173bd0ae67121796bdf3c989db78b465543cd57211db669c24121730cfc62"
+hash = "3953b52e2d2cb7863ec35aee706b1c5d26f2fb3805e8090f8bc80bd7f1401d1a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -3259,6 +3259,10 @@ hash = "aa2e5f8f2652b3bfad8e5151001218e8930dc8e410e6d281bd84ae1f10d7aaf7"
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/teru_teru_bozu.json"
 hash = "6cd44dc9285134db997c1632b6ff6d9d5a1f1548c8cd983a8a3992c434abc02d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/third_eye.json"
+hash = "14f0794e5246692db6e141ab97b77a32a1e64250fcbdef6505d6333ec7bd4369"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/toggle_light_relay.json"
@@ -15782,7 +15786,7 @@ hash = "c2b883496a6eca188047e44b8467113962fe03221e93c3e0e9ffeeaf0ff94c0e"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "e011688022805e35d103cd3e89e4d56449e42cafa7c9d674849f29eaf383f199"
+hash = "201a9319f87d2fef76ed46770bc12ff61a1515c38a8df8b4ab4bd80701986990"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
