@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"quark:gunpowder_sack"},
+      "B": {"item":"nyagibits_bytes:blank_blueprint"}
+    },
+    "pattern": [
+      "A",
+      "B"
+    ],
+    "result": {
+        "item":"immersiveengineering:blueprint",
+        "nbt":{"blueprint":"bullet"}
+    }
+}
