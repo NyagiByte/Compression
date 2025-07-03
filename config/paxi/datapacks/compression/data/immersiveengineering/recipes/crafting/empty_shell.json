@@ -1,0 +1,67 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "vintageimprovements:steel_rod"
+    },
+    "loops": 1,
+    "results": [
+      {
+        "chance": 100.0,
+        "count": 4,
+        "item": "immersiveengineering:empty_shell"
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "vintageimprovements:steel_rod"
+          },
+          {
+            "amount": 50,
+            "fluid": "immersivepetroleum:lubricant",
+            "nbt": {}
+          }
+        ],
+        "results": [
+          {
+            "item": "vintageimprovements:steel_rod"
+          }
+        ]
+      },
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {
+            "item": "vintageimprovements:steel_rod"
+          }
+        ],
+        "processingTime": 60,
+        "results": [
+          {
+            "item": "vintageimprovements:steel_rod"
+          }  
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "vintageimprovements:steel_rod"
+          },
+          {
+            "item": "create:brass_nugget"
+          }
+        ],
+        "results": [
+          {
+            "item": "vintageimprovements:steel_rod"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "vintageimprovements:steel_rod"
+    }
+  }

@@ -1,0 +1,19 @@
+{
+    "type":"immersiveengineering:blueprint",
+    "category":"bullet",
+        "inputs":[{
+            "base_ingredient":{
+                "item":"immersiveengineering:empty_shell"
+                },"count":1},{
+            "base_ingredient":{
+                "tag":"forge:gunpowder"
+                },"count":4},{
+            "base_ingredient":{
+                "item":"chemlib:lead_nugget"
+                },"count":2}],
+                
+                "result":{
+                    "count":1,
+                    "item":"immersiveengineering:buckshot"
+                    }
+                }

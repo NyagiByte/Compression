@@ -200,7 +200,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:gunpart_hammer'});
         e.remove({output: 'immersiveengineering:circuit_backplate'});
         e.remove({output: 'immersiveengineering:empty_casing'});
-        e.remove({output: 'immersiveengineering:empty_shell'});
         e.remove({output: 'immersiveengineering:drill'});
         e.remove({output: 'immersiveengineering:drillhead_steel'});
         e.remove({output: 'immersiveengineering:drillhead_iron'});
@@ -218,7 +217,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:railgun'});
         e.remove({output: 'immersiveengineering:casull'});
         e.remove({output: 'immersiveengineering:armor_piercing'});
-        e.remove({output: 'immersiveengineering:buckshot'});
         e.remove({output: 'immersiveengineering:he'});
         e.remove({output: 'immersiveengineering:silver'});
         e.remove({output: 'immersiveengineering:dragons_breath'});
