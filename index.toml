@@ -14933,6 +14933,10 @@ file = "config/paxi/resourcepacks/compression/assets/chemlib/textures/items/plat
 hash = "e982c032be7fe1bfec0ebd629aaaf1a0ae9579c9f2162da31f5d02011061c9ba"
 
 [[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/nyagibits_bytes/triple_bay_4s_series_toolbox.png"
+hash = "963d9cabd8c29214084fa4b17519d3ab3afc5fdd37d56fac9568eb2f8eaa57b9"
+
+[[files]]
 file = "config/paxi/resourcepacks/compression/assets/create/lang/en_us.json"
 hash = "f2b7a64ab6a87c0fcf91ee2059b4911c277a4a5375168d46f43fd67d8d6a8714"
 
@@ -16006,7 +16010,7 @@ metafile = true
 
 [[files]]
 file = "mods/compressed-engineering.pw.toml"
-hash = "080cb34a90e581ff242c5eecd3f048d8fb378f591e1c8a975186f53edf546184"
+hash = "4b6309fb48141db39bcf37d4a4aa157d4466fb7c0ef5b6fcdc00486249615b04"
 metafile = true
 
 [[files]]
@@ -16017,6 +16021,11 @@ metafile = true
 [[files]]
 file = "mods/compressiontweaks-1.19.2-1.1.2.jar"
 hash = "bfe452de676cdcc4ddefe60b6117f9eb7a07a1f7cc0d8e3788163cc97c18ece2"
+
+[[files]]
+file = "mods/compressiontweaks.pw.toml"
+hash = "af9cb6789ffae471d75866f1652015ac83faa53f10e3bd393b1db748ae49e5ed"
+metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
@@ -16494,7 +16503,7 @@ metafile = true
 
 [[files]]
 file = "mods/ponder.pw.toml"
-hash = "4b958c3511f8836988f0603a38dc90305ed2adb30dadb89e9caa69dfc0d704a3"
+hash = "35b04368fc56be29e0c4683ebdf1c9203dcc534c7c8ce1696ead963cb313f643"
 metafile = true
 
 [[files]]
