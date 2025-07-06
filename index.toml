@@ -14977,6 +14977,46 @@ file = "config/paxi/resourcepacks/compression/assets/mekanism/lang/pt_br.json"
 hash = "4ed4534c51402411f47f2bdedd9832149047c20aa1a8145362801fe9e6d3842a"
 
 [[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_bannerpatterns.png"
+hash = "0b3d62498f514f2dc0fdd5432ac1287429c34b770843e5204a09d8f6a05fc155"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_bannerpatterns.properties"
+hash = "815e59078f580fbf50e39d498cb3b3488bdc68cbaa096bb111ae5100940be4ca"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_bullet.png"
+hash = "ab4871b8c653a62de4517e72f530859c7902dc09fa009618db8a89ea167f0c25"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_bullet.properties"
+hash = "5c40a595ac5cb17384f348ddbf7eaaa4fc1af660af142e83a52672dec01c643e"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_components.png"
+hash = "78f704b089446e401e0d4243f6314bbf20e133a45a2cda5c4316d2c8593d5903"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_components.properties"
+hash = "f0c30ba315bf873b8ac0e25e2e2f99f3eee24219b89bcce41ab0ef6b1d2dd606"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_magitech.png"
+hash = "8048f18302f4fa99703ca02b2a2e4cd5e1bea2b9d0fa5fee0956c8bec432c0f4"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_magitech.properties"
+hash = "f3f2d88829f987b45d876ec45a6e564e59373b1e4bf186ca9accf66e8173121a"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_molds.png"
+hash = "8f8b1eaedd3e7d5d6b47908b62bee36cecb217c1e053c55a8feed5ba11f8e01f"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_molds.properties"
+hash = "4269d763fc7ee8cd22d208c61cf68fc81dbb2e8e6659ae8947ad6f51d8b8cf41"
+
+[[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/lang/en_us.json"
 hash = "4948a703d57d3360f10b7147c52fe023feab0c080da90a490086a0395cf8ca6c"
 
@@ -15966,6 +16006,11 @@ metafile = true
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "73b5ea7c9f0ff8ac9d03bc410bfac63aabe43cf44569b288ccae29d74289112e"
+metafile = true
+
+[[files]]
+file = "mods/cit-reforged.pw.toml"
+hash = "a19297bc1c40d0e52dc8854f6ac59d41b741b3b20537f8f1c2b57742b9cc2401"
 metafile = true
 
 [[files]]
