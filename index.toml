@@ -14933,8 +14933,104 @@ file = "config/paxi/resourcepacks/compression/assets/chemlib/textures/items/plat
 hash = "e982c032be7fe1bfec0ebd629aaaf1a0ae9579c9f2162da31f5d02011061c9ba"
 
 [[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/immersiveengineering/blastfurnace_preheater.png"
+hash = "28d0775f7d31719992483fa94b7888102f0b6bab9915b9ac124d99e6ce319af3"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/immersiveengineering/generator.png"
+hash = "15e9b2e400a32236838479598480e9e0af864ab9ce8fc2369c111595cb10ebfb"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/immersiveengineering/heavy_engineering.png"
+hash = "b6871f20257ba1b0cfc408c2fbb4b99c48cc54505f5c1ca416f473d5b8cbb7bc"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/immersiveengineering/light_engineering.png"
+hash = "d9b5d73e038ec1494f297561714d2bef786d4579c4cd8099849f146a4920f908"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/immersiveengineering/radiator.png"
+hash = "fecfeaf0824345bb09b21ea028a3b79bed187ba22c85fbcd984d14bb4a07e07a"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/immersiveengineering/rs_engineering.png"
+hash = "78286851771fa4713fb8f41a397848cce48b946113807152dd538ff473d5f1c0"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/immersiveengineering/steel_scaffolding_standard.png"
+hash = "b3c6dfa1dbbad1175bb6db6882f360cd1416131fd55fbdfd5c00a11f531b6251"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/nyagibits_bytes/acetylene_tank.png"
+hash = "52ef0ce5dedfd70ac82a8c9d34f9ae932e249967e7b67715517af7da9101ea39"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/nyagibits_bytes/dampener.png"
+hash = "ab1de4de0aff003fbaf5219011fc64f15a5533026c5c37848a5fcae81edef87d"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/nyagibits_bytes/duct_tape.png"
+hash = "5f55305b649ed6e792e6f353cd7b18915ffa7cd16457d6fa14913501bcb76fc3"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/nyagibits_bytes/fasteners.png"
+hash = "da2f4f7db69a0605debf6b3736bd4443a8d4d30660aa435a695632aae5ed67af"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/nyagibits_bytes/fire_extinguisher.png"
+hash = "c1473fb304baa5777d19c19e94e82b99e92ec56761c2a12b7634416c33377e0f"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/nyagibits_bytes/hard_hat.png"
+hash = "356579cb7b3253969666b04b655a60660b38d35076c281a1085ffb18d553edb1"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/nyagibits_bytes/hardened_mechanical_bearing.png"
+hash = "a4694d87eaadf6a636169d7401054bdae978c31c86ca1a78129aeeadb818a7aa"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/nyagibits_bytes/high_strength_concrete.png"
+hash = "1334c84c70dc842a78399ff1559f6ec8cd3b3ad834dfb72e2d727c3d2ca3f2df"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/nyagibits_bytes/high_temperature_heat_exchanger.png"
+hash = "2355099e1f3d7015761ae2f53ff1a722f42ad34d113e7d7409843478d431e59d"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/nyagibits_bytes/industrial_gear.png"
+hash = "42206dc544e78996858fba0e1f3cf9a68525e4be4d9b2662604684df562c4f28"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/nyagibits_bytes/organic_vapor_respirator.png"
+hash = "dee016f6b52a3075b5b2a2238d395431e3d5954d1f521814104f82d35be8f9e3"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/nyagibits_bytes/protective_eye_wear.png"
+hash = "cf9f3101886686c87131c2cc5e7f6c78b6d031b851b959169298c5e7573c4023"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/nyagibits_bytes/reinforced_gearbox.png"
+hash = "1d502aac78e00fb5fda7a1b81d12f1cebf5a5a2969a739cc90997114cede8ff0"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/nyagibits_bytes/solenoid_component.png"
+hash = "dcb218a77a0274c3afd0299a07d58f20e0ac959f984277b2a13a8c338b80ad34"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/nyagibits_bytes/synchronous_electric_motor.png"
+hash = "e9de2ed1e3080193bda0670e07ae913bbf2bf10bcf76eb23136dd60a008da23c"
+
+[[files]]
 file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/nyagibits_bytes/triple_bay_4s_series_toolbox.png"
 hash = "963d9cabd8c29214084fa4b17519d3ab3afc5fdd37d56fac9568eb2f8eaa57b9"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/nyagibits_bytes/v_belt.png"
+hash = "f387f1efba66339604517b064c007ef8e6d6ff0b99df3cca30412380ff0505b6"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textures/blueprint/nyagibits_bytes/wd_40.png"
+hash = "f4ff4204a43c1a8b4e84e3bc5497ae4ed0dfb174311e9a0768ee71507da791ec"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/create/lang/en_us.json"
@@ -14954,7 +15050,7 @@ hash = "66e6538b4427737aa056d85badab634f8821d1df9b92c5d4c0ae2794928fb77b"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/lang/en_us.json"
-hash = "889be6f00e9af6c87d0c540fa88a8e056cdc61c4aee466aff3a873e3b549f70f"
+hash = "131fd031d77b6be293f443dfbbc6b3effe244b485e0ba6175fd212f35a1c3ad7"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/lang/pt_br.json"
@@ -14978,7 +15074,7 @@ hash = "4ed4534c51402411f47f2bdedd9832149047c20aa1a8145362801fe9e6d3842a"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_bannerpatterns.png"
-hash = "0b3d62498f514f2dc0fdd5432ac1287429c34b770843e5204a09d8f6a05fc155"
+hash = "9467b40ec8a8720f7c09255a6230f4a0475e574fde0649f8bdf54be137e13d3e"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_bannerpatterns.properties"
@@ -14986,7 +15082,7 @@ hash = "815e59078f580fbf50e39d498cb3b3488bdc68cbaa096bb111ae5100940be4ca"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_bullet.png"
-hash = "ab4871b8c653a62de4517e72f530859c7902dc09fa009618db8a89ea167f0c25"
+hash = "c0e8c0c4ecae92a6377cb1f7eb7fe139204dcf32cb5fd392a9f38af71039514b"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_bullet.properties"
@@ -14994,7 +15090,7 @@ hash = "5c40a595ac5cb17384f348ddbf7eaaa4fc1af660af142e83a52672dec01c643e"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_components.png"
-hash = "78f704b089446e401e0d4243f6314bbf20e133a45a2cda5c4316d2c8593d5903"
+hash = "5e1795054f08377837d2d48c8f8c4e92a388548bc54835a8a0b721acb0e800a0"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_components.properties"
@@ -15010,7 +15106,7 @@ hash = "f3f2d88829f987b45d876ec45a6e564e59373b1e4bf186ca9accf66e8173121a"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_molds.png"
-hash = "8f8b1eaedd3e7d5d6b47908b62bee36cecb217c1e053c55a8feed5ba11f8e01f"
+hash = "02193c3b81ba767ad3c433f7cbbc345b56f22366b7e41f9c86962a20c09049bf"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_molds.properties"
