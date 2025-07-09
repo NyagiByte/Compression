@@ -16593,6 +16593,11 @@ file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
 hash = "16a4656c4dd365ec8cd7db770a05284828d17c779afc7638999a1601a02f101e"
 
 [[files]]
+file = "mods/nyagis-bits-bytes.pw.toml"
+hash = "eac6b8f31fe1e72e0bb61831e22c281a641b58b8411cc9747ed12aba6af06121"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "e7843e20e052f74f69cb82db6613b83ff2394f25541b1b501ae8838cab755ca4"
 metafile = true
