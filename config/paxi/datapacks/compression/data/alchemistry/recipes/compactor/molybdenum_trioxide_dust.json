@@ -1,0 +1,13 @@
+{
+    "type": "alchemistry:compactor",
+    "group": "alchemistry:compactor",
+    "input": {
+      "count": 16,
+      "ingredient": {
+        "item": "nyagibits_bytes:sample_molybdenum_trioxide"
+      }
+    },
+    "result": {
+      "item": "nyagibits_bytes:molybdenum_trioxide_dust"
+    }
+  }

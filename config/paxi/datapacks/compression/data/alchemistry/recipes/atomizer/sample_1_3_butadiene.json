@@ -1,0 +1,12 @@
+{
+    "type": "alchemistry:atomizer",
+    "group": "alchemistry:atomizer",
+    "input": {
+      "amount": "500",
+      "fluid": "nyagibits_bytes:1_3_butadiene_fluid"
+    },
+    "result": {
+      "count": 8,
+      "item": "nyagibits_bytes:sample_1_3_butadiene"
+    }
+  }

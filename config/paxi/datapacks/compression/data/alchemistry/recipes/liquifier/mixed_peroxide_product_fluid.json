@@ -1,0 +1,14 @@
+{
+    "type": "alchemistry:liquifier",
+    "group": "alchemistry:liquifier",
+    "input": {
+      "count": 8,
+      "ingredient": {
+        "item": "nyagibits_bytes:sample_mixed_peroxide_product"
+      }
+    },
+    "result": {
+      "amount": "500",
+      "fluid": "nyagibits_bytes:mixed_peroxide_product_fluid"
+    }
+  }

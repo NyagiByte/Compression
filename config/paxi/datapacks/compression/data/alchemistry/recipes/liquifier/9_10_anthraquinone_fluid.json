@@ -1,0 +1,14 @@
+{
+    "type": "alchemistry:liquifier",
+    "group": "alchemistry:liquifier",
+    "input": {
+      "count": 8,
+      "ingredient": {
+        "item": "nyagibits_bytes:sample_9_10_anthraquinone"
+      }
+    },
+    "result": {
+      "amount": "500",
+      "fluid": "nyagibits_bytes:9_10_anthraquinone_fluid"
+    }
+  }

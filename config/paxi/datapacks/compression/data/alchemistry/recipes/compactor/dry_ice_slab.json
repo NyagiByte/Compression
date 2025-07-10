@@ -1,0 +1,13 @@
+{
+    "type": "alchemistry:compactor",
+    "group": "alchemistry:compactor",
+    "input": {
+      "count": 16,
+      "ingredient": {
+        "item": "nyagibits_bytes:sample_dry_ice"
+      }
+    },
+    "result": {
+      "item": "nyagibits_bytes:dry_ice_slab"
+    }
+  }
