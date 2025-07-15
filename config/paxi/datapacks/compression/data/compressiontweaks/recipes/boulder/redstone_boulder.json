@@ -1,0 +1,36 @@
+{
+    "type": "compressiontweaks:boulder_info",
+    "ores":[
+        {"item": "minecraft:redstone_ore", "count": 367},
+        {"item": "minecraft:deepslate_redstone_ore", "count": 157},
+        {"item": "minecraft:redstone_block", "count": 3},
+        {"item": "minecraft:redstone"}
+    ],
+    "conglomerates":[
+        {"item": "nyagibits_bytes:conglomerate_redstone_ore", "count": 503},
+        {"item": "nyagibits_bytes:dense_conglomerate_redstone_ore", "count": 387},
+        {"item": "nyagibits_bytes:hyper_conglomerate_redstone_ore", "count": 361},
+        {"item": "nyagibits_bytes:tectonic_conglomerate_redstone_ore", "count": 196},
+        {"item": "nyagibits_bytes:core_conglomerate_redstone_ore", "count": 64}
+    ],
+    "primary_resources": [
+        {"item": "nyagibits_bytes:raw_cinnabar"},
+        {"item": "nyagibits_bytes:raw_metacinnabar"},
+        {"item": "nyagibits_bytes:raw_native_mercury_spherules"},
+        {"item": "nyagibits_bytes:raw_montroydite"},
+        {"item": "nyagibits_bytes:raw_corderoite"},
+        {"item": "nyagibits_bytes:raw_calomel"},
+        {"item": "nyagibits_bytes:raw_basaltic_powder"},
+        {"item": "nyagibits_bytes:raw_granulated_obsidian"}
+    ],
+    "secondary_resources":[
+        {"item": "minecraft:obsidian", "count": 105},
+        {"item": "minecraft:crying_obsidian", "count": 44},
+        {"item": "minecraft:blackstone", "count": 73},
+        {"item": "minecraft:glowstone", "count": 14},
+        {"item": "abyssal_decor:crystalized_glowstone", "count": 29}
+    ],
+    "secondary_fluids":[
+        {"fluid": "chemlib:mercury_fluid", "amount": 130000}
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "compressiontweaks:boulder_info",
+    "ores":[
+        {"item": "nuclearcraft:uranium_ore", "count": 407},
+        {"item": "nuclearcraft:uranium_deepslate_ore", "count": 141},
+        {"item": "nuclearcraft:uranium_chunk"}
+    ],
+    "conglomerates":[
+        {"item": "nyagibits_bytes:conglomerate_uranium_ore", "count": 505},
+        {"item": "nyagibits_bytes:dense_conglomerate_uranium_ore", "count": 345},
+        {"item": "nyagibits_bytes:hyper_conglomerate_uranium_ore", "count": 417},
+        {"item": "nyagibits_bytes:tectonic_conglomerate_uranium_ore", "count": 196},
+        {"item": "nyagibits_bytes:core_conglomerate_uranium_ore", "count": 64}
+    ],
+    "primary_resources": [
+        {"item": "nyagibits_bytes:raw_pitchblende"},
+        {"item": "nyagibits_bytes:raw_torbernite"},
+        {"item": "nyagibits_bytes:raw_carnotite"},
+        {"item": "nyagibits_bytes:raw_autunite"},
+        {"item": "nyagibits_bytes:raw_thorite"},
+        {"item": "nyagibits_bytes:raw_thorianite"},
+        {"item": "nyagibits_bytes:raw_uranothorite"},
+        {"item": "nyagibits_bytes:raw_tyuyamunite"}
+    ],
+    "secondary_resources":[
+        {"item": "botania:metamorphic_forest_cobblestone", "count": 154},
+        {"item": "botania:metamorphic_taiga_cobblestone", "count": 350},
+        {"item": "botania:metamorphic_fungal_cobblestone", "count": 399},
+        {"item": "minecraft:shroomlight", "count": 7},
+        {"item": "minecraft:warped_fungus", "count": 10},
+        {"item": "minecraft:warped_stem", "count": 68},
+        {"item": "minecraft:warped_wart_block", "count": 277},
+        {"item": "byg:warped_soul_soil", "count": 299},
+        {"item": "minecraft:warped_nylium", "count": 57}
+    ],
+    "secondary_fluids":[
+        {"fluid": "nuclearcraft:spent_nuclear_waste", "amount": 73000}
+    ]
+}
