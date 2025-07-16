@@ -1,0 +1,24 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "amount": 500,
+        "fluid": "minecraft:water"
+      },
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:dsp_dust"
+      },
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:sodium_metavanadate_dust"
+      }
+    ],
+    "results": [
+      {
+        "amount": 500,
+        "fluid": "nyagibits_bytes:precursor_1_hpa_4_fluid"
+      }
+    ]
+  }

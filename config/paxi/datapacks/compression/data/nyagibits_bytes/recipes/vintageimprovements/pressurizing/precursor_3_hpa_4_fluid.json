@@ -1,0 +1,30 @@
+{
+	"type":"vintageimprovements:pressurizing",
+    "heatRequirement": "heated",
+	"secondaryFluidInput": 0,
+	"ingredients": [
+		{
+			"fluid": "nyagibits_bytes:diethyl_ether_fluid",
+			"amount": 334
+		},
+		{
+			"fluid": "nyagibits_bytes:precursor_2_hpa_4_fluid",
+			"amount": 500
+		},
+		{
+			"fluid": "nyagibits_bytes:oleum_fluid",
+			"amount": 500
+		},
+		{
+			"item": "nyagibits_bytes:sodium_molybdate_dihydrate_dust",
+			"count": 1
+		}
+	],
+	"results": [
+		{
+			"amount": 500,
+			"fluid": "nyagibits_bytes:precursor_3_hpa_4_fluid"
+		}
+	],
+	"processingTime": 200
+}

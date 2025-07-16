@@ -1,0 +1,28 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "chemlib:sodium_hydroxide"
+      },
+      {
+        "item": "chemlib:sodium_hydroxide"
+      },
+      {
+        "item": "nyagibits_bytes:molybdenum_trioxide_dust"
+      },
+      {
+        "amount": 500,
+        "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:sodium_molybdate_dihydrate_dust"
+      },
+      {
+        "amount": 1000,
+        "fluid": "minecraft:water"
+      }
+    ]
+  }

@@ -1,0 +1,31 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "chemlib:phosphoric_acid"
+      },
+      {
+        "item": "chemlib:phosphoric_acid"
+      },
+      {
+        "item": "chemlib:phosphoric_acid"
+      },
+      {
+        "item": "chemlib:sodium_hydroxide"
+      },
+      {
+        "item": "chemlib:sodium_hydroxide"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:dsp_dust"
+      },
+      {
+        "amount": 1000,
+        "fluid": "minecraft:water"
+      }
+    ]
+  }

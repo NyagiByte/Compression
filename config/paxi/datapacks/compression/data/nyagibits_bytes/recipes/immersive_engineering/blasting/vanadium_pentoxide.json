@@ -1,0 +1,10 @@
+{
+    "type":"immersiveengineering:blast_furnace",
+    "input":{
+        "item":"chemlib:vanadium_dust"
+            },
+        "result":{
+            "item":"nyagibits_bytes:vanadium_pentoxide_dust"
+                 },"slag":{
+                        "item":"supplementaries:ash"
+                          },"time":20}

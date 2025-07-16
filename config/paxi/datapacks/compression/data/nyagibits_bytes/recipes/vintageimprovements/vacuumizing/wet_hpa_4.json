@@ -1,0 +1,29 @@
+{
+	"type":"vintageimprovements:vacuumizing",
+    "heatRequirement": "superheated",
+	"ingredients": [
+		{
+			"fluid": "nyagibits_bytes:precursor_3_hpa_4_fluid",
+			"amount": 1000
+		},
+		{
+			"item": "quark:bottled_cloud",
+			"count": 1
+		}
+	],
+	"results": [
+		{
+			"fluid": "nyagibits_bytes:wet_hpa_4_fluid",
+			"amount": 1000
+		},
+		{
+			"item": "minecraft:glass_bottle",
+			"count": 1
+		},
+		{
+			"item": "chemlib:vanadium_dust",
+            "chance": 0.95
+		}
+	],
+	"processingTime": 200
+}

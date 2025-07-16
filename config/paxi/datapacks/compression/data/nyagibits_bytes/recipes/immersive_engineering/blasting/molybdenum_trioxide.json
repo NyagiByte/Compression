@@ -1,0 +1,10 @@
+{
+    "type":"immersiveengineering:blast_furnace",
+    "input":{
+        "item":"nyagibits_bytes:molybdenum_disulfide_dust"
+            },
+        "result":{
+            "item":"nyagibits_bytes:molybdenum_trioxide_dust"
+                 },"slag":{
+                        "item":"supplementaries:ash"
+                          },"time":20}

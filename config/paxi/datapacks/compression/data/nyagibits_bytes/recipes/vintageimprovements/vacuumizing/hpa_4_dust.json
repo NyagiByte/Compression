@@ -1,0 +1,17 @@
+{
+	"type":"vintageimprovements:vacuumizing",
+    "heatRequirement": "superheated",
+	"ingredients": [
+		{
+			"fluid": "nyagibits_bytes:wet_hpa_4_fluid",
+			"amount": 1000
+		}
+	],
+	"results": [
+		{
+			"item": "nyagibits_bytes:hpa_4_dust",
+			"chance": 0.75
+		}
+	],
+	"processingTime": 200
+}

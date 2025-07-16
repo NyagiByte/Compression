@@ -1,0 +1,18 @@
+{
+    "type":"immersiveengineering:refinery",
+    "catalyst":
+        {
+            "item":"chemlib:phosphoric_acid_dust"
+            },
+            "energy":120,
+            "input0":
+                {
+                    "amount":100,
+                    "tag":"forge:ethylene"
+                    },
+                        "result":
+                            {
+                                "amount":50,
+                                "fluid":"nyagibits_bytes:diethyl_ether_fluid"
+                                }
+                            }
