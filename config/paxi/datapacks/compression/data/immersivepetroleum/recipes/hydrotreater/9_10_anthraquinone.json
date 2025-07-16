@@ -1,0 +1,27 @@
+{
+    "type": "immersivepetroleum:hydrotreater",
+    "time": 60,
+    "energy": 61440,
+    "result": {
+      "fluid": "nyagibits_bytes:9_10_anthraquinone_fluid",
+      "amount": 500
+    },
+    "conditions": [
+      {
+        "modid": "pneumaticcraft",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "input": {
+      "tag": "forge:1_4_napthoquinone",
+      "amount": 500
+    },
+    "secondary_input": {
+      "amount": 500,
+      "tag": "forge:1_3_butadiene"
+    },
+    "secondary_result": {
+      "item": "nyagibits_bytes:carbon_residue",
+      "chance": "0.5"
+    }
+  }

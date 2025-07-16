@@ -1,0 +1,23 @@
+{
+    "type": "immersivepetroleum:coker",
+    "energy": 10000,
+    "input": {
+      "base_ingredient": {
+        "item": "nyagibits_bytes:on_carbon_palladium"
+      },
+      "count": 16
+    },
+    "inputfluid": {
+      "amount": 10000,
+      "tag": "forge:bubbled_pre_peroxide"
+    },
+    "result": {
+      "count": 16,
+      "item": "nyagibits_bytes:on_carbon_saturated_palladium"
+    },
+    "resultfluid": {
+      "amount": 10000,
+      "fluid": "nyagibits_bytes:mixed_peroxide_product_fluid"
+    },
+    "time": 30
+  }

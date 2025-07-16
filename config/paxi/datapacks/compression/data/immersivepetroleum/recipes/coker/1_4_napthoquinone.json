@@ -1,0 +1,23 @@
+{
+    "type": "immersivepetroleum:coker",
+    "energy": 10000,
+    "input": {
+      "base_ingredient": {
+        "item": "nyagibits_bytes:hpa_4_dust"
+      },
+      "count": 1
+    },
+    "inputfluid": {
+      "amount": 1000,
+      "tag": "forge:hydroquinone"
+    },
+    "result": {
+      "count": 15,
+      "item": "nyagibits_bytes:sample_hpa_4"
+    },
+    "resultfluid": {
+      "amount": 1000,
+      "fluid": "nyagibits_bytes:1_4_napthoquinone_fluid"
+    },
+    "time": 30
+  }

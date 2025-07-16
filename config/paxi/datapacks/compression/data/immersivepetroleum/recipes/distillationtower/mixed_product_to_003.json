@@ -1,0 +1,25 @@
+{
+    "type": "immersivepetroleum:distillation",
+    "byproducts": [
+    ],
+    "energy": 1024,
+    "input": {
+      "amount": 1100,
+      "tag": "forge:mixed_peroxide_product"
+    },
+    "results": [
+      {
+        "amount": 500,
+        "fluid": "minecraft:water"
+      },
+      {
+        "amount": 500,
+        "fluid": "nyagibits_bytes:hydrogen_peroxide_003_fluid"
+      },
+      {
+        "amount": 99,
+        "fluid": "nyagibits_bytes:9_10_anthraquinone_fluid"
+      }
+    ],
+    "time": 1
+  }

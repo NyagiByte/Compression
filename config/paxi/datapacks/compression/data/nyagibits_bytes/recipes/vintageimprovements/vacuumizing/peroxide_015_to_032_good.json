@@ -1,0 +1,29 @@
+{
+	"type":"vintageimprovements:vacuumizing",
+	"secondaryFluidOutput": 0,
+	"ingredients": [
+		{
+			"fluid": "nyagibits_bytes:hydrogen_peroxide_015_fluid",
+			"amount": 2250
+		},
+		{
+            "count": 1,
+			"item": "nyagibits_bytes:dry_ice_slab"
+		}
+	],
+	"results": [
+		{
+			"fluid": "chemlib:carbon_dioxide_fluid",
+			"amount": 1
+		},
+		{
+			"fluid": "nyagibits_bytes:hydrogen_peroxide_032_fluid",
+			"amount": 1000
+		},
+		{
+            "count": 2,
+			"item": "minecraft:ice"
+		}
+	],
+	"processingTime": 200
+}

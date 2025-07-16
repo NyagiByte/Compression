@@ -1,0 +1,24 @@
+{
+	"type":"vintageimprovements:vacuumizing",
+	"ingredients": [
+		{
+			"fluid": "nyagibits_bytes:hydrogen_peroxide_015_fluid",
+			"amount": 2250
+		},
+		{
+            "count": 4,
+			"item": "nyagibits_bytes:slushy_ice"
+		}
+	],
+	"results": [
+		{
+			"fluid": "minecraft:water",
+			"amount": 100
+		},
+		{
+			"fluid": "nyagibits_bytes:hydrogen_peroxide_032_fluid",
+			"amount": 500
+		}
+	],
+	"processingTime": 200
+}

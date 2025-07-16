@@ -1,0 +1,28 @@
+{
+	"type":"vintageimprovements:vacuumizing",
+	"ingredients": [
+		{
+			"fluid": "nyagibits_bytes:hydrogen_peroxide_032_fluid",
+			"amount": 1000
+		},
+		{
+            "count": 1,
+			"item": "nyagibits_bytes:phosphorus_pentoxide_dust"
+		}
+	],
+	"results": [
+		{
+			"fluid": "nyagibits_bytes:hydrogen_peroxide_075_fluid",
+			"amount": 375
+		},
+		{
+            "count": 12,
+			"item": "chemlib:phosphoric_acid"
+		},
+		{
+            "count": 4,
+			"item": "nyagibits_bytes:sample_phosphorus_pentoxide"
+		}
+	],
+	"processingTime": 200
+}

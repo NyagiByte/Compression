@@ -1,0 +1,27 @@
+{
+    "type": "immersivepetroleum:hydrotreater",
+    "time": 60,
+    "energy": 61440,
+    "result": {
+      "fluid": "nyagibits_bytes:hydroquinone_fluid",
+      "amount": 500
+    },
+    "conditions": [
+      {
+        "modid": "pneumaticcraft",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "input": {
+      "tag": "forge:hydrogen_peroxide_075_fluid",
+      "amount": 500
+    },
+    "secondary_input": {
+      "amount": 500,
+      "tag": "forge:phenolic_resin"
+    },
+    "secondary_result": {
+      "item": "nyagibits_bytes:carbon_residue",
+      "chance": "1"
+    }
+  }

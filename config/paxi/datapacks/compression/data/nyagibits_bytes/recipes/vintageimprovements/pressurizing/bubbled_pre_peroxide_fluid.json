@@ -1,0 +1,29 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"secondaryFluidInput": 0,
+	"ingredients": [
+		{
+			"fluid": "chemlib:hydrogen_fluid",
+			"amount": 334
+		},
+		{
+			"fluid": "chemlib:oxygen_fluid",
+			"amount": 500
+		},
+		{
+			"fluid": "nyagibits_bytes:9_10_anthraquinone_fluid",
+			"amount": 100
+		},
+		{
+			"fluid": "minecraft:water",
+			"amount": 900
+		}
+	],
+	"results": [
+		{
+			"amount": 1000,
+			"fluid": "nyagibits_bytes:bubbled_pre_peroxide_fluid"
+		}
+	],
+	"processingTime": 200
+}
