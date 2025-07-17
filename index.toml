@@ -11961,8 +11961,8 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_cr
 hash = "f0afe0315043cecab8fec7468697f88421fe78891ba8d1217c01373cd1871e17"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assemblies/immersive_assembly.json"
-hash = "56bd452e4ef4c37bb217ced60603def4f21403912eb200a24a755543a813715b"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assemblies/immersive_assembly.txt"
+hash = "3b953e437f9db70c481e8c547f248794016aa406dc8d7863c2e127321e386d6d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assembly_components/bunsen_burner.json"
@@ -16138,7 +16138,7 @@ hash = "fb521c9f286201a786ded3f3a373cfa926b5ef010865bd04c6c0d8faf69bbe9f"
 
 [[files]]
 file = "kubejs/server_scripts/mandatory_kubejs_recipes.js"
-hash = "51a542a8ce78f0fb3335f645487463f546278e71a899883dfee70f866856cacf"
+hash = "0ff11915d9c5c2e493e3070d102201ddf487c39627e583a04136c8cc1ab289c2"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes_ores.js"

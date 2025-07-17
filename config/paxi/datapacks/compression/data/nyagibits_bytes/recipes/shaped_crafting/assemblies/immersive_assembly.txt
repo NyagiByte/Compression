@@ -20,3 +20,5 @@
         "item": "nyagibits_bytes:immersive_assembly"
     }
   }
+
+  (Replaced in kubejs/server_scripts/mandatory_kubejs_recipes.json)
