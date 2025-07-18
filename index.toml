@@ -3777,10 +3777,6 @@ file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/leftove
 hash = "78f16f07e2be99c8c498a4143396ba2225476649de09706adc413ef68675f888"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/leftover_override/ie_assembly.json"
-hash = "fa50d7c51787b537cffca3637313f17e15119463de1b45084251e05544c55885"
-
-[[files]]
 file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/leftover_override/item_repair.json"
 hash = "22cab5d05b1ca87b972125b3f20979aaf2699db6a46372fad043f9ae1f2c662f"
 
@@ -16138,7 +16134,7 @@ hash = "fb521c9f286201a786ded3f3a373cfa926b5ef010865bd04c6c0d8faf69bbe9f"
 
 [[files]]
 file = "kubejs/server_scripts/mandatory_kubejs_recipes.js"
-hash = "0ff11915d9c5c2e493e3070d102201ddf487c39627e583a04136c8cc1ab289c2"
+hash = "e49e9e087b3c4b1c99acfe0515b4dd97f07cb9653cb46a250294962f581e865a"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes_ores.js"

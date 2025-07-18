@@ -33,7 +33,7 @@ ServerEvents.recipes(event => {
         D: 'nyagibits_bytes:high_strength_concrete',
         E: 'create:brass_casing',
         F: 'nyagibits_bytes:osha_approved_gear',
-        G: Item.of('nyagibits_bytes:acetylene_tank', '{Damage:0}'),
+        G: Item.of('nyagibits_bytes:acetylene_tank', '{Damage:0}').strongNBT(),
         H: 'nyagibits_bytes:crate_of_industrial_components',
         I: 'nyagibits_bytes:high_temperature_heat_exchanger'
       }).replaceIngredient('nyagibits_bytes:acetylene_tank', 'minecraft:air')
