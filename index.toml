@@ -3790,7 +3790,7 @@ hash = "0c093136231629797b636243b40121234f71eb6d7bf5d376d81c879cac375096"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/leftover_override/steel_scaffolding_standard.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "9e45a11acecc85177cac221a7bbd33410ef5be76f9a97f1454dde52adb1df713"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/leftover_override/survey_tools.json"
