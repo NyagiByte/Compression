@@ -3769,8 +3769,12 @@ file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/boulder
 hash = "dc2281b65936ce6cd2aff4d84dc8451d1c00d0c4bec144924488a2f8997b3221"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/leftover_override/ie_assembly.json"
-hash = "fa50d7c51787b537cffca3637313f17e15119463de1b45084251e05544c55885"
+file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/leftover_override/bucket_of_salt_water.json"
+hash = "46be7fb6f6f76090d1870165182b24dcba63f672447efae3fa0ddb73380bfee5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/leftover_override/crude_statics_test.json"
+hash = "78f16f07e2be99c8c498a4143396ba2225476649de09706adc413ef68675f888"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/leftover_override/item_repair.json"
@@ -3782,7 +3786,7 @@ hash = "0c093136231629797b636243b40121234f71eb6d7bf5d376d81c879cac375096"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/leftover_override/steel_scaffolding_standard.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "9e45a11acecc85177cac221a7bbd33410ef5be76f9a97f1454dde52adb1df713"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/compressiontweaks/recipes/leftover_override/survey_tools.json"
@@ -11953,8 +11957,8 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_cr
 hash = "f0afe0315043cecab8fec7468697f88421fe78891ba8d1217c01373cd1871e17"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assemblies/immersive_assembly.json"
-hash = "56bd452e4ef4c37bb217ced60603def4f21403912eb200a24a755543a813715b"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assemblies/immersive_assembly.txt"
+hash = "3b953e437f9db70c481e8c547f248794016aa406dc8d7863c2e127321e386d6d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assembly_components/bunsen_burner.json"
@@ -12041,8 +12045,8 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_cr
 hash = "ee108f9fa441c609063fe6ef6f08fc81e22ff0e1952c5dffe63139cc56c108e7"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/crude_kits/tier_zero/crude_statics_test.txt"
-hash = "dafecec3e3ae03a5755f378787a8c38e3cb925c163c8ab56acf471de2a1b4ebd"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/crude_kits/tier_zero/crude_statics_test.json"
+hash = "098b81a2701f67d9b6636ccdf31c9e166bf6f971498f9a45783f0d073259526f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/decorative_paneling.json"
@@ -12277,8 +12281,8 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless
 hash = "ff66c6c5465f71aef0fb9bc533cdddcb840841bc59db315e5f81e7c84d37cba0"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/bucket_of_salt_water.txt"
-hash = "8ec3ebfa6d3f263c979a4df9eca28003b0b65c3ed2f20dc6c6392b324e2215d7"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/bucket_of_salt_water.json"
+hash = "94732f545d2a2643e36b69c89b940c706a1b0c2d565d19ec6b6215b28e54b3fb"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shapeless_crafting/crude_abrasive.json"
@@ -16130,7 +16134,7 @@ hash = "fb521c9f286201a786ded3f3a373cfa926b5ef010865bd04c6c0d8faf69bbe9f"
 
 [[files]]
 file = "kubejs/server_scripts/mandatory_kubejs_recipes.js"
-hash = "505468d7bbf53b2f33896220b0f71a7bc0ce8afcf323066c59be6c4e03de293a"
+hash = "e49e9e087b3c4b1c99acfe0515b4dd97f07cb9653cb46a250294962f581e865a"
 
 [[files]]
 file = "kubejs/server_scripts/nb_b_recipes_ores.js"
