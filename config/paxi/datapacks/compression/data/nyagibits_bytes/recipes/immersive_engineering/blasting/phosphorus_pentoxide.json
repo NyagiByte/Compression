@@ -1,0 +1,10 @@
+{
+    "type":"immersiveengineering:blast_furnace",
+    "input":{
+        "item":"nyagibits_bytes:white_phosphorus_dust"
+            },
+        "result":{
+            "item":"nyagibits_bytes:phosphorus_pentoxide_dust"
+                 },"slag":{
+                        "item":"supplementaries:ash"
+                          },"time":20}

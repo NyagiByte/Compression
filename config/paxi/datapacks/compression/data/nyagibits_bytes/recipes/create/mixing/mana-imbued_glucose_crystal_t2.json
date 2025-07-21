@@ -1,0 +1,24 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "count": 4,
+        "item": "chemlib:sodium_hydroxide"
+      },
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:sample_hpa_4"
+      },
+      {
+        "amount": 1000,
+        "fluid": "nyagibits_bytes:amorphous_cellulose_fluid"
+      }
+    ],
+    "results": [
+      {
+        "count": 24,
+        "item": "nyagibits_bytes:mana_imbued_glucose_crystal"
+      }
+    ]
+  }

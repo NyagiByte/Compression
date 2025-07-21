@@ -1,0 +1,16 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "chemlib:palladium"
+      },
+      {
+        "item": "nyagibits_bytes:activated_charcoal"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:on_carbon_palladium"
+      }
+    ]
+  }

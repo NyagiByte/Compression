@@ -1,0 +1,71 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:on_carbon_saturated_palladium"
+      },
+      {
+        "item": "nyagibits_bytes:on_carbon_saturated_palladium"
+      },
+      {
+        "item": "nyagibits_bytes:on_carbon_saturated_palladium"
+      },
+      {
+        "item": "nyagibits_bytes:on_carbon_saturated_palladium"
+      },
+      {
+        "item": "nyagibits_bytes:on_carbon_saturated_palladium"
+      },
+      {
+        "item": "nyagibits_bytes:on_carbon_saturated_palladium"
+      },
+      {
+        "item": "nyagibits_bytes:on_carbon_saturated_palladium"
+      },
+      {
+        "item": "nyagibits_bytes:on_carbon_saturated_palladium"
+      },
+      {
+        "item": "nyagibits_bytes:on_carbon_saturated_palladium"
+      },
+      {
+        "item": "nyagibits_bytes:on_carbon_saturated_palladium"
+      },
+      {
+        "item": "nyagibits_bytes:on_carbon_saturated_palladium"
+      },
+      {
+        "item": "nyagibits_bytes:on_carbon_saturated_palladium"
+      },
+      {
+        "item": "nyagibits_bytes:on_carbon_saturated_palladium"
+      },
+      {
+        "item": "nyagibits_bytes:on_carbon_saturated_palladium"
+      },
+      {
+        "item": "nyagibits_bytes:on_carbon_saturated_palladium"
+      },
+      {
+        "item": "nyagibits_bytes:on_carbon_saturated_palladium"
+      }
+    ],
+    "results": [
+      {
+        "chance": 0.99,
+        "count": 16,
+        "item": "nyagibits_bytes:on_carbon_palladium"
+      },
+      {
+        "chance": 0.01,
+        "count": 4,
+        "item": "nyagibits_bytes:carbon_residue"
+      },
+      {
+        "chance": 0.005,
+        "count": 4,
+        "item": "chemlib:palladium"
+      }
+    ]
+  }

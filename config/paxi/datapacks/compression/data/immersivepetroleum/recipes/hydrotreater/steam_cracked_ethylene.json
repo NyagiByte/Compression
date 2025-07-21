@@ -1,0 +1,23 @@
+{
+    "type": "immersivepetroleum:hydrotreater",
+    "time": 60,
+    "energy": 61440,
+    "result": {
+      "fluid": "nyagibits_bytes:steam_cracked_ethylene_fluid",
+      "amount": 500
+    },
+    "conditions": [
+      {
+        "modid": "pneumaticcraft",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "input": {
+      "tag": "forge:ethylene",
+      "amount": 500
+    },
+    "secondary_input": {
+      "amount": 500,
+      "tag": "minecraft:water"
+    }
+  }

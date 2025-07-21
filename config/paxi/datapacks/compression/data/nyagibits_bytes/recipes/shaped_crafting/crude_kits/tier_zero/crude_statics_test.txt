@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:bucket_of_salt_water"},
+      "B": {"item":"create:copper_nugget"},
+      "C": {"tag":"forge:torn_fabric"},
+      "D": {"item":"create:zinc_nugget"}
+    },
+    "pattern": [
+      "BCD",
+      " A "
+    ],
+    "result": {
+        "item": "nyagibits_bytes:crude_statics_test"
+    }
+  }
+
+  (depricated)

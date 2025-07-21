@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:munchdew_mush"
+      },
+      {
+        "amount": 500,
+        "fluid": "chemlib:sulfuric_acid_fluid"
+      },
+      {
+        "amount": 125,
+        "fluid": "nyagibits_bytes:9_10_anthraquinone_fluid"
+      }
+    ],
+    "results": [
+      {
+        "amount": 2000,
+        "fluid": "nyagibits_bytes:amorphous_cellulose_fluid"
+      }
+    ]
+  }

@@ -1,0 +1,24 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:dry_ice_slab"
+      },
+      {
+        "item": "nyagibits_bytes:crude_silicon_boule"
+      },
+      {
+        "item": "chemlib:sodium_hydroxide"
+      },
+      {
+        "amount": 144,
+        "fluid": "nyagibits_bytes:molten_skystone_fluid"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "nyagibits_bytes:skystone_encrusted_boule"
+      }
+    ]
+  }

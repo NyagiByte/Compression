@@ -1,0 +1,33 @@
+{
+    "type": "immersivepetroleum:distillation",
+    "byproducts": [
+      {
+        "chance": "0.1",
+        "item": "nyagibits_bytes:carbon_residue"
+      }
+    ],
+    "energy": 1024,
+    "input": {
+      "amount": 200,
+      "tag": "forge:steam_cracked_ethylene"
+    },
+    "results": [
+      {
+        "amount": 50,
+        "fluid": "chemlib:ethylene_fluid"
+      },
+      {
+        "amount": 100,
+        "fluid": "nyagibits_bytes:1_3_butadiene_fluid"
+      },
+      {
+        "amount": 40,
+        "fluid": "immersivepetroleum:propylene"
+      },
+      {
+        "amount": 10,
+        "fluid": "nyagibits_bytes:hydrocarbon_tar_fluid"
+      }
+    ],
+    "time": 1
+  }

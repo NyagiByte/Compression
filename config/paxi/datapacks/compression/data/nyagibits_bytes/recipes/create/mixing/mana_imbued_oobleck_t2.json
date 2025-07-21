@@ -1,0 +1,29 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:hydroangeas_mush"
+      },
+      {
+        "item": "chemlib:starch"
+      },
+      {
+        "item": "chemlib:starch"
+      },
+      {
+        "item": "chemlib:starch"
+      },
+      {
+        "item": "chemlib:starch"
+      },
+      {
+        "item": "nyagibits_bytes:dsp_dust"
+      }
+    ],
+    "results": [
+      {
+        "count": 6,
+        "item": "nyagibits_bytes:mana_imbued_oobleck"
+      }
+    ]
+  }

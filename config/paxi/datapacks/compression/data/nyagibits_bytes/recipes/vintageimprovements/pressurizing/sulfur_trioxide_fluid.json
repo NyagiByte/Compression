@@ -1,0 +1,37 @@
+{
+	"type":"vintageimprovements:pressurizing",
+    "heatRequirement": "heated",
+	"secondaryFluidInput": 0,
+	"ingredients": [
+		{
+			"fluid": "chemlib:oxygen_fluid",
+			"amount": 334
+		},
+		{
+			"item": "chemlib:sulfur_dust"
+		},
+		{
+			"item": "chemlib:sulfur_dust"
+		},
+		{
+			"item": "chemlib:sulfur_dust"
+		},
+		{
+			"item": "chemlib:sulfur_dust"
+		},
+		{
+			"item": "nyagibits_bytes:sample_vanadium_pentoxide"
+		}
+	],
+	"results": [
+		{
+			"amount": 2000,
+			"fluid": "chemlib:sulfur_trioxide_fluid"
+		},
+		{
+            "chance": 0.75,
+			"item": "nyagibits_bytes:sample_vanadium_pentoxide"
+		}
+	],
+	"processingTime": 200
+}

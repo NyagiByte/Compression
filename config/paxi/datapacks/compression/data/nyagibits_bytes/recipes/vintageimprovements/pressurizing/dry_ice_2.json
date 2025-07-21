@@ -1,0 +1,27 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"secondaryFluidInput": 0,
+	"ingredients": [
+		{
+			"fluid": "chemlib:carbon_dioxide_fluid",
+			"amount": 334
+		},
+		{
+			"item": "nyagibits_bytes:slushy_ice"
+		},
+		{
+			"item": "nyagibits_bytes:sample_dry_ice"
+		}
+	],
+	"results": [
+		{
+            "count": 2,
+			"item": "nyagibits_bytes:sample_dry_ice"
+		},
+		{
+            "chance": 0.5,
+			"item": "minecraft:ice"
+		}
+	],
+	"processingTime": 200
+}
