@@ -69,11 +69,18 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			tasks: [{
-				id: "28BCB739ECCC4ABA"
-				item: "chemlib:cellulose_dust"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "221175E94F821BB6"
+					item: "chemlib:cellulose"
+					type: "item"
+				}
+				{
+					id: "05C07E1B4305B4BB"
+					item: "nyagibits_bytes:pulp"
+					type: "item"
+				}
+			]
 			title: "Mulched Plants"
 			x: -9.5d
 			y: -7.5d
@@ -1819,7 +1826,7 @@
 				type: "item"
 			}]
 			x: -5.5d
-			y: -6.5d
+			y: 4.5d
 		}
 		{
 			dependencies: [
@@ -1839,7 +1846,7 @@
 				type: "item"
 			}]
 			x: -5.5d
-			y: -5.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["472213B0CD3A8117"]
@@ -1961,8 +1968,8 @@
 				type: "checkmark"
 			}]
 			title: "Hellish item requirements yay!"
-			x: -12.5d
-			y: 3.5d
+			x: -12.0d
+			y: 6.5d
 		}
 		{
 			dependencies: ["0F19705DACECC023"]
@@ -1983,8 +1990,8 @@
 				type: "item"
 			}]
 			title: "Plant Corpses"
-			x: -13.5d
-			y: 3.0d
+			x: -13.0d
+			y: 7.0d
 		}
 		{
 			dependencies: [
@@ -2008,8 +2015,8 @@
 				type: "item"
 			}]
 			title: "Hehehe, it spin"
-			x: -14.5d
-			y: 2.5d
+			x: -14.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["66DDC75CB8C3D557"]
@@ -2151,6 +2158,7 @@
 			y: -9.5d
 		}
 		{
+			dependencies: ["4D339608203DD4F6"]
 			description: ["This is the scaling tree for vinegar"]
 			icon: "nyagibits_bytes:bottle_of_vinegar"
 			id: "61409154D028F9A4"
@@ -2416,6 +2424,438 @@
 			title: "When in doubt, add dangerous chemicals"
 			x: 5.5d
 			y: 1.5d
+		}
+		{
+			dependencies: ["68300CAEDAC23F73"]
+			description: ["This is the scaling tree for mana-imbued glucose crystal"]
+			icon: "nyagibits_bytes:mana_imbued_glucose_crystal"
+			id: "1D21362DCA5080A2"
+			rewards: [{
+				id: "20A38F5335096AA9"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0EA507C5B497D490"
+				title: "Mana-Imbued Glucose Crystal"
+				type: "checkmark"
+			}]
+			title: "How Many Licks?"
+			x: -12.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["37FAB0261BCDF974"]
+			description: ["This is the scaling tree for mana-imbued oobleck"]
+			icon: "nyagibits_bytes:mana_imbued_oobleck"
+			id: "703AFBD6C6C2718F"
+			rewards: [{
+				id: "1D5E630D1C35A078"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "52C5AEBF124C2F6F"
+				title: "Mana-Imbued Oobleck"
+				type: "checkmark"
+			}]
+			title: "Gooplishious"
+			x: -13.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1D21362DCA5080A2"]
+			description: [
+				"Quenching the cellulose allows the sugars to re-organize into a beautiful blue sugar crystal"
+				""
+				"&b16 Mana-Imbued Glucose Crystal per craft"
+				""
+				"&7Note: A \"Craft\" is counted using the full bucket of Amorphous Cellulose"
+			]
+			id: "15739E27BF75AB24"
+			rewards: [{
+				id: "5B55078172EF0C0F"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "68958A2354BA35C2"
+					item: "nyagibits_bytes:bucket_of_amorphous_cellulose"
+					type: "item"
+				}
+				{
+					id: "0E2D24051553131F"
+					item: "chemlib:sodium_hydroxide"
+					type: "item"
+				}
+			]
+			title: "Wellness Influencer Product"
+			x: -13.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["15739E27BF75AB24"]
+			description: [
+				"By cranking up the temperature and adding a tiny amount of hpa-4 a better recovery of sugar can be achieved. Now you may be asking &e\"I thought this turned sugar to formic acid?\"&r and normally that would be true, but this has mana in it, which means it's new and different and I said so"
+				""
+				"&b24 Mana-Imbued Glucose Crystal per craft"
+			]
+			id: "063D5E73ECFDB494"
+			rewards: [{
+				id: "527A9DAA36DD9FCD"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4C4C752BFF8C00F5"
+				item: "nyagibits_bytes:sample_hpa_4"
+				type: "item"
+			}]
+			x: -14.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["17226B31EC5F9C6C"]
+			description: [
+				"&6DSP&r, or disodium phosphate, can act as a thickening agent letting your mush get, well, mushier"
+				""
+				"&b6 Mana-Imbued Oobleck per craft"
+			]
+			id: "3CD7CF49F7F7C866"
+			rewards: [{
+				id: "6601D2767DC993A4"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3FFCAD4FF764E261"
+				item: "nyagibits_bytes:dsp_dust"
+				type: "item"
+			}]
+			title: "FDA Approved"
+			x: -15.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["5CBD2601022F5420"]
+			description: ["This is the scaling tree for low voltage capacitors "]
+			icon: "nyagibits_bytes:low_voltage_capacitor"
+			id: "654419675F278563"
+			rewards: [{
+				id: "2D78BC047150D89D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0B07226925F527FB"
+				title: "Low Voltage Capacitor Tree"
+				type: "checkmark"
+			}]
+			title: "Itty Bitty Ca- *bang*"
+			x: 1.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["1C570F4478B123BA"]
+			description: [
+				"Molybdenum Trioxide's useful electric properties allows you to use less polycrystalline silicon carbide per individual capacitor, allowing for more capacitors overall"
+				""
+				"&b4 Low Voltage Capacitors per craft"
+			]
+			id: "511F73CE20F4D98B"
+			rewards: [{
+				id: "55EE044F831F900A"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4949BB185AD1B830"
+				item: "nyagibits_bytes:molybdenum_trioxide_dust"
+				type: "item"
+			}]
+			title: "A Sprinkle Of Heavy Metal"
+			x: 3.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["654419675F278563"]
+			description: [
+				"Polycrystalline Silicon Carbide is a robust high durability high conductivity material, making it vital for electronics"
+				""
+				"&b2 Low Voltage Capacitors per craft"
+			]
+			id: "1C570F4478B123BA"
+			rewards: [{
+				id: "50CF8AAA41A6D617"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "20CB8BB2E758C17C"
+				item: "nyagibits_bytes:polycrystalline_silicon_carbide"
+				type: "item"
+			}]
+			title: "Painfully Important"
+			x: 2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["28208E9BB8763E5C"]
+			description: ["This is the scaling tree for skystone encrusted boules"]
+			icon: "nyagibits_bytes:skystone_encrusted_boule"
+			id: "4FDB45C6E4D43A98"
+			rewards: [{
+				id: "5443F8C7662A1455"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "32CFD80E48099328"
+				title: "Skystone Encrusted Boule Tree"
+				type: "checkmark"
+			}]
+			title: "Painfully Painful.. to hold"
+			x: 1.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["4FDB45C6E4D43A98"]
+			description: [
+				"Ice is needed to rapidly cool molten skystone and allow for crystals to form on the silicon boule"
+				""
+				"&b1 Skystone Encrusted Boule per craft"
+			]
+			id: "0783392C7388549C"
+			rewards: [{
+				id: "2F029AACC23C86B6"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "26AB189C4C39D2E3"
+				item: "nyagibits_bytes:slushy_ice"
+				type: "item"
+			}]
+			title: "Perfect Smoothie Ingredient"
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0783392C7388549C"]
+			description: [
+				"Dry Ice, being colder than regular ice, allows the skystone to crystalize much more effectively, increasing yields"
+				""
+				"&b2 Skystone Encrusted Boules per craft"
+			]
+			id: "29827CF2AE650CE1"
+			rewards: [{
+				id: "6597BA89B9C7C48F"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "76D2C689798698E5"
+				item: "nyagibits_bytes:dry_ice_slab"
+				type: "item"
+			}]
+			title: "Frostbite In A Brick"
+			x: 3.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["256F108BD683D592"]
+			description: ["This is the scaling tree for samples of sulfuric acid &eand&r sulfur trioxide"]
+			icon: "chemlib:sulfur_trioxide"
+			id: "018C4CE17066E57D"
+			rewards: [{
+				id: "2E0726B242E5A711"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "380B93ED12294043"
+				title: "Sulfuric Acid/Sulfur Trioxide Tree"
+				type: "checkmark"
+			}]
+			title: "Stinky Industrial Heaven"
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["018C4CE17066E57D"]
+			description: [
+				"&6Volcanic sulfur&r is the easiest raw source of &dsulfur trioxide&r, a main ingredient of sulfuric acid"
+				""
+				"&b2 Buckets Per Volcanic Sulfur"
+				""
+				"&7Note: Outputs will account for the usage of a full volcanic sulfur as sulfur trioxide can still be sourced from impure dust at a lower rate"
+			]
+			id: "4CA5BE4D9B354E6E"
+			rewards: [{
+				id: "06718FC6D078915C"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "45945C75A4E8CA5A"
+				item: "nyagibits_bytes:raw_volcanic_sulfur"
+				type: "item"
+			}]
+			title: "Kawah Ijen Devil's Gold"
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4CA5BE4D9B354E6E"]
+			description: [
+				"Vanadium Pentoxide acts as a catalytic agent for the conversion of sulfur dioxide to sulfur trioxide in the presence of oxygen, dramatically boosting yields"
+				""
+				"&b3 Buckets Per Volcanic Sulfur &7Assuming Crushing Wheel Processing"
+			]
+			id: "15D8BD61A1FBF64B"
+			rewards: [{
+				id: "6845BFBD070338BD"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "69320063A70E06B1"
+				item: "nyagibits_bytes:sample_vanadium_pentoxide"
+				type: "item"
+			}]
+			title: "Catalytic Stinkyness"
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["68300CAEDAC23F73"]
+			description: ["This is the scaling tree for amorphous cellulose"]
+			icon: "nyagibits_bytes:bucket_of_amorphous_cellulose"
+			id: "223044FE2BE7354C"
+			rewards: [{
+				id: "65C4DC242A0D7975"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "23FFDA9F53C725E4"
+				title: "Amorphous Cellulose"
+				type: "checkmark"
+			}]
+			title: "Drinkable Plants"
+			x: -12.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["223044FE2BE7354C"]
+			description: [
+				"Melting down that &6munchdew mush&r in some acid will give some magical plant tar"
+				""
+				"&b1 Bucket of Amorphous Cellulose per craft"
+			]
+			id: "26C7BA775DA904BE"
+			rewards: [{
+				id: "20353B7CC92216AE"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "492133D3A7CEE871"
+				item: "nyagibits_bytes:munchdew_mush"
+				type: "item"
+			}]
+			title: "Ouroboros Orchard"
+			x: -13.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["26C7BA775DA904BE"]
+			description: [
+				"As it turns out your advances in paper production double up as a useful additional dissolving agent for magical plants... I suppose that's not much of a surprise"
+				""
+				"&b2 Buckets of Amorphous Cellulose per craft"
+			]
+			id: "6A6E9D6F6C750F8B"
+			rewards: [{
+				id: "17728180B4B93A16"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "71772CA481994F0A"
+				item: "nyagibits_bytes:sample_9_10_anthraquinone"
+				type: "item"
+			}]
+			title: "Digestive Aid"
+			x: -14.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["2350536CFA972596"]
+			description: [
+				"With some chemical assistance from &69,10-Antraquinone&r much more pulp can be made from the same quantity of plant matter"
+				""
+				"&b64 Paper per craft"
+			]
+			id: "021CC6257DFE93CB"
+			rewards: [{
+				id: "538824DE7292010B"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1F6B4BDDFE6F82CA"
+				item: "nyagibits_bytes:sample_9_10_anthraquinone"
+				type: "item"
+			}]
+			title: "Liquid Termite?"
+			x: -10.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["703AFBD6C6C2718F"]
+			description: [
+				"By adding some &6starch&r to hydroangea mush it becomes a heat resistant low friction goop. Probably useful"
+				""
+				"&b4 Mana-Imbued Oobleck per craft"
+			]
+			id: "17226B31EC5F9C6C"
+			rewards: [{
+				id: "19AA372501A24EBB"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1B9BCDE806604A20"
+				item: "nyagibits_bytes:hydroangeas_mush"
+				type: "item"
+			}]
+			title: "Self Stressing Ball"
+			x: -14.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["15D8BD61A1FBF64B"]
+			description: [
+				"By purifying the sulfur under a nitrogen atmosphere more sulfur (and other trace elements) can be pulled out of the ore"
+				""
+				"&b12 Buckets Per Volcanic Sulfur"
+			]
+			id: "56B85C34CD500058"
+			rewards: [{
+				id: "05A26E9A6F08C71D"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "239ABF2DDB1149C7"
+				item: "nyagibits_bytes:de_mineralized_volcanic_sulfur"
+				type: "item"
+			}]
+			title: "Sulfur But More"
+			x: 5.0d
+			y: 4.5d
 		}
 	]
 	subtitle: ["I NEED MORE STUFF"]
