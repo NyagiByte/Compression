@@ -1,0 +1,1 @@
+This secondary datapack is to shove in massive lists of files that would bloat up the main datapack, or to paste in certain pack.mcmeta things that would make the main one unreasonably long. Looking at you, alchemistry.

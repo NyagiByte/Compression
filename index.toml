@@ -850,7 +850,15 @@ hash = "2f9032b38c0d562bcbf977a75b8d77e31de701871c8e96c2e3421e57979b8a96"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "54e1940f6a7748855dbe5d69ac348b0256ccb4633058b4c49aa80803499c3f5c"
+hash = "06b79839104f2abf5f6f6d280e7486e43ceef412d2dcb71ff689a31499325b6c"
+
+[[files]]
+file = "config/paxi/datapacks/bulk_recipe_pack/data/README.md"
+hash = "2eabc2ee334e6bb209c5bb07d31e11a71eadd5e749490f555eeb8b2a98f714b4"
+
+[[files]]
+file = "config/paxi/datapacks/bulk_recipe_pack/pack.mcmeta"
+hash = "2f79a8248d4e5c1c1c994e09a142a141213beca627d205874a4f8e64f0d8aa2f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/decorative_alloys/deepbronze_block.json"
@@ -15110,7 +15118,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "284b2737ffcd6a1adec9b1cf5520aa3eb2720b53fa429eb37d398250cb636ea1"
+hash = "9cf1871833bb05d22660f79a20e50dd0ad2cc2eefdc3e7770f8a10011e57a3b0"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -16343,10 +16351,6 @@ hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
 [[files]]
 file = "kubejs/exported/tags/sandbox/template_pool_extension.txt"
 hash = "d51b5d4503be456cdd8cc9e82574990eb19d87f81669f9c7850fc5547d9b5454"
-
-[[files]]
-file = "kubejs/server_scripts/chemlib_fusion_removals.js"
-hash = "785b5cc0d8f1e68fe4224df8ad6c06939086619cfe1cc734e02a6e936f625013"
 
 [[files]]
 file = "kubejs/server_scripts/input_replace.js"
