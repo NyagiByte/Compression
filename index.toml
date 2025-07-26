@@ -353,6 +353,10 @@ file = "config/compressedengineering-common.toml"
 hash = "a9a840ea417d3da8dd7ade0556312b49d98ae9ffdc316f3e78501df5f3211392"
 
 [[files]]
+file = "config/compressiontweaks-common.toml"
+hash = "54773cf627d50bf5a4c25d4a7996a29fcfc70f4275681ddf14bc98cb759b46b4"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "667b50af91a4312360fac0502a25f9497e745e3e321b297ed4efb6e257e81db4"
 
@@ -12566,7 +12570,7 @@ hash = "007e71b8367439f41231098bd0e72b5cb4bd1b87fd870cfbd909105ce30992c9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/bubbled_pre_peroxide_fluid.json"
-hash = "8a8566fce9ebb358babf3bc4cc5b7c4e9a5f4bf15db3f67355e39a13d32c8f93"
+hash = "5a8e5f456005c9c64fdf7bd18bcfb940933fab2e7e6381e4434d39638eb069d0"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/deactivated_entropic_mush.json"
@@ -12574,11 +12578,11 @@ hash = "8fa9e42cd7f1af4189cea0686696dc92a8cc4d0c61f3e69b200a53910580880c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/dry_ice_1.json"
-hash = "b6345259d1347c22b35989385ea57716ce99353e32032682e2116d922987495b"
+hash = "076b83e06fbe1f2ce7c97b90a81daea64f3659f79be222ffb0586971c5093ecf"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/dry_ice_2.json"
-hash = "c6457961ff8a9edbbdc18beeae08a01116e03e1c4d9621bc3633fd50972890d3"
+hash = "06c342cea8fada9a12e0afdb6132b9fc3259c5d3fac1bea11d79496ca3f1186f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/fluorophlogopite.json"
@@ -12594,7 +12598,7 @@ hash = "f6c7657e6eb0db2929490f41801d780f507ee825456dc31720eef6921db2dd4f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/hydrogen_sulfide.json"
-hash = "3dddf95149bb53fc52cde4d5bab16cc29e676d1e03bb1140a0709d91ae189e39"
+hash = "b959f5589ca85867646dee707e6a8c40f0c3d8289a403fa733624c304ca8c54b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/lithium_alumino_solution_fluid.json"
@@ -12602,7 +12606,7 @@ hash = "e8aeecfd3972db5c79e8e64787b0ece5fa523765ead491ae10594a3f1e97be82"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/molybdenum_disulfide_dust.json"
-hash = "e3df49f35dfea0b6c39b6e734f95752f1fc7dd7cbca63cae3528c56aa9b31105"
+hash = "cfffd3d075a679c65a878b49bcb83f28f7853379973ae8bb1c6d84c1d765c7f6"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/polycrystalline_silicon_carbide_t0.json"
@@ -12614,7 +12618,7 @@ hash = "611d86c82d381376c49a0cd3cffcc0e5596a655360bb940069b7b8dbcd6128a9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/precursor_3_hpa_4_fluid.json"
-hash = "8aaa03d117798067d7b331050a4da9914f89dbfd0a524e75c2387324b2bc8814"
+hash = "9c92075796c46774afa0a855ee6b2ac7c92a0aa9759ea2c640259a1de65da2aa"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/quenched_thermalsidian.json"
@@ -12626,7 +12630,7 @@ hash = "03d4a7a273ed8579c763d78cb886e743764933148413ae861556f2bc4966d47d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/sulfur_trioxide_fluid.json"
-hash = "d4861606e9ebe228f59ab1cb02ef10ce8e32f17cb0da143be96a73a0dc868f6c"
+hash = "8d16939f6d0ce182bb97fff7d5f82c89298aff0d93c27a776ec79617f4e8f11c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/used_mana_bomb_calorimeter.json"
@@ -16592,8 +16596,8 @@ hash = "a840f125eb801e899c969ae883619e0de201ebaf600b372e0ae1bad10ea36edd"
 metafile = true
 
 [[files]]
-file = "mods/compressiontweaks-1.19.2-1.1.3.jar"
-hash = "778d4d027bd0a3a35c46a34ec9eeb25efdb091132ff6339ca32e0693091b9107"
+file = "mods/compressiontweaks-1.19.2-1.1.4.jar"
+hash = "2c10c4a29e633875f4c1cfa3b001a04d59cb6b2ab9bfcfa6c019d2aaf7e690c0"
 
 [[files]]
 file = "mods/configured.pw.toml"

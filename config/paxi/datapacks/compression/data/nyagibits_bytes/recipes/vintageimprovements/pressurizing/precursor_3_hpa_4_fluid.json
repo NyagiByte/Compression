@@ -5,7 +5,7 @@
 	"ingredients": [
 		{
 			"fluid": "nyagibits_bytes:diethyl_ether_fluid",
-			"amount": 334
+			"amount": 500
 		},
 		{
 			"fluid": "nyagibits_bytes:precursor_2_hpa_4_fluid",
