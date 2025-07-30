@@ -1,0 +1,15 @@
+{
+    "type": "create:milling",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:activated_charcoal"
+      }
+    ],
+    "results": [
+      {
+        "count": 4,
+        "item": "chemlib:carbon_dust"
+      }
+    ]
+  }

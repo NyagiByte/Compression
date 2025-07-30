@@ -1,0 +1,15 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "chemlib:hydroxylapatite"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "nyagibits_bytes:calcium_phosphate_dust"
+      }
+    ]
+  }
