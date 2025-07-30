@@ -8997,6 +8997,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "d0e475c3a64a272d7ee6f5d4a73272c3e5f661fc4156e30b9ac3a7b428ee95a5"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/crude_silicon_boule_t1.json"
+hash = "0690ba4e4d4228d2a7e95b40242c6d25adedcee4822b681e5374aaf21db3ed15"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/dense_slag.json"
 hash = "e3527dbba70ce0e1d01795b9a47ea02e00d05c35fb0d5a7425231ad60f89a7c4"
 
@@ -9331,6 +9335,14 @@ hash = "e9d29bc229d4724f0ffadcd4df420b403575f46d8e242e12cd4fc6317ee8c1ae"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/synthetic_mica.json"
 hash = "f96c43109541938fbe6bb926dd488e046e489285950f14f84568a5080a741101"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/synthetic_mica_t1.json"
+hash = "235439be88822fb642059cbd6cec2eef6124379511922fd1e86fc8c59136f8d8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/synthetic_mica_t2.json"
+hash = "8235d656ef9624e435a6cea861a5b2a3f127acc2a9d57bd5d17a05bd24b5f5f7"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/black_glazed_terracotta_t1.json"
@@ -12646,7 +12658,15 @@ hash = "78dc30d1a4230e542fd2ee6974eeb72dd260a7b733f0d3cc601dc0d87019cd17"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/polycrystalline_silicon_carbide_t1.json"
-hash = "611d86c82d381376c49a0cd3cffcc0e5596a655360bb940069b7b8dbcd6128a9"
+hash = "fcd6e9046a121ec8ac10fe015d8f009a7aa6d6b70d93be4c353aac09a765deeb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/polycrystalline_silicon_carbide_t2.json"
+hash = "7873304f9a867ddd7a866070a89eb5ec32130022b4975b8ddb836052b10df8dc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/polycrystalline_silicon_carbide_t3.json"
+hash = "69b12a2dbf9d19ade771e98e8d0f3c98e6e0a323aed8b9984c6a9640dda6cc62"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/precursor_3_hpa_4_fluid.json"
@@ -15158,7 +15178,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "9cf1871833bb05d22660f79a20e50dd0ad2cc2eefdc3e7770f8a10011e57a3b0"
+hash = "44b1fbfd5a98154d98adce278114526484fdad616efc7af7e9e29e3cd3bb557d"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -15698,7 +15718,7 @@ hash = "61424293e9f1219288eac672e6ffa9ea7a0479e7488c8983c93e1be6736cd9e8"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/thermal/lang/en_us.json"
-hash = "9cd30cdde3f4df386c19ad3a05ba6f7ee1588fc76511d8158e9b52832d34f986"
+hash = "c81ed79e385dd7d391c4a61d37ee18861d3626ba6806f474832b5dbe6e8f6457"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/thermal/lang/pt_br.json"
