@@ -1,0 +1,19 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "thermal:apatite_block"
+      }
+    ],
+    "processingTime": 100,
+    "results": [
+      {
+        "count": 64,
+        "item": "thermal:apatite_dust"
+      },
+      {
+        "count": 8,
+        "item": "thermal:apatite_dust"
+      }
+    ]
+  }

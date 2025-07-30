@@ -1,4 +1,8 @@
 {
+    "item.thermal.apatite": "Industrial Fluorohydroxylapatite",
+    "item.thermal.apatite_dust": "Industrial Fluorohydroxylapatite Dust",
+    "block.thermal.apatite_block": "Block of Industrial Fluorohydroxylapatite",
+
     "item.thermal.bronze_ingot": "CuSn₂₅ Bronze Ingot",
     "item.thermal.bronze_nugget": "CuSn₂₅ Bronze Nugget",
     "item.thermal.bronze_dust": "CuSn₂₅ Bronze Dust",
