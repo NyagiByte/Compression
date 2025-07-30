@@ -8,7 +8,7 @@
     "block.immersiveengineering.slab_storage_steel": "Mild Steel Slab",
     "item.immersiveengineering.plate_steel": "Mild Steel Plate",
     "item.immersiveengineering.dust_steel": "Mild Steel Grit",
-    
+
     "desc.immersiveengineering.info.mineral.fossil_deposit": "Fossil Deposit",
     "desc.immersiveengineering.info.mineral.endermorphic_deposit": "Endermorphic Deposit",
     "desc.immersiveengineering.info.mineral.hydrocarbon_rich_deposit": "Hydrocarbon Rich Deposit",
@@ -23,6 +23,7 @@
     "desc.immersiveengineering.info.blueprint.components":"Crafting Components I",
     "desc.immersiveengineering.info.blueprint.magitech":"Magitech Artificery I",
     "desc.immersiveengineering.info.blueprint.multiblocks":"Multiblocks I",
+    "desc.immersiveengineering.info.blueprint.intermediates":"Intermediates I",
     "desc.immersiveengineering.info.blueprint.utility_tools":"Utility Tools I",
     "desc.immersiveengineering.info.blueprint.utility_tools_t1":"Utility Tools II"   
 }
