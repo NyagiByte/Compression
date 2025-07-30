@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:pile_of_crude_mechanical_parts"},
+      "B": {"item":"nyagibits_bytes:blank_blueprint"}
+    },
+    "pattern": [
+      "A",
+      "B"
+    ],
+    "result": {
+        "item":"immersiveengineering:blueprint",
+        "nbt":{"blueprint":"intermediates"}
+    }
+  }

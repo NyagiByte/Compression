@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"create:wrench"},
+      "B": {"item":"nyagibits_bytes:blank_blueprint"}
+    },
+    "pattern": [
+      "A",
+      "B"
+    ],
+    "result": {
+        "item":"immersiveengineering:blueprint",
+        "nbt":{"blueprint":"utility_tools"}
+    }
+  }

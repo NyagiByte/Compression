@@ -1,17 +1,17 @@
 {
     "type":"immersiveengineering:blueprint",
-    "category":"components",
+    "category":"intermediates",
     
     "inputs":[
         {
             "base_ingredient":{
-                "item":"minecraft:white_concrete_powder"},
+                "item":"botania:manaweave_cloth"},
                 "count":8},
         {
             "base_ingredient":{
-                "item":"vintageimprovements:steel_rod"},
+                "item":"nyagibits_bytes:sealant"},
                 "count":2}
             ],
     "result":{
-            "item":"nyagibits_bytes:high_strength_concrete"
+            "item":"nyagibits_bytes:duct_tape"
         }}
