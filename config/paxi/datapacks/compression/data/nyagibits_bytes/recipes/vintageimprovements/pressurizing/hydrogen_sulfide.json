@@ -16,7 +16,7 @@
 	"results": [
 		{
 			"fluid": "chemlib:hydrogen_sulfide_fluid",
-			"amount": 2335
+			"amount": 2000
 		}
 	],
 	"processingTime": 200

@@ -14,7 +14,7 @@
 	"results": [
 		{
 			"fluid": "chemlib:carbon_dioxide_fluid",
-			"amount": 1
+			"amount": 250
 		},
 		{
 			"fluid": "nyagibits_bytes:hydrogen_peroxide_032_fluid",

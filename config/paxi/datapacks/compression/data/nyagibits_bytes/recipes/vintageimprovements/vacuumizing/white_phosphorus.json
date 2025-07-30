@@ -1,0 +1,184 @@
+{
+	"type":"vintageimprovements:vacuumizing",
+    "heatRequirement": "heated",
+	"secondaryFluidOutput": 0,
+	"ingredients": [
+		{
+			"item": "chemlib:carbon_dust"
+		},
+		{
+			"item": "chemlib:carbon_dust"
+		},
+		{
+			"item": "chemlib:carbon_dust"
+		},
+		{
+			"item": "chemlib:carbon_dust"
+		},
+		{
+			"item": "chemlib:carbon_dust"
+		},
+		{
+			"item": "nyagibits_bytes:calcium_phosphate_dust"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		},
+		{
+			"item": "chemlib:silicon_dioxide"
+		}
+	],
+	"results": [
+		{
+			"fluid": "chemlib:carbon_monoxide_fluid",
+			"amount": 4000
+		},
+		{
+            "count": 8,
+			"item": "nyagibits_bytes:sample_white_phosphorus"
+		},
+		{
+            "count": 3,
+			"item": "nyagibits_bytes:calcium_silicate_dust"
+		}
+	],
+	"processingTime": 200
+}
