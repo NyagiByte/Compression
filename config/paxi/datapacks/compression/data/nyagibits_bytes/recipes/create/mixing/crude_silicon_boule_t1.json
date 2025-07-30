@@ -1,0 +1,72 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "minecraft:sand"
+      },
+      {
+        "item": "chemlib:silicon_dioxide"
+      },
+      {
+        "item": "chemlib:silicon_dioxide"
+      },
+      {
+        "item": "chemlib:silicon_dioxide"
+      },
+      {
+        "item": "chemlib:silicon_dioxide"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "nyagibits_bytes:crude_silicon_boule"
+      }
+    ]
+  }

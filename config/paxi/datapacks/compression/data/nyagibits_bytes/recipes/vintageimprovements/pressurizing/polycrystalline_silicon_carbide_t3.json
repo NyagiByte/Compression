@@ -5,7 +5,7 @@
 	"secondaryFluidOutput": 0,
 	"ingredients": [
 		{
-			"fluid": "chemlib:nitrogen_fluid",
+			"fluid": "chemlib:argon_fluid",
 			"amount": 500
 		},
 		{
@@ -26,12 +26,12 @@
 	],
 	"results": [
 		{
-			"fluid": "chemlib:nitrogen_fluid",
-			"amount": 400
+			"fluid": "chemlib:argon_fluid",
+			"amount": 450
 		},
 		{
-            "chance": 0.5,
-			"count": 1,
+            "chance": 1,
+			"count": 2,
 			"item": "nyagibits_bytes:polycrystalline_silicon_carbide"
 		}
 	],
