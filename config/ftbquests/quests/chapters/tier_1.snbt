@@ -3197,6 +3197,7 @@
 				item: "nyagibits_bytes:mana_imbued_primary_explosive"
 				type: "item"
 			}]
+			title: "Elastic Anger"
 			x: -2.0d
 			y: 6.5d
 		}
