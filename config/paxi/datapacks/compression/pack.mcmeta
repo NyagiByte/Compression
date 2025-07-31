@@ -102,6 +102,7 @@
 		{"namespace": "thermal", "path": "recipes/machines/furnace/furnace_rotten_flesh_to_leather.json"},
 
 		{"namespace": "architects_palette", "path": "recipes/charcoal_block.json"},
+		{"namespace": "architects_palette", "path": "recipes/tuff_bricks.json"},
 
 		{"namespace": "architects_palette", "path": "smelting/charcoal_block_from_logs_that_burn_smoking.json"},
 
@@ -995,6 +996,7 @@
 		{"namespace": "quark", "path": "recipes/automation/crafting/feeding_trough.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/compressed/carrot_crate.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/compressed/potato_crate.json"},
+		{"namespace": "quark", "path": "recipes/building/crafting/stonevariants/vanilla/polished_tuff.json"},
 
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/cobblestone_furnace.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/mixed_furnace.json"},
@@ -1600,6 +1602,7 @@
 		{"namespace": "blockofsky", "path": "recipes/sky_block.json"},
 
 		{"namespace": "yuushya", "path": "recipes/plain_gift_box.json"},
+		{"namespace": "yuushya", "path": "recipes/stone/gray_wall_a.json"},
 
 		{"namespace": "supplementaries", "path": "recipes/candy.json"},
 		{"namespace": "supplementaries", "path": "recipes/pancake.json"},
