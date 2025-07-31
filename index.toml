@@ -722,7 +722,7 @@ hash = "0728bc7e5a4f9993b0d3ae894cfcb8dbecd33cb4c63dbf7f01983d34f29aa1f2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
-hash = "4dff3c71d1a5d6d39e155e6a979c488fa2417226f3caac2a837552689c9afb18"
+hash = "3ed7a779df05e40a06f1f8d8cc1a389c97a5eae160d79385b8ca04dbd37e6be0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
@@ -730,7 +730,7 @@ hash = "5eaa01737c46ffc31178fbfacbaaf71d9b0492e8a34838f1973905af60636bd4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "3953b52e2d2cb7863ec35aee706b1c5d26f2fb3805e8090f8bc80bd7f1401d1a"
+hash = "f812865b8276009677d2ab9f5257f934296b9b31a4012af2bdfb02c92a59d57d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -9886,7 +9886,7 @@ hash = "882bfd0855ae4f273cf1d3d2dc88ac0567e8fe0e9420008165a93ec489bb1b7a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/multiblocks/t1/README.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "c0b7d2a8ec621a3795b9f051f9a435aae105e9a35f094a5ffcf99629f6712adf"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/utility_tools/t1/4s_toolbox.json"
@@ -15202,7 +15202,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "44b1fbfd5a98154d98adce278114526484fdad616efc7af7e9e29e3cd3bb557d"
+hash = "04d599c8b6e171a3649acedb0a8bc1d8eb283a8856554289029539bd3c270ae4"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -15570,7 +15570,7 @@ hash = "66e6538b4427737aa056d85badab634f8821d1df9b92c5d4c0ae2794928fb77b"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/lang/en_us.json"
-hash = "a3e99ff357716e64fd5bf1ba9d8c919e9864ddeadb2238138d03dc234553e82d"
+hash = "6d7adbeb843994bc3712eba7d676153cda859c41e28201a2b00bf67c47ea35e3"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/lang/pt_br.json"
