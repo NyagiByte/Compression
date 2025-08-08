@@ -616,6 +616,7 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/enderium.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/niter.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/cinnabar.json"},
+		{"namespace": "alchemistry", "path": "recipes/dissolver/dusts/apatite.json"},
 
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/netherite.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/plates/boron.json"},
