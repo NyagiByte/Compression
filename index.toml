@@ -34,7 +34,7 @@ hash = "a1a5822f28ad5c597498ee532838cef17a747f020f21c72fcc8a419f5134d53b"
 
 [[files]]
 file = "config/MusicTriggers/example/main.toml"
-hash = "8b165271f2da023d2c602cc3f775e917671eb902dcecf197824e23b0265dfd3f"
+hash = "af3903eddc96df0530886cb1152ce5b396321ccae37205c0dad12625d9ac856c"
 
 [[files]]
 file = "config/MusicTriggers/example/redirect.txt"
@@ -57,6 +57,22 @@ file = "config/MusicTriggers/registration.toml"
 hash = "d674ad8b711aea989e45dcc154feda2c42a1c61127b56f8b2992faab965d9b9a"
 
 [[files]]
+file = "config/MusicTriggers/songs/alonelyspeckinthegreatenvelopingcosmicdark.mp3"
+hash = "bafc084a9c5fa156e4035e44f79cb49c286f8893415faa48debabfafc69a0295"
+
+[[files]]
+file = "config/MusicTriggers/songs/bluesunrise.mp3"
+hash = "84e823711e6e99db5fcded9209fbe3fda57df797598e5e89d890574cbc79dea2"
+
+[[files]]
+file = "config/MusicTriggers/songs/edditsinthespacetimecontinuum.mp3"
+hash = "59fa7413b0f70ba756e2457687de1d0c79cc638690dd52889f47d34a4c66004a"
+
+[[files]]
+file = "config/MusicTriggers/songs/gentlewinds.mp3"
+hash = "c34c92d9db953ba8129d0a514e6ca4b89f1473ad3d3398f94c3dfdc9574dcf56"
+
+[[files]]
 file = "config/MusicTriggers/songs/godseyesarelikemymotherseyes.mp3"
 hash = "9af0f103b41fba6756c3fca7af4d809910fbe8487a52a56d0f46c6aa879d89b9"
 
@@ -67,6 +83,10 @@ hash = "c33951a5e91a566d8b6590b44cc1c8190c1f58d39257607726bda9a8057fbff1"
 [[files]]
 file = "config/MusicTriggers/songs/hydra.mp3"
 hash = "16adb9754f5dfae81884dd7900942268283c03ea315ff0330d7e8b1032f3d639"
+
+[[files]]
+file = "config/MusicTriggers/songs/innocence.mp3"
+hash = "69a8d32e8fb4167eac1beaca4cec8bf141e39fe0c068801cbdd7a733e66eb227"
 
 [[files]]
 file = "config/MusicTriggers/songs/lastmoonlaststars.mp3"
@@ -83,6 +103,10 @@ hash = "b86bee90e2f96d7368f0ec907ccdfc2123609fd659dcfeae9b526eb0bd98fce2"
 [[files]]
 file = "config/MusicTriggers/songs/mobius.mp3"
 hash = "607d4fd1ab2419918b537584fb72098c0ebcfbf966a4ee7123e095cba7f79075"
+
+[[files]]
+file = "config/MusicTriggers/songs/pandorasbox.mp3"
+hash = "c322c54b8f4cdb0ec785c09afe42b8d825afed41a6485b2d718e50dddea30c57"
 
 [[files]]
 file = "config/MusicTriggers/songs/pyramid.mp3"
@@ -141,8 +165,16 @@ file = "config/MusicTriggers/songs/tobeahuman.mp3"
 hash = "93704a15794541f411239b97b090a02073d25dd115b530e931f0e55aeca67f55"
 
 [[files]]
+file = "config/MusicTriggers/songs/west.mp3"
+hash = "0eb9d2e06faa4f280da528e13df9e68ca4344161e7103cd82800ebca85a153b7"
+
+[[files]]
 file = "config/MusicTriggers/songs/wheredoyouhideinthebrightlight.mp3"
 hash = "db6e7a04f10b801db1b2b24e3f08a99514237577363d9fe8ad3b80f2b4800553"
+
+[[files]]
+file = "config/MusicTriggersBackup/example/main.toml"
+hash = "096ac4a4d4a4d0d8f1311bf5248756ea5e95c389d86d0fcf163042079fe2d365"
 
 [[files]]
 file = "config/ae2/client.json"
@@ -610,7 +642,7 @@ hash = "d36396ec9ea6d5ca128f561904df2911b8694c3ff5852fc9431cdaf2d5596f4d"
 
 [[files]]
 file = "config/fancymenu/customization/credits_layout.txt"
-hash = "f9ed99359261961a2ee44fd7a73c8f06a355cb389f2ae058b03a07534711daf9"
+hash = "e66b1ddc9e106dc4c414a00af245c83cb1727e2c33d918335baf56f448114f05"
 
 [[files]]
 file = "config/fancymenu/customization/menu_music.txt"
