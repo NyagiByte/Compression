@@ -2,43 +2,82 @@
 #  Line 2
 
 [songs]
+	[songs.alonelyspeckinthegreatenvelopingcosmicdark]
+		chance = "1"
+		triggers = [ "generic" ]
+	[songs.innocence]
+		chance = "1"
+		triggers = [ "generic" ]
+	[songs.gentlewinds]
+		chance = "1"
+		triggers = [ "generic" ]
+	[songs.west]
+		chance = "1"
+		triggers = [ "generic" ]
+	[songs.pandorasbox]
+		chance = "1"
+		triggers = [ "generic" ]
+	[songs.edditsinthespacetimecontinuum]
+		chance = "1"
+		triggers = [ "generic" ]
+	[songs.bluesunrise]
+		chance = "1"
+		triggers = [ "generic" ]
 	[songs.godseyesarelikemymotherseyes]
+		chance = "1"
 		triggers = [ "menu" ]
 	[songs.heavenexistsandisfullofpoorpeople]
+		chance = "1"
 		triggers = [ "generic" ]
 	[songs.hydra]
-		triggers = [ "Generic" ]
+		chance = "1"
+		triggers = [ "generic" ]
 	[songs.lastmoonlaststars]
-		triggers = [ "Time-Night" ]
+		chance = "1"
+		triggers = [ "time-Night" ]
 	[songs.metamorphoses]
-		triggers = [ "Time-Night" ]
+		chance = "1"
+		triggers = [ "time-Night" ]
 	[songs.mobius]
-		triggers = [ "Time-Night" ]
+		chance = "1"
+		triggers = [ "time-Night" ]
 	[songs.relic12]
-		triggers = [ "Time-Night" ]
+		chance = "1"
+		triggers = [ "time-Night" ]
 	[songs.relic2]
+		chance = "1"
 		triggers = [ "time-Night" ]
 	[songs.relic4_1]
+		chance = "1"
 		triggers = [ "time-Night" ]
 	[songs.relic4_2]
+		chance = "1"
 		triggers = [ "time-Night" ]
 	[songs.relic6]
+		chance = "1"
 		triggers = [ "time-Night" ]
 	[songs.relic9]
+		chance = "1"
 		triggers = [ "time-Night" ]
 	[songs.silicontransmittercompress]
 		triggers = [ ]
 	[songs.silicontransmitterdecay]
+		chance = "1"
 		triggers = [ "generic" ]
 	[songs.silicontransmitterruin]
+		chance = "1"
 		triggers = [ "time-Night" ]
 	[songs.thankyouforgivingsomuch]
+		chance = "1"
 		triggers = [ "generic" ]
 	[songs.thegloriousexperienceofdyingpeacefully]
+		chance = "1"
 		triggers = [ "generic" ]
 	[songs.tobeahuman]
-		triggers = [ "Time-Night" ]
+		chance = "1"
+		triggers = [ "time-Night" ]
 	[songs.wheredoyouhideinthebrightlight]
+		chance = "1"
 		triggers = [ "generic" ]
 
 [triggers]
