@@ -1,0 +1,28 @@
+CHECKLIST FOR CORRUPT CHUNK:
+
+!!Rename File to the date of sign followed by chunk co-ordinates!!
+
+Player Affected:
+Date Occured:
+Date Reported:
+Date Signed:
+Signer:
+
+Does the chunk contain AE2: Y/N
+If Y what blocks:
+Further Info if Y:
+If Y is on chunk border: Y/N
+Is AE2 Operational / Powered Enough: Y/N
+
+Does the chunk contain create: Y/N
+If Y what blocks:
+Further Info if Y:
+If Y is on chunk border: Y/N
+Is Create machine(s) overstressed: Y/N
+
+Is Chunk claimed: Y/N
+Is Chunk Force Loaded: Y/N
+
+Was a Backup occuring: Y/N
+Was a Restart occuring: Y/N
+Was there a Server crash: Y/N
