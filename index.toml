@@ -16545,6 +16545,10 @@ file = "kubejs/startup_scripts/worldgen.js"
 hash = "e36d34120d86356da340083fbccf6161629e61a2e40946fa633b2d1bbf10012a"
 
 [[files]]
+file = "logs/corruption_data/compression_checklist_template"
+hash = "86996855f096f721cc5451de77d53f187805133e38cdf05d6fff72be61549fc3"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "f971e00fdadfb0983ef64ca6a23734530900d7462c52bbf727c1e036482bc9d3"
 metafile = true
@@ -17166,10 +17170,6 @@ metafile = true
 file = "mods/nuclearcraft-neoteric.pw.toml"
 hash = "a64a7f239c438513d1f92766d353cfe547b9a03eaa33b53c937e179bac2ca406"
 metafile = true
-
-[[files]]
-file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "37f07b624a3377b04332edbf6c244eebb997afd5d473ef808661d69cc1106cc2"
 
 [[files]]
 file = "mods/nyagis-bits-bytes.pw.toml"
