@@ -894,7 +894,7 @@ hash = "2eabc2ee334e6bb209c5bb07d31e11a71eadd5e749490f555eeb8b2a98f714b4"
 
 [[files]]
 file = "config/paxi/datapacks/bulk_recipe_pack/pack.mcmeta"
-hash = "2f79a8248d4e5c1c1c994e09a142a141213beca627d205874a4f8e64f0d8aa2f"
+hash = "6294baf99df19ce05299e40c2a13686ae04356dd5fe8926ef08401d4cc054661"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/decorative_alloys/deepbronze_block.json"
@@ -16018,7 +16018,7 @@ hash = "8a2886b368c9dd1ddfb2e98d3d97261269623a24985ba275c1b436457dc46a03"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
-hash = "4f1c7d303a7083d925ecef48027f99983beed01e4cd04a09157abb27fad30e98"
+hash = "33258b541611fb5deb1b4bf27076a377efc3b07a0ea2840f0b15959a27c3286e"
 
 [[files]]
 file = "defaultconfigs/ftbchunks/client-config.snbt"
