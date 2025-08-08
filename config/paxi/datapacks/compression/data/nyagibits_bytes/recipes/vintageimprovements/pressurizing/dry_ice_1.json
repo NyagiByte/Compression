@@ -4,7 +4,7 @@
 	"ingredients": [
 		{
 			"fluid": "chemlib:carbon_dioxide_fluid",
-			"amount": 334
+			"amount": 500
 		},
 		{
 			"item": "nyagibits_bytes:slushy_ice"

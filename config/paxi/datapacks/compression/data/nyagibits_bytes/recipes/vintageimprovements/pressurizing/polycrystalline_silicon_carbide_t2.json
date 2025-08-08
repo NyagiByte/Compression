@@ -1,0 +1,34 @@
+{
+	"type":"vintageimprovements:pressurizing",
+    "heatRequirement": "superheated",
+	"secondaryFluidInput": 0,
+	"ingredients": [
+		{
+			"fluid": "chemlib:helium_fluid",
+			"amount": 500
+		},
+		{
+			"item": "nyagibits_bytes:crude_silicon_boule"
+		},
+		{
+			"item": "chemlib:carbon_dust"
+		},
+		{
+			"item": "chemlib:carbon_dust"
+		},
+		{
+			"item": "chemlib:carbon_dust"
+		},
+		{
+			"item": "chemlib:carbon_dust"
+		}
+	],
+	"results": [
+		{
+            "chance": 1,
+			"count": 1,
+			"item": "nyagibits_bytes:polycrystalline_silicon_carbide"
+		}
+	],
+	"processingTime": 800
+}

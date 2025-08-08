@@ -102,6 +102,7 @@
 		{"namespace": "thermal", "path": "recipes/machines/furnace/furnace_rotten_flesh_to_leather.json"},
 
 		{"namespace": "architects_palette", "path": "recipes/charcoal_block.json"},
+		{"namespace": "architects_palette", "path": "recipes/tuff_bricks.json"},
 
 		{"namespace": "architects_palette", "path": "smelting/charcoal_block_from_logs_that_burn_smoking.json"},
 
@@ -460,6 +461,19 @@
 		{"namespace": "vintageimprovements", "path": "recipes/pressing/platinum_ingot.json"},
 		{"namespace": "vintageimprovements", "path": "recipes/pressing/palladium_ingot.json"},
 		{"namespace": "vintageimprovements", "path": "recipes/pressing/cast_iron_ingot.json"},
+
+		{"namespace": "vintageimprovements", "path": "recipes/centrifugation/gray_dye.json"},
+		{"namespace": "vintageimprovements", "path": "recipes/centrifugation/cyan_dye.json"},
+		{"namespace": "vintageimprovements", "path": "recipes/centrifugation/pink_dye.json"},
+		{"namespace": "vintageimprovements", "path": "recipes/centrifugation/purple_dye.json"},
+		{"namespace": "vintageimprovements", "path": "recipes/centrifugation/light_blue_dye.json"},
+		{"namespace": "vintageimprovements", "path": "recipes/centrifugation/magenta_dye.json"},
+		{"namespace": "vintageimprovements", "path": "recipes/centrifugation/orange_dye.json"},
+		{"namespace": "vintageimprovements", "path": "recipes/centrifugation/lime_dye.json"},
+		{"namespace": "vintageimprovements", "path": "recipes/centrifugation/light_gray_dye.json"},
+		{"namespace": "vintageimprovements", "path": "recipes/centrifugation/mud.json"},
+		{"namespace": "vintageimprovements", "path": "recipes/centrifugation/ender_eye.json"},
+		{"namespace": "vintageimprovements", "path": "recipes/centrifugation/magma_cream.json"},
 
 		{"namespace": "create", "path": "recipes/splashing/immersiveengineering/crushed_raw_aluminum.json"},
 		{"namespace": "create", "path": "recipes/splashing/immersiveengineering/crushed_raw_nickel.json"},
@@ -982,6 +996,7 @@
 		{"namespace": "quark", "path": "recipes/automation/crafting/feeding_trough.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/compressed/carrot_crate.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/compressed/potato_crate.json"},
+		{"namespace": "quark", "path": "recipes/building/crafting/stonevariants/vanilla/polished_tuff.json"},
 
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/cobblestone_furnace.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/mixed_furnace.json"},
@@ -1587,6 +1602,7 @@
 		{"namespace": "blockofsky", "path": "recipes/sky_block.json"},
 
 		{"namespace": "yuushya", "path": "recipes/plain_gift_box.json"},
+		{"namespace": "yuushya", "path": "recipes/stone/gray_wall_a.json"},
 
 		{"namespace": "supplementaries", "path": "recipes/candy.json"},
 		{"namespace": "supplementaries", "path": "recipes/pancake.json"},

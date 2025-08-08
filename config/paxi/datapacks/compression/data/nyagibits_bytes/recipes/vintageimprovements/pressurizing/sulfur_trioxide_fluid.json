@@ -5,7 +5,7 @@
 	"ingredients": [
 		{
 			"fluid": "chemlib:oxygen_fluid",
-			"amount": 334
+			"amount": 500
 		},
 		{
 			"item": "chemlib:sulfur_dust"

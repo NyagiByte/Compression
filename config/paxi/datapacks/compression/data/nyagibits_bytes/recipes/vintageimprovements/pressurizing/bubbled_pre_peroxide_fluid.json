@@ -4,7 +4,7 @@
 	"ingredients": [
 		{
 			"fluid": "chemlib:hydrogen_fluid",
-			"amount": 334
+			"amount": 500
 		},
 		{
 			"fluid": "chemlib:oxygen_fluid",

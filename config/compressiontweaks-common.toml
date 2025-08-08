@@ -1,0 +1,11 @@
+
+["CompressionTweaks Config"]
+	#Whether to enable the AE2 meteor compass to also track tagged blocks spawned in jigsaw structures. Note that disabling this option down the line cannot automatically cleanup existing targets.
+	"Enable Boulder Compass" = true
+	#The minimum y-level where bottling up clouds is possible
+	"Cloud in a Bottle Minimum Y-Level" = 191
+	#The maximum y-level where bottling up clouds is possible
+	"Cloud in a Bottle Maximum Y-Level" = 196
+	#The capacity of the internal tanks for the Vintage Improvements compressor
+	"VI Compressor Fluid Capacity" = 10000
+

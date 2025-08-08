@@ -1,0 +1,26 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"secondaryFluidInput": 0,
+	"secondaryFluidOutput": 0,
+	"ingredients": [
+		{
+			"fluid": "chemlib:carbon_monoxide_fluid",
+			"amount": 500
+		},
+		{
+			"fluid": "minecraft:water",
+			"amount": 500
+		}
+	],
+	"results": [
+		{
+			"amount": 1000,
+			"fluid": "chemlib:hydrogen_fluid"
+		},
+		{
+			"amount": 500,
+			"fluid": "chemlib:carbon_dioxide_fluid"
+		}
+	],
+	"processingTime": 200
+}

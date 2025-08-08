@@ -1,4 +1,8 @@
 {
+    "item.thermal.apatite": "Industrial Fluorohydroxylapatite",
+    "item.thermal.apatite_dust": "Industrial Fluorohydroxylapatite Dust",
+    "block.thermal.apatite_block": "Block of Industrial Fluorohydroxylapatite",
+
     "item.thermal.bronze_ingot": "CuSn₂₅ Bronze Ingot",
     "item.thermal.bronze_nugget": "CuSn₂₅ Bronze Nugget",
     "item.thermal.bronze_dust": "CuSn₂₅ Bronze Dust",
@@ -25,5 +29,22 @@
     "item.thermal.constantan_dust": "CuNi₄₅ Constantan Dust",
     "item.thermal.constantan_gear": "CuNi₄₅ Constantan Gear",
     "item.thermal.constantan_plate": "CuNi₄₅ Constantan Plate",
-    "block.thermal.constantan_block": "CuNi₄₅ Constantan Block"
+    "block.thermal.constantan_block": "CuNi₄₅ Constantan Block",
+
+    "block.thermal.white_rockwool": "White Alkaline-Earth Silicate Wool",
+    "block.thermal.orange_rockwool": "Orange Alkaline-Earth Silicate Wool",
+    "block.thermal.magenta_rockwool": "Magenta Alkaline-Earth Silicate Wool",
+    "block.thermal.light_blue_rockwool": "Light Blue Alkaline-Earth Silicate Wool",
+    "block.thermal.yellow_rockwool": "Yellow Alkaline-Earth Silicate Wool",
+    "block.thermal.lime_rockwool": "Lime Alkaline-Earth Silicate Wool",
+    "block.thermal.pink_rockwool": "Pink Alkaline-Earth Silicate Wool",
+    "block.thermal.gray_rockwool": "Gray Alkaline-Earth Silicate Wool",
+    "block.thermal.light_gray_rockwool": "Light Gray Alkaline-Earth Silicate Wool",
+    "block.thermal.cyan_rockwool": "Cyan Alkaline-Earth Silicate Wool",
+    "block.thermal.purple_rockwool": "Purple Alkaline-Earth Silicate Wool",
+    "block.thermal.blue_rockwool": "Blue Alkaline-Earth Silicate Wool",
+    "block.thermal.brown_rockwool": "Brown Alkaline-Earth Silicate Wool",
+    "block.thermal.green_rockwool": "Green Alkaline-Earth Silicate Wool",
+    "block.thermal.red_rockwool": "Red Alkaline-Earth Silicate Wool",
+    "block.thermal.black_rockwool": "Black Alkaline-Earth Silicate Wool"
 }

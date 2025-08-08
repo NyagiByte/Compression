@@ -1,0 +1,33 @@
+{
+    "type":"immersiveengineering:blueprint",
+    "category":"utility_tools",
+    
+    "inputs":[
+        {
+            "base_ingredient":{
+                "item":"minecraft:blue_dye"},
+                "count":1},
+        {
+            "base_ingredient":{
+                "item":"minecraft:red_dye"},
+                "count":1},
+        {
+            "base_ingredient":{
+                "item":"minecraft:yellow_dye"},
+                "count":1},
+        {
+            "base_ingredient":{
+                "item":"immersivepetroleum:crudeoil_bucket"},
+                "count":1},
+        {
+            "base_ingredient":{
+                "item":"nyagibits_bytes:thin_casing"},
+                "count":2},
+        {
+            "base_ingredient":{
+                "item":"immersiveengineering:toolupgrade_chemthrower_focus"},
+                "count":1}
+            ],
+    "result":{
+            "item":"nyagibits_bytes:wd_40"
+        }}

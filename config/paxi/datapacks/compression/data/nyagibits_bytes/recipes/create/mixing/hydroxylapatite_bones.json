@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "minecraft:bone"
+      }
+    ],
+    "results": [
+      {
+        "count": 4,
+        "item": "chemlib:hydroxylapatite"
+      },
+      {
+        "count": 8,
+        "item": "supplementaries:ash"
+      }
+    ]
+  }

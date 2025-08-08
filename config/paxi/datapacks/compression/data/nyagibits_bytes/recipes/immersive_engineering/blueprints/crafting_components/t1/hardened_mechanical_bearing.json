@@ -1,0 +1,17 @@
+{
+    "type":"immersiveengineering:blueprint",
+    "category":"components",
+    
+    "inputs":[
+        {
+            "base_ingredient":{
+                "item":"nyagibits_bytes:wrought_ball_bearing"},
+                "count":8},
+        {
+            "base_ingredient":{
+                "item":"immersiveengineering:ingot_steel"},
+                "count":2}
+            ],
+    "result":{
+            "item":"nyagibits_bytes:hardened_mechanical_bearing"
+        }}

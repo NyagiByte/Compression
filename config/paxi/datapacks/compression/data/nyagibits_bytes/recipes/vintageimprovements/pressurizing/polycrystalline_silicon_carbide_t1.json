@@ -1,10 +1,12 @@
 {
 	"type":"vintageimprovements:pressurizing",
     "heatRequirement": "superheated",
+	"secondaryFluidInput": 0,
+	"secondaryFluidOutput": 0,
 	"ingredients": [
 		{
-			"fluid": "chemlib:argon_fluid",
-			"amount": 50
+			"fluid": "chemlib:nitrogen_fluid",
+			"amount": 500
 		},
 		{
 			"item": "nyagibits_bytes:crude_silicon_boule"
@@ -24,8 +26,12 @@
 	],
 	"results": [
 		{
-            "chance": 1,
-			"count": 2,
+			"fluid": "chemlib:nitrogen_fluid",
+			"amount": 400
+		},
+		{
+            "chance": 0.5,
+			"count": 1,
 			"item": "nyagibits_bytes:polycrystalline_silicon_carbide"
 		}
 	],

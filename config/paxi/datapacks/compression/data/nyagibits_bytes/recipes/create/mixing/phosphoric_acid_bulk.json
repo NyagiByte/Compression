@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:phosphorus_pentoxide_dust"
+      },
+      {
+        "amount": 1000,
+        "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "chemlib:phosphoric_acid_dust"
+      }
+    ]
+  }

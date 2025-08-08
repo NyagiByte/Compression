@@ -1,0 +1,17 @@
+{
+    "type":"immersiveengineering:blueprint",
+    "category":"intermediates",
+    
+    "inputs":[
+        {
+            "base_ingredient":{
+                "item":"minecraft:white_concrete_powder"},
+                "count":8},
+        {
+            "base_ingredient":{
+                "item":"vintageimprovements:steel_rod"},
+                "count":2}
+            ],
+    "result":{
+            "item":"nyagibits_bytes:high_strength_concrete"
+        }}

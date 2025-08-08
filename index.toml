@@ -353,6 +353,10 @@ file = "config/compressedengineering-common.toml"
 hash = "a9a840ea417d3da8dd7ade0556312b49d98ae9ffdc316f3e78501df5f3211392"
 
 [[files]]
+file = "config/compressiontweaks-common.toml"
+hash = "54773cf627d50bf5a4c25d4a7996a29fcfc70f4275681ddf14bc98cb759b46b4"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "667b50af91a4312360fac0502a25f9497e745e3e321b297ed4efb6e257e81db4"
 
@@ -718,7 +722,7 @@ hash = "0728bc7e5a4f9993b0d3ae894cfcb8dbecd33cb4c63dbf7f01983d34f29aa1f2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
-hash = "4dff3c71d1a5d6d39e155e6a979c488fa2417226f3caac2a837552689c9afb18"
+hash = "3ed7a779df05e40a06f1f8d8cc1a389c97a5eae160d79385b8ca04dbd37e6be0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
@@ -726,7 +730,7 @@ hash = "5eaa01737c46ffc31178fbfacbaaf71d9b0492e8a34838f1973905af60636bd4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "3953b52e2d2cb7863ec35aee706b1c5d26f2fb3805e8090f8bc80bd7f1401d1a"
+hash = "f812865b8276009677d2ab9f5257f934296b9b31a4012af2bdfb02c92a59d57d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -1641,6 +1645,10 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/cal
 hash = "2ffe88e25df0553d1a40f22261de7dcb14bdaf9e88da00a29fd769699f5f16c7"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/calcium_silicate_dust.json"
+hash = "c9ea237a7f0516ecb06a94e4c7318a6b051c74cff9d708d5164117f495b88815"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/chitosan_dust.json"
 hash = "784dd180ab12137a80538b596ab5e88d7d7b76a0ab3bc550eaf834c557a13eae"
 
@@ -1757,10 +1765,6 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/cel
 hash = "e55b8199ee8bffe45130b1a41363fd1101584eacf58d4e54edf26aa0fabe85bb"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/dusts/apatite.json"
-hash = "bb0898821a692090b96e966b096f2c216a721f4be867e41d38cd4ad5cb254411"
-
-[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/gallium.json"
 hash = "d7af13130cc1cddc8dbf9b53cf3f4e262f0dcdd9606d441e7520c94a3033a5a7"
 
@@ -1823,6 +1827,10 @@ hash = "198e29163372417ce56bab5bd0b0234ed8809dea99b368f9acf91784db0531cc"
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_calcium_phosphate.json"
 hash = "534699b23beb316b6d7bbed8ffc7d01086b0ecabd33e62bb71049080e61d7da0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_calcium_silicate.json"
+hash = "57ab92f885c09c162f4670c57530e8ad936b24de4e6752ff756a1c9f9575d224"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_chitosan.json"
@@ -7122,7 +7130,7 @@ hash = "9f95a24a5bc99e78e2a06b89dc376c3f547ad218be8c1d9723c63db29f78aeb7"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blueprint/circuit_board.json"
-hash = "212dead418535f9e84880afa0c6e9510bbfd59939d9ef6fabab60062fd6432ce"
+hash = "ace3eecfac0f07d853e8a9f74e91b16476cc0df1f14c8a3cc032b80c34581afc"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/blueprint/component_electronic.json"
@@ -7206,7 +7214,7 @@ hash = "3708f08e96553089f0cb067c3b3cdc1e2400ca614792ea2864fc1fde2d1fe661"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blastfurnace_preheater.json"
-hash = "02a2ce003751ee947aaa385978bab81babbe95c628253df6de7949bfec4f4b6c"
+hash = "1483f56a37abfc8a14f264a41c3120e49bfdcd1ce0f752f199986e1c7a7a9593"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blueprint_bullets.json"
@@ -7217,12 +7225,28 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/craf
 hash = "e3d1d27203ab5d4573d1064da221dd7bfb5825a16ab6864be4f0e5e60a9e71f0"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blueprint_intermediates.json"
+hash = "5ccf54a33cce076122d61db69cb78de50b7aea8bb968dc89ed91ebe3d5199b42"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blueprint_magitech.json"
 hash = "df5abc77933053443d5b8ada78d6cb7199627ed018bc7525fc9dcd5807ab279e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blueprint_molds.json"
 hash = "f211aca11759aafdfe8cfcd47060c135a9373cad411c223ffbf5f7826607adca"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blueprint_multiblocks.json"
+hash = "9afd208a82566de0ccddfd78eb4edcc15ebc255316b2e8c33664547e73b5fc16"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blueprint_utility_tools.json"
+hash = "21894f22ea3228045d70a769a85d92b9162eb63eb2982066798ec6be21b391ee"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/blueprint_utility_tools_t1.json"
+hash = "d32ec2838ab2e121edc97a84729a180ef4dd3c8d2ea27de2962846f77ffed5ef"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/capacitor_hv.json"
@@ -7358,7 +7382,7 @@ hash = "36c121304db6d619f45c247cf519799c75f0a2e02eacbbf026d43f14403aeaed"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/generator.json"
-hash = "8ed77d8a2ed50c0838ac3cbb1ac47c72d5b37632135cba1205c48d741ecba91d"
+hash = "71d1902ce3f58895dac55eb2ab5cc3debd3ce1a4a67095d75dd10820fa14c44a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/gunpowder_from_dusts.json"
@@ -7370,7 +7394,7 @@ hash = "b8f0918d4ef67f10e9a8855b94b58e9d088ecfc6fd5c87cbe9c4535fe4821e8c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/heavy_engineering.json"
-hash = "980ca4c8d9884449b2f220b21b8f6bc53e37cec132123c520c4f1aec3194f104"
+hash = "486620a0c7f621952397321787dbfeb11ce54ed7b3ef08cf326b7216db4ad67e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/hemp_fabric.json"
@@ -7382,7 +7406,7 @@ hash = "7d1e2ab4173bc1a19a75e61064fb887f90046e5a7648f2b8169ce1be27474cca"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/light_engineering.json"
-hash = "96a21b0d2248e0dce99fe6f0cbf2ed19979e5aed14ad02b82372e07dfde41b4c"
+hash = "b4b208fd61b922fa3aa7d85049d78748cf3f17aaec0413949df00bcc69cbce54"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/logic_circuit.json"
@@ -7394,7 +7418,7 @@ hash = "9efba00b7be3dc541e94a113edbcb0ee362c3a2b8355f0dd4541e25e6f0146c9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/radiator.json"
-hash = "f326747e96dd2ea6ed655eeed9f1baef9e3d532830045fdaaaa8ed15b1f30e0a"
+hash = "6879c7cc27f31f74617da94a3109eb481d272e36d997baf027ceaa2d76db3b42"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/reinforced_crate.json"
@@ -7402,7 +7426,7 @@ hash = "2ad39a0373d97c3a714f691879f073542eda7fd5f75b5b134df2c3a421318325"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/rs_engineering.json"
-hash = "4515f389e7a89e2156674890131ecb536ef8f266891d77989a308eabfff57053"
+hash = "61ead65a63776a032f558d08178d15983b422a74bbe40ad8513cd295d709548c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/sample_drill.json"
@@ -7422,7 +7446,7 @@ hash = "6e4325dc0b8afe88f90067333a96c59e70297aca492ff06b5fc2e7fc067ac15a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/steel_scaffolding_standard.json"
-hash = "4c266bdadc119b8f8683c343a158a720effe3adfa74e6f4a9ec10249ae876570"
+hash = "c21101852e5319e6d0013b757ac94e27e87602358e87a887aea839b6ce23a939"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/stick_aluminum.json"
@@ -8737,12 +8761,24 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "cec62a2ef068c68fa78816cddfa63212a95f8e0fe6ac14e7c2c4064db8f0830b"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/gems_to_dust/apatite_dust.json"
+hash = "bf6c9ec4f3a3d1d3ca0c67c55d7617beecdb7b0c95a712b7e587a4793803cfd6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/gems_to_dust/apatite_dust_from_block.json"
+hash = "ead96106f02239f2c3a381a93f86bf10bbe79a75231301cdb26a033d6938fa42"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/gems_to_dust/aquamarine_dust.json"
 hash = "feb5c252c59812091741a538e675027e52622f0b626b00676368d81bef77e3d7"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/gems_to_dust/bixbite_dust.json"
 hash = "6e4d734b6115151b4f45003f89d16d099b3c5309136b90e09880b2605e2194a3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/gems_to_dust/carbon.json"
+hash = "ffb62c57ec938f7a21cd1eebe4ce0308969b476b48d2c4a0433b1e8c17aa1f33"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/milling/gems_to_dust/goshenite_dust.json"
@@ -8890,7 +8926,7 @@ hash = "658109a26de358f6aebcc24fcb9298a6205bae9b8ccbb2f45ea5407369d8462e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/apatite.json"
-hash = "970b0edff09f2b4a98b0f62f00dbbe05066983886185cc53ceaad2a7be6a745b"
+hash = "8af59b5d93038903c95e15dde3e9a6c39132de0e64b627bcafe81fa7e42570a4"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/bad_benzene_recipe.json"
@@ -8945,6 +8981,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "4db4105d61ad99387e1ac4c97c6ac5e192b60a963256e0e1d22b8ffbd7e497c3"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/calcium_phosphate.json"
+hash = "c987a7fb24c1c1756dacfa00ea40ddf91abd680aeb44f8a678ec5fe9400a5a0e"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/cast_iron_block.json"
 hash = "a363cace0681515a6cb0eecd1256997907af74c09e7db432e045d9712a82573a"
 
@@ -8971,6 +9011,10 @@ hash = "1663491e60b18fda3c3e8828ce6609c2c02c10a0e8a89372d6cbf3f7b1c43f21"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/crude_silicon_boule.json"
 hash = "d0e475c3a64a272d7ee6f5d4a73272c3e5f661fc4156e30b9ac3a7b428ee95a5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/crude_silicon_boule_t1.json"
+hash = "0690ba4e4d4228d2a7e95b40242c6d25adedcee4822b681e5374aaf21db3ed15"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/dense_slag.json"
@@ -9015,6 +9059,10 @@ hash = "ddb2684abdf75d1d6cf0933dadf61cde038cb93f6829c26a7a02eac19b4697c4"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/hydrogen_peroxide_015_to_003.json"
 hash = "e58992d909466e552d880a6f3325c85e019ce9b17381ce7f6db84869fb66140d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/hydroxylapatite_bones.json"
+hash = "04cfc660108441e70abaa99dc40118d52d57c6e419f7d57dc8cd3acadb94b785"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/ink.json"
@@ -9221,6 +9269,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "a3b2d867938908b2fc08bebf7b5e5fda551b3a41e638f9e1c16ea5d029d87b3b"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/phosphoric_acid_bulk.json"
+hash = "75c286baa824273c848f703f7a513997f5bdac35bf8d3a20c4698c97a85aa21c"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/salt_water.json"
 hash = "92e2d8309508f720b52f7c4e7248c00ae843702c8691ce79339aa4201859697d"
 
@@ -9299,6 +9351,14 @@ hash = "e9d29bc229d4724f0ffadcd4df420b403575f46d8e242e12cd4fc6317ee8c1ae"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/synthetic_mica.json"
 hash = "f96c43109541938fbe6bb926dd488e046e489285950f14f84568a5080a741101"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/synthetic_mica_t1.json"
+hash = "235439be88822fb642059cbd6cec2eef6124379511922fd1e86fc8c59136f8d8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/synthetic_mica_t2.json"
+hash = "8235d656ef9624e435a6cea861a5b2a3f127acc2a9d57bd5d17a05bd24b5f5f7"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/teracotta/black_glazed_terracotta_t1.json"
@@ -9765,52 +9825,52 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive
 hash = "225b843a9ef6a55f685cea35eb98ee1e74573244c076374103633cb25ab299c0"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/4s_toolbox.json"
-hash = "eddacf551c5cd06eded3b5af1b0f536c3213c6ddffc9ceb2e611cc94be191cbd"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/acetylene_tank.json"
-hash = "eca7f78ef04d8a55a70a2c495a930c6185eba07dbb45391faa5166de0a9b761c"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/dampener.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/crafting_components/t1/dampener.json"
 hash = "fed7226cb8112caee842e56acad0101da2abd796229100dc3361678b7033d810"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/duct_tape.json"
-hash = "3f7701ee71d15eb315ed4d70ef00281a9f870da38a75086138b1cf1b6dfb18df"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/fasteners.json"
-hash = "0d835ca0752073297e43356285a6e3570975f86a32ffa87687d0d81d8a346027"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/fire_extinguisher.json"
-hash = "35335d55293d86565e3b0cfb7c3862291d1453c62abc6a05911973f53586d5cd"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/fire_extinguisher_t1.json"
-hash = "b392343b8cf79f80126ac1237b7136e14adc1faa7673b7cb38694e86de0becc1"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/hard_hat.json"
-hash = "38b2279763f1b3556e4b9e3f1c1055fb7e8980be5e5300ea24bd9b8ef098d582"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/hardened_mechanical_bearing.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/crafting_components/t1/hardened_mechanical_bearing.json"
 hash = "bf8c11c9e8e03c04efeccfe2ce0cec923d7573a78a8dcf55cfb234a07001e523"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/high_strength_concrete.json"
-hash = "3faf95ed55ea024f3b07d8f836fa63f984a8df7b5d3d855ad8836b53b4fc6b76"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/high_temperature_heat_exchanger.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/crafting_components/t1/high_temperature_heat_exchanger.json"
 hash = "9429a0bac494ac331618f56b8f06a4af6901066532d4d10e17dcd379af5d9ea0"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/industrial_gear.json"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/crafting_components/t1/industrial_gear.json"
 hash = "9e9b9612fce91adb019b191030a377ccdea4fa04bfbab652bc5ae264c7747cda"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/crafting_components/t1/reinforced_gearbox.json"
+hash = "1b65d632bd8eef484b010b87211caf647f3589a6f2052fc05163f49d403c0ef0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/crafting_components/t1/solenoid_component.json"
+hash = "edaeb8e2a7cc3561c3114182cc095ca4cdd2b32bae78c3e21f485da2a4f4e821"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/crafting_components/t1/synchronous_electric_motor.json"
+hash = "babc334bbff458c2ce5a812f99f55576fb38f0f472840cc272e0556df1c17023"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/crafting_components/t1/v_belt.json"
+hash = "eae4926acf498efdbcc68a08d689c104623f13c0fd305119c49e5b9d3fb2ea32"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/intermediates/t1/circuit_board.txt"
+hash = "319befe6937452363d85185f5b0b0393605607eb1b86c37a42cc837396c86ab5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/intermediates/t1/duct_tape.json"
+hash = "ade6194865e1e7b0de734e136bcb4e7ee56b65e2e8d9f93754e7901a3c21054c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/intermediates/t1/fasteners.json"
+hash = "60a13b09baa2e571d9c20dc206fe28b2fc1ac4c2528c6174d0e1ab37291546a6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/intermediates/t1/high_strength_concrete.json"
+hash = "cfbab39c8e45ef18c53152e4fdbe97486977eee46f6fea7e69cdbe055c1dbba8"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/magitech/1/corporea_tunneler.json"
@@ -9825,32 +9885,40 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive
 hash = "882bfd0855ae4f273cf1d3d2dc88ac0567e8fe0e9420008165a93ec489bb1b7a"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/organic_vapor_respirator.json"
-hash = "2c163c8fa1777cdd37c51e1fbe7a314537bdd562deefc58343f2d682d2ae103d"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/multiblocks/t1/README.txt"
+hash = "c0b7d2a8ec621a3795b9f051f9a435aae105e9a35f094a5ffcf99629f6712adf"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/protective_eyewear.json"
-hash = "ea122a8d13afd661910186977c1633b6966217fd14810ca0b712628240ff979a"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/utility_tools/t1/4s_toolbox.json"
+hash = "74661636daec8e8f9d979387b548d9466862083e1fceee62a8e2aa63acc4b12b"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/reinforced_gearbox.json"
-hash = "1b65d632bd8eef484b010b87211caf647f3589a6f2052fc05163f49d403c0ef0"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/utility_tools/t1/acetylene_tank.json"
+hash = "4cc5e1ade7452bb3bc8ce52baffc2187895617685d99d400cb088cd817e21a8a"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/solenoid_component.json"
-hash = "edaeb8e2a7cc3561c3114182cc095ca4cdd2b32bae78c3e21f485da2a4f4e821"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/utility_tools/t1/fire_extinguisher.json"
+hash = "e30dc0b449eeabee8a86a73e1f73369417ec0e016a8c40f77089bf520083dcf0"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/synchronous_electric_motor.json"
-hash = "babc334bbff458c2ce5a812f99f55576fb38f0f472840cc272e0556df1c17023"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/utility_tools/t1/hard_hat.json"
+hash = "47e1e8372b7168761babcf905a5d5fc070a68955ad273f9c64221d27543dd279"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/v_belt.json"
-hash = "eae4926acf498efdbcc68a08d689c104623f13c0fd305119c49e5b9d3fb2ea32"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/utility_tools/t1/organic_vapor_respirator.json"
+hash = "d6e313c875ae85d5a152ab2f4dc6a4bd1d39849b7a7833ae3e16d93e19e7bb20"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/wd_40.json"
-hash = "d01755eb9b068da3d4552d28f3f045c0cb41acc039ec0c7e31f13d4ace6344dc"
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/utility_tools/t1/protective_eyewear.json"
+hash = "52c0050e817237a23a97316c87bbb1560a3165601fa4cd7bf4614948ec27e90b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/utility_tools/t1/wd_40.json"
+hash = "dfbd44c664ce742d7d8053f1ad1468245483052c8182692731bacb9cfce49c3e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/blueprints/utility_tools/t2/fire_extinguisher_t1.json"
+hash = "5cfa4216be9fff40d7577088230593f0d8e553ab89b8e51f75e587672266d286"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/bottling/insulating_washer.json"
@@ -12566,7 +12634,11 @@ hash = "007e71b8367439f41231098bd0e72b5cb4bd1b87fd870cfbd909105ce30992c9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/bubbled_pre_peroxide_fluid.json"
-hash = "8a8566fce9ebb358babf3bc4cc5b7c4e9a5f4bf15db3f67355e39a13d32c8f93"
+hash = "5a8e5f456005c9c64fdf7bd18bcfb940933fab2e7e6381e4434d39638eb069d0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/carbon_monoxide_removal.json"
+hash = "402bde1499d732fb0da4d2d279b1787d08363ba40860f345f62b230c9c3732b5"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/deactivated_entropic_mush.json"
@@ -12574,11 +12646,11 @@ hash = "8fa9e42cd7f1af4189cea0686696dc92a8cc4d0c61f3e69b200a53910580880c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/dry_ice_1.json"
-hash = "b6345259d1347c22b35989385ea57716ce99353e32032682e2116d922987495b"
+hash = "076b83e06fbe1f2ce7c97b90a81daea64f3659f79be222ffb0586971c5093ecf"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/dry_ice_2.json"
-hash = "c6457961ff8a9edbbdc18beeae08a01116e03e1c4d9621bc3633fd50972890d3"
+hash = "06c342cea8fada9a12e0afdb6132b9fc3259c5d3fac1bea11d79496ca3f1186f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/fluorophlogopite.json"
@@ -12594,7 +12666,7 @@ hash = "f6c7657e6eb0db2929490f41801d780f507ee825456dc31720eef6921db2dd4f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/hydrogen_sulfide.json"
-hash = "3dddf95149bb53fc52cde4d5bab16cc29e676d1e03bb1140a0709d91ae189e39"
+hash = "c02eb8bc5a2edd7c9a380ec56208df14a36503b2dfe2498f885c2ac42dce6b69"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/lithium_alumino_solution_fluid.json"
@@ -12602,7 +12674,7 @@ hash = "e8aeecfd3972db5c79e8e64787b0ece5fa523765ead491ae10594a3f1e97be82"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/molybdenum_disulfide_dust.json"
-hash = "e3df49f35dfea0b6c39b6e734f95752f1fc7dd7cbca63cae3528c56aa9b31105"
+hash = "cfffd3d075a679c65a878b49bcb83f28f7853379973ae8bb1c6d84c1d765c7f6"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/polycrystalline_silicon_carbide_t0.json"
@@ -12610,11 +12682,19 @@ hash = "78dc30d1a4230e542fd2ee6974eeb72dd260a7b733f0d3cc601dc0d87019cd17"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/polycrystalline_silicon_carbide_t1.json"
-hash = "611d86c82d381376c49a0cd3cffcc0e5596a655360bb940069b7b8dbcd6128a9"
+hash = "fcd6e9046a121ec8ac10fe015d8f009a7aa6d6b70d93be4c353aac09a765deeb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/polycrystalline_silicon_carbide_t2.json"
+hash = "7873304f9a867ddd7a866070a89eb5ec32130022b4975b8ddb836052b10df8dc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/polycrystalline_silicon_carbide_t3.json"
+hash = "69b12a2dbf9d19ade771e98e8d0f3c98e6e0a323aed8b9984c6a9640dda6cc62"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/precursor_3_hpa_4_fluid.json"
-hash = "8aaa03d117798067d7b331050a4da9914f89dbfd0a524e75c2387324b2bc8814"
+hash = "9c92075796c46774afa0a855ee6b2ac7c92a0aa9759ea2c640259a1de65da2aa"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/quenched_thermalsidian.json"
@@ -12626,7 +12706,7 @@ hash = "03d4a7a273ed8579c763d78cb886e743764933148413ae861556f2bc4966d47d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/sulfur_trioxide_fluid.json"
-hash = "d4861606e9ebe228f59ab1cb02ef10ce8e32f17cb0da143be96a73a0dc868f6c"
+hash = "8d16939f6d0ce182bb97fff7d5f82c89298aff0d93c27a776ec79617f4e8f11c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/used_mana_bomb_calorimeter.json"
@@ -12650,7 +12730,7 @@ hash = "0031265f7da1f508114e9bdec6428f59f35ecc49558b4999be08d15331cf2506"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/peroxide_015_to_032_good.json"
-hash = "40ee9e4f51e01b7db5149381227c644aadf0afbf54bc79fe249642734a25e7db"
+hash = "c9b6a09f061b9aaa9a4df5b6b12a21ea1cf2da5d02f81316c08c0ebd068d4dd9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/peroxide_032_to_075.json"
@@ -12659,6 +12739,10 @@ hash = "4404606b3d9da9931742db194eebea69a40a57917e67d786c3d3c3547d188168"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/wet_hpa_4.json"
 hash = "0ff9637b48f9db48f6401b122c1acac6a2272485b30ea4838b0a43638a7da0da"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/white_phosphorus.json"
+hash = "66255d25d4932f4fe2b9ba5f81d4b8561e93ff7c88f6fb2eab7b1a395965f5ae"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/origins/origin_layers/origin.json"
@@ -15118,7 +15202,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "9cf1871833bb05d22660f79a20e50dd0ad2cc2eefdc3e7770f8a10011e57a3b0"
+hash = "04d599c8b6e171a3649acedb0a8bc1d8eb283a8856554289029539bd3c270ae4"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -15486,7 +15570,7 @@ hash = "66e6538b4427737aa056d85badab634f8821d1df9b92c5d4c0ae2794928fb77b"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/lang/en_us.json"
-hash = "131fd031d77b6be293f443dfbbc6b3effe244b485e0ba6175fd212f35a1c3ad7"
+hash = "6d7adbeb843994bc3712eba7d676153cda859c41e28201a2b00bf67c47ea35e3"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/lang/pt_br.json"
@@ -15510,7 +15594,7 @@ hash = "4ed4534c51402411f47f2bdedd9832149047c20aa1a8145362801fe9e6d3842a"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_bannerpatterns.png"
-hash = "9467b40ec8a8720f7c09255a6230f4a0475e574fde0649f8bdf54be137e13d3e"
+hash = "4b291467c74c5207ac2a4259c34f8740029030c482066d130f28fd7ed4e5f967"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_bannerpatterns.properties"
@@ -15518,7 +15602,7 @@ hash = "815e59078f580fbf50e39d498cb3b3488bdc68cbaa096bb111ae5100940be4ca"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_bullet.png"
-hash = "c0e8c0c4ecae92a6377cb1f7eb7fe139204dcf32cb5fd392a9f38af71039514b"
+hash = "31ce562340b0af2029336d69ec742464ba3fe51e1a146494cf2e7f2ca72c8e3d"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_bullet.properties"
@@ -15526,15 +15610,23 @@ hash = "5c40a595ac5cb17384f348ddbf7eaaa4fc1af660af142e83a52672dec01c643e"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_components.png"
-hash = "5e1795054f08377837d2d48c8f8c4e92a388548bc54835a8a0b721acb0e800a0"
+hash = "110136503c5b8a52c4b1def1d7b719c34e9249ad2a13b426d6b36e190fe8b3b2"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_components.properties"
 hash = "f0c30ba315bf873b8ac0e25e2e2f99f3eee24219b89bcce41ab0ef6b1d2dd606"
 
 [[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_intermediates.png"
+hash = "b90401296c8774783e7e45e55920ce5a7d70f832fefc3c6d859cfef1f24fe3b9"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_intermediates.properties"
+hash = "0fbb40fb1062057cebdf94411cc718a01362496e69fa40d67339f65b7ef45ebc"
+
+[[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_magitech.png"
-hash = "8048f18302f4fa99703ca02b2a2e4cd5e1bea2b9d0fa5fee0956c8bec432c0f4"
+hash = "a4e70078c409c365cc8f405577dd602726fb8cae02bb3ccfad5f6fa5aa3ad441"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_magitech.properties"
@@ -15542,11 +15634,71 @@ hash = "f3f2d88829f987b45d876ec45a6e564e59373b1e4bf186ca9accf66e8173121a"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_molds.png"
-hash = "02193c3b81ba767ad3c433f7cbbc345b56f22366b7e41f9c86962a20c09049bf"
+hash = "9c0049a46da01761af3fc5798651ebe96db4d3934fe422a0994e473ba24ab257"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_molds.properties"
 hash = "4269d763fc7ee8cd22d208c61cf68fc81dbb2e8e6659ae8947ad6f51d8b8cf41"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_multiblocks.png"
+hash = "4cf962b869c5ba2c4b8cc3df22d625f6a71c3698f2a1c761d7307a56935f7bd6"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_multiblocks.properties"
+hash = "cf68745c7a2c72b2dd195f629fdcabae277e92b51d649cb0a28f3a7c0d161fa2"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_utility_tools.png"
+hash = "0eadf4af7b608d53eb54fd04ef4bd3bc31e7cfccd40a6e87a0755fb89967a702"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_utility_tools.properties"
+hash = "392277a99a2573d5245b83c1fd5412f36a72f08e039abf922792544dc9a4dc7c"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_utility_tools_t1.png"
+hash = "f6249661602bb9aaa818144c000b910db33296b7463bd5c34b6fbd3443daae7b"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/blueprint_utility_tools_t1.properties"
+hash = "3819597b2fbc6cb8d66c374e6eab6d284f8578a48e9801b461c7092ce4b8347d"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/ie_blueprints.bbmodel"
+hash = "ce45397a1877aa98d4c0bad9c8e21ec4c11885257e6d2e79aa1c32aebf28c956"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/ref_blank_blue.png"
+hash = "a5a5e7bf65a50063950512837da34a796df4314e27df2cb8999d7a6f875693f7"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/ref_blank_brown.png"
+hash = "17a486f32a3612d717ec77dcf655e09d6b49133c92ecc3ee5655fa6e291d53b3"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/ref_blank_cyan.png"
+hash = "b007ddbdf21b028581fd62ab64ec15129c4d5d6d0bcf550fbb3341c8bc02d6d7"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/ref_blank_green.png"
+hash = "aba5a79907258d75c8bab0d554d9c4f1f693dce91157a9170d2500aabe2b0304"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/ref_blank_orange.png"
+hash = "ad5349ccf8d1aca401e9405614987e1e5418e562ce7fafa16cb5293d2630bee8"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/ref_blank_purple.png"
+hash = "0cc8543cf41801fb81d28ccf9727477f4072f93729d35125d5cc548311505ef3"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/ref_blank_red.png"
+hash = "2f3528be32b58d290322d6d47bef6ec37d5e4eefb83a7476470b61bcb93e45a9"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/minecraft/citresewn/cit/ref_blank_yellow.png"
+hash = "48a2ef659a99e2d8f6d332d18449f057af5b9f5c5dd6c60980dcb665923cd201"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/minecraft/lang/en_us.json"
@@ -15658,7 +15810,7 @@ hash = "61424293e9f1219288eac672e6ffa9ea7a0479e7488c8983c93e1be6736cd9e8"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/thermal/lang/en_us.json"
-hash = "3f223f9b5eef5be0b0454a83d12495195affc2efd8a2c6efc2450a0be7a5a518"
+hash = "c81ed79e385dd7d391c4a61d37ee18861d3626ba6806f474832b5dbe6e8f6457"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/thermal/lang/pt_br.json"
@@ -16592,8 +16744,8 @@ hash = "a840f125eb801e899c969ae883619e0de201ebaf600b372e0ae1bad10ea36edd"
 metafile = true
 
 [[files]]
-file = "mods/compressiontweaks-1.19.2-1.1.3.jar"
-hash = "778d4d027bd0a3a35c46a34ec9eeb25efdb091132ff6339ca32e0693091b9107"
+file = "mods/compressiontweaks-1.19.2-1.1.4.jar"
+hash = "2c10c4a29e633875f4c1cfa3b001a04d59cb6b2ab9bfcfa6c019d2aaf7e690c0"
 
 [[files]]
 file = "mods/configured.pw.toml"
@@ -17018,6 +17170,11 @@ metafile = true
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
 hash = "37f07b624a3377b04332edbf6c244eebb997afd5d473ef808661d69cc1106cc2"
+
+[[files]]
+file = "mods/nyagis-bits-bytes.pw.toml"
+hash = "77128ae37b465611fc2a329331b8323e7c13eb4ce5391a9c46cff0c03d44af0c"
+metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"

@@ -9,13 +9,13 @@
         "item": "chemlib:chlorine"
       },
       {
-        "item": "chemlib:phosphate"
+        "item": "chemlib:hydroxylapatite"
       }
     ],
     "results": [
       {
-        "count": 4,
-        "item": "thermal:apatite_dust"
+        "count": 1,
+        "item": "thermal:apatite"
       }
     ]
   }
