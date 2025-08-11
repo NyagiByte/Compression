@@ -15254,7 +15254,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "b430beaad11b6c405e73665d61899130bd53e41c2d5a2f8814ffd33fbb23de72"
+hash = "f2ac370d1cbabb2ee7f3011e94fa0e57e721739407607e818d4d31edc168d4a6"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -16804,8 +16804,9 @@ hash = "c7d25531b2276ff8fd96b346d85cbe6d93b9c41618ff3a7b9992e579b30bfdc6"
 metafile = true
 
 [[files]]
-file = "mods/compressiontweaks-1.19.2-1.1.4.jar"
-hash = "2c10c4a29e633875f4c1cfa3b001a04d59cb6b2ab9bfcfa6c019d2aaf7e690c0"
+file = "mods/compressiontweaks.pw.toml"
+hash = "dd95d11e0679f10fad2207f9e07fedd44b053fe63bacb87eab3876ccbd7becd6"
+metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
@@ -16829,7 +16830,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "4bba62e583b6bdf59f8575197c1d1b82cf759e710f82703161e8040439c67486"
+hash = "574596b6cd1e6a36e1284a612ceda6605375c08f04cfaa6d7a598398ffee35ed"
 metafile = true
 
 [[files]]
@@ -16864,7 +16865,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-vintage-improvements.pw.toml"
-hash = "810224c7dcb41a05c279b4a432f046949ddab698ed6fc29e6c0f8afb483c4bb2"
+hash = "b2a9f9352cb44e016f787526b7769445904e6ba5c186c910148250bae8b69855"
 metafile = true
 
 [[files]]
@@ -16874,7 +16875,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "278f53824f79ac545293d8fc3e73742a1a3f9d72cb708e48b598b523bc037df2"
+hash = "a91da14e84c3e8d4f225cad1cb2932cd026fb74fb5ffe85f714ba2d6cfafb447"
 metafile = true
 
 [[files]]
