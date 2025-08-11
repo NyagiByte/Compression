@@ -897,6 +897,14 @@ file = "config/paxi/datapacks/bulk_recipe_pack/pack.mcmeta"
 hash = "6294baf99df19ce05299e40c2a13686ae04356dd5fe8926ef08401d4cc054661"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/blaze_glass_recipe.json"
+hash = "1567d9036767e531389daf1e514d94fa75301c9442f67368cad8661cb90fc0d6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/blaze_glass_recipe_t1.json"
+hash = "2f58dac0a0cb49e5e271edb01b1b63c41af768eeabcc0a833b0bf8dbe47fbfc2"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/decorative_alloys/deepbronze_block.json"
 hash = "a2b522e0a7cf6b63305ec306643600f115c2bf11ab9849f97742b50505c8be74"
 
@@ -913,12 +921,24 @@ file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/decorative_
 hash = "a7e0a8b8170fa68d17996201e5557f8860b0e91d196e988dbd4c197371d350a5"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/indicator_light_recipe.json"
+hash = "a73712de04cc9a444bc75686ca3867063fd81cc8d966e7b0c904fc543cf55d68"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/iron_dish_recipe.json"
+hash = "bd2270ce2d0c341fb370bb0351731320ba839d080bb373310880b4b323f4c3a8"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/life_preserver_recipe.json"
 hash = "5c3a735145c78d04826b3c8238a7f0d29e143a56705922a8e641bba8258aec13"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/quartz_lamp_recipe.json"
 hash = "fd4f4a911f52a3663658f70cc5542de87f9b15c919a388eaa240bce8a7bef7a1"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/rockwater_glass_recipe.json"
+hash = "5de7f9b84593ab57b846489e7680876a5e7b65b3d718424f27f09c89770636a0"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/abyssal_decor/recipes/rope_barrier_recipe.json"
@@ -16591,7 +16611,7 @@ hash = "a0d23a32a13d95434239dcf16a5334489be694e3c13cd6384021d17220eadb34"
 
 [[files]]
 file = "mods/abyssal-decor.pw.toml"
-hash = "69ce3a6d68568243c38088c26ee9fcc696e3137af1df02e4d96b27c8e054d4e6"
+hash = "96ea87e06588336804ea1f91320673fd2afdc2ef449afa740d0e954bd1005d30"
 metafile = true
 
 [[files]]
