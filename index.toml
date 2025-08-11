@@ -16710,7 +16710,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "b28c3da3ee3ca475f8c79cbc4e8eb2f5fd44ab488bc14bfdf1fc04dc6f6e67c4"
+hash = "ec03b352a31b6f18a751e0e690ccb6c86d64ad04cc81a19b3857facb6a5bba47"
 metafile = true
 
 [[files]]
@@ -16725,12 +16725,12 @@ metafile = true
 
 [[files]]
 file = "mods/carbon-config.pw.toml"
-hash = "0e168e074ab5ea951373d1a8186249f3617f78eb53ef9576c6dd88309efcdb13"
+hash = "5e8d319a80801ece15d909560a192703432963515c6febc81fa9de35ff8f21d4"
 metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "8bbefdc705e24ebd5d8c2d39de530d3767def3153d8d364d49a93cdc930bddbc"
+hash = "cd0ea1a626697c69a958b5d91615f4b61f6e4f275b55b2471140281e22cc485e"
 metafile = true
 
 [[files]]
@@ -16740,7 +16740,7 @@ metafile = true
 
 [[files]]
 file = "mods/chemlib.pw.toml"
-hash = "0b9c7d96f3c8f7684abdc497af19b5ec0cc11e43b382d8179e5f24ba1f2e953e"
+hash = "8d686df9248e7d4ff9ba8faa0b7272e611bb6a605a73d31d64032e2c592833f9"
 metafile = true
 
 [[files]]
@@ -16755,7 +16755,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "2c3ddac643593c3dec5bdad4a4ee6d10b62430409ee1c558ce3c5cbed9f40700"
+hash = "728c1843aea1060f3a0566000d6a6c50f86e8194f871505752743058bee4c29a"
 metafile = true
 
 [[files]]
