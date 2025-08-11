@@ -15605,6 +15605,10 @@ file = "config/paxi/resourcepacks/compression/assets/compressedengineering/textu
 hash = "f4ff4204a43c1a8b4e84e3bc5497ae4ed0dfb174311e9a0768ee71507da791ec"
 
 [[files]]
+file = "config/paxi/resourcepacks/compression/assets/compressiontweaks/lang/en_us.json"
+hash = "235b20fb6d31a7b8feacb409216d6943c788665f0367e25f3e7dfbd3b90bcaac"
+
+[[files]]
 file = "config/paxi/resourcepacks/compression/assets/create/lang/en_us.json"
 hash = "f2b7a64ab6a87c0fcf91ee2059b4911c277a4a5375168d46f43fd67d8d6a8714"
 
