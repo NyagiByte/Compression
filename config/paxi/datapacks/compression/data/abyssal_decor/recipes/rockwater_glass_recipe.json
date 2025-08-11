@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"quark:framed_glass"},
+      "B": {"item":"abyssal_decor:rockwater_tear"}
+    },
+    "pattern": [
+      " A ",
+      "ABA",
+      " A "
+    ],
+    "result": {
+        "count": 4,
+        "item": "abyssal_decor:rockwater_glass"
+    }
+  }

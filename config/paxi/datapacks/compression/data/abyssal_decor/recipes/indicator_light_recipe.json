@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"minecraft:redstone_torch"},
+      "B": {"item":"abyssal_decor:bulb_lamp_floor"},
+      "C": {"item":"minecraft:red_dye"},
+      "D": {"item":"minecraft:redstone"},
+      "E": {"item":"minecraft:green_dye"},
+      "F": {"item":"minecraft:smooth_stone"}
+    },
+    "pattern": [
+      "ABC",
+      "FFF",
+      "DBE"
+    ],
+    "result": {
+        "count": 4,
+        "item": "abyssal_decor:indicator_light"
+    }
+  }

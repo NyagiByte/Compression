@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"chemlib:iron_plate"},
+      "B": {"item":"quark:iron_plate_slab"},
+      "C": {"item":"quark:iron_plate_vertical_slab"},
+      "D": {"item":"quark:iron_plate_stairs"}
+    },
+    "pattern": [
+      " A ",
+      " BA",
+      "CD "
+    ],
+    "result": {
+        "count": 4,
+        "item": "abyssal_decor:iron_dish"
+    }
+  }
