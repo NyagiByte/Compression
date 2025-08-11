@@ -16620,17 +16620,17 @@ metafile = true
 
 [[files]]
 file = "mods/aiot-botania.pw.toml"
-hash = "723812c4e90ded3d2e5ef2fe09eebe48cf38a68ca87b601ad68b64c7d1b163a1"
+hash = "6e86b4f1e36a0452ced1c1c3d48099c0457267672f9350a026d077f8652967ee"
 metafile = true
 
 [[files]]
 file = "mods/akashic-tome.pw.toml"
-hash = "1e2db94700eabc46e3562d5b9f4282afdc900513a1ac7d2a219823447c817aa9"
+hash = "fb86066f119ae67a0e995aaf30935e943775e7bab417b41057c6a9e42e4181a5"
 metafile = true
 
 [[files]]
 file = "mods/alchemistry.pw.toml"
-hash = "5bc94b5e44e939378d97503e62fa1167975fd4da168dc714349f2c7ef39467c7"
+hash = "9b4d1aa4244b945946f63d8306d66f2b25f13a424dffb28abb1394f2058ff5f0"
 metafile = true
 
 [[files]]
@@ -16655,12 +16655,12 @@ metafile = true
 
 [[files]]
 file = "mods/applied-botanics-addon.pw.toml"
-hash = "73cf97348874724f2b0891f5fe663eaed8dc510e0e8f869c49bde79eacd8475c"
+hash = "73e72d7bf9dbf6ae420413f606dc908fcfbad193ffc8bf4608a76f9a9022b706"
 metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "db0a6a9c7d7c84ff18029f21a083e445ace641b6568453ffeddc0c406a6673e9"
+hash = "189fbd62c873718ee19b3a4da65a471ed230d9ab1b8de10a228380d03133a989"
 metafile = true
 
 [[files]]
