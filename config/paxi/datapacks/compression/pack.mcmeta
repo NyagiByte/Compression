@@ -5,6 +5,10 @@
 		"description": "Compression's Recipes etc."
 	},
 	"filter": { "block": [
+
+		{"namespace": "create", "path": "recipes/compacting/flesh_block_from_flesh_bits.json"},
+		{"namespace": "create", "path": "recipes/compacting/packed_flesh_block_from_flesh_bits.json"},
+		{"namespace": "create", "path": "recipes/compacting/packed_flesh_block_from_flesh_blocks.json"},
 		
 		{"namespace": "mekanism", "path": "recipes/transmitter/universal_cable/basic.json"},
 		{"namespace": "mekanism", "path": "recipes/transmitter/mechanical_pipe/basic.json"},
