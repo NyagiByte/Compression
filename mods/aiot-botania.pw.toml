@@ -1,13 +1,13 @@
 name = "AIOT Botania"
-filename = "AIOTBotania-1.19.2-3.0.1.jar"
+filename = "AIOTBotania-1.19.2-3.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "02440685a72d89515b71a170cbfdf2993c161512"
+hash = "1c1723d78ee66db52116278a97f3cbe90a1050ed"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4616015
+file-id = 5529678
 project-id = 294815
