@@ -1,13 +1,13 @@
 name = "Bedrock Miner"
-filename = "BedrockMiner-1.19.x-(v.2.0.0-pre6).jar.jar"
+filename = "BedrockMiner-1.19.2-(v.2.2.1).jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "eff61acb30477a18c4f68ae90579f07d5e3fb1e8"
+hash = "1e918aa4058eba62d9140db6027eb0a2cb89be05"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3999914
+file-id = 5110818
 project-id = 286666
