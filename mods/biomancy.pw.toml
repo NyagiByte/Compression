@@ -1,13 +1,13 @@
 name = "Biomancy"
-filename = "biomancy-forge-1.19.2-2.1.11.3.jar"
+filename = "biomancy-forge-1.19.2-2.3.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f5af68a4ebc1234b9af499b009fc8b284467da12"
+hash = "b8efe06335a99c8080040339241f7b7848a35f34"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4617773
+file-id = 5102762
 project-id = 492939
