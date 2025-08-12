@@ -1,13 +1,13 @@
 name = "NuclearCraft: Neoteric"
-filename = "NuclearCraft-1.19.2-1.0.2.jar"
+filename = "NuclearCraft-1.19.2-1.0.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0e379637d08648ee7002e5bb5b00365689910496"
+hash = "ca9baf766cda841d2d883c0ea292cfa084bebb2c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4975776
+file-id = 5479570
 project-id = 840010
