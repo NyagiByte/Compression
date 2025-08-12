@@ -1,13 +1,13 @@
 name = "Luna"
-filename = "Luna-FORGE-MC1.19.X-1.0.1.jar"
+filename = "luna_minecraft-forge-5.3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "40919f0e9e08cded095c9aeb83ecb4adfa740bfd"
+hash = "601f66401e0a9af38f8f5862c13885cb154be984"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4743433
+file-id = 6599106
 project-id = 880620
