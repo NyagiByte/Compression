@@ -16880,7 +16880,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
+hash = "fc002eee04583c5cc5789aeff36d8fa5df384fbe1aaeb6271c693f038ca575c7"
 metafile = true
 
 [[files]]
@@ -16895,17 +16895,17 @@ metafile = true
 
 [[files]]
 file = "mods/despawntweaker.pw.toml"
-hash = "46f89d83ac2820d715fe0a76f203535e9712206ffcff56719c2dfe17c1915389"
+hash = "fcf1d6ebe37773af07ee86ddaf3927526ce880a174173c5332c996c12cedefa2"
 metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "62d6479ad4b3731b517754f0660d021d4700de63ee462c7e24a7a85b34714c1b"
+hash = "8da0d399284b3fbd0240a3cd3aec026a27e920277892baf0075f88b016315b0a"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "4bf0b32175e08d57d5cc194a19bfdefe2e1151828884e015301a149d87e61cf8"
+hash = "aac9d498124912bb65ca3d564732118072bb27fec5fbbfa5ea1884cd5a8f6de2"
 metafile = true
 
 [[files]]
@@ -16935,7 +16935,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "c4be1cb2d4eb3bc8bc44236f8b68f419a52b58dce885d3c6e0f3de532e28b664"
+hash = "a04bcbce23205019eb33360997f41b32a253365bebb89f578f8c10538a4baffa"
 metafile = true
 
 [[files]]
