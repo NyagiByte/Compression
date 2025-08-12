@@ -1619,6 +1619,7 @@
 		{"namespace": "pneumaticcraft", "path": "recipes/pneumatic_boots.json"},
 
 		{"namespace": "pneumaticcraft", "path": "recipes/speed_upgrade_from_glycerol.json"},
+		{"namespace": "pneumaticcraft", "path": "recipes/chunkloader_upgrade.json"},
 		{"namespace": "pneumaticcraft", "path": "recipes/scuba_upgrade.json"},
 
 		{"namespace": "pneumaticcraft", "path": "recipes/fluid_mixer_biodiesel.json"},
