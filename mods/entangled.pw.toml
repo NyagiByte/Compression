@@ -1,13 +1,13 @@
 name = "Entangled"
-filename = "entangled-1.3.14-forge-mc1.19.2.jar"
+filename = "entangled-1.3.20-forge-mc1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f2f723db3c0bbbff1079fbfb7b371ed8c9ccca8e"
+hash = "2fff4f44096cfd4ec190fd39e4802b0690593312"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4556671
+file-id = 5885905
 project-id = 301034
