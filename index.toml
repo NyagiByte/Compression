@@ -16606,7 +16606,7 @@ hash = "86996855f096f721cc5451de77d53f187805133e38cdf05d6fff72be61549fc3"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "f971e00fdadfb0983ef64ca6a23734530900d7462c52bbf727c1e036482bc9d3"
+hash = "50c22237764ec62e55c1cbd013106f4b5504467a532d3dbf8b5c6f4d5b57d881"
 metafile = true
 
 [[files]]
@@ -17320,7 +17320,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "3ef9dc22d90a53d4b20b1b26190d58b21a2639b8b20f7d295de4ea3b03e13f30"
+hash = "d06f9962b29db69d2e8fb32940cf29471eb6230043dc5fb9d341af36148a09c3"
 metafile = true
 
 [[files]]
@@ -17330,7 +17330,7 @@ metafile = true
 
 [[files]]
 file = "mods/redirector.pw.toml"
-hash = "e0548e13b9601fb59af1c762cc22a4becb400bef18c8564d23c92c3144cf3317"
+hash = "598583e7acba1c7e5e322c5fb3e737feba1ae2b18ee84db2e1675c6ad78f76fd"
 metafile = true
 
 [[files]]
@@ -17340,7 +17340,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "c3dcc27103f65bf73dee2898706f1c3a13983cbeb63d14f7caed26630d72bbde"
+hash = "aec4286f0e205df1d35997fe6f73e8daf5130768e1cbe39c1c73a2339f020b39"
 metafile = true
 
 [[files]]
@@ -17355,7 +17355,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "0f1b9970b4dddf8ff69a778c25dcadda8e91e0305c26581ebb7c1d7f54c3b7f9"
+hash = "17aa8a5657f166f8cadfa1578c81e5e440995c4d4058bbdbda1a8929db474b96"
 metafile = true
 
 [[files]]
