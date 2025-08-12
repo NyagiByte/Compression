@@ -1,13 +1,13 @@
 name = "Iron Chests: Restocked"
-filename = "ironchests-3.1.1-forge.jar"
+filename = "ironchests-3.1.3-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e55b905b265e87f6c38e1961d9382ae4f0541208"
+hash = "a43c6db3e25671a9192e8008d0bf12a709761319"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4085650
+file-id = 4670973
 project-id = 498794
