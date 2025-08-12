@@ -16940,12 +16940,12 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "fc61146eab089feb4f979289ba3aca698b538aa5bd3eba5f18ac0c80090c589f"
+hash = "2f0d30f69784a97558a03cec6e647be036bda30602dde06b82df78cd4ef464ee"
 metafile = true
 
 [[files]]
 file = "mods/fast-paintings.pw.toml"
-hash = "daa755448f98baa9816ba4e267a58628f9d84376eba5ef3e3fe01db57b87f918"
+hash = "8d418b1a8c4b2e329f373d4cd57cf86c8c7493a422f6ffc80ef22051b41f05da"
 metafile = true
 
 [[files]]
@@ -16970,7 +16970,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
-hash = "a2bf4a3e4727d701ccbc326c06769619dc8caf7b12424e6f8c1fae1fa26a16c4"
+hash = "5638286006ed92353ffaaac8a2a01a1c47a2965bf3a3091a786a147248f19fb3"
 metafile = true
 
 [[files]]
@@ -16980,7 +16980,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "b1764406aa98d62b756ad287f9164e84e76d44493dad9335578953465d6f22cb"
+hash = "7e8ff6adbb75025b16fe0cb9bdf8080edb1c832dc23449c9d4878bce42c2137b"
 metafile = true
 
 [[files]]
@@ -16995,7 +16995,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "f043146d37caf425f2dfbe8b434ee1ef0e233ba66bdd707e93ac37bf8e377536"
+hash = "938ecde64420e6fc681d57041db229b2e1ff7f9e408a383bd8ce1d3a54e714fa"
 metafile = true
 
 [[files]]
