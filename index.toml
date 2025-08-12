@@ -17165,17 +17165,17 @@ metafile = true
 
 [[files]]
 file = "mods/mafglib.pw.toml"
-hash = "03b8a51c2e49c5a32d9ca0db21dca7ec6867e8296b744fafc823555288defb9f"
+hash = "97f6e3481253075ab47c2f18e71bf29d2737872b0761dc179bf7871410dd98e6"
 metafile = true
 
 [[files]]
 file = "mods/mega-cells.pw.toml"
-hash = "b9a5d3eb9124b3e932746bd288233f2eabd72cf9b8e99a6bd453dd0d042deab0"
+hash = "1d9375cb39a6c3a9792c44992ba5b71c43e89b78334995a1e6d21dbf0f181a46"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "f6cc47777418eada79b50d6cdd57bd6dc35017f8e46defd5e888a2d6215be0e1"
+hash = "36b3da73d8ce3dfaa5c9a5dae7db10df3ee25f0d32cff6e1cde5407c5e6f271f"
 metafile = true
 
 [[files]]
@@ -17225,7 +17225,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclearcraft-neoteric.pw.toml"
-hash = "a64a7f239c438513d1f92766d353cfe547b9a03eaa33b53c937e179bac2ca406"
+hash = "7b97a647a407c721873a3d94901b405cff143c18ea590c4d5f5bfcbd30a504c2"
 metafile = true
 
 [[files]]
@@ -17350,7 +17350,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "5ca3e837c2e605c07120ab4ae53c67a6693a79f256c87a5939d09b20a437b5c9"
+hash = "aa9411c69f0a0f561ff0901fc6dc315db8dcd5012902241e6fc37fa02d1d9143"
 metafile = true
 
 [[files]]
