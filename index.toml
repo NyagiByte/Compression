@@ -17040,17 +17040,17 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "0d2fd2335340df10d91e09aa9bd3e5b360f91daa5b35586199d1d3a9aac4467b"
+hash = "e09d3120ef839e26ce1264eb163b153e4120025bb887f98a5e1e310711b35177"
 metafile = true
 
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
-hash = "632cc987bec151520dd5636f1152c7b7af67403a5957adfdcc6d3c2e4d39ac79"
+hash = "364cb2d5ea8d33e8643998f53390f207bce9e1aa7bb834ad938cc63d310edb4e"
 metafile = true
 
 [[files]]
 file = "mods/immersive-petroleum.pw.toml"
-hash = "75f5e193bbe59997aadecb9f61ad1dad409acbcc1c60bdcdb2c5a6f32cacebda"
+hash = "1fe42672d134c25a1206b04a8c159cdcfc6139b53a09ba625ef900b281c236ec"
 metafile = true
 
 [[files]]
@@ -17065,12 +17065,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "b4622e8d8ede45aa76c6d4595087219effbe83c87ecfa6aa016f70c145d1aa64"
+hash = "87598614bbfd229dd539b6ba7316b0f5faf26302e6c66cb9e0db9846413c6174"
 metafile = true
 
 [[files]]
 file = "mods/ironchests.pw.toml"
-hash = "946256eae11e1cff069aef2c7fdd2587d5f66226c4a4d7382a296c0a500895f6"
+hash = "014b60231a26ba42aba1ca48dd7fc4c6d966ddc74b9043d3069dd956dc9d0b73"
 metafile = true
 
 [[files]]
