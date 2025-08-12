@@ -1,13 +1,13 @@
 name = "Fast Paintings"
-filename = "fastpaintings-1.19-1.1.2.jar"
+filename = "fastpaintings-1.19-1.1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a189a0b601e045928c62416b0a37240895cbe03c"
+hash = "2154f336a2524cc7944b808a9c605d5d9680eed1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4802155
+file-id = 5095487
 project-id = 883287
