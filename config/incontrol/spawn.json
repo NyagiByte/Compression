@@ -1,6 +1,6 @@
 [
   {
-    "mob": "minecraft:skeleton",
+    "mob": ["minecraft:skeleton", "minecraft:stray"],
     "result": "deny"
   }
 ]
