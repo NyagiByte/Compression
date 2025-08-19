@@ -1,0 +1,15 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "amount": 1000,
+        "fluid": "mekanism:brine"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:evaporated_brine"
+      }
+    ]
+  }

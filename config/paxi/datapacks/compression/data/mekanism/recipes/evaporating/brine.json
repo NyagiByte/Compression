@@ -1,0 +1,11 @@
+{
+    "type":"mekanism:evaporating",
+        "input":{
+            "amount":10,
+            "fluid":"nyagibits_bytes:seawater_fluid"
+            },
+                "output":{
+                    "amount":1,
+                    "fluid":"mekanism:brine"
+                    }
+                }

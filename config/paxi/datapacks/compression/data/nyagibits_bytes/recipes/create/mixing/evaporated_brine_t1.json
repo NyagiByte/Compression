@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "amount": 2500,
+        "fluid": "mekanism:brine"
+      },
+      {
+        "item": "nyagibits_bytes:sodium_polyacrylate"
+      }
+    ],
+    "results": [
+      {
+        "count": 3,
+        "item": "nyagibits_bytes:evaporated_brine"
+      }
+    ]
+  }

@@ -1,0 +1,27 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"secondaryFluidInput": 0,
+	"ingredients": [
+		{
+			"fluid": "chemlib:chlorine_fluid",
+			"amount": 1000
+		},
+		{
+			"item": "nyagibits_bytes:potassium_bromide_dust"
+		},
+		{
+			"item": "nyagibits_bytes:potassium_bromide_dust"
+		}
+	],
+	"results": [
+		{
+			"amount": 1000,
+			"fluid": "chemlib:bromine_fluid"
+		},
+		{
+            "count": 2,
+			"item": "chemlib:potassium_chloride_dust"
+		}
+	],
+	"processingTime": 200
+}

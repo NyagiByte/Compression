@@ -1,0 +1,26 @@
+{
+	"type":"vintageimprovements:vibrating",
+	"ingredients": [ 
+		{
+			"item": "nyagibits_bytes:evaporated_brine"
+		}
+	],
+	"results": [
+		{
+			"item": "nyagibits_bytes:residue_brine_product"
+		},
+		{
+            "chance": 0.25,
+			"item": "nyagibits_bytes:raw_trona"
+		},
+		{
+            "chance": 0.25,
+			"item": "nyagibits_bytes:raw_borax"
+		},
+		{
+            "chance": 0.25,
+			"item": "nyagibits_bytes:potash"
+		}
+	],
+	"processingTime": 300
+}

@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:de_mineralized_salt_cluster"
+      },
+      {
+        "amount": 4000,
+        "fluid": "minecraft:water"
+      },
+      {
+        "amount": 100,
+        "fluid": "nyagibits_bytes:diethyl_ether_fluid"
+      }
+    ],
+    "results": [
+      {
+        "amount": 4000,
+        "fluid": "mekanism:brine"
+      }
+    ]
+  }

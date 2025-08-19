@@ -1,0 +1,25 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "amount": 10000,
+        "fluid": "mekanism:brine"
+      },
+      {
+        "item": "nyagibits_bytes:sodium_polyacrylate"
+      },
+      {
+        "item": "nyagibits_bytes:sample_phosphorus_pentoxide"
+      }
+    ],
+    "results": [
+      {
+        "count": 16,
+        "item": "nyagibits_bytes:evaporated_brine"
+      },
+      {
+        "item": "chemlib:phosphoric_acid"
+      }
+    ]
+  }

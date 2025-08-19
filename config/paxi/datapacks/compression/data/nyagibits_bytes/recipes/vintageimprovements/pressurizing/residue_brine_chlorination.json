@@ -1,0 +1,63 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"secondaryFluidInput": 0,
+	"ingredients": [
+		{
+			"fluid": "chemlib:chlorine_fluid",
+			"amount": 125
+		},
+		{
+			"item": "nyagibits_bytes:residue_brine_product"
+		},
+		{
+			"item": "nyagibits_bytes:residue_brine_product"
+		},
+		{
+			"item": "nyagibits_bytes:residue_brine_product"
+		},
+		{
+			"item": "nyagibits_bytes:residue_brine_product"
+		},
+		{
+			"item": "nyagibits_bytes:residue_brine_product"
+		},
+		{
+			"item": "nyagibits_bytes:residue_brine_product"
+		},
+		{
+			"item": "nyagibits_bytes:residue_brine_product"
+		},
+		{
+			"item": "nyagibits_bytes:residue_brine_product"
+		},
+		{
+			"item": "nyagibits_bytes:residue_brine_product"
+		},
+		{
+			"item": "nyagibits_bytes:residue_brine_product"
+		}
+	],
+	"results": [
+		{
+			"count": 2,
+			"item": "chemlib:bromine"
+		},
+		{
+			"count": 4,
+			"item": "mekanism:salt"
+		},
+		{
+			"count": 2,
+			"item": "nyagibits_bytes:calcium_phosphate_dust"
+		},
+		{
+			"count": 1,
+			"item": "chemlib:sodium_sulfate"
+		},
+		{
+			"chance": 0.1,
+			"item": "chemlib:lithium_chloride"
+		}
+	],
+	"processingTime": 200
+}

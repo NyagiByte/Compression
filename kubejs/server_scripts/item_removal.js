@@ -41,7 +41,6 @@ ServerEvents.recipes(e => {
             e.remove({type: 'mekanism:pigment_mixing' }),
             e.remove({type: 'mekanism:sawing' }),
             e.remove({type: 'mekanism:reaction' }),
-            e.remove({type: 'mekanism:evaporating' }),
             e.remove({type: 'mekanism:nucleosynthesizing' }),
             e.remove({type: 'mekanism:compressing' }),
             e.remove({type: 'mekanism:injecting' }),

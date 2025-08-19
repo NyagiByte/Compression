@@ -197,6 +197,8 @@
 		{"namespace": "minecraft", "path": "recipes/leather.json"},
 		{"namespace": "minecraft", "path": "recipes/white_wool_from_string.json"},
 
+		{"namespace": "mekanism", "path": "recipes/evaporating/lithium.json"},
+
 		{"namespace": "mekanism", "path": "recipes/storage_blocks/charcoal.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/compressed/charcoal_block.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/compressed/charcoal_block_uncompress.json"},

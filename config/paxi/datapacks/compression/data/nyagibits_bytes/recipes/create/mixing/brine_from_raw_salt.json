@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:raw_salt_cluster"
+      },
+      {
+        "amount": 1000,
+        "fluid": "minecraft:water"
+      },
+      {
+        "amount": 100,
+        "fluid": "nyagibits_bytes:diethyl_ether_fluid"
+      }
+    ],
+    "results": [
+      {
+        "amount": 1000,
+        "fluid": "mekanism:brine"
+      }
+    ]
+  }
