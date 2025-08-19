@@ -1513,6 +1513,10 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/samp
 hash = "4d698712a471dc321dc985b83e2431513de65994cb244e0ebc5a6ff66072d321"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_hydrogen_bromide.json"
+hash = "da28548e600e24c3f3fad427a2bc3a614a0754d35c8a3c222e262b59980f89e9"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_hydrogen_peroxide_003.json"
 hash = "c84cb67d721f6fc89c3daa9be925b075d786ffa1c9641c49cf43955732a6b07f"
 
@@ -1587,6 +1591,10 @@ hash = "36493a8bd48117c9fa0f60a1a56709e7a668f34646bb9cd933329bf67881c269"
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_precursor_3_hpa_4.json"
 hash = "dc5fb60d80c7d1f2703db74d434363bdc6826db645f2b9717cad8d0ad1187585"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_seawater.json"
+hash = "223c5a3559a0b8ebea52ccd8d0fda03e8bb4b1be13890d196e52725504f2d984"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_solution_chitosan.json"
@@ -1713,6 +1721,10 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/dsp
 hash = "dba4c2cfceb5ff91bdcc813f94c9d39f5cefa56cde952fe3e12f7e97fd6bab36"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/evaporated_brine_dust.json"
+hash = "f0fbd43f671f9e189e13ab1d1e8009db148c3c05bfd3568d1ae25cc3af0db427"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/hpa_4_dust.json"
 hash = "a140ac824ee55cee98d8f191551497c90094e43e29488a54fbcc867eabff0901"
 
@@ -1743,6 +1755,10 @@ hash = "57b3e47f212775d372f199c3419ec476d3ec93154afd82d799ae91e5336842ad"
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/potassium_bromide_dust.json"
 hash = "7472078a21953a45d0edb88f9fcd7c368c2d44d0d69d8a3ceb96b08fae18befe"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/residue_brine_product_dust.json"
+hash = "6b3896afbaa69971a78cf81df8d82efdad739d1ac213c8c835d4153af7d5bc8d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/sodium_metavanadate_dust.json"
@@ -1897,6 +1913,10 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sam
 hash = "6f2fb9295f491a1989569f8c0c56045fc960fa45faa1b1cf6817ccdaaf7c30f8"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_evaporated_brine.json"
+hash = "9392ca292cf4f69f1acc0bab8282eeb532539e6173294c4f9d428d52e103e682"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_hpa_4.json"
 hash = "5198f8764633a173bfaca78b8228b90c4822c8936c90ded0eb30d6d9850a7285"
 
@@ -1927,6 +1947,10 @@ hash = "5319e3dc736beb25381b4851f6fd6d6f51a90e4755579df2bdfc0b1b0d6c808d"
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_potassium_bromide.json"
 hash = "4857c61dec003ee802a2ac0e7b5222b155502c4c6be888dd13169ed3f17b18b8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_residue_brine_product.json"
+hash = "3eba3405efe62aa0a095d643bf6ffa628653f616153905f3cf14c93591f6c498"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_sodium_metavanadate.json"
@@ -2017,6 +2041,10 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/hep
 hash = "fa0462434ebbacf9d42c7bd820936c3af5a0e32e7bd921c255db6420d6d3640d"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/hydrogen_bromide_fluid.json"
+hash = "275ed8ee6ee9a2defb861975a3524a78cfd24f0afa9e6785a2fea78a2c9f9a9a"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/hydrogen_peroxide_003_fluid.json"
 hash = "3f04553910c7965e4c4991c850c692a9da238c6ff64f3d4d13d5d5528ea8258c"
 
@@ -2091,6 +2119,10 @@ hash = "ece31a98cec68596d1a28104d0bef0192e7c2e54b0ebec01ea2e199101423d7e"
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/precursor_3_hpa_4_fluid.json"
 hash = "1fca2b75745b3462aa1bf8f80d5bb9dc772162fdd7fefa4df2ff6b98e3bec9c2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/seawater_fluid.json"
+hash = "e8526bdd1e53e29479a110adfc4d43c0cbeb555a761a2b356ecb37aabdfcf1a0"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/solution_chitosan_fluid.json"
@@ -8065,6 +8097,10 @@ file = "config/paxi/datapacks/compression/data/mekanism/recipes/creatified/sawdu
 hash = "0c881faaa2a211c5cf341046ca718267aa3df9f47192f9ab30567455f78a0579"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/mekanism/recipes/evaporating/brine.json"
+hash = "c53239624aa9fe4743428d4bff649a8016b513b14711f38160839ee1c680394c"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/mekanism/recipes/fluid_tank/advanced.json"
 hash = "daa2d6a10c293a5b6180a91521ceee7c58dca3f5d31f788a90cb579c0efde556"
 
@@ -9025,6 +9061,14 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "e0a3adac5334161066e0a687e70045480bd4dedf69fb59e3868ed4ccedc5e923"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/brine_from_raw_salt.json"
+hash = "d8f00d558491451c96eea4c4698f895005cce549fb618ae0bfac5d824cfd89d2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/brine_from_raw_salt_t1.json"
+hash = "fb172e2aa7ddecd38c09eccaf0cb0ca24b73c627b74ff3b7f0ff5f1543763e46"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/cadmium_hydroxide_dust.json"
 hash = "4db4105d61ad99387e1ac4c97c6ac5e192b60a963256e0e1d22b8ffbd7e497c3"
 
@@ -9079,6 +9123,18 @@ hash = "40bb8929cf0df0a5a7dc076966e63989d4e749ee39c4f72c4abcf20ac10ae15b"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/ethylene_oxide.json"
 hash = "7eb33dfc3726db1ebd636c23fe80dc67ef2331c72095512e79d64d7081956643"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/evaporated_brine.json"
+hash = "a1bb5774df7a95b922689ab957977be4679f3b77c9a488139d7d1e8c07e9a836"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/evaporated_brine_t1.json"
+hash = "8431a15cde901f8c7f5d4d61ed0c40cc1870c171cf9fd25d6a066464bee3d1bc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/evaporated_brine_t2.json"
+hash = "86ab28a394465f9b617b980357f809020210b582ba479ff1f1e9173a0367080f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/everburn_tar.json"
@@ -12741,12 +12797,20 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageim
 hash = "69b12a2dbf9d19ade771e98e8d0f3c98e6e0a323aed8b9984c6a9640dda6cc62"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/potassium_bromide_recycling.json"
+hash = "b113beca250094feea82b12aab6471dd391f99efcc9c194670a77ca9e5aef8da"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/precursor_3_hpa_4_fluid.json"
 hash = "9c92075796c46774afa0a855ee6b2ac7c92a0aa9759ea2c640259a1de65da2aa"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/quenched_thermalsidian.json"
 hash = "fc552c41464007cd0a24550b4b310bff1ef0621fd7c982e9aac81c23054e22c6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/residue_brine_chlorination.json"
+hash = "109eca739ebd86264fefbde4725e0e96b77d806369b0ee8d2b285017c0116585"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/sodium_hypochlorite.json"
@@ -12791,6 +12855,10 @@ hash = "0ff9637b48f9db48f6401b122c1acac6a2272485b30ea4838b0a43638a7da0da"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/white_phosphorus.json"
 hash = "66255d25d4932f4fe2b9ba5f81d4b8561e93ff7c88f6fb2eab7b1a395965f5ae"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vibrating/residue_brine_product.json"
+hash = "938bb4ed0eecf3d2a456816231b605900d3bae4cf292ad4184da5539643266ab"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/origins/origin_layers/origin.json"
@@ -15290,7 +15358,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "95cef7b14275a02e1c9c2b8efb1be372102e19508471090e509a6bb53173fdcb"
+hash = "f0a9bf32a2fc73efa0fee6d5319be1d54e7ae2342d25d68061d48f3e389eceef"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -16602,7 +16670,7 @@ hash = "c2b883496a6eca188047e44b8467113962fe03221e93c3e0e9ffeeaf0ff94c0e"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "201a9319f87d2fef76ed46770bc12ff61a1515c38a8df8b4ab4bd80701986990"
+hash = "e1b1ec7f7a73fed50b8967b4ba5eb482e3e6b06eb554cb74383cf32b3ace4035"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
