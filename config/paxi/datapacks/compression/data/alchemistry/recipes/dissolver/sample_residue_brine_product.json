@@ -1,0 +1,25 @@
+{
+    "type": "alchemistry:dissolver",
+    "group": "alchemistry:dissolver",
+    "input": {
+      "count": 1,
+      "ingredient": {
+        "item": "nyagibits_bytes:residue_brine_product"
+      }
+    },
+    "output": {
+      "groups": [
+        {
+          "probability": 100.0,
+          "results": [
+            {
+              "count": 16,
+              "item": "nyagibits_bytes:sample_residue_brine_product"
+            }
+          ]
+        }
+      ],
+      "rolls": 1,
+      "weighted": false
+    }
+  }

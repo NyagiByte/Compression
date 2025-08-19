@@ -1,0 +1,13 @@
+{
+    "type": "alchemistry:compactor",
+    "group": "alchemistry:compactor",
+    "input": {
+      "count": 16,
+      "ingredient": {
+        "item": "nyagibits_bytes:sample_residue_brine_product"
+      }
+    },
+    "result": {
+      "item": "nyagibits_bytes:residue_brine_product"
+    }
+  }
