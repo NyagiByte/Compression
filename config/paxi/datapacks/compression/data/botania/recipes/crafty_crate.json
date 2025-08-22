@@ -1,0 +1,21 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "item": "botania:crafting_halo"
+    },
+    {
+      "item": "nyagibits_bytes:living_frame"
+    },
+    {
+      "item": "create:andesite_casing"
+    }
+  ],
+  "output": {
+    "count": 8,
+    "item": "botania:crafty_crate"
+  },
+  "reagent": {
+    "tag": "botania:seed_apothecary_reagent"
+  }
+}

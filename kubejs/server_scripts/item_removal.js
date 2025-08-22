@@ -172,16 +172,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'botania:black_lotus'});
         e.remove({output: 'botania:blacker_lotus'});
         e.remove({output: 'botania:overgrowth_seed'});
-        e.remove({output: 'botania:placeholder'});
-        e.remove({output: 'botania:pattern_1_1'});
-        e.remove({output: 'botania:pattern_2_2'});
-        e.remove({output: 'botania:pattern_1_2'});
-        e.remove({output: 'botania:pattern_2_1'});
-        e.remove({output: 'botania:pattern_1_3'});
-        e.remove({output: 'botania:pattern_3_1'});
-        e.remove({output: 'botania:pattern_2_3'});
-        e.remove({output: 'botania:pattern_3_2'});
-        e.remove({output: 'botania:pattern_donut'});
         e.remove({output: 'botania:blood_pendant'});
         e.remove({output: 'botania:kekimurus'});
         e.remove({output: 'botania:spectrolus'});
