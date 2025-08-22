@@ -1,0 +1,21 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"secondaryFluidInput": 0,
+	"ingredients": [
+		{
+			"fluid": "chemlib:oxygen_fluid",
+			"amount": 1000
+		},
+		{
+			"fluid": "nyagibits_bytes:dms_fluid",
+			"amount": 1000
+		}
+	],
+	"results": [
+		{
+			"amount": 1000,
+			"fluid": "nyagibits_bytes:dmso_fluid"
+		}
+	],
+	"processingTime": 200
+}

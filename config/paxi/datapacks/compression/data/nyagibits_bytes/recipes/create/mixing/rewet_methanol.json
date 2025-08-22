@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "amount": 1000,
+        "fluid": "minecraft:water"
+      },
+      {
+        "amount": 1000,
+        "fluid": "nuclearcraft:methanol"
+      }
+    ],
+    "results": [
+      {
+        "amount": 2000,
+        "fluid": "nyagibits_bytes:wet_methanol_fluid"
+      }
+    ]
+  }

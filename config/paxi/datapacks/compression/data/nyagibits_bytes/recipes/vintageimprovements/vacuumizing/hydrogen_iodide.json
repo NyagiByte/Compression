@@ -1,0 +1,33 @@
+{
+    "type": "vintageimprovements:vacuumizing",
+    "heatRequirement": "heated",
+	"secondaryFluidOutput": 1,
+    "ingredients": [
+      {
+        "fluid": "nyagibits_bytes:hydrazine_fluid",
+        "amount": 500
+      },
+      {
+        "item": "chemlib:iodine"
+      },
+      {
+        "item": "chemlib:iodine"
+      },
+      {
+        "item": "chemlib:iodine"
+      },
+      {
+        "item": "chemlib:iodine"
+      }
+    ],
+    "results": [
+      {
+        "fluid": "nyagibits_bytes:hydrogen_iodide_fluid", 
+        "amount": 2000
+    },
+      {
+        "fluid": "chemlib:nitrogen_fluid", 
+        "amount": 1000
+    }
+    ]
+}

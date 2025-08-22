@@ -1,0 +1,29 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"secondaryFluidInput": 0,
+	"ingredients": [
+		{
+			"fluid": "chemlib:ammonia_fluid",
+			"amount": 1000
+		},
+		{
+			"fluid": "nyagibits_bytes:acetone_fluid",
+			"amount": 500
+		},
+		{
+			"fluid": "nyagibits_bytes:hydrogen_peroxide_032_fluid",
+			"amount": 500
+		}
+	],
+	"results": [
+		{
+			"amount": 490,
+			"fluid": "nyagibits_bytes:acetone_fluid"
+		},
+		{
+            "amount": 500,
+			"fluid": "nyagibits_bytes:wet_hydrazine_fluid"
+		}
+	],
+	"processingTime": 200
+}

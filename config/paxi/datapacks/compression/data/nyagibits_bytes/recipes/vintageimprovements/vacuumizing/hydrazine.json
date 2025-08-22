@@ -1,0 +1,11 @@
+{
+    "type": "vintageimprovements:vacuumizing",
+	"secondaryFluidOutput": 1,
+    "ingredients": [
+      {"fluid": "nyagibits_bytes:wet_hydrazine_fluid","amount": 1000}
+    ],
+    "results": [
+      {"fluid": "nyagibits_bytes:hydrazine_fluid", "amount": 500},
+      {"fluid": "minecraft:water", "amount": 500}
+    ]
+}

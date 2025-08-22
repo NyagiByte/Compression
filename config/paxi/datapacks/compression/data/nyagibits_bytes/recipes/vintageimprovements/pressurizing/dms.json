@@ -1,0 +1,32 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"secondaryFluidInput": 0,
+	"ingredients": [
+		{
+			"fluid": "chemlib:hydrogen_sulfide_fluid",
+			"amount": 500
+		},
+		{
+			"fluid": "nuclearcraft:methanol",
+			"amount": 1000
+		},
+		{
+			"item": "chemlib:aluminum_oxide_dust"
+		}
+	],
+	"results": [
+		{
+			"amount": 500,
+			"fluid": "nyagibits_bytes:dms_fluid"
+		},
+		{
+			"amount": 1000,
+			"fluid": "minecraft:water"
+		},
+		{
+            "count": 7,
+			"item": "chemlib:aluminum_oxide"
+		}
+	],
+	"processingTime": 200
+}

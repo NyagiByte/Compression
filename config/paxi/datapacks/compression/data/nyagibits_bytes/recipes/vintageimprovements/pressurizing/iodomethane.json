@@ -1,0 +1,25 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"secondaryFluidInput": 0,
+	"ingredients": [
+		{
+			"fluid": "nyagibits_bytes:hydrogen_iodide_fluid",
+			"amount": 1000
+		},
+		{
+			"fluid": "nyagibits_bytes:wet_methanol_fluid",
+			"amount": 1000
+		}
+	],
+	"results": [
+		{
+			"amount": 1000,
+			"fluid": "nyagibits_bytes:iodomethane_fluid"
+		},
+		{
+            "amount": 1000,
+			"fluid": "minecraft:water"
+		}
+	],
+	"processingTime": 200
+}

@@ -1,0 +1,155 @@
+{
+	"type":"vintageimprovements:vacuumizing",
+	"secondaryFluidInput": 1,
+	"ingredients": [
+		{
+			"fluid": "nyagibits_bytes:iodomethane_fluid",
+			"amount": 125
+		},
+		{
+			"fluid": "nyagibits_bytes:hydroquinone_fluid",
+			"amount": 500
+		},
+		{
+			"fluid": "nyagibits_bytes:dmso_fluid",
+			"amount": 500
+		},
+		{
+			"item": "nyagibits_bytes:aluminum_trichloride_dust"
+		},
+		{
+			"item": "chemlib:sodium_sulfate_dust"
+		},
+		{
+			"item": "nyagibits_bytes:slushy_ice"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
+			"item": "chemlib:potassium_hydroxide_dust"
+		}
+	],
+	"results": [
+		{
+			"item": "nyagibits_bytes:1_4_dimethoxybenzene_dust"
+		},
+		{
+            "chance": 0.95,
+			"item": "nyagibits_bytes:aluminum_trichloride_dust"
+		},
+		{
+            "chance": 0.5,
+			"item": "chemlib:sodium_sulfate_dust"
+		}
+	],
+	"processingTime": 200
+}

@@ -1,0 +1,13 @@
+{
+    "type": "alchemistry:compactor",
+    "group": "alchemistry:compactor",
+    "input": {
+      "count": 16,
+      "ingredient": {
+        "item": "nyagibits_bytes:sample_1_4_dimethoxybenzene"
+      }
+    },
+    "result": {
+      "item": "nyagibits_bytes:1_4_dimethoxybenzene_dust"
+    }
+  }
