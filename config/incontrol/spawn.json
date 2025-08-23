@@ -1,6 +1,7 @@
 [
   {
     "mob": ["minecraft:skeleton", "minecraft:stray"],
+    "spawner": false,
     "result": "deny"
   }
 ]
