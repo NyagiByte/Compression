@@ -1,6 +1,6 @@
 {
     "replace": true,
     "values": [
-        "thermal:raw_silver_block"
+        "thermal:raw_lead_block"
     ]
   }
