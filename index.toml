@@ -17388,11 +17388,6 @@ hash = "313e8d86888699c1b31c8440938b7512171ad7f123f0ef4689878f933eff188e"
 metafile = true
 
 [[files]]
-file = "mods/mod-name-tooltip.pw.toml"
-hash = "0f37846b5bc38059aad5800e48e22a7d24b915ef553e3241af2b63e9ba864237"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "d5ebd6a072c380a9872729df7c48021f5f187329f51afbfcee43e952c49f6d08"
 metafile = true
