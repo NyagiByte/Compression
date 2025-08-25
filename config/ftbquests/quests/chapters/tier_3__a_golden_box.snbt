@@ -7,24 +7,149 @@
 	id: "20D0865DA87C41B2"
 	order_index: 3
 	quest_links: [ ]
-	quests: [{
-		dependencies: ["3BEACE9F3F1EC3AA"]
-		icon: "immersiveengineering:wire_electrum"
-		id: "63481AC6B9F7024A"
-		rewards: [{
-			id: "32446F8E32A30E64"
-			item: "ftbquests:missing_item"
-			type: "item"
-		}]
-		size: 2.0d
-		tasks: [{
-			id: "5C94B3E8B7B328A4"
-			title: "The Computation Age Begins"
-			type: "checkmark"
-		}]
-		x: 0.0d
-		y: 0.0d
-	}]
+	quests: [
+		{
+			dependencies: ["3BEACE9F3F1EC3AA"]
+			description: ["Hello! If you are reading this you are too early! The pack is &6WIP&r! The quests here provide a quick overview of what is intended for the devin'"]
+			icon: "immersiveengineering:wire_electrum"
+			id: "63481AC6B9F7024A"
+			size: 2.0d
+			tasks: [{
+				id: "5C94B3E8B7B328A4"
+				title: "The Computation Age Begins"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"The &6Punch Card Computer&r will be a custom multiblock made for this tier"
+				""
+				"It will be a &b3x3xn&r structure, where the length of the machine represents the maximum size of instruction input/output"
+				""
+				"The basic idea of the structure is this:\\n"
+				"On the front facing portion of the machine there will be a slot to &6input a punch card&r\\n"
+				"Next to this &bitem input&r will be a &credstone input&r to start the machine"
+				""
+				"Once the machine starts &etwo&r distinct things will happen:\\n"
+				"The top-front slot will output a &credstone signal between &61-15&r"
+				""
+				"Each signal will correspond to a different &a\"task\"&r and will interface with create display boards to show the task more directly"
+				""
+				"These &atasks&r are yet to be decided but will be explained in ponders"
+				""
+				"The type of task possible to roll depends on the &6size&r of the computer, more complex tasks will yield better &dquality \\& quantity&r completed punch cards"
+				""
+				"If the input to the computer does not match the requested task the craft will &cfail&r and mangle your punch card"
+			]
+			id: "17414CAE571D0CF3"
+			tasks: [{
+				id: "4C49A969A7DDD2CF"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Turing Complete"
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			description: [
+				"&dHexcasting&r will be a mod accessable in Tier 3"
+				""
+				"Hexcasting is a &6programing based magic mod&r where one draws symbols in a sequence to form &elogical statements&r which then execute"
+				""
+				"The real power and relevance to &bCompression&r is in the ability for these instructions to be physical multiblocks entirely constructed by the player"
+				""
+				"These structures can be triggered by redstone and be as complex or simple as desired"
+			]
+			id: "2EDC03FB8F3AA4E9"
+			tasks: [{
+				id: "335AEFA42E65F2C1"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Getting Hexical"
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Botania's &aPortal to Alfheim&r is often overlooked in modpacks and is treated as a \"thing to thing\" converter without much else going on"
+				""
+				"The plan here is to treat it as a &6\"lost archive\"&r of information, a hologram of old lost knowledge"
+				""
+				"Throwing &6parchment&r into the gateway will return a random string of characters in an &bunknown language&r"
+				""
+				"Your task will be to decript it and gleen information relevant to production methods and secrets in world"
+				""
+				"And it will have to be automated ;)"
+			]
+			id: "372CCD587E760886"
+			tasks: [{
+				id: "5AC6D1BB0637E4AE"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Alfemic Linguistics"
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			description: [
+				"Ae2 &bAutocrafting&r Finally!"
+				""
+				"Ey ey ey, not so fast, this is &6Compression&r so there has to be a new suffering method for things considered easy or overpowered"
+				""
+				"As part of the Crafting CPU multiblock there will be a &bnew block&r called the &aFlopotron&r"
+				""
+				"When requesting a craft a new consumed unit called &d\"flops\"&r will be needed for every operation the CPU does"
+				""
+				"To gain &d\"flops\"&r the Flopotron must be fed completed computational tasks from either the &6punchcard computer&r or an equivalent &6hexcasting sourced rune&r"
+			]
+			id: "6F07152A73C044C0"
+			tasks: [{
+				id: "3C2B0481AF6CE6E6"
+				item: "ae2:crafting_unit"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			description: [
+				"At the end of Tier 3 you will begin work on a &alibrary of life&r"
+				""
+				"This will be important for starting &2Tier 4&r as that is a heavily biology focused chapter"
+				""
+				"Hope you like &6statistics&r!"
+			]
+			id: "7BCAB430B974B009"
+			tasks: [{
+				id: "44D54D66B302D02F"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Biological Database"
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Tier 3's Ore scaler"
+				""
+				"Specifics yet to be decided"
+			]
+			id: "3AAA7076E55D45C4"
+			tasks: [{
+				id: "0096388C9AE76603"
+				item: "botania:orechid"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+	]
 	subtitle: ["Delicate weaving, golden threads"]
 	title: " &6Tier 3&b - A Golden Box"
 }

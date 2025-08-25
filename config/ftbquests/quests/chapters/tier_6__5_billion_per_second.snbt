@@ -7,19 +7,95 @@
 	id: "1C3C118BF0B564FB"
 	order_index: 6
 	quest_links: [ ]
-	quests: [{
-		dependencies: ["3BEACE9F3F1EC3AA"]
-		icon: "pneumaticcraft:transistor"
-		id: "3141035C996CF5B0"
-		tasks: [{
-			id: "5B9385CB35D145B7"
-			title: "7 nanometers each"
-			type: "checkmark"
-		}]
-		title: "7nm Thinking Metal"
-		x: 0.0d
-		y: 0.0d
-	}]
+	quests: [
+		{
+			dependencies: ["3BEACE9F3F1EC3AA"]
+			description: ["Hello! If you are reading this you are too early! The pack is &6WIP&r! The quests here provide a quick overview of what is intended for the devin'"]
+			icon: "pneumaticcraft:transistor"
+			id: "3141035C996CF5B0"
+			tasks: [{
+				id: "5B9385CB35D145B7"
+				title: "7 nanometers each"
+				type: "checkmark"
+			}]
+			title: "7nm Thinking Metal"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Tier 6 will focus almost exclusively on &6one&r production chain"
+				""
+				"&bThe 7nm architecture cpu/gpu/ram silicon wafer&r"
+				""
+				"There will be massive machines, many machines, processing steps that unironically take &6hundreds of cycles to finish&r"
+				""
+				"The goal is to follow &areal-life processes&r as close as is possible within the limitations of the game"
+				""
+				"Time to build a city sized cleanroom :fire:"
+			]
+			id: "5BCCEDAC43C85FE3"
+			tasks: [{
+				id: "44817F99AA1CF247"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Taiwan Simulator"
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"&bMasks&r used in the &dUltraviolet Lithography&r steps are extremely important as they determin how good your chips are"
+				""
+				"The idea is to let you &adesign a mask&r by plotting out a square on the ground and building out &credstone&r. "
+				""
+				"The redstone will then be tested for &a\"speed\"&r at whatever task the mask is being made for."
+				""
+				"However it performs will determin the &6quality of the mask&r, which determins how &6productive&r that step in the crafting chain will be"
+			]
+			id: "35305DC2A70419C6"
+			tasks: [{
+				id: "184F22CD959C0546"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Mask Production"
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			description: [
+				"Now you may of seen the &a\"make everything\"&r part of the pack and then seen the &cmassive variation in building blocks&r and gotten worried"
+				""
+				"Fear not for there is a plan to make this &6not awful&r"
+				""
+				"There will be &ntwo new machines&r involved in this:"
+				""
+				"&b&nSmall Scale Universal Clanking Factory&r&r\\n"
+				"This factory will be fed a series of &estock-items&r where it will then randomly produce an item considered decorative/building (at a massive cost)"
+				""
+				"Initially this will be &cslow and wasteful&r"
+				""
+				"The resulting output will then be fed into a second machine:"
+				""
+				"&b&nBGPT-9000 (Block GPT:tm:)&r"
+				""
+				"This machine at great energetic cost will consume decorative blocks and produce optimization related data which when recombined with other science will produce optimization cards that will boost the efficiency of the universal factory"
+				""
+				"You can plug these machines into eachother and after chewing through the &6energy production of a whole country&r and a &cfew billion items&r, it will be \"good enough\" to use"
+			]
+			id: "51C3E42CFDA923A6"
+			tasks: [{
+				id: "0A1A4B53042AAB66"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "AI Assisted Climate Change"
+			x: -1.5d
+			y: 1.0d
+		}
+	]
 	subtitle: ["Metal and sand made to think"]
 	title: " &6Tier 6&b - 5 billion per second"
 }

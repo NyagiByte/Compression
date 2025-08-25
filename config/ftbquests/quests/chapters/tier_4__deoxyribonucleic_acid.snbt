@@ -13,24 +13,180 @@
 	id: "02408EBC47E43AD8"
 	order_index: 4
 	quest_links: [ ]
-	quests: [{
-		dependencies: ["3BEACE9F3F1EC3AA"]
-		icon: "biomancy:flesh_bits"
-		id: "6BC5E6AD744988DD"
-		rewards: [{
-			id: "0F1F558689AA6BCF"
-			item: "ftbquests:missing_item"
-			type: "item"
-		}]
-		size: 2.0d
-		tasks: [{
-			id: "0238085D23E68C39"
-			title: "Horrors well within comprehension"
-			type: "checkmark"
-		}]
-		x: 0.0d
-		y: 0.0d
-	}]
+	quests: [
+		{
+			dependencies: ["3BEACE9F3F1EC3AA"]
+			description: ["Hello! If you are reading this you are too early! The pack is &6WIP&r! The quests here provide a quick overview of what is intended for the devin'"]
+			icon: "biomancy:flesh_bits"
+			id: "6BC5E6AD744988DD"
+			size: 2.0d
+			tasks: [{
+				id: "0238085D23E68C39"
+				title: "Horrors well within comprehension"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"A large portion of early gene editing technology relies on &aviruses and bacteria&r to inject gene segments into plants"
+				""
+				"A massive portion of early Tier 4 will involve their cultivation, replication, and modification"
+			]
+			id: "4B6C9F6092F50AF1"
+			tasks: [{
+				id: "16A985FED7FC79C4"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Virology \\& Bacteria"
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"&aPlants&r will be the first victims of your genetic tinkering"
+				""
+				"Certain species of bacteria can forcefully insert plasmids into plant cells to alter their behavior, and naturally this process can be changed"
+			]
+			id: "0BA4FA2C07E7E89C"
+			tasks: [{
+				id: "2BF843A46B13B256"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Plant Modification"
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"&bMystical Agriculture&r will be the tier 4 ore-scaling"
+				""
+				"This mod will not be an infinite resource sink and will have its own &acustom system&r bridging to &bpneumaticcraft&r"
+				""
+				"The seeds will &cnot&r be replicatable from the crops and must be made continuously as the plants are &csterile&r"
+				""
+				"The growth of the crops will be in a &6\"simulated climate\"&r chamber involving &epressure, temperature, atmosphere, and nutrients&r"
+				""
+				"Failing any of these conditions will result in either the plant dying or a &crapid unscheduled dissassembly&r of the machine"
+			]
+			id: "3DE5749C16D38249"
+			tasks: [{
+				id: "0CA98EA95EE37055"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Mystical Agriculture"
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			description: [
+				"https://bmcbiotechnol.biomedcentral.com/articles/10.1186/s12896-018-0495-1"
+				""
+				"Chickens can be gene edited to make &6drugs&r! As if chickens arnt abused enough in minecraft"
+			]
+			id: "4966D19B92DAF730"
+			tasks: [{
+				id: "7FA7EBB9A2F45868"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Egg.Inc"
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"How to scale animal and mob products without killing my game? You give them &6horrible genetic deformities!&r"
+				""
+				"You will gain the capacity to produce &6viral vectors&r for &6baby animals&r that, once grown up, will result in extremely visually messed up animals that specialize in a drop or two"
+				""
+				"These traits are &cnot heritable&r and thus will require a fresh stream of baby animals to maintain"
+				""
+				"Beyond modification of baby animals a zygote chain \\& implantation will enable &bmass produced modified life&r"
+				""
+				"Modified animals will require &especial diets&r and &econstant medical upkeep&r to keep alive long enough to be butchered "
+			]
+			id: "6C53A12D983F4273"
+			tasks: [{
+				id: "3444D6961E313D6F"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Animal Modification"
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			description: ["Implementation specifics are yet to be decided, but the &chorrors&r continue"]
+			id: "7F97CAFFEC07F149"
+			tasks: [{
+				id: "18BC059D7C0AAD4B"
+				item: "biomancy:bio_forge"
+				type: "item"
+			}]
+			title: "Into Biomancy"
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			description: ["&4The horrors grow&r"]
+			id: "57A3D76B7F9A031E"
+			tasks: [{
+				id: "6BDA06FB9D8870E8"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Secret Last Step"
+			x: -6.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Modification of life will require an understanding of &6rational drug design&r and &6genetic engineering technologies&r"
+				""
+				"Animal research involving different &eorgan systems&r, &estem cell culturing&r, and often cruel experiments are needed to gain a deep understanding of molecular machinery and what makes life tick"
+				""
+				"Which means yes, we will be diving into the research side of biology involving &cgenerated cancers, optogenetic brain manipulation, fetal tissue derived cell sources&r, and all sorts of morally toe curling science. This pack will not lessen the science "
+				""
+				"Anyways who wants to give dogs &cb&6r&ea&ai&bn &dc&ca&6n&ec&ae&br&r?"
+			]
+			id: "23222F6C5ECEE7D0"
+			tasks: [{
+				id: "716DAD6D3DCECC61"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Genetic Pharmaceuticals"
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			description: [
+				"With hunger not being a thing here, food recipes can be just as &chorribly complicated as real life&r!"
+				""
+				"Food will exist for 3 things:"
+				""
+				"&bInstant healing \\& buffs for the player"
+				""
+				"&aVillager Trading"
+				""
+				"&bFeedstock for modified animals"
+			]
+			id: "6F6021449AD3CF86"
+			tasks: [{
+				id: "22C451AAEBE68D23"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Food"
+			x: -4.5d
+			y: -1.0d
+		}
+	]
 	subtitle: ["Life is chemistry in motion"]
 	title: " &6Tier 4&b - Deoxyribonucleic Acid"
 }

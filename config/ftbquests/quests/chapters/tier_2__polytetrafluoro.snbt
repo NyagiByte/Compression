@@ -7,28 +7,123 @@
 	id: "1FC0283CD05AF9A8"
 	order_index: 2
 	quest_links: [ ]
-	quests: [{
-		dependencies: [
-			"43BF36460BEA05DE"
-			"2591E9EC898378B9"
-		]
-		icon: "pneumaticcraft:pressure_tube"
-		id: "2F65DDC0C4F6ABD1"
-		rewards: [{
-			id: "3C192B410C4D223A"
-			item: "ftbquests:missing_item"
-			type: "item"
-		}]
-		size: 2.0d
-		tasks: [{
-			id: "2CB30E172E7708A0"
-			title: "Chemistry! Brought to you by work place accidents"
-			type: "checkmark"
-		}]
-		title: "Chemistry and Industrial Accidents"
-		x: 0.0d
-		y: 0.0d
-	}]
+	quests: [
+		{
+			dependencies: [
+				"43BF36460BEA05DE"
+				"2591E9EC898378B9"
+			]
+			description: ["Hello! If you are reading this you are too early! The pack is &6WIP&r! The quests here provide a quick overview of what is intended for the devin'"]
+			icon: "pneumaticcraft:pressure_tube"
+			id: "2F65DDC0C4F6ABD1"
+			rewards: [{
+				id: "76247503A8C0CAEA"
+				item: "nyagibits_bytes:tier_two_strawberry"
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "2CB30E172E7708A0"
+				title: "Chemistry! Brought to you by work place accidents"
+				type: "checkmark"
+			}]
+			title: "Chemistry and Industrial Accidents"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Liquid Compressor, \\nThermo Compressor, \\& \\nElectrostatic Compressor \\n\\nwill be the &6&nonly&r available compressors for air"
+				""
+				"Security Upgrades are being &cremoved&r"
+				""
+				"Certain recipes will &aAdd&r pressure to the chamber when they complete"
+				""
+				"Certain recipes will require &cred-zone&r pressures"
+			]
+			id: "680CE28FDE4CA44D"
+			tasks: [{
+				id: "30D95BB0C05BE9BA"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Changes to Pressure"
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			description: [
+				"Certain recipes will have the capacity to &cfail&r if at the wrong &btemperature&r"
+				""
+				"Certain fluids will require being sustained &bcold&r or &chot&r to exist"
+			]
+			id: "77C31178CE83F089"
+			tasks: [{
+				id: "0E458833ACC63E1D"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Temperature"
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"All elements and compounds will have &bice&r \\& &egas&r versions and be able to tick into gas via Pollution Of The Realms"
+				""
+				"All elements and compounds will be registered with &btemperature properties&r to interface with pnematiccraft"
+				""
+				"Pollutions Of The Realms will &6NOT&r be the pollution system. That will be made in house and will be different. &aThis mod exists for the gas-mechanics&r"
+			]
+			id: "5A408D26C24F3739"
+			tasks: [{
+				id: "19A6881BC3C2E809"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Chemlib \\& Pollution Integration"
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			description: [
+				"Compression is a modpack that is striving to &6avoid magic-box type automations&r when better options exist"
+				""
+				"Mekanism and Thermal will be relying on a &afuture implementation of &bNBT-Tagged&r recipe modification&r"
+				""
+				"Mekanism and Thermal machines will exist not to produce products but &dmodify&r traits of existing items to then modify the behavior of recipes"
+				""
+				"&n&bAs an example:&r&r\\nSpraying an item with &elubricant&r will grant it a &6+lubricated&r &etag&r, the Lathe in JEI will have a &d[!]&r which when hovered over will say \"benefits from +lubricated\". The resulting recipe will happen &dfaster&r than usual"
+			]
+			id: "47CB0697788CF808"
+			tasks: [{
+				id: "57E14A78095D127C"
+				item: "mekanism:elite_infusing_factory"
+				type: "item"
+			}]
+			title: "Magic-Box Automation"
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			description: [
+				"Mekanism Lasers will be reworked to have &6swappable crystals&r"
+				""
+				"Different crystals will produce different bands of laser light, which will be components needed for chemical reactions early on"
+				""
+				"Much later on will exist &bexotic crystals&r for physics research"
+			]
+			id: "11263D7D731E3161"
+			tasks: [{
+				id: "35615D760922DE5B"
+				item: "mekanism:laser"
+				type: "item"
+			}]
+			title: "Rainbow Lasers"
+			x: 0.5d
+			y: 1.5d
+		}
+	]
 	subtitle: ["Turning things into other things"]
 	title: " &6Tier 2&b - Polytetrafluoro..."
 }

@@ -247,6 +247,36 @@
 			x: 0.0d
 			y: -2.0d
 		}
+		{
+			description: [
+				"Hello! &bThank you&r for checking out Compression"
+				""
+				"As you may notice there are many many &cuncompleted&r quests in Tier 1 along with the following quests being &cempty&r"
+				""
+				"Compression is a &6very long-term project&r similar to GTNH. Meaning the development cycle is purely a \"more gets added per update\" forever and ever"
+				""
+				"Despite so little looking done, the task density past Tier 0 is very high per quest and can comfortably supply a &afew hundred hours&r of gameplay"
+				""
+				"Any un-implemented quests contain an &3icon similar to this quest&r for consistency sake"
+				""
+				"If you do choose to stay for future updates, welcome! And if not, I am happy you chose to check out my project &c<3&r"
+			]
+			icon: "compactmachines:wall"
+			id: "4D9290E8CC180193"
+			rewards: [{
+				id: "21C030BEEA1B7BD2"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6FFF2993EEE8ECB8"
+				title: "The quests are about as dense as a star"
+				type: "checkmark"
+			}]
+			title: "Unfinished Pack?"
+			x: 0.0d
+			y: 3.5d
+		}
 	]
 	subtitle: ["Read me!"]
 	title: "&fWelcome to Compression!"
