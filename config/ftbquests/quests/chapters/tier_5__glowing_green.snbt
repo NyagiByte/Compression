@@ -7,19 +7,118 @@
 	id: "30D659F3EEB7B307"
 	order_index: 5
 	quest_links: [ ]
-	quests: [{
-		dependencies: ["3BEACE9F3F1EC3AA"]
-		icon: "nuclearcraft:uranium_rtg"
-		id: "15E201E7CE25E2A0"
-		size: 2.0d
-		tasks: [{
-			id: "0063D287229271ED"
-			title: "Time to crack some atoms"
-			type: "checkmark"
-		}]
-		x: 0.0d
-		y: 0.0d
-	}]
+	quests: [
+		{
+			dependencies: ["3BEACE9F3F1EC3AA"]
+			description: ["Hello! If you are reading this you are too early! The pack is &6WIP&r! The quests here provide a quick overview of what is intended for the devin'"]
+			icon: "nuclearcraft:uranium_rtg"
+			id: "15E201E7CE25E2A0"
+			size: 2.0d
+			tasks: [{
+				id: "0063D287229271ED"
+				title: "Time to crack some atoms"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Nuclearcraft reactors are nice and all, but once you build one it just sits there converting items to power"
+				""
+				"The planned twist-up is a &bNeutron Bombardment&r mechanic "
+				""
+				"In real life material close to &eheavy neutron sources&r (aka the heart of the reactor) are subject to having the neutrons &ccombine with the nuclei&r of the atoms in said material, become unstable, and decay while still being part of the physical structure of the reactor. This leads to &cweakening of the material and in some cases becoming radioactive&r"
+				""
+				"&nHow this will translate to gameplay is this:&r"
+				"When a reactor finishes processing &afuel&r the internal components, rods, coolers, graphite blocks, ect will have a chance to convert to an &eirradiated version of themselves&r"
+				""
+				"These irradiated blocks will &cnot function&r and be &cunbreakable&r, but still remain &nmovable&r "
+				""
+				"These irradiated blocks can be &6refurbished&r if a special liquid is placed next to them to replicate cooling pools irl"
+				""
+				"The goal as the player is to design your reactor in a way where per cycle it can be &6gutted, replaced, and rerun automatically&r"
+			]
+			id: "7A966108AC327A14"
+			tasks: [{
+				id: "11E303DB06FED700"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Neutron Bombardment"
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"&bCompression&r will feature another overarching mechanic for &citem decay&r"
+				""
+				"The plan is to implement it similar to &aVintage Story&r where decay time is tied to world tick age as a method to minimize lag from ticking entities"
+				""
+				"The relevance here is of course nuclear material is unstable and &nwill&r &crot away&r in storage meaning your reactors must be &bflowing at all times&r"
+			]
+			id: "5138DF291E95296A"
+			tasks: [{
+				id: "2B538E24DE1C67A9"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Decay!"
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			description: [
+				"&dCorium&r is a liquid produced by &cmelting down nuclear reactors&r in a &ccatastrophic failure&r"
+				""
+				"This is a modpack about automating &beverything&r"
+				""
+				"I'm sure you know where this is going, you are smart, I believe in you"
+			]
+			id: "2AFF7F1DA6E52A24"
+			tasks: [{
+				id: "3DE761A772030D95"
+				item: "nuclearcraft:corium_bucket"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Physics research often requires &especific isotopes&r of elements to gain clearer insights into underlying nuclear mechanisms"
+				""
+				"Production of isotopically pure samples involves either &bbombarding&r small samples of very pure material then undergoing &bchemical seperation&r, or like &c11tybillion centrifuges&r"
+				""
+				"Fusion in &dTier 7&r will be the method to produce massive amounts of specific isotopes of material, but will not include the full selection"
+				""
+				"&aNuclear material&r is a slightly different case due to methods such as &egaseous uranium hexafluoide membrane seperation&r methods existing, meaning the &c\"terrible\" methods wont apply to the thing you need to scale right away"
+				""
+				"&b&nThis also means chemlib will be getting a \"full\" periodic table&r&r"
+			]
+			id: "13E7A9A30CD0864B"
+			tasks: [{
+				id: "52574D31A8F65CCE"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Isotopic Isolation"
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			description: ["Material gathered from refurbished nuclear components will be used for Tier 5's ore-line boost"]
+			id: "14F4CD294DB3A003"
+			tasks: [{
+				id: "54538AE8EDA225A5"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Irradiated Ore"
+			x: -0.5d
+			y: 1.5d
+		}
+	]
 	subtitle: ["Twisting the dragon's tail"]
 	title: " &6Tier 5&b - Glowing Green"
 }

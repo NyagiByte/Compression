@@ -9,6 +9,7 @@
 	quest_links: [ ]
 	quests: [{
 		dependencies: ["3BEACE9F3F1EC3AA"]
+		description: ["Hello! If you are reading this you are too early! The pack is &6WIP&r! The quests here provide a quick overview of what is intended for the devin'"]
 		id: "360C9A23E1035CB7"
 		size: 6.0d
 		tasks: [{
