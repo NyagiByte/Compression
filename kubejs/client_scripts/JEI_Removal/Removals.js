@@ -58,6 +58,14 @@ JEIEvents.hideItems(event => {
     'minecraft:netherite_boots',
     'minecraft:turtle_helmet',
     'minecraft:shield',
+    //Farmer's Delight
+    'farmersdelight:wheat_dough',
+    //Pneumaticcraft
+    'pneumaticcraft:wheat_flour',
+    //Tmted
+    'tmted:wheat_flour',
+    //Nuclear Craft
+    'nuclearcraft:flour',
     //Alloys (inclusive of nuggets, dusts, and blocks)
     'mekanism:ingot_bronze',
     'nuclearcraft:bronze_ingot',

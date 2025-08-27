@@ -1029,15 +1029,7 @@
 			description: [
 				"&cI wonder if sentient rocks feel pain when you break them"
 				""
-				"&aTemporary text until ponder is done!"
-				"Place pure daisy this way:&r"
-				""
-				"XXX"
-				"X&eD&rX"
-				"XXX"
-				""
-				"&eD&r - Pure Daisy"
-				"&dX&r - Block you wish to transform"
+				"The Pure Daisy has a ponder! Hold [w] on the item to see how it functions!"
 				""
 				"&aYou will know it is working when you see particles appear on the block"
 			]

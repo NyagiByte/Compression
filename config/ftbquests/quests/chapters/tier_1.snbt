@@ -1516,8 +1516,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "51C6D4EA7B251CDF"
-				item: "ftbquests:missing_item"
+				id: "61D3C6A161106141"
+				item: "compactmachines:solid_wall"
 				type: "item"
 			}]
 			title: "Sometimes an empty thing is useful"
@@ -1573,6 +1573,11 @@
 				"3DEB55D883E126E6"
 				"393955B19363A53C"
 			]
+			description: [
+				"High pressure systems operate under different rules than we have had to interact with thus far"
+				""
+				"More science needs to be done to not &cdie screaming and on fire&r"
+			]
 			id: "7E9E38A2E9B28630"
 			rewards: [{
 				id: "498D8698A50D0E10"
@@ -1580,8 +1585,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "5075FA17386E6064"
-				item: "ftbquests:missing_item"
+				id: "13D562784975AD45"
+				item: "compactmachines:solid_wall"
 				type: "item"
 			}]
 			title: "Crude Fluid Dynamics Test"
@@ -1590,7 +1595,8 @@
 		}
 		{
 			dependencies: ["7483F87F4311A3CA"]
-			description: ["This nifty components can weakly power itself off thermal differences, perfect to instantly destroy for science"]
+			description: ["This nifty component can weakly power itself off thermal differences, perfect to instantly destroy for science"]
+			icon: "compactmachines:solid_wall"
 			id: "393955B19363A53C"
 			rewards: [{
 				id: "337F0E9D210F4C11"
@@ -1598,7 +1604,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "6F04B78F21A37019"
+				id: "0639D92B3581B719"
+				item: "compactmachines:solid_wall"
 				type: "item"
 			}]
 			title: "Expensive Fidget Toy"
@@ -1646,6 +1653,7 @@
 				"3DEB55D883E126E6"
 				"393955B19363A53C"
 			]
+			description: ["Ok so the dying part might still happen but more things are known now! Yay science"]
 			id: "7C5EF41D53181AFB"
 			rewards: [{
 				id: "53B779D400157169"
@@ -1653,8 +1661,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "5D18CB7C64CF4AF4"
-				item: "ftbquests:missing_item"
+				id: "4DE2AE3CD10F9286"
+				item: "compactmachines:solid_wall"
 				type: "item"
 			}]
 			title: "Used Crude Fluid Dynamic Test"
@@ -1895,6 +1903,7 @@
 		}
 		{
 			dependencies: ["7C5EF41D53181AFB"]
+			description: ["Chemistry on the &abiology&r side of things can be very complex and rather prone to &ctar&r. Probably a good idea to study this side of chemistry more closely"]
 			id: "27A9C9F48FFDB7EA"
 			rewards: [{
 				id: "71B750E18AF7AD66"
@@ -1902,16 +1911,17 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "019A0EA1483896C6"
-				item: "ftbquests:missing_item"
+				id: "543CC0AF75A7014A"
+				item: "compactmachines:solid_wall"
 				type: "item"
 			}]
 			title: "Crude Hydrocarbon Chemistry Test"
 			x: -3.5d
-			y: 10.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["7C5EF41D53181AFB"]
+			description: ["Current &eduroplast plastic&r is pretty &cgarbage&r and producing more industrially relevant plastics is needed. Probably a good idea to study this side of chemistry more closely"]
 			id: "276300336054718E"
 			rewards: [{
 				id: "3B66F61DF7CB6819"
@@ -1919,13 +1929,13 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "5B6B75CA5168C7B9"
-				item: "ftbquests:missing_item"
+				id: "3AD8B8CF81AF0053"
+				item: "compactmachines:solid_wall"
 				type: "item"
 			}]
 			title: "Crude Polymer Chemistry Test"
 			x: 3.5d
-			y: 10.5d
+			y: 10.0d
 		}
 		{
 			dependencies: [
@@ -2100,6 +2110,7 @@
 				"1955E60B51E911ED"
 				"247B763D4F03257C"
 			]
+			description: ["With so many new elements within scope to use, analysis on properties and processing methods to convert them to useful material is badly needed"]
 			id: "7175C712B2A94D90"
 			rewards: [{
 				id: "1976019D4B1F9C55"
@@ -2107,8 +2118,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "4705683F1A643AA6"
-				item: "ftbquests:missing_item"
+				id: "0B71E912C27F3312"
+				item: "compactmachines:solid_wall"
 				type: "item"
 			}]
 			title: "Crude Geology Test"
@@ -2159,6 +2170,7 @@
 		}
 		{
 			dependencies: ["27A9C9F48FFDB7EA"]
+			description: ["Getting flashbacks to &cOrgo II&r please help me"]
 			id: "56496F9343BD6021"
 			rewards: [{
 				id: "0BC1FADCAD8F161D"
@@ -2166,8 +2178,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "46EE63CEDEC23C28"
-				item: "ftbquests:missing_item"
+				id: "50A012A692097AF2"
+				item: "compactmachines:solid_wall"
 				type: "item"
 			}]
 			title: "Used Crude Hydrocarbon Chemistry Test"
@@ -2176,6 +2188,11 @@
 		}
 		{
 			dependencies: ["276300336054718E"]
+			description: [
+				"&aUpside: New plastic production possibilities!"
+				""
+				"&cDownside: Microplastics in my brain"
+			]
 			id: "38486B956BEE4D84"
 			rewards: [{
 				id: "41CFAC02DDEFB80D"
@@ -2183,8 +2200,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "00C38C1FB0EB48A9"
-				item: "ftbquests:missing_item"
+				id: "0ADDFED8E8321CB7"
+				item: "compactmachines:solid_wall"
 				type: "item"
 			}]
 			title: "Used Crude Polymer Chemistry Test"
@@ -2199,6 +2216,7 @@
 				"4ADFC2717D02EB20"
 				"6657035C06A91C38"
 			]
+			description: ["Finally! A whole new method to kill myself and a chunk of my base! This is what &6progress&r feels like... feels like &cpain&r"]
 			id: "43BF36460BEA05DE"
 			rewards: [{
 				id: "5DE7D83CF3A957F0"
@@ -2207,8 +2225,8 @@
 			}]
 			size: 2.0d
 			tasks: [{
-				id: "4DA887E3EF34B6C2"
-				item: "ftbquests:missing_item"
+				id: "48560A651FA87C7D"
+				item: "compactmachines:solid_wall"
 				type: "item"
 			}]
 			title: "Pneumatic Schematic"
@@ -2217,6 +2235,7 @@
 		}
 		{
 			dependencies: ["7C5EF41D53181AFB"]
+			description: ["Navier giving me a St(r)oke"]
 			id: "2D9751C9547372D3"
 			rewards: [{
 				id: "7260EB668A181C11"
@@ -2224,8 +2243,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "71B97A1D17D6CE47"
-				item: "ftbquests:missing_item"
+				id: "2512169EFE5C0476"
+				item: "compactmachines:solid_wall"
 				type: "item"
 			}]
 			title: "Lab Notebook With Crude Fluid Dynamics Data"
@@ -2234,6 +2253,7 @@
 		}
 		{
 			dependencies: ["38486B956BEE4D84"]
+			description: ["Surely if we put &cm&6u&el&at&bi&dp&cl&6e &ek&ail&bo&dg&cr&6a&em&as&r of &bf&dl&co&6u&er&ai&bn&de&r &cg&6a&es&r under high pressure nothing bad can happen right?"]
 			id: "6C4D86C7A06F3BD4"
 			rewards: [{
 				id: "56A0336A8439F33D"
@@ -2241,8 +2261,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "2649E91F3E9E4FDA"
-				item: "ftbquests:missing_item"
+				id: "40F7A2EA0EDEB307"
+				item: "compactmachines:solid_wall"
 				type: "item"
 			}]
 			title: "Lab Notebook With Crude Polymer Chemistry Data"
@@ -2251,6 +2271,11 @@
 		}
 		{
 			dependencies: ["56496F9343BD6021"]
+			description: [
+				"Theorethical yield was &a98.5%&r and mine was... "
+				""
+				"&617,000,001.20%&r.... I'm so good at chemistry"
+			]
 			id: "7AEA117AE047A311"
 			rewards: [{
 				id: "14DA512E17191D0E"
@@ -2258,8 +2283,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "6CB1BF7384134A40"
-				item: "ftbquests:missing_item"
+				id: "4341F45184C38DEA"
+				item: "compactmachines:solid_wall"
 				type: "item"
 			}]
 			title: "Lab Notebook With Crude Hydrocarbon Chemistry Data"
@@ -2349,6 +2374,7 @@
 				"4ADFC2717D02EB20"
 				"36D7F43B1E51F721"
 			]
+			description: ["A dream of the &bouroboros&r, a table of what is forged in &6stars&r"]
 			id: "078D5F3DD8BD448E"
 			rewards: [{
 				id: "705FCF43ABB28136"
@@ -2356,8 +2382,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "40FB91EF1F12FF84"
-				item: "ftbquests:missing_item"
+				id: "0C4C9958BF380538"
+				item: "compactmachines:solid_wall"
 				type: "item"
 			}]
 			title: "Crude Element Data Lexicon"
@@ -2366,6 +2392,7 @@
 		}
 		{
 			dependencies: ["7175C712B2A94D90"]
+			description: ["Note, if licking the rock makes the rock stick to your tongue, it was not a rock, but likely human remains"]
 			id: "374180986ED91A0D"
 			rewards: [{
 				id: "747C5A08647B4861"
@@ -2373,8 +2400,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "064984EC941C287F"
-				item: "ftbquests:missing_item"
+				id: "0D6175463864E97B"
+				item: "compactmachines:solid_wall"
 				type: "item"
 			}]
 			title: "Used Crude Geology Test"
@@ -2383,10 +2410,16 @@
 		}
 		{
 			dependencies: ["374180986ED91A0D"]
+			description: ["Officer I'm not a cannibal I'm doing &6geology&r, put the gun down I'm not a cute little dog, leave that to PETA"]
 			id: "56725DB290555B13"
+			rewards: [{
+				id: "158D3A97E1484DC8"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [{
-				id: "0D493FAC715A78AD"
-				item: "ftbquests:missing_item"
+				id: "6AA10D30E4E8AB56"
+				item: "compactmachines:solid_wall"
 				type: "item"
 			}]
 			title: "Lab Notebook With Crude Geology Data"
@@ -3203,6 +3236,7 @@
 		}
 		{
 			dependencies: ["3DEB55D883E126E6"]
+			icon: "compactmachines:solid_wall"
 			id: "072820BBE1B7ABD3"
 			rewards: [{
 				id: "3550D2F8EEC56709"
@@ -3210,10 +3244,11 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "0AD4E399094D4D0B"
-				item: "ftbquests:missing_item"
+				id: "0D2E3F475AA12D14"
+				item: "compactmachines:solid_wall"
 				type: "item"
 			}]
+			title: "Narslimus Use"
 			x: -2.5d
 			y: 7.5d
 		}
@@ -3484,6 +3519,11 @@
 		{
 			dependencies: ["61BB0BE47F3A6F46"]
 			id: "3F03967719FCBD5D"
+			rewards: [{
+				id: "142767FAFB2D4E92"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0E838525782B04AA"
 				item: {
@@ -3505,9 +3545,14 @@
 			dependencies: ["61BB0BE47F3A6F46"]
 			description: ["Cordite Line - Future Ozy gun implementation"]
 			id: "07BB274AC9656DA0"
+			rewards: [{
+				id: "2292121DE824CA62"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [{
-				id: "7C2DDFE18C712B44"
-				item: "ftbquests:missing_item"
+				id: "21C044D618592617"
+				item: "compactmachines:solid_wall"
 				type: "item"
 			}]
 			title: "Cording my ite"

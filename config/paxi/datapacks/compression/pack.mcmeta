@@ -1027,6 +1027,14 @@
 		{"namespace": "farmersdelight", "path": "recipes/integration/immersiveengineering/squeezer/cabbage_seeds.json"},
 
 		{"namespace": "tmted", "path": "recipes/bottling/rich_soil.json"},
+		{"namespace": "tmted", "path": "recipes/bottling/wheat_dough.json"},
+
+		{"namespace": "tmted", "path": "recipes/crusher/wheat_flour_from_bale.json"},
+		{"namespace": "tmted", "path": "recipes/crusher/wheat_flour.json"},
+
+		{"namespace": "tmted", "path": "recipes/wheat_dough_from_waterbucket.json"},
+		{"namespace": "tmted", "path": "recipes/wheat_dough_from_egg.json"},
+		{"namespace": "tmted", "path": "recipes/slime_ball.json"},
 
 		{"namespace": "quark", "path": "recipes/tools/crafting/pickarang_heart.json"},
 		{"namespace": "quark", "path": "recipes/automation/crafting/iron_rod.json"},
@@ -1345,7 +1353,6 @@
 		{"namespace": "botania", "path": "recipes/stonecutting/livingrock_to_polished_livingrock.json"},
 
 		{"namespace": "botania", "path": "recipes/mana_fluxfield.json"},
-		{"namespace": "botania", "path": "recipes/crafty_crate.json"},
 		{"namespace": "botania", "path": "recipes/mossy_livingwood_planks_vine.json"},
 		{"namespace": "botania", "path": "recipes/lens_light_alt.json"},
 		{"namespace": "botania", "path": "recipes/floating_exoflame.json"},
