@@ -1,0 +1,29 @@
+{
+    "type": "immersivepetroleum:distillation",
+    "byproducts": [
+      {
+        "chance": "0.2",
+        "item": "chemlib:carbon_dust"
+      }
+    ],
+    "energy": 1024,
+    "input": {
+      "amount": 100,
+      "tag": "nyagibits_bytes:pyroligneous_acid"
+    },
+    "results": [
+      {
+        "amount": 75,
+        "fluid": "nyagibits_bytes:impure_methanol_fluid"
+      },
+      {
+        "amount": 20,
+        "fluid": "nyagibits_bytes:impure_acetone_fluid"
+      },
+      {
+        "amount": 25,
+        "fluid": "chemlib:acetic_acid_fluid"
+      }
+    ],
+    "time": 1
+  }

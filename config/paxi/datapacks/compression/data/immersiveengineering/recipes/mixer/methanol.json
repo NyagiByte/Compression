@@ -1,0 +1,26 @@
+{
+    "type":"immersiveengineering:mixer",
+    "catalyst":
+    {
+        "item":"nyagibits_bytes:activated_carbon"
+    },
+    "energy":200,
+    "inputs":
+    [
+        {
+            "amount":1000,
+            "fluid":"nyagibits_bytes:impure_methanol_fluid"
+        },
+        {
+            "count":1,"item": "nyagibits_bytes:activated_carbon"
+        }
+    ],
+    "results": [
+        {
+            "amount": 1500,"tag": "forge:methanol"
+        },
+        {
+            "count":1, "item": "nyagibits_bytes:saturated_carbon_waste"
+        }
+    ]
+}
