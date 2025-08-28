@@ -1,0 +1,18 @@
+{
+  "__comment": "This table is injected as its own pool into minecraft:chests/desert_pyramid",
+  "pools": [{
+    "name": "main",
+    "rolls": 1,
+    "entries": [
+      {
+        "type": "item",
+        "name": "botania:black_lotus",
+        "weight": 35
+      },
+      {
+        "type": "empty",
+        "weight": 60
+      }
+    ]
+  }]
+}

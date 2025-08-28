@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "name": "bedrockminer",
+      "rolls": {
+        "min": 0,
+        "max": 3
+      },
+      "entries": [
+      ]
+    }
+  ]
+}
