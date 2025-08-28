@@ -2285,6 +2285,18 @@ file = "config/paxi/datapacks/compression/data/architects_palette/tags/twisted_l
 hash = "f465d081c6423a8f0433563f5a815e2ceacbfd6fc38945854de457a471911789"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/bedrockminer/loot_tables/inject/bastion_treasure.json"
+hash = "989d47294c7f79413e64913a718d7ba7865e505eb9e2e327e599b7b91f570e18"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/bedrockminer/loot_tables/inject/end_city_treasure.json"
+hash = "989d47294c7f79413e64913a718d7ba7865e505eb9e2e327e599b7b91f570e18"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/bedrockminer/loot_tables/inject/stronghold_crossing.json"
+hash = "989d47294c7f79413e64913a718d7ba7865e505eb9e2e327e599b7b91f570e18"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/dandelifeon.json"
 hash = "e70700a2e2aeefefec35e08fa82060b8b64e78cc8e6ba083f8c2ec4f6b338bc2"
 
@@ -2411,6 +2423,34 @@ hash = "f753ead7e1c830c05875b3d905fb0cef029a819a2f1bb898e6a7c8f76733638e"
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/loot_tables/blocks/wither_aconite_floating.json"
 hash = "db555412ce86e741936c1fc1634c42514a1f3cc89bdfc921a55a71365789d128"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/inject/abandoned_mineshaft.json"
+hash = "816227930bde016ee899751e24601eefc64538c48ee85dfba2894a5700a32aba"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/inject/desert_pyramid.json"
+hash = "56eefdfd0fca01043fbdeb04c58e8b7659417bd2e0d893016e2bec0eaadc335b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/inject/jungle_temple.json"
+hash = "3c87f1ed97e62ae926bd89cc2f85f722b23676e8f7f8cf29d97806a5e08da876"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/inject/simple_dungeon.json"
+hash = "c80e35b25131baf54986a5b67fd393d49f7efaeb00ee1fb74e71ffbfecb886a8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/inject/spawn_bonus_chest.json"
+hash = "dcd080079f672900ac847f4d4fa3c6933101d8ca7fcf79503b05216dcee81af3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/inject/stronghold_corridor.json"
+hash = "01c40be8c2f71f89851124e92303659c8adaa641155cee1e82590f0f80aa25a6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/loot_tables/inject/village_chest.json"
+hash = "9129a048e55da60cd7b5643bb6963459e01b8e7adee9acbbfe888d2db9c89dbd"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/abstruse_platform.json"
@@ -5781,6 +5821,10 @@ file = "config/paxi/datapacks/compression/data/forge/tags/fluids/methane.json"
 hash = "54b014e5a4fed2d1f14bfee462e6f2489a43567e720a6bc8d4446eba5d8b02a6"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/fluids/methanol.json"
+hash = "d35a810add6f44db34439cbfe1351f3c8776665b358a9b2ad3d9f0f158a6cba3"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/fluids/mixed_peroxide_product.json"
 hash = "4c31e2e2d520f781292ad54f56134e8f2b2c245930605cc1800c51d952fcc0c5"
 
@@ -6634,7 +6678,7 @@ hash = "c3bfcd4b6e84b2f1715deac1e311d9252aed0aa9c81c052254eb5b57ba6a28e1"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/seeds/higher.json"
-hash = "46cb201d7c6d818350c7103b12d30f86b03e550ca71848146dace4c9291ca10c"
+hash = "4fcd0144472d1fe6c9dd0550eb67e1840bb9c611f22feb71f19c9ba17538c273"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/seeds/low.json"
@@ -6706,7 +6750,7 @@ hash = "ac01e5253ca463c20867fb2aa78e9e016f4742687bd58f588cf6680d0f276694"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/raw_lead.json"
-hash = "9fde1584d19afcf1ca7eab4d7b2f74a136ed305424d226a86e90a2d88785c15f"
+hash = "ac0e580301d2710d107f12773a1ce6d684f032bb950eefc8a4acb6ccbae355f8"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/items/storage_blocks/raw_nickel.json"
@@ -7909,6 +7953,10 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mine
 hash = "dd47002df9c67b9c759e4bb83d50abdcd61c5f506ab9daad903dbdd331422375"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/mixer/methanol.json"
+hash = "f0a3d310f7c837b84938458558ae443f4276951d6605b7c88d4e617f92e3c62e"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/refinery/chemlib_ethanol_to_acetaldehyde.json"
 hash = "ab3a8fcf1f4ee5145429a72238d1d468d7173c332447b3d712b9b933205a91d6"
 
@@ -8079,6 +8127,10 @@ hash = "693b0b1fa22e043243dfd8e340db496a32f9167036b57094e903aab9857f4f13"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/distillationtower/peroxide_003_to_015.json"
 hash = "ae4b6272c8b94be8281159f11ce00fc1ffe3d014cc9ec306004f99670b352ee5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/distillationtower/pyroligneous_acid.json"
+hash = "50a405a56a908cc6407b67bd9cd40bb5444bafa11e2c7cde0fa04aab0fcae803"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/distillationtower/raw_wood_vinegar.json"
@@ -12977,6 +13029,22 @@ file = "config/paxi/datapacks/compression/data/packtweaker/tags/items/soulbound.
 hash = "56c4e2a362323ce2fcfc41fd1297fbc3aed82d734ef069327ae9d360cbd8216e"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/pneumaticcraft/loot_tables/chests/mechanic_house.json"
+hash = "b781c7922564b0ab30e311245e2f355b803d077d46546feccbd56bbbf3c5837e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/pneumaticcraft/loot_tables/custom/common_dungeon_loot.json"
+hash = "5d9b6cbb07bc1b14072f37d10b3c99f633d9faed5be271955eefbe57773451c2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/pneumaticcraft/loot_tables/custom/rare_dungeon_loot.json"
+hash = "407388ac8a26d4081cfee2455dc433dee7617b3b8439835719fdb3215e3ee605"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/pneumaticcraft/loot_tables/custom/uncommon_dungeon_loot.json"
+hash = "b2919cec5a6bde4baec77ddfc4a9c8ef19e92945061ab46cfc79ecff93e96b5d"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/pneumaticcraft/recipes/assembly/fossil_cracking.json"
 hash = "90f486d4a7698d6b175c5677dc2d7ea5517290e17364542fa791496eeb977d76"
 
@@ -14655,6 +14723,38 @@ hash = "5f0ae6ba896a60eeff65b98c9cee28a70f2aade01306b99f003fc78f2c2d4e05"
 [[files]]
 file = "config/paxi/datapacks/compression/data/railways/recipes/sequenced_assembly/yellow_conductor_cap.json"
 hash = "128f030a67335817ed0e5d584727c8186beca56e88d64754c709e6c5a590df6d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/loot_tables/inject/chests/abandoned_mineshaft.json"
+hash = "1314e5d5b7307c4df53217794ad6fccfb29645261e14e26e004c4d66afd3acae"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/loot_tables/inject/chests/bastion_treasure.json"
+hash = "1314e5d5b7307c4df53217794ad6fccfb29645261e14e26e004c4d66afd3acae"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/loot_tables/inject/chests/desert_pyramid.json"
+hash = "1314e5d5b7307c4df53217794ad6fccfb29645261e14e26e004c4d66afd3acae"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/loot_tables/inject/chests/end_city_treasure.json"
+hash = "1314e5d5b7307c4df53217794ad6fccfb29645261e14e26e004c4d66afd3acae"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/loot_tables/inject/chests/nether_bridge.json"
+hash = "1314e5d5b7307c4df53217794ad6fccfb29645261e14e26e004c4d66afd3acae"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/loot_tables/inject/chests/shipwreck_treasure.json"
+hash = "1314e5d5b7307c4df53217794ad6fccfb29645261e14e26e004c4d66afd3acae"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/loot_tables/inject/chests/simple_dungeon.json"
+hash = "1314e5d5b7307c4df53217794ad6fccfb29645261e14e26e004c4d66afd3acae"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/loot_tables/inject/chests/woodland_mansion.json"
+hash = "1314e5d5b7307c4df53217794ad6fccfb29645261e14e26e004c4d66afd3acae"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/sophisticatedbackpacks/recipes/advanced_compacting_upgrade.json"
