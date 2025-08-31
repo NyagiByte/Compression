@@ -17549,6 +17549,11 @@ hash = "909e0c021f6d58d6f6a4d5cc37e6db88a37bb18287eb6120fc8b047fd234fb9f"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "ebe4f9026b88b5e526c15cfb5a00f78b3c7538970df343803fbcdf36ede37534"
+metafile = true
+
+[[files]]
 file = "mods/nuclearcraft-neoteric.pw.toml"
 hash = "7b97a647a407c721873a3d94901b405cff143c18ea590c4d5f5bfcbd30a504c2"
 metafile = true
