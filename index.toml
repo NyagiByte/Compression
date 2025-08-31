@@ -17269,6 +17269,11 @@ hash = "8d418b1a8c4b2e329f373d4cd57cf86c8c7493a422f6ffc80ef22051b41f05da"
 metafile = true
 
 [[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "fb43a2bb5fc3c56a05fc8ae902610e5f7ab46f62e58d50b1ec34390ce5698335"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
 metafile = true
@@ -17605,6 +17610,11 @@ metafile = true
 [[files]]
 file = "mods/phantoms-and-nightmares.pw.toml"
 hash = "16f3379c29fd524c815938d875446d92b5a1b2a041aafd44b2734a7580ccdbd5"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "44be5b4e3516115e78d80e5ba5d888104bf6a0224df4f2dc186332597a66402a"
 metafile = true
 
 [[files]]
