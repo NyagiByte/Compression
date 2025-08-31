@@ -516,6 +516,7 @@ JEIEvents.hideItems(event => {
     'cb_microblock:stone_rod',
     'cb_microblock:stone_saw',
     'cb_microblock:iron_saw',
+    "%cb_microblock",
     //Item Filters
     'itemfilters:always_true',
     'itemfilters:always_false',
