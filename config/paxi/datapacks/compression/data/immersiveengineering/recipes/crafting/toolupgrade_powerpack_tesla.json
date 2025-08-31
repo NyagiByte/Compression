@@ -1,0 +1,37 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "A": {
+        "item": "immersiveengineering:stick_iron"
+      },
+      "B": {
+        "item": "minecraft:iron_bars"
+      },
+      "C": {
+        "item": "nyagibits_bytes:ceramic_encased_copper"
+      },
+      "D": {
+        "item": "immersiveengineering:wirecoil_copper"
+      },
+      "E": {
+        "item": "immersiveengineering:component_electronic_adv"
+      },
+      "F": {
+        "item": "immersiveengineering:slab_sheetmetal_steel"
+      },
+      "G": {
+        "item": "immersiveengineering:connector_lv_relay"
+      }
+    },
+    "pattern": [
+      " A ",
+      "BCB",
+      "DCD",
+      "BCE",
+      "FGF"
+    ],
+    "result": {
+      "item": "immersiveengineering:toolupgrade_powerpack_tesla"
+    }
+  }

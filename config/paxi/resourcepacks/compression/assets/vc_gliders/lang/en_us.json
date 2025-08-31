@@ -1,0 +1,19 @@
+{
+    "item.vc_gliders.reinforced_paper": "Lamellar Sheet",
+    "item.vc_gliders.paraglider_wood": "Lamellar Paraglider",
+
+    "item.vc_gliders.reinforced_paper_iron": "Tough Layered Sheet",
+    "item.vc_gliders.paraglider_iron": "Tough Layered Paraglider",
+
+    "item.vc_gliders.reinforced_paper_gold": "Ersatz Leather Membrane",
+    "item.vc_gliders.paraglider_gold": "Ersatz Paraglider",
+
+    "item.vc_gliders.reinforced_paper_diamond": "PET-P Membrane",
+    "item.vc_gliders.paraglider_diamond": "PET-P Paraglider",
+
+    "item.vc_gliders.reinforced_paper_netherite": "Vectran Membrane",
+    "item.vc_gliders.paraglider_netherite": "Vectran Paraglider",
+
+    "item.vc_gliders.copper_upgrade": "Electrostatic Grounding Upgrade",
+    "item.vc_gliders.nether_upgrade": "Structural Upgrade"
+}

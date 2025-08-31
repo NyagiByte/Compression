@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"minecraft:leather"},
+    "B": {"item":"nyagibits_bytes:string_woolen"},
+    "C": {"item":"nyagibits_bytes:woven_cloth"}
+  },
+  "pattern": [
+    " A ",
+    "BCB",
+    " A "
+  ],
+  "result": {
+    "count": 3,
+    "item": "vc_gliders:reinforced_paper"
+  }
+}

@@ -1705,6 +1705,11 @@
 		{"namespace": "abyssal_decor", "path": "recipes/fever_blossom_tea_recipe.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/muckroot_soup_recipe.json"},
 
+		{"namespace": "vc_gliders", "path": "recipes/paraglider_diamond.json"},
+		{"namespace": "vc_gliders", "path": "recipes/paraglider_netherite.json"},
+		{"namespace": "vc_gliders", "path": "recipes/reinforced_paper_diamond.json"},
+		{"namespace": "vc_gliders", "path": "recipes/reinforced_paper_netherite.json"},
+
 
 
 		{"namespace": "byg", "path": "recipes/white_puffball_stew.json"},

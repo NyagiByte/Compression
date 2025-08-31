@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"vc_gliders:reinforced_paper_iron"},
+    "B": {"item":"create:super_glue"},
+    "C": {"item":"vc_gliders:paraglider_wood"}
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " C "
+  ],
+  "result": {
+    "count": 1,
+    "item": "vc_gliders:paraglider_iron"
+  }
+}

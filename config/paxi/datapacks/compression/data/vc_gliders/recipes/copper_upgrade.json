@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"minecraft:lightning_rod"},
+    "B": {"item":"immersiveengineering:toolupgrade_powerpack_tesla"},
+    "C": {"item":"nyagibits_bytes:rubberized_cable"},
+    "D": {"item":"immersiveengineering:coil_lv"}
+  },
+  "pattern": [
+    " A ",
+    "BCB",
+    " D "
+  ],
+  "result": {
+    "count": 1,
+    "item": "vc_gliders:copper_upgrade"
+  }
+}

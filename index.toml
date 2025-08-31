@@ -7681,6 +7681,10 @@ file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/craf
 hash = "e39e389b723afa2494fbb4822c06967fb21df0141537f32f3eb83ae269786c80"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/toolupgrade_powerpack_tesla.json"
+hash = "906d1016a805b1b4a4b206f9690c6fde1e38f18f1cede6a5d2f0ea5c310d6720"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/immersiveengineering/recipes/crafting/transformer.json"
 hash = "61177f199eebd9f34c3934d995b762c4e266288457fdd158946e5d1b2a1598a0"
 
@@ -15121,6 +15125,38 @@ file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/tin_ingo
 hash = "f1e6380b27f0c8a7b2719163235dbf7e035f5d12d1e0ee4141a209e08cc09a48"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/copper_upgrade.json"
+hash = "efc335e5d93e336a9a1d4c2a313b865424ec28145619f56e865a105925174061"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/nether_upgrade.json"
+hash = "38934ed3505aebb9f0f31c9fe056da370d3b6edbf3c25fa865813778024a00cf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/paraglider_gold.json"
+hash = "b0156f2819f8f864f80fa40d222abd304b39b5ad5fe35f445798025eb8df5b5c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/paraglider_iron.json"
+hash = "84a08234c782b400173cd60ea69e42eaed6c0df7cd6c42d1ffea9a4e6e498edf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/paraglider_wood.json"
+hash = "3290475dde1e8fa06fa3bdd833ccbe06c5c376f274fce3672eefd4892141e8d3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/reinforced_paper.json"
+hash = "3c1011e8c9e9d5e2118598c0bd0b6a89daa55eacda11783be6c592b8f624092d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/reinforced_paper_gold.json"
+hash = "287ab419cdd395ca76934ebb1140021756f91445326ebf65e00028d26f581be4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/reinforced_paper_iron.json"
+hash = "df9632363ab226bc80841c20e6022eb032b665ca38a18695a87e1cc93c3a4cf7"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/belt_grinder.json"
 hash = "ffe370adcfe660cdf5ab644ee0380c46981c8c1b30fd2e4f4e63de4152c388f7"
 
@@ -15566,7 +15602,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "5de518adf66ca97da6fc0294222105812bf4e465468e99c27fcb6eecaf110db1"
+hash = "fd37e68bc340a5a15fd4bc4e63d41c6bed1c94430e604b853f0df38df230498f"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -16321,6 +16357,10 @@ file = "config/paxi/resourcepacks/compression/assets/thermal_foundation/textures
 hash = "ca957c46806b3e972fc46576fbe791d7d440992713123ba2eb28ebe92bae7b0d"
 
 [[files]]
+file = "config/paxi/resourcepacks/compression/assets/vc_gliders/lang/en_us.json"
+hash = "36cb374a7b14d27c233a7b29f6b8a10297e4f890bf497c032eb038ecd0ad9db9"
+
+[[files]]
 file = "config/paxi/resourcepacks/compression/assets/vintageimprovements/lang/en_us.json"
 hash = "4530fbf19228ae2b262ed3eb6a493d9cba9961e6f665be4f3fa2a0783b092ba2"
 
@@ -16886,7 +16926,7 @@ hash = "c2b883496a6eca188047e44b8467113962fe03221e93c3e0e9ffeeaf0ff94c0e"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "5aae231c161fe9964b8ae9a31f0df15cff1b6986a6203177c55bf81e1083db51"
+hash = "3b6d0e869299b5137c4ad59bd63a19ce1d7e1a09ae156ba80e861cef8d278a6a"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
