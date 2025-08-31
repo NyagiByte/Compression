@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"book",
+  "key": {
+    "A": {"item":"chemlib:iron_plate"},
+    "B": {"item":"minecraft:yellow_dye"},
+    "C": {"item":"architects_palette:spool"},
+    "D": {"item":"quark:abacus"}
+  },
+  "pattern": [
+    " AB",
+    "ACD",
+    " AA"
+  ],
+  "result": {
+    "count": 1,
+    "item": "measurements:tape_measure"
+  }
+}

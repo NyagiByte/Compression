@@ -8209,6 +8209,10 @@ file = "config/paxi/datapacks/compression/data/immersivepetroleum/structures/mul
 hash = "b177185e70539096322232df4ac5bb617600e86e5adf58314f878cce1b1c329d"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/measurements/recipes/tape_measure.json"
+hash = "f0b9825bd0c0f965d7275e725ae5e56df1e2e44cd384a602adeec41b3389451d"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/mekanism/recipes/creatified/charcoal_dust.json"
 hash = "1839ce45ee72bbab8b5f51b08eaff617141875f924feadede7163ab9c3d3ddaa"
 
@@ -13545,6 +13549,10 @@ file = "config/paxi/datapacks/compression/data/quark/recipes/compacting/iron_pla
 hash = "6ab1fe3943740dd106e5864b8e7f0c2f4b74b15a65a9a2f13bbf36cf651ac804"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/quark/recipes/tools/crafting/abacus.json"
+hash = "83c1f0810a0a7690f73a8a1c6ed6b5428ea6836baa4ea8f67e9d9a5c071d82bd"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/quark/recipes/tools/crafting/bundle.json"
 hash = "68ee7cfc7dc3a5db4ca58629425efa54bfdc38a2c28c3a7e4b3bcd121763a246"
 
@@ -15945,6 +15953,10 @@ file = "config/paxi/resourcepacks/compression/assets/immersiveengineering/textur
 hash = "4b767289e70b3489cb901569b15763e299ea8d139008355ea222619822e671a2"
 
 [[files]]
+file = "config/paxi/resourcepacks/compression/assets/measurements/lang/en_us.json"
+hash = "53224d4b629077910f7b1d57ca561a6db98ac0ed9718bb12510adb8ef76f4f35"
+
+[[files]]
 file = "config/paxi/resourcepacks/compression/assets/mekanism/lang/en_us.json"
 hash = "821b4410676f8039e050d592e79da35e1ce15a7104059c578d47e7bfd1aef2e2"
 
@@ -16159,6 +16171,10 @@ hash = "b2af91601b3f6fe13597d7427b2cf9b90d1eeeab4e29c23de63d6725c4bbdcf6"
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/origins/lang/pt_br.json"
 hash = "cf13ce3a9817b4b9d79fc1b80d3f5119e58200c532564218bf160ab96c9a3d95"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/quark/lang/en_us.json"
+hash = "847409139d991376f2e3321f051d7eca533157b303d2935cab2ae23175ba89f6"
 
 [[files]]
 file = "config/paxi/resourcepacks/compression/assets/sophisticatedbackpacks/lang/en_us.json"
@@ -17470,6 +17486,11 @@ metafile = true
 [[files]]
 file = "mods/mafglib.pw.toml"
 hash = "97f6e3481253075ab47c2f18e71bf29d2737872b0761dc179bf7871410dd98e6"
+metafile = true
+
+[[files]]
+file = "mods/measurements.pw.toml"
+hash = "fba18eb93925dbd48309f451292bae2688b89b1045aa7a5f23d7cadd20b35c47"
 metafile = true
 
 [[files]]
