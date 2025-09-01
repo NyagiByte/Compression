@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"book",
+  "key": {
+    "A": {"item":"minecraft:blaze_rod"},
+    "B": {"item":"minecraft:chorus_flower"}
+  },
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "result": {
+    "count": 32,
+    "item": "minecraft:end_rod"
+  }
+}
