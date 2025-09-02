@@ -231,7 +231,6 @@ ServerEvents.recipes(e => {
         e.remove({output: 'immersiveengineering:toolupgrade_shield_magnet'});
         e.remove({output: 'immersiveengineering:toolupgrade_chemthrower_multitank'});
         e.remove({output: 'immersiveengineering:toolupgrade_buzzsaw_spareblades'});
-        e.remove({output: 'immersiveengineering:toolupgrade_powerpack_antenna'});
         e.remove({output: 'immersiveengineering:toolupgrade_powerpack_induction'});
         e.remove({output: 'immersiveengineering:alloybrick'});
         e.remove({output: 'immersiveengineering:gunpowder_barrel'});

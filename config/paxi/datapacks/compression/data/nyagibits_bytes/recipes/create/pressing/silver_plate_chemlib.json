@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "chemlib:silver_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "chemlib:silver_plate"
+    }
+  ]
+}
