@@ -550,6 +550,7 @@
 		{"namespace": "mekanism", "path": "recipes/processing/tin/nugget/from_ingot.json"},
 		{"namespace": "mekanism", "path": "recipes/processing/tin/storage_blocks/from_ingots.json"},
 		{"namespace": "mekanism", "path": "recipes/processing/tin/raw_storage_blocks/from_raw.json"},
+		{"namespace": "mekanism", "path": "recipes/processing/tin/raw/from_raw_block.json"},
 		{"namespace": "mekanism", "path": "recipes/processing/osmium/ingot/from_nuggets.json"},
 		{"namespace": "mekanism", "path": "recipes/processing/osmium/ingot/from_block.json"},
 		{"namespace": "mekanism", "path": "recipes/processing/osmium/nugget/from_ingot.json"},
