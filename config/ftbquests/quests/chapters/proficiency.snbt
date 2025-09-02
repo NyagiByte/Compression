@@ -159,7 +159,7 @@
 				}
 				{
 					consume_items: true
-					count: 22L
+					count: 23L
 					id: "662B28409F5E44C1"
 					item: "nyagibits_bytes:tier_zero_strawberry"
 					title: "Ore Line"

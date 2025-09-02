@@ -9,6 +9,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["20D167D82EF73539"]
 			description: ["No video provided for this one. TNT is inaccessable in &6Tier 0&r, &da more natural source of combustion is needed"]
 			icon: "minecraft:creeper_head"
 			id: "697E50D684D5A997"
@@ -18,8 +19,8 @@
 				type: "checkmark"
 			}]
 			title: "The Compressed Iron Puzzle"
-			x: 0.0d
-			y: 18.0d
+			x: -0.5d
+			y: 17.5d
 		}
 		{
 			dependencies: ["1D8A454B0BE4AF89"]
@@ -36,19 +37,12 @@
 			y: -2.5d
 		}
 		{
-			dependencies: ["18F5C12EAF8B07CB"]
-			description: [
-				"What do you mean these have to be automated?! As with everything in this pack, weird automations are not excluded!"
-				""
-				"So how to go about it?"
-				""
-				""
-				"&dHint: Deployers can interact with mobs"
-				""
-				"&6Video tutorial:"
+			dependencies: [
+				"20D167D82EF73539"
+				"697E50D684D5A997"
 			]
-			hide_dependency_lines: true
-			hide_dependent_lines: true
+			description: [""]
+			hide_dependency_lines: false
 			icon: "create:blaze_burner"
 			id: "789821A8D7342A72"
 			tasks: [{
@@ -57,8 +51,8 @@
 				type: "checkmark"
 			}]
 			title: "Amazon box delivery chain"
-			x: -1.0d
-			y: 18.0d
+			x: 0.5d
+			y: 17.5d
 		}
 		{
 			description: [
@@ -713,6 +707,10 @@
 			y: 8.5d
 		}
 		{
+			dependencies: [
+				"697E50D684D5A997"
+				"789821A8D7342A72"
+			]
 			description: [
 				"It is worth pointing out moving forward you should make a &anew machine&r for every production line!"
 				""
@@ -726,8 +724,8 @@
 				type: "checkmark"
 			}]
 			title: "She Saw On My Alloy Till I Shaft"
-			x: 1.0d
-			y: 18.0d
+			x: 0.0d
+			y: 19.0d
 		}
 		{
 			dependencies: [
@@ -913,6 +911,7 @@
 				id: "0358C989006DAE87"
 				type: "checkmark"
 			}]
+			title: "Andesite But Botanified"
 			x: 0.0d
 			y: 11.0d
 		}
@@ -966,6 +965,7 @@
 				id: "64DE96B837DABA64"
 				type: "checkmark"
 			}]
+			title: "Andesite Alloy's Twin"
 			x: 0.0d
 			y: 12.0d
 		}
@@ -1009,6 +1009,7 @@
 				id: "7388F1D5147842E8"
 				type: "checkmark"
 			}]
+			title: "Livisite Alloy's Twin"
 			x: 0.0d
 			y: 14.5d
 		}
@@ -1020,6 +1021,7 @@
 				id: "73671101896D22B9"
 				type: "checkmark"
 			}]
+			title: "Shmove"
 			x: 1.5d
 			y: 10.5d
 		}
@@ -1035,6 +1037,7 @@
 				id: "105D977024CBD48C"
 				type: "checkmark"
 			}]
+			title: "Comes With Recipe Eye Strain"
 			x: 0.0d
 			y: 13.5d
 		}
@@ -1049,6 +1052,7 @@
 				id: "16A5B52FE76B8D2F"
 				type: "checkmark"
 			}]
+			title: "Semi Manual Encasement"
 			x: 0.0d
 			y: 15.5d
 		}
@@ -1346,6 +1350,414 @@
 			}]
 			x: 0.0d
 			y: -9.5d
+		}
+		{
+			dependencies: ["7667563D092228C1"]
+			icon: "create:brass_nugget"
+			id: "02F4BEF888F769B9"
+			tasks: [{
+				id: "15D1D29AD2B6E5BA"
+				type: "checkmark"
+			}]
+			title: "Boost I"
+			x: -1.5d
+			y: 12.5d
+		}
+		{
+			dependencies: [
+				"7667563D092228C1"
+				"02F4BEF888F769B9"
+			]
+			icon: "thermal:bronze_nugget"
+			id: "1D5E49CF2F3ED329"
+			tasks: [{
+				id: "304525D1F29F1BD9"
+				type: "checkmark"
+			}]
+			title: "Boost II"
+			x: -1.5d
+			y: 13.5d
+		}
+		{
+			dependencies: [
+				"7667563D092228C1"
+				"1D5E49CF2F3ED329"
+			]
+			icon: "thermal:constantan_nugget"
+			id: "47A9A4193B7EB0DA"
+			tasks: [{
+				id: "183B8AAB456F7DC0"
+				type: "checkmark"
+			}]
+			title: "Boost III"
+			x: -1.0d
+			y: 14.5d
+		}
+		{
+			dependencies: [
+				"7A974BCCA6882D04"
+				"025F10E72C0B8392"
+			]
+			icon: "createdeco:cast_iron_nugget"
+			id: "2B48314A99226E2F"
+			tasks: [{
+				id: "551FC147A78420F6"
+				type: "checkmark"
+			}]
+			title: "Boost II"
+			x: 1.5d
+			y: 13.5d
+		}
+		{
+			dependencies: [
+				"7A974BCCA6882D04"
+				"2B48314A99226E2F"
+			]
+			icon: "immersiveengineering:nugget_steel"
+			id: "133C259229A0E4EF"
+			tasks: [{
+				id: "7742C51FB7F3452A"
+				type: "checkmark"
+			}]
+			title: "Boost III... wait"
+			x: 1.5d
+			y: 12.5d
+		}
+		{
+			dependencies: ["7A974BCCA6882D04"]
+			icon: "thermal:invar_nugget"
+			id: "025F10E72C0B8392"
+			tasks: [{
+				id: "5EF291C10B84E126"
+				type: "checkmark"
+			}]
+			title: "Boost I"
+			x: 1.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["3B239E07261D8D7D"]
+			icon: "create:brass_casing"
+			id: "38D12B5F0800566A"
+			tasks: [{
+				id: "113D434898B7B3BE"
+				type: "checkmark"
+			}]
+			title: "A Shiny New Resource Sink"
+			x: -0.5d
+			y: 24.0d
+		}
+		{
+			dependencies: [
+				"552DD25027690140"
+				"36EA315878C88EBE"
+				"49C19A8B5519A87F"
+				"67839BBF21FEC1E4"
+				"526B74809D6455D8"
+			]
+			icon: "nyagibits_bytes:pile_of_crude_mechanical_parts"
+			id: "3B239E07261D8D7D"
+			tasks: [{
+				id: "4C0BD3355FC976A7"
+				type: "checkmark"
+			}]
+			title: "A Pile Of Bullsh- Useful Components"
+			x: 0.0d
+			y: 23.0d
+		}
+		{
+			dependencies: [
+				"37084732C1D76991"
+				"21F5BFE011A81849"
+			]
+			icon: "nyagibits_bytes:pile_of_cogs"
+			id: "552DD25027690140"
+			tasks: [{
+				id: "56016B980A85F811"
+				type: "checkmark"
+			}]
+			title: "Tower of Hanoi Piece"
+			x: 0.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["21F5BFE011A81849"]
+			icon: "create:large_cogwheel"
+			id: "37084732C1D76991"
+			tasks: [{
+				id: "06E9B5B15771CC1F"
+				type: "checkmark"
+			}]
+			title: "Cogwheel++"
+			x: 0.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["0B5F5B6B7780F35A"]
+			icon: "create:cogwheel"
+			id: "21F5BFE011A81849"
+			tasks: [{
+				id: "59AEB3A224B856BA"
+				type: "checkmark"
+			}]
+			title: "Computer! 500 Cogwheels"
+			x: -0.5d
+			y: 20.0d
+		}
+		{
+			dependencies: [
+				"685AF8C450180B2F"
+				"49C19A8B5519A87F"
+			]
+			icon: "create:wrench"
+			id: "526B74809D6455D8"
+			tasks: [{
+				id: "0E40395B313FFB72"
+				type: "checkmark"
+			}]
+			title: "Automating... Wrenches.. Sure why not"
+			x: -1.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["552DD25027690140"]
+			icon: "create:gantry_shaft"
+			id: "36EA315878C88EBE"
+			tasks: [{
+				id: "19BD4C1F28640B88"
+				type: "checkmark"
+			}]
+			title: "You Probably Have These Already"
+			x: 1.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["552DD25027690140"]
+			icon: "create:hand_crank"
+			id: "49C19A8B5519A87F"
+			tasks: [{
+				id: "15523A33AC70F5C9"
+				type: "checkmark"
+			}]
+			title: "This Is Why My Dominant Arm Is Jacked"
+			x: -1.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["5A823DC796D1B3C7"]
+			icon: "create:brass_hand"
+			id: "67839BBF21FEC1E4"
+			tasks: [{
+				id: "6AA88DF55B07B260"
+				type: "checkmark"
+			}]
+			title: "Great Nose Picker Tool"
+			x: 1.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["789821A8D7342A72"]
+			icon: "create:brass_sheet"
+			id: "5A823DC796D1B3C7"
+			tasks: [{
+				id: "550DF1A49CD43DC1"
+				type: "checkmark"
+			}]
+			title: "Antimicrobial Rectangle"
+			x: 2.5d
+			y: 20.5d
+		}
+		{
+			dependencies: ["697E50D684D5A997"]
+			icon: "create:electron_tube"
+			id: "685AF8C450180B2F"
+			tasks: [{
+				id: "4ECB6D1E0FAFE459"
+				type: "checkmark"
+			}]
+			title: "Blinky Blinky"
+			x: -2.5d
+			y: 20.5d
+		}
+		{
+			dependencies: ["24F263BFA0B3056C"]
+			icon: "botania:auto_crafting_halo"
+			id: "20D167D82EF73539"
+			tasks: [{
+				id: "6A882C5E413C70B0"
+				type: "checkmark"
+			}]
+			title: "The Modular Factory"
+			x: 0.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["38D12B5F0800566A"]
+			icon: "create:mechanical_crafter"
+			id: "21209E96C5A2C04B"
+			tasks: [{
+				id: "5A4896C469CA579F"
+				type: "checkmark"
+			}]
+			title: "Automatic Assembly"
+			x: 0.5d
+			y: 24.0d
+		}
+		{
+			dependencies: ["3631B3D7904473FD"]
+			icon: "nyagibits_bytes:livisite_slate"
+			id: "1DD0A837E5B7A273"
+			tasks: [{
+				id: "474B6A192D01BD8C"
+				type: "checkmark"
+			}]
+			title: "Premium Countertops"
+			x: 0.0d
+			y: 26.0d
+		}
+		{
+			dependencies: ["1DD0A837E5B7A273"]
+			icon: "create:deployer"
+			id: "12EE3392A6C9FA69"
+			tasks: [{
+				id: "6C230AEF80BCA941"
+				type: "checkmark"
+			}]
+			title: "Beating the devs to death"
+			x: 0.0d
+			y: 27.0d
+		}
+		{
+			dependencies: [
+				"004CFAF493A18544"
+				"539EF754B3E06E0F"
+				"12EE3392A6C9FA69"
+				"5B1A9BD6B04AC2A6"
+				"79D71E372579392D"
+			]
+			icon: "nyagibits_bytes:pen"
+			id: "572376FFCBF1346B"
+			tasks: [{
+				id: "67B4727F82770E0D"
+				type: "checkmark"
+			}]
+			title: "Time To Scribble"
+			x: 0.0d
+			y: 28.5d
+		}
+		{
+			dependencies: ["3631B3D7904473FD"]
+			icon: "minecraft:ink_sac"
+			id: "451CB901650E8F5B"
+			tasks: [{
+				id: "6C1AB4CFDCCEECA3"
+				type: "checkmark"
+			}]
+			title: "Extra Full Squids"
+			x: 2.5d
+			y: 25.5d
+		}
+		{
+			dependencies: ["3631B3D7904473FD"]
+			icon: "nyagibits_bytes:tiny_spring"
+			id: "539EF754B3E06E0F"
+			tasks: [{
+				id: "1DE0B0E76EA8BED4"
+				type: "checkmark"
+			}]
+			title: "Sproingy"
+			x: 1.0d
+			y: 26.0d
+		}
+		{
+			dependencies: ["3631B3D7904473FD"]
+			icon: "nyagibits_bytes:ball_bearing"
+			id: "004CFAF493A18544"
+			tasks: [{
+				id: "10892B36811CA1FD"
+				type: "checkmark"
+			}]
+			title: "Oh no I spilled them everywhere"
+			x: -1.0d
+			y: 26.0d
+		}
+		{
+			dependencies: ["6F2D142E58E23CAA"]
+			icon: "nyagibits_bytes:ink_cartridge"
+			id: "79D71E372579392D"
+			tasks: [{
+				id: "15E7A777C33F27D1"
+				type: "checkmark"
+			}]
+			title: "Ink in da tube"
+			x: 1.0d
+			y: 27.5d
+		}
+		{
+			dependencies: ["451CB901650E8F5B"]
+			icon: "nyagibits_bytes:thin_casing"
+			id: "6F2D142E58E23CAA"
+			tasks: [{
+				id: "3219FEE602C20327"
+				type: "checkmark"
+			}]
+			title: "Tiny Wet Paper Ball Shooter"
+			x: 2.0d
+			y: 26.5d
+		}
+		{
+			dependencies: ["3631B3D7904473FD"]
+			icon: "thermal:cured_rubber"
+			id: "5B1A9BD6B04AC2A6"
+			tasks: [{
+				id: "2921BDFBD89E8C5D"
+				type: "checkmark"
+			}]
+			title: "It's Like If Gum Was Disgusting"
+			x: -2.5d
+			y: 25.5d
+		}
+		{
+			dependencies: [
+				"1829036099806630"
+				"56BAD950091D55D1"
+			]
+			icon: "botania:crafty_crate"
+			id: "607E9B99520A22A2"
+			tasks: [{
+				id: "0754A61387637A99"
+				type: "checkmark"
+			}]
+			title: "Autocrafting, But With A Skill Check"
+			x: 6.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["607E9B99520A22A2"]
+			icon: "botania:placeholder"
+			id: "6BA3B2FBB446A92C"
+			tasks: [{
+				id: "686CD95637389CBF"
+				type: "checkmark"
+			}]
+			title: "These Little Shits"
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"21209E96C5A2C04B"
+				"38D12B5F0800566A"
+			]
+			icon: "create:belt_connector"
+			id: "3631B3D7904473FD"
+			tasks: [{
+				id: "61DDD6E2BCDDC8EE"
+				type: "checkmark"
+			}]
+			title: "About Sequenced Assemblies"
+			x: 0.0d
+			y: 25.0d
 		}
 	]
 	title: " &6Tier 0"

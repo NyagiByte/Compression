@@ -4180,6 +4180,30 @@
 			x: 10.5d
 			y: -3.0d
 		}
+		{
+			dependencies: ["55F62F8F0F606A69"]
+			description: [
+				"Having trouble knowing what to look for? The &bimage&r below shows what boulders look like in-game and on minimaps!"
+				""
+				"{image:compression:textures/quests/boulders.png width:256 height:256 align:1 fit:true}"
+				""
+				"&6Credit to 2Hero for making the infographic&r"
+			]
+			icon: "minecraft:iron_ore"
+			id: "77D8649486036493"
+			rewards: [{
+				id: "6C30F550DBB5EFE6"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "42C5170BB907CDCC"
+				title: "Should Hire The Boulder Bros"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: -10.5d
+		}
 	]
 	subtitle: ["I am a dwarf and I'm digging a hole"]
 	title: " &aOre Line"
