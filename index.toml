@@ -734,7 +734,7 @@ hash = "ffac074e14e40f9c6274b854e7022f28d8a36282c41a62c7db73188c85735576"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/6tier_0.snbt"
-hash = "5c3c0aefcaaf03e59bd9032dadf149f6b093275de0c0a8161a615678bdbf1a7a"
+hash = "8761c967f89179df6015ddde15d935796dbedadec92354685f1605ad3661d94f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/6tier_1.snbt"
@@ -742,7 +742,7 @@ hash = "5970205172655c92261cc61c721512cd50c4e85129cdad6c3f3572564ce7082c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
-hash = "b3cd72ea8959d4768a79e3ecf034bcd79bd41d75ac08816050b88307220553f2"
+hash = "da64a903b36a223ae4628cb1abd4f98ce1f3d47bce93dbcc88b9442b46558b56"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/organics.snbt"
@@ -750,7 +750,7 @@ hash = "d41650ac8977588bc65e57517ad314e769931f7b792f39f096f4134cd421d8fc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/proficiency.snbt"
-hash = "0bda7e0cc4db12277cf910e101f61ceca9ed5f0e10a8cec044ae322db5508010"
+hash = "8a4fc94b159130165735a6b9c7c47c9451b0a8aba79cbc737e842a50e77c56e7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
@@ -3711,6 +3711,14 @@ hash = "86255d58f472b0cd100d5f128bce4968eabccd0afd0b8485599999f4a9b1fe21"
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/tags/items/livingwood_logs.json"
 hash = "c82059de254efa7f32315dee5d8990c7fee12ce45860452b22113fca0348fb01"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/byg/recipes/purpur_stone.json"
+hash = "9f000b5e80daac16cddb001ec98c9a97a5b5efd746780f89b1d31d4f29b270db"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/byg/recipes/purpur_stone_t1.json"
+hash = "e663cffc57d659720ec9f4b43e40bba05c1b741deebe4aabf0651c12dadb0515"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/byg/recipes/sythian_scaffolding.json"
@@ -8389,6 +8397,14 @@ file = "config/paxi/datapacks/compression/data/minecraft/recipes/enchanting_tabl
 hash = "859e8b525b0cb13a792a66da0796f6e6a39f3fe747fd209b08ff8ddfa64ce4ad"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/end_rod.json"
+hash = "cea397ed063bb62451cf45547d944af77b0f4915e7541480d0776a504fdfa035"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/end_rod_t1.json"
+hash = "d42f8095e1cf6f9441a67d9ddbbc99362713d9f197825d86934ed84007652927"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/ender_chest.json"
 hash = "681aeb8a7d8d4ba7ea2a14cc14501d80e99889cebc49148e1cabbeb5a331b450"
 
@@ -8491,6 +8507,14 @@ hash = "6e243961dd71be9ea6cc470fc345e1b67670a603dc9fc31dd92df5926af84a28"
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/purple_concrete_powder.json"
 hash = "88d79535d399d166a2c031bff6373dfa0ce9bb410d6a8bf08dae941536dea189"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/purpur_block.json"
+hash = "c315d98bb995ee9400fc3157238443e228b3f539e8097c5a0d80614a8a74a039"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/purpur_block_t1.json"
+hash = "aab711ddf02284cd6f6447a491da7417ebe1eb6627ae5775e75eda415d9774bf"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/red_concrete_powder.json"
@@ -9823,6 +9847,10 @@ hash = "007e71b8367439f41231098bd0e72b5cb4bd1b87fd870cfbd909105ce30992c9"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pressing/osmium_plate_chemlib.json"
 hash = "ef221fc322ce2c0e94d0a5d18781b3ccb91028bab8b1baaa70a80e63abb2a9a7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pressing/silver_plate_chemlib.json"
+hash = "bafeda8ab99ee0ba574954fdcd01acb61c2b0cba65689080063f378b9428fbb0"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pressing/tin_plate_chemlib.json"
@@ -16425,6 +16453,10 @@ file = "kubejs/README.txt"
 hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
 
 [[files]]
+file = "kubejs/assets/compression/textures/quests/boulders.png"
+hash = "a80e64cc85634ab0445b8658408fdf880cab24da973e94165a855db70e076f89"
+
+[[files]]
 file = "kubejs/assets/gardenofglass/lang/en_us.json"
 hash = "3a6efe2eea08ba23401bf694c92ba232e3432cb11982b04f301ce62116ba2ddf"
 
@@ -16499,6 +16531,10 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 [[files]]
 file = "kubejs/assets/nuclearcraft/lang/en_us.json"
 hash = "76e5cd1349b170cac7efc2ad196fc5d4f211de8893bcb1bf1ef5f8aa43a4bf1d"
+
+[[files]]
+file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
+hash = "340158fac65a9396bd9024f487c07ebec1e3629370483089a25ca0f9e2a64a50"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"
@@ -16926,7 +16962,7 @@ hash = "c2b883496a6eca188047e44b8467113962fe03221e93c3e0e9ffeeaf0ff94c0e"
 
 [[files]]
 file = "kubejs/server_scripts/item_removal.js"
-hash = "3b6d0e869299b5137c4ad59bd63a19ce1d7e1a09ae156ba80e861cef8d278a6a"
+hash = "d0958fd775192d5b0ba9e66dfb239cd12b12abe0daf938fb252b1dd6f007dca1"
 
 [[files]]
 file = "kubejs/server_scripts/loottables.js"
