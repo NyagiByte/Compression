@@ -17886,6 +17886,11 @@ hash = "b25006e2ef56ba2636dec579354bacec458073feceba5e79e160dcd206aa2b1f"
 metafile = true
 
 [[files]]
+file = "mods/lychee.pw.toml"
+hash = "6fccf1ef9a1ae99833e805cbca987b80080f6dbd6d3ff638a891d7caf3fe94e8"
+metafile = true
+
+[[files]]
 file = "mods/mafglib.pw.toml"
 hash = "97f6e3481253075ab47c2f18e71bf29d2737872b0761dc179bf7871410dd98e6"
 metafile = true
