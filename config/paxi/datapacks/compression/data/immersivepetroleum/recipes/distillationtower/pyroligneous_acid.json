@@ -9,7 +9,7 @@
     "energy": 1024,
     "input": {
       "amount": 100,
-      "tag": "nyagibits_bytes:pyroligneous_acid"
+      "tag": "forge:pyroligneous_acid"
     },
     "results": [
       {
