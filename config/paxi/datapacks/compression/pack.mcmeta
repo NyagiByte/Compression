@@ -196,6 +196,8 @@
 		{"namespace": "minecraft", "path": "recipes/shield.json"},
 		{"namespace": "minecraft", "path": "recipes/leather.json"},
 		{"namespace": "minecraft", "path": "recipes/white_wool_from_string.json"},
+		{"namespace": "minecraft", "path": "recipes/chest.json"},
+		{"namespace": "minecraft", "path": "recipes/chests.json"},
 
 		{"namespace": "mekanism", "path": "recipes/evaporating/lithium.json"},
 
@@ -302,6 +304,7 @@
 		{"namespace": "nuclearcraft", "path": "recipes/nuclearcraft_magnesium_dust.json"},
 		{"namespace": "nuclearcraft", "path": "recipes/nuclearcraft_steel_plate.json"},
 
+		{"namespace": "nuclearcraft", "path": "recipes/nuclearcraft_sodium_dust.json"},
 		{"namespace": "nuclearcraft", "path": "recipes/cobalt_from_nugget.json"},
 		{"namespace": "nuclearcraft", "path": "recipes/cobalt_from_block.json"},
 		{"namespace": "nuclearcraft", "path": "recipes/nuclearcraft_cobalt_ore.json"},
@@ -1043,6 +1046,8 @@
 		{"namespace": "quark", "path": "recipes/building/crafting/compressed/carrot_crate.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/compressed/potato_crate.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/stonevariants/vanilla/polished_tuff.json"},
+		{"namespace": "quark", "path": "recipes/building/crafting/chests/mixed_chest.json"},
+
 
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/cobblestone_furnace.json"},
 		{"namespace": "quark", "path": "recipes/building/crafting/furnaces/mixed_furnace.json"},
