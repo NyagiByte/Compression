@@ -580,6 +580,14 @@ JEIEvents.hideItems(event => {
     'thermal:bronze_coin',
     'thermal:electrum_coin',
     'thermal:invar_coin',
-    'thermal:constantan_coin'
+    'thermal:constantan_coin',
+    //Gliders
+    'vc_gliders:paraglider_wood',
+    'vc_gliders:paraglider_iron',
+    'vc_gliders:paraglider_gold',
+    'vc_gliders:paraglider_diamond',
+    'vc_gliders:reinforced_paper_iron',
+    'vc_gliders:reinforced_paper_gold',
+    'vc_gliders:reinforced_paper_diamond'
   ])
 })

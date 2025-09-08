@@ -1,0 +1,25 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "vc_gliders:reinforced_paper"
+      },
+      {
+        "item": "nyagibits_bytes:lard"
+      },
+      {
+        "item": "minecraft:cocoa_beans"
+      },
+      {
+        "amount": 100,
+        "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "vc_gliders:reinforced_paper_netherite"
+      }
+    ]
+  }

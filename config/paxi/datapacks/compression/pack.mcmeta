@@ -1706,10 +1706,22 @@
 		{"namespace": "abyssal_decor", "path": "recipes/fever_blossom_tea_recipe.json"},
 		{"namespace": "abyssal_decor", "path": "recipes/muckroot_soup_recipe.json"},
 
+		{"namespace": "vc_gliders", "path": "recipes/paraglider_wood.json"},
+		{"namespace": "vc_gliders", "path": "recipes/paraglider_iron.json"},
+		{"namespace": "vc_gliders", "path": "recipes/paraglider_gold.json"},
 		{"namespace": "vc_gliders", "path": "recipes/paraglider_diamond.json"},
-		{"namespace": "vc_gliders", "path": "recipes/paraglider_netherite.json"},
+		{"namespace": "vc_gliders", "path": "recipes/reinforced_paper_iron.json"},
+		{"namespace": "vc_gliders", "path": "recipes/reinforced_paper_gold.json"},
 		{"namespace": "vc_gliders", "path": "recipes/reinforced_paper_diamond.json"},
-		{"namespace": "vc_gliders", "path": "recipes/reinforced_paper_netherite.json"},
+
+		{"namespace": "vc_gliders", "path": "recipes/wood_glider_copper_upgrade.json"},
+		{"namespace": "vc_gliders", "path": "recipes/iron_glider_copper_upgrade.json"},
+		{"namespace": "vc_gliders", "path": "recipes/gold_glider_copper_upgrade.json"},
+		{"namespace": "vc_gliders", "path": "recipes/diamond_glider_copper_upgrade.json"},
+		{"namespace": "vc_gliders", "path": "recipes/wood_glider_nether_upgrade.json"},
+		{"namespace": "vc_gliders", "path": "recipes/iron_glider_nether_upgrade.json"},
+		{"namespace": "vc_gliders", "path": "recipes/gold_glider_nether_upgrade.json"},
+		{"namespace": "vc_gliders", "path": "recipes/diamond_glider_nether_upgrade.json"},
 
 
 

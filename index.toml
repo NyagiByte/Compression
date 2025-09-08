@@ -15153,36 +15153,16 @@ file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/tin_ingo
 hash = "f1e6380b27f0c8a7b2719163235dbf7e035f5d12d1e0ee4141a209e08cc09a48"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/copper_upgrade.json"
-hash = "efc335e5d93e336a9a1d4c2a313b865424ec28145619f56e865a105925174061"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/nether_upgrade.json"
-hash = "38934ed3505aebb9f0f31c9fe056da370d3b6edbf3c25fa865813778024a00cf"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/paraglider_gold.json"
-hash = "b0156f2819f8f864f80fa40d222abd304b39b5ad5fe35f445798025eb8df5b5c"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/paraglider_iron.json"
-hash = "84a08234c782b400173cd60ea69e42eaed6c0df7cd6c42d1ffea9a4e6e498edf"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/paraglider_wood.json"
-hash = "3290475dde1e8fa06fa3bdd833ccbe06c5c376f274fce3672eefd4892141e8d3"
+file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/paraglider_netherite.json"
+hash = "f0724bca9022cfe0db127f08587aac574b134bc1ae0047f5847d53a84470477f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/reinforced_paper.json"
 hash = "3c1011e8c9e9d5e2118598c0bd0b6a89daa55eacda11783be6c592b8f624092d"
 
 [[files]]
-file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/reinforced_paper_gold.json"
-hash = "287ab419cdd395ca76934ebb1140021756f91445326ebf65e00028d26f581be4"
-
-[[files]]
-file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/reinforced_paper_iron.json"
-hash = "df9632363ab226bc80841c20e6022eb032b665ca38a18695a87e1cc93c3a4cf7"
+file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/reinforced_paper_netherite.json"
+hash = "7537e3e5740ac4d5c4e2079d3043532722d4c4b6255136aecdf5aab00ea58046"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/vintageimprovements/recipes/craft/belt_grinder.json"
@@ -15630,7 +15610,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "fd37e68bc340a5a15fd4bc4e63d41c6bed1c94430e604b853f0df38df230498f"
+hash = "7b2428debbd7e91bf82bbd169909e5260129ad914c874a27d5f1dc273f0fca1c"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -16538,7 +16518,7 @@ hash = "340158fac65a9396bd9024f487c07ebec1e3629370483089a25ca0f9e2a64a50"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"
-hash = "5a469d642e148185f0895339b3d4ee93908a5de2123b7e4b77086fd028d8e134"
+hash = "f1af5780b0ea2f3b0b51552e2b7b9385689eb033c8d98dc56bb2f243158f7681"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
@@ -17638,10 +17618,6 @@ metafile = true
 file = "mods/nuclearcraft-neoteric.pw.toml"
 hash = "7b97a647a407c721873a3d94901b405cff143c18ea590c4d5f5bfcbd30a504c2"
 metafile = true
-
-[[files]]
-file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "ccb0b07030cba10e62970fd48dcea377c0799b6ecf2a818679a6348deba6fa6c"
 
 [[files]]
 file = "mods/nyagis-bits-bytes.pw.toml"
