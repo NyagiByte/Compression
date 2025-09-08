@@ -4,7 +4,7 @@
     ],
     "energy": 1024,
     "input": {
-      "amount": 1100,
+      "amount": 1125,
       "tag": "forge:mixed_peroxide_product"
     },
     "results": [
@@ -17,7 +17,7 @@
         "fluid": "nyagibits_bytes:hydrogen_peroxide_003_fluid"
       },
       {
-        "amount": 99,
+        "amount": 124,
         "fluid": "nyagibits_bytes:9_10_anthraquinone_fluid"
       }
     ],
