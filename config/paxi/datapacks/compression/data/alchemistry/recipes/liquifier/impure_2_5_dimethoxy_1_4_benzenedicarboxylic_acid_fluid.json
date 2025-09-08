@@ -1,0 +1,14 @@
+{
+    "type": "alchemistry:liquifier",
+    "group": "alchemistry:liquifier",
+    "input": {
+      "count": 8,
+      "ingredient": {
+        "item": "nyagibits_bytes:sample_impure_2_5_dimethoxy_1_4_benzenedicarboxylic_acid"
+      }
+    },
+    "result": {
+      "amount": "500",
+      "fluid": "nyagibits_bytes:impure_2_5_dimethoxy_1_4_benzenedicarboxylic_acid_fluid"
+    }
+  }

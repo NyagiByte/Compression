@@ -1473,6 +1473,14 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/samp
 hash = "94089f1abd0661236d6ba1bc6d68796f09a65be44177294a4672b5a8107296a2"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_2_5_dimethoxy_1_4_benzenedicarboxylic_acid_solution.json"
+hash = "9196e3edf9029ad9e5a2ef7ec5f0f96986cddd8a8bf198a5d7f7781bf7a7db30"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_2_5_dimethoxybenzoic_acid_solution.json"
+hash = "41183ad9eeeaac00f3c9f7349f78c029276210e8f95f9e8ebe4c9830c8a72ba7"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_2_phenoxyethanol.json"
 hash = "cd54d922f4c8b58d262c38d7c17bd60117f69a96431fc78f80335cc0f8a1bb2a"
 
@@ -1481,16 +1489,76 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/samp
 hash = "4ec4f356b644b516dde5e5b5a9eb7c44edaa2be34f2b3c771727ccb9f531b373"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_acetone.json"
+hash = "28864eda8af03c87af35366eff38149bf49fbf8e792a2d8100d6abc7f8fad0d5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_alkaline_technical_grade_glycerol.json"
+hash = "4afaaf51f360a4d29eae6a10a44e6d59bb879f022bb89d3565d174a297ccf042"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_anhydrous_toluene.json"
+hash = "1be97c481e444f07a4c188e54a1761e0fa1a2d99c2929014b8cea284b9bccea3"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_benzyl_alcohol.json"
 hash = "b0f6d26df39618aad2402790745b73bd3abab3be1ef5ee08a18cd05c54ac7f80"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_bromooctane.json"
+hash = "40f29d8e609b432d26d8830dcefb8a6fe89128b89c77da0be20975bf82099faf"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_bubbled_pre_peroxide.json"
 hash = "3e2db35dc85648c77f080c6e8e2f58a27efcb6c7c0f163f55919dd8496b15c70"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_chc_68.json"
+hash = "037049639f85064c7d11b9bdd881894823d5ba26c780cf8683f8da7361c65215"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_chlorine_dioxide.json"
+hash = "dacd8341abf84f9ed0c859f148853e44b1c91dde646baec5d58b8a3f1902896d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_chlorooctane.json"
+hash = "5f6a5e864476e2ee86d678ae87039835db2166b9390965e9cdfd73e5c6b38c41"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_chloropropane.json"
+hash = "e06d5b01efc272dd97e789d18bad1025bfed08cd8e7b117aabbd51d40149f7f3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_clarified_water.json"
+hash = "dd6d23557f50d9bcbee0e5d1930f30c3e544c0f3306e7dfaff51becec79ced88"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_colorless_glycerol.json"
+hash = "f14a08cb2c2ba41a39bec4b0f192a7fbbb7d21aa4beed7dc2b5a68195c0c1367"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_contaminated_water.json"
+hash = "36673831ad3cd7b259a551e41ec6a9ceab973c76e2912cc915644d5998d30cdc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_crude_biodiesel.json"
+hash = "44cdb4a143ba2e783b740c9d23b7ab76a7f4b8cd29588cc900855e9dd3a0dbb6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_crude_glycerol.json"
+hash = "f4c128a3d71d6b14fdfe3864a850e184ba7d2094cb6a6410f26566385881eee4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_crude_plant_oil.json"
+hash = "33f3d812335a84e8021b2d69ca59ade3b90ab48335a319b490b9e0f4bbec8a27"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_cyclohexanone.json"
 hash = "d4c15ab5ecb0a61968e3d7cdf7909e67603a84cc886442eafbd9ae26e17b2cb0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_deionised_water.json"
+hash = "3d726b3911cde53c56256bcbe8bb09dec1005d846fb11b50f9baab02f43bcda4"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_diethyl_ether.json"
@@ -1505,6 +1573,18 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/samp
 hash = "f6335085a3fb878d283ceed6dd8c4f0a4524afc0c49f4ef7395c319c7ff940c6"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_disinfected_water.json"
+hash = "81c6f5ebc299a44dace204aba91008471d6fa5fc5221a0ef2a871b779a5828ae"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_distilled_glycerol.json"
+hash = "6667a176e9c24273ea4a7880258f556c03e6b0afdf038e9b86de3d3325b281fc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_distilled_water.json"
+hash = "05f38adfe111747444537669266fb66b9e0fc9053a397d37b6d85fed23d6d1c4"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_dms.json"
 hash = "389b54501b580fe93c31b63ce0682361c27fb18d451cd01c7a1d5a3174bcf141"
 
@@ -1517,8 +1597,20 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/samp
 hash = "aedb90fa8a573aa87515499d31e1653c83c344b1bb063024c0f3a4c31d991c71"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_filtered_water.json"
+hash = "d45317bbe8ea3145f7c0e82fefb01ed75539457f4fb18d5d985d5392ddc3c092"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_flocculated_water.json"
+hash = "06f7c6b63f40da28ef1944bf7342986bf8fa8fe80a1e5ca543702e078165a496"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_formaldehyde.json"
 hash = "4d698712a471dc321dc985b83e2431513de65994cb244e0ebc5a6ff66072d321"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_glycerol.json"
+hash = "e038beaee3fe5d7a266c7ced8904ad3363f1907bbeeb87455fa4d47c4706e31c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_hydrazine.json"
@@ -1557,6 +1649,22 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/samp
 hash = "337f8327eaaa871811e31c3af917dc1fb9236b2a088c368fcc4c9643bfe03bc1"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_impure_2_5_dimethoxy_1_4_benzenedicarboxylic_acid.json"
+hash = "c5a40588b2993f7d350c18d1be1692549eb2d6cd28ce3eb06f0889409ba3617e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_impure_2_5_dimethoxybenzoic_acid.json"
+hash = "1bfe76116c3ea692babeef48604ef98f4fadd33b0312a840848fb51cfd932087"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_impure_acetone.json"
+hash = "1dd382c5e4ac8e9db2a55d61fd26080840b577c15c526e822b574fb00f824899"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_impure_methanol.json"
+hash = "2646d38da00560e986acaad639caca2698cd640bbb4aaff50a72e9d17f61ee9a"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_iodomethane.json"
 hash = "82f1529f419f737418b48c21957b9fc231cc02db5fb10f68facaf7a357de399f"
 
@@ -1585,8 +1693,16 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/samp
 hash = "8f21f926a7ff20b1147282400fecbdb6152510c39d223675e8256d27677c1266"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_mixed_dimethoxybenzoic_acid_product.json"
+hash = "ccdb13dc4da390a22be0df620f9fd0e7b972d91bb5b1feda94ea0797e84291be"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_mixed_peroxide_product.json"
 hash = "2bfa7ecf49688812d522133363612fa5e5d960678e5a030e779eb6ef6451b9f5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_mixed_pre_dimethoxybenzoic_acid_product.json"
+hash = "278885d8498c7e8b3cf9ff13d12be65a2d3dda61da085a04af150d2551247fc9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_mononitrotoluene.json"
@@ -1595,6 +1711,14 @@ hash = "1bcf37e688023570dc0db34c3ea3385fda0b81a967e393593511c7f4f62ba3ed"
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_nickel_sulfate_solution.json"
 hash = "bac50c2123087b332e0e49d755f5e91985e895002e5c3f7d33ddd33949bf38cc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_octane.json"
+hash = "92e5beabf3a089aafe987ca33346f6d51ebbdaa92403147ea77a561ce7c09ce7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_odourless_glycerol.json"
+hash = "3cb2c73c7b7b0cbf865dc99e8052e04b39284ff950220ca05a74b3bf4ba91d5c"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_oleum.json"
@@ -1613,8 +1737,20 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/samp
 hash = "dc5fb60d80c7d1f2703db74d434363bdc6826db645f2b9717cad8d0ad1187585"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_sand_filtered_water.json"
+hash = "3980e8037b8753f12e74f05bb6d3cacab1bc10b6b5662bc32fc7f7d8be83b10b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_screened_water.json"
+hash = "525373c6e21fdbbf35d381bcc413072705b8ef7994e014a28d51ec598dcb8d76"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_seawater.json"
 hash = "223c5a3559a0b8ebea52ccd8d0fda03e8bb4b1be13890d196e52725504f2d984"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_settled_water.json"
+hash = "d3103b2caa4eade724bc01fb7aa0c0aa399cb90f49111931894824bf4bb1117e"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_solution_chitosan.json"
@@ -1631,6 +1767,10 @@ hash = "c3892b61aee850813f7371dcf2a87f8629cf752f287e877d261dd1c0dff87607"
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_steam_cracked_ethylene.json"
 hash = "09a674a99d8fbd2e6be9804254c78662593784cb916768cb08c4a777fdf5dbf0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_technical_grade_glycerol.json"
+hash = "b1fbcefbe75461d2fcfbdaf36f204108b8994579595ce692506a29b40057a0a3"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_tertbutyl_chloride.json"
@@ -1653,12 +1793,32 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/samp
 hash = "19552981561b1476ea6aa3a38930d82a8ce422f59e35b439d71c0883f41bbdde"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_type1_water.json"
+hash = "c0c54760b2a3605700f5343bbffd8c3504c16d4a87a78f8110ca34857bb1b86d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_type2_water.json"
+hash = "2ea9e75b5049ce6aa58a5be21328e755f54bfb319bb6efda8e057fd1d7ccc9c9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_type3_water.json"
+hash = "74cb75ced1f9a71f17c149fa9a3699134a56eb2832300cee6cba442ceed81112"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_wet_biodiesel.json"
+hash = "439ffb62f518fe323b8ff2f35782ee20cd99b27bfcd8db89e2af4fed1d71538c"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_wet_hpa_4.json"
 hash = "f3f59bc10024bbef68ec97157b2b895e5db1a5265693073e874609ca2070f851"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_wet_hydrazine.json"
 hash = "572802bcafb58cd50d5f625fa55951d0da1575931c1fb9104c1bd45f3c9dc8ba"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_wet_methanol.json"
+hash = "1fc437ff208c3ecf5ad1fc48545ad111c9007e1d0a7bb97edcf2b79130f14693"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/combiner/acetylene.json"
@@ -1715,6 +1875,14 @@ hash = "2b77c6a7082363dec68e7ecb3f255b36dd98e58108b6365eef8491d4e3ac5455"
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/1_4_dimethoxybenzene_dust.json"
 hash = "36896d74afb80420b1c2eaf3495a51fe37ba491ee6cc3299c7afdb2934cfdc43"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/2_5_dimethoxy_1_4_benzenedicarboxylic_acid_dust.json"
+hash = "f6aee50fff155d6810f4135143ad36e999d8192a2ad0077900148fbe64e2d5c3"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/2_5_dimethoxybenzoic_acid_dust.json"
+hash = "0b2ccd92d1ecb1350eb009317d64885b1bf31d4a8e17a84935cd515dbb13b98b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/aluminum_trichloride_dust.json"
@@ -1913,6 +2081,14 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sam
 hash = "93aefa4ed2811b093cbdbd160e35bb336bd84304fa76a2277c2245569e57e7c4"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_2_5_dimethoxy_1_4_benzenedicarboxylic_acid.json"
+hash = "8c33b39ce217a3cc76e7380eca83c993060000d13ac59097a9cd86ee57d18380"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_2_5_dimethoxybenzoic_acid.json"
+hash = "08fc54839d253db903a7820f40f99d7fc66b8e314d3f2ec8b4c1869d0ccc4034"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_aluminum_trichloride.json"
 hash = "a372938977f0f73a641e19ca90f2193284a0bb398b83581bdf5739fc1d33cfc0"
 
@@ -2029,6 +2205,14 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/1_4
 hash = "e748159e7cb139a9ff36aae6811098ea59b21fb40ca2ded3965e9bd14b7ff57c"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/2_5_dimethoxy_1_4_benzenedicarboxylic_acid_solution_fluid.json"
+hash = "881d00d6b2db35804e3d2769515a8bea45c113baf272c718692473475ad0daa9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/2_5_dimethoxybenzoic_acid_solution_fluid.json"
+hash = "f19ee3004fd472e5d774b37a65fdaaad3383d5721cfc086ab6b2f40d9496d64a"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/2_phenoxyethanol_fluid.json"
 hash = "868ddb5af40a7e011eb1f53a17b361465c7fcd6fee3dce8a54f0c2408e93d89c"
 
@@ -2037,16 +2221,76 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/9_1
 hash = "3357a3e6d3bbd6d8d2025082cf9d2d6ab5d3e0abc6a3c184d5319d5cf9352fbb"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/acetone_fluid.json"
+hash = "ba3eec7dff33f7cba2a0e0b875ee32852e0b6923959bb0a21691cfb2c565dd11"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/alkaline_technical_grade_glycerol_fluid.json"
+hash = "3946fd64cc9097783d978c6e6a2a6fce49f649d55c6b673aad8d23342f9e29b8"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/anhydrous_toluene_fluid.json"
+hash = "4c0573112e770ff918f5f18121eef2de98db11dc9f7345a640d8972df5e4aa80"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/benzyl_alcohol_fluid.json"
 hash = "0eadf29f112dc81b5bcb032133e7e3bbfb5d620aba3d5b1ea49d289f7cb2a9f4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/bromooctane_fluid.json"
+hash = "5eaeaa6d3f10985e5baa261a92fadd876a7e3df0834f0e5142df349c886d993f"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/bubbled_pre_peroxide_fluid.json"
 hash = "bfb7819bbcf84b3e358ae8e7d94f3725a05d20ceb6e91fadc87bb93bba2f8d1c"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/chc_68_fluid.json"
+hash = "9ab60161074a04eda0f8bd924f47744be8854c6b65b3344a750cc73b22787576"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/chlorine_dioxide_fluid.json"
+hash = "a18dc39c915cb69b2e5c5c33cee6fef0bb8d6f64d9a7b868c05abf7fe7e24a3a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/chlorooctane_fluid.json"
+hash = "8c832ad5a5c293acc2ca13938456f5c62466e39ac2965e316f08a45c1b50875c"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/chloropropane_fluid.json"
+hash = "3141edf36ef9cce20719404abcbc4600edc51c445eb2d0dcb8570ec5bea9d088"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/clarified_water_fluid.json"
+hash = "2841790aadbad06ec980c2964bbd2fc7c60390856fc95698860941aa01fb0fa4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/colorless_glycerol_fluid.json"
+hash = "c7a5ff71d75d6809c71acc51236b6d7ee04a78f5b0fa8abf542e1a7141a8ac0b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/contaminated_water_fluid.json"
+hash = "cf68968af54397d4f470accd0869c07b8234926e2b47d992f6bc787b4297cb14"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/crude_biodiesel_fluid.json"
+hash = "5b9f7b69affa9944a8daead1dfff405a34368377f404d843b9f71d898878eeeb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/crude_glycerol_fluid.json"
+hash = "1a02474532249379be6847238f02892f1466626639dc58ac2515df280c798e1b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/crude_plant_oil_fluid.json"
+hash = "8eaf77ebac95276a8f62edfd7d9eeb02b759ee56a29dd4ec215c92f38eb2ba7a"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/cyclohexanone_fluid.json"
 hash = "c2bde0a27863a71a2adaf5e3cf6507dff08696aa2d2cac224424ee5c8f32fcd9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/deionised_water_fluid.json"
+hash = "816c9cb211e66e4495b1aea0ab623910e8039fb183056277577f1fcfbdacd0b1"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/diethyl_ether_fluid.json"
@@ -2061,6 +2305,18 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/din
 hash = "9b9276120004680bf2911f5e1350d2313aaa07f4c9a0ab0f9ab00f9984c5b725"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/disinfected_water_fluid.json"
+hash = "a01b9e2552817f878abb96782cd12302744a4bd05a3722a8c7a18f5092c70de0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/distilled_glycerol_fluid.json"
+hash = "c10e6cecaabf4ad99ec5b367b7e5b50076b2af145ee0903710ab796131baf694"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/distilled_water_fluid.json"
+hash = "956e44c2bbc4c92d81d105f474f9a0c4ab5d427df0397cb6a47c9eb2e6fe288e"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/dms_fluid.json"
 hash = "ebaceefa465cbbede105ee92e961bd7e23fea949796fa551c50774f084da4c4d"
 
@@ -2073,8 +2329,20 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/eth
 hash = "266f3ba18594e21ded85e8d61eca99278843a9d0ccba15a8dea4375049c808c2"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/filtered_water_fluid.json"
+hash = "42589e7c398611145ec585f8454ae3f0b6f103d03ad070bca45679f2b9fa03aa"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/flocculated_water_fluid.json"
+hash = "3af985cb7a8dadadd9000dc9a20f92f977ec7895d4b0a30fe56b23b42ed95a3b"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/formaldehyde_fluid.json"
 hash = "49686a75d7017f8c3e654a6a66b2065559529200385d4c7494e0d45632d59ed7"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/glycerol_fluid.json"
+hash = "2d35efc2174c5a0aef8fc9fa99939c1efa9a1cf1cb6810de885570efdab53326"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/heptafluoropropane_fluid.json"
@@ -2117,6 +2385,22 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/hyd
 hash = "b3fc8b90c42c76e58f545a28fd232e66bc173bcf032137233811c4be7a086368"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/impure_2_5_dimethoxy_1_4_benzenedicarboxylic_acid_fluid.json"
+hash = "ac2b83b99b2f6bc3b79614f8d3a9adaeca539d5a0dcd171d4910820416da279b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/impure_2_5_dimethoxybenzoic_acid_fluid.json"
+hash = "e102cfed805df8c9f71c5a403182665318fe9c7721f185d1ce46308bd48c1e54"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/impure_acetone_fluid.json"
+hash = "f6f0c3c4bca2fc4b9960d6ced36cf65d6237a29826a2892439d5e22d36b0e731"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/impure_methanol_fluid.json"
+hash = "de115b223923cbd18d39d293215c069c22effad869b96be7a377031a20f231f1"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/iodomethane_fluid.json"
 hash = "f17aa4fa2600a508ad2031d093a15a904e67e38ba410e5c2683963d3ce701498"
 
@@ -2145,8 +2429,16 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/met
 hash = "bb09da6a26d9538120f7a807c849c834460a2ba60238f54073eefdfca18c175f"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/mixed_dimethoxybenzoic_acid_product_fluid.json"
+hash = "92da5cbbc595a657d248085a27a4bb8dda2c534ac038de5cb7f7779438f863ef"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/mixed_peroxide_product_fluid.json"
 hash = "3bcb9e2b8cea0ddbe3fc7dfdd7813dc645f5355cc83d54cceef650c8528fa0fd"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/mixed_pre_dimethoxybenzoic_acid_product_fluid.json"
+hash = "ada337d7a6b116666476d9b4844de7b6094fb88ac5f9168677bfe4620ce53d58"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/mononitrotoluene_fluid.json"
@@ -2155,6 +2447,14 @@ hash = "8ea1bf4dd70e3717a401f1f308211f8431ce6267eafc355c46ba7704217d5d71"
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/nickel_sulfate_solution_fluid.json"
 hash = "6284718b49ee02fe3bd2904869a61c402c8e8ca4f26ce324b97e61bcd5697371"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/octane_fluid.json"
+hash = "f39f7fcf151679c6cd3af136fde9da07fcff101b66a15174eca809eab6d1c109"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/odourless_glycerol_fluid.json"
+hash = "b7fad78c13cc713718c363f2dc3c0d02b3a0f91ea21b15bb66c10be1828e9b58"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/oleum_fluid.json"
@@ -2173,8 +2473,20 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/pre
 hash = "1fca2b75745b3462aa1bf8f80d5bb9dc772162fdd7fefa4df2ff6b98e3bec9c2"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/sand_filtered_water_fluid.json"
+hash = "7ac9c7b4c37f2952b90bccb7140af5308331a63ee6dc6d6e1eed08c8ac6b690a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/screened_water_fluid.json"
+hash = "53251e984c4b70af40793140e5d0158157d038b95def51309b62f260c303bcef"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/seawater_fluid.json"
 hash = "e8526bdd1e53e29479a110adfc4d43c0cbeb555a761a2b356ecb37aabdfcf1a0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/settled_water_fluid.json"
+hash = "769eac203b592cb1a0c7dfc35ad734a15117f42608b4060bf6ab9cf86e82d8d0"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/solution_chitosan_fluid.json"
@@ -2191,6 +2503,10 @@ hash = "c4d9793ba6395e104ea94eb0673c67a373e3febbf27bf9abfd50475cd2570031"
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/steam_cracked_ethylene_fluid.json"
 hash = "22d7b241c53c684d0a7c79d92c4e0c573ae7fe82bae070e6f2320be269d88f3b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/technical_grade_glycerol_fluid.json"
+hash = "e1b45066b67f0902d1b906b2bca68692178c2b31c5fdd494b3c26773ceb187c2"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/tertbutyl_chloride_fluid.json"
@@ -2213,12 +2529,32 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/tri
 hash = "faf415af38e9e2dbae99c8ac06fa40a88547c77224db2e6c4d2ea1837cb8da19"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/type1_water_fluid.json"
+hash = "9d14a3837ddacaa88472a7425e5bc653256b2d012f840e7023bcb83371dfb4bb"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/type2_water_fluid.json"
+hash = "e977b80def04b45ec99b23072d11f862c498010a35605e0470d0ba38ac7c84a4"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/type3_water_fluid.json"
+hash = "41dcf9991f30f3b68bff39034d415d15d015ec9b52d99da735142371522d9848"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/wet_biodiesel_fluid.json"
+hash = "76cf64f759bf8952df990a692408ab56d0dd3210c735e04cffef1e7ab8daefbc"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/wet_hpa_4_fluid.json"
 hash = "78e3dbf3861b60d258e90d4d5e30e4a30d623b64178c9a11cd71fbdae28f72d3"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/wet_hydrazine_fluid.json"
 hash = "7040fa9da1095e0e918f50d8824943cfcb8717e1f93ef0ea2f3aa8faf4bd6f51"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/wet_methanol_fluid.json"
+hash = "2d58baf7a3490902facdc9443f3dbfe77d318b754d81fc6daca8a10988f03df4"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/architects_palette/recipes/dripstone_lamp.json"

@@ -1,0 +1,12 @@
+{
+    "type": "alchemistry:atomizer",
+    "group": "alchemistry:atomizer",
+    "input": {
+      "amount": "500",
+      "fluid": "nyagibits_bytes:2_5_dimethoxy_1_4_benzenedicarboxylic_acid_solution_fluid"
+    },
+    "result": {
+      "count": 8,
+      "item": "nyagibits_bytes:sample_2_5_dimethoxy_1_4_benzenedicarboxylic_acid_solution"
+    }
+  }
