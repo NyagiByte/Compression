@@ -1,0 +1,36 @@
+{
+	"type":"vintageimprovements:pressurizing",
+    "heatRequirement": "heated",
+	"secondaryFluidInput": 0,
+	"secondaryFluidOutput": 0,
+	"ingredients": [
+		{
+			"fluid": "nyagibits_bytes:methyl_chloride_fluid",
+			"amount": 1000
+		},
+		{
+			"fluid": "immersivepetroleum:benzene",
+			"amount": 1000
+		},
+		{
+			"count": 1,
+			"item": "nyagibits_bytes:sample_aluminum_trichloride"
+		}
+	],
+	"results": [
+		{
+			"fluid": "chemlib:hydrochloric_acid_fluid",
+			"amount": 1000
+		},
+		{
+			"fluid": "nyagibits_bytes:toluene_fluid",
+			"amount": 1000
+		},
+		{
+			"count": 1,
+            "chance": 0.90,
+			"item": "nyagibits_bytes:sample_aluminum_trichloride"
+		}
+	],
+	"processingTime": 200
+}

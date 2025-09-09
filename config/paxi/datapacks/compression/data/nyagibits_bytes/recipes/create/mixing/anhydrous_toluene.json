@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "chemlib:sodium_plate"
+      },
+      {
+        "amount": 250,
+        "fluid": "nyagibits_bytes:toluene_fluid"
+      }
+    ],
+    "results": [
+      {
+        "count": 8,
+        "item": "chemlib:sodium_hydroxide"
+      },
+      {
+        "amount": 200,
+        "fluid": "nyagibits_bytes:anhydrous_toluene_fluid"
+      }
+    ]
+  }
