@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"immersiveengineering:treated_wood_packaged"},
+    "B": {"item":"minecraft:honeycomb"},
+    "C": {"item":"supplementaries:timber_frame"},
+    "D": {"item":"nyagibits_bytes:sample_1_4_dimethoxybenzene"}
+  },
+  "pattern": [
+    "AAA",
+    "BCD",
+    "AAA"
+  ],
+  "result": {
+    "count": 16,
+    "item": "minecraft:beehive"
+  }
+}

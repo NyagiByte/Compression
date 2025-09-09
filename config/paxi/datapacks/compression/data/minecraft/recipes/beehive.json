@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"tag":"minecraft:planks"},
+    "B": {"item":"minecraft:honeycomb"},
+    "C": {"item":"supplementaries:timber_frame"}
+  },
+  "pattern": [
+    "AAA",
+    "BCB",
+    "AAA"
+  ],
+  "result": {
+    "item": "minecraft:beehive"
+  }
+}

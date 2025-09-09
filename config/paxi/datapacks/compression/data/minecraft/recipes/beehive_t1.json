@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"immersiveengineering:treated_wood_packaged"},
+    "B": {"item":"minecraft:honeycomb"},
+    "C": {"item":"supplementaries:timber_frame"}
+  },
+  "pattern": [
+    "AAA",
+    "BCB",
+    "AAA"
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:beehive"
+  }
+}
