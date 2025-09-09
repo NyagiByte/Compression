@@ -1,0 +1,31 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"secondaryFluidInput": 0,
+	"ingredients": [
+		{
+			"fluid": "chemlib:carbon_dioxide_fluid",
+			"amount": 1000
+		},
+		{
+			"fluid": "nyagibits_bytes:chc_68_fluid",
+			"amount": 125
+		},
+		{
+			"fluid": "nyagibits_bytes:anhydrous_toluene_fluid",
+			"amount": 125
+		},
+		{
+			"item": "nyagibits_bytes:1_4_dimethoxybenzene_dust"
+		},
+		{
+			"item": "chemlib:sodium_plate"
+		}
+	],
+	"results": [
+		{
+			"amount": 1000,
+			"fluid": "nyagibits_bytes:mixed_pre_dimethoxybenzoic_acid_product_fluid"
+		}
+	],
+	"processingTime": 200
+}

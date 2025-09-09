@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "chemlib:sodium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "chemlib:sodium_plate"
+    }
+  ]
+}

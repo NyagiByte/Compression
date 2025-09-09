@@ -1,0 +1,25 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"secondaryFluidInput": 0,
+	"ingredients": [
+		{
+			"fluid": "chemlib:chlorine_fluid",
+			"amount": 250
+		},
+		{
+			"fluid": "nyagibits_bytes:bromooctane_fluid",
+			"amount": 250
+		}
+	],
+	"results": [
+		{
+			"amount": 250,
+			"fluid": "nyagibits_bytes:chlorooctane_fluid"
+		},
+		{
+			"amount": 249,
+			"fluid": "chemlib:bromine_fluid"
+		}
+	],
+	"processingTime": 200
+}

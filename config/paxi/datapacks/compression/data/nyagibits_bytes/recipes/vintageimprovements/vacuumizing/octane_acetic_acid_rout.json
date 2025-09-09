@@ -1,0 +1,38 @@
+{
+	"type":"vintageimprovements:vacuumizing",
+    "heatRequirement": "heated",
+	"secondaryFluidOutput": 0,
+	"ingredients": [
+		{
+			"fluid": "minecraft:water",
+			"amount": 500
+		},
+		{
+			"fluid": "chemlib:acetic_acid_fluid",
+			"amount": 500
+		},
+		{
+			"count": 1,
+			"item": "chemlib:sodium_plate"
+		}
+	],
+	"results": [
+		{
+			"fluid": "chemlib:hydrogen_fluid",
+			"amount": 250
+		},
+		{
+			"count": 8,
+			"item": "chemlib:sodium_hydroxide"
+		},
+		{
+			"fluid": "chemlib:carbon_dioxide_fluid",
+			"amount": 500
+		},
+		{
+			"fluid": "nyagibits_bytes:octane_fluid",
+			"amount": 250
+		}
+	],
+	"processingTime": 200
+}

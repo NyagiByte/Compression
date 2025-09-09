@@ -1,0 +1,21 @@
+{
+	"type":"vintageimprovements:pressurizing",
+    "heatRequirement": "superheated",
+	"ingredients": [
+		{
+			"fluid": "nyagibits_bytes:octane_fluid",
+			"amount": 250
+		},
+		{
+			"fluid": "chemlib:bromine_fluid",
+			"amount": 250
+		}
+	],
+	"results": [
+		{
+			"amount": 250,
+			"fluid": "nyagibits_bytes:bromooctane_fluid"
+		}
+	],
+	"processingTime": 200
+}

@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "amount": 500,
+        "fluid": "nyagibits_bytes:chloropropane_fluid"
+      },
+      {
+        "amount": 500,
+        "fluid": "nyagibits_bytes:chlorooctane_fluid"
+      }
+    ],
+    "results": [
+      {
+        "amount": 1000,
+        "fluid": "nyagibits_bytes:chc_68_fluid"
+      }
+    ]
+  }

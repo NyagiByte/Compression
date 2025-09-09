@@ -1,0 +1,28 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"ingredients": [
+		{
+			"fluid": "nyagibits_bytes:mixed_pre_dimethoxybenzoic_acid_product_fluid",
+			"amount": 1000
+		},
+		{
+			"fluid": "chemlib:hydrochloric_acid_fluid",
+			"amount": 50
+		},
+		{
+			"fluid": "nuclearcraft:methanol",
+			"amount": 50
+		}
+	],
+	"results": [
+		{
+			"amount": 1000,
+			"fluid": "nyagibits_bytes:mixed_dimethoxybenzoic_acid_product_fluid"
+		},
+		{
+			"count": 8,
+			"item": "chemlib:sodium_hydroxide"
+		}
+	],
+	"processingTime": 200
+}
