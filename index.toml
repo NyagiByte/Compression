@@ -6193,6 +6193,10 @@ file = "config/paxi/datapacks/compression/data/forge/tags/fluids/propane.json"
 hash = "5a8e28c8cabf700f17a781269278d7fdaa97ababfe743fb19b8c550bcae69f0c"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/forge/tags/fluids/pyroligneous_acid.json"
+hash = "5be9a49bc4a76a699295d8dad1dd21d82ad1cdec6b8ac8968309e1f6dee5ecfa"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/forge/tags/fluids/raw_wood_vinegar.json"
 hash = "dca71e136ed5a6d5e5415c304ae6bf4bc3d656974c3e2044867aecc6ac94a0b5"
 
@@ -8462,7 +8466,7 @@ hash = "3ea8ff7bc54363efa73352e070481f4cd3e170cf0f46157b5f2f6e0e7c5ffe70"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/distillationtower/mixed_product_to_003.json"
-hash = "b64d00542f6315dab0f0f9d6b393000054096e010361d17a4f2a76e59c510549"
+hash = "7a58c64b7dd7fe1d462bc49ffd78b216a2daf159c6cb50da21651d1fa3b8cd97"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/distillationtower/oil.json"
@@ -8478,7 +8482,7 @@ hash = "ae4b6272c8b94be8281159f11ce00fc1ffe3d014cc9ec306004f99670b352ee5"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/distillationtower/pyroligneous_acid.json"
-hash = "50a405a56a908cc6407b67bd9cd40bb5444bafa11e2c7cde0fa04aab0fcae803"
+hash = "d824e2aeed5be0ddf36484ff61643beb3bf90845ec9cd1e51187dd9c7b124263"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersivepetroleum/recipes/distillationtower/raw_wood_vinegar.json"
@@ -13234,7 +13238,7 @@ hash = "007e71b8367439f41231098bd0e72b5cb4bd1b87fd870cfbd909105ce30992c9"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/bubbled_pre_peroxide_fluid.json"
-hash = "5a8e5f456005c9c64fdf7bd18bcfb940933fab2e7e6381e4434d39638eb069d0"
+hash = "d8cbcfb9ed65f8dc9bd11215d166468650fbc104b7d5f7a68eab1d3aa69f1b14"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/carbon_monoxide_removal.json"
@@ -15946,7 +15950,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "7b2428debbd7e91bf82bbd169909e5260129ad914c874a27d5f1dc273f0fca1c"
+hash = "1c47c8ca56106bfcabe9e9a0bfc71870b515e14987a8d65e5bb5a0e877b862f1"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
