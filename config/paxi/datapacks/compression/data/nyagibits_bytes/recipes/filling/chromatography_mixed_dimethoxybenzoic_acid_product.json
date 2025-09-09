@@ -1,0 +1,25 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:chromatography_kit"
+      },
+      {
+        "amount": 1000,
+        "fluid": "nyagibits_bytes:mixed_dimethoxybenzoic_acid_product_fluid",
+        "nbt": {}
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:chromatography_kit_used"
+      },
+      {
+        "count": 3,
+        "item": "nyagibits_bytes:2_5_dimethoxybenzoic_acid_strip"
+      },
+      {
+        "item": "nyagibits_bytes:2_5_dimethoxy_1_4_benzenedicarboxylic_acid_strip"
+      }
+    ]
+  }

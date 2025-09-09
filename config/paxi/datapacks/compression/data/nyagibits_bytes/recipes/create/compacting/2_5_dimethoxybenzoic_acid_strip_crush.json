@@ -1,0 +1,14 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:2_5_dimethoxybenzoic_acid_strip"
+      }
+    ],
+    "results": [
+      {
+        "amount": 250,
+        "fluid": "nyagibits_bytes:impure_2_5_dimethoxybenzoic_acid_fluid"
+      }
+    ]
+  }

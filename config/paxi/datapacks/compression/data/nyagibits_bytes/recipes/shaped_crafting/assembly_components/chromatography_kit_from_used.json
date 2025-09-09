@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "A": {"item":"nyagibits_bytes:chromatography_kit_used"},
+      "B": {"item":"minecraft:paper"},
+      "C": {"item":"nyagibits_bytes:bottle_of_vinegar"}
+    },
+    "pattern": [
+      "B",
+      "C",
+      "A"
+    ],
+    "result": {
+        "item": "nyagibits_bytes:chromatography_kit"
+    }
+  }
