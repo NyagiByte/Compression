@@ -8661,6 +8661,18 @@ file = "config/paxi/datapacks/compression/data/minecraft/recipes/beacon.json"
 hash = "c95278eea2a784fabf8828bbb82f6ff539fce1cf0a6df0cea56d86af61a59bc9"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/beehive.json"
+hash = "232592c9e76de030215685c18240befe5c8a51ca4162838a5c8a63417983eabf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/beehive_t1.json"
+hash = "7e4c22743a466ed3385d39097a8070b3eb1594d2935d171434ac224985974a46"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/minecraft/recipes/beehive_t2.json"
+hash = "6e1e470be0f2c9404bf47e4228d9b4b794b6743be03d47a5b58aeb5941f604fb"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/minecraft/recipes/black_concrete_powder.json"
 hash = "06e99cc03b2e87cfe92503c6aa569057ca555c9d1be497c3e46d3607f0bacca8"
 
@@ -9101,6 +9113,14 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/botania/r
 hash = "ca1051c43dc4a90ee205d3e94d02f71c7128b9d227c2ed895d99d66efdfda6c4"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/2_5_dimethoxy_1_4_benzenedicarboxylic_acid_strip_crush.json"
+hash = "04f058c6a892950ee439a390c4f5267e256c30ec936c1e9becdced70edba8314"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/2_5_dimethoxybenzoic_acid_strip_crush.json"
+hash = "2c0d224064a0dc3422cae5e478d00d3157a2ab11c39571514a12be90dc56e90e"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/agar_gel.json"
 hash = "6b2098486bc41347820b99b029af86b09635ac6b42fb88a32ae11bc6280010ad"
 
@@ -9497,6 +9517,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "8431d27d3a3b7a01ad713a6b84a5de72a9688f4b0e394bbbfb3e66b1ce842f05"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/anhydrous_toluene.json"
+hash = "481ed8cddb0ece42190a6f850e969ed4ff9a353595181c5daba49c10a3e51e4a"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/anthocyanin.json"
 hash = "658109a26de358f6aebcc24fcb9298a6205bae9b8ccbb2f45ea5407369d8462e"
 
@@ -9575,6 +9599,10 @@ hash = "a363cace0681515a6cb0eecd1256997907af74c09e7db432e045d9712a82573a"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/cast_iron_ingot.json"
 hash = "3a897fa45219d70c72636bcc0eef1e383c463d0bd866928b0111e426c06f50a9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/chc-38.json"
+hash = "c23668eed997c2c9e2ac5fc4e2003e253b1b1a05da839618455729eeed775cb1"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/chitin_dust_0.json"
@@ -10193,6 +10221,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pr
 hash = "bafeda8ab99ee0ba574954fdcd01acb61c2b0cba65689080063f378b9428fbb0"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pressing/sodium_plate_chemlib.json"
+hash = "fe72ebbac0f925cc44c888d5ba78ad57e56063c9c2ae454872690f753894fc7a"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/pressing/tin_plate_chemlib.json"
 hash = "ebfe7cf02e1cfa36c1099daf0690bab076645b9271cab6b456e197b17c9f56a1"
 
@@ -10379,6 +10411,10 @@ hash = "92b10162b3007faf4f5450830954237d153686bef77c21ed135e0cc3488a2fea"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/filling/anthocyanin.json"
 hash = "55be4204280d10cbcab421996e72a1b2e1ab33741daf05777c1c263f98befd0d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/filling/chromatography_mixed_dimethoxybenzoic_acid_product.json"
+hash = "7af32d9ae78a415934168c62be9b2ce2acc27fd6cf34cef26ace3c98510a1f1a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/filling/ink_congealing.json"
@@ -12825,6 +12861,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_cr
 hash = "3e8bf41b28ce6d91aa476aa300849a61022f766363313b3259a22b1b0df43ae7"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assembly_components/chromatography_kit_from_used.json"
+hash = "41d0dce9ad954dc5b7b876d783fdc8d5e1dc60b82fbb587a0bef4194e50b0347"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/shaped_crafting/assembly_components/desiccation_powder.json"
 hash = "ff6a48ca0f63a6e1630ace0f32dc876650aade37f8a5ac2357245dc3636560b5"
 
@@ -13237,12 +13277,24 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageim
 hash = "007e71b8367439f41231098bd0e72b5cb4bd1b87fd870cfbd909105ce30992c9"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/bromooctane.json"
+hash = "4e020b1166e3aa6c079f1c6a706a796db55667902ce4beed08c36057701e26d8"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/bubbled_pre_peroxide_fluid.json"
 hash = "d8cbcfb9ed65f8dc9bd11215d166468650fbc104b7d5f7a68eab1d3aa69f1b14"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/carbon_monoxide_removal.json"
 hash = "402bde1499d732fb0da4d2d279b1787d08363ba40860f345f62b230c9c3732b5"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/chlorooctane.json"
+hash = "c15af36eccffefeacd1c1f3193111e940c02989975faec7a73c4c1a3a369d69b"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/chloropropane.json"
+hash = "cf6ba7bb05de2e23c8ad76a454c03b7b67ba3d41350677f793f16c340bf53dd8"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/deactivated_entropic_mush.json"
@@ -13289,6 +13341,14 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageim
 hash = "e8aeecfd3972db5c79e8e64787b0ece5fa523765ead491ae10594a3f1e97be82"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/mixed_dimethoxybenzoic_acid_product_fluid.json"
+hash = "65debfa7b6ee9c8be3f2e1ad54e732c4d840b0f1709942a58aca46d4d0330f79"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/mixed_pre_dimethoxybenzoic_acid_product_fluid.json"
+hash = "34d3edc0aab751bd70a71143c9d8e51df37d6535aa1626ed86e8c821a0517f2a"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/molybdenum_disulfide_dust.json"
 hash = "cfffd3d075a679c65a878b49bcb83f28f7853379973ae8bb1c6d84c1d765c7f6"
 
@@ -13333,6 +13393,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageim
 hash = "8d16939f6d0ce182bb97fff7d5f82c89298aff0d93c27a776ec79617f4e8f11c"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/toluene_bulk.json"
+hash = "012f8cfc039cee15858634d62fd29a6fa81619362d60615d2cd0e254eaa576aa"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/used_mana_bomb_calorimeter.json"
 hash = "034dc34762e666d96725b5c37d0d0f44d4dd71c59f39d7151cc36fd5296d80c2"
 
@@ -13363,6 +13427,10 @@ hash = "efd4e500821e5e11394696ae7b02a38d6a7fc9dae69552323ee963ff0f745f3c"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/hydrogen_iodide.json"
 hash = "6319e8430ce57544a658645b42a2d8aaf0eb23d5458578046a106fe5edeb7ad9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/octane_acetic_acid_rout.json"
+hash = "0a2e6e7f083316be46a9d0a8f184131a473bd895438affdaefd2893dbeee2e33"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/peroxide_015_to_032_bad.json"
