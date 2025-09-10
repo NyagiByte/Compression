@@ -3914,7 +3914,7 @@ hash = "9e43d5e45b8f0aa1607731da898803c5fb457d81aff98cb43278439ae3e3831a"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/air.json"
-hash = "74e68fea90c780c6e06fa4306a688fefb69d486ad06cc65fdabfa1f26287a3df"
+hash = "b56bc0144191473a0392a189c7672c54acbecd5e7b229760794c72a765dcae4b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/runic_altar/catalytic.json"
@@ -13406,7 +13406,7 @@ hash = "1d6332803753dbda3b22b74a931e4b50a01e99f77cf12e2579488351368ee139"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/1_4_dimethoxybenzene.json"
-hash = "336873724a3ecf199c4ea4f4606ac2a4d7a64056fcb1ca878d0cd0abbfad8556"
+hash = "e938b3464d081ac3b0e1248e0ddc5efb809b04ae4dacba8a8a31b8428426e053"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/acetic_acid_distillation.json"
