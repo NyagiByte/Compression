@@ -8,7 +8,7 @@
       "item": "nyagibits_bytes:rune_blank"
     },
     {
-      "item": "pneumaticcraft:compressed_iron_block"
+      "item": "nyagibits_bytes:fume_fan"
     },
     {
       "item": "create:windmill_bearing"
@@ -23,7 +23,7 @@
       "item": "ae2:light_blue_lumen_paint_ball"
     },
     {
-      "item": "create:steam_engine"
+      "item": "create:copper_backtank"
     }
   ],
   "mana": 5200,
