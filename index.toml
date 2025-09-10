@@ -374,7 +374,7 @@ hash = "93fb445ea5f9059a5831de8b3795f7a6f2b10093387fd61102f4c1acc3542154"
 
 [[files]]
 file = "config/compressed_create_recipes-common.toml"
-hash = "b13e02a527636c1905b4e19cf6505bdb55362500d096a6cd01c661d033331362"
+hash = "2098aaa871245b5fea64eb6cdf6a7d42dc3fb8bf7850ce48c97db3f5f6e1ab31"
 
 [[files]]
 file = "config/compressedbotanics-common.toml"
@@ -17574,7 +17574,7 @@ metafile = true
 
 [[files]]
 file = "mods/compressed-create-recipes.pw.toml"
-hash = "13b92385beb34e0b7f33f26d49dcd1dd3dedf1b4d567cc7b53eea4217794f0ae"
+hash = "6d8da732a3c465aa7ad2bc8b7e9f223ea7c39bd0df59dc17fa236fce0bd76733"
 metafile = true
 
 [[files]]

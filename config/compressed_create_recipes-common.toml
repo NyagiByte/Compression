@@ -6,6 +6,9 @@
 	#Duration of the sandpaper polishing animation in ticks. Lower values mean you polish faster. (Default: 32)
 	#Range: > 1
 	"Sandpaper Speed" = 8
+	#Duration of the red sandpaper polishing animation in ticks. Lower values mean you polish faster. (Default: 32)
+	#Range: > 1
+	"Red Sandpaper Speed" = 6
 	#The radius in which items rising from the void will search for an available spot. Low values might get the item stuck under bedrock. High values might cause performance issues. (Default: 20)
 	#Range: 1 ~ 100
 	"Un-Voiding Radius" = 20
