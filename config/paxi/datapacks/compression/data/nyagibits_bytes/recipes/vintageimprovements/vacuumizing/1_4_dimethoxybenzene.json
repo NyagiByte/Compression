@@ -147,6 +147,15 @@
 			"item": "nyagibits_bytes:aluminum_trichloride_dust"
 		},
 		{
+            "chance": 0.40,
+			"count": 1,
+			"item": "chemlib:iodine"
+		},
+		{
+            "count": 32,
+			"item": "chemlib:potassium_hydroxide_dust"
+		},
+		{
             "chance": 0.5,
 			"item": "chemlib:sodium_sulfate_dust"
 		}
