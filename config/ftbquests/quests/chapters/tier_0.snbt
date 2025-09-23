@@ -1029,6 +1029,11 @@
 			description: [
 				"&cI wonder if sentient rocks feel pain when you break them"
 				""
+				"&c--------->&r &6IMPORTANT &c<---------&r"
+				"&c--------->&r &6IMPORTANT &c<---------&r"
+				"&c--------->&r &6IMPORTANT &c<---------&r"
+				"&aPETAL INPUTS ARE&r &dFORGE TAGGED&r, &bANY PETALS ACCEPTED&r"
+				""
 				"The Pure Daisy has a ponder! Hold [w] on the item to see how it functions!"
 				""
 				"&aYou will know it is working when you see particles appear on the block"
@@ -1040,27 +1045,11 @@
 				item: "nyagibits_bytes:tier_zero_strawberry"
 				type: "item"
 			}]
-			tasks: [
-				{
-					id: "6B74476D0F789202"
-					item: "botania:pure_daisy"
-					type: "item"
-				}
-				{
-					id: "462D3378FD8A4303"
-					item: {
-						Count: 1b
-						id: "botania:water_bowl"
-						tag: {
-							Fluid: {
-								Amount: 1000
-								FluidName: "minecraft:water"
-							}
-						}
-					}
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "6B74476D0F789202"
+				item: "botania:pure_daisy"
+				type: "item"
+			}]
 			title: "Pretty Flowa"
 			x: 0.5d
 			y: -7.5d
@@ -1130,11 +1119,27 @@
 			}]
 			shape: "hexagon"
 			size: 2.0d
-			tasks: [{
-				id: "4F4F280C54A38131"
-				item: "botania:apothecary_default"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "4F4F280C54A38131"
+					item: "botania:apothecary_default"
+					type: "item"
+				}
+				{
+					id: "023CD1E46933C826"
+					item: {
+						Count: 1b
+						id: "botania:water_bowl"
+						tag: {
+							Fluid: {
+								Amount: 1000
+								FluidName: "minecraft:water"
+							}
+						}
+					}
+					type: "item"
+				}
+			]
 			title: "&dThe Start"
 			x: 0.5051020408163183d
 			y: -9.1812925170068d

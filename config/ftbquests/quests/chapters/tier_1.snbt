@@ -318,6 +318,7 @@
 				"28B78F18CDBAEB65"
 				"2749DE946E0BF9CB"
 			]
+			dependency_requirement: "one_completed"
 			description: ["Sadly the generic coal and lower quality coals do not produce sufficiently useful coke needed for steel production. As a result better coals are needed"]
 			icon: "nyagibits_bytes:industrial_grade_coke"
 			id: "7457EE5BA59A0BDB"
@@ -2634,23 +2635,50 @@
 		{
 			dependencies: ["66DDC75CB8C3D557"]
 			description: [
-				"You need manganese to make certain specialized steel variants."
+				"You need &bmanganese&r to make certain specialized steel variants."
 				""
 				"But the \"simple\" route needs specific machinery, which requires said steel variants."
 				""
 				"&cThere must be another way..."
+				""
+				"&cThrough a chain of chemistry, purification of what I have, this will be a trial"
+				""
+				"&cThrough this trial, may the factory feed from it and &4flourish&r"
 			]
+			icon: "chemlib:manganese_dust"
 			id: "3B8EFB77D5F4D3B7"
 			rewards: [{
 				id: "40125027FF590840"
 				item: "nyagibits_bytes:tier_one_strawberry"
 				type: "item"
 			}]
-			tasks: [{
-				id: "54FD3C5F0B67F273"
-				item: "chemlib:manganese"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "6076043433EBFF58"
+					item: "nyagibits_bytes:sample_hydrogen_peroxide_075"
+					type: "item"
+				}
+				{
+					id: "27FB73650FE0E8D5"
+					item: "nyagibits_bytes:sample_hydroquinone"
+					type: "item"
+				}
+				{
+					id: "3E517DEA9FA4538E"
+					item: "nyagibits_bytes:sample_1_4_dimethoxybenzene"
+					type: "item"
+				}
+				{
+					id: "7DC38925B32F0ECF"
+					item: "nyagibits_bytes:sample_2_5_dimethoxybenzoic_acid_solution"
+					type: "item"
+				}
+				{
+					id: "524BD08378D67B8C"
+					item: "chemlib:manganese"
+					type: "item"
+				}
+			]
 			title: "Suspiciously Foreboding"
 			x: 1.0d
 			y: 1.5d
