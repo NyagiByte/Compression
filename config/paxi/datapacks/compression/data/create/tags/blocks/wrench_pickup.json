@@ -1,0 +1,31 @@
+{
+  "values":
+  [
+    "minecraft:redstone_lamp",
+    "minecraft:dispenser",
+    "minecraft:dropper",
+    "minecraft:lightning_rod",
+    "minecraft:slime_block",
+    "minecraft:honey_block",
+    "supplementaries:cog_block",
+    "supplementaries:turn_table",
+    "supplementaries:relayer",
+    "supplementaries:spring_launcher",
+    "supplementaries:speaker_block",
+    "supplementaries:redstone_illuminator",
+    "supplementaries:lock_block",
+    "supplementaries:bellows",
+    "supplememtaries:clock_block",
+    "supplementaries:crystal_display",
+    "supplementaries:sconce_lever",
+    "supplementaries:crank",
+    "supplementaries:faucet",
+    "quark:obsidian_pressure_plate",
+    "quark:ender_watcher",
+    "quark:redstone_randomizer",
+    "quark:ender_eye_block",
+    "#quark:crystal_lamp",
+    "pneumaticcraft:omnidirectional_hopper",
+    "pneumaticcraft:liquid_hopper"
+  ]
+}
