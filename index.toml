@@ -5625,6 +5625,10 @@ file = "config/paxi/datapacks/compression/data/create/tags/blocks/tree_attachmen
 hash = "f939d6848603ae468635b7aa3d0aad9ef8296c7d89a97be9c2a5b1e67d956495"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/create/tags/blocks/wrench_pickup.json"
+hash = "666d610dc04a07a6c4b0aa0f7df9a9f268e6743ebe81c5630157685be2fe9e15"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/createchunkloading/recipes/mechanical_crafting/chunk_loader.json"
 hash = "1e742593b9871e9d7abbf68a43ba21b424db435d2d31127309ca09c0c1cff621"
 
@@ -8559,6 +8563,14 @@ hash = "107a07a2442237575ddcf3e6fdc2c1ef466ad731f8776a7a1634c020e6b0339c"
 [[files]]
 file = "config/paxi/datapacks/compression/data/immersivepetroleum/structures/multiblocks/pumpjack.nbt"
 hash = "b177185e70539096322232df4ac5bb617600e86e5adf58314f878cce1b1c329d"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/lychee/recipes/recrystallization/2_5_dimethoxy_1_4_benzenedicarboxylic_acid_crystallization.json"
+hash = "ccf830585d3f55cfec5494ff6718d0a412c5d98b2fcdac28f1f7e14291fe5d91"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/lychee/recipes/recrystallization/2_5_dimethoxybenzoic_acid_crystallization.json"
+hash = "664c6e2909cd32c38dec077fb5ff8d1647b6c26d67cd31e7f67790c001a64501"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/measurements/recipes/tape_measure.json"
@@ -18039,7 +18051,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "1bc4367580316233101cd7965d3c0dcaa3be145fcf0ef3bb6aa0017464db682e"
+hash = "f57b3722d8e20d1d1dfcd682c30bf7bd14fdb3ed0c5faf17b01ee5d65e83b9ba"
 
 [[files]]
 file = "mods/oculus.pw.toml"
