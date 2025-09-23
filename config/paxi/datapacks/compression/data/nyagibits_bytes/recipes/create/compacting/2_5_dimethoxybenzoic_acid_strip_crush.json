@@ -3,6 +3,10 @@
     "ingredients": [
       {
         "item": "nyagibits_bytes:2_5_dimethoxybenzoic_acid_strip"
+      },
+      {
+        "amount": 250,
+        "fluid": "nyagibits_bytes:octane_fluid"
       }
     ],
     "results": [
