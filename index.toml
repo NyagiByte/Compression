@@ -758,11 +758,11 @@ hash = "3ed7a779df05e40a06f1f8d8cc1a389c97a5eae160d79385b8ca04dbd37e6be0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_0.snbt"
-hash = "90c3ed6264951dacc2aa04742745ebaaedc6e9babd099032b8f764809266365b"
+hash = "ff011a85af09e128596ba0582016cc6d3a28ab49babd77a50ffa20a173d1c373"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "aa02682c23dd76052450b242362285eebf81cfa93baf66218c1884afccbf092f"
+hash = "42e43e65ef193ba97801e117dfaa25cea34bfdfeb626d5a6738ce1cc64f27899"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -9126,11 +9126,11 @@ hash = "ca1051c43dc4a90ee205d3e94d02f71c7128b9d227c2ed895d99d66efdfda6c4"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/2_5_dimethoxy_1_4_benzenedicarboxylic_acid_strip_crush.json"
-hash = "04f058c6a892950ee439a390c4f5267e256c30ec936c1e9becdced70edba8314"
+hash = "64124b032e984327cf614655ff161984fc030f0c9076d49e5214f71ed41cc8b0"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/2_5_dimethoxybenzoic_acid_strip_crush.json"
-hash = "2c0d224064a0dc3422cae5e478d00d3157a2ab11c39571514a12be90dc56e90e"
+hash = "9cdac6c3e8baade3243db2dd4c49e11e3a2d0d9860f32dae9094f7f90e8f5199"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/compacting/agar_gel.json"
@@ -15573,6 +15573,22 @@ file = "config/paxi/datapacks/compression/data/thermal/recipes/smelting/tin_ingo
 hash = "f1e6380b27f0c8a7b2719163235dbf7e035f5d12d1e0ee4141a209e08cc09a48"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/torchmaster/recipes/dreadlamp.json"
+hash = "2ee1e3a97a955c42290cb7897b7bef53b715d025cc5e9a0bb7aa82b0e36134c0"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/torchmaster/recipes/dreadlamp_t1.json"
+hash = "6e3c313c25c1ef316cd5e4324161aff6b96ab67a6897bf205d052746c026ae54"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/torchmaster/recipes/megatorch.json"
+hash = "d586162f52d3bcc3ca8a92eacfcf56d4555ac8d6572e0ea70e7ade01f8ef262a"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/torchmaster/recipes/megatorch_t1.json"
+hash = "88b776f2a8166ef089c1042f04ea3da48122b8973e2a0f4fdc858f67b69a9bb8"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/paraglider_netherite.json"
 hash = "f0724bca9022cfe0db127f08587aac574b134bc1ae0047f5847d53a84470477f"
 
@@ -16030,7 +16046,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "1c47c8ca56106bfcabe9e9a0bfc71870b515e14987a8d65e5bb5a0e877b862f1"
+hash = "8e8982d67e5cb7f8e0bc14487f775bef33216598f0ac87b8d7f25f9692a0eaf1"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -16938,7 +16954,7 @@ hash = "340158fac65a9396bd9024f487c07ebec1e3629370483089a25ca0f9e2a64a50"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"
-hash = "f1af5780b0ea2f3b0b51552e2b7b9385689eb033c8d98dc56bb2f243158f7681"
+hash = "e6d15e6d845b4bf21664b15e76bae891d1b600aefa728751a784127204d24f62"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
