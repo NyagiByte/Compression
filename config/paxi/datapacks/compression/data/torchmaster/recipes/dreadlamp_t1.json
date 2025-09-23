@@ -1,0 +1,24 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "quark:framed_glass"
+      },
+      {
+        "item": "farmersdelight:rotten_tomato"
+      },
+      {
+        "item": "nyagibits_bytes:raw_hardened_sulfide_flow"
+      },
+      {
+        "item": "nyagibits_bytes:sample_formaldehyde"
+      }
+    ],
+    "output": {
+      "count": 4,
+      "item": "torchmaster:dreadlamp"
+    },
+    "reagent": {
+      "item": "minecraft:obsidian"
+    }
+  }

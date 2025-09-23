@@ -1728,6 +1728,9 @@
 		{"namespace": "vc_gliders", "path": "recipes/gold_glider_nether_upgrade.json"},
 		{"namespace": "vc_gliders", "path": "recipes/diamond_glider_nether_upgrade.json"},
 
+		{"namespace": "torchmaster", "path": "recipes/frozen_pearl.json"},
+		{"namespace": "torchmaster", "path": "recipes/feral_flare_lantern.json"},
+
 
 
 		{"namespace": "byg", "path": "recipes/white_puffball_stew.json"},

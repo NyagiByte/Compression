@@ -588,6 +588,9 @@ JEIEvents.hideItems(event => {
     'vc_gliders:paraglider_diamond',
     'vc_gliders:reinforced_paper_iron',
     'vc_gliders:reinforced_paper_gold',
-    'vc_gliders:reinforced_paper_diamond'
+    'vc_gliders:reinforced_paper_diamond',
+    //Torchmaster,
+    'torchmaster:feral_flare_lantern',
+    'torchmaster:frozen_pearl'
   ])
 })

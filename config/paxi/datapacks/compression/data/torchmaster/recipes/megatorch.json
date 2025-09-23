@@ -1,0 +1,23 @@
+{
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "item": "botania:glimmering_livingwood_log"
+      },
+      {
+        "item": "minecraft:lantern"
+      },
+      {
+        "item": "chemlib:gold_plate"
+      },
+      {
+        "item": "chemlib:gold_plate"
+      }
+    ],
+    "output": {
+      "item": "torchmaster:megatorch"
+    },
+    "reagent": {
+      "item": "chemlib:magnesium_plate"
+    }
+  }
