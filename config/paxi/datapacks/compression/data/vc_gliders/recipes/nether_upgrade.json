@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"immersiveengineering:plate_steel"},
+    "B": {"item":"vintageimprovements:steel_rod"}
+  },
+  "pattern": [
+    " A ",
+    "A A",
+    " B "
+  ],
+  "result": {
+    "count": 1,
+    "item": "vc_gliders:nether_upgrade"
+  }
+}
