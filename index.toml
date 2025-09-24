@@ -9489,6 +9489,46 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "4d900144ae019d2277078daea1f4500b23b9497940f16585d2b0519bc57a2361"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/2_5_dimeth_1_4benz_distilled.json"
+hash = "472bea82bcf1fd2a44498b77faeb6b6f5fd853251cf1a237d650a2c1bccffd99"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/2_5_dimeth_1_4benz_type1.json"
+hash = "8a8b51f16ecdf21d89dcd6d70b4afadfae6808cbedf99b55d597fc3f76da5c01"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/2_5_dimeth_1_4benz_type2.json"
+hash = "eac3c5cf42398f66459d12d6bb136c8b6c4605e3ae25c543ec349d20c7af16c6"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/2_5_dimeth_1_4benz_type3.json"
+hash = "500327520cd92340fa55c97987af5ccf499d7c019eb5113676e250bee169ab60"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/2_5_dimeth_1_4benz_water.json"
+hash = "53ec0e53c2d3320891dac06c5d7e26cf3857918d54cc0ad7ddd14e914ee8b7dc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/2_5_dimeth_distilled.json"
+hash = "3614648a312b13b198ca7de63d29f100475e6c869b0064bc53bc89b5f624b4aa"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/2_5_dimeth_type1.json"
+hash = "90a924db3ae6c11bc9b73fbd94018ca836a4049b2ceb820729e00e75f44a7042"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/2_5_dimeth_type2.json"
+hash = "22e61fe01f31f5860954e61665173d033d3f8a2cf5d3794d697dc6b972c622cf"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/2_5_dimeth_type3.json"
+hash = "7151319e387fbb4c9aa993fc606056e8d55778285010393c04ace27f565f3a97"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/2_5_dimeth_water.json"
+hash = "faffc872e12ed3ef5e3bac597cacb8abcbda6c67458a0697df0ca83f4fbd3f39"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/2_phenoxyethanol.json"
 hash = "1f7d7f478cfb545a5af2342db0de15295d75a23370b1d5d247169387a4b02990"
 
@@ -15589,6 +15629,14 @@ file = "config/paxi/datapacks/compression/data/torchmaster/recipes/megatorch_t1.
 hash = "88b776f2a8166ef089c1042f04ea3da48122b8973e2a0f4fdc858f67b69a9bb8"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/copper_upgrade.json"
+hash = "efc335e5d93e336a9a1d4c2a313b865424ec28145619f56e865a105925174061"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/nether_upgrade.json"
+hash = "38934ed3505aebb9f0f31c9fe056da370d3b6edbf3c25fa865813778024a00cf"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/vc_gliders/recipes/paraglider_netherite.json"
 hash = "f0724bca9022cfe0db127f08587aac574b134bc1ae0047f5847d53a84470477f"
 
@@ -16046,7 +16094,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "8e8982d67e5cb7f8e0bc14487f775bef33216598f0ac87b8d7f25f9692a0eaf1"
+hash = "2cf689b07d665c162712528f4f121249c865ff85feda75e7ddd9cda2524a0014"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
@@ -16954,7 +17002,7 @@ hash = "340158fac65a9396bd9024f487c07ebec1e3629370483089a25ca0f9e2a64a50"
 
 [[files]]
 file = "kubejs/client_scripts/JEI_Removal/Removals.js"
-hash = "e6d15e6d845b4bf21664b15e76bae891d1b600aefa728751a784127204d24f62"
+hash = "bcde00cf485ac2a53b4e8929f3cf816ac8971cc670646516a117868dd60453f0"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/botania.js"
