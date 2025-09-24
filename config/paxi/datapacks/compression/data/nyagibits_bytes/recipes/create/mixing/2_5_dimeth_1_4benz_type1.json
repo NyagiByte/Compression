@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:2_5_dimethoxy_1_4_benzenedicarboxylic_acid_dust"
+      },
+      {
+        "amount": 16000,
+        "fluid": "nyagibits_bytes:type1_water_fluid"
+      }
+    ],
+    "results": [
+      {
+        "amount": 16000,
+        "fluid": "nyagibits_bytes:2_5_dimethoxy_1_4_benzenedicarboxylic_acid_solution_fluid"
+      }
+    ]
+  }
