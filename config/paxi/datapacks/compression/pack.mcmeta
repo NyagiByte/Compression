@@ -1731,6 +1731,23 @@
 		{"namespace": "torchmaster", "path": "recipes/frozen_pearl.json"},
 		{"namespace": "torchmaster", "path": "recipes/feral_flare_lantern.json"},
 
+		{"namespace": "thermal", "path": "recipes/storage/coal_coke_from_block.json"},
+		{"namespace": "thermal", "path": "recipes/storage/coal_coke_block.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/crafting/coal_coke_to_coke.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/crafting/coke_to_coal_coke.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/crafting/coke_to_slab.json"},
+		{"namespace": "immersiveengineering", "path": "recipes/crafting/coke_from_slab.json"},
+		{"namespace": "v_slab_compat", "path": "recipes/immersiveengineering/coke_vertical_slab.json"},
+		{"namespace": "v_slab_compat", "path": "recipes/immersiveengineering/coke.json"},
+		{"namespace": "v_slab_compat", "path": "recipes/immersiveengineering/coke_2.json"},
+		{"namespace": "v_slab_compat", "path": "recipes/immersiveengineering/coke_stonecutter.json"},
+		{"namespace": "immersivepetroleum", "path": "recipes/petcoke_items_to_block.json"},
+		{"namespace": "immersivepetroleum", "path": "recipes/petcoke_block_to_items.json"},
+		{"namespace": "immersivepetroleum", "path": "recipes/coking/petcoke.json"},
+		{"namespace": "immersivepetroleum", "path": "recipes/crusher/petcoke_block.json"},
+		{"namespace": "immersivepetroleum", "path": "recipes/crusher/petcoke.json"},
+		{"namespace": "immersivepetroleum", "path": "recipes/squeezer/graphite_dust.json"},
+
 
 
 		{"namespace": "byg", "path": "recipes/white_puffball_stew.json"},

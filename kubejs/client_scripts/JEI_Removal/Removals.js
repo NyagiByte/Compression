@@ -456,6 +456,13 @@ JEIEvents.hideItems(event => {
     'immersiveengineering:armor_steel_legs',
     'immersiveengineering:armor_steel_chest',
     'immersiveengineering:armor_steel_head',
+    'immersiveengineering:coke',
+    'immersiveengineering:coal_coke',
+    'immersiveengineering:slab_coke',
+    //Immersive Petroleum
+    'immersivepetroleum:petcoke_block',
+    'immersivepetroleum:petcoke',
+    'immersivepetroleum:petcoke_dust',
     //Quark
     'quark:pickarang',
     'quark:carrot_crate',
@@ -565,6 +572,8 @@ JEIEvents.hideItems(event => {
     'thermal:carrot_block',
     'thermal:potato_block',
     'thermal:sugar_cane_block',
+    'thermal:coal_coke_block',
+    'thermal:coal_coke',
     //Thermal Expansion Coins
     'thermal:iron_coin',
     'thermal:gold_coin',
@@ -589,8 +598,10 @@ JEIEvents.hideItems(event => {
     'vc_gliders:reinforced_paper_iron',
     'vc_gliders:reinforced_paper_gold',
     'vc_gliders:reinforced_paper_diamond',
-    //Torchmaster,
+    //Torchmaster
     'torchmaster:feral_flare_lantern',
-    'torchmaster:frozen_pearl'
+    'torchmaster:frozen_pearl',
+    //V-Slab
+    'v_slab_compat:immersiveengineering/coke_vertical_slab'
   ])
 })
