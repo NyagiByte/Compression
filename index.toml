@@ -13329,6 +13329,10 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageim
 hash = "007e71b8367439f41231098bd0e72b5cb4bd1b87fd870cfbd909105ce30992c9"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/activated_carbon.json"
+hash = "4adcc51cfb1058f89b2bb0eb3b6a535c99e4d7865f6ddf2e61a4d6d005d2abda"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/pressurizing/bromooctane.json"
 hash = "4e020b1166e3aa6c079f1c6a706a796db55667902ce4beed08c36057701e26d8"
 
@@ -13465,8 +13469,12 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageim
 hash = "3b46508228450724acac9da5344b9ee2daa6167c341ab274b9a95f560ea1d280"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/acetone.json"
+hash = "76dad2cbbc6344eb19d1cb1f92f8aaf89b1e6dd77d256736448b12752097af41"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/biodiesel_basic.json"
-hash = "3e538ddbd9c07048932b5796708c3eb5b56bddb43ed604c91a50c62819f2d9c4"
+hash = "e7cc8241b0e06afc33b5266620ab807d6dcff64599e305b9c61fa368c0627a02"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/hpa_4_dust.json"
@@ -13479,6 +13487,10 @@ hash = "efd4e500821e5e11394696ae7b02a38d6a7fc9dae69552323ee963ff0f745f3c"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/hydrogen_iodide.json"
 hash = "6319e8430ce57544a658645b42a2d8aaf0eb23d5458578046a106fe5edeb7ad9"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/methanol.json"
+hash = "f6ce459a3a56a1b88beafa95a07896e3f40f4390f3c46deb5ea7e95f4dddcf75"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/octane_acetic_acid_rout.json"
@@ -13495,6 +13507,10 @@ hash = "c9b6a09f061b9aaa9a4df5b6b12a21ea1cf2da5d02f81316c08c0ebd068d4dd9"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/peroxide_032_to_075.json"
 hash = "4404606b3d9da9931742db194eebea69a40a57917e67d786c3d3c3547d188168"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/steam.json"
+hash = "b963e6d3c579bb5e0b702f9f93b8b8b622f045a94f8247da16ee6441b565bbdd"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/vintageimprovements/vacuumizing/wet_hpa_4.json"
@@ -17018,7 +17034,7 @@ hash = "4d6af63cfec0d06dc2097b9c4ca76501a312f3d4ffcbe0876fba2e47da257fb4"
 
 [[files]]
 file = "kubejs/client_scripts/Ponder/minecraft.js"
-hash = "0fda6ace081efd0f1dcef6c5f535b5e7312259b23fa0e49956b64262a8ea7362"
+hash = "75065fd559449a620f6dc4e771d6008792b4175e2f022a8cf8e1fe16287ebe1f"
 
 [[files]]
 file = "kubejs/config/client.properties"
