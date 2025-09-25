@@ -1,11 +1,12 @@
 Ponder.tags((e) => {
 	e.createTag("compression:minecraft", "minecraft:crafting_table", "Minecraft Basics.", "The Basics of Basics!",
-	["minecraft:cobblestone", "minecraft:glass", "minecraft:stone", "minecraft:basalt", "minecraft:respawn_anchor",
+	["minecraft:cobblestone", "minecraft:glass", "minecraft:oak_log", "minecraft:stone", "minecraft:basalt", "minecraft:respawn_anchor",
 	]);
 });
 //------------------------------------------------------------------
 Ponder.registry((e) => {
 //------------------------------------------------------------------
+    //Jay's Silly Ponders
     //Glass
         e.create("minecraft:glass").scene("Glass", "Blasted Sand", (scene, util) => {
             scene.showBasePlate();
@@ -13,8 +14,20 @@ Ponder.registry((e) => {
             scene.world.setBlock([2,1,2], "minecraft:glass", false);
             scene.world.showSection([2,1,2], Facing.down);
             scene.idle(10);
-            scene.text(40, "You can see through this...", [2.5,1,2.5]);
+            scene.text(80, "You can see through this...", [2.5,1,2.5]);
             scene.idle(20);
+        });
+    //Logs
+        e.create("minecraft:oak_log").scene("Logs", "What did you expect?", (scene, util) => {
+            scene.showBasePlate();
+            scene.idle(5);
+            scene.world.setBlock([2,1,2], "minecraft:oak_log", false);
+            scene.world.showSection([2,1,2], Facing.down);
+            scene.idle(10);
+            scene.text(40, "Why did you ponder this?", [2.5,1,2.5]);
+            scene.idle(50);
+            scene.text(40, "Logs come from trees...", [2.5,1,2.5]);
+            scene.idle(40);
         });
 //------------------------------------------------------------------
 	//Cobblestone

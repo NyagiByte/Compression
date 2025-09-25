@@ -1,0 +1,18 @@
+{
+  "type":"vintageimprovements:vacuumizing",
+  "secondaryFluidOutput": 0,
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "fluid": "minecraft:water",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "fluid": "nuclearcraft:steam",
+      "amount": 500
+    }
+  ],
+  "processingTime": 400
+}

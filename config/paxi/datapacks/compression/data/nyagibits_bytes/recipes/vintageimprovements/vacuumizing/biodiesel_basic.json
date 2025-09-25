@@ -7,5 +7,6 @@
     "results": [
       {"fluid": "immersiveengineering:biodiesel", "amount": 1500},
       {"fluid": "minecraft:water", "amount": 250}
-    ]
+    ],
+  "processingTime": 200
 }

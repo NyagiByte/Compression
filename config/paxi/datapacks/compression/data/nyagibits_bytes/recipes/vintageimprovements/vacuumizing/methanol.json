@@ -1,0 +1,28 @@
+{
+  "type":"vintageimprovements:vacuumizing",
+  "secondaryFluidOutput": 1,
+  "ingredients": [
+    {
+      "fluid": "nyagibits_bytes:impure_methanol_fluid",
+      "amount": 250
+    },
+    {
+      "item": "nyagibits_bytes:activated_carbon"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "nuclearcraft:methanol",
+      "amount": 200
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 25
+    },
+    {
+      "item": "nyagibits_bytes:saturated_carbon_waste"
+    }
+
+  ],
+  "processingTime": 400
+}

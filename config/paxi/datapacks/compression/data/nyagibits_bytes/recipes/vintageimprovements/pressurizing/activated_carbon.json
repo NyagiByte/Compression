@@ -1,0 +1,25 @@
+{
+  "type":"vintageimprovements:pressurizing",
+  "heatRequirement": "superheated",
+  "secondaryFluidInput": 0,
+  "ingredients": [
+    {
+      "fluid": "nuclearcraft:steam",
+      "amount": 500
+    },
+    {
+      "item": "nyagibits_bytes:activated_charcoal"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "minecraft:water",
+      "amount": 100
+    },
+    {
+      "item": "nyagibits_bytes:activated_carbon",
+      "count": 4
+    }
+  ],
+  "processingTime": 200
+}
