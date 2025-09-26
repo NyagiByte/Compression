@@ -8570,11 +8570,11 @@ hash = "b177185e70539096322232df4ac5bb617600e86e5adf58314f878cce1b1c329d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/lychee/recipes/recrystallization/2_5_dimethoxy_1_4_benzenedicarboxylic_acid_crystallization.json"
-hash = "ccf830585d3f55cfec5494ff6718d0a412c5d98b2fcdac28f1f7e14291fe5d91"
+hash = "0988d82f423a70c19d6d1b2521256ff46ce5673c8075d8935c5263f52d5a37c1"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/lychee/recipes/recrystallization/2_5_dimethoxybenzoic_acid_crystallization.json"
-hash = "664c6e2909cd32c38dec077fb5ff8d1647b6c26d67cd31e7f67790c001a64501"
+hash = "0e5ad3e5e9990026711b4600f1a084a65e5b81bb36d41d8beaa784d7a6b4bc45"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/measurements/recipes/tape_measure.json"
