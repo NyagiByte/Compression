@@ -1494,7 +1494,7 @@ hash = "28864eda8af03c87af35366eff38149bf49fbf8e792a2d8100d6abc7f8fad0d5"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_alkaline_technical_grade_glycerol.json"
-hash = "4afaaf51f360a4d29eae6a10a44e6d59bb879f022bb89d3565d174a297ccf042"
+hash = "728f8fd8f364f774c829020eb162f32c8dbd9146b59e8702edd33fae7d5cf189"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_anhydrous_toluene.json"
@@ -1770,7 +1770,7 @@ hash = "09a674a99d8fbd2e6be9804254c78662593784cb916768cb08c4a777fdf5dbf0"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_technical_grade_glycerol.json"
-hash = "b1fbcefbe75461d2fcfbdaf36f204108b8994579595ce692506a29b40057a0a3"
+hash = "b6cdb16a5e996676606280af2c9ee96f9458b56e90b234284026664b912c2317"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_tertbutyl_chloride.json"
@@ -2226,7 +2226,7 @@ hash = "ba3eec7dff33f7cba2a0e0b875ee32852e0b6923959bb0a21691cfb2c565dd11"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/alkaline_technical_grade_glycerol_fluid.json"
-hash = "3946fd64cc9097783d978c6e6a2a6fce49f649d55c6b673aad8d23342f9e29b8"
+hash = "b627a22096325578657e85383468caf08c3e6451750d431e93532cbc116ce690"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/anhydrous_toluene_fluid.json"
@@ -2506,7 +2506,7 @@ hash = "22d7b241c53c684d0a7c79d92c4e0c573ae7fe82bae070e6f2320be269d88f3b"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/technical_grade_glycerol_fluid.json"
-hash = "e1b45066b67f0902d1b906b2bca68692178c2b31c5fdd494b3c26773ceb187c2"
+hash = "4ade0478fc9ee89fb85c1932588eda2ee89d4c7215aed0a1f394a7399e77e014"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/tertbutyl_chloride_fluid.json"
@@ -5303,6 +5303,10 @@ hash = "0107bdf726f23ef764245ff6a54dbef299dcd1dc9d35433113337dde6fd9d417"
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/logistics/redstone_contact_t1.json"
 hash = "b76a00216ba72e3604fb9683b1ed3150ef5429a1649009199b7b3a485084ea04"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/create/recipes/crafting/logistics/redstone_link_t0.json"
+hash = "510e1ee5d92298350c3228d06d364d33e0fd1e1caf65081f379796a14eda90ad"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/create/recipes/crafting/logistics/redstone_link_t1.json"
@@ -10479,6 +10483,10 @@ hash = "6508e26b330a8e4c9a9dfd16713fbf0b660d1a8ec28e094a9bd461bcea72773b"
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/filling/vinegar.json"
 hash = "405072562e226ed55962b65c3606c7ff37480c2ed9210d33ee08615d71dde875"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/filling/water_bowl_auto.json"
+hash = "e544d3e383639622c3559152fd3140fb395c30eab10ac1200a3b89b79bb19617"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/immersive_engineering/arcfurnace/1080_fast.json"
@@ -18131,7 +18139,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyagibits_bytes-0.0.2-1.19.2.jar"
-hash = "4b345cabd9853c06dd3d9bd12dd0737a539eed66a0d7a6f4b5f5d12bba30889f"
+hash = "751e21ee6cff51bf79a296d4065e58fb251c1ecb7a572b3419b1608bda5f1600"
 
 [[files]]
 file = "mods/oculus.pw.toml"
