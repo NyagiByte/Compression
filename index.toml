@@ -16357,6 +16357,18 @@ file = "config/paxi/resourcepacks/compression/assets/chemlib/lang/pt_br.json"
 hash = "99d61d5dd8ae0b3a3b3df3e33bac9d20319d785179783fee80cc98afb8832531"
 
 [[files]]
+file = "config/paxi/resourcepacks/compression/assets/chemlib/models/item/retextures/copper_plate.json"
+hash = "f3af001a7b6f61efe725b0f822e126710ce1c6c57fccbf1122142af26a672d27"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/chemlib/models/item/retextures/gold_plate.json"
+hash = "5f9a3e9eeab0f8136031b91af21bd1191316eebab92abd1f0bfed0416e67d3aa"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/chemlib/models/item/retextures/iron_plate.json"
+hash = "a55149ee24d5777c6f75d21ac042b2a78abb60d2c36a3a7b5e8899e4a990a957"
+
+[[files]]
 file = "config/paxi/resourcepacks/compression/assets/chemlib/textures/items/ingot.png"
 hash = "b865131f7ae023ef7083aa92a19e4d46ab2e23e53c4e5a5e5a0dea953167c4b4"
 
@@ -17681,6 +17693,10 @@ metafile = true
 file = "mods/compressed-engineering.pw.toml"
 hash = "ce409565e040000152d2034155ebfd2b2382c6c93b7e8e3fd14a5c0d2910b685"
 metafile = true
+
+[[files]]
+file = "mods/compressed_chemistry-1.19.2-1.0.0.jar"
+hash = "fccfc0bdba43b03b51d27e21711e89241c192ddeba5b141d0c36a5e264a16368"
 
 [[files]]
 file = "mods/compressedcreativity.pw.toml"
