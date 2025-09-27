@@ -1,0 +1,13 @@
+name = "Compressed Chemistry"
+filename = "compressed_chemistry-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "247133d61e39173d7269f34915685ca941966cd0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7036640
+project-id = 1354141

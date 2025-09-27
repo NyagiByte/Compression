@@ -17685,18 +17685,19 @@ hash = "c9abc39e1ea553d6325111e04e70dd95bb3773c5c437da52fcf449e38e7c8adf"
 metafile = true
 
 [[files]]
+file = "mods/compressed-chemistry.pw.toml"
+hash = "ed86617ddf9e7095417476f2fc55d4d8a01b831e780452385975f151609e4735"
+metafile = true
+
+[[files]]
 file = "mods/compressed-create-recipes.pw.toml"
-hash = "6d8da732a3c465aa7ad2bc8b7e9f223ea7c39bd0df59dc17fa236fce0bd76733"
+hash = "2a8e8c0a92928b788882b8f28da55692773237a44290c065f660b9bd8b4af982"
 metafile = true
 
 [[files]]
 file = "mods/compressed-engineering.pw.toml"
 hash = "ce409565e040000152d2034155ebfd2b2382c6c93b7e8e3fd14a5c0d2910b685"
 metafile = true
-
-[[files]]
-file = "mods/compressed_chemistry-1.19.2-1.0.0.jar"
-hash = "fccfc0bdba43b03b51d27e21711e89241c192ddeba5b141d0c36a5e264a16368"
 
 [[files]]
 file = "mods/compressedcreativity.pw.toml"
