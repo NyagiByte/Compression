@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "compressed_chemistry:item/blank_layer0",
+    "layer1": "create:item/iron_sheet"
+  }
+}

@@ -8570,11 +8570,11 @@ hash = "b177185e70539096322232df4ac5bb617600e86e5adf58314f878cce1b1c329d"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/lychee/recipes/recrystallization/2_5_dimethoxy_1_4_benzenedicarboxylic_acid_crystallization.json"
-hash = "ccf830585d3f55cfec5494ff6718d0a412c5d98b2fcdac28f1f7e14291fe5d91"
+hash = "0988d82f423a70c19d6d1b2521256ff46ce5673c8075d8935c5263f52d5a37c1"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/lychee/recipes/recrystallization/2_5_dimethoxybenzoic_acid_crystallization.json"
-hash = "664c6e2909cd32c38dec077fb5ff8d1647b6c26d67cd31e7f67790c001a64501"
+hash = "0e5ad3e5e9990026711b4600f1a084a65e5b81bb36d41d8beaa784d7a6b4bc45"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/measurements/recipes/tape_measure.json"
@@ -16357,6 +16357,18 @@ file = "config/paxi/resourcepacks/compression/assets/chemlib/lang/pt_br.json"
 hash = "99d61d5dd8ae0b3a3b3df3e33bac9d20319d785179783fee80cc98afb8832531"
 
 [[files]]
+file = "config/paxi/resourcepacks/compression/assets/chemlib/models/item/retextures/copper_plate.json"
+hash = "f3af001a7b6f61efe725b0f822e126710ce1c6c57fccbf1122142af26a672d27"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/chemlib/models/item/retextures/gold_plate.json"
+hash = "5f9a3e9eeab0f8136031b91af21bd1191316eebab92abd1f0bfed0416e67d3aa"
+
+[[files]]
+file = "config/paxi/resourcepacks/compression/assets/chemlib/models/item/retextures/iron_plate.json"
+hash = "a55149ee24d5777c6f75d21ac042b2a78abb60d2c36a3a7b5e8899e4a990a957"
+
+[[files]]
 file = "config/paxi/resourcepacks/compression/assets/chemlib/textures/items/ingot.png"
 hash = "b865131f7ae023ef7083aa92a19e4d46ab2e23e53c4e5a5e5a0dea953167c4b4"
 
@@ -17673,8 +17685,13 @@ hash = "c9abc39e1ea553d6325111e04e70dd95bb3773c5c437da52fcf449e38e7c8adf"
 metafile = true
 
 [[files]]
+file = "mods/compressed-chemistry.pw.toml"
+hash = "ed86617ddf9e7095417476f2fc55d4d8a01b831e780452385975f151609e4735"
+metafile = true
+
+[[files]]
 file = "mods/compressed-create-recipes.pw.toml"
-hash = "6d8da732a3c465aa7ad2bc8b7e9f223ea7c39bd0df59dc17fa236fce0bd76733"
+hash = "2a8e8c0a92928b788882b8f28da55692773237a44290c065f660b9bd8b4af982"
 metafile = true
 
 [[files]]
