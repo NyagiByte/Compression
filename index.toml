@@ -750,7 +750,7 @@ hash = "d41650ac8977588bc65e57517ad314e769931f7b792f39f096f4134cd421d8fc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/proficiency.snbt"
-hash = "8a4fc94b159130165735a6b9c7c47c9451b0a8aba79cbc737e842a50e77c56e7"
+hash = "fe913f40dd0520d67adf61e57fe8eef6183b8f90422b4dc102426a1c2235cc8a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
@@ -826,11 +826,11 @@ hash = "f0fc66ae72b80c7087fc702dce5af8e6751022d039300d5157f6f3a6bf53cce7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tools_of_industry.snbt"
-hash = "5c249bb349b792093f6c58b978f6fa0f16904ba1552d00466c73c0243684d5b5"
+hash = "94e040bc79ec4154a7a1929bdf04f263a63a86a9199b20a857cc2adf2f85dba3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome_to_compression.snbt"
-hash = "4b8538ffd231843750bf040a2f3a7d813d778308cae1d87c96e14efe9ac7930f"
+hash = "204107e4f2a7951d8efb5e198af71c922f9a8b2088faed998a13606382a18ac2"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
