@@ -136,6 +136,11 @@
 		}
 		{
 			dependencies: ["5E7D0899ECE970A7"]
+			description: [
+				"The &bCrafting Halo&r works as a portable crafting table with one big upside!"
+				""
+				"When you &acomplete a craft&r you get the option to &6save said craft&r to a slot in the halo UI, allowing you to &dright click-craft instantly&r"
+			]
 			id: "6B38747E1261448A"
 			rewards: [{
 				id: "1C92FBAAF2D2C811"
@@ -153,6 +158,13 @@
 		}
 		{
 			dependencies: ["6B38747E1261448A"]
+			description: [
+				"How does one upgrade a portable crafting table? Making it &cA&6u&et&ao&bm&da&ct&6i&ec&r of course!"
+				""
+				"When a craft is saved and the halo is &aactive&r the halo will &dautomatically craft anything in your inventory&r to the saved crafting recipes"
+				""
+				"Do be warned the halo has no function to limit the crafting unless outright &cdisabled&r by &6shift-rightclicking&r the crafting table in the UI"
+			]
 			id: "7B60C57A676C7900"
 			rewards: [{
 				id: "494D5AAE27BFD324"
@@ -186,6 +198,11 @@
 		}
 		{
 			id: "110B66C3FF649B2A"
+			rewards: [{
+				id: "77442CF832F4BF09"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6B2D9073EB1332F1"
 				item: "immersiveengineering:manual"
@@ -196,6 +213,26 @@
 		}
 		{
 			dependencies: ["4B89973C8D23D164"]
+			description: [
+				"&nProbably the most important tool you will make&r"
+				""
+				"The Create Wrench is able to:"
+				""
+				"&b[Shift + Rightclick]&r - &6Instantly break blocks&r registered as \"wrenchable\" and place them into your inventory. If no space is available the item will drop at the position it was removed."
+				""
+				"Several non-create blocks have been added to this list specifically for &dCompression&r including:"
+				""
+				"&aMinecraft&r &cRedstone&r Components"
+				""
+				"&aSupplementaries&r Cog, Turn Table, Relayer, Spring Launcher, Speaker, Illuminator, Lock, Bellows, Clock, Crystal Display, Levers, Crank, and Faucet"
+				""
+				"&aQuark&r Obsidian Pressure Plate, Randomizer, Ender Eye, and Crystal Lamps"
+				""
+				"&aPneumaticcraft&r Omnidirectional Hopper"
+				""
+				""
+				"&b[Rightclick]&r - Rotate various create blocks, especially useful for &agearbox orientation&r"
+			]
 			id: "593F4B6288E939F1"
 			rewards: [{
 				id: "44519A3179B6DF6B"
@@ -213,6 +250,19 @@
 		}
 		{
 			dependencies: ["4B89973C8D23D164"]
+			description: [
+				"&dToolboxes&r are an &bunderused powerhouse&r in factory expansion!"
+				""
+				"When blocks are inserted into the toolbox you can do &atwo things&r with it &7(in a 128 block radius of the toolbox)&r:"
+				""
+				"1) &6Middle Mouse click&r any existing block in world &n&bthat is in the toolbox&r. "
+				""
+				"This will &alink&r the currently selected inventory slot to the toolbox and &aauto-refill&r that slot as if you were in &6creative mode&r &7(but with the blocks being drained from the toolbox)&r"
+				""
+				"2) Rebind the &b\"Access Nearby Toolboxes\"&r to any desired button."
+				""
+				"This will allow you to open up a radial menu of all existing toolboxes in range as well as a \"return to toolbox\" option"
+			]
 			id: "6C0B5F102BFD0F5A"
 			rewards: [{
 				id: "505EC822E51DDF49"
@@ -230,6 +280,11 @@
 		}
 		{
 			id: "4252BCA134E2B9CD"
+			rewards: [{
+				id: "394CA2ED2AFE4658"
+				item: "nyagibits_bytes:tier_two_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6210E7C27B313F1B"
 				item: "phantomsandnightmares:insanity_pill"
@@ -240,6 +295,11 @@
 		}
 		{
 			id: "77E74284B97A98A3"
+			rewards: [{
+				id: "3C88535564D9D6C4"
+				item: "nyagibits_bytes:tier_two_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4FA0A1409107CC5A"
 				item: "phantomsandnightmares:sanity_pill"
@@ -392,6 +452,11 @@
 		}
 		{
 			id: "04B6D86B67F5DEBB"
+			rewards: [{
+				id: "1EF77FF368AC5A08"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3EB3521FD5433F4D"
 				item: {
@@ -445,6 +510,11 @@
 		}
 		{
 			id: "4CB1DD26B38D5409"
+			rewards: [{
+				id: "5A25827619C40934"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "02356C80535C3A18"
 				item: "ae2:network_tool"
@@ -455,6 +525,11 @@
 		}
 		{
 			id: "3D98C3DA7C9397AA"
+			rewards: [{
+				id: "6BF54E50706450B8"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "71E817E386540DD3"
 				item: {
@@ -469,6 +544,11 @@
 		}
 		{
 			id: "0EE2E7E8CBB6B1BA"
+			rewards: [{
+				id: "513F5C92E87E3792"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "08F5C72CB76C85E2"
 				item: {
@@ -483,6 +563,11 @@
 		}
 		{
 			id: "6003B9F9A146B2E1"
+			rewards: [{
+				id: "7AA7CFCD22C4E868"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3E5CA83EE98E81AD"
 				item: "ae2:entropy_manipulator"
@@ -493,6 +578,11 @@
 		}
 		{
 			id: "32143CB000A0B687"
+			rewards: [{
+				id: "4FBA3934C7AA1CFE"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "14D15D14712F0293"
 				item: {
@@ -562,6 +652,67 @@
 			title: "Pest Control"
 			x: -7.0d
 			y: 0.5d
+		}
+		{
+			dependencies: ["4B89973C8D23D164"]
+			description: [
+				"While &6Elytra&r can be found in end city towers they break very quickly and are rather costly to maintain. And sometimes you just need something to jump off mountains or your own base."
+				""
+				"Fear not for the &bLamellar Paraglider&r has your back!"
+				""
+				"Jumping from a high place will let you glide, shocker, but with some &acampfires&r placed down you can ride the updraft created. Be warned however that &clightning storms will zap you out of the sky&r unless you add shielding to your paraglider "
+			]
+			id: "3F6F5D84A67971D4"
+			rewards: [{
+				id: "7D5AD6E9CCCEFA53"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "69A3C8562423258B"
+				item: {
+					Count: 1b
+					id: "vc_gliders:paraglider_netherite"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Falling But Really Really Slowly"
+			x: -7.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4296F49981434BC7"]
+			description: [
+				"Mob spawns can be annoying, and torch spam is often &cugly&r so what do?"
+				""
+				"The &dMega Torch&r is able to entirely &6nullify mob spawns&r in a large area around itself &awithout creating fake-block entities&r"
+				""
+				"Similarly the &dDread Lamp&r can do the same but for preventing passive mobs, which can be very useful in restricting squid spawns to your designated farms without draining hexes fully"
+			]
+			id: "5ED02A8800CD8385"
+			rewards: [{
+				id: "48A3E595080D128B"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "30CD326710652B58"
+					item: "torchmaster:megatorch"
+					type: "item"
+				}
+				{
+					id: "10D3386F5FA606A1"
+					item: "torchmaster:dreadlamp"
+					type: "item"
+				}
+			]
+			title: "Salt The Lands"
+			x: -5.0d
+			y: -2.0d
 		}
 	]
 	title: " &fTools Of Industry"

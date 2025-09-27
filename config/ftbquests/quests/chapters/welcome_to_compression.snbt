@@ -168,9 +168,11 @@
 			description: [
 				"The walls of &dFlake &rare impossible to break through! How am I suppose to mine?!"
 				""
-				"Ores appear exclusively on the surface of the world in massive layered boulders. "
+				"Ores appear exclusively on the surface of the world in massive layered &aboulders.&r"
 				""
 				"&bRecipe Scaling &rhas more information on the processing of the ores themselves"
+				""
+				"&cAlso, don't worry about renewable materials, boulders have roughly &61 million raw ores&r in them&r"
 			]
 			icon: "nyagibits_bytes:raw_banded_iron"
 			id: "7BD5615FF834FB3B"
