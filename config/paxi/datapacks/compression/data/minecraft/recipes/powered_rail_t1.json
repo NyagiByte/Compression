@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"thermal:electrum_ingot"},
+    "B": {"tag":"forge:rods/wooden"},
+    "C": {"item":"minecraft:redstone"}
+  },
+  "pattern": [
+    "A A",
+    "ABA",
+    "ACA"
+  ],
+  "result": {
+    "count": 12,
+    "item": "minecraft:powered_rail"
+  }
+}

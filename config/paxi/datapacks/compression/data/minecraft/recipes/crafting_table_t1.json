@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"botania:livingwood_log"},
+    "B": {"item":"botania:livingwood_planks"}
+  },
+  "pattern": [
+    "AB",
+    "BA"
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:crafting_table"
+  }
+}

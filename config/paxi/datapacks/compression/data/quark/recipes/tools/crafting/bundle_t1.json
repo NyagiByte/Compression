@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "group":"book",
   "key": {
-    "A": {"item":"minecraft:string"},
+    "A": {"item":"nyagibits_bytes:string_woolen"},
     "B": {"item":"minecraft:leather"}
   },
   "pattern": [
@@ -10,7 +10,7 @@
     "B"
   ],
   "result": {
-    "count": 1,
+    "count": 2,
     "item": "minecraft:bundle"
   }
 }

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"immersiveengineering:ingot_steel"},
+    "B": {"item":"minecraft:stone_pressure_plate"},
+    "C": {"item":"minecraft:redstone"}
+  },
+  "pattern": [
+    "A A",
+    "ABA",
+    "ACA"
+  ],
+  "result": {
+    "count": 24,
+    "item": "minecraft:detector_rail"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"minecraft:diamond"},
+    "B": {"item":"minecraft:saddle"},
+    "C": {"item":"minecraft:cyan_carpet"}
+  },
+  "pattern": [
+    "  A",
+    "ABA",
+    "ACA"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:diamond_horse_armor"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"minecraft:leather"},
+    "B": {"item":"minecraft:saddle"},
+    "C": {"item":"minecraft:brown_carpet"}
+  },
+  "pattern": [
+    "  A",
+    "ABA",
+    "ACA"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:leather_horse_armor"
+  }
+}

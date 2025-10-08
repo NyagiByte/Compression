@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"create:brass_ingot"},
+    "B": {"tag":"minecraft:logs"}
+  },
+  "pattern": [
+    "ABA",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:hopper"
+  }
+}

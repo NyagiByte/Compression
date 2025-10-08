@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"immersiveengineering:ingot_steel"},
+    "B": {"tag":"c:wooden_chests"}
+  },
+  "pattern": [
+    "A A",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "count": 16,
+    "item": "minecraft:hopper"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"createdeco:cast_iron_ingot"},
+    "B": {"item":"minecraft:redstone"}
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:compass"
+  }
+}

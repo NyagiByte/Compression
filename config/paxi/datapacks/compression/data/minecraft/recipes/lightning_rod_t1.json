@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"create:brass_ingot"}
+  },
+  "pattern": [
+    "A",
+    "A",
+    "A"
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:lightning_rod"
+  }
+}

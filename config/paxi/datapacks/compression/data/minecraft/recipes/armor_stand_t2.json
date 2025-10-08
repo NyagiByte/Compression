@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"immersiveengineering:stick_treated"},
+    "B": {"item":"minecraft:smooth_stone_slab"}
+  },
+  "pattern": [
+    "AAA",
+    " A ",
+    "ABA"
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:armor_stand"
+  }
+}

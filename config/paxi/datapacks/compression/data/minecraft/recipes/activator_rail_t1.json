@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"createdeco:cast_iron_ingot"},
+    "B": {"tag":"forge:rods/wooden"},
+    "C": {"item":"minecraft:redstone_torch"}
+  },
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ABA"
+  ],
+  "result": {
+    "count": 12,
+    "item": "minecraft:activator_rail"
+  }
+}

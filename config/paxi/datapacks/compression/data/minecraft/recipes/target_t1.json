@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"minecraft:redstone"},
+    "B": {"item":"minecraft:hay_block"},
+    "C": {"item":"minecraft:observer"},
+    "D": {"tag":"forge:string_group"}
+  },
+  "pattern": [
+    " A ",
+    "BCD",
+    " A "
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:target"
+  }
+}

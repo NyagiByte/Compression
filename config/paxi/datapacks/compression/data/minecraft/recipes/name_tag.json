@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"nyagibits_bytes:pen"},
+    "B": {"item":"nyagibits_bytes:string_woolen"},
+    "C": {"item":"minecraft:paper"}
+  },
+  "pattern": [
+    " AB",
+    " C ",
+    "C  "
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:name_tag"
+  }
+}

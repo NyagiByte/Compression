@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"botania:livingwood_planks"},
+    "B": {"item":"minecraft:redstone"}
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:note_block"
+  }
+}

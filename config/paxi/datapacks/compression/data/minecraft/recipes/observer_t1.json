@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"nyagibits_bytes:polished_livisite"},
+    "B": {"item":"minecraft:redstone"},
+    "C": {"item":"minecraft:quartz"}
+  },
+  "pattern": [
+    "AAA",
+    "BBC",
+    "AAA"
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:observer"
+  }
+}

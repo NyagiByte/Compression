@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"minecraft:iron_ingot"},
+    "B": {"item":"immersiveengineering:stick_treated"},
+    "C": {"item":"immersiveengineering:treated_wood_horizontal"}
+  },
+  "pattern": [
+    "A",
+    "B",
+    "C"
+  ],
+  "result": {
+    "count": 8,
+    "item": "minecraft:tripwire_hook"
+  }
+}

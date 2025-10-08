@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"minecraft:iron_ingot"},
+    "B": {"item":"minecraft:saddle"},
+    "C": {"item":"minecraft:gray_carpet"}
+  },
+  "pattern": [
+    "  A",
+    "ABA",
+    "ACA"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:iron_horse_armor"
+  }
+}

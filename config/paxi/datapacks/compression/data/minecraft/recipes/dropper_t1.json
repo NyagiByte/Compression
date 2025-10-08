@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"nyagibits_bytes:polished_livisite"},
+    "B": {"item":"minecraft:redstone"}
+  },
+  "pattern": [
+    "AAA",
+    "A A",
+    "ABA"
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:dropper"
+  }
+}

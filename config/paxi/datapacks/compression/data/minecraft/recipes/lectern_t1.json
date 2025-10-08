@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"botania:livingwood_planks_slab"},
+    "B": {"tag":"forge:bookshelves"}
+  },
+  "pattern": [
+    "AAA",
+    " B ",
+    " A "
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:lectern"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"immersiveengineering:ingot_steel"},
+    "B": {"tag":"forge:rods/wooden"},
+    "C": {"item":"minecraft:redstone_torch"}
+  },
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ABA"
+  ],
+  "result": {
+    "count": 48,
+    "item": "minecraft:activator_rail"
+  }
+}

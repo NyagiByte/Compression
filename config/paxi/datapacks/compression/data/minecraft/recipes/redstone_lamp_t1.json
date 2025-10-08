@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"nyagibits_bytes:etched_redstone_plate"},
+    "B": {"item":"minecraft:glowstone"}
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "count": 8,
+    "item": "minecraft:redstone_lamp"
+  }
+}

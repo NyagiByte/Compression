@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"immersiveengineering:treated_wood_horizontal"},
+    "B": {"item":"minecraft:redstone"}
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:note_block"
+  }
+}

@@ -1,16 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group":"book",
   "key": {
-    "A": {"item":"minecraft:string"},
+    "A": {"item":"minecraft:stick"},
     "B": {"item":"minecraft:leather"}
   },
   "pattern": [
-    "A",
-    "B"
+    "AAA",
+    "ABA",
+    "AAA"
   ],
   "result": {
     "count": 1,
-    "item": "minecraft:bundle"
+    "item": "minecraft:item_frame"
   }
 }

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"tag":"forge:glass"},
+    "B": {"item":"ae2:certus_quartz_crystal"},
+    "C": {"tag":"minecraft:wooden_slabs"}
+  },
+  "pattern": [
+    "AAA",
+    "BBB",
+    "CCC"
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:daylight_detector"
+  }
+}

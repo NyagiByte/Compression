@@ -1265,6 +1265,8 @@
 
 		{"namespace": "tesseract", "path": "recipes/tesseract.json"},
 
+		{"namespace": "ae2", "path": "recipes/misc/vanilla_daylight_detector.json"},
+
 		{"namespace": "ae2", "path": "recipes/inscriber/sky_stone_dust.json"},
 		{"namespace": "ae2", "path": "recipes/inscriber/ender_dust.json"},
 

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {"item":"immersiveengineering:treated_wood_horizontal"},
+    "B": {"item":"immersiveengineering:manual"},
+    "C": {"item":"minecraft:writable_book"},
+    "D": {"item":"botania:lexicon"}
+  },
+  "pattern": [
+    "AAA",
+    "BCD",
+    "AAA"
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:bookshelf"
+  }
+}
