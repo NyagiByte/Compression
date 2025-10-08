@@ -181,6 +181,15 @@
 			y: -1.5d
 		}
 		{
+			description: [
+				"The &aLexica Botania&r is your one stop shop to learning all about botania and it's technomagical pieces"
+				""
+				"Botania is cool because the \"machines\" it gives do not entirely solve problems on their own and function more as &bpieces to automation puzzles&r, much like vanilla redstone"
+				""
+				"These components are extremely useful in many setups and&6 I highly encourage reading up on what this mod has to offer&r"
+				""
+				"Oh and you can craft it with a &dcorporea spark&r to upgrade the book to the &aAlfheim version&r since reading up on corporea might prove useful &7(and since we tier broke it to tier 0 when it is normally end game botania)&r"
+			]
 			id: "09856F3153B884AB"
 			rewards: [{
 				id: "6D4F9EFF6FD2838D"
@@ -715,5 +724,6 @@
 			y: -2.0d
 		}
 	]
+	subtitle: ["Tools, Trinkets, and Whatchamacallits"]
 	title: " &fTools Of Industry"
 }

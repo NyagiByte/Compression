@@ -279,6 +279,40 @@
 			x: 0.0d
 			y: 3.5d
 		}
+		{
+			description: [
+				"&nLost as to the questbook? &aNo worries!&r &nHere are the tabs:&r"
+				""
+				"&n&cPath To Null&r is the main progression line. Little guidance is given here and serves as a general path to the \"next step.\" "
+				"------------------------------------------------------------------"
+				"&n&dAutomation and YOU!&r contains &bthree main groups&r-"
+				""
+				"> Information tabs on useful tools under &a&nTools of Industry&r that will help with various tasks in your base. &n"
+				""
+				"> Submit Challenges to claim &6Golden Berries&r under &a&nProficiency&r to prove mastery of a tier "
+				""
+				"> &bSub-Tutorial Chapters&r that give more granular information on the respective tiers in &cPath To Null&r for the cases where you are &eunsure how to best proceed&r between main steps. The quests here also go into far &amore detail as to game mechanics and design philosophy&r when it comes to nailing down what makes for a good functional factory for any &bplayers new to heavy tech-automation&r. And if this is you, thank you for choosing &dCompression&r as your first, you are brave"
+				"------------------------------------------------------------------"
+				"&a&nChemistry and YOU!&r is a chapter with no berry rewards and exists to &6untangle some more insane chemical chains&r since the JEI search can get a bit &cmessed up&r when recipes get absurd"
+				"------------------------------------------------------------------"
+				"&b&nRecipe Scaling&r is all about showing you which most &dprogression-relevant recipes get boosts and when&r. Do keep in mind &6most recipes get scaled versions&r, this set of quests just shows the most relevant of the bunch"
+			]
+			icon: "minecraft:compass"
+			id: "30E3379C21C76154"
+			rewards: [{
+				id: "0B0A0348D36D3937"
+				item: "nyagibits_bytes:tier_zero_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "31217720D190185D"
+				title: "This way! Onwards!"
+				type: "checkmark"
+			}]
+			title: "&bQuestbook Navigation"
+			x: -2.5d
+			y: 0.0d
+		}
 	]
 	subtitle: ["Read me!"]
 	title: "&fWelcome to Compression!"

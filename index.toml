@@ -726,7 +726,7 @@ hash = "acfdb749a28106463b96980100a7e542b0b2bc3f9c9464196e0765a4f1c39061"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "6a8e15e1dfa078de2b7fb6ed0000c0a54afbdbb7073f0b4ea16e2af1d0785bb7"
+hash = "360e83e9af054e545753ce68224d0d1888922eb0da0abdffcacb92e6703ef623"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/6t0_20_8_5_16_18_9_19_15_14.snbt"
@@ -741,6 +741,10 @@ file = "config/ftbquests/quests/chapters/6tier_1.snbt"
 hash = "5970205172655c92261cc61c721512cd50c4e85129cdad6c3f3572564ce7082c"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/chemical_hell__opa_1214.snbt"
+hash = "4951c39e142ded6a4d44ab0727f9e261125007f93dfdd561f1f089fb507ef510"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
 hash = "da64a903b36a223ae4628cb1abd4f98ce1f3d47bce93dbcc88b9442b46558b56"
 
@@ -750,7 +754,7 @@ hash = "d41650ac8977588bc65e57517ad314e769931f7b792f39f096f4134cd421d8fc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/proficiency.snbt"
-hash = "fe913f40dd0520d67adf61e57fe8eef6183b8f90422b4dc102426a1c2235cc8a"
+hash = "edcfff1843de895872b9dd9101cf36ccb10eb47b1bfd5da7ed30258e86c66183"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
@@ -762,7 +766,7 @@ hash = "ff011a85af09e128596ba0582016cc6d3a28ab49babd77a50ffa20a173d1c373"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "42e43e65ef193ba97801e117dfaa25cea34bfdfeb626d5a6738ce1cc64f27899"
+hash = "86e6883123c641cbbb75afa620140df6d5301bf7b4587a7326627b7dcb2f7148"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -826,11 +830,11 @@ hash = "f0fc66ae72b80c7087fc702dce5af8e6751022d039300d5157f6f3a6bf53cce7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tools_of_industry.snbt"
-hash = "94e040bc79ec4154a7a1929bdf04f263a63a86a9199b20a857cc2adf2f85dba3"
+hash = "fbd102e27e86e401029d9e861ae12657197cc52df8846e96cf58fb8f6edd3e6f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome_to_compression.snbt"
-hash = "204107e4f2a7951d8efb5e198af71c922f9a8b2088faed998a13606382a18ac2"
+hash = "7ee4a3070fb88719de2e8db1b1f3402e615e00317db63b0c90555bda5a6ab234"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"

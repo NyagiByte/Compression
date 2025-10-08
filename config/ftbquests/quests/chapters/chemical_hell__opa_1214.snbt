@@ -1,0 +1,355 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "chemical_hell__opa_1214"
+	group: "47E20928B684D853"
+	icon: "chemlib:manganese_dust"
+	id: "2E17A5B07EF23284"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4D368CEA652E28A0"
+			tasks: [{
+				id: "49D050E2F4DBA5A1"
+				item: "compactmachines:solid_wall"
+				type: "item"
+			}]
+			title: "Feedstock Checklist"
+			x: -6.5d
+			y: -6.5d
+		}
+		{
+			id: "69E1CDFBF6E431F3"
+			tasks: [{
+				id: "288497CD488E08E1"
+				item: "chemlib:zinc_dust"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -5.5d
+		}
+		{
+			id: "08FC8DA16C48ECCF"
+			tasks: [{
+				id: "7D468D7833877DD8"
+				item: "chemlib:acetic_acid"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -5.5d
+		}
+		{
+			id: "7EE29A02ED74D7DA"
+			tasks: [{
+				id: "153FE1D29E1876C6"
+				item: "nyagibits_bytes:sample_mononitrotoluene"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -3.5d
+		}
+		{
+			id: "4D2A1528272BA707"
+			tasks: [{
+				id: "4CDA92EA01B934CF"
+				item: "chemlib:hydrochloric_acid"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -4.5d
+		}
+		{
+			id: "60257444A20B5974"
+			tasks: [{
+				id: "3A1FFCA377ECE9F4"
+				item: "chemlib:lithium_dust"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -4.5d
+		}
+		{
+			id: "4375BEE5C2F47BC6"
+			tasks: [{
+				id: "0C996BC1C2713A19"
+				item: "chemlib:sulfuric_acid"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -2.5d
+		}
+		{
+			id: "57DBFFAF6AB35B97"
+			tasks: [{
+				id: "26034E20DCC9B460"
+				item: "chemlib:ammonia"
+				type: "item"
+			}]
+			x: -11.5d
+			y: -5.5d
+		}
+		{
+			id: "3C2E884C884E49C9"
+			tasks: [{
+				id: "5C71AB4AFDE009D7"
+				item: "chemlib:acetylene"
+				type: "item"
+			}]
+			x: -11.5d
+			y: -4.5d
+		}
+		{
+			id: "66291A347D53592E"
+			tasks: [{
+				id: "0E56F06D9D4F7AF3"
+				item: "nyagibits_bytes:sample_methanol"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -0.5d
+		}
+		{
+			id: "35DA3B838EAA3871"
+			tasks: [{
+				id: "2D6DD0B4F52EC109"
+				item: "chemlib:oxygen"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -4.5d
+		}
+		{
+			id: "47E094B7A41C95F7"
+			tasks: [{
+				id: "4976B0FC7BC89788"
+				item: "chemlib:iodine"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -3.5d
+		}
+		{
+			id: "57A85CE81348ECF6"
+			tasks: [{
+				id: "79A2738561AC20B2"
+				item: "chemlib:potassium_hydroxide"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -5.5d
+		}
+		{
+			id: "5A9A30777E2F30F3"
+			tasks: [{
+				id: "33B0EA7762DB1BF0"
+				item: "chemlib:carbon_dioxide"
+				type: "item"
+			}]
+			x: -11.5d
+			y: -3.5d
+		}
+		{
+			id: "10913C89C474E834"
+			tasks: [{
+				id: "5C9E2AC765179FF1"
+				item: "nyagibits_bytes:sample_acetone"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -1.5d
+		}
+		{
+			id: "531181CE8A0A2A9D"
+			tasks: [{
+				id: "7AC79692BB56C831"
+				item: "chemlib:palladium_dust"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -3.5d
+		}
+		{
+			id: "0D678F4BBAC3C5FB"
+			tasks: [{
+				id: "3B9BC6A0A14D055D"
+				item: "thermal:resin_bucket"
+				type: "item"
+			}]
+			x: -13.5d
+			y: -5.5d
+		}
+		{
+			id: "42F6C796E885401B"
+			tasks: [{
+				id: "5695C646B0515C43"
+				item: "chemlib:hydrogen"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -5.5d
+		}
+		{
+			id: "670E5CC842776F30"
+			tasks: [{
+				id: "171EF275150F8DBA"
+				item: "chemlib:hydroxylapatite"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -4.5d
+		}
+		{
+			id: "5D01D57C38D68601"
+			tasks: [{
+				id: "058639B183DCDD6E"
+				item: "chemlib:silicon_dioxide"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -3.5d
+		}
+		{
+			id: "549A38C711CBC2E8"
+			tasks: [{
+				id: "42254F6629A93890"
+				item: "chemlib:carbon_dust"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -2.5d
+		}
+		{
+			id: "74F32C01E0DD38F4"
+			tasks: [{
+				id: "18D0AC594C85B581"
+				item: "chemlib:chlorine"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -2.5d
+		}
+		{
+			id: "56AD88CC3532004A"
+			tasks: [{
+				id: "115B23A36CF88515"
+				item: "chemlib:bromine"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			id: "766D9EEA47D7BA1E"
+			tasks: [{
+				id: "150BE0158C8F12DF"
+				item: "immersivepetroleum:benzene_bucket"
+				type: "item"
+			}]
+			x: -13.5d
+			y: -4.5d
+		}
+		{
+			id: "601F04902CE813E1"
+			tasks: [{
+				id: "4F8D07A71CFB2037"
+				item: "nyagibits_bytes:sample_aluminum_trichloride"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -2.5d
+		}
+		{
+			id: "2C4393E462CC6EAE"
+			tasks: [{
+				id: "3ACEE6A017C2C47A"
+				item: "chemlib:aluminum_dust"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -1.5d
+		}
+		{
+			id: "23951119E78CB2DC"
+			tasks: [{
+				id: "18F47D2CB67A7FF9"
+				item: "chemlib:magnesium_dust"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -0.5d
+		}
+		{
+			id: "432285402D945DDA"
+			tasks: [{
+				id: "09785012FE337C8D"
+				item: "chemlib:sodium_sulfate"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -1.5d
+		}
+		{
+			id: "14D6DD3DD6194FF4"
+			tasks: [{
+				id: "3C4BA43C954B8AC0"
+				item: "minecraft:water_bucket"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -6.5d
+		}
+		{
+			id: "27CD62EF76BBF0DF"
+			tasks: [{
+				id: "11D6E77BA20EC749"
+				item: "chemlib:ethylene"
+				type: "item"
+			}]
+			x: -11.5d
+			y: -2.5d
+		}
+		{
+			id: "378910DC690A49DF"
+			tasks: [{
+				id: "0722FB3900EAE503"
+				item: "chemlib:sodium_hydroxide"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -0.5d
+		}
+		{
+			id: "33DDCC0850BC0E85"
+			tasks: [{
+				id: "2CC0DEAE6BAD0A51"
+				item: "chemlib:molybdenum_dust"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 0.5d
+		}
+		{
+			id: "782D8A3FC36D9F1C"
+			tasks: [{
+				id: "139FCC562124880D"
+				item: "chemlib:vanadium_dust"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 1.5d
+		}
+		{
+			id: "0B05F9BABCF9236B"
+			tasks: [{
+				id: "54D79D3E5A4040C0"
+				item: "immersiveengineering:phenolic_resin_bucket"
+				type: "item"
+			}]
+			x: -13.5d
+			y: -3.5d
+		}
+	]
+	subtitle: ["Oh god what is this"]
+	title: " &fChemical Hell - [&bOPA 1214&r]"
+}
