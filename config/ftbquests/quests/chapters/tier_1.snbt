@@ -1426,6 +1426,7 @@
 				"256F108BD683D592"
 				"66DDC75CB8C3D557"
 			]
+			dependency_requirement: "one_completed"
 			description: ["Time to store up that juicy power to better handle spikes in demand"]
 			id: "00252987E3B16C8F"
 			rewards: [{

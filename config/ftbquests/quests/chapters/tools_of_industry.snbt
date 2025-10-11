@@ -206,6 +206,11 @@
 			y: -2.5d
 		}
 		{
+			description: [
+				"The &6Engineer's Manual&r contains information on multiblock formation and mechanics related to both &aImmersive Engineering (IE)&r and &bImmersive Petroleum (IP)&r"
+				""
+				"It is worth noting that since Compression modifies recipes and progression paths quite a bit the &cinformation in the book may not be entirely accurate&r. If issues do crop up address it to the &d&nCompression team&r and &4not&r the IE/IP team as it is unlikely to be on their end"
+			]
 			id: "110B66C3FF649B2A"
 			rewards: [{
 				id: "77442CF832F4BF09"
@@ -217,6 +222,7 @@
 				item: "immersiveengineering:manual"
 				type: "item"
 			}]
+			title: "RTFM!"
 			x: 1.0d
 			y: -0.5d
 		}
@@ -288,6 +294,13 @@
 			y: 0.5d
 		}
 		{
+			description: [
+				"The &6Insanity Pill&r is from a custom mod made for Compression called &dPhantoms \\& Nightmares&r"
+				""
+				"Phantoms are &anot actually disabled&r. You can choose to start them spawning by taking &cd&6r&eu&ag&bs"
+				""
+				"Don't ask how this works"
+			]
 			id: "4252BCA134E2B9CD"
 			rewards: [{
 				id: "394CA2ED2AFE4658"
@@ -299,6 +312,7 @@
 				item: "phantomsandnightmares:insanity_pill"
 				type: "item"
 			}]
+			title: "Go Crazy Brwaahhh"
 			x: 2.5d
 			y: -0.5d
 		}
@@ -460,6 +474,12 @@
 			y: -1.5d
 		}
 		{
+			dependencies: ["4CBFDFBD1A71E6B4"]
+			description: [
+				"The &bEngineer's Hammer&r is your &a\"wrench\"&r for Immersive Engineering \\& Immersive Petroleum"
+				""
+				"The wrench has a &6ponder&r :) Enjoy!"
+			]
 			id: "04B6D86B67F5DEBB"
 			rewards: [{
 				id: "1EF77FF368AC5A08"
@@ -477,11 +497,25 @@
 				}
 				type: "item"
 			}]
+			title: "Overkill Egg Cracker"
 			x: 1.0d
 			y: -1.5d
 		}
 		{
 			dependencies: ["4B89973C8D23D164"]
+			description: [
+				"It's a bucket, but &abig&r"
+				""
+				"Capacity of &c3&62 &eb&au&bc&9k&de&ct&6s"
+				""
+				"The tank has &62 modes&r, one for &abehaving as a bucket&r, and one for &bbehaving as a placeable tank&r in world"
+				""
+				"&nKeybinds for mode switching can be found under:&r"
+				""
+				"&aMekanism > Item Mode Switch&r"
+				""
+				"Might have an... interesting interaction with Botania's &bPetal Apothecary&r"
+			]
 			id: "1A196A00B2031141"
 			rewards: [{
 				id: "5C3C4477E3CCE007"
@@ -502,6 +536,11 @@
 				"4ABA1A64E5BE1E94"
 				"1A196A00B2031141"
 			]
+			description: [
+				"It's a bucket, but &aeven bigger&r"
+				""
+				"Capacity of &c6&64 &eb&au&bc&9k&de&ct&6s"
+			]
 			id: "0965C7866CDFEAB1"
 			rewards: [{
 				id: "0540845A5DC10E06"
@@ -518,6 +557,16 @@
 			y: -1.5d
 		}
 		{
+			dependencies: ["46FF0B8D87309F93"]
+			description: [
+				"A very handy multi-use wrench from Ae2"
+				""
+				"It can &ainstantly break Ae2 blocks&r on a shift-right click, much like the create wrench"
+				""
+				"In addition to basic wrench-tech it sports a &b9 slot internal inventory&r to carry any &dAe2 cards of your choice&r, allowing for less inventory hell when working on your system "
+				""
+				"This wrench can also see the &6energy consumption&r of your network and &6blocks present&r, when right-clicked on any part of your network"
+			]
 			id: "4CB1DD26B38D5409"
 			rewards: [{
 				id: "5A25827619C40934"
@@ -529,10 +578,17 @@
 				item: "ae2:network_tool"
 				type: "item"
 			}]
+			title: "A Fancy Wrench"
 			x: -0.5d
 			y: -0.5d
 		}
 		{
+			dependencies: ["46FF0B8D87309F93"]
+			description: [
+				"The &bmemory card&r is able to copy paste settings for &abuses and interfaces&r"
+				""
+				"Their real power comes from linking together &dp2p tunnels&r, allowing for long distance tunneling of channels"
+			]
 			id: "3D98C3DA7C9397AA"
 			rewards: [{
 				id: "6BF54E50706450B8"
@@ -548,10 +604,26 @@
 				}
 				type: "item"
 			}]
+			title: "I Rember"
 			x: -0.5d
 			y: -1.5d
 		}
 		{
+			dependencies: [
+				"46FF0B8D87309F93"
+				"00252987E3B16C8F"
+			]
+			description: [
+				"When the &6Color Applicator&r is slotted into a &aME Chest&r it can act as the storage disk with 1 major difference"
+				""
+				"It can only store &bcolored matter balls&r"
+				""
+				"Once colored matter balls are loaded in, the applicator can be removed, and shift-scroll wheeled to &6swap the colors displayed &r"
+				""
+				"You can then right-click the applicator on blocks that normally have dyed variants and well, &edye them&r"
+				""
+				"Ideal use-case would be to &dcolor code&r your ae2 system without stripping out the wires"
+			]
 			id: "0EE2E7E8CBB6B1BA"
 			rewards: [{
 				id: "513F5C92E87E3792"
@@ -567,10 +639,26 @@
 				}
 				type: "item"
 			}]
+			title: "Splatoon Brush"
 			x: -0.5d
 			y: -2.5d
 		}
 		{
+			dependencies: [
+				"46FF0B8D87309F93"
+				"4ABA1A64E5BE1E94"
+			]
+			description: [
+				"The &dEntropy Manipulator&r is a bit of an odd-ball in the Ae2 tool kit"
+				""
+				"This device is able to manipulate the subatomic structure of select objects to sort of &6forcefully age them&r"
+				""
+				"This process is very crude and is not suitable for anything complex. &cWater simply boils&r and I can't imagine what it'll do to something organic"
+				""
+				"For now it seems like a great way to &arapidly age copper&r but I'm sure it can do more at some point"
+				""
+				"&bDeployers&r are able to use the entropy manipulator but be aware the tool still needs to be &erecharged&r after some use"
+			]
 			id: "6003B9F9A146B2E1"
 			rewards: [{
 				id: "7AA7CFCD22C4E868"
@@ -582,10 +670,24 @@
 				item: "ae2:entropy_manipulator"
 				type: "item"
 			}]
+			title: "I CAST BECOME OLD"
 			x: -0.5d
 			y: -3.5d
 		}
 		{
+			dependencies: [
+				"46FF0B8D87309F93"
+				"00252987E3B16C8F"
+			]
+			description: [
+				"Pretty much what it says on the tin, the &dMatter Cannon&r, go pew pew"
+				""
+				"To load it simply place it in the &adisk slot&r of an &bME Chest&r, similarily to the Color Applicator"
+				""
+				"The \"ammo\" can be either uncolored &amatter balls or metal nuggets&r. &6Lead nuggets&r doing the most damage"
+				""
+				"The cannon is able to break various blocks, making it the &cmost expensive way to crack a boulder ever &r"
+			]
 			id: "32143CB000A0B687"
 			rewards: [{
 				id: "4FBA3934C7AA1CFE"
@@ -601,14 +703,22 @@
 				}
 				type: "item"
 			}]
+			title: "This.. is just a gun?"
 			x: -0.5d
 			y: -4.5d
 		}
 		{
+			description: [
+				"The &aWand of the Forest&r is your \"wrench\" for &6Botania&r. It can interact with various botania blocks, flowers, and trinkets. The details of this are outlined in the Lexica"
+				""
+				"Most importantly for &bTier 0&r it can be used to break &dcorporea sparks&r and rotate some blocks"
+				""
+				"It is worth noting that &aDispensers&r are able to use the wand"
+			]
 			id: "13496F0256112C9B"
 			rewards: [{
-				id: "34A6975C196EC7BA"
-				item: "nyagibits_bytes:tier_one_strawberry"
+				id: "338375A060D71C1F"
+				item: "nyagibits_bytes:tier_zero_strawberry"
 				type: "item"
 			}]
 			tasks: [{
@@ -624,17 +734,31 @@
 				match_nbt: false
 				type: "item"
 			}]
+			title: "Bipity Bopity B- *achoo*, ugh allergies"
 			x: -3.5d
 			y: -3.5d
 		}
 		{
 			dependencies: ["13496F0256112C9B"]
+			description: [
+				"The &bFloral Obedience Stick&r is a useful tool once mana-generation is online in your base"
+				""
+				"Essentially this stick is able to &dmass select flowers&r, allowing you to bind entire fields to a spreader with ease"
+				""
+				"This functionality also works through &adispensers&r"
+			]
 			id: "368F287E4599A9E4"
+			rewards: [{
+				id: "38AE377159E2D339"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7F9E02254066AFF9"
 				item: "botania:obedience_stick"
 				type: "item"
 			}]
+			title: "Listen Here Children, You Will Help Me Do Crimes"
 			x: -3.5d
 			y: -4.5d
 		}
@@ -722,6 +846,29 @@
 			title: "Salt The Lands"
 			x: -5.0d
 			y: -2.0d
+		}
+		{
+			description: [
+				"For all your &6Ae2 reading needs&r"
+				""
+				"This guide has &ainformation&r on basically every &btrinket and block in the mod&r, but be aware the recipes shown internally are often &cincorrect or broken&r due to Compression giving things custom recipes"
+				""
+				"&7Also I am aware you can craft this in Tier 0, some players might want to read on Certus Growing, enjoy your wrong-tiered berry&r"
+			]
+			id: "353E8A9372BF983C"
+			rewards: [{
+				id: "26BCA7911E2F5A9F"
+				item: "nyagibits_bytes:tier_one_strawberry"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7D7CD4CB5605FCBD"
+				item: "ae2:guide"
+				type: "item"
+			}]
+			title: "PDA at the ready"
+			x: -0.5d
+			y: 0.5d
 		}
 	]
 	subtitle: ["Tools, Trinkets, and Whatchamacallits"]
