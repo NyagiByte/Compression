@@ -734,7 +734,7 @@ hash = "ffac074e14e40f9c6274b854e7022f28d8a36282c41a62c7db73188c85735576"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/6tier_0.snbt"
-hash = "8761c967f89179df6015ddde15d935796dbedadec92354685f1605ad3661d94f"
+hash = "4720606e85448fd972e9f0123d1a7ac029eebaef7f8dc9925a3560b1faa16ace"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/6tier_1.snbt"
@@ -754,7 +754,7 @@ hash = "d41650ac8977588bc65e57517ad314e769931f7b792f39f096f4134cd421d8fc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/proficiency.snbt"
-hash = "edcfff1843de895872b9dd9101cf36ccb10eb47b1bfd5da7ed30258e86c66183"
+hash = "82dc0f1cdf63027396edf2719d6e061a597b8cfbf1b2e949cf8809c95bf440b0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/scale_tree_i.snbt"
@@ -766,7 +766,7 @@ hash = "ff011a85af09e128596ba0582016cc6d3a28ab49babd77a50ffa20a173d1c373"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_1.snbt"
-hash = "86e6883123c641cbbb75afa620140df6d5301bf7b4587a7326627b7dcb2f7148"
+hash = "d86c71441e4ecd92b6d821096e8635c28f7c338e20391e992ff1f527f3f009aa"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tier_10__beyond_the_standard_model.snbt"
@@ -830,7 +830,7 @@ hash = "f0fc66ae72b80c7087fc702dce5af8e6751022d039300d5157f6f3a6bf53cce7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tools_of_industry.snbt"
-hash = "fbd102e27e86e401029d9e861ae12657197cc52df8846e96cf58fb8f6edd3e6f"
+hash = "3e593c1099b3f8ae32a33946299160371deb378ebea001829060e60c9107dc61"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome_to_compression.snbt"
