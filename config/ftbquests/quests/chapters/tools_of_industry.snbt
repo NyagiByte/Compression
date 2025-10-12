@@ -317,6 +317,12 @@
 			y: -0.5d
 		}
 		{
+			dependencies: ["4252BCA134E2B9CD"]
+			description: [
+				"Have enough of Phantoms? The solution is even more &cd&6r&eu&ag&bs"
+				""
+				"The &6Sanity Pill&r turns off phantom spawns"
+			]
 			id: "77E74284B97A98A3"
 			rewards: [{
 				id: "3C88535564D9D6C4"
@@ -328,6 +334,7 @@
 				item: "phantomsandnightmares:sanity_pill"
 				type: "item"
 			}]
+			title: "Take a chill pill"
 			x: 2.5d
 			y: -1.5d
 		}

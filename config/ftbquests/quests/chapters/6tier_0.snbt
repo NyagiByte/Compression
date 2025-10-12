@@ -905,10 +905,26 @@
 		}
 		{
 			dependencies: ["60A789A9FD9C1289"]
+			description: [
+				"With a small create compacting setup pumping out &aandesite&r you can look towards automating your livisite needs"
+				""
+				"Deployers are still a bit out of reach &7(unless you rushed them)&r but &adispensers&r, thanks to &dQuark&r, can place blocks"
+				""
+				"So with a setup where &aandesite&r from your &acompacting basin&r can be belted into some dispensers, &bpulsed with redstone&r to place you now have a way to automatically &6start a pure daisy conversion cycle&r"
+				""
+				"Now to collect the livisite you'll need to know &o&nwhen&r you can break the blocks. &aTwo ways you can do this&r is either some kind of timer via &bcreate's pulse repeater&r, or a direct detection with a &dsmart observer&r filtered to the target conversion block"
+				""
+				"Once you have the &atimer or the direct detection&r, a redstone signal from either can then be wired into your &6chosen collection method&r. This could be some moving create contraption with &adrills&r, or &adrills&r dedicated to each pure daisy tile, or something else, probably with &adrills&r"
+				""
+				"&n&6But notice what we did here&r&r. This &ccomplex task&r was &abroken up into smaller problems&r to solve, all of which you had choices on how to handle. &n&bThis is a very important principle&r&r when it comes to taking on more complicated automation tasks later in the pack."
+				""
+				"Instead of viewing the &centire monolith of the task&r, &n&areally try to break down the steps&r&r, see what the task actually asks of you. You will often find that it is &6easier&r than anticipated"
+			]
 			icon: "nyagibits_bytes:livisite_stone"
 			id: "77853C5852B161C9"
 			tasks: [{
 				id: "0358C989006DAE87"
+				title: "What are you a pesant? Automate this"
 				type: "checkmark"
 			}]
 			title: "Andesite But Botanified"
@@ -947,10 +963,26 @@
 		}
 		{
 			dependencies: ["5F863127930E520A"]
+			description: [
+				"With a small stone smelting setup pumping out &asmooth stone&r you can look towards automating your livingrock needs"
+				""
+				"Deployers are still a bit out of reach &7(unless you rushed them)&r but &adispensers&r, thanks to &dQuark&r, can place blocks"
+				""
+				"So with a setup where &asmooth stone&r from your &abulk blasting&r can be belted into some dispensers, &bpulsed with redstone&r to place you now have a way to automatically &6start a pure daisy conversion cycle&r"
+				""
+				"Now to collect the living rock you'll need to know &o&nwhen&r you can break the blocks. &aTwo ways you can do this&r is either some kind of timer via &bcreate's pulse repeater&r, or a direct detection with a &dsmart observer&r filtered to the target conversion block"
+				""
+				"Once you have the &atimer or the direct detection&r, a redstone signal from either can then be wired into your &6chosen collection method&r. This could be some moving create contraption with &adrills&r, or &adrills&r dedicated to each pure daisy tile, or something else, probably with &adrills&r"
+				""
+				"&n&6But notice what we did here&r&r. This &ccomplex task&r was &abroken up into smaller problems&r to solve, all of which you had choices on how to handle. &n&bThis is a very important principle&r&r when it comes to taking on more complicated automation tasks later in the pack."
+				""
+				"Instead of viewing the &centire monolith of the task&r, &n&areally try to break down the steps&r&r, see what the task actually asks of you. You will often find that it is &6easier&r than anticipated"
+			]
 			icon: "botania:livingrock"
 			id: "679AC30680D0664F"
 			tasks: [{
 				id: "2787B0407B298C66"
+				title: "What are you a pesant? Automate this"
 				type: "checkmark"
 			}]
 			title: "I Don't Like My Rocks Being Alive"
@@ -991,10 +1023,26 @@
 		}
 		{
 			dependencies: ["663739E71D834D27"]
+			description: [
+				"With a tree chopping setup pumping out &alogs&r you can look towards automating your livingwood needs"
+				""
+				"Deployers are still a bit out of reach &7(unless you rushed them)&r but &adispensers&r, thanks to &dQuark&r, can place blocks"
+				""
+				"So with a setup where &alogs&r from your &atree farm&r can be belted into some dispensers, &bpulsed with redstone&r to place you now have a way to automatically &6start a pure daisy conversion cycle&r"
+				""
+				"Now to collect the living wood you'll need to know &o&nwhen&r you can break the blocks. &aTwo ways you can do this&r is either some kind of timer via &bcreate's pulse repeater&r, or a direct detection with a &dsmart observer&r filtered to the target conversion block"
+				""
+				"Once you have the &atimer or the direct detection&r, a redstone signal from either can then be wired into your &6chosen collection method&r. This could be some moving create contraption with &adrills&r, or &adrills&r dedicated to each pure daisy tile, or something else, probably with &adrills&r"
+				""
+				"&n&6But notice what we did here&r&r. This &ccomplex task&r was &abroken up into smaller problems&r to solve, all of which you had choices on how to handle. &n&bThis is a very important principle&r&r when it comes to taking on more complicated automation tasks later in the pack."
+				""
+				"Instead of viewing the &centire monolith of the task&r, &n&areally try to break down the steps&r&r, see what the task actually asks of you. You will often find that it is &6easier&r than anticipated"
+			]
 			icon: "botania:livingwood_log"
 			id: "10A2398723CBC444"
 			tasks: [{
 				id: "08016D774DCA4EF6"
+				title: "What are you a pesant? Automate this"
 				type: "checkmark"
 			}]
 			title: "Isn't... Wood Already Alive?"
@@ -1722,10 +1770,24 @@
 				"1829036099806630"
 				"56BAD950091D55D1"
 			]
+			description: [
+				"Botania's &aCrafty Crate&r is a &6very cheap&r and &6very fast&r autocrafter for any default 3x3 recipes"
+				""
+				"So whats the catch?"
+				""
+				"The crafty crate must take in a recipe &d1 item at a time&r in the &dcorrect sequence&r to fill up its own inventory and only then will the recipe process"
+				""
+				"The resulting item will be &aejected&r from the bottom of the crate either into the world or into a valid inventory"
+				""
+				"This means that if your &credstone messes up&r and items enter out of order the crafty crate will &cchoke&r and nothing will pass through"
+				""
+				"The &aspeed and reliability&r of your crafting setups is &b100% up to you&r, and how tightly you can engineer the sequence of items entering the crate and extraction of said items, &da pure skill check&r"
+			]
 			icon: "botania:crafty_crate"
 			id: "607E9B99520A22A2"
 			tasks: [{
 				id: "0754A61387637A99"
+				title: "This is basically a vanilla crafter, but harder"
 				type: "checkmark"
 			}]
 			title: "Autocrafting, But With A Skill Check"
@@ -1734,10 +1796,22 @@
 		}
 		{
 			dependencies: ["607E9B99520A22A2"]
+			description: [
+				"You may notice some recipes have &eempty slots&r between items like buckets or shears"
+				""
+				"To do crafts like this with the crafty crate you'll need to get your hands on a set of &aCrafting Placeholders&r"
+				""
+				"As the name implies these are items that can be slotted into a crafty crate but &6act as an empty space&r, allowing any following items to slot into their correct spots"
+				""
+				"When the craft completes these placeholders are &aejected from the crate&r along with the completed craft"
+				""
+				"There are also &dCrafting Patterns&r you can craft from placeholders that, when right-clicked onto a crate, outright &bblock a designated set of slots&r from the crate"
+			]
 			icon: "botania:placeholder"
 			id: "6BA3B2FBB446A92C"
 			tasks: [{
 				id: "686CD95637389CBF"
+				title: "mmm vanilla wafers"
 				type: "checkmark"
 			}]
 			title: "These Little Shits"
