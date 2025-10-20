@@ -2677,8 +2677,28 @@
 					type: "item"
 				}
 				{
-					id: "524BD08378D67B8C"
-					item: "chemlib:manganese"
+					id: "075C8779E34589DB"
+					item: "nyagibits_bytes:sample_a_cresol"
+					type: "item"
+				}
+				{
+					id: "0B023E13C0E6777C"
+					item: "nyagibits_bytes:sample_lithium_aluminum_hydride"
+					type: "item"
+				}
+				{
+					id: "53F985F8EACBC54F"
+					item: "nyagibits_bytes:sample_carbon_tetrabromide"
+					type: "item"
+				}
+				{
+					id: "02B6AE670BB95FCF"
+					item: "nyagibits_bytes:sample_triphenylphosphene"
+					type: "item"
+				}
+				{
+					id: "3D4E6C59A4FA317F"
+					item: "nyagibits_bytes:sample_hydroxymethyl_bromide"
 					type: "item"
 				}
 			]
