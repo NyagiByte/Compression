@@ -1497,6 +1497,10 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/samp
 hash = "28864eda8af03c87af35366eff38149bf49fbf8e792a2d8100d6abc7f8fad0d5"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_acidified_agar_solution.json"
+hash = "2c482e3531e8301b7541e68d388f787fcbc9e72fc2c221c8bb25a1a5fff51180"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_alkaline_technical_grade_glycerol.json"
 hash = "728f8fd8f364f774c829020eb162f32c8dbd9146b59e8702edd33fae7d5cf189"
 
@@ -1543,6 +1547,10 @@ hash = "f14a08cb2c2ba41a39bec4b0f192a7fbbb7d21aa4beed7dc2b5a68195c0c1367"
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_contaminated_water.json"
 hash = "36673831ad3cd7b259a551e41ec6a9ceab973c76e2912cc915644d5998d30cdc"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_copper_iodide_solution.json"
+hash = "06511bd951a5316931983e9bc71fdd077cf924bff76947a7a325d866345ce3ec"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_crude_biodiesel.json"
@@ -1599,6 +1607,10 @@ hash = "c3d69708d7d1320f366c067931e24c506f7ef941a222cbe42b0a76a63548e261"
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_ethylene_oxide.json"
 hash = "aedb90fa8a573aa87515499d31e1653c83c344b1bb063024c0f3a4c31d991c71"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_filtered_agar_solution.json"
+hash = "a888e719123a65e44ffed833c7f157b2f861dfc2b4d2c08cc33528d978b8f741"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/atomizer/sample_filtered_water.json"
@@ -1893,6 +1905,10 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/alu
 hash = "4ae01c68013f24b6dd901a4cb3f4bb3746a7b4abed9d19f380fe6e192639b725"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/ascorbic_acid_dust.json"
+hash = "bc796fff3cffc4f5f9ec468cefddaf618fa9a561da8330226c0891acfae1809c"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/cadmium_oxide_dust.json"
 hash = "75ee56d1c2a16d0ce131128520c5e5ed091149b1547d850b7ca61e4d9a6f0490"
 
@@ -1913,6 +1929,10 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/chr
 hash = "279e2e2cd323485a21fccb194fd9e774b01c1e6bde866237bea87822a69ba9ba"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/copper_iodide_dust.json"
+hash = "11886275eb4a730ccf6c67cab34b80d8d46bc5411028e879fccc1a2745ece1b4"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/dry_ice_slab.json"
 hash = "89c92f3531f7b5c89074f976cd7a6e2c63a8860dcb89a6e1ee5b97650b7df671"
 
@@ -1927,6 +1947,14 @@ hash = "f0fbd43f671f9e189e13ab1d1e8009db148c3c05bfd3568d1ae25cc3af0db427"
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/hpa_4_dust.json"
 hash = "a140ac824ee55cee98d8f191551497c90094e43e29488a54fbcc867eabff0901"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/impure_ascorbic_acid_dust.json"
+hash = "e61a3d679404fb784a7a4a3ffceda5b1306d7685237f6c4359cffc2f0c26aa09"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/lead_acetate_dust.json"
+hash = "0ef0f1db17a81cb1a37c694e1dec28dc4e8a83536288c2ffd858c10ff3311ea6"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/compactor/methylmagnesium_chloride_dust.json"
@@ -2097,6 +2125,10 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sam
 hash = "a372938977f0f73a641e19ca90f2193284a0bb398b83581bdf5739fc1d33cfc0"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_ascorbic_acid.json"
+hash = "4fcd10336368aedc68f2c1aba6becb0b6081b550e695f77f12c370d9e6ecc1b3"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_cadmium_oxide.json"
 hash = "198e29163372417ce56bab5bd0b0234ed8809dea99b368f9acf91784db0531cc"
 
@@ -2117,6 +2149,10 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sam
 hash = "3e9c897c96ae01f2d3981cf35f388e2e73206032f516f8a657cb006a3a26ab47"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_copper_iodide.json"
+hash = "fccb85eb81f952e00314d1c3e5fc28bfa1cecbb5166cb211e0e944d81da541ea"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_dry_ice.json"
 hash = "8fae9b71a6b0f8a201809589c7ffd54e3efd153f185d25c51ee0eb5e7a54cb63"
 
@@ -2131,6 +2167,14 @@ hash = "9392ca292cf4f69f1acc0bab8282eeb532539e6173294c4f9d428d52e103e682"
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_hpa_4.json"
 hash = "5198f8764633a173bfaca78b8228b90c4822c8936c90ded0eb30d6d9850a7285"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_impure_ascorbic_acid.json"
+hash = "d2c715f96148572487668fcccd67fe80865a74b0bb3f154d378fabb84234b113"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_lead_acetate.json"
+hash = "062e2276795962f360d4bc92719c79b0866150633ee45999722df3221d343a19"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/dissolver/sample_methylmagnesium_chloride.json"
@@ -2229,6 +2273,10 @@ file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/ace
 hash = "ba3eec7dff33f7cba2a0e0b875ee32852e0b6923959bb0a21691cfb2c565dd11"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/acidified_agar_solution_fluid.json"
+hash = "523c626aaf05d509c649fb7a1e6674d83affd3ac95144ccdf182f1b6e1d87a2c"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/alkaline_technical_grade_glycerol_fluid.json"
 hash = "b627a22096325578657e85383468caf08c3e6451750d431e93532cbc116ce690"
 
@@ -2275,6 +2323,10 @@ hash = "c7a5ff71d75d6809c71acc51236b6d7ee04a78f5b0fa8abf542e1a7141a8ac0b"
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/contaminated_water_fluid.json"
 hash = "cf68968af54397d4f470accd0869c07b8234926e2b47d992f6bc787b4297cb14"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/copper_iodide_solution_fluid.json"
+hash = "e293cc11521a72a8f51a395f0edba2e20e0ffadc16eae65b62c1723290a95f30"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/crude_biodiesel_fluid.json"
@@ -2331,6 +2383,10 @@ hash = "69d1982de0024c5f26e24dadf2fc7f1fcfa0fe198866faed069e21372aff39be"
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/ethylene_oxide_fluid.json"
 hash = "266f3ba18594e21ded85e8d61eca99278843a9d0ccba15a8dea4375049c808c2"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/filtered_agar_solution_fluid.json"
+hash = "bba3c211ee0e08ec7917113af5157b1d1140e2f39506ea2e42bf13f86c6efa63"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/alchemistry/recipes/liquifier/filtered_water_fluid.json"

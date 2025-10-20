@@ -1,0 +1,13 @@
+{
+    "type": "alchemistry:compactor",
+    "group": "alchemistry:compactor",
+    "input": {
+      "count": 16,
+      "ingredient": {
+        "item": "nyagibits_bytes:sample_ascorbic_acid"
+      }
+    },
+    "result": {
+      "item": "nyagibits_bytes:ascorbic_acid_dust"
+    }
+  }
