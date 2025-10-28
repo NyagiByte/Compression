@@ -1,0 +1,14 @@
+{
+    "type": "alchemistry:liquifier",
+    "group": "alchemistry:liquifier",
+    "input": {
+      "count": 8,
+      "ingredient": {
+        "item": "nyagibits_bytes:sample_1_aminomethyl_3_5_cyclohexanedione"
+      }
+    },
+    "result": {
+      "amount": "500",
+      "fluid": "nyagibits_bytes:1_aminomethyl_3_5_cyclohexanedione_fluid"
+    }
+  }
