@@ -16,30 +16,11 @@
 				type: "item"
 			}]
 			title: "Feedstock Checklist"
-			x: 1.5d
-			y: -18.5d
+			x: -16.5d
+			y: -19.0d
 		}
 		{
-			id: "69E1CDFBF6E431F3"
-			tasks: [{
-				id: "288497CD488E08E1"
-				item: "chemlib:zinc_dust"
-				type: "item"
-			}]
-			x: -0.5d
-			y: -17.5d
-		}
-		{
-			id: "7EE29A02ED74D7DA"
-			tasks: [{
-				id: "153FE1D29E1876C6"
-				item: "nyagibits_bytes:sample_mononitrotoluene"
-				type: "item"
-			}]
-			x: -1.5d
-			y: -15.5d
-		}
-		{
+			dependencies: ["2D6CEF818A4E4FDD"]
 			id: "60257444A20B5974"
 			tasks: [{
 				id: "3A1FFCA377ECE9F4"
@@ -47,17 +28,7 @@
 				type: "item"
 			}]
 			x: 8.5d
-			y: 8.0d
-		}
-		{
-			id: "3C2E884C884E49C9"
-			tasks: [{
-				id: "5C71AB4AFDE009D7"
-				item: "chemlib:acetylene"
-				type: "item"
-			}]
-			x: -3.5d
-			y: -16.5d
+			y: 7.0d
 		}
 		{
 			dependencies: [
@@ -74,16 +45,6 @@
 			y: -2.0d
 		}
 		{
-			id: "35DA3B838EAA3871"
-			tasks: [{
-				id: "2D6DD0B4F52EC109"
-				item: "chemlib:oxygen"
-				type: "item"
-			}]
-			x: 0.5d
-			y: -16.5d
-		}
-		{
 			dependencies: ["2D6CEF818A4E4FDD"]
 			id: "57A85CE81348ECF6"
 			tasks: [{
@@ -95,26 +56,6 @@
 			y: 0.0d
 		}
 		{
-			id: "531181CE8A0A2A9D"
-			tasks: [{
-				id: "7AC79692BB56C831"
-				item: "chemlib:palladium_dust"
-				type: "item"
-			}]
-			x: -0.5d
-			y: -15.5d
-		}
-		{
-			id: "0D678F4BBAC3C5FB"
-			tasks: [{
-				id: "3B9BC6A0A14D055D"
-				item: "thermal:resin_bucket"
-				type: "item"
-			}]
-			x: -2.5d
-			y: -16.5d
-		}
-		{
 			id: "670E5CC842776F30"
 			tasks: [{
 				id: "171EF275150F8DBA"
@@ -123,26 +64,6 @@
 			}]
 			x: 12.0d
 			y: -0.5d
-		}
-		{
-			id: "5D01D57C38D68601"
-			tasks: [{
-				id: "058639B183DCDD6E"
-				item: "chemlib:silicon_dioxide"
-				type: "item"
-			}]
-			x: -2.5d
-			y: -15.5d
-		}
-		{
-			id: "549A38C711CBC2E8"
-			tasks: [{
-				id: "42254F6629A93890"
-				item: "chemlib:carbon_dust"
-				type: "item"
-			}]
-			x: -0.5d
-			y: -14.5d
 		}
 		{
 			dependencies: [
@@ -157,7 +78,7 @@
 				type: "item"
 			}]
 			x: -3.5d
-			y: -4.5d
+			y: -3.0d
 		}
 		{
 			id: "766D9EEA47D7BA1E"
@@ -197,8 +118,8 @@
 				item: "chemlib:magnesium_dust"
 				type: "item"
 			}]
-			x: 19.0d
-			y: -2.0d
+			x: 18.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["024310F0813B744F"]
@@ -218,7 +139,7 @@
 				item: "minecraft:water_bucket"
 				type: "item"
 			}]
-			x: 3.5d
+			x: 4.0d
 			y: -4.5d
 		}
 		{
@@ -257,7 +178,7 @@
 				type: "item"
 			}]
 			x: -18.5d
-			y: 1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -341,7 +262,10 @@
 			y: 2.5d
 		}
 		{
-			dependencies: ["082054BC66037676"]
+			dependencies: [
+				"082054BC66037676"
+				"3431B9C98ED240CD"
+			]
 			id: "1431943731A66402"
 			tasks: [{
 				id: "56169D9675BABC9D"
@@ -397,8 +321,8 @@
 				item: "nyagibits_bytes:phosphorus_pentoxide_dust"
 				type: "item"
 			}]
-			x: -16.0d
-			y: 0.5d
+			x: -17.5d
+			y: 1.0d
 		}
 		{
 			dependencies: [
@@ -520,7 +444,7 @@
 				type: "item"
 			}]
 			x: -17.5d
-			y: 0.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["088B17BA7C2B29E1"]
@@ -666,6 +590,7 @@
 			y: 9.0d
 		}
 		{
+			dependencies: ["256F108BD683D592"]
 			id: "4A592D5B083040A8"
 			tasks: [{
 				id: "73FF46717E4AC254"
@@ -752,7 +677,7 @@
 				item: "nyagibits_bytes:activated_carbon"
 				type: "item"
 			}]
-			x: -10.0d
+			x: -9.5d
 			y: -3.5d
 		}
 		{
@@ -839,7 +764,7 @@
 				type: "item"
 			}]
 			x: -8.5d
-			y: -6.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["60EBC5CD0AFD040F"]
@@ -850,8 +775,8 @@
 				item: "nyagibits_bytes:sample_hydrogen_peroxide_032"
 				type: "item"
 			}]
-			x: -7.5d
-			y: -7.0d
+			x: -6.5d
+			y: -5.0d
 		}
 		{
 			id: "5EB38C701C44EA97"
@@ -861,7 +786,7 @@
 				type: "item"
 			}]
 			x: -6.5d
-			y: -6.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["15498CFA1DBFB1C5"]
@@ -886,7 +811,7 @@
 				item: "nyagibits_bytes:sample_impure_acetone"
 				type: "item"
 			}]
-			x: -10.0d
+			x: -9.5d
 			y: -6.5d
 		}
 		{
@@ -1015,7 +940,7 @@
 				item: "nyagibits_bytes:sample_octane"
 				type: "item"
 			}]
-			x: 2.5d
+			x: 3.0d
 			y: -3.0d
 		}
 		{
@@ -1099,7 +1024,7 @@
 				item: "chemlib:sodium_plate"
 				type: "item"
 			}]
-			x: 1.5d
+			x: 2.0d
 			y: -4.5d
 		}
 		{
@@ -1109,7 +1034,7 @@
 				item: "chemlib:acetic_acid"
 				type: "item"
 			}]
-			x: 2.5d
+			x: 3.0d
 			y: -5.5d
 		}
 		{
@@ -1119,8 +1044,8 @@
 				item: "chemlib:sodium_dust"
 				type: "item"
 			}]
-			x: 0.5d
-			y: -6.5d
+			x: 1.0d
+			y: -4.5d
 		}
 		{
 			dependencies: [
@@ -1183,6 +1108,10 @@
 			y: 1.0d
 		}
 		{
+			dependencies: [
+				"75FC3806A737AE3C"
+				"111F4C018C462B63"
+			]
 			id: "256C0E14C4A6DDF8"
 			tasks: [{
 				id: "4CE3D96E8917BFD0"
@@ -1223,6 +1152,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["4296F49981434BC7"]
 			id: "79F95CBE15E32615"
 			tasks: [{
 				id: "44FEB4605F4326F3"
@@ -1233,6 +1163,7 @@
 			y: 5.0d
 		}
 		{
+			dependencies: ["256F108BD683D592"]
 			id: "3799753763A1E346"
 			tasks: [{
 				id: "05BC39874560A067"
@@ -1277,6 +1208,7 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["256F108BD683D592"]
 			id: "22355CEF91DBEF55"
 			tasks: [{
 				id: "5649CB668D9824AC"
@@ -1287,6 +1219,7 @@
 			y: 5.5d
 		}
 		{
+			dependencies: ["60257444A20B5974"]
 			id: "002105AF0E8A5D4D"
 			tasks: [{
 				id: "79BB799A210336DF"
@@ -1442,14 +1375,15 @@
 			y: -3.5d
 		}
 		{
+			dependencies: ["49E8691CE0D96ED2"]
 			id: "6223D95A4C50A36F"
 			tasks: [{
 				id: "49555B95FB5ADD0D"
 				item: "chemlib:iodine"
 				type: "item"
 			}]
-			x: 17.5d
-			y: -2.0d
+			x: 17.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["23951119E78CB2DC"]
@@ -1481,6 +1415,647 @@
 			}]
 			x: 14.5d
 			y: -2.0d
+		}
+		{
+			dependencies: [
+				"1C1519487E559772"
+				"52ECB28F8EA7F3E9"
+				"1B1AE701D245614A"
+			]
+			id: "75FC3806A737AE3C"
+			tasks: [{
+				id: "0E7FB643A72F767C"
+				item: "nyagibits_bytes:sample_1_4_butanediol"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["256F108BD683D592"]
+			id: "111F4C018C462B63"
+			tasks: [{
+				id: "26D86F4EB71D549C"
+				item: "nyagibits_bytes:sample_oleum"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"6144F0873DAF1D9B"
+				"1727FE49208E987F"
+				"08AC6399B4EF87D3"
+			]
+			id: "1C1519487E559772"
+			tasks: [{
+				id: "15E13F90AE8DB30C"
+				item: "nyagibits_bytes:sample_1_4_butynediol"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["256F108BD683D592"]
+			id: "52ECB28F8EA7F3E9"
+			tasks: [{
+				id: "241D0DFA3E96A63B"
+				item: "chemlib:hydrogen"
+				type: "item"
+			}]
+			x: 13.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"256F108BD683D592"
+				"0F68755E583AB5E7"
+			]
+			id: "3431B9C98ED240CD"
+			tasks: [{
+				id: "5B6BD3ADC661E5AC"
+				item: "nyagibits_bytes:on_carbon_palladium"
+				type: "item"
+			}]
+			x: -22.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["256F108BD683D592"]
+			id: "1B1AE701D245614A"
+			tasks: [{
+				id: "688BDF65AC3D5843"
+				item: "nyagibits_bytes:on_carbon_palladium"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"22AB75EDE6A0CD14"
+				"67FA2990211C0C5E"
+			]
+			id: "6144F0873DAF1D9B"
+			tasks: [{
+				id: "6097054B37999622"
+				item: "nyagibits_bytes:copper_bismuth_crystal"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 2.5d
+		}
+		{
+			id: "67FA2990211C0C5E"
+			tasks: [{
+				id: "618D8BF4E3219FAF"
+				item: "chemlib:copper_dust"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["301DE6C093EF12D1"]
+			id: "22AB75EDE6A0CD14"
+			tasks: [{
+				id: "0B30CA686DC9E692"
+				item: "chemlib:bismuth_dust"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"6C25964AD8E2AAA6"
+				"3C1CDFDB5DCB12EA"
+			]
+			dependency_requirement: "one_completed"
+			id: "1727FE49208E987F"
+			tasks: [{
+				id: "7760C6C244D34A9E"
+				item: "nyagibits_bytes:sample_formaldehyde"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["256F108BD683D592"]
+			id: "08AC6399B4EF87D3"
+			tasks: [{
+				id: "103785CB32A9E623"
+				item: "chemlib:acetylene"
+				type: "item"
+			}]
+			x: 15.0d
+			y: -0.5d
+		}
+		{
+			id: "6C25964AD8E2AAA6"
+			tasks: [{
+				id: "01DD3E8A576246C2"
+				item: "nyagibits_bytes:sample_methanol"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7624C1194116980A"]
+			id: "3C1CDFDB5DCB12EA"
+			tasks: [{
+				id: "08DF6D129D38CC19"
+				item: "chemlib:silver_plate"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 2.5d
+		}
+		{
+			id: "7624C1194116980A"
+			tasks: [{
+				id: "7E0C7A8E17F39F0E"
+				item: "chemlib:silver_dust"
+				type: "item"
+			}]
+			x: 18.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5CBB73D24A062A3F"]
+			id: "49E8691CE0D96ED2"
+			tasks: [{
+				id: "36EC375D40E0E0A1"
+				item: "nyagibits_bytes:sample_copper_iodide"
+				type: "item"
+			}]
+			x: 19.0d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"1B8B7FE400B69BA0"
+				"4AE58D6BAE27E8E1"
+				"6166C96A388C8363"
+			]
+			id: "5CBB73D24A062A3F"
+			tasks: [{
+				id: "76E7550A42B381F6"
+				item: "nyagibits_bytes:sample_copper_iodide_solution"
+				type: "item"
+			}]
+			x: 20.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["5D76E7BA61B72DC3"]
+			id: "4AE58D6BAE27E8E1"
+			tasks: [{
+				id: "5CA32A678B83D518"
+				item: "nyagibits_bytes:sample_filtered_agar_solution"
+				type: "item"
+			}]
+			x: 22.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["7C26E7F1828096EB"]
+			id: "6166C96A388C8363"
+			tasks: [{
+				id: "05F570552C18614A"
+				item: "nyagibits_bytes:sample_ascorbic_acid"
+				type: "item"
+			}]
+			x: 22.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["62418EFCDCAD72E4"]
+			id: "1B8B7FE400B69BA0"
+			tasks: [{
+				id: "446BF9B3982CDD41"
+				item: "chemlib:copper_ii_sulfate"
+				type: "item"
+			}]
+			x: 22.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["3C230AFB92673021"]
+			id: "7C26E7F1828096EB"
+			tasks: [{
+				id: "00E9F1AD44814F43"
+				item: "nyagibits_bytes:sample_impure_ascorbic_acid"
+				type: "item"
+			}]
+			x: 23.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"51F9C6CF75376D2F"
+				"3DFD975E77D119EC"
+				"10E4638D29467C86"
+				"4C52668E3DF89739"
+			]
+			id: "3C230AFB92673021"
+			tasks: [{
+				id: "10DCB60C6F8A9B2D"
+				item: "nyagibits_bytes:bucket_of_deleaded_decitrated_chorus_juice"
+				type: "item"
+			}]
+			x: 25.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"2D4B65CFCD003344"
+				"3EE462246181B52C"
+				"600259D17739F10D"
+				"68452E4D03593B1D"
+			]
+			id: "51F9C6CF75376D2F"
+			tasks: [{
+				id: "4EC5232E45C8E18D"
+				item: "nyagibits_bytes:bucket_of_decitrated_chorus_juice"
+				type: "item"
+			}]
+			x: 25.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["65AFE450658D20C6"]
+			id: "2D4B65CFCD003344"
+			tasks: [{
+				id: "52119ED2A358048F"
+				item: "nyagibits_bytes:bucket_of_chorus_juice"
+				type: "item"
+			}]
+			x: 23.5d
+			y: -2.5d
+		}
+		{
+			id: "65AFE450658D20C6"
+			tasks: [{
+				id: "25BA61F034F8AA2B"
+				item: "minecraft:chorus_fruit"
+				type: "item"
+			}]
+			x: 23.5d
+			y: -1.0d
+		}
+		{
+			id: "3DFD975E77D119EC"
+			tasks: [{
+				id: "6760D6717690B77D"
+				item: "chemlib:ethanol"
+				type: "item"
+			}]
+			x: 25.0d
+			y: -5.0d
+		}
+		{
+			id: "10E4638D29467C86"
+			tasks: [{
+				id: "2C97045EF6551005"
+				item: "chemlib:hydrochloric_acid"
+				type: "item"
+			}]
+			x: 26.0d
+			y: -5.0d
+		}
+		{
+			id: "4C52668E3DF89739"
+			tasks: [{
+				id: "6731D884B37EA436"
+				item: "chemlib:acetic_acid"
+				type: "item"
+			}]
+			x: 27.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["4C52668E3DF89739"]
+			id: "3EE462246181B52C"
+			tasks: [{
+				id: "019F618ADE092B9A"
+				item: "nyagibits_bytes:sample_lead_acetate"
+				type: "item"
+			}]
+			x: 27.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3519AB62CD23F6C0"]
+			id: "600259D17739F10D"
+			tasks: [{
+				id: "03F3BA441E9A4CAF"
+				item: "chemlib:lead_carbonate"
+				type: "item"
+			}]
+			x: 25.0d
+			y: -1.0d
+		}
+		{
+			id: "68452E4D03593B1D"
+			tasks: [{
+				id: "41CA8D178306A5DA"
+				item: "chemlib:ammonia"
+				type: "item"
+			}]
+			x: 27.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"13DC12D354BF08A1"
+				"10E4638D29467C86"
+			]
+			id: "5D76E7BA61B72DC3"
+			tasks: [{
+				id: "72359774F43CC624"
+				item: "nyagibits_bytes:sample_acidified_agar_solution"
+				type: "item"
+			}]
+			x: 25.0d
+			y: -6.0d
+		}
+		{
+			id: "13DC12D354BF08A1"
+			tasks: [{
+				id: "5EA7802DFE6711CE"
+				item: "nyagibits_bytes:calcinated_agar"
+				type: "item"
+			}]
+			x: 26.0d
+			y: -7.0d
+		}
+		{
+			dependencies: [
+				"44E9DBA4AE081BAA"
+				"179F4A3271C3C0AF"
+			]
+			id: "59D3640300970F86"
+			size: 2.0d
+			tasks: [{
+				id: "18C3C235A5372072"
+				item: "nyagibits_bytes:sample_1_aminomethyl_3_5_dimethoxybenzene"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -9.5d
+		}
+		{
+			dependencies: [
+				"59D3640300970F86"
+				"11B1B275C2DE68BF"
+				"26CBBEF13E6DA4BC"
+			]
+			id: "16470D3CDD6A645D"
+			size: 2.0d
+			tasks: [{
+				id: "7F6C56BE908B8AAC"
+				item: "nyagibits_bytes:sample_1_aminomethyl_3_5_dimethoxy_2_5_cyclohexadiene"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -12.0d
+		}
+		{
+			dependencies: [
+				"16470D3CDD6A645D"
+				"4770F44B7E30F417"
+			]
+			id: "708D20F8A8A55D65"
+			size: 2.0d
+			tasks: [{
+				id: "21DC76B755CF09B9"
+				item: "nyagibits_bytes:sample_1_aminomethyl_3_5_cyclohexanedione"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -14.5d
+		}
+		{
+			dependencies: [
+				"708D20F8A8A55D65"
+				"149A846ED3EDFC71"
+				"00187CA9CD485AD1"
+				"237E2000BF07B7DA"
+			]
+			id: "551F42AA6E598B01"
+			size: 4.0d
+			tasks: [{
+				id: "2A94ACA4DAD40B06"
+				item: "nyagibits_bytes:sample_opa_1214"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -19.0d
+		}
+		{
+			dependencies: [
+				"76CCDB44D7C90883"
+				"256DEEE36796D3EC"
+				"12D62C9A61A23ECC"
+			]
+			id: "179F4A3271C3C0AF"
+			tasks: [{
+				id: "03B2B126ABCCBD43"
+				item: "nyagibits_bytes:sample_methyl_isobutyl_ketone"
+				type: "item"
+			}]
+			x: 12.5d
+			y: -9.5d
+		}
+		{
+			id: "76CCDB44D7C90883"
+			tasks: [{
+				id: "758FCA65DBF83813"
+				item: "chemlib:hydrogen"
+				type: "item"
+			}]
+			x: 12.5d
+			y: -8.0d
+		}
+		{
+			id: "256DEEE36796D3EC"
+			tasks: [{
+				id: "0769B30F0E5B42C8"
+				item: "nyagibits_bytes:sample_acetone"
+				type: "item"
+			}]
+			x: 14.0d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"709F123AD05B548F"
+				"7CCB689615FFFF65"
+			]
+			id: "12D62C9A61A23ECC"
+			tasks: [{
+				id: "3E03551FF99EAA8E"
+				item: "nyagibits_bytes:palladium_catalyst_doped_exchange_resin"
+				type: "item"
+			}]
+			x: 15.5d
+			y: -9.5d
+		}
+		{
+			id: "709F123AD05B548F"
+			tasks: [{
+				id: "58CE001D6BC03E1B"
+				item: "chemlib:palladium"
+				type: "item"
+			}]
+			x: 15.5d
+			y: -8.0d
+		}
+		{
+			id: "0F68755E583AB5E7"
+			tasks: [{
+				id: "3C6182A0C806F9B1"
+				item: "chemlib:palladium"
+				type: "item"
+			}]
+			x: -23.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["64B7C87F4FB6406C"]
+			id: "7CCB689615FFFF65"
+			tasks: [{
+				id: "0F789B2BDA52D38C"
+				item: "thermal:resin_bucket"
+				type: "item"
+			}]
+			x: 17.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["43BFC03C3BA0A345"]
+			id: "11B1B275C2DE68BF"
+			tasks: [{
+				id: "6F89C89ECAD22D14"
+				item: "nyagibits_bytes:dry_ice_slab"
+				type: "item"
+			}]
+			x: 9.0d
+			y: -12.0d
+		}
+		{
+			dependencies: [
+				"7C1C867567DD3AA8"
+				"4913FCE0D0E52402"
+				"11B1B275C2DE68BF"
+			]
+			id: "26CBBEF13E6DA4BC"
+			tasks: [{
+				id: "4A4AE5B86401B4FB"
+				item: "nyagibits_bytes:sample_lithium_amide"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -13.5d
+		}
+		{
+			id: "7C1C867567DD3AA8"
+			tasks: [{
+				id: "6F1DA0F826516E90"
+				item: "chemlib:lithium_dust"
+				type: "item"
+			}]
+			x: 12.5d
+			y: -13.5d
+		}
+		{
+			id: "4913FCE0D0E52402"
+			tasks: [{
+				id: "08DE4B1E9C79F8DD"
+				item: "chemlib:ammonia"
+				type: "item"
+			}]
+			x: 9.0d
+			y: -15.0d
+		}
+		{
+			id: "43BFC03C3BA0A345"
+			tasks: [{
+				id: "0C004F64C951A4B9"
+				item: "chemlib:carbon_dioxide"
+				type: "item"
+			}]
+			x: 12.5d
+			y: -12.0d
+		}
+		{
+			dependencies: [
+				"10CE7C705650745E"
+				"3E49BC3E328F9568"
+			]
+			id: "4770F44B7E30F417"
+			tasks: [{
+				id: "221E044CD84D659D"
+				item: "nyagibits_bytes:sample_hcl_solution"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -14.5d
+		}
+		{
+			id: "10CE7C705650745E"
+			tasks: [{
+				id: "70A1D0A034A7E3BA"
+				item: "nyagibits_bytes:sample_tetrahydrofuran"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -16.5d
+		}
+		{
+			id: "3E49BC3E328F9568"
+			tasks: [{
+				id: "2DB4686A77172D8A"
+				item: "chemlib:hydrochloric_acid"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -16.5d
+		}
+		{
+			id: "149A846ED3EDFC71"
+			tasks: [{
+				id: "01E051B28DD1D19A"
+				item: "chemlib:zinc_dust"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -19.0d
+		}
+		{
+			id: "00187CA9CD485AD1"
+			tasks: [{
+				id: "648CA603407F0A8F"
+				item: "chemlib:acetic_acid"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -16.5d
+		}
+		{
+			id: "237E2000BF07B7DA"
+			tasks: [{
+				id: "3C3F7C1BB82EB614"
+				item: "nyagibits_bytes:sample_mononitrotoluene"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -19.0d
 		}
 	]
 	subtitle: ["Oh god what is this"]

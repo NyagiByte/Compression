@@ -2701,6 +2701,26 @@
 					item: "nyagibits_bytes:sample_hydroxymethyl_bromide"
 					type: "item"
 				}
+				{
+					id: "2FE31C6CB671ADC6"
+					item: "nyagibits_bytes:sample_1_aminomethyl_3_5_dimethoxybenzene"
+					type: "item"
+				}
+				{
+					id: "452DA51CB37FB781"
+					item: "nyagibits_bytes:sample_1_aminomethyl_3_5_dimethoxy_2_5_cyclohexadiene"
+					type: "item"
+				}
+				{
+					id: "0873AAFF5C42BE7A"
+					item: "nyagibits_bytes:sample_1_aminomethyl_3_5_cyclohexanedione"
+					type: "item"
+				}
+				{
+					id: "74F497CE5DCEFCB0"
+					item: "nyagibits_bytes:sample_opa_1214"
+					type: "item"
+				}
 			]
 			title: "Suspiciously Foreboding"
 			x: 1.0d
