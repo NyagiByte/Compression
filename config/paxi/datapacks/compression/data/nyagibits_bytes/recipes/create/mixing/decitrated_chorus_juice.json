@@ -1,0 +1,24 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "chemlib:lead_carbonate"
+      },
+      {
+        "item": "chemlib:ammonia"
+      },
+      {
+        "item": "nyagibits_bytes:sample_lead_acetate"
+      },
+      {
+        "amount": 5000,
+        "fluid": "nyagibits_bytes:chorus_juice_fluid"
+      }
+    ],
+    "results": [
+      {
+        "amount": 5000,
+        "fluid": "nyagibits_bytes:decitrated_chorus_juice_fluid"
+      }
+    ]
+  }

@@ -1,0 +1,75 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "chemlib:potassium_permanganate"
+      },
+      {
+        "amount": 250,
+        "fluid": "chemlib:hydrochloric_acid_fluid"
+      },
+      {
+        "amount": 125,
+        "fluid": "nyagibits_bytes:hydrogen_peroxide_015_fluid"
+      }
+    ],
+    "results": [
+      {
+        "count": 24,
+        "item": "nyagibits_bytes:ascorbic_acid_dust"
+      },
+      {
+        "count": 4,
+        "item": "farmersdelight:organic_compost"
+      }
+    ]
+  }

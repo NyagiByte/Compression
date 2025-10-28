@@ -1,0 +1,14 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "minecraft:chorus_fruit"
+      }
+    ],
+    "results": [
+      {
+        "amount": 500,
+        "fluid": "nyagibits_bytes:chorus_juice_fluid"
+      }
+    ]
+  }

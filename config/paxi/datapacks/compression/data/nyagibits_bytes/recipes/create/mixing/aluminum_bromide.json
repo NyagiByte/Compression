@@ -1,0 +1,27 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "fluid": "chemlib:bromine_fluid",
+        "amount": 1500
+      },
+      {
+        "item": "chemlib:aluminum_plate"
+      },
+      {
+        "item": "chemlib:aluminum_plate"
+      },
+      {
+        "item": "nyagibits_bytes:slushy_ice"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:aluminum_bromide_dust"
+      },
+      {
+        "fluid": "minecraft:water",
+        "amount": 250
+      }
+    ]
+  }

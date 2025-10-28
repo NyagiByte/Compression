@@ -1,0 +1,29 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "chemlib:ethanol"
+      },
+      {
+        "item": "chemlib:hydrochloric_acid"
+      },
+      {
+        "amount": 250,
+        "fluid": "chemlib:acetic_acid_fluid"
+      },
+      {
+        "amount": 5000,
+        "fluid": "nyagibits_bytes:decitrated_chorus_juice_fluid"
+      }
+    ],
+    "results": [
+      {
+        "amount": 5000,
+        "fluid": "nyagibits_bytes:deleaded_decitrated_chorus_juice_fluid"
+      },
+      {
+        "chance": 0.1,
+        "item": "chemlib:lead_dust"
+      }
+    ]
+  }

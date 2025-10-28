@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:phosphorus_trichloride_dust"
+      },
+      {
+        "fluid": "nyagibits_bytes:phenylmagnesium_bromide_solution_fluid",
+        "amount": 1000
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:triphenylphosphene_dust"
+      },
+      {
+        "amount": 950,
+        "fluid": "nyagibits_bytes:phenylmagnesium_bromide_solution_fluid"
+      }
+    ]
+  }

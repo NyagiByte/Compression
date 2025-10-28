@@ -1,0 +1,13 @@
+{
+    "type": "alchemistry:compactor",
+    "group": "alchemistry:compactor",
+    "input": {
+      "count": 16,
+      "ingredient": {
+        "item": "nyagibits_bytes:sample_carbon_tetrabromide"
+      }
+    },
+    "result": {
+      "item": "nyagibits_bytes:carbon_tetrabromide_dust"
+    }
+  }

@@ -1,0 +1,25 @@
+{
+  "type":"vintageimprovements:pressurizing",
+  "secondaryFluidInput": 1,
+  "ingredients": [
+    {
+      "fluid": "chemlib:hydrochloric_acid_fluid",
+      "amount": 1000
+    },
+    {
+      "fluid": "chemlib:ammonia_fluid",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "fluid": "chemlib:ammonium_fluid",
+      "amount": 1000
+    },
+    {
+      "fluid": "chemlib:chlorine_fluid",
+      "amount": 1000
+    }
+  ],
+  "processingTime": 200
+}

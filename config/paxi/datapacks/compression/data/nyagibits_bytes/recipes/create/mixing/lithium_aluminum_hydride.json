@@ -1,0 +1,24 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "fluid": "nyagibits_bytes:diethyl_ether_fluid",
+        "amount": 100
+      },
+      {
+        "item": "nyagibits_bytes:sodium_aluminum_hydride_dust"
+      },
+      {
+        "item": "chemlib:lithium_chloride_dust"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:lithium_aluminum_hydride_dust"
+      },
+      {
+        "item": "mekanism:salt"
+      }
+    ]
+  }

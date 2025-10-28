@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+    {
+      "fluid": "chemlib:hydrochloric_acid_fluid",
+      "amount": 500
+    },
+      {
+        "item": "chemlib:lithium_carbonate_dust"
+      }
+    ],
+    "results": [
+      {
+        "item": "chemlib:lithium_hydroxide_dust"
+      },
+      {
+        "item": "chemlib:sodium_carbonate_dust"
+      }
+    ]
+  }

@@ -1,0 +1,21 @@
+{
+    "type": "vintageimprovements:pressurizing",
+	  "secondaryFluidInput": 0,
+    "heatRequirement": "heated",
+    "ingredients": [
+	  {
+		"fluid": "chemlib:nitrogen_fluid",
+		"amount": 250
+	  },
+	  {
+		"fluid": "nyagibits_bytes:copper_iodide_solution_fluid",
+		"amount": 1000
+	  }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "nyagibits_bytes:copper_iodide_dust"
+      }
+    ]
+  }

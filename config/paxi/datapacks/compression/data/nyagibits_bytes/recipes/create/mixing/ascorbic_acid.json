@@ -1,0 +1,68 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      },
+      {
+        "amount": 500,
+        "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+        "count": 8,
+        "item": "nyagibits_bytes:ascorbic_acid_dust"
+      },
+      {
+        "count": 1,
+        "item": "farmersdelight:organic_compost"
+      }
+    ]
+  }

@@ -1,0 +1,34 @@
+{
+  "type":"vintageimprovements:pressurizing",
+  "heatRequirement": "heated",
+  "secondaryFluidInput": 0,
+  "ingredients": [
+    {
+      "fluid": "nyagibits_bytes:carbon_tetrachloride_fluid",
+      "amount": 3000
+    },
+    {
+      "item": "nyagibits_bytes:aluminum_bromide_dust"
+    },
+    {
+      "item": "nyagibits_bytes:aluminum_bromide_dust"
+    },
+    {
+      "item": "nyagibits_bytes:aluminum_bromide_dust"
+    },
+    {
+      "item": "nyagibits_bytes:aluminum_bromide_dust"
+    }
+  ],
+  "results": [
+    {
+      "item": "nyagibits_bytes:carbon_tetrabromide_dust",
+      "count": 3
+    },
+    {
+      "item": "nyagibits_bytes:aluminum_trichloride_dust",
+      "count": 4
+    }
+  ],
+  "processingTime": 200
+}

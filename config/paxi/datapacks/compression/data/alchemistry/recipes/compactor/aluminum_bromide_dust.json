@@ -1,0 +1,13 @@
+{
+    "type": "alchemistry:compactor",
+    "group": "alchemistry:compactor",
+    "input": {
+      "count": 16,
+      "ingredient": {
+        "item": "nyagibits_bytes:sample_aluminum_bromide"
+      }
+    },
+    "result": {
+      "item": "nyagibits_bytes:aluminum_bromide_dust"
+    }
+  }

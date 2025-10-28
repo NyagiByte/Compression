@@ -1,0 +1,16 @@
+{
+    "type":"immersiveengineering:refinery",
+    "catalyst":
+        {
+            "item":"chemlib:silver_plate"
+            },
+            "energy":120,
+            "input0":
+                {
+                    "amount":10,"tag":"forge:methanol"
+                    },
+                        "result":
+                            {
+                                "amount":10,"fluid":"nyagibits_bytes:formaldehyde_fluid"
+                                }
+                            }

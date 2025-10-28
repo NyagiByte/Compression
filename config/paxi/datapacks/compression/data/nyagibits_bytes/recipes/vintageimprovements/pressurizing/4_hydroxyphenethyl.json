@@ -1,0 +1,43 @@
+{
+  "type":"vintageimprovements:pressurizing",
+  "heatRequirement": "superheated",
+  "secondaryFluidInput": 0,
+  "ingredients": [
+    {
+      "fluid": "chemlib:nitrogen_fluid",
+      "amount": 500
+    },
+    {
+      "fluid": "nyagibits_bytes:a_cresol_fluid",
+      "amount": 1000
+    },
+    {
+      "fluid": "nyagibits_bytes:dcm_fluid",
+      "amount": 250
+    },
+    {
+      "item": "nyagibits_bytes:sample_carbon_tetrabromide"
+    },
+    {
+      "item": "nyagibits_bytes:sample_triphenylphosphene"
+    }
+  ],
+  "results": [
+    {
+      "item": "nyagibits_bytes:hydroxymethyl_bromide_dust"
+    },
+    {
+      "chance": 0.5,
+      "item": "nyagibits_bytes:sample_triphenylphosphene"
+    },
+    {
+      "chance": 0.5,
+      "item": "nyagibits_bytes:sample_carbon_tetrabromide"
+    },
+    {
+      "fluid": "nyagibits_bytes:dcm_fluid",
+      "amount": 225
+    }
+  ],
+  "processingTime": 200
+}

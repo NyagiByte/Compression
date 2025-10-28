@@ -1,0 +1,20 @@
+{
+  "type":"vintageimprovements:pressurizing",
+  "heatRequirement": "superheated",
+  "secondaryFluidInput": 0,
+  "ingredients": [
+    {
+      "fluid": "chemlib:chlorine_fluid",
+      "amount": 6000
+    },
+    {
+      "item": "nyagibits_bytes:white_phosphorus_dust"
+    }
+  ],
+  "results": [
+    {
+      "item": "nyagibits_bytes:phosphorus_trichloride_dust"
+    }
+  ],
+  "processingTime": 200
+}

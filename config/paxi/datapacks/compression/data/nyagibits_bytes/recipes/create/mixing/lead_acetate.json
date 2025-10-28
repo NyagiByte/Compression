@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "chemlib:lead_dust"
+      },
+      {
+        "amount": 1000,
+        "fluid": "chemlib:acetic_acid_fluid"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:lead_acetate_dust"
+      }
+    ]
+  }

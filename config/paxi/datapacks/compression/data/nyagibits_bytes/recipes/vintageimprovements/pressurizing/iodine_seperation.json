@@ -1,0 +1,36 @@
+{
+    "type": "vintageimprovements:pressurizing",
+	  "secondaryFluidInput": 0,
+    "heatRequirement": "heated",
+    "ingredients": [
+	  {
+		"fluid": "chemlib:nitrogen_fluid",
+		"amount": 250
+	  },
+	  {
+		"fluid": "nyagibits_bytes:oleum_fluid",
+		"amount": 125
+	  },
+	  {
+		"item": "nyagibits_bytes:copper_iodide_dust"
+	  }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "chemlib:iodine"
+      },
+      {
+        "chance": 0.9,
+        "item": "chemlib:copper_ii_sulfate_dust"
+      },
+	  {
+		"fluid": "nyagibits_bytes:contaminated_water_fluid",
+		"amount": 125
+	  },
+	  {
+		"fluid": "chemlib:sulfur_dioxide_fluid",
+		"amount": 50
+	  }
+    ]
+  }

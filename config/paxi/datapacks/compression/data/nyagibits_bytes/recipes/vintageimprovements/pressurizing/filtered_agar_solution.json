@@ -1,0 +1,27 @@
+{
+  "type":"vintageimprovements:pressurizing",
+  "ingredients": [
+    {
+      "fluid": "nyagibits_bytes:acidified_agar_solution_fluid",
+      "amount": 500
+    },
+    {
+      "item": "create:filter"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "nyagibits_bytes:filtered_agar_solution_fluid",
+      "amount": 450
+    },
+    {
+      "item": "nyagibits_bytes:carbon_residue",
+      "count": 4
+    },
+    {
+      "chance": 0.95,
+      "item": "create:filter"
+    }
+  ],
+  "processingTime": 200
+}

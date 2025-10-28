@@ -1,0 +1,28 @@
+{
+  "type":"vintageimprovements:pressurizing",
+  "heatRequirement": "heated",
+  "secondaryFluidInput": 0,
+  "ingredients": [
+    {
+      "fluid": "nyagibits_bytes:bromobenzene_fluid",
+      "amount": 500
+    },
+    {
+      "item": "chemlib:iodine"
+    },
+    {
+      "item": "chemlib:magnesium_plate"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "nyagibits_bytes:phenylmagnesium_bromide_fluid",
+      "amount": 500
+    },
+    {
+      "chance": 0.95,
+      "item": "chemlib:iodine"
+    }
+  ],
+  "processingTime": 200
+}

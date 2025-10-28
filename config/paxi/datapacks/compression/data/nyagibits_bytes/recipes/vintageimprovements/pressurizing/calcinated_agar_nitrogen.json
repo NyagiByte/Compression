@@ -1,0 +1,65 @@
+{
+    "type": "vintageimprovements:pressurizing",
+	  "secondaryFluidInput": 0,
+    "heatRequirement": "heated",
+    "ingredients": [
+	    {
+		  "fluid": "chemlib:nitrogen_fluid",
+		  "amount": 100
+	    },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      }
+    ],
+    "results": [
+      {
+        "count": 8,
+        "item": "nyagibits_bytes:calcinated_agar"
+      }
+    ]
+  }

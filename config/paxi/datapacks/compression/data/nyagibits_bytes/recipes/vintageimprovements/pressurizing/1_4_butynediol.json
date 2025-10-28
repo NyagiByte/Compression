@@ -1,0 +1,29 @@
+{
+  "type":"vintageimprovements:pressurizing",
+  "heatRequirement": "superheated",
+  "secondaryFluidInput": 0,
+  "ingredients": [
+    {
+      "fluid": "chemlib:acetylene_fluid",
+      "amount": 1000
+    },
+    {
+      "fluid": "nyagibits_bytes:formaldehyde_fluid",
+      "amount": 2000
+    },
+    {
+      "item": "nyagibits_bytes:copper_bismuth_crystal"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "nyagibits_bytes:1_4_butynediol_fluid",
+      "amount": 1000
+    },
+    {
+      "item": "nyagibits_bytes:copper_bismuth_crystal",
+      "chance": 0.75
+    }
+  ],
+  "processingTime": 200
+}

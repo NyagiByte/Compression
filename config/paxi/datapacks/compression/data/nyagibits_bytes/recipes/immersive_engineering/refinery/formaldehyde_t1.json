@@ -1,0 +1,16 @@
+{
+    "type":"immersiveengineering:refinery",
+    "catalyst":
+        {
+            "item":"nyagibits_bytes:fasil_multi_material_catalyst"
+            },
+            "energy":120,
+            "input0":
+                {
+                    "amount":175,"tag":"forge:methanol"
+                    },
+                        "result":
+                            {
+                                "amount":175,"fluid":"nyagibits_bytes:formaldehyde_fluid"
+                                }
+                            }

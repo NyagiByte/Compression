@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "chemlib:bismuth_nugget"
+      },
+      {
+        "item": "create:copper_nugget"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "nyagibits_bytes:copper_bismuth_crystal"
+      }
+    ]
+  }

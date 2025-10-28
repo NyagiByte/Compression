@@ -1,0 +1,33 @@
+{
+    "type": "vintageimprovements:vacuumizing",
+    "secondaryFluidOutput": 0,
+    "ingredients": [
+      {
+        "item": "chemlib:lithium"
+      },
+      {
+        "item": "immersiveengineering:wooden_barrel"
+      },
+      {
+        "amount": 1000,
+        "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+        "amount": 25,
+        "fluid": "chemlib:hydrogen_fluid"
+      },
+      {
+        "item": "chemlib:lithium_hydroxide"
+      },
+      {
+        "count": 5,
+        "item": "immersiveengineering:stick_treated"
+      },
+      {
+        "chance": 1,
+        "item": "immersiveengineering:slab_treated_wood_horizontal"
+      }
+    ]
+  }

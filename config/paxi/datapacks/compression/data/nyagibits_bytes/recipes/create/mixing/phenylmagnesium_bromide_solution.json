@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "fluid": "nyagibits_bytes:tetrahydrofuran_fluid",
+        "amount": 1000
+      },
+      {
+        "fluid": "nyagibits_bytes:phenylmagnesium_bromide_fluid",
+        "amount": 1000
+      }
+    ],
+    "results": [
+      {
+        "amount": 1000,
+        "fluid": "nyagibits_bytes:phenylmagnesium_bromide_solution_fluid"
+      }
+    ]
+  }

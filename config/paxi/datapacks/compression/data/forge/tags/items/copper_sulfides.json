@@ -1,0 +1,11 @@
+{
+    "replace": true,
+    "values": [
+        "nyagibits_bytes:raw_chalcopyrite",
+        "nyagibits_bytes:raw_tetrahedrite",
+        "nyagibits_bytes:raw_enargite",
+        "nyagibits_bytes:raw_tennanite",
+        "nyagibits_bytes:raw_polybasite",
+        "nyagibits_bytes:raw_stannite"
+    ]
+  }

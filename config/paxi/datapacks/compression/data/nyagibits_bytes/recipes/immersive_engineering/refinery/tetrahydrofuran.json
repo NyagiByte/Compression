@@ -1,0 +1,14 @@
+{
+    "type":"immersiveengineering:refinery",
+    "energy":240,
+        "input0":{
+            "amount":125,
+            "tag":"forge:oleum"
+            },
+        "input1":{
+            "amount":125,
+            "tag":"forge:1_4_butanediol"
+            },
+                "result":{
+                    "amount":125,"fluid":"nyagibits_bytes:tetrahydrofuran_fluid"
+                    }}

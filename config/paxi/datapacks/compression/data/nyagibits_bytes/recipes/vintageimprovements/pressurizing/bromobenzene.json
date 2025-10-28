@@ -1,0 +1,29 @@
+{
+  "type":"vintageimprovements:pressurizing",
+  "heatRequirement": "heated",
+  "secondaryFluidInput": 0,
+  "ingredients": [
+    {
+      "fluid": "immersivepetroleum:benzene",
+      "amount": 500
+    },
+    {
+      "fluid": "chemlib:bromine_fluid",
+      "amount": 500
+    },
+    {
+      "item": "nyagibits_bytes:sample_aluminum_trichloride"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "nyagibits_bytes:bromobenzene_fluid",
+      "amount": 500
+    },
+    {
+      "chance": 0.95,
+      "item": "nyagibits_bytes:sample_aluminum_trichloride"
+    }
+  ],
+  "processingTime": 200
+}

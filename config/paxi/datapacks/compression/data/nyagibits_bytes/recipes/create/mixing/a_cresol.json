@@ -1,0 +1,27 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "fluid": "nyagibits_bytes:lithium_aluminum_hydride_solution_fluid",
+        "amount": 1000
+      },
+      {
+        "fluid": "nyagibits_bytes:2_5_dimethoxybenzoic_acid_solution_fluid",
+        "amount": 1000
+      }
+    ],
+    "results": [
+      {
+        "amount": 1000,
+        "fluid": "nyagibits_bytes:a_cresol_fluid"
+      },
+      {
+        "amount": 950,
+        "fluid": "nyagibits_bytes:lithium_aluminum_hydride_solution_fluid"
+      },
+      {
+        "amount": 500,
+        "fluid": "nuclearcraft:methanol"
+      }
+    ]
+  }

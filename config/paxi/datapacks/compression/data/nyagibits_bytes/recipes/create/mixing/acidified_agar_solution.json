@@ -1,0 +1,31 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:calcinated_agar"
+      },
+      {
+        "item": "nyagibits_bytes:calcinated_agar"
+      },
+      {
+        "item": "nyagibits_bytes:calcinated_agar"
+      },
+      {
+        "item": "nyagibits_bytes:calcinated_agar"
+      },
+      {
+		"fluid": "minecraft:water",
+		"amount": 500
+      },
+      {
+		"fluid": "chemlib:hydrochloric_acid_fluid",
+		"amount": 100
+      }
+    ],
+    "results": [
+      {
+		"fluid": "nyagibits_bytes:acidified_agar_solution_fluid",
+		"amount": 500
+      }
+    ]
+  }

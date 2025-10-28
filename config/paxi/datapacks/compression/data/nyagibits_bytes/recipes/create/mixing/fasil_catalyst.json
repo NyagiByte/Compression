@@ -1,0 +1,20 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "superheated",
+    "ingredients": [
+      {
+        "item": "chemlib:silver_plate"
+      },
+      {
+        "item": "nyagibits_bytes:sample_sodium_molybdate_dihydrate"
+      },
+      {
+        "item": "nyagibits_bytes:sample_vanadium_pentoxide"
+      }
+    ],
+    "results": [
+      {
+        "item": "nyagibits_bytes:fasil_multi_material_catalyst"
+      }
+    ]
+  }

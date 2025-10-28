@@ -1,0 +1,22 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "amount": 5000,
+        "fluid": "nyagibits_bytes:filtered_agar_solution_fluid"
+      },
+      {
+        "item": "chemlib:copper_ii_sulfate_dust"
+      },
+      {
+        "item": "nyagibits_bytes:sample_ascorbic_acid"
+      }
+    ],
+    "results": [
+      {
+        "amount": 5000,
+        "fluid": "nyagibits_bytes:copper_iodide_solution_fluid"
+      }
+    ]
+  }

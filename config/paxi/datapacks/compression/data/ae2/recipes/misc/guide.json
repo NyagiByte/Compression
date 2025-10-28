@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "A": {"item":"minecraft:book"},
+        "B": {"item":"ae2:fluix_crystal"}
+    },
+    "pattern": [
+      "AB"
+    ],
+    "result": {
+      "item": "ae2:guide"
+    }
+  }

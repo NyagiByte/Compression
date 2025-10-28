@@ -1,0 +1,20 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "amount": 5000,
+        "fluid": "nyagibits_bytes:deleaded_decitrated_chorus_juice_fluid"
+      },
+      {
+        "amount": 500,
+        "fluid": "nyagibits_bytes:acetone_fluid"
+      }
+    ],
+    "results": [
+      {
+        "count": 16,
+        "item": "nyagibits_bytes:impure_ascorbic_acid_dust"
+      }
+    ]
+  }

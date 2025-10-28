@@ -515,7 +515,6 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/strontium_sulfate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/manganese_sulfate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/rubidium_oxide.json"},
-		{"namespace": "alchemistry", "path": "recipes/dissolver/copper_ii_sulfate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/lead_oxide.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/iron_ii_sulfate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/strontium_oxide.json"},
@@ -568,7 +567,6 @@
 		{"namespace": "alchemistry", "path": "recipes/dissolver/barium_carbonate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/barium_hydroxide.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/barium_nitrate.json"},
-		{"namespace": "alchemistry", "path": "recipes/dissolver/lead_carbonate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/lead_nitrate.json"},
 		{"namespace": "alchemistry", "path": "recipes/dissolver/hydroxylapatite.json"},
 

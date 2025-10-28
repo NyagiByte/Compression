@@ -1,0 +1,28 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "chemlib:lithium"
+      },
+      {
+        "item": "immersiveengineering:wooden_barrel"
+      },
+      {
+        "amount": 1000,
+        "fluid": "minecraft:water"
+      }
+    ],
+    "results": [
+      {
+        "item": "chemlib:lithium_hydroxide"
+      },
+      {
+        "count": 5,
+        "item": "immersiveengineering:stick_treated"
+      },
+      {
+        "chance": 1,
+        "item": "immersiveengineering:slab_treated_wood_horizontal"
+      }
+    ]
+  }

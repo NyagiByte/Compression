@@ -1,0 +1,29 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"secondaryFluidInput": 0,
+    "heatRequirement": "superheated",
+	"ingredients": [
+		{
+			"fluid": "chemlib:hydrogen_fluid",
+			"amount": 750
+		},
+		{
+			"fluid": "chemlib:nitrogen_fluid",
+			"amount": 250
+		},
+		{
+			"item": "chemlib:iron_plate"
+		}
+	],
+	"results": [
+		{
+			"amount": 250,
+			"fluid": "chemlib:ammonia_fluid"
+		},
+		{
+            "chance": 0.99,
+			"item": "chemlib:iron_plate"
+		}
+	],
+	"processingTime": 200
+}

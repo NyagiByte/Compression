@@ -1,0 +1,60 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      },
+      {
+        "item": "nyagibits_bytes:agar_powder"
+      }
+    ],
+    "results": [
+      {
+        "count": 4,
+        "item": "nyagibits_bytes:calcinated_agar"
+      }
+    ]
+  }

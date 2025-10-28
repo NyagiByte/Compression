@@ -1,0 +1,27 @@
+{
+  "type":"vintageimprovements:pressurizing",
+  "secondaryFluidInput": 0,
+  "ingredients": [
+    {
+      "fluid": "chemlib:hydrogen_fluid",
+      "amount": 1000
+    },
+    {
+      "fluid": "nyagibits_bytes:1_4_butynediol_fluid",
+      "amount": 1000
+    },
+    {
+      "item": "nyagibits_bytes:on_carbon_palladium"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "nyagibits_bytes:1_4_butanediol_fluid",
+      "amount": 1000
+    },
+    {
+      "item": "nyagibits_bytes:on_carbon_saturated_palladium"
+    }
+  ],
+  "processingTime": 200
+}

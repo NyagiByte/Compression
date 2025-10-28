@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "fluid": "nyagibits_bytes:tetrahydrofuran_fluid",
+        "amount": 1000
+      },
+      {
+        "item": "nyagibits_bytes:lithium_aluminum_hydride_dust"
+      }
+    ],
+    "results": [
+      {
+        "amount": 1000,
+        "fluid": "nyagibits_bytes:lithium_aluminum_hydride_solution_fluid"
+      }
+    ]
+  }
