@@ -1,0 +1,32 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"secondaryFluidInput": 0,
+	"ingredients": [
+		{
+			"fluid": "chemlib:hydrogen_fluid",
+			"amount": 1000
+		},
+		{
+			"fluid": "nyagibits_bytes:acetone_fluid",
+			"amount": 1000
+		},
+		{
+			"item": "nyagibits_bytes:palladium_catalyst_doped_exchange_resin"
+		}
+	],
+	"results": [
+		{
+			"amount": 1000,
+			"fluid": "nyagibits_bytes:methyl_isobutyl_ketone_fluid"
+		},
+		{
+            "chance": 0.75,
+			"item": "nyagibits_bytes:palladium_catalyst_doped_exchange_resin"
+		},
+		{
+            "chance": 0.05,
+			"item": "chemlib:palladium"
+		}
+	],
+	"processingTime": 200
+}

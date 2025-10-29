@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "chemlib:palladium"
+      },
+      {
+		"fluid": "thermal:resin",
+		"amount": 250
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "nyagibits_bytes:palladium_catalyst_doped_exchange_resin"
+      }
+    ]
+  }

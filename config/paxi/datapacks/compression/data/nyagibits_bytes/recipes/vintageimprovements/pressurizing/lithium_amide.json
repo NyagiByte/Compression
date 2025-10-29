@@ -1,0 +1,26 @@
+{
+  "type":"vintageimprovements:pressurizing",
+  "secondaryFluidInput": 0,
+  "ingredients": [
+    {
+      "fluid": "chemlib:ammonia_fluid",
+      "amount": 1000
+    },
+    {
+      "item": "chemlib:lithium_dust"
+    },
+    {
+      "item": "nyagibits_bytes:dry_ice_slab"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "chemlib:carbon_dioxide_fluid",
+      "amount": 4000
+    },
+    {
+      "item": "nyagibits_bytes:lithium_amide_dust"
+    }
+  ],
+  "processingTime": 200
+}

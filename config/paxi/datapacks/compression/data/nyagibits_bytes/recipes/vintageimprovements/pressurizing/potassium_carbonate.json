@@ -1,0 +1,27 @@
+{
+  "type":"vintageimprovements:pressurizing",
+  "heatRequirement": "heated",
+  "secondaryFluidInput": 0,
+  "ingredients": [
+    {
+      "fluid": "chemlib:carbon_dioxide_fluid",
+      "amount": 1000
+    },
+    {
+      "item": "chemlib:potassium_hydroxide_dust"
+    },
+    {
+      "item": "chemlib:potassium_hydroxide_dust"
+    }
+  ],
+  "results": [
+    {
+      "item": "chemlib:potassium_carbonate_dust"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 1000
+    }
+  ],
+  "processingTime": 200
+}

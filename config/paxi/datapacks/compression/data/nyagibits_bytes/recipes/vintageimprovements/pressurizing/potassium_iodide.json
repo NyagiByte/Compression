@@ -1,0 +1,32 @@
+{
+  "type":"vintageimprovements:pressurizing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "chemlib:potassium_hydroxide_dust"
+    },
+    {
+      "item": "chemlib:potassium_hydroxide_dust"
+    },
+    {
+      "item": "chemlib:iodine_dust"
+    },
+    {
+      "item": "chemlib:sodium_hydroxide_dust"
+    },
+    {
+      "item": "chemlib:sodium_hydroxide_dust"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "nuclearcraft:potassium_iodide_dust"
+    },
+    {
+      "count": 2,
+      "item": "chemlib:sodium_dust"
+    }
+  ],
+  "processingTime": 200
+}

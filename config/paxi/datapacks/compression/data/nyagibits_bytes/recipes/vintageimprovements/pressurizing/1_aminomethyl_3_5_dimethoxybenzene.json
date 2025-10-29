@@ -1,0 +1,47 @@
+{
+  "type":"vintageimprovements:pressurizing",
+  "heatRequirement": "heated",
+  "secondaryFluidInput": 0,
+  "ingredients": [
+    {
+      "fluid": "chemlib:nitrogen_fluid",
+      "amount": 500
+    },
+    {
+      "fluid": "nyagibits_bytes:methyl_isobutyl_ketone_fluid",
+      "amount": 250
+    },
+    {
+      "item": "nyagibits_bytes:hydroxymethyl_bromide_dust"
+    },
+    {
+      "item": "chemlib:potassium_carbonate_dust"
+    },
+    {
+      "item": "nuclearcraft:potassium_iodide_dust"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "chemlib:nitrogen_fluid",
+      "amount": 450
+    },
+    {
+      "fluid": "nyagibits_bytes:1_aminomethyl_3_5_dimethoxybenzene_fluid",
+      "amount": 1000
+    },
+    {
+      "fluid": "nyagibits_bytes:methyl_isobutyl_ketone_fluid",
+      "amount": 225
+    },
+    {
+      "chance": 0.75,
+      "item": "chemlib:potassium_carbonate_dust"
+    },
+    {
+      "chance": 0.95,
+      "item": "nuclearcraft:potassium_iodide_dust"
+    }
+  ],
+  "processingTime": 200
+}
