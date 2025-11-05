@@ -742,7 +742,7 @@ hash = "5970205172655c92261cc61c721512cd50c4e85129cdad6c3f3572564ce7082c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/chemical_hell__opa_1214.snbt"
-hash = "2c7b508c396b0f8602f06e713a64640afab2a7cff1a1cee13aa0c7c86daf295b"
+hash = "af7b3871c9beb10d361a1b26336393e2edb2f77a50890a98664947c717a2a66d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_line.snbt"
@@ -3647,6 +3647,10 @@ hash = "3486ae574b311c61b054483c7e4df7e1eabb5e047fa533231e990d605cdfe614"
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_distributor.json"
 hash = "83bc92c2d71c45fd6a37862a97b4afb5db4e33e2bcb621ca09f67314f45085de"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/botania/recipes/mana_fluxfield.json"
+hash = "8ad295afe306ccbe0b6e669ce79c276643e6abc7aec01bda7dbe2c92ba4a0a31"
 
 [[files]]
 file = "config/paxi/datapacks/compression/data/botania/recipes/mana_gun.json"
@@ -10297,6 +10301,18 @@ file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mi
 hash = "18aee820843a949b9fae2cc601313f3a084b15b36e9daa6a108aefc0b8a16c64"
 
 [[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/glowstone_alt.json"
+hash = "f8d51e97af9a7901d3bf1f620985eb96da184128da766731c1198337fae14a9e"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/glowstone_alt_t1.json"
+hash = "815c002883978b9d2efe50fe30034311ed9e5348df960e0a89078fedc1263063"
+
+[[files]]
+file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/glowstone_alt_t2.json"
+hash = "c33d7766d9759da25c3c33da0899eb61ec82ef9a56d9e14e6c12410891780817"
+
+[[files]]
 file = "config/paxi/datapacks/compression/data/nyagibits_bytes/recipes/create/mixing/hcl_solution.json"
 hash = "96382953c97f1d9634bdd40ee44a20ecf69cd03fad89d0a3b8b85d8697df5227"
 
@@ -16846,7 +16862,7 @@ hash = "920b7a05eaf4b7b89e841fdca862210cbdb3235e1ca482f3245a66d5f61c4f01"
 
 [[files]]
 file = "config/paxi/datapacks/compression/pack.mcmeta"
-hash = "3e5bc9c82b4203e4a67b28914cad376e5d52f6317eadca09d8e295d8ebf70594"
+hash = "d4f045e5a92555063014c12e2caa048aa0e9635d45b5bdd5188b479b85e044d2"
 
 [[files]]
 file = "config/paxi/datapacks/compstruct/data/compstruct/structures/aluminum_boulder.nbt"
