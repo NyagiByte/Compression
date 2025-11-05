@@ -1360,7 +1360,6 @@
 
 		{"namespace": "botania", "path": "recipes/stonecutting/livingrock_to_polished_livingrock.json"},
 
-		{"namespace": "botania", "path": "recipes/mana_fluxfield.json"},
 		{"namespace": "botania", "path": "recipes/mossy_livingwood_planks_vine.json"},
 		{"namespace": "botania", "path": "recipes/lens_light_alt.json"},
 		{"namespace": "botania", "path": "recipes/floating_exoflame.json"},

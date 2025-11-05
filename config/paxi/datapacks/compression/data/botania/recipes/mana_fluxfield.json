@@ -1,0 +1,20 @@
+{
+    "type": "compressedengineering:assembler_shaped",
+    "key": {
+      "A": {"item":"botania:pump"},
+      "B": {"item":"nyagibits_bytes:mana_bomb_calorimeter"},
+      "C": {"item":"nyagibits_bytes:etched_redstone_plate"},
+      "D": {"item":"botania:polished_livingrock"},
+      "E": {"item":"nyagibits_bytes:high_temperature_heat_exchanger"},
+      "F": {"item":"nyagibits_bytes:manasteel_lattice"}
+    },
+    "pattern": [
+      "ABC",
+      "DEF",
+      "DDF"
+    ],
+    "result": {
+      "count": 1, 
+      "item": "botania:mana_fluxfield"
+  }
+  }
