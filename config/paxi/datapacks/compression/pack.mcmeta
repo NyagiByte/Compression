@@ -66,6 +66,7 @@
 		{"namespace": "thermal", "path": "recipes/storage/potato_block.json"},
 		{"namespace": "thermal", "path": "recipes/storage/sugar_cane_block.json"},
 		{"namespace": "thermal", "path": "recipes/storage/sugar_cane_from_block.json"},
+		{"namespace": "thermal", "path": "recipes/storage/bamboo_block.json"},
 
 		{"namespace": "thermal", "path": "recipes/fire_charge/electrum_ingot_2.json"},
 		{"namespace": "thermal", "path": "recipes/fire_charge/bronze_ingot_4.json"},
