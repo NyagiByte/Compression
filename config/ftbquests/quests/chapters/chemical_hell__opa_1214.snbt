@@ -5,18 +5,33 @@
 	group: "47E20928B684D853"
 	icon: "chemlib:manganese_dust"
 	id: "2E17A5B07EF23284"
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 1.0d
+		hover: [ ]
+		image: "nyagibits_bytes:block/block_of_1080_high_carbon_steel"
+		rotation: 0.0d
+		width: 1.0d
+		x: -16.0d
+		y: 3.5d
+	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["66DDC75CB8C3D557"]
+			icon: "create:clipboard"
 			id: "4D368CEA652E28A0"
+			size: 3.0d
 			tasks: [{
-				id: "49D050E2F4DBA5A1"
-				item: "compactmachines:solid_wall"
-				type: "item"
+				id: "77D8AA7091A53E47"
+				title: "Got that? Ok good"
+				type: "checkmark"
 			}]
-			title: "Feedstock Checklist"
-			x: -16.5d
+			title: "Feedstock Checklist [OPA]"
+			x: -18.5d
 			y: -19.0d
 		}
 		{
@@ -56,6 +71,8 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["3F2FDE2F94CAE04B"]
+			hide_dependency_lines: true
 			id: "670E5CC842776F30"
 			tasks: [{
 				id: "171EF275150F8DBA"
@@ -66,10 +83,7 @@
 			y: -0.5d
 		}
 		{
-			dependencies: [
-				"15498CFA1DBFB1C5"
-				"024310F0813B744F"
-			]
+			dependencies: ["5F16DB813D073A2C"]
 			hide_dependency_lines: true
 			id: "56AD88CC3532004A"
 			tasks: [{
@@ -81,6 +95,8 @@
 			y: -3.0d
 		}
 		{
+			dependencies: ["4F21C6AE3A674446"]
+			hide_dependency_lines: true
 			id: "766D9EEA47D7BA1E"
 			tasks: [{
 				id: "150BE0158C8F12DF"
@@ -102,6 +118,8 @@
 			y: 4.5d
 		}
 		{
+			dependencies: ["5C1F90ED6DEB2E70"]
+			hide_dependency_lines: true
 			id: "2C4393E462CC6EAE"
 			tasks: [{
 				id: "3ACEE6A017C2C47A"
@@ -112,6 +130,8 @@
 			y: 5.0d
 		}
 		{
+			dependencies: ["0ED4802EBDE117E1"]
+			hide_dependency_lines: true
 			id: "23951119E78CB2DC"
 			tasks: [{
 				id: "18F47D2CB67A7FF9"
@@ -133,16 +153,20 @@
 			y: 3.5d
 		}
 		{
+			dependencies: ["2E444527B3A47FED"]
+			hide_dependency_lines: true
 			id: "14D6DD3DD6194FF4"
 			tasks: [{
-				id: "3C4BA43C954B8AC0"
-				item: "minecraft:water_bucket"
+				id: "7D86516407204F36"
+				item: "chemlib:water"
 				type: "item"
 			}]
 			x: 4.0d
 			y: -4.5d
 		}
 		{
+			dependencies: ["7C4EF6FFFFB50A7D"]
+			hide_dependency_lines: true
 			id: "0B05F9BABCF9236B"
 			tasks: [{
 				id: "54D79D3E5A4040C0"
@@ -207,6 +231,7 @@
 				item: "nyagibits_bytes:sample_hydrogen_peroxide_003"
 				type: "item"
 			}]
+			title: "Hydrogen Peroxide Loop [3%]"
 			x: -20.5d
 			y: -1.0d
 		}
@@ -226,7 +251,11 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["4A3FA4BEAD70BD0D"]
+			dependencies: [
+				"4A3FA4BEAD70BD0D"
+				"176E2ADE0499540D"
+				"3B8EFB77D5F4D3B7"
+			]
 			id: "1A447377FDB9C51E"
 			tasks: [{
 				id: "3A3AF71E8A207E97"
@@ -239,7 +268,25 @@
 		{
 			dependencies: [
 				"1A447377FDB9C51E"
-				"176E2ADE0499540D"
+				"6F6A627E3D99D681"
+			]
+			description: [
+				"&nBubbled Pre-Peroxide Input Fluid&r"
+				""
+				"&6Rate:&r &a125mb&r &linput&r &7per&r &b1,125mb&r &loutput&r"
+				""
+				"&6Cost:&r 125mb 1,4-Naptaquinone"
+				"       125mb 1,3-Butadiene"
+				"       &7[0.25 Crafts]&r"
+				""
+				"&c&lPost-Recycle Expected Return:&r&r"
+				"&7From: 3% Distilling"
+				"124mb 9,10-Anthraquinone"
+				""
+				"&a&lPost-Recycle Expected Cost:&r&r"
+				"1mb 1,4-Naptaquinone"
+				"1mb 1,3-Butadiene"
+				"&7[0.008 Crafts]&r"
 			]
 			id: "58B2F0B3359D3D69"
 			tasks: [{
@@ -247,17 +294,50 @@
 				item: "nyagibits_bytes:sample_9_10_anthraquinone"
 				type: "item"
 			}]
+			title: "Bubbled Pre-Peroxide Input #1"
 			x: -20.5d
 			y: 3.5d
 		}
 		{
-			dependencies: ["58B2F0B3359D3D69"]
+			dependencies: [
+				"58B2F0B3359D3D69"
+				"6577547D1FA13E83"
+				"4C2BF5E8DFC0CC13"
+				"1782E216CB5B96CA"
+			]
+			description: [
+				"&nHydrogen Peroxide Loop&r &d[Starting Item]&r&r"
+				""
+				"&6Rate:&r &a10B&r &linput&r &7per&r &b10B&r &loutput&r"
+				"                          &c0.53&r &lbyproduct&r"
+				""
+				"&6Cost:&r ~4,444mb Hydrogen"
+				"       ~4,444mb Oxygen"
+				"       ~1,111mb 9,10-Anthraquinone"
+				"       ~8,000mb Water"
+				"         &7[8.89 Crafts]&r"
+				""
+				"&c&lPost-Recycle Expected Return:&r&r"
+				"&7From: 3% Distilling"
+				"~4,444mb Water"
+				"~1,102mb 9,10-Anthraquinone"
+				""
+				"&a&lPost-Recycle Expected Cost:&r&r"
+				"&7From: 3% Distilling"
+				"&6Cost:&r ~4,444mb Hydrogen"
+				"       ~4,444mb Oxygen"
+				"       ~&o&b9mb&r&r 9,10-Anthraquinone"
+				"       ~&o&b3,556mb&r&r Water"
+				"         &7[8.89 Crafts]&r"
+			]
 			id: "082054BC66037676"
+			subtitle: "You'll Make A LOT Of This"
 			tasks: [{
 				id: "731FA6DCB307C73A"
 				item: "nyagibits_bytes:sample_bubbled_pre_peroxide"
 				type: "item"
 			}]
+			title: "Hydrogen Peroxide Loop [Input]"
 			x: -21.5d
 			y: 2.5d
 		}
@@ -265,17 +345,45 @@
 			dependencies: [
 				"082054BC66037676"
 				"3431B9C98ED240CD"
+				"3B8EFB77D5F4D3B7"
+			]
+			description: [
+				"&nHydrogen Peroxide Loop&r &d[Step 2]&r&r"
+				""
+				"&6Rate:&r &a1,125mb&r &linput&r &7per&r &b500mb&r &loutput&r"
+				"                               &c624mb&r &lbyproduct&r"
+				""
+				"&6Cost:&r 1,125mb Bubbled Pre-Peroxide"
+				"       16 Palladium On-Carbon"
+				"       &7[0.1125 Crafts]&r"
+				""
+				"&6Return:&r 16 Saturated Palladium On-Carbon"
+				""
+				"&c&lPost-Recycle Expected Return:&r&r"
+				""
+				"15.84 Palladium On-Carbon"
+				"0.02 Tiny Sample of Palladium"
+				"0.04 Carbon Residue"
+				""
+				"&a&lPost-Recycle Expected Cost:&r&r"
+				""
+				"&6Cost:&r 1,125mb Bubbled Pre-Peroxide"
+				"       &b&o0.16&r&r Palladium On-Carbon &7[Average]&r"
 			]
 			id: "1431943731A66402"
+			subtitle: "Bubbly Soda"
 			tasks: [{
 				id: "56169D9675BABC9D"
 				item: "nyagibits_bytes:sample_mixed_peroxide_product"
 				type: "item"
 			}]
+			title: "Hydrogen Peroxide Loop [Mixed Product]"
 			x: -21.5d
-			y: 1.0d
+			y: 0.0d
 		}
 		{
+			dependencies: ["014C1066E09F1EFF"]
+			hide_dependency_lines: true
 			id: "1D3BA149A1D5A447"
 			tasks: [
 				{
@@ -315,6 +423,8 @@
 			y: -1.5d
 		}
 		{
+			dependencies: ["6C87AB66D7C3F67D"]
+			hide_dependency_lines: true
 			id: "088B17BA7C2B29E1"
 			tasks: [{
 				id: "4648BC7DD4F9037C"
@@ -354,7 +464,7 @@
 				item: "nyagibits_bytes:sample_hpa_4"
 				type: "item"
 			}]
-			x: -19.5d
+			x: -17.5d
 			y: 4.5d
 		}
 		{
@@ -369,13 +479,15 @@
 			y: 5.5d
 		}
 		{
+			dependencies: ["1807FC445C021C4E"]
+			hide_dependency_lines: true
 			id: "47AF956C47082042"
 			tasks: [{
 				id: "0AEB93A0A4066966"
 				item: "quark:bottled_cloud"
 				type: "item"
 			}]
-			x: -19.5d
+			x: -17.5d
 			y: 5.5d
 		}
 		{
@@ -473,6 +585,8 @@
 			y: 10.0d
 		}
 		{
+			dependencies: ["014C1066E09F1EFF"]
+			hide_dependency_lines: true
 			id: "1F359B036429B780"
 			tasks: [{
 				id: "4D387782F310EE1F"
@@ -480,9 +594,11 @@
 				type: "item"
 			}]
 			x: -16.5d
-			y: 9.0d
+			y: 8.5d
 		}
 		{
+			dependencies: ["3A7DE1A29796DB92"]
+			hide_dependency_lines: true
 			id: "472D374B0DC19904"
 			tasks: [{
 				id: "4032A8F48AF971A3"
@@ -504,6 +620,8 @@
 			y: 11.0d
 		}
 		{
+			dependencies: ["341A500C9C7FDE4E"]
+			hide_dependency_lines: true
 			id: "14B9B7A44DE4EEC8"
 			tasks: [{
 				id: "4B3D51163F99AEA5"
@@ -528,14 +646,16 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["53FDF68F1CD44820"]
+			hide_dependency_lines: true
 			id: "5571F0CE59E6B071"
 			tasks: [{
 				id: "4913F01D49C8B6EA"
 				item: "chemlib:ethylene"
 				type: "item"
 			}]
-			x: -13.5d
-			y: 4.5d
+			x: -13.0d
+			y: 3.5d
 		}
 		{
 			dependencies: [
@@ -566,6 +686,8 @@
 			y: 9.0d
 		}
 		{
+			dependencies: ["01CCCFC92F91B8EB"]
+			hide_dependency_lines: true
 			id: "10F1BD704683FE01"
 			tasks: [{
 				id: "48F3AF2EB38329EF"
@@ -590,7 +712,8 @@
 			y: 9.0d
 		}
 		{
-			dependencies: ["256F108BD683D592"]
+			dependencies: ["3280D1F67E224EF3"]
+			hide_dependency_lines: true
 			id: "4A592D5B083040A8"
 			tasks: [{
 				id: "73FF46717E4AC254"
@@ -601,6 +724,8 @@
 			y: 8.0d
 		}
 		{
+			dependencies: ["4249E33F09508E82"]
+			hide_dependency_lines: true
 			id: "3B6564830EEFC90B"
 			tasks: [{
 				id: "0DA6EF278C2E70E3"
@@ -659,7 +784,8 @@
 			y: -3.5d
 		}
 		{
-			dependencies: ["7457EE5BA59A0BDB"]
+			dependencies: ["25D339F0D53E7510"]
+			hide_dependency_lines: true
 			id: "3B199BD9CC9D3522"
 			tasks: [{
 				id: "18B2048BF2B49585"
@@ -720,6 +846,8 @@
 			y: -2.0d
 		}
 		{
+			dependencies: ["7099D3F6E7274233"]
+			hide_dependency_lines: true
 			id: "210EF192A8D39C28"
 			tasks: [{
 				id: "427DCB83FF86DCC6"
@@ -779,6 +907,8 @@
 			y: -5.0d
 		}
 		{
+			dependencies: ["7C0C1FDE2F3E309F"]
+			hide_dependency_lines: true
 			id: "5EB38C701C44EA97"
 			tasks: [{
 				id: "35A6BDBC4F3C93E6"
@@ -997,6 +1127,8 @@
 			y: -3.0d
 		}
 		{
+			dependencies: ["19E7715359F0C87F"]
+			hide_dependency_lines: true
 			id: "631E1BAEB20852D3"
 			tasks: [{
 				id: "6459943ED902B819"
@@ -1007,6 +1139,8 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["44E28F797AF4ED70"]
+			hide_dependency_lines: true
 			id: "6E9F10EBF88FC6A7"
 			tasks: [{
 				id: "6DC42EB8AC124173"
@@ -1028,6 +1162,8 @@
 			y: -4.5d
 		}
 		{
+			dependencies: ["1D5882BE0065A436"]
+			hide_dependency_lines: true
 			id: "1FB4A30D60351293"
 			tasks: [{
 				id: "52A9CB907EB3ED4F"
@@ -1038,6 +1174,8 @@
 			y: -5.5d
 		}
 		{
+			dependencies: ["34258CC636EA789B"]
+			hide_dependency_lines: true
 			id: "162DF5A075C15A68"
 			tasks: [{
 				id: "0DB57C4E1077FEB1"
@@ -1174,6 +1312,8 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["69D289338FAB9D01"]
+			hide_dependency_lines: true
 			id: "143F94B108B7BDDD"
 			tasks: [{
 				id: "1073E34DA76F5292"
@@ -1198,6 +1338,8 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["48FA253E9D004348"]
+			hide_dependency_lines: true
 			id: "7820BECB388808ED"
 			tasks: [{
 				id: "251D716BCF1046AD"
@@ -1230,14 +1372,18 @@
 			y: 5.5d
 		}
 		{
+			dependencies: [
+				"3E380506EB56DB8D"
+				"7AC1F81DAAC34384"
+			]
 			id: "0EF7B77F11B08893"
 			tasks: [{
 				id: "799423499D57D95D"
 				item: "nyagibits_bytes:sample_dcm"
 				type: "item"
 			}]
-			x: 10.0d
-			y: -3.5d
+			x: 8.5d
+			y: -3.0d
 		}
 		{
 			dependencies: [
@@ -1268,24 +1414,32 @@
 			y: -6.0d
 		}
 		{
+			dependencies: [
+				"2389F613D9C1F631"
+				"4E17D2092DF0057B"
+			]
 			id: "1C3BA38C8C6C02F7"
 			tasks: [{
 				id: "163D66F2721B8D4F"
 				item: "nyagibits_bytes:sample_carbon_tetrachloride"
 				type: "item"
 			}]
-			x: 11.0d
+			x: 12.0d
 			y: -3.5d
 		}
 		{
+			dependencies: [
+				"341D891A4F6F26F2"
+				"7616F10E169DA085"
+			]
 			id: "2D971B9D69733A5D"
 			tasks: [{
 				id: "70E2173BD0FE4CD2"
 				item: "nyagibits_bytes:sample_aluminum_bromide"
 				type: "item"
 			}]
-			x: 12.5d
-			y: -4.5d
+			x: 11.0d
+			y: -3.0d
 		}
 		{
 			dependencies: [
@@ -1302,7 +1456,10 @@
 			y: -6.0d
 		}
 		{
-			dependencies: ["6C87AB66D7C3F67D"]
+			dependencies: [
+				"6C87AB66D7C3F67D"
+				"2389F613D9C1F631"
+			]
 			id: "19266028D34E11D0"
 			tasks: [{
 				id: "70C9CB84DF02E450"
@@ -1313,6 +1470,8 @@
 			y: -5.0d
 		}
 		{
+			dependencies: ["256C0E14C4A6DDF8"]
+			hide_dependency_lines: true
 			id: "238B0047664BA777"
 			tasks: [{
 				id: "7B5CA75F580D4C09"
@@ -1338,7 +1497,11 @@
 			y: -5.0d
 		}
 		{
-			dependencies: ["65D66F1CDC5AE6E9"]
+			dependencies: [
+				"65D66F1CDC5AE6E9"
+				"12D2716C2C69C4F3"
+				"074E42E25CBACA77"
+			]
 			id: "6C87AB66D7C3F67D"
 			tasks: [{
 				id: "74BFA9B8D4B5FF81"
@@ -1397,6 +1560,8 @@
 			y: -5.0d
 		}
 		{
+			dependencies: ["554893E7A9E51B9D"]
+			hide_dependency_lines: true
 			id: "5F2946F7195EB29E"
 			tasks: [{
 				id: "68BAFC9C62B8597F"
@@ -1407,6 +1572,8 @@
 			y: -2.0d
 		}
 		{
+			dependencies: ["5F16DB813D073A2C"]
+			hide_dependency_lines: true
 			id: "341588658010E04D"
 			tasks: [{
 				id: "4E391506321C4770"
@@ -1458,7 +1625,8 @@
 			y: 1.0d
 		}
 		{
-			dependencies: ["256F108BD683D592"]
+			dependencies: ["3280D1F67E224EF3"]
+			hide_dependency_lines: true
 			id: "52ECB28F8EA7F3E9"
 			tasks: [{
 				id: "241D0DFA3E96A63B"
@@ -1473,14 +1641,35 @@
 				"256F108BD683D592"
 				"0F68755E583AB5E7"
 			]
+			description: [
+				"&nMixed Peroxide Product Item Input&r"
+				""
+				"&6Rate:&r &a16&r &linput&r &7per&r &b16&r &loutput&r"
+				""
+				"&6Cost:&r 16 Tiny Sample of Palladium"
+				"       16 Activated Charcoal"
+				"       &7[16 Crafts]&r"
+				""
+				"&c&lPost-Recycle Expected Return:&r&r"
+				""
+				"15.84 Palladium On-Carbon"
+				"0.02 Tiny Sample of Palladium"
+				"0.04 Carbon Residue"
+				""
+				"&a&lPost-Recycle Expected Cost:&r&r"
+				"&b&o0.14&r&r Tiny Sample of Palladium &7[Average]&r"
+				"16 Activated Charcoal"
+				"&7[16 Crafts]&r"
+			]
 			id: "3431B9C98ED240CD"
 			tasks: [{
 				id: "5B6BD3ADC661E5AC"
 				item: "nyagibits_bytes:on_carbon_palladium"
 				type: "item"
 			}]
+			title: "Mixed Peroxide Product [Catalyst Input]"
 			x: -22.5d
-			y: 2.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["256F108BD683D592"]
@@ -1508,6 +1697,8 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["398373DF8C210273"]
+			hide_dependency_lines: true
 			id: "67FA2990211C0C5E"
 			tasks: [{
 				id: "618D8BF4E3219FAF"
@@ -1555,6 +1746,8 @@
 			y: -0.5d
 		}
 		{
+			dependencies: ["66291A347D53592E"]
+			hide_dependency_lines: true
 			id: "6C25964AD8E2AAA6"
 			tasks: [{
 				id: "01DD3E8A576246C2"
@@ -1576,6 +1769,8 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["2F9CC2C1AAAA9767"]
+			hide_dependency_lines: true
 			id: "7624C1194116980A"
 			tasks: [{
 				id: "7E0C7A8E17F39F0E"
@@ -1699,6 +1894,8 @@
 			y: -2.5d
 		}
 		{
+			dependencies: ["16D60DEB7F379EFC"]
+			hide_dependency_lines: true
 			id: "65AFE450658D20C6"
 			tasks: [{
 				id: "25BA61F034F8AA2B"
@@ -1719,6 +1916,8 @@
 			y: -5.0d
 		}
 		{
+			dependencies: ["48FA253E9D004348"]
+			hide_dependency_lines: true
 			id: "10E4638D29467C86"
 			tasks: [{
 				id: "2C97045EF6551005"
@@ -1761,6 +1960,8 @@
 			y: -1.0d
 		}
 		{
+			dependencies: ["7C0C1FDE2F3E309F"]
+			hide_dependency_lines: true
 			id: "68452E4D03593B1D"
 			tasks: [{
 				id: "41CA8D178306A5DA"
@@ -1873,6 +2074,8 @@
 			y: -9.5d
 		}
 		{
+			dependencies: ["3280D1F67E224EF3"]
+			hide_dependency_lines: true
 			id: "76CCDB44D7C90883"
 			tasks: [{
 				id: "758FCA65DBF83813"
@@ -1917,14 +2120,16 @@
 			y: -8.0d
 		}
 		{
+			dependencies: ["1F05B0BDFBB71D72"]
+			hide_dependency_lines: true
 			id: "0F68755E583AB5E7"
 			tasks: [{
 				id: "3C6182A0C806F9B1"
 				item: "chemlib:palladium"
 				type: "item"
 			}]
-			x: -23.5d
-			y: 4.0d
+			x: -25.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["64B7C87F4FB6406C"]
@@ -1974,6 +2179,8 @@
 			y: -13.5d
 		}
 		{
+			dependencies: ["7C0C1FDE2F3E309F"]
+			hide_dependency_lines: true
 			id: "4913FCE0D0E52402"
 			tasks: [{
 				id: "08DE4B1E9C79F8DD"
@@ -2008,6 +2215,8 @@
 			y: -14.5d
 		}
 		{
+			dependencies: ["256C0E14C4A6DDF8"]
+			hide_dependency_lines: true
 			id: "10CE7C705650745E"
 			tasks: [{
 				id: "70A1D0A034A7E3BA"
@@ -2018,6 +2227,8 @@
 			y: -16.5d
 		}
 		{
+			dependencies: ["48FA253E9D004348"]
+			hide_dependency_lines: true
 			id: "3E49BC3E328F9568"
 			tasks: [{
 				id: "2DB4686A77172D8A"
@@ -2038,6 +2249,8 @@
 			y: -19.0d
 		}
 		{
+			dependencies: ["1D5882BE0065A436"]
+			hide_dependency_lines: true
 			id: "00187CA9CD485AD1"
 			tasks: [{
 				id: "648CA603407F0A8F"
@@ -2056,6 +2269,859 @@
 			}]
 			x: -1.5d
 			y: -19.0d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			description: [
+				"Hydrogen will be primarily produced as a &e&lbyproduct&r&r from other lines."
+				""
+				"Direct production can be achieved through &aplatinum-catalyzed ammonium splitting&r."
+				""
+				"Hydrogen is used &b&lextensively&r&r so be sure to beef up production and collection management infrastructure."
+			]
+			icon: "chemlib:hydrogen"
+			id: "3280D1F67E224EF3"
+			subtitle: "Like 75% Of The Universe"
+			tasks: [{
+				id: "2AE8F20FB4F09FEC"
+				title: "Check Sample/Fluid Usage!"
+				type: "checkmark"
+			}]
+			title: "Itty Bitty Protons"
+			x: -18.5d
+			y: -21.0d
+		}
+		{
+			dependencies: ["3280D1F67E224EF3"]
+			description: [
+				"&nBubbled Pre-Peroxide Input Fluid&r"
+				""
+				"&6Rate:&r &a500mb&r &linput&r &7per&r &b1,125mb&r &loutput&r"
+			]
+			hide_dependency_lines: true
+			id: "6577547D1FA13E83"
+			tasks: [{
+				id: "1D2FAB11CC8055DB"
+				item: "chemlib:hydrogen"
+				type: "item"
+			}]
+			title: "Bubbled Pre-Peroxide Input #2"
+			x: -21.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["76A9A64007389E22"]
+			description: [
+				"&nBubbled Pre-Peroxide Input Fluid&r"
+				""
+				"&6Rate:&r &a500mb&r &linput&r &7per&r &b1,125mb&r &loutput&r"
+			]
+			hide_dependency_lines: true
+			id: "4C2BF5E8DFC0CC13"
+			tasks: [{
+				id: "2C2119226957C79A"
+				item: "chemlib:oxygen"
+				type: "item"
+			}]
+			title: "Bubbled Pre-Peroxide Input #3"
+			x: -22.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			description: [
+				"Oxygen is &c&lsurprisingly difficult&r&r to isolate without cryogenic-capable infrastructure or refined platinum-group catalysts."
+				""
+				"Initial sourcing will look at removing oxygen from &6&lmetal-oxides&r&r as simple heat will liberate the oxygen."
+				""
+				"Best renewable routs will involve stones generated from the &b&lMarimorphosis&r&r but alternative routs do exist."
+			]
+			icon: "chemlib:oxygen"
+			id: "76A9A64007389E22"
+			subtitle: "Just breath it in lmao?"
+			tasks: [{
+				id: "3A97FBED3F2892BE"
+				title: "Check Sample/Fluid Usage!"
+				type: "checkmark"
+			}]
+			title: "A Breath Of Rock Air"
+			x: -18.865986394557794d
+			y: -21.656802721088432d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			description: [
+				"Chlorine will be &aalmost exclusively&r sourced from regular ol' &6&lsalt&r&r."
+				""
+				"A few select ores such as &bCorderoite, Mimetite, Chlorargyrite, and Pyromorphite&r gain chlorine as a byproduct yield once you unlock &lore-extraction sintering&r."
+			]
+			icon: "chemlib:chlorine"
+			id: "19E7715359F0C87F"
+			subtitle: "An odour of bleach and acid in your lungs"
+			tasks: [
+				{
+					id: "780E435BDED537A8"
+					item: "chemlib:chlorine"
+					type: "item"
+				}
+				{
+					id: "72A97C5D89551AF1"
+					title: "Check Sample/Fluid Usage!"
+					type: "checkmark"
+				}
+			]
+			title: "Yellow Cloud Of Death"
+			x: -17.763945578231265d
+			y: -22.330272108843538d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			description: [
+				"Similarly to oxygen, nitrogen suffers from similar &c&lpurification issues&r&r without cryogenic distillation technology"
+				""
+				"Sourcing initially will be almost exclusively as a &e&lbyproduct&r&r from direct hydrogen production"
+				""
+				"Production of &6Hydrogen Iodide&r is capable of producing a mostly pure stream of nitrogen gas. Albeit a &orather expensive&r way to source nitrogen"
+			]
+			icon: "chemlib:nitrogen"
+			id: "584B4B1DD3664B8A"
+			subtitle: "Almost Plant Food"
+			tasks: [{
+				id: "161A66ADD149658C"
+				title: "Check Sample/Fluid Usage!"
+				type: "checkmark"
+			}]
+			title: "Diatomically Diverse"
+			x: -18.131292517006777d
+			y: -21.656802721088432d
+		}
+		{
+			dependencies: ["4FCDADC12B7AB845"]
+			hide_dependency_lines: true
+			id: "12D2716C2C69C4F3"
+			tasks: [{
+				id: "131FDCE6C4E187F7"
+				item: "chemlib:carbon"
+				type: "item"
+			}]
+			x: 12.540476190476213d
+			y: -2.7619047619047734d
+		}
+		{
+			dependencies: ["19E7715359F0C87F"]
+			hide_dependency_lines: true
+			id: "2389F613D9C1F631"
+			tasks: [{
+				id: "513AE6B0E0265A45"
+				item: "chemlib:chlorine"
+				type: "item"
+			}]
+			x: 12.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["71A3B1831AE227D0"]
+			hide_dependency_lines: true
+			id: "4E17D2092DF0057B"
+			tasks: [{
+				id: "42B3DD921A25FBBA"
+				item: "chemlib:methane"
+				type: "item"
+			}]
+			x: 12.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["19E7715359F0C87F"]
+			hide_dependency_lines: true
+			id: "3E380506EB56DB8D"
+			tasks: [{
+				id: "08D00DAE09929CAC"
+				item: "chemlib:chlorine"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["71A3B1831AE227D0"]
+			hide_dependency_lines: true
+			id: "7AC1F81DAAC34384"
+			tasks: [{
+				id: "59560F0BA552EA57"
+				item: "chemlib:methane"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5F16DB813D073A2C"]
+			hide_dependency_lines: true
+			id: "341D891A4F6F26F2"
+			tasks: [{
+				id: "329C32BCECCE2DA4"
+				item: "chemlib:bromine"
+				type: "item"
+			}]
+			x: 9.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["5C1F90ED6DEB2E70"]
+			hide_dependency_lines: true
+			id: "7616F10E169DA085"
+			tasks: [{
+				id: "17C456C16CB5372A"
+				item: "chemlib:aluminum"
+				type: "item"
+			}]
+			x: 9.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4E2F08F47C6B6B22"]
+			hide_dependency_lines: true
+			id: "074E42E25CBACA77"
+			tasks: [{
+				id: "1E412D78045EEC22"
+				item: "chemlib:silicon_dioxide"
+				type: "item"
+			}]
+			x: 12.58809523809525d
+			y: -4.258333333333361d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			icon: "chemlib:bromine"
+			id: "5F16DB813D073A2C"
+			subtitle: "Now THIS Is Bromine"
+			tasks: [{
+				id: "630568B993E3CE9A"
+				title: "Check Sample/Fluid Usage!"
+				type: "checkmark"
+			}]
+			title: "This Is Bromine, No Wait That Was Soy Sauce"
+			x: -18.865986394557794d
+			y: -23.003741496598643d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "7C0C1FDE2F3E309F"
+			tasks: [{
+				id: "277A7C84D48F9934"
+				item: "chemlib:ammonia"
+				type: "item"
+			}]
+			x: -20.5d
+			y: -19.0d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "71A3B1831AE227D0"
+			tasks: [{
+				id: "55AC829E59567F6A"
+				item: "chemlib:methane"
+				type: "item"
+			}]
+			x: -20.859183673469353d
+			y: -18.341496598639395d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "53FDF68F1CD44820"
+			tasks: [{
+				id: "3A92A4E7CBAE9E7B"
+				item: "chemlib:ethylene"
+				type: "item"
+			}]
+			x: -20.859183673469353d
+			y: -19.688435374149606d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "1F05B0BDFBB71D72"
+			tasks: [
+				{
+					id: "1FF1CBEFBC87DB82"
+					item: "chemlib:palladium"
+					type: "item"
+				}
+				{
+					id: "1204C0E58727F005"
+					title: "Check Sample/Dust Usage!"
+					type: "checkmark"
+				}
+			]
+			x: -18.86496598639453d
+			y: -24.353061224489807d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "4FCDADC12B7AB845"
+			tasks: [
+				{
+					id: "38F1C71BBE396740"
+					item: "chemlib:carbon"
+					type: "item"
+				}
+				{
+					id: "7A2B8BFCC240BEF7"
+					title: "Check Sample/Dust Usage!"
+					type: "checkmark"
+				}
+			]
+			x: -17.396598639455753d
+			y: -23.003741496598643d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "1807FC445C021C4E"
+			tasks: [{
+				id: "26FB6C8E227B7B5A"
+				item: "quark:bottled_cloud"
+				type: "item"
+			}]
+			x: -18.503401360544224d
+			y: -16.454421768707405d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "3F2FDE2F94CAE04B"
+			tasks: [{
+				id: "6F607A185976C25D"
+				item: "minecraft:bone"
+				type: "item"
+			}]
+			x: -18.870748299319693d
+			y: -15.779591836734554d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "16D60DEB7F379EFC"
+			tasks: [{
+				id: "0CE9ABCECDCA89B5"
+				item: "minecraft:chorus_fruit"
+				type: "item"
+			}]
+			x: -18.136054421768677d
+			y: -15.779591836734554d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "4249E33F09508E82"
+			tasks: [
+				{
+					id: "6C465CCFCAA6DE38"
+					item: "chemlib:sulfur"
+					type: "item"
+				}
+				{
+					id: "0CCAC2F011DF86AE"
+					title: "Check Sample/Dust Usage!"
+					type: "checkmark"
+				}
+			]
+			x: -19.233333333333306d
+			y: -22.330272108843538d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "341A500C9C7FDE4E"
+			tasks: [
+				{
+					id: "7CFA8F59080A0890"
+					item: "chemlib:vanadium"
+					type: "item"
+				}
+				{
+					id: "106AD7456614F8E0"
+					title: "Check Sample/Dust Usage!"
+					type: "checkmark"
+				}
+			]
+			x: -19.232312925170035d
+			y: -23.6795918367347d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "01CCCFC92F91B8EB"
+			tasks: [
+				{
+					id: "6F5794A16E2EA655"
+					item: "chemlib:molybdenum"
+					type: "item"
+				}
+				{
+					id: "7965649B14038FDD"
+					title: "Check Sample/Dust Usage!"
+					type: "checkmark"
+				}
+			]
+			x: -18.494217687074794d
+			y: -23.671088435374152d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "7099D3F6E7274233"
+			tasks: [
+				{
+					id: "6D90FCD5BA582F21"
+					item: "chemlib:iodine"
+					type: "item"
+				}
+				{
+					id: "4D50C1713F98C00F"
+					title: "Check Sample/Dust Usage!"
+					type: "checkmark"
+				}
+			]
+			x: -18.130272108843506d
+			y: -24.353061224489807d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "34258CC636EA789B"
+			tasks: [
+				{
+					id: "0AAC6D25EA37849A"
+					item: "chemlib:sodium"
+					type: "item"
+				}
+				{
+					id: "0FB35DA4FCE09CA5"
+					title: "Check Sample/Dust Usage!"
+					type: "checkmark"
+				}
+			]
+			x: -18.498639455782282d
+			y: -22.330272108843538d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "5C1F90ED6DEB2E70"
+			tasks: [
+				{
+					id: "315BAA0A569E93E1"
+					item: "chemlib:aluminum"
+					type: "item"
+				}
+				{
+					id: "7F3B9BBFFBBCBA89"
+					title: "Check Sample/Dust Usage!"
+					type: "checkmark"
+				}
+			]
+			x: -18.131292517006777d
+			y: -23.003741496598643d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "3C3A5EAB13F88E26"
+			tasks: [
+				{
+					id: "0DA87F584F20A98C"
+					item: "chemlib:lithium"
+					type: "item"
+				}
+				{
+					id: "29C21F3BE63E2DE1"
+					title: "Check Sample/Dust Usage!"
+					type: "checkmark"
+				}
+			]
+			x: -19.600680272108818d
+			y: -23.003741496598643d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "2BCD0D591ECA01FC"
+			tasks: [{
+				id: "66F578248B5A86B2"
+				item: "chemlib:carbon_dioxide"
+				type: "item"
+			}]
+			x: -21.593877551020377d
+			y: -19.688435374149606d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "44E28F797AF4ED70"
+			tasks: [{
+				id: "3BEF1766F3F5759E"
+				item: "immersivepetroleum:propylene_bucket"
+				type: "item"
+			}]
+			x: -15.38979591836732d
+			y: -18.341496598639402d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "4F21C6AE3A674446"
+			tasks: [{
+				id: "222DB01714B1969E"
+				item: "immersivepetroleum:benzene_bucket"
+				type: "item"
+			}]
+			x: -15.757142857142831d
+			y: -19.014965986394508d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "2DAF7479B62B6738"
+			tasks: [{
+				id: "017E6B240259759D"
+				item: "thermal:resin_bucket"
+				type: "item"
+			}]
+			x: -14.285714285714256d
+			y: -19.013945578231223d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "11EE7707B5F1E0FC"
+			tasks: [{
+				id: "69D70689C7567176"
+				item: "nyagibits_bytes:agar_powder"
+				type: "item"
+			}]
+			x: -19.238095238095205d
+			y: -15.106122448979448d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "3D07C190B45000D9"
+			tasks: [{
+				id: "7D0BDA990C641142"
+				item: "nyagibits_bytes:chromatography_kit"
+				type: "item"
+			}]
+			x: -17.768707482993165d
+			y: -15.106122448979448d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "7C4EF6FFFFB50A7D"
+			tasks: [{
+				id: "0D31787F6C9E0467"
+				item: "immersiveengineering:phenolic_resin_bucket"
+				type: "item"
+			}]
+			x: -15.38979591836732d
+			y: -19.688435374149606d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "6E7C7528541DF0F4"
+			tasks: [{
+				id: "1F9DF3018B8FB7D6"
+				item: "nyagibits_bytes:electrolytic_core"
+				type: "item"
+			}]
+			x: -18.50340136054419d
+			y: -15.106122448979448d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "127773AB50223C84"
+			tasks: [
+				{
+					id: "65D0AE0357924221"
+					item: "chemlib:zinc"
+					type: "item"
+				}
+				{
+					id: "50396F4F53C559A2"
+					title: "Check Sample/Dust Usage!"
+					type: "checkmark"
+				}
+			]
+			x: -17.769727891156435d
+			y: -25.016326530612247d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "0ED4802EBDE117E1"
+			tasks: [
+				{
+					id: "4B75FA7BE2A553C1"
+					item: "chemlib:magnesium"
+					type: "item"
+				}
+				{
+					id: "36C230745D8BF0BD"
+					title: "Check Sample/Dust Usage!"
+					type: "checkmark"
+				}
+			]
+			x: -17.762925170067994d
+			y: -23.6795918367347d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "21CB1596B2C2EA7F"
+			tasks: [
+				{
+					id: "2F0D0F94EDAB5F86"
+					item: "chemlib:bismuth"
+					type: "item"
+				}
+				{
+					id: "409F1A6D74BB1A4B"
+					title: "Check Sample/Dust Usage!"
+					type: "checkmark"
+				}
+			]
+			x: -19.239115646258476d
+			y: -25.0204081632653d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "398373DF8C210273"
+			tasks: [
+				{
+					id: "4C2426DB4D8CDF36"
+					item: "chemlib:copper"
+					type: "item"
+				}
+				{
+					id: "44F6147D20E42EAA"
+					title: "Check Sample/Dust Usage!"
+					type: "checkmark"
+				}
+			]
+			x: -18.871768707482964d
+			y: -25.698979591836718d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "2F9CC2C1AAAA9767"
+			tasks: [
+				{
+					id: "788D5587EBE92F17"
+					item: "chemlib:silver"
+					type: "item"
+				}
+				{
+					id: "45484C9D256C40BB"
+					title: "Check Sample/Dust Usage!"
+					type: "checkmark"
+				}
+			]
+			x: -18.131972789115622d
+			y: -25.6938775510204d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "69D289338FAB9D01"
+			tasks: [{
+				id: "3471D9524614BFF0"
+				item: "mekanism:brine_bucket"
+				type: "item"
+			}]
+			x: -15.022448979591807d
+			y: -19.014965986394508d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "08A3E58B12C143DF"
+			tasks: [{
+				id: "09207ACC0F73BB6D"
+				item: "chemlib:acetylene"
+				type: "item"
+			}]
+			x: -21.593877551020377d
+			y: -18.341496598639395d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "1D5882BE0065A436"
+			tasks: [{
+				id: "7983F12320BAC89C"
+				item: "chemlib:acetic_acid"
+				type: "item"
+			}]
+			x: -22.704081632653057d
+			y: -20.348639455782347d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "207532D472675972"
+			tasks: [{
+				id: "27204D4AB84B4B5D"
+				item: "nyagibits_bytes:sample_acetone"
+				type: "item"
+			}]
+			x: -21.96122448979589d
+			y: -20.361904761904704d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "48FA253E9D004348"
+			tasks: [{
+				id: "526FD48A7C4EA393"
+				item: "chemlib:hydrochloric_acid"
+				type: "item"
+			}]
+			x: -22.706122448979563d
+			y: -17.673129251700637d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "55CB591F5D2E3B06"
+			tasks: [{
+				id: "5B3E0FEEB4FC7F03"
+				item: "nyagibits_bytes:sample_mononitrotoluene"
+				type: "item"
+			}]
+			x: -21.98843537414963d
+			y: -17.681632653061158d
+		}
+		{
+			dependencies: ["682445B9D5F44914"]
+			id: "6F6A627E3D99D681"
+			tasks: [{
+				id: "2E967AE8E944F788"
+				item: "nyagibits_bytes:sample_1_3_butadiene"
+				type: "item"
+			}]
+			x: -19.5d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"52FD361090267673"
+				"63A0CF601FBD4C51"
+			]
+			id: "682445B9D5F44914"
+			tasks: [{
+				id: "272B31E605AC373E"
+				item: "nyagibits_bytes:sample_steam_cracked_ethylene"
+				type: "item"
+			}]
+			x: -21.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["2E444527B3A47FED"]
+			description: [
+				"&nBubbled Pre-Peroxide Input Fluid&r"
+				""
+				"&6Rate:&r &a900mb&r &linput&r &7per&r &b1,125mb&r &loutput&r"
+			]
+			hide_dependency_lines: true
+			id: "1782E216CB5B96CA"
+			tasks: [{
+				id: "1337E9ED605EEDAE"
+				item: "chemlib:water"
+				type: "item"
+			}]
+			title: "Bubbled Pre-Peroxide Input #4"
+			x: -21.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "2E444527B3A47FED"
+			tasks: [{
+				id: "547C3082A3B6EACE"
+				item: "chemlib:water"
+				type: "item"
+			}]
+			x: -23.438775510204074d
+			y: -20.348639455782347d
+		}
+		{
+			dependencies: ["53FDF68F1CD44820"]
+			hide_dependency_lines: true
+			id: "52FD361090267673"
+			tasks: [{
+				id: "16E4163001FC65C1"
+				item: "chemlib:ethylene"
+				type: "item"
+			}]
+			x: -24.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2E444527B3A47FED"]
+			hide_dependency_lines: true
+			id: "63A0CF601FBD4C51"
+			tasks: [{
+				id: "5B3D4F592B9441DD"
+				item: "chemlib:water"
+				type: "item"
+			}]
+			x: -21.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "014C1066E09F1EFF"
+			tasks: [{
+				id: "30CFE4D66C3A815A"
+				item: "chemlib:sulfuric_acid"
+				type: "item"
+			}]
+			x: -23.45918367346939d
+			y: -17.675170068027242d
+		}
+		{
+			description: ["Not done"]
+			id: "1772EEE06C7909D1"
+			size: 8.0d
+			tasks: [{
+				id: "4B9C992C084374DD"
+				item: "yuushya:warning_sign"
+				type: "item"
+			}]
+			title: "QUESTLINE INCOMPLETE"
+			x: -8.5d
+			y: -19.0d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "3A7DE1A29796DB92"
+			tasks: [{
+				id: "4B5F40C8EED90DA9"
+				item: "chemlib:sodium_hydroxide"
+				type: "item"
+			}]
+			x: -24.677210884353713d
+			y: -18.985034013605436d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "25D339F0D53E7510"
+			tasks: [{
+				id: "1042D24038AF0759"
+				item: "nyagibits_bytes:bucket_of_pyroligneous_acid"
+				type: "item"
+			}]
+			x: -13.556122448979593d
+			y: -19.00000000000002d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "554893E7A9E51B9D"
+			tasks: [{
+				id: "780CD27823A6DC1A"
+				item: "nyagibits_bytes:sample_aluminum_trichloride"
+				type: "item"
+			}]
+			x: -25.40816326530613d
+			y: -18.991496598639486d
+		}
+		{
+			dependencies: ["4D368CEA652E28A0"]
+			id: "4E2F08F47C6B6B22"
+			tasks: [{
+				id: "79DFCD0327D7C58D"
+				item: "chemlib:silicon_dioxide"
+				type: "item"
+			}]
+			x: -23.952380952380935d
+			y: -18.993197278911595d
 		}
 	]
 	subtitle: ["Oh god what is this"]
