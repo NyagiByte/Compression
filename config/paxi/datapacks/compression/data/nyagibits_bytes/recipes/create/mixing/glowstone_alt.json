@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item": "minecraft:glow_ink_sac"
+      },
+      {
+        "amount": 250,
+        "fluid": "chemlib:acetic_acid_fluid"
+      }
+    ],
+    "results": [
+      {
+        "count": 8,
+        "item": "minecraft:glowstone_dust"
+      }
+    ]
+  }
